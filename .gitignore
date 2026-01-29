@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.venv/
+
+# Output files (user-specific)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local Claude settings (contains machine-specific paths)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
