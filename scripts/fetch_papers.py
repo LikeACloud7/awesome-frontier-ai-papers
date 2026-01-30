@@ -6,6 +6,7 @@ HTML UI 생성 및 브라우저 오픈
 이미 본 논문은 중복 제외
 """
 
+import argparse
 import json
 import re
 import sys
@@ -645,6 +646,10 @@ def generate_html(result: dict) -> str:
 
 def main():
     """메인 함수"""
+    parser = argparse.ArgumentParser(description="arXiv 논문 수집")
+    parser.add_argument("--days", type=int, help="수집 기간 (일)")
+    args = parser.parse_args()
+
     config = load_config()
 
     # 이미 본 논문 로드 및 정리
@@ -660,7 +665,7 @@ def main():
 
     # arXiv 논문 수집
     categories = config.get("categories", ["cs.CL", "cs.AI", "cs.LG"])
-    days_back = config.get("days_back", 2)
+    days_back = args.days if args.days else config.get("days_back", 2)
 
     print("arXiv에서 논문 수집 중...", file=sys.stderr)
     papers = fetch_arxiv_papers(categories, days_back)
