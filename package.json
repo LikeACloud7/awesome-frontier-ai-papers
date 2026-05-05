@@ -1,0 +1,43 @@
+{
+  "name": "awesome-frontier-ai-papers",
+  "version": "0.2.0",
+  "description": "Awesome-style GitHub repository and web view for frontier AI lab papers and technical reports",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LikeACloud7/awesome-frontier-ai-papers.git"
+  },
+  "homepage": "https://likeacloud7.github.io/",
+  "keywords": [
+    "awesome-list",
+    "frontier-ai",
+    "ai-research",
+    "ai-papers",
+    "llm-papers",
+    "technical-reports",
+    "model-cards",
+    "system-cards",
+    "openalex",
+    "github-pages"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
+  }
+}
