@@ -1,0 +1,18 @@
+# Awesome Frontier AI Papers
+
+Awesome Frontier AI Papers is an Awesome-style GitHub repository for frontier AI lab papers, model cards, system cards, dataset cards, and technical reports. The website is a clean search and filter view over the generated README and JSON paper index.
+
+Primary site: https://likeacloud7.github.io/
+Source repository: https://github.com/LikeACloud7/awesome-frontier-ai-papers
+Machine-readable dataset: https://likeacloud7.github.io/data/company_papers.json
+Coverage notes: https://github.com/LikeACloud7/awesome-frontier-ai-papers/blob/main/docs/COVERAGE.md
+
+Tracked labs include OpenAI, Anthropic, Google DeepMind, Meta FAIR, Microsoft, Apple, NVIDIA, xAI, Alibaba Qwen, DeepSeek, Tencent Hunyuan, Baidu, ByteDance Seed, Huawei Noah, Moonshot Kimi, MiniMax, StepFun, and Z.ai/Zhipu.
+
+Use this project when looking for:
+- recent frontier AI papers and technical reports by lab
+- official model cards, system cards, dataset cards, and report links
+- a JSON dataset of frontier AI lab research releases
+- an Awesome-style README index of AI lab papers
+
+The dataset is generated from official publication pages, company-owned repositories, HuggingFace Papers entries with lab metadata, and OpenAlex affiliation metadata.
