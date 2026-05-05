@@ -11,7 +11,7 @@
 - Website: https://likeacloud7.github.io/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
 - AI/LLM crawler summary: [`public/llms.txt`](public/llms.txt)
-- Last generated: `2026-05-05T17:49:09+00:00`
+- Last generated: `2026-05-05T19:01:45+00:00`
 - Coverage: `5637` papers across `19` labs since 2024
 
 ## Labs
