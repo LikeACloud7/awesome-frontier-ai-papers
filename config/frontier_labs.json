@@ -1,0 +1,839 @@
+{
+  "company_tracking": {
+    "enabled": true,
+    "openalex": {
+      "enabled": false,
+      "resolve_institutions": true,
+      "max_institutions_per_org": 3,
+      "max_results_per_org": 2000,
+      "min_ai_concept_score": 0.35,
+      "ai_concept_ids": [
+        "https://openalex.org/C154945302",
+        "https://openalex.org/C119857082",
+        "https://openalex.org/C204321447",
+        "https://openalex.org/C31972630",
+        "https://openalex.org/C108583219",
+        "https://openalex.org/C97541855",
+        "https://openalex.org/C28490314",
+        "https://openalex.org/C14999030",
+        "https://openalex.org/C23123220",
+        "https://openalex.org/C34413123",
+        "https://openalex.org/C124101348"
+      ],
+      "mailto": ""
+    },
+    "arxiv_company_search": {
+      "enabled": false,
+      "max_results_per_query": 200,
+      "query_chunk_size": 20,
+      "request_delay_seconds": 3
+    },
+    "huggingface_search": {
+      "enabled": true,
+      "max_results_per_query": 100
+    },
+    "official_reports": {
+      "enabled": true,
+      "max_workers": 2,
+      "max_huggingface_org_repos": 0,
+      "max_github_org_repos": 20,
+      "max_github_org_repos_without_token": 2
+    },
+    "ai_relevance_keywords": [
+      "LLM",
+      "large language model",
+      "language model",
+      "foundation model",
+      "multimodal",
+      "transformer",
+      "generative AI",
+      "diffusion",
+      "agent",
+      "reasoning",
+      "alignment",
+      "retrieval",
+      "computer vision",
+      "speech recognition",
+      "reinforcement learning"
+    ],
+    "frontier_ai_keywords": [
+      "LLM",
+      "LLMs",
+      "large language model",
+      "large language models",
+      "language model",
+      "language models",
+      "foundation model",
+      "foundation models",
+      "frontier model",
+      "frontier models",
+      "model card",
+      "system card",
+      "technical report",
+      "multimodal",
+      "multi-modal",
+      "vision-language",
+      "vision language",
+      "vision-language model",
+      "vision-language models",
+      "vision language model",
+      "vision language models",
+      "VLM",
+      "VLMs",
+      "MLLM",
+      "MLLMs",
+      "generative AI",
+      "AIGC",
+      "text-to-image",
+      "text-to-video",
+      "video generation",
+      "image generation",
+      "3D generation",
+      "text generation",
+      "code generation",
+      "generative modeling",
+      "diffusion language model",
+      "diffusion language models",
+      "diffusion transformer",
+      "diffusion transformers",
+      "multimodal diffusion",
+      "image diffusion",
+      "video diffusion",
+      "agentic",
+      "AI agent",
+      "AI agents",
+      "LLM agent",
+      "LLM agents",
+      "language agent",
+      "language agents",
+      "web agent",
+      "web agents",
+      "GUI agent",
+      "GUI agents",
+      "computer-use agent",
+      "computer-use agents",
+      "computer use agent",
+      "computer use agents",
+      "computer-using agent",
+      "computer-using agents",
+      "tool-calling agent",
+      "tool-calling agents",
+      "software agent",
+      "software agents",
+      "reasoning model",
+      "reasoning models",
+      "LLM reasoning",
+      "language model reasoning",
+      "AI alignment",
+      "LLM alignment",
+      "preference alignment",
+      "RLHF",
+      "reward model",
+      "reward models",
+      "retrieval-augmented",
+      "RAG",
+      "MoE",
+      "mixture-of-experts",
+      "post-training",
+      "pre-training",
+      "pretraining",
+      "fine-tuning",
+      "context length",
+      "sparse attention",
+      "KV cache",
+      "coding model",
+      "coding models",
+      "speech language model",
+      "speech language models",
+      "prompt optimization",
+      "prompting",
+      "GPT",
+      "Claude",
+      "Gemini",
+      "Gemma",
+      "Llama",
+      "Grok",
+      "Sora",
+      "Qwen",
+      "DeepSeek",
+      "Kimi",
+      "Hunyuan",
+      "ERNIE",
+      "GLM",
+      "Yi-Lightning",
+      "MiniMax",
+      "Step-Audio"
+    ],
+    "frontier_ai_weak_keywords": [
+      "agent",
+      "agents",
+      "transformer",
+      "transformers",
+      "diffusion",
+      "reasoning",
+      "alignment",
+      "retrieval",
+      "tokenization",
+      "reinforcement learning"
+    ],
+    "frontier_ai_context_keywords": [
+      "LLM",
+      "LLMs",
+      "large language model",
+      "large language models",
+      "language model",
+      "language models",
+      "foundation model",
+      "foundation models",
+      "multimodal",
+      "multi-modal",
+      "vision-language",
+      "vision language",
+      "VLM",
+      "VLMs",
+      "MLLM",
+      "MLLMs",
+      "generative AI",
+      "AIGC",
+      "prompt",
+      "chatbot",
+      "computer use",
+      "computer-use",
+      "tool-calling",
+      "GPT",
+      "Claude",
+      "Gemini",
+      "Gemma",
+      "Llama",
+      "Grok",
+      "Sora",
+      "Qwen",
+      "DeepSeek",
+      "Kimi",
+      "Hunyuan",
+      "ERNIE",
+      "GLM",
+      "MiniMax",
+      "Step-Audio"
+    ],
+    "excluded_url_patterns": [
+      "zenodo",
+      "github.com"
+    ],
+    "groups": [
+      {
+        "id": "company_us",
+        "name": "🇺🇸 US AI Labs",
+        "region": "US",
+        "organizations": [
+          {
+            "name": "OpenAI",
+            "country_code": "US",
+            "aliases": ["OpenAI"],
+            "openalex_search_terms": ["OpenAI"],
+            "huggingface_search_terms": ["OpenAI", "GPT", "o1", "o3", "Sora"],
+            "arxiv_search_terms": ["OpenAI"],
+            "official_publication_pages": [
+              {
+                "type": "rss",
+                "url": "https://openai.com/news/rss.xml",
+                "include_url_patterns": ["/index/"],
+                "include_categories": ["Publication", "Research", "Safety"],
+                "include_title_keywords": [
+                  "System Card",
+                  "Model Card",
+                  "technical report",
+                  "chain-of-thought",
+                  "consistency models",
+                  "Prover-Verifier",
+                  "frontier risks",
+                  "scientific research tasks",
+                  "biological threat",
+                  "Computer-Using Agent",
+                  "IndQA",
+                  "Sora",
+                  "GPT-Rosalind",
+                  "o1",
+                  "o3",
+                  "o4-mini"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Anthropic",
+            "country_code": "US",
+            "aliases": ["Anthropic"],
+            "openalex_search_terms": ["Anthropic"],
+            "huggingface_search_terms": ["Anthropic", "Claude"],
+            "arxiv_search_terms": ["Anthropic"],
+            "official_publication_pages": [
+              {
+                "type": "anthropic_research_page",
+                "url": "https://www.anthropic.com/research",
+                "include_url_patterns": ["/research/"]
+              },
+              {
+                "type": "anthropic_system_cards_page",
+                "url": "https://www.anthropic.com/system-cards",
+                "include_url_patterns": ["anthropic.com/", "www-cdn.anthropic.com/"]
+              }
+            ]
+          },
+          {
+            "name": "Google/DeepMind",
+            "aliases": ["Google", "Google Research", "Google DeepMind", "DeepMind"],
+            "openalex_search_terms": ["Google", "Google DeepMind", "DeepMind"],
+            "huggingface_search_terms": ["Google DeepMind", "DeepMind", "Gemini", "Gemma"],
+            "arxiv_search_terms": ["Google", "Google Research", "Google DeepMind", "DeepMind"],
+            "official_publication_pages": [
+              {
+                "type": "deepmind_publication_list",
+                "url": "https://deepmind.google/research/publications/"
+              },
+              {
+                "type": "deepmind_model_cards",
+                "url": "https://deepmind.google/models/model-cards/",
+                "work_type": "model_card",
+                "default_abstract": "Official Google DeepMind model card.",
+                "include_url_patterns": [
+                  "deepmind.google/models/model-cards/",
+                  "storage.googleapis.com/deepmind-media/",
+                  "ai.google.dev/gemma/docs/"
+                ]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["google"],
+              "github_orgs": ["google-deepmind"]
+            }
+          },
+          {
+            "name": "Meta/FAIR",
+            "country_code": "US",
+            "aliases": ["Meta", "Meta AI", "FAIR", "Facebook AI"],
+            "openalex_search_terms": ["Meta AI", "Meta Platforms", "Facebook AI Research"],
+            "huggingface_search_terms": ["Meta AI", "FAIR", "Llama"],
+            "arxiv_search_terms": ["Meta AI", "FAIR", "Facebook AI"],
+            "official_publication_pages": [
+              {
+                "type": "meta_publication_search",
+                "url": "https://ai.meta.com/results/",
+                "max_pages": 50,
+                "include_url_patterns": ["/research/publications/"]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["meta-llama"],
+              "github_orgs": ["facebookresearch"]
+            }
+          },
+          {
+            "name": "Microsoft",
+            "country_code": "US",
+            "aliases": ["Microsoft", "Microsoft Research", "MSR"],
+            "openalex_search_terms": ["Microsoft Research", "Microsoft"],
+            "huggingface_search_terms": ["Microsoft Research", "Microsoft", "Phi"],
+            "arxiv_search_terms": ["Microsoft", "Microsoft Research"],
+            "official_publication_pages": [
+              {
+                "type": "microsoft_publication_list",
+                "url": "https://www.microsoft.com/en-us/research/publications/",
+                "endpoint": "https://www.microsoft.com/en-us/research/wp-json/microsoft-research/v1/faceted-search",
+                "post_id": "687471",
+                "max_pages": 500,
+                "split_by_year": true,
+                "retries": 3,
+                "timeout_seconds": 60,
+                "max_workers": 8,
+                "include_url_patterns": ["/research/publication/"]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["microsoft"]
+            }
+          },
+          {
+            "name": "Apple",
+            "country_code": "US",
+            "aliases": ["Apple", "Apple Machine Learning Research"],
+            "openalex_search_terms": ["Apple"],
+            "huggingface_search_terms": ["Apple Machine Learning", "Apple"],
+            "arxiv_search_terms": ["Apple", "Apple Machine Learning Research"],
+            "official_publication_pages": [
+              {
+                "type": "apple_next_data",
+                "url": "https://machinelearning.apple.com/research"
+              },
+              {
+                "type": "rss",
+                "url": "https://machinelearning.apple.com/rss.xml",
+                "include_url_patterns": ["/research/"]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["apple"]
+            }
+          },
+          {
+            "name": "Amazon",
+            "country_code": "US",
+            "aliases": ["Amazon", "AWS", "Amazon AGI", "Amazon Science"],
+            "openalex_search_terms": ["Amazon", "Amazon Web Services"],
+            "huggingface_search_terms": ["Amazon Science", "AWS AI", "Amazon"],
+            "arxiv_search_terms": ["Amazon", "AWS", "Amazon Science"],
+            "official_publication_pages": [
+              {
+                "type": "amazon_publication_list",
+                "url": "https://www.amazon.science/publications",
+                "max_pages": 100
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["AmazonScience"],
+              "github_orgs": ["amazon-science"]
+            }
+          },
+          {
+            "name": "NVIDIA",
+            "country_code": "US",
+            "aliases": ["NVIDIA", "Nvidia Research"],
+            "openalex_search_terms": ["NVIDIA"],
+            "huggingface_search_terms": ["NVIDIA", "Nvidia Research"],
+            "arxiv_search_terms": ["NVIDIA", "Nvidia Research"],
+            "official_publication_pages": [
+              {
+                "type": "nvidia_publication_list",
+                "url": "https://research.nvidia.com/publications",
+                "max_pages_per_year": 10
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["nvidia"]
+            }
+          },
+          {
+            "name": "xAI",
+            "country_code": "US",
+            "aliases": ["xAI"],
+            "openalex_search_terms": ["xAI"],
+            "huggingface_search_terms": ["xAI", "Grok"],
+            "arxiv_search_terms": ["xAI"],
+            "official_reports": [
+              {
+                "title": "Grok-1 Open-Weights Model Card",
+                "url": "https://huggingface.co/xai-org/grok-1",
+                "published": "2024-03-28",
+                "authors": ["xAI"],
+                "work_type": "model_card",
+                "abstract": "Official xAI model card for the Grok-1 open-weights release. The card describes the released weights, code repository, download instructions, runtime requirements, and Apache-2.0 license."
+              },
+              {
+                "title": "RealWorldQA Benchmark Dataset Card",
+                "url": "https://huggingface.co/datasets/xai-org/RealworldQA",
+                "published": "2024-04-18",
+                "authors": ["xAI"],
+                "work_type": "benchmark_dataset_card",
+                "abstract": "Official xAI dataset card for RealWorldQA, a benchmark for real-world understanding with anonymized vehicle and real-world images plus verifiable question-answer pairs."
+              },
+              {
+                "title": "Grok 2 Open-Weights Model Card",
+                "url": "https://huggingface.co/xai-org/grok-2",
+                "published": "2025-11-05",
+                "authors": ["xAI"],
+                "work_type": "model_card",
+                "abstract": "Official xAI model card for the Grok 2 open-weights release. The card describes the released model, SGLang serving instructions, hardware requirements, and community license."
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["xai-org"],
+              "github_orgs": ["xai-org"]
+            }
+          }
+        ]
+      },
+      {
+        "id": "company_china",
+        "name": "🇨🇳 China AI Labs",
+        "region": "China",
+        "organizations": [
+          {
+            "name": "Alibaba/Qwen",
+            "country_code": "CN",
+            "aliases": ["Alibaba", "Alibaba Cloud", "DAMO Academy", "Qwen", "Tongyi"],
+            "openalex_search_terms": ["Alibaba", "Alibaba Cloud", "DAMO Academy"],
+            "huggingface_search_terms": ["Qwen", "Alibaba", "Tongyi"],
+            "arxiv_search_terms": ["Alibaba", "Alibaba Cloud", "DAMO Academy", "Qwen", "Tongyi"],
+            "official_publication_pages": [
+              {
+                "type": "rss",
+                "url": "https://qwenlm.github.io/blog/index.xml",
+                "include_url_patterns": ["/blog/"],
+                "work_type": "technical-report"
+              },
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["Qwen"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["Qwen"],
+              "github_orgs": ["QwenLM"]
+            }
+          },
+          {
+            "name": "Moonshot/Kimi",
+            "country_code": "CN",
+            "aliases": ["Moonshot", "Moonshot AI", "Kimi"],
+            "openalex_search_terms": ["Moonshot AI", "Moonshot"],
+            "huggingface_search_terms": ["Moonshot AI", "Moonshot", "Kimi"],
+            "arxiv_search_terms": ["Moonshot AI", "Moonshot", "Kimi"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["moonshotai"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["moonshotai"],
+              "github_orgs": ["MoonshotAI"]
+            }
+          },
+          {
+            "name": "DeepSeek",
+            "country_code": "CN",
+            "aliases": ["DeepSeek", "DeepSeek AI"],
+            "openalex_search_terms": ["DeepSeek", "DeepSeek AI"],
+            "huggingface_search_terms": ["DeepSeek", "DeepSeek-AI", "DeepSeek R1", "DeepSeek V3", "DeepSeek V4", "Engram"],
+            "arxiv_search_terms": ["DeepSeek", "DeepSeek AI", "DeepSeek V4", "Engram"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["deepseek-ai"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["deepseek-ai"],
+              "huggingface": ["deepseek-ai/DeepSeek-V4-Flash"],
+              "github": ["deepseek-ai/Engram"],
+              "github_orgs": ["deepseek-ai"]
+            },
+            "official_reports": [
+              {
+                "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+                "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/main/DeepSeek_V4.pdf",
+                "published": "2026-04-24",
+                "authors": ["DeepSeek-AI"],
+                "work_type": "technical-report",
+                "abstract": "We present a preview version of DeepSeek-V4 series, including DeepSeek-V4-Pro and DeepSeek-V4-Flash, both supporting a context length of one million tokens. The report introduces hybrid attention with Compressed Sparse Attention and Heavily Compressed Attention, Manifold-Constrained Hyper-Connections, the Muon optimizer, and a post-training pipeline for long-context and agentic tasks."
+              },
+              {
+                "title": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+                "url": "https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf",
+                "published": "2026-01-12",
+                "authors": ["Xin Cheng", "Wangding Zeng", "Damai Dai", "Qinyu Chen", "Bingxuan Wang", "Zhenda Xie", "Kezhao Huang", "Xingkai Yu", "Zhewen Hao", "Yukun Li", "Han Zhang", "Huishuai Zhang", "Dongyan Zhao", "Wenfeng Liang"],
+                "author_affiliations": ["Peking University", "DeepSeek-AI"],
+                "work_type": "technical-report",
+                "abstract": "The paper introduces conditional memory as a complementary sparsity axis for Large Language Models, instantiated via Engram, an N-gram lookup module with O(1) retrieval. It reports iso-parameter and iso-FLOPs improvements over MoE baselines across knowledge, reasoning, code, math, and long-context retrieval tasks."
+              },
+              {
+                "title": "mHC: Manifold-Constrained Hyper-Connections",
+                "url": "https://huggingface.co/papers/2512.24880",
+                "published": "2025-12-31",
+                "authors": ["Zhenda Xie", "Yixuan Wei", "Huanqi Cao", "Chenggang Zhao", "Chengqi Deng", "Jiashi Li", "Damai Dai", "Huazuo Gao", "Jiang Chang", "Liang Zhao", "Shangyan Zhou", "Zhean Xu", "Zhengyan Zhang", "Wangding Zeng", "Shengding Hu", "Yuqing Wang", "Jingyang Yuan", "Lean Wang", "Wenfeng Liang"],
+                "work_type": "technical-report",
+                "abstract": "Manifold-Constrained Hyper-Connections stabilize and scale residual connection architectures by restoring identity mapping properties through manifold projection and infrastructure optimization, suggesting directions for the evolution of foundational language models."
+              }
+            ]
+          },
+          {
+            "name": "Z.ai/Zhipu",
+            "country_code": "CN",
+            "aliases": ["Z.ai", "Zhipu", "Zhipu AI", "GLM", "ChatGLM"],
+            "openalex_search_terms": ["Zhipu AI", "Zhipu"],
+            "huggingface_search_terms": ["Zhipu", "Zhipu AI", "GLM", "ChatGLM"],
+            "arxiv_search_terms": ["Z.ai", "Zhipu AI", "Zhipu", "ChatGLM"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["zai-org"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["zai-org"],
+              "github_orgs": ["zai-org"]
+            }
+          },
+          {
+            "name": "ByteDance/Seed",
+            "country_code": "CN",
+            "aliases": ["ByteDance", "Bytedance", "ByteDance Seed", "Seed Team", "Doubao"],
+            "openalex_search_terms": ["ByteDance", "Bytedance"],
+            "huggingface_search_terms": ["ByteDance", "Bytedance", "Seed Team", "Doubao"],
+            "arxiv_search_terms": ["ByteDance", "Bytedance", "ByteDance Seed", "Doubao"],
+            "official_publication_pages": [
+              {
+                "type": "bytedance_seed_publication_api",
+                "url": "https://seed.bytedance.com/api/get_article_list_v2",
+                "url_template": "https://seed.bytedance.com/en/research/{title_key}",
+                "article_type": 1,
+                "count": 50,
+                "max_pages": 10,
+                "locale": "US",
+                "include_url_patterns": ["/en/research/"]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["ByteDance-Seed"],
+              "github_orgs": ["bytedance-seed"]
+            }
+          },
+          {
+            "name": "Tencent/Hunyuan",
+            "country_code": "CN",
+            "aliases": ["Tencent", "Tencent AI", "Hunyuan"],
+            "openalex_search_terms": ["Tencent", "Tencent AI"],
+            "huggingface_search_terms": ["Tencent", "Tencent Hunyuan", "Hunyuan"],
+            "arxiv_search_terms": ["Tencent", "Tencent AI", "Hunyuan"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["tencent", "Tencent-Hunyuan"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_reports": [
+              {
+                "title": "Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent",
+                "url": "https://huggingface.co/papers/2411.02265",
+                "published": "2024-11-04",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+                "url": "https://huggingface.co/papers/2405.08748",
+                "published": "2024-05-14",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+                "url": "https://huggingface.co/papers/2412.03603",
+                "published": "2024-12-03",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "HunyuanVideo 1.5 Technical Report",
+                "url": "https://huggingface.co/papers/2511.18870",
+                "published": "2025-11-24",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation",
+                "url": "https://huggingface.co/papers/2411.02293",
+                "published": "2024-11-04",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation",
+                "url": "https://huggingface.co/papers/2501.12202",
+                "published": "2025-01-21",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material",
+                "url": "https://huggingface.co/papers/2506.15442",
+                "published": "2025-06-18",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details",
+                "url": "https://huggingface.co/papers/2506.16504",
+                "published": "2025-06-19",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation",
+                "url": "https://huggingface.co/papers/2509.12815",
+                "published": "2025-09-16",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets",
+                "url": "https://huggingface.co/papers/2509.21245",
+                "published": "2025-09-25",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan-MT Technical Report",
+                "url": "https://huggingface.co/papers/2509.05209",
+                "published": "2025-09-05",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought",
+                "url": "https://huggingface.co/papers/2505.15431",
+                "published": "2025-05-21",
+                "authors": ["Tencent Hunyuan"],
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["tencent", "Tencent-Hunyuan"],
+              "github_orgs": ["Tencent-Hunyuan"]
+            }
+          },
+          {
+            "name": "Baidu",
+            "country_code": "CN",
+            "aliases": ["Baidu", "Baidu Research", "ERNIE"],
+            "openalex_search_terms": ["Baidu", "Baidu Research"],
+            "huggingface_search_terms": ["Baidu", "Baidu Research", "ERNIE"],
+            "arxiv_search_terms": ["Baidu", "Baidu Research", "ERNIE"],
+            "official_publication_pages": [
+              {
+                "type": "rss",
+                "url": "https://ernie.baidu.com/blog/index.xml",
+                "include_url_patterns": ["/blog/posts/"],
+                "include_categories": [],
+                "include_title_keywords": [
+                  "Technical Report",
+                  "PaddleOCR-VL",
+                  "ERNIE 5.0:",
+                  "ERNIE 4.5",
+                  "ERNIE-Image",
+                  "FastDeploy"
+                ],
+                "work_type": "technical-report"
+              },
+              {
+                "type": "baidu_ernie_publication_page",
+                "url": "https://ernie.baidu.com/blog/publication/",
+                "include_url_patterns": [
+                  "ernie.baidu.com/blog/publication/",
+                  "arxiv.org/abs/"
+                ],
+                "work_type": "technical-report"
+              },
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["baidu"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["baidu"]
+            }
+          },
+          {
+            "name": "Huawei/Noah",
+            "country_code": "CN",
+            "aliases": ["Huawei", "Huawei Noah", "Noah's Ark Lab", "Noah’s Ark Lab"],
+            "openalex_search_terms": ["Huawei", "Huawei Noah"],
+            "huggingface_search_terms": ["Huawei", "Huawei Noah", "Noah's Ark Lab"],
+            "arxiv_search_terms": ["Huawei", "Noah's Ark Lab", "Noah’s Ark Lab"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["huawei-noah"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              },
+              {
+                "type": "huawei_noah_wagtail_publications",
+                "url": "https://www.noahlab.com.hk/wt_app/api/v2/pages/",
+                "url_template": "https://www.noahlab.com.hk/en/scientific_research/{slug}",
+                "page_type": "research.ResourcesPage",
+                "locale": "en",
+                "limit": 20,
+                "max_pages": 10,
+                "include_url_patterns": ["/en/scientific_research/"]
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["huawei-noah"],
+              "github_orgs": ["huawei-noah"]
+            }
+          },
+          {
+            "name": "MiniMax",
+            "country_code": "CN",
+            "aliases": ["MiniMax", "MiniMax AI"],
+            "openalex_search_terms": ["MiniMax", "MiniMax AI"],
+            "huggingface_search_terms": ["MiniMax", "MiniMax AI"],
+            "arxiv_search_terms": ["MiniMax", "MiniMax AI"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["MiniMaxAI"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_reports": [
+              {
+                "title": "MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder",
+                "url": "https://huggingface.co/papers/2505.07916",
+                "published": "2025-05-12",
+                "authors": ["MiniMax"],
+                "work_type": "technical-report"
+              },
+              {
+                "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
+                "url": "https://huggingface.co/papers/2505.19641",
+                "published": "2025-05-26",
+                "authors": ["MiniMax"],
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["MiniMaxAI"],
+              "github_orgs": ["MiniMax-AI"]
+            }
+          },
+          {
+            "name": "StepFun",
+            "country_code": "CN",
+            "aliases": ["StepFun", "Step Fun"],
+            "openalex_search_terms": ["StepFun", "Step Fun"],
+            "huggingface_search_terms": ["StepFun", "Step Fun", "Step"],
+            "arxiv_search_terms": ["StepFun", "Step Fun"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["stepfun-ai"],
+                "max_papers": 100,
+                "work_type": "technical-report"
+              }
+            ],
+            "official_repositories": {
+              "huggingface_orgs": ["stepfun-ai"],
+              "github_orgs": ["stepfun-ai"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "categories": ["cs.CL", "cs.AI", "cs.LG"]
+}
