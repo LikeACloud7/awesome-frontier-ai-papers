@@ -4,23 +4,23 @@
 
 [![Update papers and deploy site](https://github.com/LikeACloud7/awesome-frontier-ai-papers/actions/workflows/update-papers.yml/badge.svg)](https://github.com/LikeACloud7/awesome-frontier-ai-papers/actions/workflows/update-papers.yml)
 [![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-222?logo=github)](https://likeacloud7.github.io/)
-![Papers](https://img.shields.io/badge/papers-5637-0f766e)
+![Papers](https://img.shields.io/badge/papers-5638-0f766e)
 
 **Keywords:** frontier AI papers, LLM papers, AI research papers, model cards, system cards, technical reports, OpenAI papers, Anthropic papers, Google DeepMind papers, Meta FAIR papers, Qwen papers, DeepSeek papers.
 
 - Website: https://likeacloud7.github.io/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
 - AI/LLM crawler summary: [`public/llms.txt`](public/llms.txt)
-- Last generated: `2026-05-05T19:01:45+00:00`
-- Coverage: `5637` papers across `19` labs since 2024
+- Last generated: `2026-05-05T19:56:01+00:00`
+- Coverage: `5638` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Apple](#apple) | 362 | 2026-05-05 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1611 | 2026-05-04 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [Apple](#apple) | 361 | 2026-05-04 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 905 | 2026-04-30 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 382 | 2026-04-30 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 20 | 2026-04-30 | [all papers](docs/labs/anthropic.md) |
@@ -43,6 +43,7 @@
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-05-05 | OpenAI | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
+| 2026-05-05 | Apple | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
 | 2026-05-04 | Microsoft | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
 | 2026-05-04 | Apple | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
 | 2026-05-01 | Microsoft | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
@@ -61,11 +62,27 @@
 | 2026-04-29 | Microsoft | [AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling](https://www.microsoft.com/en-us/research/publication/autosurfer-teaching-web-agents-through-comprehensive-surfing-learning-and-modeling/) | publication | Official page |
 | 2026-04-29 | Anthropic | [Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | publication | Official page |
 | 2026-04-29 | Apple | [Adaptive Thinking: Large Language Models Know When to Think in Latent Space](https://machinelearning.apple.com/research/adaptive-thinking) | publication | Official page |
-| 2026-04-29 | Apple | [DSO: Direct Steering Optimization for Bias Mitigation](https://machinelearning.apple.com/research/direct-steering-optimization) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Apple
+
+`362` papers · latest `2026-05-05` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-05 | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
+| 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
+| 2026-05-01 | [Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback) | publication | Official page |
+| 2026-04-30 | [STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows](https://machinelearning.apple.com/research/starflow-v-video-modeling) | publication | Official page |
+| 2026-04-30 | [Bootstrapping Sign Language Annotations with Sign Language Models](https://machinelearning.apple.com/research/sign-language-annotations) | publication | Official page |
+| 2026-04-29 | [Adaptive Thinking: Large Language Models Know When to Think in Latent Space](https://machinelearning.apple.com/research/adaptive-thinking) | publication | Official page |
+| 2026-04-29 | [DSO: Direct Steering Optimization for Bias Mitigation](https://machinelearning.apple.com/research/direct-steering-optimization) | publication | Official page |
+| 2026-04-28 | [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://machinelearning.apple.com/research/ladir) | publication | Official page |
+
+More: [354 additional papers](docs/labs/apple.md)
 
 ### 🇺🇸 OpenAI
 
@@ -100,23 +117,6 @@ More: [44 additional papers](docs/labs/openai.md)
 | 2026-04-30 | [Performance of a large language model on the reasoning tasks of a physician](https://doi.org/10.1126/science.adz4433) | article | OpenAlex |
 
 More: [1603 additional papers](docs/labs/microsoft.md)
-
-### 🇺🇸 Apple
-
-`361` papers · latest `2026-05-04` · [full list](docs/labs/apple.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
-| 2026-05-01 | [Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback) | publication | Official page |
-| 2026-04-30 | [STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows](https://machinelearning.apple.com/research/starflow-v-video-modeling) | publication | Official page |
-| 2026-04-30 | [Bootstrapping Sign Language Annotations with Sign Language Models](https://machinelearning.apple.com/research/sign-language-annotations) | publication | Official page |
-| 2026-04-29 | [Adaptive Thinking: Large Language Models Know When to Think in Latent Space](https://machinelearning.apple.com/research/adaptive-thinking) | publication | Official page |
-| 2026-04-29 | [DSO: Direct Steering Optimization for Bias Mitigation](https://machinelearning.apple.com/research/direct-steering-optimization) | publication | Official page |
-| 2026-04-28 | [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://machinelearning.apple.com/research/ladir) | publication | Official page |
-| 2026-04-24 | [Uncertainty Quantification for LLM Function-Calling](https://arxiv.org/abs/2604.22985) | article | OpenAlex |
-
-More: [353 additional papers](docs/labs/apple.md)
 
 ### 🇺🇸 Amazon
 

@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `361`
-- Latest: `2026-05-04`
+- Papers: `362`
+- Latest: `2026-05-05`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-05 | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
 | 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
 | 2026-05-01 | [Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback) | publication | Official page |
 | 2026-04-30 | [STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flows](https://machinelearning.apple.com/research/starflow-v-video-modeling) | publication | Official page |
