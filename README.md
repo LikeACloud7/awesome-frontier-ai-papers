@@ -4,7 +4,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-06T07:08:03+00:00`
+- Last generated: `2026-05-06T07:21:18+00:00`
 - Coverage: `5638` papers across `19` labs since 2024
 
 ## Labs
