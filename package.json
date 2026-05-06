@@ -1,7 +1,7 @@
 {
   "name": "awesome-frontier-ai-papers",
   "version": "0.2.0",
-  "description": "Awesome-style GitHub repository and web view for frontier AI lab papers and technical reports",
+  "description": "Daily tracker and web view for frontier AI lab papers and technical reports",
   "license": "MIT",
   "repository": {
     "type": "git",

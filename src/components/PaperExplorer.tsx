@@ -293,7 +293,7 @@ export default function PaperExplorer() {
 
       <section className="hero-panel" aria-label="Overview">
         <div className="hero-copy">
-          <h2>Browse the Awesome Frontier AI Papers repo.</h2>
+          <h2>Browse frontier AI papers by lab.</h2>
           <p>
             Search the generated paper index by lab, date, source, author, and keyword.
           </p>

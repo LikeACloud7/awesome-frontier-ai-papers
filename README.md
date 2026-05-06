@@ -1,16 +1,9 @@
 # Awesome Frontier AI Papers
 
-> An Awesome-style GitHub repository for frontier AI lab papers, model cards, system cards, dataset cards, and technical reports, with a clean web view for search and filtering.
-
-[![Update papers and deploy site](https://github.com/LikeACloud7/awesome-frontier-ai-papers/actions/workflows/update-papers.yml/badge.svg)](https://github.com/LikeACloud7/awesome-frontier-ai-papers/actions/workflows/update-papers.yml)
-[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-222?logo=github)](https://likeacloud7.github.io/awesome-frontier-ai-papers/)
-![Papers](https://img.shields.io/badge/papers-5638-0f766e)
-
-**Keywords:** frontier AI papers, LLM papers, AI research papers, model cards, system cards, technical reports, OpenAI papers, Anthropic papers, Google DeepMind papers, Meta FAIR papers, Qwen papers, DeepSeek papers.
+Daily tracker for frontier AI lab papers, model cards, system cards, dataset cards, and technical reports.
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- AI/LLM crawler summary: [`public/llms.txt`](public/llms.txt)
 - Last generated: `2026-05-06T07:08:03+00:00`
 - Coverage: `5638` papers across `19` labs since 2024
 

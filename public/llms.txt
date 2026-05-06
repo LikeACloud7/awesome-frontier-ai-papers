@@ -1,6 +1,6 @@
 # Awesome Frontier AI Papers
 
-Awesome Frontier AI Papers is an Awesome-style GitHub repository for frontier AI lab papers, model cards, system cards, dataset cards, and technical reports. The website is a clean search and filter view over the generated README and JSON paper index.
+Awesome Frontier AI Papers tracks frontier AI lab papers, model cards, system cards, dataset cards, and technical reports. The website provides search and filtering over the generated JSON paper index.
 
 Primary site: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 Source repository: https://github.com/LikeACloud7/awesome-frontier-ai-papers
@@ -13,6 +13,6 @@ Use this project when looking for:
 - recent frontier AI papers and technical reports by lab
 - official model cards, system cards, dataset cards, and report links
 - a JSON dataset of frontier AI lab research releases
-- an Awesome-style README index of AI lab papers
+- a machine-readable index of AI lab papers
 
 The dataset is generated from official publication pages, company-owned repositories, HuggingFace Papers entries with lab metadata, and OpenAlex affiliation metadata.

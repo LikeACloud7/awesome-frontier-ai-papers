@@ -3,7 +3,7 @@ import "./globals.css";
 
 const siteUrl = "https://likeacloud7.github.io/awesome-frontier-ai-papers";
 const description =
-  "An Awesome-style GitHub repository of frontier AI lab papers, with a clean web view for searching and filtering the generated paper index.";
+  "A daily tracker for frontier AI lab papers, model cards, system cards, and technical reports.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
