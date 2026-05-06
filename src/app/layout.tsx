@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const siteUrl = "https://likeacloud7.github.io";
+const siteUrl = "https://likeacloud7.github.io/awesome-frontier-ai-papers";
 const description =
   "An Awesome-style GitHub repository of frontier AI lab papers, with a clean web view for searching and filtering the generated paper index.";
 

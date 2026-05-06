@@ -16,7 +16,7 @@ README_FILE = REPO_ROOT / "README.md"
 LAB_DOCS_DIR = REPO_ROOT / "docs" / "labs"
 MAX_README_PAPERS_PER_LAB = 8
 REPO_URL = "https://github.com/LikeACloud7/awesome-frontier-ai-papers"
-PAGES_URL = "https://likeacloud7.github.io/"
+PAGES_URL = "https://likeacloud7.github.io/awesome-frontier-ai-papers/"
 
 
 def load_dataset() -> dict:

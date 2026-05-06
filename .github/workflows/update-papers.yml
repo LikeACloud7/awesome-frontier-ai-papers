@@ -2,7 +2,7 @@ name: Update papers and deploy site
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 3 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -70,6 +70,8 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
