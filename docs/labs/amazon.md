@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `905`
+- Papers: `908`
 - Latest: `2026-04-30`
 - [Back to README](../../README.md#amazon)
 
@@ -128,6 +128,8 @@
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
+| 2026 | [MTSQL-R1: Towards long-horizon multi-turn text-to-SQL via agentic training](https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training) | publication | Official page |
+| 2026 | [LocRegen: Cost-efficient redundancy removal in multilingual e-commerce titles with small language models](https://www.amazon.science/publications/locregen-cost-efficient-redundancy-removal-in-multilingual-e-commerce-titles-with-small-language-models) | publication | Official page |
 | 2026 | [LinguaMAP: Which layers of LLMs speak your language and how to tune them?](https://www.amazon.science/publications/linguamap-which-layers-of-llms-speak-your-language-and-how-to-tune-them) | publication | Official page |
 | 2026 | [Learning to staff: Offline reinforcement learning and fine-tuned LLMs for warehouse staffing optimization](https://www.amazon.science/publications/learning-to-staff-offline-reinforcement-learning-and-fine-tuned-llms-for-warehouse-staffing-optimization) | publication | Official page |
 | 2026 | [KG-CRAFT: Knowledge graph-based contrastive reasoning with LLMs for enhancing automated fact-checking](https://www.amazon.science/publications/kg-craft-knowledge-graph-based-contrastive-reasoning-with-llms-for-enhancing-automated-fact-checking) | publication | Official page |
@@ -140,6 +142,7 @@
 | 2026 | [Encoding domain expertise in agents: Lessons from NFL Fantasy AI](https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai) | publication | Official page |
 | 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page |
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps) | publication | Official page |
+| 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |

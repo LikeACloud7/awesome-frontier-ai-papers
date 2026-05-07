@@ -1,14 +1,15 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `669`
-- Latest: `2026-04-28`
+- Papers: `670`
+- Latest: `2026-05-05`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
 | 2026-04-28 | [An Isoform-Centric, Structure-Aware Framework for Protein Function Prediction and Evaluation, Instantiated in 3DisoDeepPF](https://doi.org/10.64898/2026.04.24.720502) | article | OpenAlex |
 | 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page |
 | 2026-04-24 | [H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling](https://doi.org/10.64898/2026.04.21.717342) | article | OpenAlex |

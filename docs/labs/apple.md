@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `362`
-- Latest: `2026-05-05`
+- Papers: `364`
+- Latest: `2026-05-06`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-06 | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
+| 2026-05-06 | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |
 | 2026-05-05 | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
 | 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
 | 2026-05-01 | [Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback) | publication | Official page |

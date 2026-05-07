@@ -1,16 +1,18 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `382`
-- Latest: `2026-04-30`
+- Papers: `384`
+- Latest: `2026-05-01`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-01 | [Challenges and Research Directions for Large Language Model Inference Hardware](http://arxiv.org/abs/2601.05047) | article | OpenAlex |
 | 2026-04-30 | [Use of a Large Language Model to Reveal Narrative Architectures of Veteran Transition Stress: Development and Validation Study](https://doi.org/10.2196/90155) | article | OpenAlex |
 | 2026-04-29 | [Distributional Alignment Games for Answer-Level Fine-Tuning](https://arxiv.org/abs/2604.27166) | article | OpenAlex |
+| 2026-04-25 | [ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation](https://deepmind.google/research/publications/238239/) | publication | Official page |
 | 2026-04-24 | [GAIR: Location-aware self-supervised contrastive pre-training with geo-aligned implicit representations](http://arxiv.org/abs/2503.16683) | article | OpenAlex |
 | 2026-04-24 | [How LLMs Detect and Correct Their Own Errors: The Role of Internal Confidence Signals](https://arxiv.org/abs/2604.22271) | article | OpenAlex |
 | 2026-04-22 | [Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction](https://arxiv.org/abs/2604.21154) | article | OpenAlex |
