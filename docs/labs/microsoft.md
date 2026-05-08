@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1611`
+- Papers: `1623`
 - Latest: `2026-05-04`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,16 +10,28 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-04 | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
+| 2026-05-03 | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/) | publication | Official page |
 | 2026-05-01 | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
 | 2026-05-01 | [Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://www.microsoft.com/en-us/research/publication/semantic-caching-for-low-cost-llm-serving-from-offline-learning-to-online-adaptation/) | publication | Official page |
 | 2026-05-01 | [DroidSpeak: KV Cache Sharing Across Fine-tuned Model Variants](https://www.microsoft.com/en-us/research/publication/droidspeak-kv-cache-sharing-for-efficient-multi-llm-serving/) | publication | Official page |
-| 2026-05-01 | [Flashlight: A PyTorch Compiler Framework for Accelerating Attention Variants](https://www.microsoft.com/en-us/research/publication/flashlight-a-pytorch-compiler-framework-for-accelerating-attention-variants/) | publication | Official page |
 | 2026-05-01 | [ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics](https://www.microsoft.com/en-us/research/publication/forestcoll-throughput-optimal-collective-communications-on-heterogeneous-network-fabrics/) | publication | Official page |
+| 2026-05-01 | [Flashlight: A PyTorch Compiler Framework for Accelerating Attention Variants](https://www.microsoft.com/en-us/research/publication/flashlight-a-pytorch-compiler-framework-for-accelerating-attention-variants/) | publication | Official page |
 | 2026-05-01 | [Eywa: Automating Model Based Testing using LLMs](https://www.microsoft.com/en-us/research/publication/eywa-automating-model-based-testing-using-llms/) | publication | Official page |
+| 2026-04-30 | [Diagnosing Capability Gaps in Fine-Tuning Data](https://www.microsoft.com/en-us/research/publication/diagnosing-capability-gaps-in-fine-tuning-data/) | publication | Official page |
+| 2026-04-30 | [CasLayout: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling](https://www.microsoft.com/en-us/research/publication/caslayout-cascaded-3d-layout-diffusion-for-indoor-scene-synthesis-with-implicit-relation-modeling/) | publication | Official page |
 | 2026-04-30 | [Performance of a large language model on the reasoning tasks of a physician](https://doi.org/10.1126/science.adz4433) | article | OpenAlex |
+| 2026-04-29 | [Distributional Alignment Games for Answer-Level Fine-Tuning](https://arxiv.org/abs/2604.27166) | article | OpenAlex, Official page |
+| 2026-04-29 | [Theory Under Construction: Orchestrating Language Models for Research Software Where the Specification Evolves](https://www.microsoft.com/en-us/research/publication/theory-under-construction-orchestrating-language-models-for-research-software-where-the-specification-evolves/) | publication | Official page |
+| 2026-04-29 | [Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://www.microsoft.com/en-us/research/publication/unifying-sparse-attention-with-hierarchical-memory-for-scalable-long-context-llm-serving/) | publication | Official page |
 | 2026-04-29 | [AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling](https://www.microsoft.com/en-us/research/publication/autosurfer-teaching-web-agents-through-comprehensive-surfing-learning-and-modeling/) | publication | Official page |
+| 2026-04-28 | [From Prompt Risk to Response Risk: Paired Analysis of Safety Behavior of Large Language Model](https://www.microsoft.com/en-us/research/publication/from-prompt-risk-to-response-risk-paired-analysis-of-safety-behavior-of-large-language-model/) | publication | Official page |
+| 2026-04-28 | [Evaluating Risks in Weak-to-Strong Alignment: A Bias-Variance Perspective](https://www.microsoft.com/en-us/research/publication/evaluating-risks-in-weak-to-strong-alignment-a-bias-variance-perspective/) | publication | Official page |
 | 2026-04-27 | [Chow-Liu Ordering for Long-Context Reasoning in Chain-of-Agents](https://www.microsoft.com/en-us/research/publication/chow-liu-ordering-for-long-context-reasoning-in-chain-of-agents/) | publication | Official page |
+| 2026-04-27 | [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://www.microsoft.com/en-us/research/publication/world-r1-reinforcing-3d-constraints-for-text-to-video-generation/) | publication | Official page |
 | 2026-04-27 | [ARIA: Adaptive Reasoning for Integrated Analysis — An LLM-Powered Framework for Autonomous Transcriptome Analysis with Decision-Aware Workflow Orchestration](https://doi.org/10.21203/rs.3.rs-9500973/v1) | preprint | OpenAlex |
+| 2026-04-25 | [How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study](https://www.microsoft.com/en-us/research/publication/how-researchers-navigate-accountability-transparency-and-trust-when-using-ai-tools-in-early-stage-research-a-think-aloud-study/) | publication | Official page |
+| 2026-04-24 | [CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms](https://www.microsoft.com/en-us/research/publication/cosmicdancepro-measuring-leo-satellites-orbital-decay-and-network-connectivity-implications-during-solar-storms/) | publication | Official page |
+| 2026-04-24 | [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://www.microsoft.com/en-us/research/publication/how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in-agentic-coding-tasks/) | publication | Official page |
 | 2026-04-23 | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://www.microsoft.com/en-us/research/publication/separable-expert-architecture-toward-privacy-preserving-llm-personalization-via-composable-adapters-and-deletable-user-proxies/) | publication | Official page |
 | 2026-04-23 | [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://www.microsoft.com/en-us/research/publication/vidguard-r1-ai-generated-video-detection-and-explanation-via-reasoning-mllms-and-rl/) | publication | Official page |
 | 2026-04-23 | [Parallel Sampling from Masked Diffusion Models via Conditional Independence Testing](https://www.microsoft.com/en-us/research/publication/parallel-sampling-from-masked-diffusion-models-via-conditional-independence-testing/) | publication | Official page |
