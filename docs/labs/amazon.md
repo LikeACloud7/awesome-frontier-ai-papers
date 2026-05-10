@@ -1,14 +1,16 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `908`
-- Latest: `2026-04-30`
+- Papers: `910`
+- Latest: `2026-05-07`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
+| 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
 | 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
 | 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | OpenAlex |
 | 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |

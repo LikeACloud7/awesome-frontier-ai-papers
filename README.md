@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-09T06:05:23+00:00`
-- Coverage: `5665` papers across `19` labs since 2024
+- Last generated: `2026-05-10T06:24:24+00:00`
+- Coverage: `5667` papers across `19` labs since 2024
 
 ## Labs
 
@@ -13,12 +13,12 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Apple](#apple) | 365 | 2026-05-08 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 910 | 2026-05-07 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 673 | 2026-05-06 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 418 | 2026-05-06 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1623 | 2026-05-04 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 385 | 2026-05-04 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 908 | 2026-04-30 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 225 | 2026-04-28 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 22 | 2026-04-28 | [all papers](docs/labs/zai-zhipu.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 20 | 2026-04-27 | [all papers](docs/labs/stepfun.md) |
@@ -38,6 +38,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-08 | Anthropic | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-08 | Apple | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
 | 2026-05-07 | Anthropic | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
+| 2026-05-07 | Amazon | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
+| 2026-05-07 | Amazon | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
 | 2026-05-06 | Tencent/Hunyuan | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
 | 2026-05-06 | Tencent/Hunyuan | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
 | 2026-05-06 | Apple | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
@@ -53,8 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-02 | Tencent/Hunyuan | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
 | 2026-05-01 | Microsoft | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
 | 2026-05-01 | Microsoft | [Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://www.microsoft.com/en-us/research/publication/semantic-caching-for-low-cost-llm-serving-from-offline-learning-to-online-adaptation/) | publication | Official page |
-| 2026-05-01 | Microsoft | [DroidSpeak: KV Cache Sharing Across Fine-tuned Model Variants](https://www.microsoft.com/en-us/research/publication/droidspeak-kv-cache-sharing-for-efficient-multi-llm-serving/) | publication | Official page |
-| 2026-05-01 | Microsoft | [ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics](https://www.microsoft.com/en-us/research/publication/forestcoll-throughput-optimal-collective-communications-on-heterogeneous-network-fabrics/) | publication | Official page |
 
 ## Papers By Lab
 
@@ -93,6 +93,23 @@ More: [357 additional papers](docs/labs/apple.md)
 | 2026-04 | [Claude Opus 4.7 System Card](https://anthropic.com/claude-opus-4-7-system-card) | model_card | Official page |
 
 More: [14 additional papers](docs/labs/anthropic.md)
+
+### 🇺🇸 Amazon
+
+`910` papers · latest `2026-05-07` · [full list](docs/labs/amazon.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
+| 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
+| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
+| 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | OpenAlex |
+| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
+| 2026-04-23 | [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](https://arxiv.org/abs/2604.22119) | article | OpenAlex |
+| 2026-04-21 | [Scale: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM](https://doi.org/10.1109/icassp55912.2026.11462898) | article | OpenAlex |
+| 2026-04-21 | [Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts](https://arxiv.org/abs/2604.19835) | article | OpenAlex |
+
+More: [902 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
@@ -178,23 +195,6 @@ More: [1615 additional papers](docs/labs/microsoft.md)
 | 2026-04-22 | [Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction](https://arxiv.org/abs/2604.21154) | article | OpenAlex |
 
 More: [377 additional papers](docs/labs/google-deepmind.md)
-
-### 🇺🇸 Amazon
-
-`908` papers · latest `2026-04-30` · [full list](docs/labs/amazon.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
-| 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | OpenAlex |
-| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
-| 2026-04-23 | [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](https://arxiv.org/abs/2604.22119) | article | OpenAlex |
-| 2026-04-21 | [Scale: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM](https://doi.org/10.1109/icassp55912.2026.11462898) | article | OpenAlex |
-| 2026-04-21 | [Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts](https://arxiv.org/abs/2604.19835) | article | OpenAlex |
-| 2026-04-21 | [Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995) | article | OpenAlex |
-| 2026-04-20 | [Adversarial Arena: Crowdsourcing Data Generation through Interactive Competition](https://arxiv.org/abs/2604.17803) | article | OpenAlex |
-
-More: [900 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 NVIDIA
 
