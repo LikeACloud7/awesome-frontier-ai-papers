@@ -1,14 +1,16 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `245`
-- Latest: `2026-04-17`
+- Papers: `247`
+- Latest: `2026-05-07`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-07 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://huggingface.co/papers/2605.00425) | technical-report | Official page |
+| 2026-05-07 | [Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation](https://huggingface.co/papers/2605.06892) | paper | HuggingFace |
 | 2026-04-17 | [MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation](https://arxiv.org/abs/2604.16943) | article | OpenAlex |
 | 2026-04-15 | [Introducing ERNIE-Image](https://ernie.baidu.com/blog/posts/ernie-image/) | technical-report | Official page |
 | 2026-04-09 | [Probe-and-Fetch: Dynamic KV Cache Pruning for Accelerated Long-Context Inference in Web-Scale AI Search](https://doi.org/10.1145/3774904.3792794) | article | OpenAlex |

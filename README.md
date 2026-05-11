@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-10T06:24:24+00:00`
-- Coverage: `5667` papers across `19` labs since 2024
+- Last generated: `2026-05-11T06:53:55+00:00`
+- Coverage: `5671` papers across `19` labs since 2024
 
 ## Labs
 
@@ -14,7 +14,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [Apple](#apple) | 365 | 2026-05-08 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 910 | 2026-05-07 | [all papers](docs/labs/amazon.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 673 | 2026-05-06 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 247 | 2026-05-07 | [all papers](docs/labs/baidu.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 675 | 2026-05-06 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 418 | 2026-05-06 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1623 | 2026-05-04 | [all papers](docs/labs/microsoft.md) |
@@ -25,7 +26,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 431 | 2026-04-24 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 28 | 2026-04-24 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 146 | 2026-04-22 | [all papers](docs/labs/bytedance-seed.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 245 | 2026-04-17 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 126 | 2026-04-16 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 6 | 2025-12-15 | [all papers](docs/labs/minimax.md) |
@@ -37,10 +37,14 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---|---|---|---|
 | 2026-05-08 | Anthropic | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-08 | Apple | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
+| 2026-05-07 | Baidu | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://huggingface.co/papers/2605.00425) | technical-report | Official page |
 | 2026-05-07 | Anthropic | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
 | 2026-05-07 | Amazon | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
 | 2026-05-07 | Amazon | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
+| 2026-05-07 | Baidu | [Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation](https://huggingface.co/papers/2605.06892) | paper | HuggingFace |
+| 2026-05-06 | Tencent/Hunyuan | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
 | 2026-05-06 | Tencent/Hunyuan | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
+| 2026-05-06 | Tencent/Hunyuan | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
 | 2026-05-06 | Tencent/Hunyuan | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
 | 2026-05-06 | Apple | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
 | 2026-05-06 | Apple | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |
@@ -51,10 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-04 | Microsoft | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
 | 2026-05-04 | Apple | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
 | 2026-05-04 | Google/DeepMind | [Active multiple matrix completion with adaptive confidence sets](https://arxiv.org/abs/2605.02458) | preprint | OpenAlex |
-| 2026-05-03 | Microsoft | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/) | publication | Official page |
-| 2026-05-02 | Tencent/Hunyuan | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
-| 2026-05-01 | Microsoft | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
-| 2026-05-01 | Microsoft | [Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://www.microsoft.com/en-us/research/publication/semantic-caching-for-low-cost-llm-serving-from-offline-learning-to-online-adaptation/) | publication | Official page |
 
 ## Papers By Lab
 
@@ -111,22 +111,39 @@ More: [14 additional papers](docs/labs/anthropic.md)
 
 More: [902 additional papers](docs/labs/amazon.md)
 
-### 🇨🇳 Tencent/Hunyuan
+### 🇨🇳 Baidu
 
-`673` papers · latest `2026-05-06` · [full list](docs/labs/tencent-hunyuan.md)
+`247` papers · latest `2026-05-07` · [full list](docs/labs/baidu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-07 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://huggingface.co/papers/2605.00425) | technical-report | Official page |
+| 2026-05-07 | [Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation](https://huggingface.co/papers/2605.06892) | paper | HuggingFace |
+| 2026-04-17 | [MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation](https://arxiv.org/abs/2604.16943) | article | OpenAlex |
+| 2026-04-15 | [Introducing ERNIE-Image](https://ernie.baidu.com/blog/posts/ernie-image/) | technical-report | Official page |
+| 2026-04-09 | [Probe-and-Fetch: Dynamic KV Cache Pruning for Accelerated Long-Context Inference in Web-Scale AI Search](https://doi.org/10.1145/3774904.3792794) | article | OpenAlex |
+| 2026-04-09 | [Text2Traffic: a text-to-image generation and editing method for traffic scenes](http://arxiv.org/abs/2511.12932) | article | OpenAlex |
+| 2026-04-08 | [ConsistRM: Improving Generative Reward Models via Consistency-Aware Self-Training](https://arxiv.org/abs/2604.07484) | article | OpenAlex |
+| 2026-04-07 | [Neural Computers](https://huggingface.co/papers/2604.06425) | paper | HuggingFace |
+
+More: [239 additional papers](docs/labs/baidu.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`675` papers · latest `2026-05-06` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-06 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
 | 2026-05-06 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
+| 2026-05-06 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
 | 2026-05-06 | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
 | 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
 | 2026-05-02 | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
 | 2026-04-28 | [An Isoform-Centric, Structure-Aware Framework for Protein Function Prediction and Evaluation, Instantiated in 3DisoDeepPF](https://doi.org/10.64898/2026.04.24.720502) | article | OpenAlex |
 | 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page |
-| 2026-04-24 | [H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling](https://doi.org/10.64898/2026.04.21.717342) | article | OpenAlex |
-| 2026-04-21 | [From Pixels to Diagnoses: Towards Interpretable Medical Image Retrieval Via LLM-Driven Semantic Enhancement](https://doi.org/10.1109/icassp55912.2026.11462895) | article | OpenAlex |
 
-More: [665 additional papers](docs/labs/tencent-hunyuan.md)
+More: [667 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -297,23 +314,6 @@ More: [20 additional papers](docs/labs/deepseek.md)
 | 2026-03-16 | [Mixture-of-Depths Attention](https://seed.bytedance.com/en/research/mixture-of-depths-attention) | publication | Official page |
 
 More: [138 additional papers](docs/labs/bytedance-seed.md)
-
-### 🇨🇳 Baidu
-
-`245` papers · latest `2026-04-17` · [full list](docs/labs/baidu.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-04-17 | [MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation](https://arxiv.org/abs/2604.16943) | article | OpenAlex |
-| 2026-04-15 | [Introducing ERNIE-Image](https://ernie.baidu.com/blog/posts/ernie-image/) | technical-report | Official page |
-| 2026-04-09 | [Probe-and-Fetch: Dynamic KV Cache Pruning for Accelerated Long-Context Inference in Web-Scale AI Search](https://doi.org/10.1145/3774904.3792794) | article | OpenAlex |
-| 2026-04-09 | [Text2Traffic: a text-to-image generation and editing method for traffic scenes](http://arxiv.org/abs/2511.12932) | article | OpenAlex |
-| 2026-04-08 | [ConsistRM: Improving Generative Reward Models via Consistency-Aware Self-Training](https://arxiv.org/abs/2604.07484) | article | OpenAlex |
-| 2026-04-07 | [Neural Computers](https://huggingface.co/papers/2604.06425) | paper | HuggingFace |
-| 2026-04-06 | [Graph-Based Chain-of-Thought Pruning for Reducing Redundant Reflections in Reasoning LLMs](https://huggingface.co/papers/2604.05643) | technical-report | Official page |
-| 2026-03-26 | [RefAlign: Representation Alignment for Reference-to-Video Generation](https://huggingface.co/papers/2603.25743) | technical-report | Official page |
-
-More: [237 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Meta/FAIR
 
