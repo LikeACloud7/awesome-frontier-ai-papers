@@ -1,14 +1,15 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1623`
-- Latest: `2026-05-04`
+- Papers: `1625`
+- Latest: `2026-05-08`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
 | 2026-05-04 | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
 | 2026-05-03 | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/) | publication | Official page |
 | 2026-05-01 | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
@@ -17,6 +18,7 @@
 | 2026-05-01 | [ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics](https://www.microsoft.com/en-us/research/publication/forestcoll-throughput-optimal-collective-communications-on-heterogeneous-network-fabrics/) | publication | Official page |
 | 2026-05-01 | [Flashlight: A PyTorch Compiler Framework for Accelerating Attention Variants](https://www.microsoft.com/en-us/research/publication/flashlight-a-pytorch-compiler-framework-for-accelerating-attention-variants/) | publication | Official page |
 | 2026-05-01 | [Eywa: Automating Model Based Testing using LLMs](https://www.microsoft.com/en-us/research/publication/eywa-automating-model-based-testing-using-llms/) | publication | Official page |
+| 2026-05-01 | [MatterSim-MT: A multi-task foundation model for in silico materials characterization](https://www.microsoft.com/en-us/research/publication/mattersim-mt-a-multi-task-foundation-model-for-in-silico-materials-characterization/) | publication | Official page |
 | 2026-04-30 | [Diagnosing Capability Gaps in Fine-Tuning Data](https://www.microsoft.com/en-us/research/publication/diagnosing-capability-gaps-in-fine-tuning-data/) | publication | Official page |
 | 2026-04-30 | [CasLayout: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling](https://www.microsoft.com/en-us/research/publication/caslayout-cascaded-3d-layout-diffusion-for-indoor-scene-synthesis-with-implicit-relation-modeling/) | publication | Official page |
 | 2026-04-30 | [Performance of a large language model on the reasoning tasks of a physician](https://doi.org/10.1126/science.adz4433) | article | OpenAlex |

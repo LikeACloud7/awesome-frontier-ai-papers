@@ -1,14 +1,17 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `675`
-- Latest: `2026-05-06`
+- Papers: `678`
+- Latest: `2026-05-09`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
+| 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
+| 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
 | 2026-05-06 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
 | 2026-05-06 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
 | 2026-05-06 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
@@ -16,7 +19,7 @@
 | 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
 | 2026-05-02 | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
 | 2026-04-28 | [An Isoform-Centric, Structure-Aware Framework for Protein Function Prediction and Evaluation, Instantiated in 3DisoDeepPF](https://doi.org/10.64898/2026.04.24.720502) | article | OpenAlex |
-| 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page |
+| 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page, OpenAlex |
 | 2026-04-24 | [H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling](https://doi.org/10.64898/2026.04.21.717342) | article | OpenAlex |
 | 2026-04-21 | [From Pixels to Diagnoses: Towards Interpretable Medical Image Retrieval Via LLM-Driven Semantic Enhancement](https://doi.org/10.1109/icassp55912.2026.11462895) | article | OpenAlex |
 | 2026-04-21 | [Less Redundancy: Boosting Practicality of Vision Language Model in Walking Assistants](https://doi.org/10.1109/icassp55912.2026.11464758) | article | OpenAlex |

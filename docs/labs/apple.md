@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `365`
-- Latest: `2026-05-08`
+- Papers: `366`
+- Latest: `2026-05-11`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-11 | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning) | publication | Official page |
 | 2026-05-08 | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
 | 2026-05-06 | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
 | 2026-05-06 | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |

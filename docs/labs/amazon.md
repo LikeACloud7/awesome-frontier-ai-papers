@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `910`
+- Papers: `912`
 - Latest: `2026-05-07`
 - [Back to README](../../README.md#amazon)
 
@@ -9,6 +9,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-07 | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
+| 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
 | 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
 | 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
 | 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
