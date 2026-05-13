@@ -9,7 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page |
+| 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page, HuggingFace |
 | 2026-03-27 | [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://huggingface.co/papers/2603.26648) | technical-report | Official page |
 | 2026-03-13 | [Hammer: An Expert-Level Large Language Model for Hydro-Science and Engineering Balancing Domain Expertise and General Intelligence](https://doi.org/10.5194/egusphere-egu26-2906) | article | OpenAlex |
 | 2026-03-12 | [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | technical-report | Official page |

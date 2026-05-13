@@ -19,7 +19,7 @@
 | 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
 | 2026-05-02 | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
 | 2026-04-28 | [An Isoform-Centric, Structure-Aware Framework for Protein Function Prediction and Evaluation, Instantiated in 3DisoDeepPF](https://doi.org/10.64898/2026.04.24.720502) | article | OpenAlex |
-| 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page, OpenAlex |
+| 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page |
 | 2026-04-24 | [H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling](https://doi.org/10.64898/2026.04.21.717342) | article | OpenAlex |
 | 2026-04-21 | [From Pixels to Diagnoses: Towards Interpretable Medical Image Retrieval Via LLM-Driven Semantic Enhancement](https://doi.org/10.1109/icassp55912.2026.11462895) | article | OpenAlex |
 | 2026-04-21 | [Less Redundancy: Boosting Practicality of Vision Language Model in Walking Assistants](https://doi.org/10.1109/icassp55912.2026.11464758) | article | OpenAlex |
