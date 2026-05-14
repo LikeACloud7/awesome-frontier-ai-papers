@@ -1,17 +1,25 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1626`
-- Latest: `2026-05-11`
+- Papers: `1634`
+- Latest: `2026-05-13`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
+| 2026-05-12 | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
+| 2026-05-07 | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
+| 2026-05-05 | [Audio-Visual Intelligence in Large Foundation Models](https://www.microsoft.com/en-us/research/publication/audio-visual-intelligence-in-large-foundation-models/) | publication | Official page |
+| 2026-05-05 | [Agentic-imodels: Evolving agentic interpretability tools via autoresearch](https://www.microsoft.com/en-us/research/publication/agentic-imodels-evolving-agentic-interpretability-tools-via-autoresearch/) | publication | Official page |
+| 2026-05-04 | [Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents](https://www.microsoft.com/en-us/research/publication/learning-correct-behavior-from-examples-validating-sequential-execution-in-autonomous-agents/) | publication | Official page |
 | 2026-05-04 | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
+| 2026-05-03 | [Cross-Layer Energy Analysis of Multimodal Training on Grace Hopper Superchips](https://www.microsoft.com/en-us/research/publication/cross-layer-energy-analysis-of-multimodal-training-on-grace-hopper-superchips/) | publication | Official page |
+| 2026-05-03 | [Only Say What You Know: Calibration-Aware Generation for Long-Form Factuality](https://www.microsoft.com/en-us/research/publication/only-say-what-you-know-calibration-aware-generation-for-long-form-factuality/) | publication | Official page |
 | 2026-05-03 | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/) | publication | Official page |
 | 2026-05-01 | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
 | 2026-05-01 | [Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://www.microsoft.com/en-us/research/publication/semantic-caching-for-low-cost-llm-serving-from-offline-learning-to-online-adaptation/) | publication | Official page |

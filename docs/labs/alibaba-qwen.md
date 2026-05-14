@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `432`
-- Latest: `2026-05-10`
+- Papers: `433`
+- Latest: `2026-05-12`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
 | 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
 | 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
 | 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |

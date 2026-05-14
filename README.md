@@ -4,19 +4,19 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-13T06:36:24+00:00`
-- Coverage: `5698` papers across `19` labs since 2024
+- Last generated: `2026-05-14T06:36:14+00:00`
+- Coverage: `5711` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1626 | 2026-05-11 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1634 | 2026-05-13 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 930 | 2026-05-12 | [all papers](docs/labs/amazon.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 433 | 2026-05-12 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 681 | 2026-05-11 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Apple](#apple) | 366 | 2026-05-11 | [all papers](docs/labs/apple.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 432 | 2026-05-10 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 678 | 2026-05-09 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 929 | 2026-05-07 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 247 | 2026-05-07 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 418 | 2026-05-06 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
@@ -35,6 +35,11 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-05-13 | Microsoft | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
+| 2026-05-12 | Alibaba/Qwen | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
+| 2026-05-12 | Amazon | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
+| 2026-05-12 | Microsoft | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
+| 2026-05-11 | Tencent/Hunyuan | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
 | 2026-05-11 | Apple | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning) | publication | Official page |
 | 2026-05-11 | Microsoft | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-10 | Alibaba/Qwen | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
@@ -43,18 +48,13 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-08 | Microsoft | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
 | 2026-05-08 | Anthropic | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-08 | Apple | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
+| 2026-05-07 | Microsoft | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
+| 2026-05-07 | Tencent/Hunyuan | [Implicit Preference Alignment for Human Image Animation](https://huggingface.co/papers/2605.07545) | technical-report | Official page |
 | 2026-05-07 | Baidu | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://huggingface.co/papers/2605.00425) | technical-report | Official page |
 | 2026-05-07 | Anthropic | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
 | 2026-05-07 | Amazon | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
 | 2026-05-07 | Amazon | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
 | 2026-05-07 | Amazon | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
-| 2026-05-07 | Amazon | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
-| 2026-05-07 | Tencent/Hunyuan | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
-| 2026-05-07 | Baidu | [Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation](https://huggingface.co/papers/2605.06892) | paper | HuggingFace |
-| 2026-05-06 | Tencent/Hunyuan | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
-| 2026-05-06 | Tencent/Hunyuan | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
-| 2026-05-06 | Tencent/Hunyuan | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
-| 2026-05-06 | Tencent/Hunyuan | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
 
 ## Papers By Lab
 
@@ -62,20 +62,71 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Microsoft
 
-`1626` papers · latest `2026-05-11` · [full list](docs/labs/microsoft.md)
+`1634` papers · latest `2026-05-13` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
+| 2026-05-12 | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
-| 2026-05-04 | [The Origins of Artificial Intelligence in Natural Intelligence](https://www.microsoft.com/en-us/research/publication/the-origins-of-artificial-intelligence-in-natural-intelligence/) | publication | Official page |
-| 2026-05-03 | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/) | publication | Official page |
-| 2026-05-01 | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/) | publication | Official page |
-| 2026-05-01 | [Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://www.microsoft.com/en-us/research/publication/semantic-caching-for-low-cost-llm-serving-from-offline-learning-to-online-adaptation/) | publication | Official page |
-| 2026-05-01 | [DroidSpeak: KV Cache Sharing Across Fine-tuned Model Variants](https://www.microsoft.com/en-us/research/publication/droidspeak-kv-cache-sharing-for-efficient-multi-llm-serving/) | publication | Official page |
-| 2026-05-01 | [ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics](https://www.microsoft.com/en-us/research/publication/forestcoll-throughput-optimal-collective-communications-on-heterogeneous-network-fabrics/) | publication | Official page |
+| 2026-05-07 | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
+| 2026-05-05 | [Audio-Visual Intelligence in Large Foundation Models](https://www.microsoft.com/en-us/research/publication/audio-visual-intelligence-in-large-foundation-models/) | publication | Official page |
+| 2026-05-05 | [Agentic-imodels: Evolving agentic interpretability tools via autoresearch](https://www.microsoft.com/en-us/research/publication/agentic-imodels-evolving-agentic-interpretability-tools-via-autoresearch/) | publication | Official page |
+| 2026-05-04 | [Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents](https://www.microsoft.com/en-us/research/publication/learning-correct-behavior-from-examples-validating-sequential-execution-in-autonomous-agents/) | publication | Official page |
 
-More: [1618 additional papers](docs/labs/microsoft.md)
+More: [1626 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Amazon
+
+`930` papers · latest `2026-05-12` · [full list](docs/labs/amazon.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-12 | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
+| 2026-05-07 | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
+| 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
+| 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
+| 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
+| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
+| 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | OpenAlex |
+| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
+
+More: [922 additional papers](docs/labs/amazon.md)
+
+### 🇨🇳 Alibaba/Qwen
+
+`433` papers · latest `2026-05-12` · [full list](docs/labs/alibaba-qwen.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
+| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
+| 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
+| 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |
+| 2026-04-22 | [Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714) | article | OpenAlex |
+| 2026-04-21 | [Low Rank Quantization Adaptation for Large Language Model](https://doi.org/10.1109/icassp55912.2026.11464312) | article | OpenAlex |
+| 2026-04-21 | [SatBadEdit: Towards Efficient and Robust Multi-Trigger Backdoor Injection in Large Language Models](https://doi.org/10.1109/icassp55912.2026.11464407) | article | OpenAlex |
+| 2026-04-21 | [FlowSE-GRPO: Training Flow Matching Speech Enhancement via Online Reinforcement Learning](https://doi.org/10.1109/icassp55912.2026.11461623) | article | OpenAlex |
+
+More: [425 additional papers](docs/labs/alibaba-qwen.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`681` papers · latest `2026-05-11` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-11 | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
+| 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
+| 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
+| 2026-05-07 | [Implicit Preference Alignment for Human Image Animation](https://huggingface.co/papers/2605.07545) | technical-report | Official page |
+| 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
+| 2026-05-06 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
+| 2026-05-06 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
+| 2026-05-06 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
+
+More: [673 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Apple
 
@@ -94,40 +145,6 @@ More: [1618 additional papers](docs/labs/microsoft.md)
 
 More: [358 additional papers](docs/labs/apple.md)
 
-### 🇨🇳 Alibaba/Qwen
-
-`432` papers · latest `2026-05-10` · [full list](docs/labs/alibaba-qwen.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
-| 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
-| 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |
-| 2026-04-22 | [Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714) | article | OpenAlex |
-| 2026-04-21 | [Low Rank Quantization Adaptation for Large Language Model](https://doi.org/10.1109/icassp55912.2026.11464312) | article | OpenAlex |
-| 2026-04-21 | [SatBadEdit: Towards Efficient and Robust Multi-Trigger Backdoor Injection in Large Language Models](https://doi.org/10.1109/icassp55912.2026.11464407) | article | OpenAlex |
-| 2026-04-21 | [FlowSE-GRPO: Training Flow Matching Speech Enhancement via Online Reinforcement Learning](https://doi.org/10.1109/icassp55912.2026.11461623) | article | OpenAlex |
-| 2026-04-21 | [DDPT: Distillation and Dynamic Prompt Tuning for Improving Complex Reasoning in Large Language Models](https://doi.org/10.1109/icassp55912.2026.11461607) | article | OpenAlex |
-
-More: [424 additional papers](docs/labs/alibaba-qwen.md)
-
-### 🇨🇳 Tencent/Hunyuan
-
-`678` papers · latest `2026-05-09` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
-| 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
-| 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
-| 2026-05-06 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
-| 2026-05-06 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
-| 2026-05-06 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
-| 2026-05-06 | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
-| 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
-
-More: [670 additional papers](docs/labs/tencent-hunyuan.md)
-
 ### 🇺🇸 Anthropic
 
 `22` papers · latest `2026-05-08` · [full list](docs/labs/anthropic.md)
@@ -144,23 +161,6 @@ More: [670 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-04 | [Claude Opus 4.7 System Card](https://anthropic.com/claude-opus-4-7-system-card) | model_card | Official page |
 
 More: [14 additional papers](docs/labs/anthropic.md)
-
-### 🇺🇸 Amazon
-
-`929` papers · latest `2026-05-07` · [full list](docs/labs/amazon.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-07 | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
-| 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
-| 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
-| 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
-| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
-| 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | OpenAlex |
-| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
-| 2026-04-23 | [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](https://arxiv.org/abs/2604.22119) | article | OpenAlex |
-
-More: [921 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Baidu
 
@@ -253,7 +253,7 @@ More: [217 additional papers](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page, HuggingFace |
+| 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page |
 | 2026-03-27 | [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://huggingface.co/papers/2603.26648) | technical-report | Official page |
 | 2026-03-13 | [Hammer: An Expert-Level Large Language Model for Hydro-Science and Engineering Balancing Domain Expertise and General Intelligence](https://doi.org/10.5194/egusphere-egu26-2906) | article | OpenAlex |
 | 2026-03-12 | [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | technical-report | Official page |

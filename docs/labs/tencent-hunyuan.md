@@ -1,22 +1,25 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `678`
-- Latest: `2026-05-09`
+- Papers: `681`
+- Latest: `2026-05-11`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-11 | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
 | 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
 | 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
+| 2026-05-07 | [Implicit Preference Alignment for Human Image Animation](https://huggingface.co/papers/2605.07545) | technical-report | Official page |
 | 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
 | 2026-05-06 | [UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://huggingface.co/papers/2605.06221) | technical-report | Official page |
 | 2026-05-06 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](https://huggingface.co/papers/2605.06416) | technical-report | Official page |
 | 2026-05-06 | [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](https://huggingface.co/papers/2605.06139) | technical-report | Official page |
 | 2026-05-06 | [A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://huggingface.co/papers/2605.06200) | technical-report | Official page |
 | 2026-05-05 | [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://huggingface.co/papers/2605.05185) | technical-report | Official page |
+| 2026-05-05 | [FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation](https://huggingface.co/papers/2605.04702) | technical-report | Official page |
 | 2026-05-02 | [SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning](https://arxiv.org/abs/2605.01489) | article | OpenAlex |
 | 2026-04-28 | [An Isoform-Centric, Structure-Aware Framework for Protein Function Prediction and Evaluation, Instantiated in 3DisoDeepPF](https://doi.org/10.64898/2026.04.24.720502) | article | OpenAlex |
 | 2026-04-27 | [Toward Scalable Terminal Task Synthesis via Skill Graphs](https://huggingface.co/papers/2604.25727) | technical-report | Official page |
