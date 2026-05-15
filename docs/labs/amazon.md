@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `930`
+- Papers: `931`
 - Latest: `2026-05-12`
 - [Back to README](../../README.md#amazon)
 
@@ -140,6 +140,7 @@
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
+| 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
 | 2026 | [Not-a-bandit: Provably no-regret drafter selection in speculative decoding for LLMs](https://www.amazon.science/publications/not-a-bandit-provably-no-regret-drafter-selection-in-speculative-decoding-for-llms) | publication | Official page |
 | 2026 | [MTSQL-R1: Towards long-horizon multi-turn text-to-SQL via agentic training](https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training) | publication | Official page |
 | 2026 | [LocRegen: Cost-efficient redundancy removal in multilingual e-commerce titles with small language models](https://www.amazon.science/publications/locregen-cost-efficient-redundancy-removal-in-multilingual-e-commerce-titles-with-small-language-models) | publication | Official page |

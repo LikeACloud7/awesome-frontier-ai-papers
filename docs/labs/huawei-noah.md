@@ -1,14 +1,15 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `418`
-- Latest: `2026-05-06`
+- Papers: `419`
+- Latest: `2026-05-13`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-13 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://huggingface.co/papers/2605.13778) | paper | HuggingFace |
 | 2026-05-06 | [CAMV: A Framework for Context-Aware Multi-View Visualization of Data Analysis Results](https://doi.org/10.1007/s41019-026-00353-x) | article | OpenAlex |
 | 2026-04-27 | [CE-CLIP: Cloud–edge collaborative fine-tuning for multimodal adaptation](https://doi.org/10.1016/j.patcog.2026.113846) | article | OpenAlex |
 | 2026-04-25 | [Multi-modal large language model-based image captioning algorithm in information and communication technology: Bridging the gap between general and industry domain](https://doi.org/10.1016/j.engappai.2026.114848) | article | OpenAlex |

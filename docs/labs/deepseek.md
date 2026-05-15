@@ -1,14 +1,15 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `28`
-- Latest: `2026-04-24`
+- Papers: `29`
+- Latest: `2026-05-12`
 - [Back to README](../../README.md#deepseek)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-12 | [PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://huggingface.co/papers/2605.13027) | technical-report | Official page |
 | 2026-04-24 | [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/main/DeepSeek_V4.pdf) | technical-report | Official report |
 | 2026-02-24 | [DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference](https://huggingface.co/papers/2602.21548) | technical-report | Official page |
 | 2026-01-28 | [DeepSeek-OCR 2: Visual Causal Flow](https://huggingface.co/papers/2601.20552) | technical-report | Official page |
