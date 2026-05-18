@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `387`
+- Papers: `388`
 - Latest: `2026-05-15`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-15 | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
+| 2026-05-13 | [Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling](https://arxiv.org/abs/2605.13801) | article | OpenAlex |
 | 2026-05-12 | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/abs/2605.12419) | article | OpenAlex |
 | 2026-05-04 | [Active multiple matrix completion with adaptive confidence sets](https://arxiv.org/abs/2605.02458) | preprint | OpenAlex |
 | 2026-05-01 | [Challenges and Research Directions for Large Language Model Inference Hardware](http://arxiv.org/abs/2601.05047) | article | OpenAlex |

@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1637`
+- Papers: `1638`
 - Latest: `2026-05-13`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
+| 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | OpenAlex |
 | 2026-05-12 | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
