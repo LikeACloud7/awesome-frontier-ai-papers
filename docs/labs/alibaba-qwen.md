@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `436`
-- Latest: `2026-05-16`
+- Papers: `437`
+- Latest: `2026-05-18`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-18 | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
 | 2026-05-16 | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
 | 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
 | 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |

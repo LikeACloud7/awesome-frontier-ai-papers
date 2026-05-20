@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `226`
+- Papers: `227`
 - Latest: `2026-05-10`
 - [Back to README](../../README.md#nvidia)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-10 | [Workspace Optimization: How to Train Your Agent](https://arxiv.org/abs/2605.09650) | article | OpenAlex |
+| 2026-05 | [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](https://research.nvidia.com/publication/2026-05_nemotron-labs-diffusion-tri-mode-language-model-unifying-autoregressive) | publication | Official page |
 | 2026-04-28 | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | article | OpenAlex |
 | 2026-04-27 | [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://huggingface.co/papers/2604.24954) | paper | HuggingFace |
 | 2026-04-24 | [Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation](http://arxiv.org/abs/2503.20191) | article | OpenAlex |

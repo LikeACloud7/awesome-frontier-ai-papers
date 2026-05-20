@@ -4,24 +4,24 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-19T07:01:50+00:00`
-- Coverage: `5735` papers across `19` labs since 2024
+- Last generated: `2026-05-20T07:01:02+00:00`
+- Coverage: `5743` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 436 | 2026-05-16 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 389 | 2026-05-15 | [all papers](docs/labs/google-deepmind.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 684 | 2026-05-14 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 392 | 2026-05-19 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 685 | 2026-05-18 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 437 | 2026-05-18 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 249 | 2026-05-14 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1638 | 2026-05-13 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1640 | 2026-05-13 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 934 | 2026-05-13 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 419 | 2026-05-13 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 21 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇺🇸 US | [Apple](#apple) | 366 | 2026-05-11 | [all papers](docs/labs/apple.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 226 | 2026-05-10 | [all papers](docs/labs/nvidia.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 227 | 2026-05-10 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 22 | 2026-04-28 | [all papers](docs/labs/zai-zhipu.md) |
@@ -35,8 +35,13 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-05-19 | Google/DeepMind | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
+| 2026-05-19 | Google/DeepMind | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
+| 2026-05-18 | Tencent/Hunyuan | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
+| 2026-05-18 | Alibaba/Qwen | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
 | 2026-05-16 | Alibaba/Qwen | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
+| 2026-05-15 | Google/DeepMind | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
 | 2026-05-14 | Tencent/Hunyuan | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |
 | 2026-05-14 | Baidu | [Measuring Maximum Activations in Open Large Language Models](https://huggingface.co/papers/2605.15572) | technical-report | Official page |
 | 2026-05-14 | Google/DeepMind | [Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience](https://arxiv.org/abs/2605.14443) | article | OpenAlex |
@@ -50,56 +55,35 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-12 | DeepSeek | [PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://huggingface.co/papers/2605.13027) | technical-report | Official page |
 | 2026-05-12 | Tencent/Hunyuan | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
 | 2026-05-12 | StepFun | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://huggingface.co/papers/2605.12034) | technical-report | Official page |
-| 2026-05-12 | Alibaba/Qwen | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
-| 2026-05-12 | Google/DeepMind | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/abs/2605.12419) | article | OpenAlex |
-| 2026-05-12 | Amazon | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
-| 2026-05-12 | Tencent/Hunyuan | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | article | OpenAlex |
-| 2026-05-12 | Microsoft | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
-### 🇨🇳 Alibaba/Qwen
-
-`436` papers · latest `2026-05-16` · [full list](docs/labs/alibaba-qwen.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-16 | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
-| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
-| 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
-| 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
-| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
-| 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
-| 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |
-| 2026-04-22 | [Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714) | article | OpenAlex |
-
-More: [428 additional papers](docs/labs/alibaba-qwen.md)
-
 ### 🇺🇸 Google/DeepMind
 
-`389` papers · latest `2026-05-15` · [full list](docs/labs/google-deepmind.md)
+`392` papers · latest `2026-05-19` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-19 | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
+| 2026-05-19 | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
 | 2026-05-15 | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
+| 2026-05-15 | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
 | 2026-05-14 | [Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience](https://arxiv.org/abs/2605.14443) | article | OpenAlex |
 | 2026-05-13 | [Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling](https://arxiv.org/abs/2605.13801) | article | OpenAlex |
 | 2026-05-12 | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/abs/2605.12419) | article | OpenAlex |
 | 2026-05-04 | [Active multiple matrix completion with adaptive confidence sets](https://arxiv.org/abs/2605.02458) | preprint | OpenAlex |
-| 2026-05-01 | [Challenges and Research Directions for Large Language Model Inference Hardware](http://arxiv.org/abs/2601.05047) | article | OpenAlex |
-| 2026-04-30 | [Use of a Large Language Model to Reveal Narrative Architectures of Veteran Transition Stress: Development and Validation Study](https://doi.org/10.2196/90155) | article | OpenAlex |
-| 2026-04-29 | [Distributional Alignment Games for Answer-Level Fine-Tuning](https://arxiv.org/abs/2604.27166) | article | Official page |
 
-More: [381 additional papers](docs/labs/google-deepmind.md)
+More: [384 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
-`684` papers · latest `2026-05-14` · [full list](docs/labs/tencent-hunyuan.md)
+`685` papers · latest `2026-05-18` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-18 | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
 | 2026-05-14 | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |
 | 2026-05-12 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
 | 2026-05-12 | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | article | OpenAlex |
@@ -107,9 +91,25 @@ More: [381 additional papers](docs/labs/google-deepmind.md)
 | 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
 | 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
 | 2026-05-07 | [Implicit Preference Alignment for Human Image Animation](https://huggingface.co/papers/2605.07545) | technical-report | Official page |
-| 2026-05-07 | [A$^2$TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping](https://arxiv.org/abs/2605.06200) | article | OpenAlex |
 
-More: [676 additional papers](docs/labs/tencent-hunyuan.md)
+More: [677 additional papers](docs/labs/tencent-hunyuan.md)
+
+### 🇨🇳 Alibaba/Qwen
+
+`437` papers · latest `2026-05-18` · [full list](docs/labs/alibaba-qwen.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-18 | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
+| 2026-05-16 | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
+| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
+| 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
+| 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
+| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
+| 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
+| 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |
+
+More: [429 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇨🇳 Baidu
 
@@ -130,7 +130,7 @@ More: [241 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Microsoft
 
-`1638` papers · latest `2026-05-13` · [full list](docs/labs/microsoft.md)
+`1640` papers · latest `2026-05-13` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -140,10 +140,10 @@ More: [241 additional papers](docs/labs/baidu.md)
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
 | 2026-05-07 | [VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](https://www.microsoft.com/en-us/research/publication/vla-gse-boosting-parameter-efficient-fine-tuning-in-vla-with-generalized-and-specialized-experts/) | publication | Official page |
+| 2026-05-07 | [Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media](https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/) | publication | Official page |
 | 2026-05-07 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/) | publication | Official page |
-| 2026-05-07 | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
 
-More: [1630 additional papers](docs/labs/microsoft.md)
+More: [1632 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 
@@ -232,20 +232,20 @@ More: [358 additional papers](docs/labs/apple.md)
 
 ### 🇺🇸 NVIDIA
 
-`226` papers · latest `2026-05-10` · [full list](docs/labs/nvidia.md)
+`227` papers · latest `2026-05-10` · [full list](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-10 | [Workspace Optimization: How to Train Your Agent](https://arxiv.org/abs/2605.09650) | article | OpenAlex |
+| 2026-05 | [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](https://research.nvidia.com/publication/2026-05_nemotron-labs-diffusion-tri-mode-language-model-unifying-autoregressive) | publication | Official page |
 | 2026-04-28 | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | article | OpenAlex |
 | 2026-04-27 | [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://huggingface.co/papers/2604.24954) | paper | HuggingFace |
 | 2026-04-24 | [Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation](http://arxiv.org/abs/2503.20191) | article | OpenAlex |
 | 2026-04-24 | [MVCBench: A Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes](https://doi.org/10.64898/2026.04.22.720110) | article | OpenAlex |
 | 2026-04-21 | [LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models Using in-the-wild Data](https://doi.org/10.1109/icassp55912.2026.11462195) | article | OpenAlex |
 | 2026-04-21 | [Generalizability of Predictive and Generative Speech Enhancement Models to Pathological Speakers](http://arxiv.org/abs/2509.18890) | article | OpenAlex |
-| 2026-04-21 | [Discrete Diffusion for Generative Modeling of Text-Aligned Speech Tokens](https://doi.org/10.1109/icassp55912.2026.11462921) | article | OpenAlex |
 
-More: [218 additional papers](docs/labs/nvidia.md)
+More: [219 additional papers](docs/labs/nvidia.md)
 
 ### 🇺🇸 Anthropic
 

@@ -1,15 +1,18 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `389`
-- Latest: `2026-05-15`
+- Papers: `392`
+- Latest: `2026-05-19`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-19 | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
+| 2026-05-19 | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
 | 2026-05-15 | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
+| 2026-05-15 | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
 | 2026-05-14 | [Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience](https://arxiv.org/abs/2605.14443) | article | OpenAlex |
 | 2026-05-13 | [Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling](https://arxiv.org/abs/2605.13801) | article | OpenAlex |
 | 2026-05-12 | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/abs/2605.12419) | article | OpenAlex |

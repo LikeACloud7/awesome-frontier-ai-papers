@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1638`
+- Papers: `1640`
 - Latest: `2026-05-13`
 - [Back to README](../../README.md#microsoft)
 
@@ -15,8 +15,10 @@
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
 | 2026-05-07 | [VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](https://www.microsoft.com/en-us/research/publication/vla-gse-boosting-parameter-efficient-fine-tuning-in-vla-with-generalized-and-specialized-experts/) | publication | Official page |
+| 2026-05-07 | [Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media](https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/) | publication | Official page |
 | 2026-05-07 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/) | publication | Official page |
 | 2026-05-07 | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
+| 2026-05-07 | [XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity](https://www.microsoft.com/en-us/research/publication/xl-safetybench-a-country-grounded-cross-cultural-benchmark-for-llm-safety-and-cultural-sensitivity/) | publication | Official page |
 | 2026-05-05 | [Audio-Visual Intelligence in Large Foundation Models](https://www.microsoft.com/en-us/research/publication/audio-visual-intelligence-in-large-foundation-models/) | publication | Official page |
 | 2026-05-05 | [Agentic-imodels: Evolving agentic interpretability tools via autoresearch](https://www.microsoft.com/en-us/research/publication/agentic-imodels-evolving-agentic-interpretability-tools-via-autoresearch/) | publication | Official page |
 | 2026-05-04 | [Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?](https://www.microsoft.com/en-us/research/publication/terminus-4b-can-a-smaller-model-replace-frontier-llms-at-agentic-execution-tasks/) | publication | Official page |
@@ -182,7 +184,7 @@
 | 2026-03-27 | [Developers and generative AI: A study of self-admitted usage in open source projects](https://www.microsoft.com/en-us/research/publication/developers-and-generative-ai-a-study-of-self-admitted-usage-in-open-source-projects/) | publication | Official page |
 | 2026-03-27 | [OVI-MAP:Open-Vocabulary Instance-Semantic Mapping](https://www.microsoft.com/en-us/research/publication/ovi-mapopen-vocabulary-instance-semantic-mapping/) | publication | Official page |
 | 2026-03-27 | [LACON: Training Text-to-Image Model from Uncurated Data](https://www.microsoft.com/en-us/research/publication/lacon-training-text-to-image-model-from-uncurated-data/) | publication | Official page |
-| 2026-03-26 | [DFLOP: A Data-driven Framework for Multimodal LLM Training Pipeline Optimization](https://www.microsoft.com/en-us/research/publication/dflop-a-data-driven-framework-for-multimodal-llm-training-pipeline-optimization/) | publication | Official page |
+| 2026-03-26 | [DFLOP: A Data-driven Framework for Multimodal LLM Training Pipeline Optimization](https://www.microsoft.com/en-us/research/publication/dflop-a-data-driven-framework-for-multimodal-llm-training-pipeline-optimization/) | publication | Official page, OpenAlex |
 | 2026-03-26 | [MegaFlow: Zero-Shot Large Displacement Optical Flow](https://www.microsoft.com/en-us/research/publication/megaflow-zero-shot-large-displacement-optical-flow/) | publication | Official page |
 | 2026-03-26 | [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/hispatial-taming-hierarchical-3d-spatial-understanding-in-vision-language-models/) | publication | Official page |
 | 2026-03-26 | [BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation](https://www.microsoft.com/en-us/research/publication/bizgeneval-a-systematic-benchmark-for-commercial-visual-content-generation/) | publication | Official page |
