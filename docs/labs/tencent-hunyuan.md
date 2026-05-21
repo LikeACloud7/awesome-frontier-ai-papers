@@ -1,17 +1,19 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `685`
-- Latest: `2026-05-18`
+- Papers: `687`
+- Latest: `2026-05-19`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-19 | [PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](https://huggingface.co/papers/2605.20873) | technical-report | Official page |
 | 2026-05-18 | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
 | 2026-05-14 | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |
 | 2026-05-12 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
+| 2026-05-12 | [report](https://huggingface.co/tencent/Hy-MT2-1.8B-FP8/blob/main/HY_MT2_0_Report.pdf) | technical-report | Official repo |
 | 2026-05-12 | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | article | OpenAlex |
 | 2026-05-11 | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
 | 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |

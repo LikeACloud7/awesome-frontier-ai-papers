@@ -4,20 +4,20 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-20T07:01:02+00:00`
-- Coverage: `5743` papers across `19` labs since 2024
+- Last generated: `2026-05-21T07:06:46+00:00`
+- Coverage: `5748` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 420 | 2026-05-20 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 687 | 2026-05-19 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 392 | 2026-05-19 | [all papers](docs/labs/google-deepmind.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 685 | 2026-05-18 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 437 | 2026-05-18 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 438 | 2026-05-18 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 249 | 2026-05-14 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1640 | 2026-05-13 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1641 | 2026-05-13 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 934 | 2026-05-13 | [all papers](docs/labs/amazon.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 419 | 2026-05-13 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 21 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇺🇸 US | [Apple](#apple) | 366 | 2026-05-11 | [all papers](docs/labs/apple.md) |
@@ -35,10 +35,13 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-05-20 | Huawei/Noah | [IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://huggingface.co/papers/2605.20682) | paper | HuggingFace |
+| 2026-05-19 | Tencent/Hunyuan | [PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](https://huggingface.co/papers/2605.20873) | technical-report | Official page |
 | 2026-05-19 | Google/DeepMind | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
 | 2026-05-19 | Google/DeepMind | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
 | 2026-05-18 | Tencent/Hunyuan | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
 | 2026-05-18 | Alibaba/Qwen | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
+| 2026-05-18 | Alibaba/Qwen | [An information-theoretic framework for robust large language model editing](http://arxiv.org/abs/2512.16227) | article | OpenAlex |
 | 2026-05-16 | Alibaba/Qwen | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
@@ -52,13 +55,44 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-13 | Amazon | [Data Difficulty and the Generalization--Extrapolation Tradeoff in LLM Fine-Tuning](https://doi.org/10.48550/arxiv.2605.12906) | preprint | OpenAlex |
 | 2026-05-13 | Huawei/Noah | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://huggingface.co/papers/2605.13778) | paper | HuggingFace |
 | 2026-05-12 | Alibaba/Qwen | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
-| 2026-05-12 | DeepSeek | [PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://huggingface.co/papers/2605.13027) | technical-report | Official page |
-| 2026-05-12 | Tencent/Hunyuan | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
-| 2026-05-12 | StepFun | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://huggingface.co/papers/2605.12034) | technical-report | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇨🇳 Huawei/Noah
+
+`420` papers · latest `2026-05-20` · [full list](docs/labs/huawei-noah.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-20 | [IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://huggingface.co/papers/2605.20682) | paper | HuggingFace |
+| 2026-05-13 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://huggingface.co/papers/2605.13778) | paper | HuggingFace |
+| 2026-05-06 | [CAMV: A Framework for Context-Aware Multi-View Visualization of Data Analysis Results](https://doi.org/10.1007/s41019-026-00353-x) | article | OpenAlex |
+| 2026-04-27 | [CE-CLIP: Cloud–edge collaborative fine-tuning for multimodal adaptation](https://doi.org/10.1016/j.patcog.2026.113846) | article | OpenAlex |
+| 2026-04-25 | [Multi-modal large language model-based image captioning algorithm in information and communication technology: Bridging the gap between general and industry domain](https://doi.org/10.1016/j.engappai.2026.114848) | article | OpenAlex |
+| 2026-04-24 | [On-device Semantic Selection Made Low Latency and Memory Efficient with Monolithic Forwarding](http://arxiv.org/abs/2510.15620) | article | OpenAlex |
+| 2026-04-24 | [Shared-private vision-to-text connector for grounded multimodal named entity recognition with synergistic global–local alignment](https://doi.org/10.1007/s13042-026-03062-z) | article | OpenAlex |
+| 2026-04-21 | [PLPP: Prompt Learning with Perplexity is Self-Distillation for Vision-Language Models](http://arxiv.org/abs/2412.15277) | preprint | OpenAlex |
+
+More: [412 additional papers](docs/labs/huawei-noah.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`687` papers · latest `2026-05-19` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-19 | [PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](https://huggingface.co/papers/2605.20873) | technical-report | Official page |
+| 2026-05-18 | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
+| 2026-05-14 | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |
+| 2026-05-12 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
+| 2026-05-12 | [report](https://huggingface.co/tencent/Hy-MT2-1.8B-FP8/blob/main/HY_MT2_0_Report.pdf) | technical-report | Official repo |
+| 2026-05-12 | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | article | OpenAlex |
+| 2026-05-11 | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
+| 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
+
+More: [679 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Google/DeepMind
 
@@ -77,39 +111,22 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 More: [384 additional papers](docs/labs/google-deepmind.md)
 
-### 🇨🇳 Tencent/Hunyuan
-
-`685` papers · latest `2026-05-18` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-18 | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
-| 2026-05-14 | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |
-| 2026-05-12 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](https://huggingface.co/papers/2605.11739) | technical-report | Official page |
-| 2026-05-12 | [Entropy Polarity in Reinforcement Fine-Tuning: Direction, Asymmetry, and Control](https://arxiv.org/abs/2605.11775) | article | OpenAlex |
-| 2026-05-11 | [Debiased Model-based Representations for Sample-efficient Continuous Control](https://huggingface.co/papers/2605.11711) | technical-report | Official page |
-| 2026-05-09 | [Reinforcing Multimodal Reasoning Against Visual Degradation](https://huggingface.co/papers/2605.09262) | technical-report | Official page |
-| 2026-05-09 | [DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification](https://huggingface.co/papers/2605.09269) | technical-report | Official page |
-| 2026-05-07 | [Implicit Preference Alignment for Human Image Animation](https://huggingface.co/papers/2605.07545) | technical-report | Official page |
-
-More: [677 additional papers](docs/labs/tencent-hunyuan.md)
-
 ### 🇨🇳 Alibaba/Qwen
 
-`437` papers · latest `2026-05-18` · [full list](docs/labs/alibaba-qwen.md)
+`438` papers · latest `2026-05-18` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-18 | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
+| 2026-05-18 | [An information-theoretic framework for robust large language model editing](http://arxiv.org/abs/2512.16227) | article | OpenAlex |
 | 2026-05-16 | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
 | 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
 | 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
 | 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
 | 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
 | 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
-| 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |
 
-More: [429 additional papers](docs/labs/alibaba-qwen.md)
+More: [430 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇨🇳 Baidu
 
@@ -130,7 +147,7 @@ More: [241 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Microsoft
 
-`1640` papers · latest `2026-05-13` · [full list](docs/labs/microsoft.md)
+`1641` papers · latest `2026-05-13` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -143,7 +160,7 @@ More: [241 additional papers](docs/labs/baidu.md)
 | 2026-05-07 | [Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media](https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/) | publication | Official page |
 | 2026-05-07 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/) | publication | Official page |
 
-More: [1632 additional papers](docs/labs/microsoft.md)
+More: [1633 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 
@@ -161,23 +178,6 @@ More: [1632 additional papers](docs/labs/microsoft.md)
 | 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | OpenAlex |
 
 More: [926 additional papers](docs/labs/amazon.md)
-
-### 🇨🇳 Huawei/Noah
-
-`419` papers · latest `2026-05-13` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-13 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://huggingface.co/papers/2605.13778) | paper | HuggingFace |
-| 2026-05-06 | [CAMV: A Framework for Context-Aware Multi-View Visualization of Data Analysis Results](https://doi.org/10.1007/s41019-026-00353-x) | article | OpenAlex |
-| 2026-04-27 | [CE-CLIP: Cloud–edge collaborative fine-tuning for multimodal adaptation](https://doi.org/10.1016/j.patcog.2026.113846) | article | OpenAlex |
-| 2026-04-25 | [Multi-modal large language model-based image captioning algorithm in information and communication technology: Bridging the gap between general and industry domain](https://doi.org/10.1016/j.engappai.2026.114848) | article | OpenAlex |
-| 2026-04-24 | [On-device Semantic Selection Made Low Latency and Memory Efficient with Monolithic Forwarding](http://arxiv.org/abs/2510.15620) | article | OpenAlex |
-| 2026-04-24 | [Shared-private vision-to-text connector for grounded multimodal named entity recognition with synergistic global–local alignment](https://doi.org/10.1007/s13042-026-03062-z) | article | OpenAlex |
-| 2026-04-21 | [PLPP: Prompt Learning with Perplexity is Self-Distillation for Vision-Language Models](http://arxiv.org/abs/2412.15277) | preprint | OpenAlex |
-| 2026-04-21 | [MAR: Efficient Large Language Models Via Module-Aware Architecture Refinement](https://arxiv.org/abs/2601.21503) | article | OpenAlex |
-
-More: [411 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇨🇳 DeepSeek
 

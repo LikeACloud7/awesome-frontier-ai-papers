@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1640`
+- Papers: `1641`
 - Latest: `2026-05-13`
 - [Back to README](../../README.md#microsoft)
 
@@ -18,6 +18,7 @@
 | 2026-05-07 | [Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media](https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/) | publication | Official page |
 | 2026-05-07 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/) | publication | Official page |
 | 2026-05-07 | [DataDignity: Training Data Attribution for Large Language Models](https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/) | publication | Official page |
+| 2026-05-07 | [AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases](https://www.microsoft.com/en-us/research/publication/agenticrag-agentic-retrieval-for-enterprise-knowledge-bases/) | publication | Official page |
 | 2026-05-07 | [XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity](https://www.microsoft.com/en-us/research/publication/xl-safetybench-a-country-grounded-cross-cultural-benchmark-for-llm-safety-and-cultural-sensitivity/) | publication | Official page |
 | 2026-05-05 | [Audio-Visual Intelligence in Large Foundation Models](https://www.microsoft.com/en-us/research/publication/audio-visual-intelligence-in-large-foundation-models/) | publication | Official page |
 | 2026-05-05 | [Agentic-imodels: Evolving agentic interpretability tools via autoresearch](https://www.microsoft.com/en-us/research/publication/agentic-imodels-evolving-agentic-interpretability-tools-via-autoresearch/) | publication | Official page |
