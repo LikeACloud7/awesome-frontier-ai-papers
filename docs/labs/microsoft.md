@@ -1,19 +1,43 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1641`
-- Latest: `2026-05-13`
+- Papers: `1665`
+- Latest: `2026-05-14`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-14 | [Orchard: An Open-Source Agentic Modeling Framework](https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/) | publication | Official page |
+| 2026-05-14 | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](https://www.microsoft.com/en-us/research/publication/groupmembench-benchmarking-llm-agent-memory-in-multi-party-conversations/) | publication | Official page |
+| 2026-05-14 | [Auditing Agent Harness Safety](https://www.microsoft.com/en-us/research/publication/auditing-agent-harness-safety/) | publication | Official page |
+| 2026-05-14 | [Test-Time Learning with an Evolving Library](https://www.microsoft.com/en-us/research/publication/test-time-learning-with-an-evolving-library/) | publication | Official page |
+| 2026-05-14 | [InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation](https://www.microsoft.com/en-us/research/publication/insighttok-improving-text-and-face-fidelity-in-discrete-tokenization-for-autoregressive-image-generation/) | publication | Official page |
+| 2026-05-13 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://www.microsoft.com/en-us/research/publication/what-to-ignore-what-to-react-visually-robust-rl-fine-tuning-of-vla-models/) | publication | Official page |
+| 2026-05-13 | [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](https://www.microsoft.com/en-us/research/publication/pdcr-perception-decomposed-confidence-reward-for-vision-language-reasoning/) | publication | Official page |
+| 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | OpenAlex, Official page |
+| 2026-05-13 | [Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models](https://www.microsoft.com/en-us/research/publication/thinking-ahead-prospection-guided-retrieval-of-memory-with-language-models/) | publication | Official page |
 | 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
-| 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | OpenAlex |
+| 2026-05-12 | [Kairos: A Scalable Serving System for Physical AI](https://www.microsoft.com/en-us/research/publication/kairos-a-scalable-serving-system-for-physical-ai/) | publication | Official page |
+| 2026-05-12 | [DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models](https://www.microsoft.com/en-us/research/publication/disabench-a-participatory-evaluation-framework-for-disability-harms-in-language-models/) | publication | Official page |
+| 2026-05-12 | [Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://www.microsoft.com/en-us/research/publication/beyond-grpo-and-on-policy-distillation-an-empirical-sparse-to-dense-reward-principle-for-language-model-post-training/) | publication | Official page |
+| 2026-05-12 | [Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty](https://www.microsoft.com/en-us/research/publication/agent-brace-decoupling-beliefs-from-actions-in-long-horizon-tasks-via-verbalized-state-uncertainty/) | publication | Official page |
+| 2026-05-12 | [Multi-Rollout On-Policy Distillation via Peer Successes and Failures](https://www.microsoft.com/en-us/research/publication/multi-rollout-on-policy-distillation-via-peer-successes-and-failures/) | publication | Official page |
+| 2026-05-12 | [GEAR: Granularity-Adaptive Advantage Reweighting for LLM Agents via Self-Distillation](https://www.microsoft.com/en-us/research/publication/gear-granularity-adaptive-advantage-reweighting-for-llm-agents-via-self-distillation/) | publication | Official page |
 | 2026-05-12 | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
+| 2026-05-11 | [Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR](https://www.microsoft.com/en-us/research/publication/rebellious-student-reversing-teacher-signals-for-reasoning-exploration-with-self-distilled-rlvr/) | publication | Official page |
+| 2026-05-11 | [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://www.microsoft.com/en-us/research/publication/reinforce-adjoint-matching-scaling-rl-post-training-of-diffusion-and-flow-matching-models/) | publication | Official page |
+| 2026-05-11 | [ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction](https://www.microsoft.com/en-us/research/publication/revision-scaling-computer-use-agents-via-temporal-visual-redundancy-reduction/) | publication | Official page |
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
+| 2026-05-10 | [CodeClinic: Evaluating Automation of Coding Skills for Clinical Reasoning Agents](https://www.microsoft.com/en-us/research/publication/codeclinic-evaluating-automation-of-coding-skills-for-clinical-reasoning-agents/) | publication | Official page |
+| 2026-05-10 | [Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution Environments](https://www.microsoft.com/en-us/research/publication/security-risks-in-tool-enabled-ai-agents-a-systematic-analysis-of-privileged-execution-environments/) | publication | Official page |
+| 2026-05-09 | [EvidenT: An Evidence-Preserving Framework for Iterative System-Level Package Repair](https://www.microsoft.com/en-us/research/publication/evident-an-evidence-preserving-framework-for-iterative-system-level-package-repair/) | publication | Official page |
+| 2026-05-09 | [Generating Leakage-Free Benchmarks for Robust RAG Evaluation](https://www.microsoft.com/en-us/research/publication/generating-leakage-free-benchmarks-for-robust-rag-evaluation/) | publication | Official page |
+| 2026-05-08 | [Human-Inspired Memory Architecture for LLM Agents](https://www.microsoft.com/en-us/research/publication/human-inspired-memory-architecture-for-llm-agents/) | publication | Official page |
 | 2026-05-08 | [Switchcraft: AI Model Router for Agentic Tool Calling](https://www.microsoft.com/en-us/research/publication/switchcraft-ai-model-router-for-agentic-tool-calling/) | publication | Official page |
+| 2026-05-08 | [Can Revealed Preferences Clarify LLM Alignment and Steering?](https://www.microsoft.com/en-us/research/publication/can-revealed-preferences-clarify-llm-alignment-and-steering/) | publication | Official page |
+| 2026-05-08 | [Willful Disobedience: Automatically Detecting Failures in Agentic](https://www.microsoft.com/en-us/research/publication/willful-disobedience-automatically-detecting-failures-in-agentic/) | publication | Official page |
 | 2026-05-07 | [VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](https://www.microsoft.com/en-us/research/publication/vla-gse-boosting-parameter-efficient-fine-tuning-in-vla-with-generalized-and-specialized-experts/) | publication | Official page |
 | 2026-05-07 | [Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media](https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/) | publication | Official page |
 | 2026-05-07 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/) | publication | Official page |
