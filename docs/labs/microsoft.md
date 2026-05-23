@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1665`
+- Papers: `1671`
 - Latest: `2026-05-14`
 - [Back to README](../../README.md#microsoft)
 
@@ -14,24 +14,30 @@
 | 2026-05-14 | [Auditing Agent Harness Safety](https://www.microsoft.com/en-us/research/publication/auditing-agent-harness-safety/) | publication | Official page |
 | 2026-05-14 | [Test-Time Learning with an Evolving Library](https://www.microsoft.com/en-us/research/publication/test-time-learning-with-an-evolving-library/) | publication | Official page |
 | 2026-05-14 | [InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation](https://www.microsoft.com/en-us/research/publication/insighttok-improving-text-and-face-fidelity-in-discrete-tokenization-for-autoregressive-image-generation/) | publication | Official page |
+| 2026-05-14 | [MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs](https://www.microsoft.com/en-us/research/publication/metabackdoor-exploiting-positional-encoding-as-a-backdoor-attack-surface-in-llms/) | publication | Official page |
 | 2026-05-13 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://www.microsoft.com/en-us/research/publication/what-to-ignore-what-to-react-visually-robust-rl-fine-tuning-of-vla-models/) | publication | Official page |
 | 2026-05-13 | [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](https://www.microsoft.com/en-us/research/publication/pdcr-perception-decomposed-confidence-reward-for-vision-language-reasoning/) | publication | Official page |
-| 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | OpenAlex, Official page |
+| 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | Official page |
 | 2026-05-13 | [Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models](https://www.microsoft.com/en-us/research/publication/thinking-ahead-prospection-guided-retrieval-of-memory-with-language-models/) | publication | Official page |
 | 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
 | 2026-05-12 | [Kairos: A Scalable Serving System for Physical AI](https://www.microsoft.com/en-us/research/publication/kairos-a-scalable-serving-system-for-physical-ai/) | publication | Official page |
 | 2026-05-12 | [DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models](https://www.microsoft.com/en-us/research/publication/disabench-a-participatory-evaluation-framework-for-disability-harms-in-language-models/) | publication | Official page |
+| 2026-05-12 | [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://www.microsoft.com/en-us/research/publication/covering-human-action-space-for-computer-use-data-synthesis-and-benchmark/) | publication | Official page |
 | 2026-05-12 | [Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://www.microsoft.com/en-us/research/publication/beyond-grpo-and-on-policy-distillation-an-empirical-sparse-to-dense-reward-principle-for-language-model-post-training/) | publication | Official page |
 | 2026-05-12 | [Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty](https://www.microsoft.com/en-us/research/publication/agent-brace-decoupling-beliefs-from-actions-in-long-horizon-tasks-via-verbalized-state-uncertainty/) | publication | Official page |
+| 2026-05-12 | [No One Knows the State of the Art in Geospatial Foundation Models](https://www.microsoft.com/en-us/research/publication/no-one-knows-the-state-of-the-art-in-geospatial-foundation-models/) | publication | Official page |
 | 2026-05-12 | [Multi-Rollout On-Policy Distillation via Peer Successes and Failures](https://www.microsoft.com/en-us/research/publication/multi-rollout-on-policy-distillation-via-peer-successes-and-failures/) | publication | Official page |
 | 2026-05-12 | [GEAR: Granularity-Adaptive Advantage Reweighting for LLM Agents via Self-Distillation](https://www.microsoft.com/en-us/research/publication/gear-granularity-adaptive-advantage-reweighting-for-llm-agents-via-self-distillation/) | publication | Official page |
 | 2026-05-12 | [Assessing generative modeling approaches for free energy estimates in condensed matter](https://doi.org/10.1063/5.0320214) | article | OpenAlex |
 | 2026-05-11 | [Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR](https://www.microsoft.com/en-us/research/publication/rebellious-student-reversing-teacher-signals-for-reasoning-exploration-with-self-distilled-rlvr/) | publication | Official page |
 | 2026-05-11 | [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models](https://www.microsoft.com/en-us/research/publication/reinforce-adjoint-matching-scaling-rl-post-training-of-diffusion-and-flow-matching-models/) | publication | Official page |
 | 2026-05-11 | [ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction](https://www.microsoft.com/en-us/research/publication/revision-scaling-computer-use-agents-via-temporal-visual-redundancy-reduction/) | publication | Official page |
+| 2026-05-11 | [DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning](https://www.microsoft.com/en-us/research/publication/deeprefine-agent-compiled-knowledge-refinement-via-reinforcement-learning/) | publication | Official page |
 | 2026-05-11 | [An Interpretable Multi-Modal Ensemble Framework for Breast Cancer Analysis Using Imaging, Omics and Biomedical Literature](https://doi.org/10.3991/ijoe.v22i05.60535) | article | OpenAlex |
 | 2026-05-10 | [CodeClinic: Evaluating Automation of Coding Skills for Clinical Reasoning Agents](https://www.microsoft.com/en-us/research/publication/codeclinic-evaluating-automation-of-coding-skills-for-clinical-reasoning-agents/) | publication | Official page |
 | 2026-05-10 | [Security Risks in Tool-Enabled AI Agents: A Systematic Analysis of Privileged Execution Environments](https://www.microsoft.com/en-us/research/publication/security-risks-in-tool-enabled-ai-agents-a-systematic-analysis-of-privileged-execution-environments/) | publication | Official page |
+| 2026-05-10 | [Oracle Poisoning: Corrupting Knowledge Graphs to Weaponise AI Agent Reasoning](https://www.microsoft.com/en-us/research/publication/oracle-poisoning-corrupting-knowledge-graphs-to-weaponise-ai-agent-reasoning/) | publication | Official page |
+| 2026-05-10 | [Position: Avoid Overstretching LLMs for every Enterprise Task](https://www.microsoft.com/en-us/research/publication/position-avoid-overstretching-llms-for-every-enterprise-task/) | publication | Official page |
 | 2026-05-09 | [EvidenT: An Evidence-Preserving Framework for Iterative System-Level Package Repair](https://www.microsoft.com/en-us/research/publication/evident-an-evidence-preserving-framework-for-iterative-system-level-package-repair/) | publication | Official page |
 | 2026-05-09 | [Generating Leakage-Free Benchmarks for Robust RAG Evaluation](https://www.microsoft.com/en-us/research/publication/generating-leakage-free-benchmarks-for-robust-rag-evaluation/) | publication | Official page |
 | 2026-05-08 | [Human-Inspired Memory Architecture for LLM Agents](https://www.microsoft.com/en-us/research/publication/human-inspired-memory-architecture-for-llm-agents/) | publication | Official page |
@@ -216,7 +222,7 @@
 | 2026-03-26 | [A Decade-Scale Benchmark Evaluating LLMs' Clinical Practice Guidelines Detection and Adherence in Multi-turn Conversations](https://www.microsoft.com/en-us/research/publication/a-decade-scale-benchmark-evaluating-llms-clinical-practice-guidelines-detection-and-adherence-in-multi-turn-conversations/) | publication | Official page |
 | 2026-03-25 | [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](https://www.microsoft.com/en-us/research/publication/why-does-self-distillation-sometimes-degrade-the-reasoning-capability-of-llms/) | publication | Official page |
 | 2026-03-25 | [Counting Without Numbers &Finding Without Words](https://www.microsoft.com/en-us/research/publication/counting-without-numbers-finding-without-words/) | publication | Official page |
-| 2026-03-25 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://www.microsoft.com/en-us/research/publication/willful-disobedience-automatically-detecting-failures-in-agentic-traces/) | publication | Official page |
+| 2026-03-25 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://www.microsoft.com/en-us/research/publication/willful-disobedience-automatically-detecting-failures-in-agentic-traces/) | publication | Official page, OpenAlex |
 | 2026-03-25 | [The Price Reversal Phenomenon: When Cheaper Reasoning Models End Up Costing More](https://www.microsoft.com/en-us/research/publication/the-price-reversal-phenomenon-when-cheaper-reasoning-models-end-up-costing-more/) | publication | Official page |
 | 2026-03-24 | [SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling](https://www.microsoft.com/en-us/research/publication/sortedrl-accelerating-rl-training-for-llms-through-online-length-aware-scheduling/) | publication | Official page |
 | 2026-03-23 | [Early Discoveries of Algorithmist I: Promise of Provable Algorithm Synthesis at Scale](https://www.microsoft.com/en-us/research/publication/early-discoveries-of-algorithmist-i-promise-of-provable-algorithm-synthesis-at-scale/) | publication | Official page |
