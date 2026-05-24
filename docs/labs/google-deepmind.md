@@ -1,14 +1,16 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `393`
-- Latest: `2026-05-21`
+- Papers: `395`
+- Latest: `2026-05-22`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-22 | [On the Limits of End-to-End Foundation Models: Coordination as a Missing Primitive for Artificial General Intelligence](https://doi.org/10.21203/rs.3.rs-9784163/v1) | preprint | OpenAlex |
+| 2026-05-22 | [Genflow Ad Studio: A Compound AI Architecture for Brand-Aligned, Self-Correcting Video Generation](https://arxiv.org/abs/2605.16748) | article | OpenAlex |
 | 2026-05-21 | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |
 | 2026-05-19 | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
 | 2026-05-19 | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |

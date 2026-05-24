@@ -4,29 +4,29 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-23T06:23:48+00:00`
-- Coverage: `5784` papers across `19` labs since 2024
+- Last generated: `2026-05-24T06:51:50+00:00`
+- Coverage: `5790` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Amazon](#amazon) | 938 | 2026-05-22 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 395 | 2026-05-22 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 367 | 2026-05-22 | [all papers](docs/labs/apple.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 936 | 2026-05-21 | [all papers](docs/labs/amazon.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 393 | 2026-05-21 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [OpenAI](#openai) | 53 | 2026-05-22 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 420 | 2026-05-20 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 687 | 2026-05-19 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 439 | 2026-05-18 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 250 | 2026-05-18 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1671 | 2026-05-14 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 127 | 2026-05-14 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 21 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 227 | 2026-05-10 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [OpenAI](#openai) | 52 | 2026-05-05 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 22 | 2026-04-28 | [all papers](docs/labs/zai-zhipu.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 146 | 2026-04-22 | [all papers](docs/labs/bytedance-seed.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 126 | 2026-04-16 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 6 | 2025-12-15 | [all papers](docs/labs/minimax.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
@@ -36,6 +36,10 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-05-22 | Apple | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |
+| 2026-05-22 | Amazon | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
+| 2026-05-22 | Google/DeepMind | [On the Limits of End-to-End Foundation Models: Coordination as a Missing Primitive for Artificial General Intelligence](https://doi.org/10.21203/rs.3.rs-9784163/v1) | preprint | OpenAlex |
+| 2026-05-22 | Google/DeepMind | [Genflow Ad Studio: A Compound AI Architecture for Brand-Aligned, Self-Correcting Video Generation](https://arxiv.org/abs/2605.16748) | article | OpenAlex |
+| 2026-05-22 | OpenAI | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
 | 2026-05-21 | Amazon | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
 | 2026-05-21 | Amazon | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
 | 2026-05-21 | Google/DeepMind | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |
@@ -51,14 +55,44 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-15 | Google/DeepMind | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
 | 2026-05-14 | Microsoft | [Orchard: An Open-Source Agentic Modeling Framework](https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/) | publication | Official page |
-| 2026-05-14 | Microsoft | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](https://www.microsoft.com/en-us/research/publication/groupmembench-benchmarking-llm-agent-memory-in-multi-party-conversations/) | publication | Official page |
-| 2026-05-14 | Microsoft | [Auditing Agent Harness Safety](https://www.microsoft.com/en-us/research/publication/auditing-agent-harness-safety/) | publication | Official page |
-| 2026-05-14 | Microsoft | [Test-Time Learning with an Evolving Library](https://www.microsoft.com/en-us/research/publication/test-time-learning-with-an-evolving-library/) | publication | Official page |
-| 2026-05-14 | Microsoft | [InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation](https://www.microsoft.com/en-us/research/publication/insighttok-improving-text-and-face-fidelity-in-discrete-tokenization-for-autoregressive-image-generation/) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Amazon
+
+`938` papers · latest `2026-05-22` · [full list](docs/labs/amazon.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
+| 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
+| 2026-05-21 | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
+| 2026-05-13 | [Data Difficulty and the Generalization--Extrapolation Tradeoff in LLM Fine-Tuning](https://doi.org/10.48550/arxiv.2605.12906) | preprint | OpenAlex |
+| 2026-05-12 | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
+| 2026-05-10 | [Statistical Scouting Finds Debate-Safe but Not Debate-Useful Cases: A Matched-Ceiling Study of Open-Weight LLM Reasoning Protocols](https://arxiv.org/abs/2605.09618) | article | OpenAlex |
+| 2026-05-07 | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
+| 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
+
+More: [930 additional papers](docs/labs/amazon.md)
+
+### 🇺🇸 Google/DeepMind
+
+`395` papers · latest `2026-05-22` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-22 | [On the Limits of End-to-End Foundation Models: Coordination as a Missing Primitive for Artificial General Intelligence](https://doi.org/10.21203/rs.3.rs-9784163/v1) | preprint | OpenAlex |
+| 2026-05-22 | [Genflow Ad Studio: A Compound AI Architecture for Brand-Aligned, Self-Correcting Video Generation](https://arxiv.org/abs/2605.16748) | article | OpenAlex |
+| 2026-05-21 | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |
+| 2026-05-19 | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
+| 2026-05-19 | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
+| 2026-05-15 | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
+| 2026-05-15 | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
+| 2026-05-14 | [Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience](https://arxiv.org/abs/2605.14443) | article | OpenAlex |
+
+More: [387 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Apple
 
@@ -77,39 +111,22 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 More: [359 additional papers](docs/labs/apple.md)
 
-### 🇺🇸 Amazon
+### 🇺🇸 OpenAI
 
-`936` papers · latest `2026-05-21` · [full list](docs/labs/amazon.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
-| 2026-05-21 | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
-| 2026-05-13 | [Data Difficulty and the Generalization--Extrapolation Tradeoff in LLM Fine-Tuning](https://doi.org/10.48550/arxiv.2605.12906) | preprint | OpenAlex |
-| 2026-05-12 | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
-| 2026-05-10 | [Statistical Scouting Finds Debate-Safe but Not Debate-Useful Cases: A Matched-Ceiling Study of Open-Weight LLM Reasoning Protocols](https://arxiv.org/abs/2605.09618) | article | OpenAlex |
-| 2026-05-07 | [Teaching LLMs Program Semantics via Symbolic Execution Traces](https://arxiv.org/abs/2605.06184) | article | OpenAlex |
-| 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
-| 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
-
-More: [928 additional papers](docs/labs/amazon.md)
-
-### 🇺🇸 Google/DeepMind
-
-`393` papers · latest `2026-05-21` · [full list](docs/labs/google-deepmind.md)
+`53` papers · latest `2026-05-22` · [full list](docs/labs/openai.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-05-21 | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |
-| 2026-05-19 | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
-| 2026-05-19 | [Gemini 3.5 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash/) | model_card | Official page |
-| 2026-05-15 | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
-| 2026-05-15 | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
-| 2026-05-14 | [Prompting Policies for Multi-step Reasoning and Tool-Use in Black-box LLMs with Iterative Distillation of Experience](https://arxiv.org/abs/2605.14443) | article | OpenAlex |
-| 2026-05-13 | [Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling](https://arxiv.org/abs/2605.13801) | article | OpenAlex |
-| 2026-05-12 | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/abs/2605.12419) | article | OpenAlex |
+| 2026-05-22 | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
+| 2026-05-05 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
+| 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |
+| 2026-04-23 | [GeneBench: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](https://doi.org/10.64898/2026.04.22.720113) | article | OpenAlex |
+| 2026-04-22 | [Evaluating large language models for accuracy incentivizes hallucinations](https://doi.org/10.1038/s41586-026-10549-w) | article | OpenAlex |
+| 2026-04-16 | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | publication | Official page |
+| 2026-04-16 | [ORION: An agentic reasoning construct for the analysis of complex human immune profiling](https://doi.org/10.64898/2026.04.13.718286) | article | OpenAlex |
+| 2026-04-13 | [Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures](https://doi.org/10.1145/3772363.3778710) | article | OpenAlex |
 
-More: [385 additional papers](docs/labs/google-deepmind.md)
+More: [45 additional papers](docs/labs/openai.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -196,6 +213,23 @@ More: [242 additional papers](docs/labs/baidu.md)
 
 More: [1663 additional papers](docs/labs/microsoft.md)
 
+### 🇺🇸 Meta/FAIR
+
+`127` papers · latest `2026-05-14` · [full list](docs/labs/meta-fair.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-14 | [The 99% Success Paradox: When Near-Perfect Retrieval Equals Random Selection](https://arxiv.org/abs/2605.18857) | article | OpenAlex |
+| 2026-04-16 | [KnitLoRA: bridging low-rank adaptation as interwoven layers for deeper semantic reasoning](https://doi.org/10.1038/s41598-026-47668-3) | article | OpenAlex |
+| 2026-04-13 | [SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling](https://arxiv.org/abs/2604.12110) | article | OpenAlex |
+| 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://ai.meta.com/research/publications/think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning/) | publication | Official page |
+| 2026-04-09 | [Real-Time Trend Prediction via Continually-Aligned LLM Query Generation](https://doi.org/10.1145/3774904.3792950) | article | OpenAlex |
+| 2026-03-26 | [A foundation model of vision, audition, and language for in-silico neuroscience](https://ai.meta.com/research/publications/a-foundation-model-of-vision-audition-and-language-for-in-silico-neuroscience/) | publication | Official page |
+| 2026-02-27 | [Unified Vision–Language Modeling via Concept Space Alignment](https://ai.meta.com/research/publications/unified-vision-language-modeling-via-concept-space-alignment/) | publication | Official page |
+| 2026-02-16 | [Pre-training Language Model for Friend Recommendation: A Case Study of Large Social Graph](https://doi.org/10.1145/3773966.3784972) | article | OpenAlex |
+
+More: [119 additional papers](docs/labs/meta-fair.md)
+
 ### 🇨🇳 DeepSeek
 
 `29` papers · latest `2026-05-12` · [full list](docs/labs/deepseek.md)
@@ -264,23 +298,6 @@ More: [219 additional papers](docs/labs/nvidia.md)
 
 More: [14 additional papers](docs/labs/anthropic.md)
 
-### 🇺🇸 OpenAI
-
-`52` papers · latest `2026-05-05` · [full list](docs/labs/openai.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-05 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
-| 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |
-| 2026-04-23 | [GeneBench: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](https://doi.org/10.64898/2026.04.22.720113) | article | OpenAlex |
-| 2026-04-22 | [Evaluating large language models for accuracy incentivizes hallucinations](https://doi.org/10.1038/s41586-026-10549-w) | article | OpenAlex |
-| 2026-04-16 | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | publication | Official page |
-| 2026-04-16 | [ORION: An agentic reasoning construct for the analysis of complex human immune profiling](https://doi.org/10.64898/2026.04.13.718286) | article | OpenAlex |
-| 2026-04-13 | [Human-AI Interaction Alignment: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures](https://doi.org/10.1145/3772363.3778710) | article | OpenAlex |
-| 2026-03-23 | [Creating with Sora Safely](https://openai.com/index/creating-with-sora-safely) | publication | Official page |
-
-More: [44 additional papers](docs/labs/openai.md)
-
 ### 🇨🇳 Z.ai/Zhipu
 
 `22` papers · latest `2026-04-28` · [full list](docs/labs/zai-zhipu.md)
@@ -314,23 +331,6 @@ More: [14 additional papers](docs/labs/zai-zhipu.md)
 | 2026-03-16 | [Mixture-of-Depths Attention](https://seed.bytedance.com/en/research/mixture-of-depths-attention) | publication | Official page |
 
 More: [138 additional papers](docs/labs/bytedance-seed.md)
-
-### 🇺🇸 Meta/FAIR
-
-`126` papers · latest `2026-04-16` · [full list](docs/labs/meta-fair.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-04-16 | [KnitLoRA: bridging low-rank adaptation as interwoven layers for deeper semantic reasoning](https://doi.org/10.1038/s41598-026-47668-3) | article | OpenAlex |
-| 2026-04-13 | [SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling](https://arxiv.org/abs/2604.12110) | article | OpenAlex |
-| 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://ai.meta.com/research/publications/think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning/) | publication | Official page |
-| 2026-04-09 | [Real-Time Trend Prediction via Continually-Aligned LLM Query Generation](https://doi.org/10.1145/3774904.3792950) | article | OpenAlex |
-| 2026-03-26 | [A foundation model of vision, audition, and language for in-silico neuroscience](https://ai.meta.com/research/publications/a-foundation-model-of-vision-audition-and-language-for-in-silico-neuroscience/) | publication | Official page |
-| 2026-02-27 | [Unified Vision–Language Modeling via Concept Space Alignment](https://ai.meta.com/research/publications/unified-vision-language-modeling-via-concept-space-alignment/) | publication | Official page |
-| 2026-02-16 | [Pre-training Language Model for Friend Recommendation: A Case Study of Large Social Graph](https://doi.org/10.1145/3773966.3784972) | article | OpenAlex |
-| 2026-02-11 | [UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://ai.meta.com/research/publications/unit-unified-multimodal-chain-of-thought-test-time-scaling/) | publication | Official page |
-
-More: [118 additional papers](docs/labs/meta-fair.md)
 
 ### 🇨🇳 Moonshot/Kimi
 

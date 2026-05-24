@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `936`
-- Latest: `2026-05-21`
+- Papers: `938`
+- Latest: `2026-05-22`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
 | 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
 | 2026-05-21 | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
 | 2026-05-13 | [Data Difficulty and the Generalization--Extrapolation Tradeoff in LLM Fine-Tuning](https://doi.org/10.48550/arxiv.2605.12906) | preprint | OpenAlex |
@@ -156,6 +157,7 @@
 | 2026 | [Investigating equation-only reasoning in large language models](https://www.amazon.science/publications/investigating-equation-only-reasoning-in-large-language-models) | publication | Official page |
 | 2026 | [Incentivizing consistent, effective and scalable reasoning capability in audio LLMs via reasoning process rewards](https://www.amazon.science/publications/incentivizing-consistent-effective-and-scalable-reasoning-capability-in-audio-llms-via-reasoning-process-rewards) | publication | Official page |
 | 2026 | [ImageRAGTurbo: Towards one-step text-to-image generation with retrieval-augmented diffusion models](https://www.amazon.science/publications/imageragturbo-towards-one-step-text-to-image-generation-with-retrieval-augmented-diffusion-models) | publication | Official page |
+| 2026 | [IDP Accelerator: Agentic document intelligence from extraction to compliance validation](https://www.amazon.science/publications/idp-accelerator-agentic-document-intelligence-from-extraction-to-compliance-validation) | publication | Official page |
 | 2026 | [Hindsight-anchored policy optimization: Turning failure into feedback in sparse reward settings](https://www.amazon.science/publications/hindsight-anchored-policy-optimization-turning-failure-into-feedback-in-sparse-reward-settings) | publication | Official page |
 | 2026 | [Graph-based nearest neighbors with dynamic updates via random walk](https://www.amazon.science/publications/graph-based-nearest-neighbors-with-dynamic-updates-via-random-walk) | publication | Official page |
 | 2026 | [From narrow unlearning to emergent misalignment: Causes, consequences, and containment in LLMs](https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms) | publication | Official page |
