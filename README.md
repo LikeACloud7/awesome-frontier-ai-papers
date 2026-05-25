@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-24T06:51:50+00:00`
-- Coverage: `5790` papers across `19` labs since 2024
+- Last generated: `2026-05-25T08:02:22+00:00`
+- Coverage: `5792` papers across `19` labs since 2024
 
 ## Labs
 
@@ -16,14 +16,14 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [Apple](#apple) | 367 | 2026-05-22 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 53 | 2026-05-22 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 420 | 2026-05-20 | [all papers](docs/labs/huawei-noah.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 228 | 2026-05-20 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 687 | 2026-05-19 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 439 | 2026-05-18 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 250 | 2026-05-18 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1671 | 2026-05-14 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 127 | 2026-05-14 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
-| 🇨🇳 China | [StepFun](#stepfun) | 21 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 227 | 2026-05-10 | [all papers](docs/labs/nvidia.md) |
+| 🇨🇳 China | [StepFun](#stepfun) | 22 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 22 | 2026-04-28 | [all papers](docs/labs/zai-zhipu.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 146 | 2026-04-22 | [all papers](docs/labs/bytedance-seed.md) |
@@ -43,6 +43,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-21 | Amazon | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
 | 2026-05-21 | Amazon | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
 | 2026-05-21 | Google/DeepMind | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |
+| 2026-05-20 | NVIDIA | [Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs](https://arxiv.org/abs/2605.21446) | article | OpenAlex |
 | 2026-05-20 | Huawei/Noah | [IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://huggingface.co/papers/2605.20682) | paper | HuggingFace |
 | 2026-05-19 | Tencent/Hunyuan | [PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](https://huggingface.co/papers/2605.20873) | technical-report | Official page |
 | 2026-05-19 | Google/DeepMind | [Gemini Omni Flash Model Card](https://deepmind.google/models/model-cards/gemini-omni-flash/) | model_card | Official page |
@@ -54,7 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-16 | Alibaba/Qwen | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [A framework for clinical validation of generative artificial intelligence therapeutics](https://doi.org/10.1002/wps.70067) | article | OpenAlex |
 | 2026-05-15 | Google/DeepMind | [3D Segmentation Using Viewpoint-Dependent Spatial Relationships](https://doi.org/10.48550/arxiv.2605.15708) | preprint | OpenAlex |
-| 2026-05-14 | Microsoft | [Orchard: An Open-Source Agentic Modeling Framework](https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/) | publication | Official page |
 
 ## Papers By Lab
 
@@ -145,6 +145,23 @@ More: [45 additional papers](docs/labs/openai.md)
 
 More: [412 additional papers](docs/labs/huawei-noah.md)
 
+### 🇺🇸 NVIDIA
+
+`228` papers · latest `2026-05-20` · [full list](docs/labs/nvidia.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-20 | [Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs](https://arxiv.org/abs/2605.21446) | article | OpenAlex |
+| 2026-05-10 | [Workspace Optimization: How to Train Your Agent](https://arxiv.org/abs/2605.09650) | article | OpenAlex |
+| 2026-05 | [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](https://research.nvidia.com/publication/2026-05_nemotron-labs-diffusion-tri-mode-language-model-unifying-autoregressive) | publication | Official page |
+| 2026-04-28 | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | article | OpenAlex |
+| 2026-04-27 | [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://huggingface.co/papers/2604.24954) | paper | HuggingFace |
+| 2026-04-24 | [Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation](http://arxiv.org/abs/2503.20191) | article | OpenAlex |
+| 2026-04-24 | [MVCBench: A Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes](https://doi.org/10.64898/2026.04.22.720110) | article | OpenAlex |
+| 2026-04-21 | [LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models Using in-the-wild Data](https://doi.org/10.1109/icassp55912.2026.11462195) | article | OpenAlex |
+
+More: [220 additional papers](docs/labs/nvidia.md)
+
 ### 🇨🇳 Tencent/Hunyuan
 
 `687` papers · latest `2026-05-19` · [full list](docs/labs/tencent-hunyuan.md)
@@ -174,7 +191,7 @@ More: [679 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
 | 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
 | 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
-| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
+| 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page, HuggingFace |
 | 2026-05 | [optimizeanything: A Universal API for Optimizing any Text Parameter](https://huggingface.co/papers/2605.19633) | technical-report | Official page |
 
 More: [431 additional papers](docs/labs/alibaba-qwen.md)
@@ -249,37 +266,20 @@ More: [21 additional papers](docs/labs/deepseek.md)
 
 ### 🇨🇳 StepFun
 
-`21` papers · latest `2026-05-12` · [full list](docs/labs/stepfun.md)
+`22` papers · latest `2026-05-12` · [full list](docs/labs/stepfun.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-12 | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://huggingface.co/papers/2605.12034) | technical-report | Official page |
+| 2026-05 | [StepAudio 2.5 Technical Report](https://huggingface.co/papers/2605.23463) | technical-report | Official page |
 | 2026-04-27 | [Step-Audio-R1.5 Technical Report](https://huggingface.co/papers/2604.25719) | technical-report | Official page |
 | 2026-03-30 | [GEditBench v2: A Human-Aligned Benchmark for General Image Editing](https://huggingface.co/papers/2603.28547) | technical-report | Official page |
 | 2026-03-11 | [WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics](https://huggingface.co/papers/2603.13391) | technical-report | Official page |
 | 2026-02-24 | [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](https://huggingface.co/papers/2602.20933) | technical-report | Official page |
 | 2026-02-11 | [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://huggingface.co/papers/2602.10604) | technical-report | Official page |
 | 2026-02-09 | [GEBench: Benchmarking Image Generation Models as GUI Environments](https://huggingface.co/papers/2602.09007) | technical-report | Official page |
-| 2026-01-14 | [STEP3-VL-10B Technical Report](https://huggingface.co/papers/2601.09668) | technical-report | Official page |
 
-More: [13 additional papers](docs/labs/stepfun.md)
-
-### 🇺🇸 NVIDIA
-
-`227` papers · latest `2026-05-10` · [full list](docs/labs/nvidia.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-10 | [Workspace Optimization: How to Train Your Agent](https://arxiv.org/abs/2605.09650) | article | OpenAlex |
-| 2026-05 | [Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding](https://research.nvidia.com/publication/2026-05_nemotron-labs-diffusion-tri-mode-language-model-unifying-autoregressive) | publication | Official page |
-| 2026-04-28 | [HIVE: Hidden-Evidence Verification for Hallucination Detection in Diffusion Large Language Models](https://arxiv.org/abs/2604.26139) | article | OpenAlex |
-| 2026-04-27 | [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://huggingface.co/papers/2604.24954) | paper | HuggingFace |
-| 2026-04-24 | [Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation](http://arxiv.org/abs/2503.20191) | article | OpenAlex |
-| 2026-04-24 | [MVCBench: A Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes](https://doi.org/10.64898/2026.04.22.720110) | article | OpenAlex |
-| 2026-04-21 | [LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models Using in-the-wild Data](https://doi.org/10.1109/icassp55912.2026.11462195) | article | OpenAlex |
-| 2026-04-21 | [Generalizability of Predictive and Generative Speech Enhancement Models to Pathological Speakers](http://arxiv.org/abs/2509.18890) | article | OpenAlex |
-
-More: [219 additional papers](docs/labs/nvidia.md)
+More: [14 additional papers](docs/labs/stepfun.md)
 
 ### 🇺🇸 Anthropic
 

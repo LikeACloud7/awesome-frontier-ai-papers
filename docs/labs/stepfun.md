@@ -1,7 +1,7 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `21`
+- Papers: `22`
 - Latest: `2026-05-12`
 - [Back to README](../../README.md#stepfun)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-12 | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://huggingface.co/papers/2605.12034) | technical-report | Official page |
+| 2026-05 | [StepAudio 2.5 Technical Report](https://huggingface.co/papers/2605.23463) | technical-report | Official page |
 | 2026-04-27 | [Step-Audio-R1.5 Technical Report](https://huggingface.co/papers/2604.25719) | technical-report | Official page |
 | 2026-03-30 | [GEditBench v2: A Human-Aligned Benchmark for General Image Editing](https://huggingface.co/papers/2603.28547) | technical-report | Official page |
 | 2026-03-11 | [WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics](https://huggingface.co/papers/2603.13391) | technical-report | Official page |
