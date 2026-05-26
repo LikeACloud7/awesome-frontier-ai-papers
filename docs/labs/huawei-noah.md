@@ -1,14 +1,16 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `420`
-- Latest: `2026-05-20`
+- Papers: `422`
+- Latest: `2026-05-24`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-24 | [RoboGPT-R1: Enhancing Robot Task Planning with Reinforcement Learning](https://doi.org/10.65109/noxt1107) | article | OpenAlex |
+| 2026-05-24 | [Learning Semantic and Structure Aware Representation with Large Language Models for Concept Recommendation](https://doi.org/10.65109/ckwm7360) | article | OpenAlex |
 | 2026-05-20 | [IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://huggingface.co/papers/2605.20682) | paper | HuggingFace |
 | 2026-05-13 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](https://huggingface.co/papers/2605.13778) | paper | HuggingFace |
 | 2026-05-06 | [CAMV: A Framework for Context-Aware Multi-View Visualization of Data Analysis Results](https://doi.org/10.1007/s41019-026-00353-x) | article | OpenAlex |

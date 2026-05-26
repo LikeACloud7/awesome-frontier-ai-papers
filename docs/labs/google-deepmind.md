@@ -1,14 +1,16 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `395`
-- Latest: `2026-05-22`
+- Papers: `397`
+- Latest: `2026-05-24`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-24 | [Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour](https://doi.org/10.65109/mcsd1905) | article | OpenAlex |
+| 2026-05-24 | [Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models](https://doi.org/10.65109/ikjf6607) | article | OpenAlex |
 | 2026-05-22 | [On the Limits of End-to-End Foundation Models: Coordination as a Missing Primitive for Artificial General Intelligence](https://doi.org/10.21203/rs.3.rs-9784163/v1) | preprint | OpenAlex |
 | 2026-05-22 | [Genflow Ad Studio: A Compound AI Architecture for Brand-Aligned, Self-Correcting Video Generation](https://arxiv.org/abs/2605.16748) | article | OpenAlex |
 | 2026-05-21 | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](https://doi.org/10.2106/jbjs.25.01576) | article | OpenAlex |

@@ -1,14 +1,16 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `127`
-- Latest: `2026-05-14`
+- Papers: `129`
+- Latest: `2026-05-24`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-24 | [RIB-Guard: A Risk-Aware Information Bottleneck Defense for Black-Box Large Language Models](https://doi.org/10.3390/e28060585) | article | OpenAlex |
+| 2026-05-21 | [LLM Retrieval for Stable and Predictable Ad Recommendations](https://arxiv.org/abs/2605.21969) | article | OpenAlex |
 | 2026-05-14 | [The 99% Success Paradox: When Near-Perfect Retrieval Equals Random Selection](https://arxiv.org/abs/2605.18857) | article | OpenAlex |
 | 2026-04-16 | [KnitLoRA: bridging low-rank adaptation as interwoven layers for deeper semantic reasoning](https://doi.org/10.1038/s41598-026-47668-3) | article | OpenAlex |
 | 2026-04-13 | [SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling](https://arxiv.org/abs/2604.12110) | article | OpenAlex |

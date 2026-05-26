@@ -1,14 +1,18 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `687`
-- Latest: `2026-05-19`
+- Papers: `691`
+- Latest: `2026-05-24`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-24 | [Toward Native Multimodal Modeling: A Roadmap](https://huggingface.co/papers/2605.25343) | technical-report | Official page |
+| 2026-05-24 | [Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://huggingface.co/papers/2605.26108) | technical-report | Official page |
+| 2026-05-24 | [Pareto-guided Pipeline for Distilling Featherweight AI Agents in Mobile MOBA Games](https://doi.org/10.65109/huot2523) | article | OpenAlex |
+| 2026-05-24 | [DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](https://doi.org/10.65109/gymb4283) | article | OpenAlex |
 | 2026-05-19 | [PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](https://huggingface.co/papers/2605.20873) | technical-report | Official page |
 | 2026-05-18 | [Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://huggingface.co/papers/2605.18451) | technical-report | Official page |
 | 2026-05-14 | [Unlocking Dense Metric Depth Estimation in VLMs](https://huggingface.co/papers/2605.15876) | technical-report | Official page |

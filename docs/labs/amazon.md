@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `938`
+- Papers: `939`
 - Latest: `2026-05-22`
 - [Back to README](../../README.md#amazon)
 
@@ -12,6 +12,7 @@
 | 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
 | 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
 | 2026-05-21 | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
+| 2026-05-20 | [Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization](https://arxiv.org/abs/2605.21537) | article | OpenAlex |
 | 2026-05-13 | [Data Difficulty and the Generalization--Extrapolation Tradeoff in LLM Fine-Tuning](https://doi.org/10.48550/arxiv.2605.12906) | preprint | OpenAlex |
 | 2026-05-12 | [From evaluator to principal: the agentic AI literacy framework (AALF) for delegated autonomy](https://doi.org/10.1007/s43681-026-01167-3) | article | OpenAlex |
 | 2026-05-10 | [Statistical Scouting Finds Debate-Safe but Not Debate-Useful Cases: A Matched-Ceiling Study of Open-Weight LLM Reasoning Protocols](https://arxiv.org/abs/2605.09618) | article | OpenAlex |
