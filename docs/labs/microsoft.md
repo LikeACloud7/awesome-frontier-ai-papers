@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1671`
+- Papers: `1672`
 - Latest: `2026-05-14`
 - [Back to README](../../README.md#microsoft)
 
@@ -18,6 +18,7 @@
 | 2026-05-13 | [What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models](https://www.microsoft.com/en-us/research/publication/what-to-ignore-what-to-react-visually-robust-rl-fine-tuning-of-vla-models/) | publication | Official page |
 | 2026-05-13 | [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](https://www.microsoft.com/en-us/research/publication/pdcr-perception-decomposed-confidence-reward-for-vision-language-reasoning/) | publication | Official page |
 | 2026-05-13 | [LIFT: Last-Mile Fine-Tuning for Table Explicitation](https://arxiv.org/abs/2605.13424) | article | Official page |
+| 2026-05-13 | [FIND: Toward Multimodal Financial Reasoning and Question Answering for Indic Languages](https://www.microsoft.com/en-us/research/publication/find-toward-multimodal-financial-reasoning-and-question-answering-for-indic-languages/) | publication | Official page |
 | 2026-05-13 | [Thinking Ahead: Prospection-Guided Retrieval of Memory with Language Models](https://www.microsoft.com/en-us/research/publication/thinking-ahead-prospection-guided-retrieval-of-memory-with-language-models/) | publication | Official page |
 | 2026-05-13 | [GridSFM: A Foundation Model for AC Optimal Power Flow](https://www.microsoft.com/en-us/research/publication/gridsfm-a-foundation-model-for-ac-optimal-power-flow/) | publication | Official page |
 | 2026-05-12 | [Kairos: A Scalable Serving System for Physical AI](https://www.microsoft.com/en-us/research/publication/kairos-a-scalable-serving-system-for-physical-ai/) | publication | Official page |

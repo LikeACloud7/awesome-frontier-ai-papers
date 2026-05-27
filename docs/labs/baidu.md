@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `250`
-- Latest: `2026-05-18`
+- Papers: `251`
+- Latest: `2026-05-26`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [MobileMoE: Scaling On-Device Mixture of Experts](https://huggingface.co/papers/2605.27358) | paper | HuggingFace |
 | 2026-05-18 | [DuIVRS-2: An LLM-based Interactive Voice Response System for Large-scale POI Attribute Acquisition](https://arxiv.org/abs/2605.17900) | article | OpenAlex |
 | 2026-05-14 | [Measuring Maximum Activations in Open Large Language Models](https://huggingface.co/papers/2605.15572) | technical-report | Official page |
 | 2026-05-13 | [EndPrompt: Efficient Long-Context Extension via Terminal Anchoring](https://huggingface.co/papers/2605.14589) | technical-report | Official page |
