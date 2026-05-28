@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `423`
+- Papers: `424`
 - Latest: `2026-05-26`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [MULLER: A Multimodal Data Lake Format for Collaborative AI Data Workflows](https://doi.org/10.1145/3788853.3801585) | article | OpenAlex |
 | 2026-05-26 | [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](https://huggingface.co/papers/2605.27366) | paper | HuggingFace |
 | 2026-05-24 | [RoboGPT-R1: Enhancing Robot Task Planning with Reinforcement Learning](https://doi.org/10.65109/noxt1107) | article | OpenAlex |
 | 2026-05-24 | [Learning Semantic and Structure Aware Representation with Large Language Models for Concept Recommendation](https://doi.org/10.65109/ckwm7360) | article | OpenAlex |

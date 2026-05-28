@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `940`
-- Latest: `2026-05-24`
+- Papers: `942`
+- Latest: `2026-05-27`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-27 | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
 | 2026-05-24 | [Digital Module 40: Introduction to Machine Learning and Generative AI: From AutoGluon to Amazon Bedrock](https://doi.org/10.1111/emip.70029) | article | OpenAlex |
 | 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
 | 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
@@ -181,6 +182,7 @@
 | 2026 | [Align to structure: Aligning large language models with structural information](https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information) | publication | Official page |
 | 2026 | [Agentic simulacra for synthetic construction management data generation](https://www.amazon.science/publications/agentic-simulacra-for-synthetic-construction-management-data-generation) | publication | Official page |
 | 2026 | [AccelOpt: A self-improving LLM agentic system for AI accelerator kernel optimization](https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization) | publication | Official page |
+| 2026 | [ARES: Adaptive red-teaming and end-to-end repair of policy-reward system](https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system) | publication | Official page |
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains) | publication | Official page |
 | 2026 | [A framework for prompt optimization and translation across foundation models](https://www.amazon.science/publications/a-framework-for-prompt-optimization-and-translation-across-foundation-models) | publication | Official page |
 

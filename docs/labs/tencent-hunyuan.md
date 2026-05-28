@@ -1,14 +1,16 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `693`
-- Latest: `2026-05-25`
+- Papers: `695`
+- Latest: `2026-05-26`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs](https://huggingface.co/papers/2605.28398) | technical-report | Official page |
+| 2026-05-26 | [GEM: Generative Supervision Helps Embodied Intelligence](https://huggingface.co/papers/2605.28548) | technical-report | Official page |
 | 2026-05-25 | [Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement](https://huggingface.co/papers/2605.26952) | technical-report | Official page |
 | 2026-05-24 | [Toward Native Multimodal Modeling: A Roadmap](https://huggingface.co/papers/2605.25343) | technical-report | Official page |
 | 2026-05-24 | [Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://huggingface.co/papers/2605.26108) | technical-report | Official page |

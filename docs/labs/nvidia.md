@@ -1,14 +1,15 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `229`
-- Latest: `2026-05-20`
+- Papers: `230`
+- Latest: `2026-05-26`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [Optimizing Dropout in LLM Training: Performance Comparison of Fusion and Overlap](https://doi.org/10.1145/3801489.3806911) | article | OpenAlex |
 | 2026-05-20 | [Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents](https://arxiv.org/abs/2605.21810) | article | OpenAlex |
 | 2026-05-20 | [Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs](https://arxiv.org/abs/2605.21446) | article | OpenAlex |
 | 2026-05-10 | [Workspace Optimization: How to Train Your Agent](https://arxiv.org/abs/2605.09650) | article | OpenAlex |

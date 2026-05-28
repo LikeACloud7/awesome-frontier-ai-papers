@@ -1,14 +1,18 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1672`
-- Latest: `2026-05-14`
+- Papers: `1676`
+- Latest: `2026-05-26`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
+| 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | OpenAlex |
+| 2026-05-20 | [Reinforcing VLAs in Task-Agnostic World Models](https://www.microsoft.com/en-us/research/publication/reinforcing-vlas-in-task-agnostic-world-models/) | publication | Official page |
+| 2026-05-18 | [An Efficient Streaming Video Understanding Framework with Agentic Control](https://www.microsoft.com/en-us/research/publication/an-efficient-streaming-video-understanding-framework-with-agentic-control/) | publication | Official page |
 | 2026-05-14 | [Orchard: An Open-Source Agentic Modeling Framework](https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/) | publication | Official page |
 | 2026-05-14 | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](https://www.microsoft.com/en-us/research/publication/groupmembench-benchmarking-llm-agent-memory-in-multi-party-conversations/) | publication | Official page |
 | 2026-05-14 | [Auditing Agent Harness Safety](https://www.microsoft.com/en-us/research/publication/auditing-agent-harness-safety/) | publication | Official page |

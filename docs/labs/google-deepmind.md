@@ -1,14 +1,15 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `397`
-- Latest: `2026-05-24`
+- Papers: `398`
+- Latest: `2026-05-26`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-26 | [Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://huggingface.co/papers/2605.27295) | paper | HuggingFace |
 | 2026-05-24 | [Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour](https://doi.org/10.65109/mcsd1905) | article | OpenAlex |
 | 2026-05-24 | [Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models](https://doi.org/10.65109/ikjf6607) | article | OpenAlex |
 | 2026-05-22 | [On the Limits of End-to-End Foundation Models: Coordination as a Missing Primitive for Artificial General Intelligence](https://doi.org/10.21203/rs.3.rs-9784163/v1) | preprint | OpenAlex |

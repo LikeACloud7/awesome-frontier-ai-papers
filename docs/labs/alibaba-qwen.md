@@ -13,7 +13,7 @@
 | 2026-05-18 | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
 | 2026-05-18 | [An information-theoretic framework for robust large language model editing](http://arxiv.org/abs/2512.16227) | article | OpenAlex |
 | 2026-05-16 | [VGL-DPO: Vision-Guided Lexical Direct Preference Optimization for Mitigating Hallucination in Multimodal Large Language Models](https://doi.org/10.1145/3796715) | article | OpenAlex |
-| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page, HuggingFace |
+| 2026-05-12 | [Qwen-Image-VAE-2.0 Technical Report](https://huggingface.co/papers/2605.13565) | technical-report | Official page |
 | 2026-05-12 | [OmniThoughtVis: A Scalable Distillation Pipeline for Deployable Multimodal Reasoning Models](https://arxiv.org/abs/2605.11629) | article | OpenAlex |
 | 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
 | 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
