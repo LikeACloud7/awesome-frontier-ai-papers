@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `942`
+- Papers: `944`
 - Latest: `2026-05-27`
 - [Back to README](../../README.md#amazon)
 
@@ -147,6 +147,7 @@
 | 2026 | [SALT: Step-level advantage assignment for long-horizon agents via trajectory graph](https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph) | publication | Official page |
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
+| 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
@@ -174,6 +175,7 @@
 | 2026 | [Delta debugging for LLM-integrated systems](https://www.amazon.science/publications/delta-debugging-for-llm-integrated-systems) | publication | Official page |
 | 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |
+| 2026 | [CompAgent: An agentic framework for visual compliance verification](https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification) | publication | Official page |
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [Beyond statistical changepoint detection: Semantic interpretation of time series via large language models](https://www.amazon.science/publications/beyond-statistical-changepoint-detection-semantic-interpretation-of-time-series-via-large-language-models) | publication | Official page |

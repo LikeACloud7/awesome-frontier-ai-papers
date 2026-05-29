@@ -1,14 +1,16 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `398`
-- Latest: `2026-05-26`
+- Papers: `400`
+- Latest: `2026-05-27`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-27 | [Algorithmic Compression via Pretrained Neural Networks](https://doi.org/10.3390/e28060596) | article | OpenAlex |
+| 2026-05-26 | [Can AI assist in Mathematics and Computer Science research?](https://doi.org/10.1145/3788853.3801143) | article | OpenAlex |
 | 2026-05-26 | [Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://huggingface.co/papers/2605.27295) | paper | HuggingFace |
 | 2026-05-24 | [Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour](https://doi.org/10.65109/mcsd1905) | article | OpenAlex |
 | 2026-05-24 | [Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models](https://doi.org/10.65109/ikjf6607) | article | OpenAlex |
