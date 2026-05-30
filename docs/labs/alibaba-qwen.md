@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `445`
+- Papers: `448`
 - Latest: `2026-05-27`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -13,6 +13,8 @@
 | 2026-05-26 | [SQLens: Continuous Code-to-SQL Visibility in the Wild](https://doi.org/10.1145/3788853.3803091) | article | OpenAlex |
 | 2026-05-26 | [LindormVector: A Distributed Vector Engine on a Cloud-Native Multi-Model NoSQL Database](https://doi.org/10.1145/3788853.3803088) | article | OpenAlex |
 | 2026-05-26 | [A <scp>mbi</scp> SQL: Interactive Ambiguity Detection and Resolution for Text-to-SQL](https://doi.org/10.1145/3788853.3801581) | article | OpenAlex |
+| 2026-05-25 | [RAG-Match: Retrieval-Augmented Knowledge Injection and Hierarchical Reasoning for Calibrated Semantic Relevance](https://arxiv.org/abs/2605.25486) | article | OpenAlex |
+| 2026-05-25 | [DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning](https://arxiv.org/abs/2605.25604) | article | OpenAlex |
 | 2026-05-24 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](https://huggingface.co/papers/2605.25624) | technical-report | Official page |
 | 2026-05-18 | [Reward-SQL: Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards](https://doi.org/10.1145/3802105) | article | OpenAlex |
 | 2026-05-18 | [An information-theoretic framework for robust large language model editing](http://arxiv.org/abs/2512.16227) | article | OpenAlex |
@@ -22,6 +24,7 @@
 | 2026-05-12 | [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://huggingface.co/papers/2605.11887) | paper | HuggingFace |
 | 2026-05-10 | [Qwen-Image-2.0 Technical Report](https://huggingface.co/papers/2605.10730) | technical-report | Official page |
 | 2026-05 | [optimizeanything: A Universal API for Optimizing any Text Parameter](https://huggingface.co/papers/2605.19633) | technical-report | Official page |
+| 2026-05 | [DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation](https://huggingface.co/papers/2605.30350) | technical-report | Official page |
 | 2026-05 | [Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion](https://huggingface.co/papers/2605.23346) | technical-report | Official page |
 | 2026-04-24 | [ResRank: Unifying Retrieval and Listwise Reranking via End-to-End Joint Training with Residual Passage Compression](https://arxiv.org/abs/2604.22180) | article | OpenAlex |
 | 2026-04-23 | [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](https://arxiv.org/abs/2604.21590) | article | OpenAlex |

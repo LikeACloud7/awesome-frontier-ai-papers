@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1677`
+- Papers: `1685`
 - Latest: `2026-05-27`
 - [Back to README](../../README.md#microsoft)
 
@@ -9,11 +9,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
+| 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | OpenAlex, Official page |
 | 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
-| 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | OpenAlex |
+| 2026-05-21 | [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://www.microsoft.com/en-us/research/publication/from-patches-to-trajectories-privileged-process-supervision-for-software-engineering-agents/) | publication | Official page |
+| 2026-05-20 | [Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU](https://www.microsoft.com/en-us/research/publication/llamas-on-the-web-memory-efficient-performance-portable-and-multi-precision-llm-inference-with-webgpu/) | publication | Official page |
+| 2026-05-20 | [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://www.microsoft.com/en-us/research/publication/memgym-a-long-horizon-memory-environment-for-llm-agents/) | publication | Official page |
 | 2026-05-20 | [Reinforcing VLAs in Task-Agnostic World Models](https://www.microsoft.com/en-us/research/publication/reinforcing-vlas-in-task-agnostic-world-models/) | publication | Official page |
+| 2026-05-19 | [m3BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://www.microsoft.com/en-us/research/publication/m3bert-a-modern-multi-lingual-matryoshka-bidirectional-encoder/) | publication | Official page |
+| 2026-05-19 | [Open-World Evaluations for Measuring Frontier AI Capabilities](https://www.microsoft.com/en-us/research/publication/open-world-evaluations-for-measuring-frontier-ai-capabilities/) | publication | Official page |
 | 2026-05-18 | [An Efficient Streaming Video Understanding Framework with Agentic Control](https://www.microsoft.com/en-us/research/publication/an-efficient-streaming-video-understanding-framework-with-agentic-control/) | publication | Official page |
+| 2026-05-18 | [Multi-agent AI systems outperform human teams in creativity](https://www.microsoft.com/en-us/research/publication/multi-agent-ai-systems-outperform-human-teams-in-creativity/) | publication | Official page |
+| 2026-05-16 | [PersonaArena: Dynamic Simulation for Evaluating and Enhancing Persona-Level Role-Playing in Large Language Models](https://www.microsoft.com/en-us/research/publication/personaarena-dynamic-simulation-for-evaluating-and-enhancing-persona-level-role-playing-in-large-language-models/) | publication | Official page |
 | 2026-05-14 | [Orchard: An Open-Source Agentic Modeling Framework](https://www.microsoft.com/en-us/research/publication/orchard-an-open-source-agentic-modeling-framework/) | publication | Official page |
 | 2026-05-14 | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](https://www.microsoft.com/en-us/research/publication/groupmembench-benchmarking-llm-agent-memory-in-multi-party-conversations/) | publication | Official page |
 | 2026-05-14 | [Auditing Agent Harness Safety](https://www.microsoft.com/en-us/research/publication/auditing-agent-harness-safety/) | publication | Official page |
