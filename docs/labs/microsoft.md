@@ -1,17 +1,22 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1685`
-- Latest: `2026-05-27`
+- Papers: `1690`
+- Latest: `2026-06-01`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
+| 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
+| 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
 | 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
+| 2026-05-27 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](https://arxiv.org/abs/2605.27788) | article | OpenAlex |
 | 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | Official page |
+| 2026-05-26 | [UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training](https://arxiv.org/abs/2605.27740) | article | OpenAlex |
 | 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
 | 2026-05-21 | [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://www.microsoft.com/en-us/research/publication/from-patches-to-trajectories-privileged-process-supervision-for-software-engineering-agents/) | publication | Official page |
 | 2026-05-20 | [Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU](https://www.microsoft.com/en-us/research/publication/llamas-on-the-web-memory-efficient-performance-portable-and-multi-precision-llm-inference-with-webgpu/) | publication | Official page |
@@ -792,7 +797,7 @@
 | 2025-06-02 | [Survey on Factuality in Large Language Models](https://doi.org/10.1145/3742420) | review | OpenAlex |
 | 2025-06-01 | [Self-reflecting Large Language Models: A Hegelian Dialectical Approach](https://www.microsoft.com/en-us/research/publication/self-reflecting-large-language-models-a-hegelian-dialectical-approach-2/) | publication | Official page |
 | 2025-06-01 | [What Does Success Look Like? Catalyzing Meeting Intentionality with AI-Assisted Prospective Reflection](https://www.microsoft.com/en-us/research/publication/what-does-success-look-like-catalyzing-meeting-intentionality-with-ai-assisted-prospective-reflection/) | publication | Official page |
-| 2025-06-01 | [Scaling Textual Gradients via Sampling-Based Momentum](https://www.microsoft.com/en-us/research/publication/scaling-textual-gradients-via-sampling-based-momentum/) | publication | Official page, OpenAlex |
+| 2025-06-01 | [Scaling Textual Gradients via Sampling-Based Momentum](https://www.microsoft.com/en-us/research/publication/scaling-textual-gradients-via-sampling-based-momentum/) | publication | Official page |
 | 2025-06-01 | [Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval](https://www.microsoft.com/en-us/research/publication/reason-before-retrieve-one-stage-reflective-chain-of-thoughts-for-training-free-zero-shot-composed-image-retrieval/) | publication | Official page |
 | 2025-06-01 | [EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://www.microsoft.com/en-us/research/publication/epfl-smart-kitchen-30-densely-annotated-cooking-dataset-with-3d-kinematics-to-challenge-video-and-language-models/) | publication | Official page |
 | 2025-06-01 | [When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines](https://www.microsoft.com/en-us/research/publication/when-testing-ai-tests-us-safeguarding-mental-health-on-the-digital-frontlines/) | publication | Official page |

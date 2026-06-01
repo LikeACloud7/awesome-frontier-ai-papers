@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `698`
+- Papers: `701`
 - Latest: `2026-05-27`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -10,6 +10,9 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-27 | [GenClaw: Code-Driven Agentic Image Generation](https://huggingface.co/papers/2605.30248) | technical-report | Official page |
+| 2026-05-27 | [Semantic Flow Regularization: Teaching LLMs to Generate Diverse Yet Coherent Responses](https://arxiv.org/abs/2605.27971) | article | OpenAlex |
+| 2026-05-27 | [IFMTBench: A Comprehensive Benchmark for Multilingual Translation Instruction Following](https://arxiv.org/abs/2605.28218) | article | OpenAlex |
+| 2026-05-27 | [HardMTBench: Stress-Testing Chinese-English Translation on Knowledge-Intensive Domains](https://arxiv.org/abs/2605.28315) | article | OpenAlex |
 | 2026-05-26 | [HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs](https://huggingface.co/papers/2605.28398) | technical-report | Official page |
 | 2026-05-26 | [GEM: Generative Supervision Helps Embodied Intelligence](https://huggingface.co/papers/2605.28548) | technical-report | Official page |
 | 2026-05-25 | [Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement](https://huggingface.co/papers/2605.26952) | technical-report | Official page |

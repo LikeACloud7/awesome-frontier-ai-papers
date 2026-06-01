@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `404`
+- Papers: `405`
 - Latest: `2026-05-29`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -12,6 +12,7 @@
 | 2026-05-29 | [ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](https://doi.org/10.1145/3745756.3809218) | article | OpenAlex |
 | 2026-05-28 | [SMART: Spatio-Temporal Attention-based Large Language Model for Real-Time Traffic Prediction](https://doi.org/10.1145/3774905.3794651) | article | OpenAlex |
 | 2026-05-28 | [Concept-Grounded Detection of Vaccine Misinformation in Multimodal Content Using Interpretable Vision-Language Models](https://doi.org/10.1145/3774905.3795453) | article | OpenAlex |
+| 2026-05-27 | [Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787) | article | OpenAlex |
 | 2026-05-27 | [Algorithmic Compression via Pretrained Neural Networks](https://doi.org/10.3390/e28060596) | article | OpenAlex |
 | 2026-05-26 | [Can AI assist in Mathematics and Computer Science research?](https://doi.org/10.1145/3788853.3801143) | article | OpenAlex |
 | 2026-05-26 | [Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://huggingface.co/papers/2605.27295) | paper | HuggingFace |

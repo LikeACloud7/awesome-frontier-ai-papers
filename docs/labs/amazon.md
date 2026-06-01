@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `946`
+- Papers: `948`
 - Latest: `2026-05-28`
 - [Back to README](../../README.md#amazon)
 
@@ -11,7 +11,9 @@
 |---|---|---|---|
 | 2026-05-28 | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](http://arxiv.org/abs/2507.05495) | preprint | OpenAlex |
 | 2026-05-27 | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
+| 2026-05-27 | [Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149) | article | OpenAlex |
 | 2026-05-26 | [The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941) | article | OpenAlex |
+| 2026-05-26 | [OptiLoop: Coordination-in-the-Loop Verification and Repair for LLM-Generated Optimization Agents](https://arxiv.org/abs/2605.27630) | article | OpenAlex |
 | 2026-05-24 | [Digital Module 40: Introduction to Machine Learning and Generative AI: From AutoGluon to Amazon Bedrock](https://doi.org/10.1111/emip.70029) | article | OpenAlex |
 | 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
 | 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |

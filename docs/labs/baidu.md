@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `254`
+- Papers: `256`
 - Latest: `2026-05-27`
 - [Back to README](../../README.md#baidu)
 
@@ -10,6 +10,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-27 | [Native Audio-Visual Alignment for Generation](https://huggingface.co/papers/2605.30073) | technical-report | Official page |
+| 2026-05-27 | [EAPO: Entropy-Driven Adaptive Positive-Negative Sample Weighting for Policy Optimization in Open-Ended QA](https://arxiv.org/abs/2605.27846) | article | OpenAlex |
+| 2026-05-27 | [C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning](https://arxiv.org/abs/2605.27860) | article | OpenAlex |
 | 2026-05-26 | [MagicGeo: Training-free text-guided geometric diagram generation](https://doi.org/10.1016/j.gmod.2026.101331) | article | OpenAlex |
 | 2026-05-26 | [MobileMoE: Scaling On-Device Mixture of Experts](https://huggingface.co/papers/2605.27358) | paper | HuggingFace |
 | 2026-05-21 | [ReflectRAG: Enhancing retrieval-augmented generation with GRPO-optimized iterative reflection](https://doi.org/10.1016/j.neucom.2026.134047) | article | OpenAlex |

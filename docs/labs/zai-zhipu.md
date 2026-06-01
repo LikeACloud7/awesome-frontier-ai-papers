@@ -1,14 +1,15 @@
 # Z.ai/Zhipu Papers
 
 - Region: `China`
-- Papers: `22`
-- Latest: `2026-04-28`
+- Papers: `23`
+- Latest: `2026-05`
 - [Back to README](../../README.md#zaizhipu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05 | [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://huggingface.co/papers/2605.31584) | technical-report | Official page |
 | 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page |
 | 2026-03-27 | [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://huggingface.co/papers/2603.26648) | technical-report | Official page |
 | 2026-03-13 | [Hammer: An Expert-Level Large Language Model for Hydro-Science and Engineering Balancing Domain Expertise and General Intelligence](https://doi.org/10.5194/egusphere-egu26-2906) | article | OpenAlex |

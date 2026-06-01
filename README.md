@@ -4,21 +4,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-05-31T07:10:20+00:00`
-- Coverage: `5860` papers across `19` labs since 2024
+- Last generated: `2026-06-01T08:49:40+00:00`
+- Coverage: `5874` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Microsoft](#microsoft) | 1690 | 2026-06-01 | [all papers](docs/labs/microsoft.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 450 | 2026-05-29 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 404 | 2026-05-29 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 946 | 2026-05-28 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 405 | 2026-05-29 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 948 | 2026-05-28 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 231 | 2026-05-28 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 130 | 2026-05-28 | [all papers](docs/labs/meta-fair.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1685 | 2026-05-27 | [all papers](docs/labs/microsoft.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 698 | 2026-05-27 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 254 | 2026-05-27 | [all papers](docs/labs/baidu.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 701 | 2026-05-27 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 256 | 2026-05-27 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 424 | 2026-05-26 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 7 | 2026-05-25 | [all papers](docs/labs/minimax.md) |
 | 🇺🇸 US | [Apple](#apple) | 367 | 2026-05-22 | [all papers](docs/labs/apple.md) |
@@ -26,7 +26,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 22 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 22 | 2026-05-08 | [all papers](docs/labs/anthropic.md) |
-| 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 22 | 2026-04-28 | [all papers](docs/labs/zai-zhipu.md) |
+| 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 23 | 2026-05 | [all papers](docs/labs/zai-zhipu.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 146 | 2026-04-22 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
@@ -35,6 +35,9 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-06-01 | Microsoft | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
+| 2026-06-01 | Microsoft | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
+| 2026-06-01 | Microsoft | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
 | 2026-05-29 | Google/DeepMind | [ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](https://doi.org/10.1145/3745756.3809218) | article | OpenAlex |
 | 2026-05-29 | Alibaba/Qwen | [Alignment-free phylogenetic inference via hyperbolic protein language models](https://doi.org/10.64898/2026.05.26.723419) | article | OpenAlex |
 | 2026-05-28 | Google/DeepMind | [SMART: Spatio-Temporal Attention-based Large Language Model for Real-Time Traffic Prediction](https://doi.org/10.1145/3774905.3794651) | article | OpenAlex |
@@ -49,16 +52,30 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-05-27 | Microsoft | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | Microsoft | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
 | 2026-05-27 | Amazon | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
-| 2026-05-27 | Google/DeepMind | [Algorithmic Compression via Pretrained Neural Networks](https://doi.org/10.3390/e28060596) | article | OpenAlex |
-| 2026-05-26 | Microsoft | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | Official page |
-| 2026-05-26 | Tencent/Hunyuan | [HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs](https://huggingface.co/papers/2605.28398) | technical-report | Official page |
-| 2026-05-26 | Tencent/Hunyuan | [GEM: Generative Supervision Helps Embodied Intelligence](https://huggingface.co/papers/2605.28548) | technical-report | Official page |
-| 2026-05-26 | Amazon | [The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941) | article | OpenAlex |
-| 2026-05-26 | Alibaba/Qwen | [SQLens: Continuous Code-to-SQL Visibility in the Wild](https://doi.org/10.1145/3788853.3803091) | article | OpenAlex |
+| 2026-05-27 | Amazon | [Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149) | article | OpenAlex |
+| 2026-05-27 | Tencent/Hunyuan | [Semantic Flow Regularization: Teaching LLMs to Generate Diverse Yet Coherent Responses](https://arxiv.org/abs/2605.27971) | article | OpenAlex |
+| 2026-05-27 | Microsoft | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](https://arxiv.org/abs/2605.27788) | article | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Microsoft
+
+`1690` papers · latest `2026-06-01` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
+| 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
+| 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
+| 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
+| 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
+| 2026-05-27 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](https://arxiv.org/abs/2605.27788) | article | OpenAlex |
+| 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | Official page |
+| 2026-05-26 | [UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training](https://arxiv.org/abs/2605.27740) | article | OpenAlex |
+
+More: [1682 additional papers](docs/labs/microsoft.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -79,37 +96,37 @@ More: [442 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
-`404` papers · latest `2026-05-29` · [full list](docs/labs/google-deepmind.md)
+`405` papers · latest `2026-05-29` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-29 | [ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](https://doi.org/10.1145/3745756.3809218) | article | OpenAlex |
 | 2026-05-28 | [SMART: Spatio-Temporal Attention-based Large Language Model for Real-Time Traffic Prediction](https://doi.org/10.1145/3774905.3794651) | article | OpenAlex |
 | 2026-05-28 | [Concept-Grounded Detection of Vaccine Misinformation in Multimodal Content Using Interpretable Vision-Language Models](https://doi.org/10.1145/3774905.3795453) | article | OpenAlex |
+| 2026-05-27 | [Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787) | article | OpenAlex |
 | 2026-05-27 | [Algorithmic Compression via Pretrained Neural Networks](https://doi.org/10.3390/e28060596) | article | OpenAlex |
 | 2026-05-26 | [Can AI assist in Mathematics and Computer Science research?](https://doi.org/10.1145/3788853.3801143) | article | OpenAlex |
 | 2026-05-26 | [Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://huggingface.co/papers/2605.27295) | paper | HuggingFace |
 | 2026-05-24 | [Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour](https://doi.org/10.65109/mcsd1905) | article | OpenAlex |
-| 2026-05-24 | [Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models](https://doi.org/10.65109/ikjf6607) | article | OpenAlex |
 
-More: [396 additional papers](docs/labs/google-deepmind.md)
+More: [397 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Amazon
 
-`946` papers · latest `2026-05-28` · [full list](docs/labs/amazon.md)
+`948` papers · latest `2026-05-28` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-28 | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](http://arxiv.org/abs/2507.05495) | preprint | OpenAlex |
 | 2026-05-27 | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
+| 2026-05-27 | [Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149) | article | OpenAlex |
 | 2026-05-26 | [The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941) | article | OpenAlex |
+| 2026-05-26 | [OptiLoop: Coordination-in-the-Loop Verification and Repair for LLM-Generated Optimization Agents](https://arxiv.org/abs/2605.27630) | article | OpenAlex |
 | 2026-05-24 | [Digital Module 40: Introduction to Machine Learning and Generative AI: From AutoGluon to Amazon Bedrock](https://doi.org/10.1111/emip.70029) | article | OpenAlex |
 | 2026-05-22 | [Same Weights, Different Words: Measuring Inter-Provider Divergence and Temperature-Zero Non-Determinism in Open-Weight LLM Inference](https://doi.org/10.21203/rs.3.rs-9776212/v1) | preprint | OpenAlex |
 | 2026-05-21 | [The Future of Selection Enabled by Artificial Intelligence](https://doi.org/10.1093/9780197809013.003.0018) | book-chapter | OpenAlex |
-| 2026-05-21 | [The Brain Imaging and Neurophysiology Dataset of large-scale multimodal neural data](https://doi.org/10.1038/s41597-026-07421-x) | article | OpenAlex |
-| 2026-05-20 | [Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization](https://arxiv.org/abs/2605.21537) | article | OpenAlex |
 
-More: [938 additional papers](docs/labs/amazon.md)
+More: [940 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -145,56 +162,39 @@ More: [223 additional papers](docs/labs/nvidia.md)
 
 More: [122 additional papers](docs/labs/meta-fair.md)
 
-### 🇺🇸 Microsoft
-
-`1685` papers · latest `2026-05-27` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
-| 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
-| 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | Official page |
-| 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
-| 2026-05-21 | [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://www.microsoft.com/en-us/research/publication/from-patches-to-trajectories-privileged-process-supervision-for-software-engineering-agents/) | publication | Official page |
-| 2026-05-20 | [Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU](https://www.microsoft.com/en-us/research/publication/llamas-on-the-web-memory-efficient-performance-portable-and-multi-precision-llm-inference-with-webgpu/) | publication | Official page |
-| 2026-05-20 | [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://www.microsoft.com/en-us/research/publication/memgym-a-long-horizon-memory-environment-for-llm-agents/) | publication | Official page |
-| 2026-05-20 | [Reinforcing VLAs in Task-Agnostic World Models](https://www.microsoft.com/en-us/research/publication/reinforcing-vlas-in-task-agnostic-world-models/) | publication | Official page |
-
-More: [1677 additional papers](docs/labs/microsoft.md)
-
 ### 🇨🇳 Tencent/Hunyuan
 
-`698` papers · latest `2026-05-27` · [full list](docs/labs/tencent-hunyuan.md)
+`701` papers · latest `2026-05-27` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-27 | [GenClaw: Code-Driven Agentic Image Generation](https://huggingface.co/papers/2605.30248) | technical-report | Official page |
+| 2026-05-27 | [Semantic Flow Regularization: Teaching LLMs to Generate Diverse Yet Coherent Responses](https://arxiv.org/abs/2605.27971) | article | OpenAlex |
+| 2026-05-27 | [IFMTBench: A Comprehensive Benchmark for Multilingual Translation Instruction Following](https://arxiv.org/abs/2605.28218) | article | OpenAlex |
+| 2026-05-27 | [HardMTBench: Stress-Testing Chinese-English Translation on Knowledge-Intensive Domains](https://arxiv.org/abs/2605.28315) | article | OpenAlex |
 | 2026-05-26 | [HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs](https://huggingface.co/papers/2605.28398) | technical-report | Official page |
 | 2026-05-26 | [GEM: Generative Supervision Helps Embodied Intelligence](https://huggingface.co/papers/2605.28548) | technical-report | Official page |
 | 2026-05-25 | [Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement](https://huggingface.co/papers/2605.26952) | technical-report | Official page |
 | 2026-05-25 | [Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki](https://arxiv.org/abs/2605.25480) | article | OpenAlex |
-| 2026-05-25 | [AuthTrace: Diagnosing Evidence Construction in Thematically Dense Single-Author Corpora](https://arxiv.org/abs/2605.25382) | article | OpenAlex |
-| 2026-05-24 | [Toward Native Multimodal Modeling: A Roadmap](https://huggingface.co/papers/2605.25343) | technical-report | Official page |
-| 2026-05-24 | [Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://huggingface.co/papers/2605.26108) | technical-report | Official page |
 
-More: [690 additional papers](docs/labs/tencent-hunyuan.md)
+More: [693 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Baidu
 
-`254` papers · latest `2026-05-27` · [full list](docs/labs/baidu.md)
+`256` papers · latest `2026-05-27` · [full list](docs/labs/baidu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-05-27 | [Native Audio-Visual Alignment for Generation](https://huggingface.co/papers/2605.30073) | technical-report | Official page |
+| 2026-05-27 | [EAPO: Entropy-Driven Adaptive Positive-Negative Sample Weighting for Policy Optimization in Open-Ended QA](https://arxiv.org/abs/2605.27846) | article | OpenAlex |
+| 2026-05-27 | [C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning](https://arxiv.org/abs/2605.27860) | article | OpenAlex |
 | 2026-05-26 | [MagicGeo: Training-free text-guided geometric diagram generation](https://doi.org/10.1016/j.gmod.2026.101331) | article | OpenAlex |
 | 2026-05-26 | [MobileMoE: Scaling On-Device Mixture of Experts](https://huggingface.co/papers/2605.27358) | paper | HuggingFace |
 | 2026-05-21 | [ReflectRAG: Enhancing retrieval-augmented generation with GRPO-optimized iterative reflection](https://doi.org/10.1016/j.neucom.2026.134047) | article | OpenAlex |
 | 2026-05-18 | [DuIVRS-2: An LLM-based Interactive Voice Response System for Large-scale POI Attribute Acquisition](https://arxiv.org/abs/2605.17900) | article | OpenAlex |
 | 2026-05-14 | [Measuring Maximum Activations in Open Large Language Models](https://huggingface.co/papers/2605.15572) | technical-report | Official page |
-| 2026-05-13 | [EndPrompt: Efficient Long-Context Extension via Terminal Anchoring](https://huggingface.co/papers/2605.14589) | technical-report | Official page |
-| 2026-05-07 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://huggingface.co/papers/2605.00425) | technical-report | Official page |
 
-More: [246 additional papers](docs/labs/baidu.md)
+More: [248 additional papers](docs/labs/baidu.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -314,10 +314,11 @@ More: [14 additional papers](docs/labs/anthropic.md)
 
 ### 🇨🇳 Z.ai/Zhipu
 
-`22` papers · latest `2026-04-28` · [full list](docs/labs/zai-zhipu.md)
+`23` papers · latest `2026-05` · [full list](docs/labs/zai-zhipu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05 | [LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://huggingface.co/papers/2605.31584) | technical-report | Official page |
 | 2026-04-28 | [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://huggingface.co/papers/2604.26752) | technical-report | Official page |
 | 2026-03-27 | [Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://huggingface.co/papers/2603.26648) | technical-report | Official page |
 | 2026-03-13 | [Hammer: An Expert-Level Large Language Model for Hydro-Science and Engineering Balancing Domain Expertise and General Intelligence](https://doi.org/10.5194/egusphere-egu26-2906) | article | OpenAlex |
@@ -325,9 +326,8 @@ More: [14 additional papers](docs/labs/anthropic.md)
 | 2026-02-17 | [GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763) | technical-report | Official page |
 | 2026-01-09 | [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://huggingface.co/papers/2601.06021) | technical-report | Official page |
 | 2025-12-05 | [SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations](https://huggingface.co/papers/2512.05905) | technical-report | Official page |
-| 2025-11-13 | [Generalizing Graph Transformers Across Diverse Graphs and Tasks via Pre-Training](https://doi.org/10.1109/tkde.2025.3632394) | article | OpenAlex |
 
-More: [14 additional papers](docs/labs/zai-zhipu.md)
+More: [15 additional papers](docs/labs/zai-zhipu.md)
 
 ### 🇨🇳 ByteDance/Seed
 
