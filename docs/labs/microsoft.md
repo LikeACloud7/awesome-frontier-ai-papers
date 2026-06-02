@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1690`
+- Papers: `1695`
 - Latest: `2026-06-01`
 - [Back to README](../../README.md#microsoft)
 
@@ -12,6 +12,8 @@
 | 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
 | 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
 | 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
+| 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
+| 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | OpenAlex |
 | 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
 | 2026-05-27 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](https://arxiv.org/abs/2605.27788) | article | OpenAlex |
@@ -19,9 +21,12 @@
 | 2026-05-26 | [UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training](https://arxiv.org/abs/2605.27740) | article | OpenAlex |
 | 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
 | 2026-05-21 | [From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents](https://www.microsoft.com/en-us/research/publication/from-patches-to-trajectories-privileged-process-supervision-for-software-engineering-agents/) | publication | Official page |
+| 2026-05-21 | [SynAE: A Framework for Measuring the Quality of Synthetic Data for Tool-Calling Agent Evaluations](https://www.microsoft.com/en-us/research/publication/synae-a-framework-for-measuring-the-quality-of-synthetic-data-for-tool-calling-agent-evaluations/) | publication | Official page |
 | 2026-05-20 | [Llamas on the Web: Memory-Efficient, Performance-Portable, and Multi-Precision LLM Inference with WebGPU](https://www.microsoft.com/en-us/research/publication/llamas-on-the-web-memory-efficient-performance-portable-and-multi-precision-llm-inference-with-webgpu/) | publication | Official page |
 | 2026-05-20 | [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://www.microsoft.com/en-us/research/publication/memgym-a-long-horizon-memory-environment-for-llm-agents/) | publication | Official page |
 | 2026-05-20 | [Reinforcing VLAs in Task-Agnostic World Models](https://www.microsoft.com/en-us/research/publication/reinforcing-vlas-in-task-agnostic-world-models/) | publication | Official page |
+| 2026-05-20 | [Memory Grafting: Scaling Language Model Pre-training via Offline Conditional Memory](https://www.microsoft.com/en-us/research/publication/memory-grafting-scaling-language-model-pre-training-via-offline-conditional-memory/) | publication | Official page |
+| 2026-05-20 | [Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models](https://www.microsoft.com/en-us/research/publication/lens-rethinking-training-efficiency-for-foundational-text-to-image-models/) | publication | Official page |
 | 2026-05-19 | [m3BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://www.microsoft.com/en-us/research/publication/m3bert-a-modern-multi-lingual-matryoshka-bidirectional-encoder/) | publication | Official page |
 | 2026-05-19 | [Open-World Evaluations for Measuring Frontier AI Capabilities](https://www.microsoft.com/en-us/research/publication/open-world-evaluations-for-measuring-frontier-ai-capabilities/) | publication | Official page |
 | 2026-05-18 | [An Efficient Streaming Video Understanding Framework with Agentic Control](https://www.microsoft.com/en-us/research/publication/an-efficient-streaming-video-understanding-framework-with-agentic-control/) | publication | Official page |
@@ -234,7 +239,7 @@
 | 2026-03-27 | [Developers and generative AI: A study of self-admitted usage in open source projects](https://www.microsoft.com/en-us/research/publication/developers-and-generative-ai-a-study-of-self-admitted-usage-in-open-source-projects/) | publication | Official page |
 | 2026-03-27 | [OVI-MAP:Open-Vocabulary Instance-Semantic Mapping](https://www.microsoft.com/en-us/research/publication/ovi-mapopen-vocabulary-instance-semantic-mapping/) | publication | Official page |
 | 2026-03-27 | [LACON: Training Text-to-Image Model from Uncurated Data](https://www.microsoft.com/en-us/research/publication/lacon-training-text-to-image-model-from-uncurated-data/) | publication | Official page |
-| 2026-03-26 | [DFLOP: A Data-driven Framework for Multimodal LLM Training Pipeline Optimization](https://www.microsoft.com/en-us/research/publication/dflop-a-data-driven-framework-for-multimodal-llm-training-pipeline-optimization/) | publication | Official page, OpenAlex |
+| 2026-03-26 | [DFLOP: A Data-driven Framework for Multimodal LLM Training Pipeline Optimization](https://www.microsoft.com/en-us/research/publication/dflop-a-data-driven-framework-for-multimodal-llm-training-pipeline-optimization/) | publication | Official page |
 | 2026-03-26 | [MegaFlow: Zero-Shot Large Displacement Optical Flow](https://www.microsoft.com/en-us/research/publication/megaflow-zero-shot-large-displacement-optical-flow/) | publication | Official page |
 | 2026-03-26 | [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/hispatial-taming-hierarchical-3d-spatial-understanding-in-vision-language-models/) | publication | Official page |
 | 2026-03-26 | [BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation](https://www.microsoft.com/en-us/research/publication/bizgeneval-a-systematic-benchmark-for-commercial-visual-content-generation/) | publication | Official page |

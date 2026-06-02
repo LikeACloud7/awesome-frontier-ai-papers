@@ -1,14 +1,16 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `701`
-- Latest: `2026-05-27`
+- Papers: `703`
+- Latest: `2026-05-28`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-05-28 | [Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction](https://arxiv.org/abs/2605.29960) | article | OpenAlex |
+| 2026-05-28 | [DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://arxiv.org/abs/2605.29615) | article | OpenAlex |
 | 2026-05-27 | [GenClaw: Code-Driven Agentic Image Generation](https://huggingface.co/papers/2605.30248) | technical-report | Official page |
 | 2026-05-27 | [Semantic Flow Regularization: Teaching LLMs to Generate Diverse Yet Coherent Responses](https://arxiv.org/abs/2605.27971) | article | OpenAlex |
 | 2026-05-27 | [IFMTBench: A Comprehensive Benchmark for Multilingual Translation Instruction Following](https://arxiv.org/abs/2605.28218) | article | OpenAlex |
