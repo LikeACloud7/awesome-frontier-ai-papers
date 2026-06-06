@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `959`
+- Papers: `962`
 - Latest: `2026-06-02`
 - [Back to README](../../README.md#amazon)
 
@@ -155,6 +155,7 @@
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
 | 2026 | [Restore-R1: Efficient image restoration agents via reinforcement learning with multimodal LLM perceptual feedback](https://www.amazon.science/publications/restore-r1-efficient-image-restoration-agents-via-reinforcement-learning-with-multimodal-llm-perceptual-feedback) | publication | Official page |
+| 2026 | [Replication as learning: Scalable knowledge distillation for multimodal enterprise agents](https://www.amazon.science/publications/replication-as-learning-scalable-knowledge-distillation-for-multimodal-enterprise-agents) | publication | Official page |
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
@@ -179,7 +180,8 @@
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering) | publication | Official page |
 | 2026 | [Exectune: Effective steering of black-box LLMs with guide models](https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models) | publication | Official page |
 | 2026 | [Encoding domain expertise in agents: Lessons from NFL Fantasy AI](https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai) | publication | Official page |
-| 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page |
+| 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page, OpenAlex |
+| 2026 | [EKKA: Automated diagnosis of silent errors in LLM inference](https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference) | publication | Official page |
 | 2026 | [DualVision: RGB-infrared multimodal large language models for robust visual reasoning](https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning) | publication | Official page |
 | 2026 | [Do VLMs read or rewrite?](https://www.amazon.science/publications/do-vlms-read-or-rewrite) | publication | Official page |
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps) | publication | Official page |
@@ -192,6 +194,7 @@
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [Beyond statistical changepoint detection: Semantic interpretation of time series via large language models](https://www.amazon.science/publications/beyond-statistical-changepoint-detection-semantic-interpretation-of-time-series-via-large-language-models) | publication | Official page |
 | 2026 | [Beyond grey-box assumptions: Uncertainty-guided example selection for black-box language models](https://www.amazon.science/publications/beyond-grey-box-assumptions-uncertainty-guided-example-selection-for-black-box-language-models) | publication | Official page |
+| 2026 | [Beyond correctness: Rewarding faithful reasoning in retrieval-augmented generation](https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation) | publication | Official page |
 | 2026 | [Attribute-aware controlled product generation with LLMs for e-commerce](https://www.amazon.science/publications/attribute-aware-controlled-product-generation-with-llms-for-e-commerce) | publication | Official page |
 | 2026 | [Align to structure: Aligning large language models with structural information](https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information) | publication | Official page |
 | 2026 | [Agentic simulacra for synthetic construction management data generation](https://www.amazon.science/publications/agentic-simulacra-for-synthetic-construction-management-data-generation) | publication | Official page |

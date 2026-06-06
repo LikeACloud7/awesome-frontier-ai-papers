@@ -1,14 +1,15 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `130`
-- Latest: `2026-05-28`
+- Papers: `131`
+- Latest: `2026-06-05`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
 | 2026-05-28 | [RecoWorld: Building Simulated Environments for Agentic Recommender Systems](http://arxiv.org/abs/2509.10397) | article | OpenAlex |
 | 2026-05-24 | [RIB-Guard: A Risk-Aware Information Bottleneck Defense for Black-Box Large Language Models](https://doi.org/10.3390/e28060585) | article | OpenAlex |
 | 2026-05-21 | [LLM Retrieval for Stable and Predictable Ad Recommendations](https://arxiv.org/abs/2605.21969) | article | OpenAlex |

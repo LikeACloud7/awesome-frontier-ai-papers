@@ -1,14 +1,15 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `23`
-- Latest: `2026-05-08`
+- Papers: `24`
+- Latest: `2026-06-05`
 - [Back to README](../../README.md#anthropic)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
 | 2026-05 | [Claude Opus 4.8 System Card](https://anthropic.com/claude-opus-4-8-system-card) | model_card | Official page |

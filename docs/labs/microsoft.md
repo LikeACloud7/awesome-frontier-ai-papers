@@ -1,24 +1,31 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1697`
-- Latest: `2026-06-01`
+- Papers: `1704`
+- Latest: `2026-06-02`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-02 | [Vermeer: Autoregressive generative modeling of microscopy predicts protein localization](https://doi.org/10.64898/2026.06.01.729395) | article | OpenAlex |
 | 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
 | 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
 | 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
-| 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | OpenAlex |
+| 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
+| 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | OpenAlex, Official page |
+| 2026-05-28 | [Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR](https://www.microsoft.com/en-us/research/publication/evaluating-cross-lingual-knowledge-consistency-in-code-mixed-vis-a-vis-indian-languages-using-indicklar/) | publication | Official page |
+| 2026-05-28 | [Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation](https://www.microsoft.com/en-us/research/publication/battery-sim-agent-leveraging-llm-agent-for-inverse-battery-parameter-estimation/) | publication | Official page |
+| 2026-05-27 | [DEPART: DEcomposing PARiTy across Multilingual LLMs](https://www.microsoft.com/en-us/research/publication/depart-decomposing-parity-across-multilingual-llms/) | publication | Official page |
+| 2026-05-27 | [Adopt $neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-neq-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | [Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild](https://www.microsoft.com/en-us/research/publication/adopt-%e2%89%a0-adapt-longitudinal-analyses-of-llm-conversations-in-the-wild/) | publication | Official page |
 | 2026-05-27 | [AI and the democratization of knowledge work](https://www.microsoft.com/en-us/research/publication/ai-and-the-democratization-of-knowledge-work/) | publication | Official page |
 | 2026-05-27 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](https://arxiv.org/abs/2605.27788) | article | OpenAlex |
+| 2026-05-26 | [Latent Recurrent Transformer: Architecture Exploration, Training Strategies, and Scaling Behavior](https://www.microsoft.com/en-us/research/publication/latent-recurrent-transformer-architecture-exploration-training-strategies-and-scaling-behavior/) | publication | Official page |
 | 2026-05-26 | [ConDABench: Interactive Evaluation of Language Models for Data Analysis](https://doi.org/10.1145/3788853.3803099) | article | Official page |
 | 2026-05-26 | [UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training](https://arxiv.org/abs/2605.27740) | article | OpenAlex |
 | 2026-05-26 | [Demo of SemWeave: Semantic Common Expressions for LLM-powered Query Processing](https://doi.org/10.1145/3788853.3801593) | article | OpenAlex |
@@ -248,7 +255,7 @@
 | 2026-03-26 | [A Decade-Scale Benchmark Evaluating LLMs' Clinical Practice Guidelines Detection and Adherence in Multi-turn Conversations](https://www.microsoft.com/en-us/research/publication/a-decade-scale-benchmark-evaluating-llms-clinical-practice-guidelines-detection-and-adherence-in-multi-turn-conversations/) | publication | Official page |
 | 2026-03-25 | [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](https://www.microsoft.com/en-us/research/publication/why-does-self-distillation-sometimes-degrade-the-reasoning-capability-of-llms/) | publication | Official page |
 | 2026-03-25 | [Counting Without Numbers &Finding Without Words](https://www.microsoft.com/en-us/research/publication/counting-without-numbers-finding-without-words/) | publication | Official page |
-| 2026-03-25 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://www.microsoft.com/en-us/research/publication/willful-disobedience-automatically-detecting-failures-in-agentic-traces/) | publication | Official page, OpenAlex |
+| 2026-03-25 | [Willful Disobedience: Automatically Detecting Failures in Agentic Traces](https://www.microsoft.com/en-us/research/publication/willful-disobedience-automatically-detecting-failures-in-agentic-traces/) | publication | Official page |
 | 2026-03-25 | [The Price Reversal Phenomenon: When Cheaper Reasoning Models End Up Costing More](https://www.microsoft.com/en-us/research/publication/the-price-reversal-phenomenon-when-cheaper-reasoning-models-end-up-costing-more/) | publication | Official page |
 | 2026-03-24 | [SortedRL: Accelerating RL Training for LLMs through Online Length-Aware Scheduling](https://www.microsoft.com/en-us/research/publication/sortedrl-accelerating-rl-training-for-llms-through-online-length-aware-scheduling/) | publication | Official page |
 | 2026-03-23 | [Early Discoveries of Algorithmist I: Promise of Provable Algorithm Synthesis at Scale](https://www.microsoft.com/en-us/research/publication/early-discoveries-of-algorithmist-i-promise-of-provable-algorithm-synthesis-at-scale/) | publication | Official page |
