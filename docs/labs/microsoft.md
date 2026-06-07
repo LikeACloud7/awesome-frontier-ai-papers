@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1704`
+- Papers: `1706`
 - Latest: `2026-06-02`
 - [Back to README](../../README.md#microsoft)
 
@@ -16,8 +16,10 @@
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
+| 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
+| 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |
 | 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
-| 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | OpenAlex, Official page |
+| 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | Official page |
 | 2026-05-28 | [Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR](https://www.microsoft.com/en-us/research/publication/evaluating-cross-lingual-knowledge-consistency-in-code-mixed-vis-a-vis-indian-languages-using-indicklar/) | publication | Official page |
 | 2026-05-28 | [Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation](https://www.microsoft.com/en-us/research/publication/battery-sim-agent-leveraging-llm-agent-for-inverse-battery-parameter-estimation/) | publication | Official page |
 | 2026-05-27 | [DEPART: DEcomposing PARiTy across Multilingual LLMs](https://www.microsoft.com/en-us/research/publication/depart-decomposing-parity-across-multilingual-llms/) | publication | Official page |

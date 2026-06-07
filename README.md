@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-06T06:42:17+00:00`
-- Coverage: `5927` papers across `19` labs since 2024
+- Last generated: `2026-06-07T07:16:58+00:00`
+- Coverage: `5930` papers across `19` labs since 2024
 
 ## Labs
 
@@ -14,8 +14,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 131 | 2026-06-05 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 24 | 2026-06-05 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 409 | 2026-06-04 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1704 | 2026-06-02 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 962 | 2026-06-02 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1706 | 2026-06-02 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 963 | 2026-06-02 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 707 | 2026-06-02 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 425 | 2026-06-02 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 262 | 2026-06-02 | [all papers](docs/labs/baidu.md) |
@@ -54,7 +54,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-01 | Alibaba/Qwen | [Qwen-Image-Flash: Beyond Objective Design](https://huggingface.co/papers/2606.03746) | technical-report | Official page |
 | 2026-06-01 | Tencent/Hunyuan | [Workflow matters](https://doi.org/10.1075/target.25081.wan) | article | OpenAlex |
 | 2026-06-01 | Google/DeepMind | [What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale](https://doi.org/10.1145/3808674) | article | OpenAlex |
-| 2026-06-01 | Tencent/Hunyuan | [DDSE: Efficient Neural Codec Language Models for speech enhancement with disentangled representations](https://doi.org/10.1016/j.specom.2026.103428) | article | OpenAlex |
+| 2026-06-01 | Microsoft | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 
 ## Papers By Lab
 
@@ -113,7 +113,7 @@ More: [401 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Microsoft
 
-`1704` papers · latest `2026-06-02` · [full list](docs/labs/microsoft.md)
+`1706` papers · latest `2026-06-02` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -124,26 +124,26 @@ More: [401 additional papers](docs/labs/google-deepmind.md)
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
-| 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
+| 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 
-More: [1696 additional papers](docs/labs/microsoft.md)
+More: [1698 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 
-`962` papers · latest `2026-06-02` · [full list](docs/labs/amazon.md)
+`963` papers · latest `2026-06-02` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex |
+| 2026-05-31 | [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | article | OpenAlex |
 | 2026-05-29 | [Safe Equilibrium Policy Optimization for Strategic Agent Policies](https://arxiv.org/abs/2605.30854) | article | OpenAlex |
 | 2026-05-28 | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](http://arxiv.org/abs/2507.05495) | preprint | OpenAlex |
 | 2026-05-27 | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
 | 2026-05-27 | [Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149) | article | OpenAlex |
 | 2026-05-26 | [The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941) | article | OpenAlex |
 | 2026-05-26 | [OptiLoop: Coordination-in-the-Loop Verification and Repair for LLM-Generated Optimization Agents](https://arxiv.org/abs/2605.27630) | article | OpenAlex |
-| 2026-05-24 | [Digital Module 40: Introduction to Machine Learning and Generative AI: From AutoGluon to Amazon Bedrock](https://doi.org/10.1111/emip.70029) | article | OpenAlex |
 
-More: [954 additional papers](docs/labs/amazon.md)
+More: [955 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 

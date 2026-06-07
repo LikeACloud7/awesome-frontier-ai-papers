@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `962`
+- Papers: `963`
 - Latest: `2026-06-02`
 - [Back to README](../../README.md#amazon)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex |
+| 2026-05-31 | [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | article | OpenAlex |
 | 2026-05-29 | [Safe Equilibrium Policy Optimization for Strategic Agent Policies](https://arxiv.org/abs/2605.30854) | article | OpenAlex |
 | 2026-05-28 | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](http://arxiv.org/abs/2507.05495) | preprint | OpenAlex |
 | 2026-05-27 | [DualKV: Shared-Prompt Flash-Attention for RL Training](https://github.com/amazon-science/dualkv-flash-attn-for-rl/blob/main/flash-attention/assets/fa4_paper.pdf) | technical-report | Official repo |
@@ -180,7 +181,7 @@
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering) | publication | Official page |
 | 2026 | [Exectune: Effective steering of black-box LLMs with guide models](https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models) | publication | Official page |
 | 2026 | [Encoding domain expertise in agents: Lessons from NFL Fantasy AI](https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai) | publication | Official page |
-| 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page, OpenAlex |
+| 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page |
 | 2026 | [EKKA: Automated diagnosis of silent errors in LLM inference](https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference) | publication | Official page |
 | 2026 | [DualVision: RGB-infrared multimodal large language models for robust visual reasoning](https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning) | publication | Official page |
 | 2026 | [Do VLMs read or rewrite?](https://www.amazon.science/publications/do-vlms-read-or-rewrite) | publication | Official page |
