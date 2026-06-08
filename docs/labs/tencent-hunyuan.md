@@ -1,16 +1,18 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `707`
-- Latest: `2026-06-02`
+- Papers: `709`
+- Latest: `2026-06-04`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
 | 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |
 | 2026-06-01 | [Workflow matters](https://doi.org/10.1075/target.25081.wan) | article | OpenAlex |
+| 2026-06-01 | [OCC-MLLM-V1: Occlusion reasoning with commonsense-guided Multi-modal LLM based agent via internal Chain-of-Thoughts (CoTs)](https://doi.org/10.1016/j.cviu.2026.104828) | article | OpenAlex |
 | 2026-06-01 | [DDSE: Efficient Neural Codec Language Models for speech enhancement with disentangled representations](https://doi.org/10.1016/j.specom.2026.103428) | article | OpenAlex |
 | 2026-05-28 | [Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction](https://arxiv.org/abs/2605.29960) | article | OpenAlex |
 | 2026-05-28 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407) | article | OpenAlex |

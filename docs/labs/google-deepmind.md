@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `409`
+- Papers: `410`
 - Latest: `2026-06-04`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-06-04 | [AI and computer vision for wildlife identification in camera trap images: Fine-tuning SpeciesNet outperforms local models for species classification](https://doi.org/10.1016/j.scitotenv.2026.181926) | article | OpenAlex |
 | 2026-06-03 | [SymptomAI: Toward a Conversational AI Agent for Everyday Symptom Assessment](https://doi.org/10.21203/rs.3.rs-9684240/v1) | preprint | OpenAlex |
+| 2026-06-02 | [POLARIS: Guiding Small Models to Write Long Stories](https://arxiv.org/abs/2606.04095) | article | OpenAlex |
 | 2026-06-01 | [What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale](https://doi.org/10.1145/3808674) | article | OpenAlex |
 | 2026-05-29 | [ZA-SLAM: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](https://doi.org/10.1145/3745756.3809218) | article | OpenAlex |
 | 2026-05-29 | [Extending the UXR Point of View Playbook: Triangulating Insights in Complex Developer Domains](https://arxiv.org/abs/2605.31104) | article | OpenAlex |

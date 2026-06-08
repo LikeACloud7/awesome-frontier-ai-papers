@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `963`
-- Latest: `2026-06-02`
+- Papers: `964`
+- Latest: `2026-06-03`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-03 | [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557) | article | OpenAlex |
 | 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex |
 | 2026-05-31 | [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | article | OpenAlex |
 | 2026-05-29 | [Safe Equilibrium Policy Optimization for Strategic Agent Policies](https://arxiv.org/abs/2605.30854) | article | OpenAlex |

@@ -1,14 +1,16 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `453`
-- Latest: `2026-06-01`
+- Papers: `455`
+- Latest: `2026-06-03`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-03 | [Scaling Self-Evolving Agents via Parametric Memory](https://arxiv.org/abs/2606.04536) | article | OpenAlex |
+| 2026-06-03 | [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) | article | OpenAlex |
 | 2026-06-01 | [Qwen-Image-Flash: Beyond Objective Design](https://huggingface.co/papers/2606.03746) | technical-report | Official page |
 | 2026-05-29 | [SpecDB: LLM-Generated Customized Databases via Feature-Oriented Decomposition](https://arxiv.org/abs/2605.31097) | article | OpenAlex |
 | 2026-05-29 | [Alignment-free phylogenetic inference via hyperbolic protein language models](https://doi.org/10.64898/2026.05.26.723419) | article | OpenAlex |

@@ -1,15 +1,18 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1706`
-- Latest: `2026-06-02`
+- Papers: `1710`
+- Latest: `2026-06-08`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-08 | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |
+| 2026-06-06 | [Human-AI co-design for clinical prediction models](https://doi.org/10.1038/s41746-026-02838-5) | article | OpenAlex |
 | 2026-06-02 | [Vermeer: Autoregressive generative modeling of microscopy predicts protein localization](https://doi.org/10.64898/2026.06.01.729395) | article | OpenAlex |
+| 2026-06-02 | [SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice](https://arxiv.org/abs/2606.04155) | article | OpenAlex |
 | 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
 | 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
 | 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
@@ -17,6 +20,7 @@
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
 | 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
+| 2026-06-01 | [Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents](https://arxiv.org/abs/2606.04017) | article | OpenAlex |
 | 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |
 | 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
 | 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | Official page |
