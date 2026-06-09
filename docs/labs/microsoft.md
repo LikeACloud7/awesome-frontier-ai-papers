@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1710`
+- Papers: `1711`
 - Latest: `2026-06-08`
 - [Back to README](../../README.md#microsoft)
 
@@ -22,6 +22,7 @@
 | 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 | 2026-06-01 | [Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents](https://arxiv.org/abs/2606.04017) | article | OpenAlex |
 | 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |
+| 2026-05-28 | [Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://www.microsoft.com/en-us/research/publication/do-proactive-agents-really-need-an-llm-to-decide-when-to-wake-and-what-to-anchor/) | publication | Official page |
 | 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
 | 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | Official page |
 | 2026-05-28 | [Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR](https://www.microsoft.com/en-us/research/publication/evaluating-cross-lingual-knowledge-consistency-in-code-mixed-vis-a-vis-indian-languages-using-indicklar/) | publication | Official page |

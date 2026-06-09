@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `964`
+- Papers: `965`
 - Latest: `2026-06-03`
 - [Back to README](../../README.md#amazon)
 
@@ -39,7 +39,7 @@
 | 2026-04-21 | [Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995) | article | OpenAlex |
 | 2026-04-20 | [Adversarial Arena: Crowdsourcing Data Generation through Interactive Competition](https://arxiv.org/abs/2604.17803) | article | OpenAlex |
 | 2026-04-19 | [A Survey on Graph-Based Retrieval-Augmented Generation: Architectures, Methods, and Applications](https://doi.org/10.63503/j.ijcma.2026.235) | article | OpenAlex |
-| 2026-04-15 | [APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://arxiv.org/abs/2604.14362) | article | OpenAlex |
+| 2026-04-15 | [APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://arxiv.org/abs/2604.14362) | article | OpenAlex, Official page |
 | 2026-04-09 | [ReSuMe: Retriever-Summarizer Mutual Enhancement via Reinforcement Learning](https://doi.org/10.1145/3774904.3792959) | article | Official page |
 | 2026-04-09 | [AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](http://arxiv.org/abs/2510.05598) | article | OpenAlex |
 | 2026-04-09 | [Reinforcement Learning from Human and AI Feedback for Large Language Model Alignment: A Review](https://doi.org/10.63503/j.ijssic.2026.234) | article | OpenAlex |
@@ -207,6 +207,7 @@
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains) | publication | Official page |
 | 2026 | [A framework for prompt optimization and translation across foundation models](https://www.amazon.science/publications/a-framework-for-prompt-optimization-and-translation-across-foundation-models) | publication | Official page |
 | 2026 | [Knowing when to ask: Self-gated clarification for hierarchical language agents](https://www.amazon.science/publications/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents) | publication | Official page |
+| 2026 | [Evaluation pitfalls and sparsity limitations in LLM-based confidence estimates for classification](https://www.amazon.science/publications/evaluation-pitfalls-and-sparsity-limitations-in-llm-based-confidence-estimates-for-classification) | publication | Official page |
 
 ## 2025
 

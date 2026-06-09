@@ -9,7 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page |
+| 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page, HuggingFace |
 
 ## 2025
 

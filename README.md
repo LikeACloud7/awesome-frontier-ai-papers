@@ -4,30 +4,30 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-08T08:26:47+00:00`
-- Coverage: `5941` papers across `19` labs since 2024
+- Last generated: `2026-06-09T07:01:32+00:00`
+- Coverage: `5948` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1710 | 2026-06-08 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 131 | 2026-06-05 | [all papers](docs/labs/meta-fair.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1711 | 2026-06-08 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Apple](#apple) | 368 | 2026-06-08 | [all papers](docs/labs/apple.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 710 | 2026-06-07 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 132 | 2026-06-05 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 24 | 2026-06-05 | [all papers](docs/labs/anthropic.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 709 | 2026-06-04 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 410 | 2026-06-04 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 964 | 2026-06-03 | [all papers](docs/labs/amazon.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 264 | 2026-06-04 | [all papers](docs/labs/baidu.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 965 | 2026-06-03 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 455 | 2026-06-03 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 263 | 2026-06-03 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 425 | 2026-06-02 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 233 | 2026-06-02 | [all papers](docs/labs/nvidia.md) |
+| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 147 | 2026-05-28 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 7 | 2026-05-25 | [all papers](docs/labs/minimax.md) |
-| 🇺🇸 US | [Apple](#apple) | 367 | 2026-05-22 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 53 | 2026-05-22 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 29 | 2026-05-12 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 22 | 2026-05-12 | [all papers](docs/labs/stepfun.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 23 | 2026-05 | [all papers](docs/labs/zai-zhipu.md) |
-| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 146 | 2026-04-22 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
 
@@ -36,14 +36,18 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-06-08 | Microsoft | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |
+| 2026-06-08 | Apple | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
+| 2026-06-07 | Tencent/Hunyuan | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
 | 2026-06-06 | Microsoft | [Human-AI co-design for clinical prediction models](https://doi.org/10.1038/s41746-026-02838-5) | article | OpenAlex |
 | 2026-06-05 | Meta/FAIR | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
 | 2026-06-05 | Anthropic | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
 | 2026-06-04 | Tencent/Hunyuan | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
+| 2026-06-04 | Baidu | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
 | 2026-06-04 | Google/DeepMind | [AI and computer vision for wildlife identification in camera trap images: Fine-tuning SpeciesNet outperforms local models for species classification](https://doi.org/10.1016/j.scitotenv.2026.181926) | article | OpenAlex |
 | 2026-06-03 | Baidu | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
 | 2026-06-03 | Google/DeepMind | [SymptomAI: Toward a Conversational AI Agent for Everyday Symptom Assessment](https://doi.org/10.21203/rs.3.rs-9684240/v1) | preprint | OpenAlex |
 | 2026-06-03 | Alibaba/Qwen | [Scaling Self-Evolving Agents via Parametric Memory](https://arxiv.org/abs/2606.04536) | article | OpenAlex |
+| 2026-06-03 | Meta/FAIR | [Context-as-AI-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation](https://arxiv.org/abs/2606.04397) | article | OpenAlex |
 | 2026-06-03 | Amazon | [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557) | article | OpenAlex |
 | 2026-06-03 | Alibaba/Qwen | [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) | article | OpenAlex |
 | 2026-06-02 | Tencent/Hunyuan | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |
@@ -51,10 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-02 | Baidu | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
 | 2026-06-02 | Microsoft | [Vermeer: Autoregressive generative modeling of microscopy predicts protein localization](https://doi.org/10.64898/2026.06.01.729395) | article | OpenAlex |
 | 2026-06-02 | Microsoft | [SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice](https://arxiv.org/abs/2606.04155) | article | OpenAlex |
-| 2026-06-02 | Google/DeepMind | [POLARIS: Guiding Small Models to Write Long Stories](https://arxiv.org/abs/2606.04095) | article | OpenAlex |
-| 2026-06-02 | Amazon | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex |
-| 2026-06-02 | NVIDIA | [NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://huggingface.co/papers/2606.03159) | paper | HuggingFace |
-| 2026-06-01 | Microsoft | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
 
 ## Papers By Lab
 
@@ -62,7 +62,7 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Microsoft
 
-`1710` papers · latest `2026-06-08` · [full list](docs/labs/microsoft.md)
+`1711` papers · latest `2026-06-08` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -75,24 +75,58 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 
-More: [1702 additional papers](docs/labs/microsoft.md)
+More: [1703 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Apple
+
+`368` papers · latest `2026-06-08` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-08 | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
+| 2026-05-22 | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |
+| 2026-05-11 | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning) | publication | Official page |
+| 2026-05-08 | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
+| 2026-05-06 | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
+| 2026-05-06 | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |
+| 2026-05-05 | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
+| 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
+
+More: [360 additional papers](docs/labs/apple.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`710` papers · latest `2026-06-07` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-07 | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
+| 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
+| 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |
+| 2026-06-01 | [Workflow matters](https://doi.org/10.1075/target.25081.wan) | article | OpenAlex |
+| 2026-06-01 | [OCC-MLLM-V1: Occlusion reasoning with commonsense-guided Multi-modal LLM based agent via internal Chain-of-Thoughts (CoTs)](https://doi.org/10.1016/j.cviu.2026.104828) | article | OpenAlex |
+| 2026-06-01 | [DDSE: Efficient Neural Codec Language Models for speech enhancement with disentangled representations](https://doi.org/10.1016/j.specom.2026.103428) | article | OpenAlex |
+| 2026-05-28 | [Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction](https://arxiv.org/abs/2605.29960) | article | OpenAlex |
+| 2026-05-28 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407) | article | OpenAlex |
+
+More: [702 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Meta/FAIR
 
-`131` papers · latest `2026-06-05` · [full list](docs/labs/meta-fair.md)
+`132` papers · latest `2026-06-05` · [full list](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
+| 2026-06-03 | [Context-as-AI-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation](https://arxiv.org/abs/2606.04397) | article | OpenAlex |
 | 2026-05-28 | [RecoWorld: Building Simulated Environments for Agentic Recommender Systems](http://arxiv.org/abs/2509.10397) | article | OpenAlex |
 | 2026-05-24 | [RIB-Guard: A Risk-Aware Information Bottleneck Defense for Black-Box Large Language Models](https://doi.org/10.3390/e28060585) | article | OpenAlex |
 | 2026-05-21 | [LLM Retrieval for Stable and Predictable Ad Recommendations](https://arxiv.org/abs/2605.21969) | article | OpenAlex |
 | 2026-05-14 | [The 99% Success Paradox: When Near-Perfect Retrieval Equals Random Selection](https://arxiv.org/abs/2605.18857) | article | OpenAlex |
 | 2026-04-16 | [KnitLoRA: bridging low-rank adaptation as interwoven layers for deeper semantic reasoning](https://doi.org/10.1038/s41598-026-47668-3) | article | OpenAlex |
 | 2026-04-13 | [SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling](https://arxiv.org/abs/2604.12110) | article | OpenAlex |
-| 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://ai.meta.com/research/publications/think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning/) | publication | Official page |
 
-More: [123 additional papers](docs/labs/meta-fair.md)
+More: [124 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 Anthropic
 
@@ -111,23 +145,6 @@ More: [123 additional papers](docs/labs/meta-fair.md)
 
 More: [16 additional papers](docs/labs/anthropic.md)
 
-### 🇨🇳 Tencent/Hunyuan
-
-`709` papers · latest `2026-06-04` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
-| 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |
-| 2026-06-01 | [Workflow matters](https://doi.org/10.1075/target.25081.wan) | article | OpenAlex |
-| 2026-06-01 | [OCC-MLLM-V1: Occlusion reasoning with commonsense-guided Multi-modal LLM based agent via internal Chain-of-Thoughts (CoTs)](https://doi.org/10.1016/j.cviu.2026.104828) | article | OpenAlex |
-| 2026-06-01 | [DDSE: Efficient Neural Codec Language Models for speech enhancement with disentangled representations](https://doi.org/10.1016/j.specom.2026.103428) | article | OpenAlex |
-| 2026-05-28 | [Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction](https://arxiv.org/abs/2605.29960) | article | OpenAlex |
-| 2026-05-28 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407) | article | OpenAlex |
-| 2026-05-28 | [DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://arxiv.org/abs/2605.29615) | article | OpenAlex |
-
-More: [701 additional papers](docs/labs/tencent-hunyuan.md)
-
 ### 🇺🇸 Google/DeepMind
 
 `410` papers · latest `2026-06-04` · [full list](docs/labs/google-deepmind.md)
@@ -145,9 +162,26 @@ More: [701 additional papers](docs/labs/tencent-hunyuan.md)
 
 More: [402 additional papers](docs/labs/google-deepmind.md)
 
+### 🇨🇳 Baidu
+
+`264` papers · latest `2026-06-04` · [full list](docs/labs/baidu.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
+| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
+| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
+| 2026-06 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264) | technical-report | Official page |
+| 2026-05-28 | [Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation](https://arxiv.org/abs/2605.30000) | article | OpenAlex |
+| 2026-05-28 | [Code-QA-Bench: Separating Code Reasoning from Documentation Memorization in Repository-Level QA](https://arxiv.org/abs/2605.29277) | article | OpenAlex |
+| 2026-05-28 | [ActTraitBench: Quantifying the Knowledge-Decision Gap in Large Language Models via Human-Grounded Behavioral Validation](https://arxiv.org/abs/2605.29791) | article | OpenAlex |
+| 2026-05-27 | [Native Audio-Visual Alignment for Generation](https://huggingface.co/papers/2605.30073) | technical-report | Official page |
+
+More: [256 additional papers](docs/labs/baidu.md)
+
 ### 🇺🇸 Amazon
 
-`964` papers · latest `2026-06-03` · [full list](docs/labs/amazon.md)
+`965` papers · latest `2026-06-03` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -160,7 +194,7 @@ More: [402 additional papers](docs/labs/google-deepmind.md)
 | 2026-05-27 | [Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149) | article | OpenAlex |
 | 2026-05-26 | [The 2nd EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval](https://arxiv.org/abs/2605.26941) | article | OpenAlex |
 
-More: [956 additional papers](docs/labs/amazon.md)
+More: [957 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -178,23 +212,6 @@ More: [956 additional papers](docs/labs/amazon.md)
 | 2026-05-27 | [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://huggingface.co/papers/2605.30280) | technical-report | Official page |
 
 More: [447 additional papers](docs/labs/alibaba-qwen.md)
-
-### 🇨🇳 Baidu
-
-`263` papers · latest `2026-06-03` · [full list](docs/labs/baidu.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
-| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
-| 2026-06 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264) | technical-report | Official page |
-| 2026-05-28 | [Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation](https://arxiv.org/abs/2605.30000) | article | OpenAlex |
-| 2026-05-28 | [Code-QA-Bench: Separating Code Reasoning from Documentation Memorization in Repository-Level QA](https://arxiv.org/abs/2605.29277) | article | OpenAlex |
-| 2026-05-28 | [ActTraitBench: Quantifying the Knowledge-Decision Gap in Large Language Models via Human-Grounded Behavioral Validation](https://arxiv.org/abs/2605.29791) | article | OpenAlex |
-| 2026-05-27 | [Native Audio-Visual Alignment for Generation](https://huggingface.co/papers/2605.30073) | technical-report | Official page |
-| 2026-05-27 | [EAPO: Entropy-Driven Adaptive Positive-Negative Sample Weighting for Policy Optimization in Open-Ended QA](https://arxiv.org/abs/2605.27846) | article | OpenAlex |
-
-More: [255 additional papers](docs/labs/baidu.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -230,36 +247,36 @@ More: [417 additional papers](docs/labs/huawei-noah.md)
 
 More: [225 additional papers](docs/labs/nvidia.md)
 
+### 🇨🇳 ByteDance/Seed
+
+`147` papers · latest `2026-05-28` · [full list](docs/labs/bytedance-seed.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
+| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
+| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
+| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
+| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
+| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
+| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://seed.bytedance.com/en/research/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation) | publication | Official page |
+| 2026-03-21 | [Beyond Token Eviction: Mixed-Dimension Budget Allocation for Efficient KV Cache Compression](https://seed.bytedance.com/en/research/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression) | publication | Official page |
+
+More: [139 additional papers](docs/labs/bytedance-seed.md)
+
 ### 🇨🇳 MiniMax
 
 `7` papers · latest `2026-05-25` · [full list](docs/labs/minimax.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page |
+| 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page, HuggingFace |
 | 2025-12-15 | [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://huggingface.co/papers/2512.13687) | technical-report | Official page |
 | 2025-06-16 | [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://huggingface.co/papers/2506.13585) | paper | HuggingFace |
 | 2025-06-13 | [MiniMax-M1](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k/blob/main/MiniMax_M1_tech_report.pdf) | technical-report | Official repo |
 | 2025-05-26 | [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://huggingface.co/papers/2505.19641) | technical-report | Official report |
 | 2025-05-12 | [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](https://huggingface.co/papers/2505.07916) | technical-report | Official report |
 | 2025-01-14 | [MiniMax-01: Scaling Foundation Models with Lightning Attention](https://huggingface.co/papers/2501.08313) | paper | HuggingFace |
-
-### 🇺🇸 Apple
-
-`367` papers · latest `2026-05-22` · [full list](docs/labs/apple.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-22 | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |
-| 2026-05-11 | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning) | publication | Official page |
-| 2026-05-08 | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
-| 2026-05-06 | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
-| 2026-05-06 | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |
-| 2026-05-05 | [Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing](https://machinelearning.apple.com/research/stochastic-kv-routing) | publication | Official page |
-| 2026-05-04 | [PORTool: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](https://machinelearning.apple.com/research/portool-policy-optimization) | publication | Official page |
-| 2026-05-01 | [Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback) | publication | Official page |
-
-More: [359 additional papers](docs/labs/apple.md)
 
 ### 🇺🇸 OpenAI
 
@@ -328,23 +345,6 @@ More: [14 additional papers](docs/labs/stepfun.md)
 | 2025-12-05 | [SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations](https://huggingface.co/papers/2512.05905) | technical-report | Official page |
 
 More: [15 additional papers](docs/labs/zai-zhipu.md)
-
-### 🇨🇳 ByteDance/Seed
-
-`146` papers · latest `2026-04-22` · [full list](docs/labs/bytedance-seed.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
-| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
-| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
-| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
-| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
-| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://seed.bytedance.com/en/research/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation) | publication | Official page |
-| 2026-03-21 | [Beyond Token Eviction: Mixed-Dimension Budget Allocation for Efficient KV Cache Compression](https://seed.bytedance.com/en/research/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression) | publication | Official page |
-| 2026-03-16 | [Mixture-of-Depths Attention](https://seed.bytedance.com/en/research/mixture-of-depths-attention) | publication | Official page |
-
-More: [138 additional papers](docs/labs/bytedance-seed.md)
 
 ### 🇨🇳 Moonshot/Kimi
 
