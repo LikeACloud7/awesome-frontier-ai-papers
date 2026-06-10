@@ -1,14 +1,15 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `710`
-- Latest: `2026-06-07`
+- Papers: `711`
+- Latest: `2026-06-09`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-09 | [Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](https://huggingface.co/papers/2606.11025) | paper | HuggingFace |
 | 2026-06-07 | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
 | 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
 | 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |

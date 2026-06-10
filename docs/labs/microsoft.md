@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1711`
+- Papers: `1712`
 - Latest: `2026-06-08`
 - [Back to README](../../README.md#microsoft)
 
@@ -19,6 +19,7 @@
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
+| 2026-06-01 | [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://www.microsoft.com/en-us/research/publication/a-benchmark-and-framework-for-evaluating-next-action-predictions-in-spreadsheets-2/) | publication | Official page |
 | 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 | 2026-06-01 | [Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents](https://arxiv.org/abs/2606.04017) | article | OpenAlex |
 | 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |

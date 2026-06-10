@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `965`
+- Papers: `970`
 - Latest: `2026-06-03`
 - [Back to README](../../README.md#amazon)
 
@@ -37,9 +37,9 @@
 | 2026-04-21 | [Scale: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM](https://doi.org/10.1109/icassp55912.2026.11462898) | article | Official page |
 | 2026-04-21 | [Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts](https://arxiv.org/abs/2604.19835) | article | OpenAlex |
 | 2026-04-21 | [Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](http://arxiv.org/abs/2510.12995) | article | OpenAlex |
-| 2026-04-20 | [Adversarial Arena: Crowdsourcing Data Generation through Interactive Competition](https://arxiv.org/abs/2604.17803) | article | OpenAlex |
+| 2026-04-20 | [Adversarial Arena: Crowdsourcing Data Generation through Interactive Competition](https://arxiv.org/abs/2604.17803) | article | OpenAlex, Official page |
 | 2026-04-19 | [A Survey on Graph-Based Retrieval-Augmented Generation: Architectures, Methods, and Applications](https://doi.org/10.63503/j.ijcma.2026.235) | article | OpenAlex |
-| 2026-04-15 | [APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://arxiv.org/abs/2604.14362) | article | OpenAlex, Official page |
+| 2026-04-15 | [APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://arxiv.org/abs/2604.14362) | article | Official page |
 | 2026-04-09 | [ReSuMe: Retriever-Summarizer Mutual Enhancement via Reinforcement Learning](https://doi.org/10.1145/3774904.3792959) | article | Official page |
 | 2026-04-09 | [AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](http://arxiv.org/abs/2510.05598) | article | OpenAlex |
 | 2026-04-09 | [Reinforcement Learning from Human and AI Feedback for Large Language Model Alignment: A Review](https://doi.org/10.63503/j.ijssic.2026.234) | article | OpenAlex |
@@ -145,11 +145,14 @@
 | 2026 | [When LLMs read tables carelessly: Measuring and reducing data referencing errors](https://www.amazon.science/publications/when-llms-read-tables-carelessly-measuring-and-reducing-data-referencing-errors) | publication | Official page |
 | 2026 | [Visual reasoning through tool-supervised reinforcement learning](https://www.amazon.science/publications/visual-reasoning-through-tool-supervised-reinforcement-learning) | publication | Official page |
 | 2026 | [ViLL-E: Video LLM embeddings for retrieval](https://www.amazon.science/publications/vill-e-video-llm-embeddings-for-retrieval) | publication | Official page |
+| 2026 | [VERGE: Formal refinement and guidance engine for verifiable LLM reasoning](https://www.amazon.science/publications/verge-formal-refinement-and-guidance-engine-for-verifiable-llm-reasoning) | publication | Official page |
 | 2026 | [Universal guideline-driven image clustering via a hybrid LLM agent](https://www.amazon.science/publications/universal-guideline-driven-image-clustering-via-a-hybrid-llm-agent) | publication | Official page |
 | 2026 | [Understanding the implicit biases of design choices for time series foundation models](https://www.amazon.science/publications/understanding-the-implicit-biases-of-design-choices-for-time-series-foundation-models) | publication | Official page |
 | 2026 | [Training large language models to reason in parallel with global forking tokens](https://www.amazon.science/publications/training-large-language-models-to-reason-in-parallel-with-global-forking-tokens) | publication | Official page |
 | 2026 | [Towards self-improving error diagnosis in multi-agent systems](https://www.amazon.science/publications/towards-self-improving-error-diagnosis-in-multi-agent-systems) | publication | Official page |
 | 2026 | [TaTToo: Tool-augmented thinking PRM for tabular reasoning](https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning) | publication | Official page |
+| 2026 | [ShopperBench: A benchmark for personalized shopping with persona-guided simulation](https://www.amazon.science/publications/shopperbench-a-benchmark-for-personalized-shopping-with-persona-guided-simulation) | publication | Official page |
+| 2026 | [SWAN: Semantic watermarking with abstract meaning representation](https://www.amazon.science/publications/swan-semantic-watermarking-with-abstract-meaning-representation) | publication | Official page |
 | 2026 | [SQL-Trail: multi-turn reinforcement learning with interleaved feedback for text-to-SQL](https://www.amazon.science/publications/sql-trail-multi-turn-reinforcement-learning-with-interleaved-feedback-for-text-to-sql) | publication | Official page |
 | 2026 | [SELENE: Selective and evidence-weighted LLM debating for efficient and reliable reasoning](https://www.amazon.science/publications/selene-selective-and-evidence-weighted-llm-debating-for-efficient-and-reliable-reasoning) | publication | Official page |
 | 2026 | [SALT: Step-level advantage assignment for long-horizon agents via trajectory graph](https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph) | publication | Official page |
@@ -160,10 +163,12 @@
 | 2026 | [Replication as learning: Scalable knowledge distillation for multimodal enterprise agents](https://www.amazon.science/publications/replication-as-learning-scalable-knowledge-distillation-for-multimodal-enterprise-agents) | publication | Official page |
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
+| 2026 | [Progressive fine-tuning for cost-effective structured attribute generation in e-commerce](https://www.amazon.science/publications/progressive-fine-tuning-for-cost-effective-structured-attribute-generation-in-e-commerce) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
 | 2026 | [Not-a-bandit: Provably no-regret drafter selection in speculative decoding for LLMs](https://www.amazon.science/publications/not-a-bandit-provably-no-regret-drafter-selection-in-speculative-decoding-for-llms) | publication | Official page |
 | 2026 | [MigrationBench: Repository-level code migration benchmark from Java 8](https://www.amazon.science/publications/migrationbench-repository-level-code-migration-benchmark-from-java-8) | publication | Official page |
+| 2026 | [MemoPhishAgent: Memory-augmented multi-modal LLM Agent for phishing URL detection](https://www.amazon.science/publications/memophishagent-memory-augmented-multi-modal-llm-agent-for-phishing-url-detection) | publication | Official page |
 | 2026 | [MTSQL-R1: Towards long-horizon multi-turn text-to-SQL via agentic training](https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training) | publication | Official page |
 | 2026 | [MM-ReCoder: Advancing chart-to-code generation with reinforcement learning and self-correction](https://www.amazon.science/publications/mm-recoder-advancing-chart-to-code-generation-with-reinforcement-learning-and-self-correction) | publication | Official page |
 | 2026 | [LocRegen: Cost-efficient redundancy removal in multilingual e-commerce titles with small language models](https://www.amazon.science/publications/locregen-cost-efficient-redundancy-removal-in-multilingual-e-commerce-titles-with-small-language-models) | publication | Official page |

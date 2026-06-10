@@ -1,14 +1,15 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `410`
-- Latest: `2026-06-04`
+- Papers: `411`
+- Latest: `2026-06-09`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-09 | [Gemini 3.5 Audio (Live Translate) Model Card](https://deepmind.google/models/model-cards/gemini-3-5-audio/) | model_card | Official page |
 | 2026-06-04 | [AI and computer vision for wildlife identification in camera trap images: Fine-tuning SpeciesNet outperforms local models for species classification](https://doi.org/10.1016/j.scitotenv.2026.181926) | article | OpenAlex |
 | 2026-06-03 | [SymptomAI: Toward a Conversational AI Agent for Everyday Symptom Assessment](https://doi.org/10.21203/rs.3.rs-9684240/v1) | preprint | OpenAlex |
 | 2026-06-02 | [POLARIS: Guiding Small Models to Write Long Stories](https://arxiv.org/abs/2606.04095) | article | OpenAlex |
