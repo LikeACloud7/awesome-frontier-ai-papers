@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1712`
+- Papers: `1717`
 - Latest: `2026-06-08`
 - [Back to README](../../README.md#microsoft)
 
@@ -22,7 +22,12 @@
 | 2026-06-01 | [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://www.microsoft.com/en-us/research/publication/a-benchmark-and-framework-for-evaluating-next-action-predictions-in-spreadsheets-2/) | publication | Official page |
 | 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 | 2026-06-01 | [Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents](https://arxiv.org/abs/2606.04017) | article | OpenAlex |
+| 2026-05-30 | [EMA: Approximate Nearest Neighbor Search with General Attribute Filtering and Dynamic Updates](https://www.microsoft.com/en-us/research/publication/ema-approximate-nearest-neighbor-search-with-general-attribute-filtering-and-dynamic-updates/) | publication | Official page |
+| 2026-05-30 | [Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing](https://www.microsoft.com/en-us/research/publication/dialectics-of-alignment-harnessing-unsafe-knowledge-for-dynamic-safety-routing/) | publication | Official page |
 | 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |
+| 2026-05-29 | [Free energy Estimation on Any State Space](https://www.microsoft.com/en-us/research/publication/free-energy-estimation-on-any-state-space/) | publication | Official page |
+| 2026-05-29 | [Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory](https://www.microsoft.com/en-us/research/publication/beyond-static-dialogues-benchmarking-realistic-heterogeneous-and-evolving-long-term-memory/) | publication | Official page |
+| 2026-05-29 | [Foundation VAEs for 3D CT Reconstruction, Augmentation, and Generation](https://www.microsoft.com/en-us/research/publication/foundation-vaes-for-3d-ct-reconstruction-augmentation-and-generation/) | publication | Official page |
 | 2026-05-28 | [Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://www.microsoft.com/en-us/research/publication/do-proactive-agents-really-need-an-llm-to-decide-when-to-wake-and-what-to-anchor/) | publication | Official page |
 | 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
 | 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | Official page |
