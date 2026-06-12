@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1717`
+- Papers: `1734`
 - Latest: `2026-06-08`
 - [Back to README](../../README.md#microsoft)
 
@@ -11,23 +11,40 @@
 |---|---|---|---|
 | 2026-06-08 | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |
 | 2026-06-06 | [Human-AI co-design for clinical prediction models](https://doi.org/10.1038/s41746-026-02838-5) | article | OpenAlex |
-| 2026-06-02 | [Vermeer: Autoregressive generative modeling of microscopy predicts protein localization](https://doi.org/10.64898/2026.06.01.729395) | article | OpenAlex |
-| 2026-06-02 | [SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice](https://arxiv.org/abs/2606.04155) | article | OpenAlex |
+| 2026-06-04 | [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://www.microsoft.com/en-us/research/publication/you-only-index-once-cross-layer-sparse-attention-with-shared-routing/) | publication | Official page |
+| 2026-06-04 | [Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://www.microsoft.com/en-us/research/publication/retrospective-harness-optimization-improving-llm-agents-via-self-preference-over-trajectory-rollouts/) | publication | Official page |
+| 2026-06-04 | [Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration](https://www.microsoft.com/en-us/research/publication/humans-almanac-a-human-collaboration-dataset-of-action-level-mental-model-annotations-for-agent-collaboration/) | publication | Official page |
+| 2026-06-04 | [CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments](https://www.microsoft.com/en-us/research/publication/collabsim-a-cscw-grounded-methodology-for-investigating-collaborative-competence-of-llm-agents-through-controlled-multi-agent-experiments/) | publication | Official page |
+| 2026-06-04 | [AsyncWebRL: Efficient Multi-Step RL for Visual Web Agents](https://www.microsoft.com/en-us/research/publication/asyncwebrl-efficient-multi-step-rl-for-visual-web-agents/) | publication | Official page |
+| 2026-06-04 | [Beyond Semantic Organization: Memory as Execution State Management for Long-Horizon Agents](https://www.microsoft.com/en-us/research/publication/beyond-semantic-organization-memory-as-execution-state-management-for-long-horizon-agents/) | publication | Official page |
+| 2026-06-03 | [The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show](https://www.microsoft.com/en-us/research/publication/the-invisible-hand-of-physics-when-video-diffusion-models-know-more-than-they-show/) | publication | Official page |
+| 2026-06-03 | [SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://www.microsoft.com/en-us/research/publication/sentinelbench-a-benchmark-for-long-running-monitoring-agents/) | publication | Official page |
+| 2026-06-02 | [SocialCoach: Personalized Social Skill Learning with RL-based Agentic Tutoring and Practice](https://arxiv.org/abs/2606.04155) | article | OpenAlex, Official page |
+| 2026-06-02 | [The Geometry of LLM-as-Judge: Why Inter-LLM Consensus Is Not Human Alignment](https://www.microsoft.com/en-us/research/publication/the-geometry-of-llm-as-judge-why-inter-llm-consensus-is-not-human-alignment/) | publication | Official page |
+| 2026-06-02 | [MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis](https://www.microsoft.com/en-us/research/publication/medxagent-multi-agent-consultation-for-interactive-medical-diagnosis/) | publication | Official page |
+| 2026-06-02 | [Vermeer: Autoregressive generative modeling of microscopy predicts protein localization](https://doi.org/10.64898/2026.06.01.729395) | article | OpenAlex, Official page |
+| 2026-06-02 | [MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents](https://www.microsoft.com/en-us/research/publication/medcua-bench-a-screenshot-only-benchmark-for-clinical-computer-use-agents/) | publication | Official page |
 | 2026-06-01 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://www.microsoft.com/en-us/research/publication/ishift-lightweight-slow-fast-gui-agent-with-adaptive-perception/) | publication | Official page |
 | 2026-06-01 | [Understanding Task Transfer in Vision-Language Models](https://www.microsoft.com/en-us/research/publication/understanding-task-transfer-in-vision-language-models/) | publication | Official page |
+| 2026-06-01 | [OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://www.microsoft.com/en-us/research/publication/openwebrl-demystifying-online-multi-turn-reinforcement-learning-for-visual-web-agents/) | publication | Official page |
 | 2026-06-01 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](https://www.microsoft.com/en-us/research/publication/foundation-model-priors-enhance-object-focus-in-feature-space-for-source-free-object-detection/) | publication | Official page |
+| 2026-06-01 | [Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs](https://www.microsoft.com/en-us/research/publication/real-time-generation-of-streamable-talking-portrait-video-with-reference-guided-deep-compression-vaes/) | publication | Official page |
 | 2026-06-01 | [Contextual Slate GLM Bandits with Limited Adaptivity](https://www.microsoft.com/en-us/research/publication/contextual-slate-glm-bandits-with-limited-adaptivity-2/) | publication | Official page |
 | 2026-06-01 | [Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State](https://www.microsoft.com/en-us/research/publication/beyond-pixel-context-windows-neural-world-simulators-with-persistent-3d-state-2/) | publication | Official page |
+| 2026-06-01 | [Token Predictors Are Not Planners: Building Physically Grounded Causal Reasoners](https://www.microsoft.com/en-us/research/publication/token-predictors-are-not-planners-building-physically-grounded-causal-reasoners/) | publication | Official page |
 | 2026-06-01 | [Position: Reasoning is a Learnable Rule-Based Process](https://www.microsoft.com/en-us/research/publication/position-reasoning-is-a-learnable-rule-based-process/) | publication | Official page |
 | 2026-06-01 | [A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets](https://www.microsoft.com/en-us/research/publication/a-benchmark-and-framework-for-evaluating-next-action-predictions-in-spreadsheets-2/) | publication | Official page |
 | 2026-06-01 | [Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887) | article | OpenAlex |
 | 2026-06-01 | [Neither Layer Alone: Epistemic Integrity Requires Hierarchical Joint Design for Long-Running AI Agents](https://arxiv.org/abs/2606.04017) | article | OpenAlex |
+| 2026-05-30 | [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](https://www.microsoft.com/en-us/research/publication/decomposed-on-policy-distillation-for-vision-language-reasoning-steering-gradients-for-visual-grounding-2/) | publication | Official page |
 | 2026-05-30 | [EMA: Approximate Nearest Neighbor Search with General Attribute Filtering and Dynamic Updates](https://www.microsoft.com/en-us/research/publication/ema-approximate-nearest-neighbor-search-with-general-attribute-filtering-and-dynamic-updates/) | publication | Official page |
 | 2026-05-30 | [Dialectics of Alignment: Harnessing Unsafe Knowledge for Dynamic Safety Routing](https://www.microsoft.com/en-us/research/publication/dialectics-of-alignment-harnessing-unsafe-knowledge-for-dynamic-safety-routing/) | publication | Official page |
 | 2026-05-30 | [Short-form Text Rewriting with Phi Silica](https://arxiv.org/abs/2606.00462) | article | OpenAlex |
 | 2026-05-29 | [Free energy Estimation on Any State Space](https://www.microsoft.com/en-us/research/publication/free-energy-estimation-on-any-state-space/) | publication | Official page |
 | 2026-05-29 | [Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory](https://www.microsoft.com/en-us/research/publication/beyond-static-dialogues-benchmarking-realistic-heterogeneous-and-evolving-long-term-memory/) | publication | Official page |
 | 2026-05-29 | [Foundation VAEs for 3D CT Reconstruction, Augmentation, and Generation](https://www.microsoft.com/en-us/research/publication/foundation-vaes-for-3d-ct-reconstruction-augmentation-and-generation/) | publication | Official page |
+| 2026-05-29 | [Towards Efficient LLMs Annealing with Principled Sample Selection](https://www.microsoft.com/en-us/research/publication/towards-efficient-llms-annealing-with-principled-sample-selection-2/) | publication | Official page |
+| 2026-05-29 | [D^3: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training](https://www.microsoft.com/en-us/research/publication/d3-dynamic-directional-graph-constrained-data-scheduling-for-llm-training-2/) | publication | Official page |
 | 2026-05-28 | [Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://www.microsoft.com/en-us/research/publication/do-proactive-agents-really-need-an-llm-to-decide-when-to-wake-and-what-to-anchor/) | publication | Official page |
 | 2026-05-28 | [Demystifying Data Organization for Enhanced LLM Training](https://www.microsoft.com/en-us/research/publication/demystifying-data-organization-for-enhanced-llm-training/) | publication | Official page |
 | 2026-05-28 | [DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis](https://arxiv.org/abs/2605.30312) | article | Official page |

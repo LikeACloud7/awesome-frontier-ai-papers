@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `711`
+- Papers: `713`
 - Latest: `2026-06-09`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -9,6 +9,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-09 | [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://huggingface.co/papers/2606.11119) | technical-report | Official page |
+| 2026-06-09 | [Exploring the Design Space of Reward Backpropagation for Flow Matching](https://huggingface.co/papers/2606.11075) | technical-report | Official page |
 | 2026-06-09 | [Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](https://huggingface.co/papers/2606.11025) | paper | HuggingFace |
 | 2026-06-07 | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
 | 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |

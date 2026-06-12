@@ -1,14 +1,16 @@
 # MiniMax Papers
 
 - Region: `China`
-- Papers: `7`
-- Latest: `2026-05-25`
+- Papers: `9`
+- Latest: `2026-06-10`
 - [Back to README](../../README.md#minimax)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-10 | [MiniMax Sparse Attention](https://huggingface.co/papers/2606.13392) | technical-report | Official page |
+| 2026-06-10 | [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://huggingface.co/papers/2606.13473) | technical-report | Official page |
 | 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page |
 
 ## 2025

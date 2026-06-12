@@ -1,14 +1,15 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `428`
-- Latest: `2026-06-04`
+- Papers: `429`
+- Latest: `2026-06-05`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-05 | [MADE: Beyond Scoring via a Multilingual Agentic Diagnosing Engine for Fine-Grained Evaluation Insights](https://arxiv.org/abs/2606.07020) | article | OpenAlex |
 | 2026-06-04 | [Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](https://huggingface.co/papers/2606.07473) | technical-report | Official page |
 | 2026-06-03 | [A Geometric Account of Activation Steering through Angle-Norm Decomposition](https://huggingface.co/papers/2606.06735) | technical-report | Official page |
 | 2026-06-02 | [SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing](https://huggingface.co/papers/2606.01804) | technical-report | Official page |
