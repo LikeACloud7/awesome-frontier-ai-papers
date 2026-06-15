@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-14T08:01:47+00:00`
-- Coverage: `6035` papers across `19` labs since 2024
+- Last generated: `2026-06-15T09:48:18+00:00`
+- Coverage: `6036` papers across `19` labs since 2024
 
 ## Labs
 
@@ -13,10 +13,10 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Amazon](#amazon) | 998 | 2026-06-12 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1740 | 2026-06-11 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 716 | 2026-06-11 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 413 | 2026-06-11 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 134 | 2026-06-11 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 715 | 2026-06-09 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 459 | 2026-06-09 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 431 | 2026-06-08 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Apple](#apple) | 368 | 2026-06-08 | [all papers](docs/labs/apple.md) |
@@ -36,6 +36,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-06-12 | Amazon | [Disentangling Confounders from Pathology in Long-COVID Trajectory Prediction for Women: An Interpretable Large-Language-Model Approach](https://doi.org/10.64898/2026.06.10.26355420) | article | OpenAlex |
+| 2026-06-11 | Tencent/Hunyuan | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://huggingface.co/papers/2606.14409) | technical-report | Official page |
 | 2026-06-11 | Google/DeepMind, Meta/FAIR | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
 | 2026-06-11 | Microsoft | [The Next Frontier for AI-Generated Kernels: Correctness](https://doi.org/10.1145/3819802.3820580) | article | OpenAlex |
 | 2026-06-11 | Microsoft | [Lazy Validation and Self-Healing for Agentic Programs](https://doi.org/10.1145/3819802.3820582) | article | OpenAlex |
@@ -54,7 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-08 | Z.ai/Zhipu | [SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning](https://huggingface.co/papers/2606.10804) | technical-report | Official page |
 | 2026-06-08 | Apple | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
 | 2026-06-08 | Microsoft | [SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance](https://arxiv.org/abs/2606.09441) | article | OpenAlex |
-| 2026-06-08 | Tencent/Hunyuan | [Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.09483) | article | OpenAlex |
 
 ## Papers By Lab
 
@@ -93,6 +93,23 @@ More: [990 additional papers](docs/labs/amazon.md)
 | 2026-06-04 | [Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://www.microsoft.com/en-us/research/publication/retrospective-harness-optimization-improving-llm-agents-via-self-preference-over-trajectory-rollouts/) | publication | Official page |
 
 More: [1732 additional papers](docs/labs/microsoft.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`716` papers · latest `2026-06-11` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-11 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://huggingface.co/papers/2606.14409) | technical-report | Official page |
+| 2026-06-09 | [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://huggingface.co/papers/2606.11119) | technical-report | Official page |
+| 2026-06-09 | [Exploring the Design Space of Reward Backpropagation for Flow Matching](https://huggingface.co/papers/2606.11075) | technical-report | Official page |
+| 2026-06-09 | [Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](https://huggingface.co/papers/2606.11025) | paper | HuggingFace |
+| 2026-06-08 | [Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.09483) | article | OpenAlex |
+| 2026-06-08 | [End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234) | article | OpenAlex |
+| 2026-06-07 | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
+| 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
+
+More: [708 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Google/DeepMind
 
@@ -144,23 +161,6 @@ More: [126 additional papers](docs/labs/meta-fair.md)
 | 2025-05-12 | [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](https://huggingface.co/papers/2505.07916) | technical-report | Official report |
 
 More: [1 additional papers](docs/labs/minimax.md)
-
-### 🇨🇳 Tencent/Hunyuan
-
-`715` papers · latest `2026-06-09` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-09 | [TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://huggingface.co/papers/2606.11119) | technical-report | Official page |
-| 2026-06-09 | [Exploring the Design Space of Reward Backpropagation for Flow Matching](https://huggingface.co/papers/2606.11075) | technical-report | Official page |
-| 2026-06-09 | [Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](https://huggingface.co/papers/2606.11025) | paper | HuggingFace |
-| 2026-06-08 | [Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.09483) | article | OpenAlex |
-| 2026-06-08 | [End-to-End Training for Discrete Token LLM based TTS System](https://arxiv.org/abs/2606.09234) | article | OpenAlex |
-| 2026-06-07 | [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://huggingface.co/papers/2606.09079) | technical-report | Official page |
-| 2026-06-04 | [Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://huggingface.co/papers/2606.06891) | technical-report | Official page |
-| 2026-06-02 | [World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://huggingface.co/papers/2606.03603) | technical-report | Official page |
-
-More: [707 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
