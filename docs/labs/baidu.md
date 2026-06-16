@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `264`
-- Latest: `2026-06-04`
+- Papers: `265`
+- Latest: `2026-06-11`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
 | 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
 | 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
 | 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |

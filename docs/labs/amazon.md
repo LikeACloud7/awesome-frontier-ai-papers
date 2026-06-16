@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `998`
+- Papers: `1003`
 - Latest: `2026-06-12`
 - [Back to README](../../README.md#amazon)
 
@@ -159,6 +159,7 @@
 | 2026 | [Text-to-distribution prediction with quantile tokens and neighbor context](https://www.amazon.science/publications/text-to-distribution-prediction-with-quantile-tokens-and-neighbor-context) | publication | Official page |
 | 2026 | [TaTToo: Tool-augmented thinking PRM for tabular reasoning](https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning) | publication | Official page |
 | 2026 | [Supplement generation training for enhancing agentic task performance](https://www.amazon.science/publications/supplement-generation-training-for-enhancing-agentic-task-performance) | publication | Official page |
+| 2026 | [Steering large reasoning models towards concise reasoning via flow matching](https://www.amazon.science/publications/steering-large-reasoning-models-towards-concise-reasoning-via-flow-matching) | publication | Official page |
 | 2026 | [ShopperBench: A benchmark for personalized shopping with persona-guided simulation](https://www.amazon.science/publications/shopperbench-a-benchmark-for-personalized-shopping-with-persona-guided-simulation) | publication | Official page |
 | 2026 | [SenTSR-Bench: Thinking with injected knowledge for time-series reasoning](https://www.amazon.science/publications/sentsr-bench-thinking-with-injected-knowledge-for-time-series-reasoning) | publication | Official page |
 | 2026 | [SWAN: Semantic watermarking with abstract meaning representation](https://www.amazon.science/publications/swan-semantic-watermarking-with-abstract-meaning-representation) | publication | Official page |
@@ -175,6 +176,7 @@
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [Reasoning with memory: Adaptive information management for retrieval-augmented generation](https://www.amazon.science/publications/reasoning-with-memory-adaptive-information-management-for-retrieval-augmented-generation) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
+| 2026 | [QJL is 1-bit compressive sensing: An equivalence and its consequences for KV cache compression in LLMs](https://www.amazon.science/publications/qjl-is-1-bit-compressive-sensing-an-equivalence-and-its-consequences-for-kv-cache-compression-in-llms) | publication | Official page |
 | 2026 | [Progressive fine-tuning for cost-effective structured attribute generation in e-commerce](https://www.amazon.science/publications/progressive-fine-tuning-for-cost-effective-structured-attribute-generation-in-e-commerce) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation) | publication | Official page |
@@ -204,6 +206,7 @@
 | 2026 | [GiVA: Gradient-informed bases for vector-based adaptation](https://www.amazon.science/publications/giva-gradient-informed-bases-for-vector-based-adaptation) | publication | Official page |
 | 2026 | [GeoGround: Uncertainty-weighted multi-task learning for geo-alignment and address defect detection](https://www.amazon.science/publications/geoground-uncertainty-weighted-multi-task-learning-for-geo-alignment-and-address-defect-detection) | publication | Official page |
 | 2026 | [From narrow unlearning to emergent misalignment: Causes, consequences, and containment in LLMs](https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms) | publication | Official page |
+| 2026 | [Foundation models for sparse, multi-relational risk prediction in global supply chains](https://www.amazon.science/publications/foundation-models-for-sparse-multi-relational-risk-prediction-in-global-supply-chains) | publication | Official page |
 | 2026 | [Feedback-aware prompt optimization framework for generating job postings](https://www.amazon.science/publications/feedback-aware-prompt-optimization-framework-for-generating-job-postings) | publication | Official page |
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering) | publication | Official page |
 | 2026 | [Exectune: Effective steering of black-box LLMs with guide models](https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models) | publication | Official page |
@@ -224,6 +227,7 @@
 | 2026 | [COMET: Compatibility-oriented multi-modal embedding transformer for visual recommendations](https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations) | publication | Official page |
 | 2026 | [COMEM: Context management with A decoupled long-context model](https://www.amazon.science/publications/comem-context-management-with-a-decoupled-long-context-model) | publication | Official page |
 | 2026 | [CACHE-ED2: Compiling LLM reasoning into reusable extraction programs for document extraction at scale](https://www.amazon.science/publications/cache-ed2-compiling-llm-reasoning-into-reusable-extraction-programs-for-document-extraction-at-scale) | publication | Official page |
+| 2026 | [Breaking the safety-capability tradeoff: Reinforcement learning with verifiable rewards maintains safety guardrails in LLMs](https://www.amazon.science/publications/breaking-the-safety-capability-tradeoff-reinforcement-learning-with-verifiable-rewards-maintains-safety-guardrails-in-llms) | publication | Official page |
 | 2026 | [Beyond statistical changepoint detection: Semantic interpretation of time series via large language models](https://www.amazon.science/publications/beyond-statistical-changepoint-detection-semantic-interpretation-of-time-series-via-large-language-models) | publication | Official page |
 | 2026 | [Beyond grey-box assumptions: Uncertainty-guided example selection for black-box language models](https://www.amazon.science/publications/beyond-grey-box-assumptions-uncertainty-guided-example-selection-for-black-box-language-models) | publication | Official page |
 | 2026 | [Beyond correctness: Rewarding faithful reasoning in retrieval-augmented generation](https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation) | publication | Official page |
@@ -234,6 +238,7 @@
 | 2026 | [Agentic simulacra for synthetic construction management data generation](https://www.amazon.science/publications/agentic-simulacra-for-synthetic-construction-management-data-generation) | publication | Official page |
 | 2026 | [Agentic prompt optimization with visual contrastive reasoning for fine-grained classification](https://www.amazon.science/publications/agentic-prompt-optimization-with-visual-contrastive-reasoning-for-fine-grained-classification) | publication | Official page |
 | 2026 | [Agent-Ops: A multi-agent orchestration framework for end-to-end SOP automation in e-commerce operations](https://www.amazon.science/publications/agent-ops-a-multi-agent-orchestration-framework-for-end-to-end-sop-automation-in-e-commerce-operations) | publication | Official page |
+| 2026 | [Adaptive turn-taking for real-time multi-party voice agents](https://www.amazon.science/publications/adaptive-turn-taking-for-real-time-multi-party-voice-agents) | publication | Official page |
 | 2026 | [AccelOpt: A self-improving LLM agentic system for AI accelerator kernel optimization](https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization) | publication | Official page |
 | 2026 | [ARES: Adaptive red-teaming and end-to-end repair of policy-reward system](https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system) | publication | Official page |
 | 2026 | [A neurosymbolic approach to natural language formalization and verification](https://www.amazon.science/publications/a-neurosymbolic-approach-to-natural-language-formalization-and-verification) | publication | Official page |

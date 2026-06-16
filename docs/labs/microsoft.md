@@ -1,14 +1,17 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1740`
-- Latest: `2026-06-11`
+- Papers: `1743`
+- Latest: `2026-06-14`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-14 | [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](https://www.microsoft.com/en-us/research/publication/workflowperturb-calibrated-stress-tests-for-evaluating-multi-agent-workflow-metrics/) | publication | Official page |
+| 2026-06-12 | [Can Language Models Go Beyond Coding? Assessing the Capability of Language Models to Build Real-World Systems](https://arxiv.org/abs/2511.00780) | preprint | OpenAlex |
+| 2026-06-12 | [FastContext: Training Efficient Repository Explorer for Coding Agents](https://huggingface.co/papers/2606.14066) | paper | HuggingFace |
 | 2026-06-11 | [The Next Frontier for AI-Generated Kernels: Correctness](https://doi.org/10.1145/3819802.3820580) | article | OpenAlex |
 | 2026-06-11 | [Lazy Validation and Self-Healing for Agentic Programs](https://doi.org/10.1145/3819802.3820582) | article | OpenAlex |
 | 2026-06-08 | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |

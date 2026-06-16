@@ -1,14 +1,16 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `234`
-- Latest: `2026-06-02`
+- Papers: `236`
+- Latest: `2026-06-12`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-12 | [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://huggingface.co/papers/2606.15007) | paper | HuggingFace |
+| 2026-06-09 | [Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction](https://arxiv.org/abs/2606.11508) | article | OpenAlex |
 | 2026-06-02 | [NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://huggingface.co/papers/2606.03159) | paper | HuggingFace |
 | 2026-06-01 | [Enhancing fake news detection: a hybrid BERT-XGBoost model for improved performance and interpretability](https://doi.org/10.11591/ijai.v15.i3.pp2385-2397) | article | OpenAlex |
 | 2026-06-01 | [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | paper | HuggingFace |
