@@ -4,16 +4,16 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-17T08:40:17+00:00`
-- Coverage: `6067` papers across `19` labs since 2024
+- Last generated: `2026-06-18T08:25:26+00:00`
+- Coverage: `6070` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Anthropic](#anthropic) | 26 | 2026-06-16 | [all papers](docs/labs/anthropic.md) |
+| 🇺🇸 US | [Anthropic](#anthropic) | 27 | 2026-06-16 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1745 | 2026-06-15 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1009 | 2026-06-15 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1011 | 2026-06-15 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 463 | 2026-06-15 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 432 | 2026-06-15 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 237 | 2026-06-15 | [all papers](docs/labs/nvidia.md) |
@@ -62,20 +62,20 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Anthropic
 
-`26` papers · latest `2026-06-16` · [full list](docs/labs/anthropic.md)
+`27` papers · latest `2026-06-16` · [full list](docs/labs/anthropic.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
+| 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |
 | 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
 | 2026-06 | [Claude Fable 5 and Mythos 5 System Card](https://anthropic.com/claude-fable-5-mythos-5-system-card) | model_card | Official page |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
 | 2026-05 | [Claude Opus 4.8 System Card](https://anthropic.com/claude-opus-4-8-system-card) | model_card | Official page |
 | 2026-04-30 | [How people ask Claude for personal guidance](https://www.anthropic.com/research/claude-personal-guidance) | publication | Official page |
-| 2026-04-29 | [Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench](https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench) | publication | Official page |
 
-More: [18 additional papers](docs/labs/anthropic.md)
+More: [19 additional papers](docs/labs/anthropic.md)
 
 ### 🇺🇸 Microsoft
 
@@ -96,7 +96,7 @@ More: [1737 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 
-`1009` papers · latest `2026-06-15` · [full list](docs/labs/amazon.md)
+`1011` papers · latest `2026-06-15` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -109,7 +109,7 @@ More: [1737 additional papers](docs/labs/microsoft.md)
 | 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex |
 | 2026-05-31 | [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | article | OpenAlex |
 
-More: [1001 additional papers](docs/labs/amazon.md)
+More: [1003 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -121,7 +121,7 @@ More: [1001 additional papers](docs/labs/amazon.md)
 | 2026-06-14 | [Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://huggingface.co/papers/2606.17030) | technical-report | Official page |
 | 2026-06-11 | [Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.13657) | article | OpenAlex |
 | 2026-06-09 | [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://huggingface.co/papers/2606.12373) | technical-report | Official page |
-| 2026-06-09 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://huggingface.co/papers/2606.12370) | technical-report | Official page |
+| 2026-06-09 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://huggingface.co/papers/2606.12370) | technical-report | Official page, OpenAlex |
 | 2026-06-06 | [Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents](https://arxiv.org/abs/2606.08151) | article | OpenAlex |
 | 2026-06-03 | [Scaling Self-Evolving Agents via Parametric Memory](https://arxiv.org/abs/2606.04536) | article | OpenAlex |
 | 2026-06-03 | [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) | article | OpenAlex |

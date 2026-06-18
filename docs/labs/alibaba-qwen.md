@@ -13,7 +13,7 @@
 | 2026-06-14 | [Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://huggingface.co/papers/2606.17030) | technical-report | Official page |
 | 2026-06-11 | [Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.13657) | article | OpenAlex |
 | 2026-06-09 | [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://huggingface.co/papers/2606.12373) | technical-report | Official page |
-| 2026-06-09 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://huggingface.co/papers/2606.12370) | technical-report | Official page |
+| 2026-06-09 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://huggingface.co/papers/2606.12370) | technical-report | Official page, OpenAlex |
 | 2026-06-06 | [Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents](https://arxiv.org/abs/2606.08151) | article | OpenAlex |
 | 2026-06-03 | [Scaling Self-Evolving Agents via Parametric Memory](https://arxiv.org/abs/2606.04536) | article | OpenAlex |
 | 2026-06-03 | [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484) | article | OpenAlex |

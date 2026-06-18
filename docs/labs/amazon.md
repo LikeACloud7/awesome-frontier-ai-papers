@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1009`
+- Papers: `1011`
 - Latest: `2026-06-15`
 - [Back to README](../../README.md#amazon)
 
@@ -160,6 +160,7 @@
 | 2026 | [The arrow of time: What tabular foundation models miss in time series forecasting](https://www.amazon.science/publications/the-arrow-of-time-what-tabular-foundation-models-miss-in-time-series-forecasting) | publication | Official page |
 | 2026 | [Text-to-distribution prediction with quantile tokens and neighbor context](https://www.amazon.science/publications/text-to-distribution-prediction-with-quantile-tokens-and-neighbor-context) | publication | Official page |
 | 2026 | [TaTToo: Tool-augmented thinking PRM for tabular reasoning](https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning) | publication | Official page |
+| 2026 | [TRAJECT-Bench: A trajectory-aware benchmark for evaluating agentic tool use](https://www.amazon.science/publications/traject-bench-a-trajectory-aware-benchmark-for-evaluating-agentic-tool-use) | publication | Official page |
 | 2026 | [Supplement generation training for enhancing agentic task performance](https://www.amazon.science/publications/supplement-generation-training-for-enhancing-agentic-task-performance) | publication | Official page |
 | 2026 | [Steering large reasoning models towards concise reasoning via flow matching](https://www.amazon.science/publications/steering-large-reasoning-models-towards-concise-reasoning-via-flow-matching) | publication | Official page |
 | 2026 | [ShopperBench: A benchmark for personalized shopping with persona-guided simulation](https://www.amazon.science/publications/shopperbench-a-benchmark-for-personalized-shopping-with-persona-guided-simulation) | publication | Official page |
@@ -227,6 +228,7 @@
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |
 | 2026 | [CompAgent: An agentic framework for visual compliance verification](https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification) | publication | Official page |
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
+| 2026 | [Closing the feedback loop: From experience extraction to insight governance in verbal reinforcement learning](https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [CSMAD: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements) | publication | Official page |
 | 2026 | [COMET: Compatibility-oriented multi-modal embedding transformer for visual recommendations](https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations) | publication | Official page |
@@ -259,7 +261,7 @@
 |---|---|---|---|
 | 2025-12-17 | [LLMCache: Layer-Wise Caching Strategies for Accelerated Reuse in Transformer Inference](https://doi.org/10.1109/ised67359.2025.11405274) | article | OpenAlex |
 | 2025-12-17 | [Beyond the Ticker: Graph-Fused Stock Forecasting with Candlestick chart, Temporal, and Relational Intelligence](https://doi.org/10.1145/3799830.3799872) | article | OpenAlex |
-| 2025-12-15 | [Connecting the Impact of Silent Data Corruption With Different Training Characteristics: An Empirical Study](https://doi.org/10.1109/mm.2025.3642709) | article | OpenAlex |
+| 2025-12-15 | [Connecting the Impact of Silent Data Corruption With Different Training Characteristics: An Empirical Study](https://doi.org/10.1109/mm.2025.3642709) | article | OpenAlex, Official page |
 | 2025-12-15 | [A Contrastive Feedback Loops-Based Unified Framework For Generating Self-Improving LLM Agents Using PL-RL](https://doi.org/10.36227/techrxiv.176583871.16158474/v1) | article | OpenAlex |
 | 2025-12-12 | [ThinkBox: Integrating generative artificial intelligence into graduate studies in administration: impacts, ethical dilemmas, and methodological paths](https://doi.org/10.1108/rege-10-2025-218) | article | OpenAlex |
 | 2025-12-11 | [COSTAR: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workflows](https://doi.org/10.1109/icaides67265.2025.11404085) | article | OpenAlex |
