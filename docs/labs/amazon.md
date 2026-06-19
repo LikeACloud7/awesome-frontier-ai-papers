@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1011`
-- Latest: `2026-06-15`
+- Papers: `1012`
+- Latest: `2026-06-16`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-16 | [CarbonX: An Open-Source Tool for Computational Decarbonization Using Time Series Foundation Models](http://arxiv.org/abs/2510.01521) | article | OpenAlex |
 | 2026-06-15 | [A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://doi.org/10.1145/3805622.3810730) | article | OpenAlex |
 | 2026-06-12 | [Disentangling Confounders from Pathology in Long-COVID Trajectory Prediction for Women: An Interpretable Large-Language-Model Approach](https://doi.org/10.64898/2026.06.10.26355420) | article | OpenAlex |
 | 2026-06-10 | [Keep Policy Gradient in Charge: Sibling-Guided Credit Distillation for Long-Horizon Tool-Use Agents](https://arxiv.org/abs/2606.12634) | article | OpenAlex |
@@ -261,7 +262,7 @@
 |---|---|---|---|
 | 2025-12-17 | [LLMCache: Layer-Wise Caching Strategies for Accelerated Reuse in Transformer Inference](https://doi.org/10.1109/ised67359.2025.11405274) | article | OpenAlex |
 | 2025-12-17 | [Beyond the Ticker: Graph-Fused Stock Forecasting with Candlestick chart, Temporal, and Relational Intelligence](https://doi.org/10.1145/3799830.3799872) | article | OpenAlex |
-| 2025-12-15 | [Connecting the Impact of Silent Data Corruption With Different Training Characteristics: An Empirical Study](https://doi.org/10.1109/mm.2025.3642709) | article | OpenAlex, Official page |
+| 2025-12-15 | [Connecting the Impact of Silent Data Corruption With Different Training Characteristics: An Empirical Study](https://doi.org/10.1109/mm.2025.3642709) | article | Official page |
 | 2025-12-15 | [A Contrastive Feedback Loops-Based Unified Framework For Generating Self-Improving LLM Agents Using PL-RL](https://doi.org/10.36227/techrxiv.176583871.16158474/v1) | article | OpenAlex |
 | 2025-12-12 | [ThinkBox: Integrating generative artificial intelligence into graduate studies in administration: impacts, ethical dilemmas, and methodological paths](https://doi.org/10.1108/rege-10-2025-218) | article | OpenAlex |
 | 2025-12-11 | [COSTAR: Cloud-Observed Safety and Trust-Aware Agentic Reasoning for Enterprise Workflows](https://doi.org/10.1109/icaides67265.2025.11404085) | article | OpenAlex |

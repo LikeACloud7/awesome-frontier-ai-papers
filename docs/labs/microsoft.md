@@ -1,24 +1,30 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1745`
-- Latest: `2026-06-15`
+- Papers: `1751`
+- Latest: `2026-06-18`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
+| 2026-06-15 | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
 | 2026-06-15 | [From Reporting Patterns to Extracted Magnitudes: Full-Text LLM Mining Recovers the Direction but Inflates the Magnitude of Stress-Related Brain Change Across 380 Studies](https://doi.org/10.21203/rs.3.rs-10005266/v1) | preprint | OpenAlex |
 | 2026-06-14 | [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](https://www.microsoft.com/en-us/research/publication/workflowperturb-calibrated-stress-tests-for-evaluating-multi-agent-workflow-metrics/) | publication | Official page |
+| 2026-06-12 | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://www.microsoft.com/en-us/research/publication/abstracting-cross-domain-action-sequences-into-interpretable-workflows/) | publication | Official page |
 | 2026-06-12 | [Can Language Models Go Beyond Coding? Assessing the Capability of Language Models to Build Real-World Systems](https://arxiv.org/abs/2511.00780) | preprint | OpenAlex |
 | 2026-06-12 | [FastContext: Training Efficient Repository Explorer for Coding Agents](https://huggingface.co/papers/2606.14066) | paper | HuggingFace |
 | 2026-06-11 | [Select and Improve: Understanding the Mechanics of Post-Training for Reasoning](https://www.microsoft.com/en-us/research/publication/select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning/) | publication | Official page |
 | 2026-06-11 | [The Next Frontier for AI-Generated Kernels: Correctness](https://doi.org/10.1145/3819802.3820580) | article | OpenAlex |
 | 2026-06-11 | [Lazy Validation and Self-Healing for Agentic Programs](https://doi.org/10.1145/3819802.3820582) | article | OpenAlex |
+| 2026-06-10 | [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://www.microsoft.com/en-us/research/publication/from-content-to-knowledge-lightning-fast-long-video-understanding-with-neural-knowledge-representations/) | publication | Official page |
+| 2026-06-09 | [Express Language Modeling](https://www.microsoft.com/en-us/research/publication/express-language-modeling/) | publication | Official page |
 | 2026-06-08 | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |
+| 2026-06-08 | [LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231) | article | OpenAlex, Official page |
 | 2026-06-08 | [SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance](https://arxiv.org/abs/2606.09441) | article | OpenAlex |
-| 2026-06-08 | [LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231) | article | OpenAlex |
+| 2026-06-06 | ["So There's a Catch-22 Here": How Early Adopters Who Build Multi-Agent LLM Systems Conceptualize Transparency](https://www.microsoft.com/en-us/research/publication/so-theres-a-catch-22-here-how-early-adopters-who-build-multi-agent-llm-systems-conceptualize-transparency/) | publication | Official page |
 | 2026-06-06 | [Human-AI co-design for clinical prediction models](https://doi.org/10.1038/s41746-026-02838-5) | article | OpenAlex |
 | 2026-06-04 | [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://www.microsoft.com/en-us/research/publication/you-only-index-once-cross-layer-sparse-attention-with-shared-routing/) | publication | Official page |
 | 2026-06-04 | [Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://www.microsoft.com/en-us/research/publication/retrospective-harness-optimization-improving-llm-agents-via-self-preference-over-trajectory-rollouts/) | publication | Official page |
