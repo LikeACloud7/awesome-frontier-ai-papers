@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1751`
+- Papers: `1758`
 - Latest: `2026-06-18`
 - [Back to README](../../README.md#microsoft)
 
@@ -19,11 +19,18 @@
 | 2026-06-11 | [Select and Improve: Understanding the Mechanics of Post-Training for Reasoning](https://www.microsoft.com/en-us/research/publication/select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning/) | publication | Official page |
 | 2026-06-11 | [The Next Frontier for AI-Generated Kernels: Correctness](https://doi.org/10.1145/3819802.3820580) | article | OpenAlex |
 | 2026-06-11 | [Lazy Validation and Self-Healing for Agentic Programs](https://doi.org/10.1145/3819802.3820582) | article | OpenAlex |
+| 2026-06-10 | [Beyond representational alignment with brain-guided language models for robust reasoning](https://www.microsoft.com/en-us/research/publication/beyond-representational-alignment-with-brain-guided-language-models-for-robust-reasoning/) | publication | Official page |
+| 2026-06-10 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://www.microsoft.com/en-us/research/publication/toward-generalist-autonomous-research-via-hypothesis-tree-refinement/) | publication | Official page |
+| 2026-06-10 | [LLMs Can Better Capture Human Judgments--With the Right Prompts](https://www.microsoft.com/en-us/research/publication/llms-can-better-capture-human-judgments-with-the-right-prompts/) | publication | Official page |
 | 2026-06-10 | [From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations](https://www.microsoft.com/en-us/research/publication/from-content-to-knowledge-lightning-fast-long-video-understanding-with-neural-knowledge-representations/) | publication | Official page |
+| 2026-06-10 | [Benchmarking AI Agents for Addressing Scientific Challenges Across Scales](https://www.microsoft.com/en-us/research/publication/benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales/) | publication | Official page |
+| 2026-06-09 | [The Power of Test-Time Training for Approximate Sampling](https://www.microsoft.com/en-us/research/publication/the-power-of-test-time-training-for-approximate-sampling/) | publication | Official page |
 | 2026-06-09 | [Express Language Modeling](https://www.microsoft.com/en-us/research/publication/express-language-modeling/) | publication | Official page |
 | 2026-06-08 | [Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale](https://www.microsoft.com/en-us/research/publication/serving-models-fast-and-slowoptimizing-heterogeneous-llm-inferencing-workloads-at-scale/) | publication | Official page |
-| 2026-06-08 | [LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231) | article | OpenAlex, Official page |
+| 2026-06-08 | [LLM can Read Spectrogram: Encoder-free Speech-Language Modeling](https://arxiv.org/abs/2606.10231) | article | Official page |
+| 2026-06-08 | [WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces](https://www.microsoft.com/en-us/research/publication/weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybrid-interfaces/) | publication | Official page |
 | 2026-06-08 | [SIFT: Selective-Index For Fast Compute of RAG Prefill by Exploiting Attention Invariance](https://arxiv.org/abs/2606.09441) | article | OpenAlex |
+| 2026-06-06 | [Minibatch Selection via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
 | 2026-06-06 | ["So There's a Catch-22 Here": How Early Adopters Who Build Multi-Agent LLM Systems Conceptualize Transparency](https://www.microsoft.com/en-us/research/publication/so-theres-a-catch-22-here-how-early-adopters-who-build-multi-agent-llm-systems-conceptualize-transparency/) | publication | Official page |
 | 2026-06-06 | [Human-AI co-design for clinical prediction models](https://doi.org/10.1038/s41746-026-02838-5) | article | OpenAlex |
 | 2026-06-04 | [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://www.microsoft.com/en-us/research/publication/you-only-index-once-cross-layer-sparse-attention-with-shared-routing/) | publication | Official page |
