@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `267`
-- Latest: `2026-06-14`
+- Papers: `268`
+- Latest: `2026-06-17`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 | 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
 | 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
 | 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |

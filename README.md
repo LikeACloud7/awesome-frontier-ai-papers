@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-20T07:11:53+00:00`
-- Coverage: `6093` papers across `19` labs since 2024
+- Last generated: `2026-06-21T08:15:06+00:00`
+- Coverage: `6095` papers across `19` labs since 2024
 
 ## Labs
 
@@ -13,12 +13,12 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Amazon](#amazon) | 1013 | 2026-06-19 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1758 | 2026-06-18 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 268 | 2026-06-17 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 721 | 2026-06-16 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 465 | 2026-06-16 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 466 | 2026-06-16 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 238 | 2026-06-16 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 27 | 2026-06-16 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 432 | 2026-06-15 | [all papers](docs/labs/huawei-noah.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 267 | 2026-06-14 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 416 | 2026-06-12 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 134 | 2026-06-11 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
@@ -37,9 +37,11 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---|---|---|---|
 | 2026-06-19 | Amazon | [Multimodal Walkability Assessment and Path Optimization for Pedestrian Routing Using Environmental Analytics and LLMs](https://doi.org/10.1145/3744256.3812561) | article | OpenAlex |
 | 2026-06-18 | Microsoft | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
+| 2026-06-17 | Baidu | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 | 2026-06-16 | Tencent/Hunyuan | [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](https://huggingface.co/papers/2606.19236) | technical-report | Official page |
 | 2026-06-16 | Alibaba/Qwen | [Native Active Perception as Reasoning for Omni-Modal Understanding](https://huggingface.co/papers/2606.19341) | technical-report | Official page |
 | 2026-06-16 | Anthropic | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
+| 2026-06-16 | Alibaba/Qwen | [Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose](https://arxiv.org/abs/2606.18051) | article | OpenAlex |
 | 2026-06-16 | Amazon | [CarbonX: An Open-Source Tool for Computational Decarbonization Using Time Series Foundation Models](http://arxiv.org/abs/2510.01521) | article | OpenAlex |
 | 2026-06-16 | NVIDIA | [A universal gating framework for multi-expert fusion in heterogeneous multimodal time series forecasting](https://doi.org/10.1038/s41598-026-54540-x) | article | OpenAlex |
 | 2026-06-15 | Microsoft | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
@@ -53,8 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-14 | Baidu | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
 | 2026-06-13 | Alibaba/Qwen | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](https://huggingface.co/papers/2606.15079) | technical-report | Official page |
 | 2026-06-12 | Microsoft | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://www.microsoft.com/en-us/research/publication/abstracting-cross-domain-action-sequences-into-interpretable-workflows/) | publication | Official page |
-| 2026-06-12 | Tencent/Hunyuan | [WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation](https://arxiv.org/abs/2606.14275) | article | OpenAlex |
-| 2026-06-12 | Amazon | [Disentangling Confounders from Pathology in Long-COVID Trajectory Prediction for Women: An Interpretable Large-Language-Model Approach](https://doi.org/10.64898/2026.06.10.26355420) | article | OpenAlex |
 
 ## Papers By Lab
 
@@ -94,6 +94,23 @@ More: [1005 additional papers](docs/labs/amazon.md)
 
 More: [1750 additional papers](docs/labs/microsoft.md)
 
+### 🇨🇳 Baidu
+
+`268` papers · latest `2026-06-17` · [full list](docs/labs/baidu.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
+| 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
+| 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
+| 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
+| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
+| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
+| 2026-06 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264) | technical-report | Official page |
+| 2026-06 | [PP-OCRv6: From 1.5M to 34.5M Parameters, Surpassing Billion-Scale VLMs on OCR Tasks](https://huggingface.co/papers/2606.13108) | technical-report | Official page |
+
+More: [260 additional papers](docs/labs/baidu.md)
+
 ### 🇨🇳 Tencent/Hunyuan
 
 `721` papers · latest `2026-06-16` · [full list](docs/labs/tencent-hunyuan.md)
@@ -113,20 +130,20 @@ More: [713 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`465` papers · latest `2026-06-16` · [full list](docs/labs/alibaba-qwen.md)
+`466` papers · latest `2026-06-16` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-16 | [Native Active Perception as Reasoning for Omni-Modal Understanding](https://huggingface.co/papers/2606.19341) | technical-report | Official page |
+| 2026-06-16 | [Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose](https://arxiv.org/abs/2606.18051) | article | OpenAlex |
 | 2026-06-15 | [Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://huggingface.co/papers/2606.18249) | technical-report | Official page |
 | 2026-06-14 | [Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://huggingface.co/papers/2606.17030) | technical-report | Official page |
 | 2026-06-13 | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](https://huggingface.co/papers/2606.15079) | technical-report | Official page |
 | 2026-06-11 | [Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.13657) | article | OpenAlex |
 | 2026-06-09 | [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://huggingface.co/papers/2606.12373) | technical-report | Official page |
 | 2026-06-09 | [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://huggingface.co/papers/2606.12370) | technical-report | Official page |
-| 2026-06-06 | [Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents](https://arxiv.org/abs/2606.08151) | article | OpenAlex |
 
-More: [457 additional papers](docs/labs/alibaba-qwen.md)
+More: [458 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -178,23 +195,6 @@ More: [19 additional papers](docs/labs/anthropic.md)
 | 2026-06-01 | [DesignCoder: Hierarchy-aware and self-correcting UI code generation with large language models](http://arxiv.org/abs/2506.13663) | article | OpenAlex |
 
 More: [424 additional papers](docs/labs/huawei-noah.md)
-
-### 🇨🇳 Baidu
-
-`267` papers · latest `2026-06-14` · [full list](docs/labs/baidu.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
-| 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
-| 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
-| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
-| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
-| 2026-06 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264) | technical-report | Official page |
-| 2026-06 | [PP-OCRv6: From 1.5M to 34.5M Parameters, Surpassing Billion-Scale VLMs on OCR Tasks](https://huggingface.co/papers/2606.13108) | technical-report | Official page |
-| 2026-05-28 | [Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation](https://arxiv.org/abs/2605.30000) | article | OpenAlex |
-
-More: [259 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Google/DeepMind
 
