@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1013`
+- Papers: `1016`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -156,6 +156,7 @@
 | 2026 | [VERGE: Formal refinement and guidance engine for verifiable LLM reasoning](https://www.amazon.science/publications/verge-formal-refinement-and-guidance-engine-for-verifiable-llm-reasoning) | publication | Official page |
 | 2026 | [Universal guideline-driven image clustering via a hybrid LLM agent](https://www.amazon.science/publications/universal-guideline-driven-image-clustering-via-a-hybrid-llm-agent) | publication | Official page |
 | 2026 | [Understanding the implicit biases of design choices for time series foundation models](https://www.amazon.science/publications/understanding-the-implicit-biases-of-design-choices-for-time-series-foundation-models) | publication | Official page |
+| 2026 | [USAD 2.0: Scaling representation distillation for universal audio understanding](https://www.amazon.science/publications/usad-2-0-scaling-representation-distillation-for-universal-audio-understanding) | publication | Official page |
 | 2026 | [Trajectory2Task: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents) | publication | Official page |
 | 2026 | [Training large language models to reason in parallel with global forking tokens](https://www.amazon.science/publications/training-large-language-models-to-reason-in-parallel-with-global-forking-tokens) | publication | Official page |
 | 2026 | [Towards self-improving error diagnosis in multi-agent systems](https://www.amazon.science/publications/towards-self-improving-error-diagnosis-in-multi-agent-systems) | publication | Official page |
@@ -163,6 +164,7 @@
 | 2026 | [Text-to-distribution prediction with quantile tokens and neighbor context](https://www.amazon.science/publications/text-to-distribution-prediction-with-quantile-tokens-and-neighbor-context) | publication | Official page |
 | 2026 | [TaTToo: Tool-augmented thinking PRM for tabular reasoning](https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning) | publication | Official page |
 | 2026 | [TRAJECT-Bench: A trajectory-aware benchmark for evaluating agentic tool use](https://www.amazon.science/publications/traject-bench-a-trajectory-aware-benchmark-for-evaluating-agentic-tool-use) | publication | Official page |
+| 2026 | [T2PO: Uncertainty-guided exploration control for stable multi-turn agentic reinforcement learning](https://www.amazon.science/publications/t2po-uncertainty-guided-exploration-control-for-stable-multi-turn-agentic-reinforcement-learning) | publication | Official page |
 | 2026 | [Supplement generation training for enhancing agentic task performance](https://www.amazon.science/publications/supplement-generation-training-for-enhancing-agentic-task-performance) | publication | Official page |
 | 2026 | [Steering large reasoning models towards concise reasoning via flow matching](https://www.amazon.science/publications/steering-large-reasoning-models-towards-concise-reasoning-via-flow-matching) | publication | Official page |
 | 2026 | [ShopperBench: A benchmark for personalized shopping with persona-guided simulation](https://www.amazon.science/publications/shopperbench-a-benchmark-for-personalized-shopping-with-persona-guided-simulation) | publication | Official page |
@@ -249,6 +251,7 @@
 | 2026 | [Agentic prompt optimization with visual contrastive reasoning for fine-grained classification](https://www.amazon.science/publications/agentic-prompt-optimization-with-visual-contrastive-reasoning-for-fine-grained-classification) | publication | Official page |
 | 2026 | [Agent-Ops: A multi-agent orchestration framework for end-to-end SOP automation in e-commerce operations](https://www.amazon.science/publications/agent-ops-a-multi-agent-orchestration-framework-for-end-to-end-sop-automation-in-e-commerce-operations) | publication | Official page |
 | 2026 | [Adaptive turn-taking for real-time multi-party voice agents](https://www.amazon.science/publications/adaptive-turn-taking-for-real-time-multi-party-voice-agents) | publication | Official page |
+| 2026 | [Adaptive geometry routing for vision–language understanding](https://www.amazon.science/publications/adaptive-geometry-routing-for-vision-language-understanding) | publication | Official page |
 | 2026 | [AccelOpt: A self-improving LLM agentic system for AI accelerator kernel optimization](https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization) | publication | Official page |
 | 2026 | [ARES: Adaptive red-teaming and end-to-end repair of policy-reward system](https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system) | publication | Official page |
 | 2026 | [A neurosymbolic approach to natural language formalization and verification](https://www.amazon.science/publications/a-neurosymbolic-approach-to-natural-language-formalization-and-verification) | publication | Official page |
