@@ -1,14 +1,15 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1758`
-- Latest: `2026-06-18`
+- Papers: `1759`
+- Latest: `2026-06-20`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-20 | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
 | 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
 | 2026-06-15 | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
 | 2026-06-15 | [From Reporting Patterns to Extracted Magnitudes: Full-Text LLM Mining Recovers the Direction but Inflates the Magnitude of Stress-Related Brain Change Across 380 Studies](https://doi.org/10.21203/rs.3.rs-10005266/v1) | preprint | OpenAlex |
