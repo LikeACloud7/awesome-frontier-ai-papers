@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1016`
+- Papers: `1019`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -173,6 +173,7 @@
 | 2026 | [SQL-Trail: multi-turn reinforcement learning with interleaved feedback for text-to-SQL](https://www.amazon.science/publications/sql-trail-multi-turn-reinforcement-learning-with-interleaved-feedback-for-text-to-sql) | publication | Official page |
 | 2026 | [SELENE: Selective and evidence-weighted LLM debating for efficient and reliable reasoning](https://www.amazon.science/publications/selene-selective-and-evidence-weighted-llm-debating-for-efficient-and-reliable-reasoning) | publication | Official page |
 | 2026 | [SALT: Step-level advantage assignment for long-horizon agents via trajectory graph](https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph) | publication | Official page |
+| 2026 | [SAGE: Semantic ambiguity gate](https://www.amazon.science/publications/sage-semantic-ambiguity-gate) | publication | Official page |
 | 2026 | [SAER: Scalable assessment of e-commerce recommendations using large language models](https://www.amazon.science/publications/saer-scalable-assessment-of-e-commerce-recommendations-using-large-language-models) | publication | Official page |
 | 2026 | [S2D: Selective spectral decay for quantization-friendly conditioning of neural activations](https://www.amazon.science/publications/s2d-selective-spectral-decay-for-quantization-friendly-conditioning-of-neural-activations) | publication | Official page |
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
@@ -241,8 +242,10 @@
 | 2026 | [Breaking the safety-capability tradeoff: Reinforcement learning with verifiable rewards maintains safety guardrails in LLMs](https://www.amazon.science/publications/breaking-the-safety-capability-tradeoff-reinforcement-learning-with-verifiable-rewards-maintains-safety-guardrails-in-llms) | publication | Official page |
 | 2026 | [Beyond statistical changepoint detection: Semantic interpretation of time series via large language models](https://www.amazon.science/publications/beyond-statistical-changepoint-detection-semantic-interpretation-of-time-series-via-large-language-models) | publication | Official page |
 | 2026 | [Beyond grey-box assumptions: Uncertainty-guided example selection for black-box language models](https://www.amazon.science/publications/beyond-grey-box-assumptions-uncertainty-guided-example-selection-for-black-box-language-models) | publication | Official page |
+| 2026 | [Beyond disjoint tasks: Towards more natural continual learning for vision-language models](https://www.amazon.science/publications/beyond-disjoint-tasks-towards-more-natural-continual-learning-for-vision-language-models) | publication | Official page |
 | 2026 | [Beyond correctness: Rewarding faithful reasoning in retrieval-augmented generation](https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation) | publication | Official page |
 | 2026 | [Better literary translation: A multi-aspect data generation and LLM training approach](https://www.amazon.science/publications/better-literary-translation-a-multi-aspect-data-generation-and-llm-training-approach) | publication | Official page |
+| 2026 | [Benchmarking multilingual temporal reasoning in LLMs: The temporal reasoning dataset](https://www.amazon.science/publications/benchmarking-multilingual-temporal-reasoning-in-llms-the-temporal-reasoning-dataset) | publication | Official page |
 | 2026 | [Balancing classification and calibration performance in decision-making LLMs via calibration aware reinforcement learning](https://www.amazon.science/publications/balancing-classification-and-calibration-performance-in-decision-making-llms-via-calibration-aware-reinforcement-learning) | publication | Official page |
 | 2026 | [Attribute-aware controlled product generation with LLMs for e-commerce](https://www.amazon.science/publications/attribute-aware-controlled-product-generation-with-llms-for-e-commerce) | publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms) | publication | Official page |
