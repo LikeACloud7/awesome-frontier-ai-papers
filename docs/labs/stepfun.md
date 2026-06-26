@@ -1,14 +1,15 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `23`
-- Latest: `2026-06`
+- Papers: `24`
+- Latest: `2026-06-23`
 - [Back to README](../../README.md#stepfun)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-23 | [ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://huggingface.co/papers/2606.25763) | technical-report | Official page |
 | 2026-06 | [SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://huggingface.co/papers/2606.09669) | technical-report | Official page |
 | 2026-05-12 | [Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://huggingface.co/papers/2605.12034) | technical-report | Official page |
 | 2026-05 | [StepAudio 2.5 Technical Report](https://huggingface.co/papers/2605.23463) | technical-report | Official page |

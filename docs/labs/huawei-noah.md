@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `433`
+- Papers: `434`
 - Latest: `2026-06-20`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-20 | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |
+| 2026-06-17 | [fastiRNN: Fast inference of recurrent neural networks at the post-training stage](https://doi.org/10.1016/j.neucom.2026.134285) | article | OpenAlex |
 | 2026-06-15 | [Beyond Screen Time: Inferring Everyday Life Context from Diverse Smartphone Data](https://doi.org/10.1145/3810187) | article | OpenAlex |
 | 2026-06-08 | [Internalizing Geometric Law: Learning from Solver Residuals for Precision-Critical Generation](https://arxiv.org/abs/2606.09278) | article | OpenAlex |
 | 2026-06-05 | [MADE: Beyond Scoring via a Multilingual Agentic Diagnosing Engine for Fine-Grained Evaluation Insights](https://arxiv.org/abs/2606.07020) | article | OpenAlex |

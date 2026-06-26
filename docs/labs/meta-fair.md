@@ -1,14 +1,15 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `134`
-- Latest: `2026-06-11`
+- Papers: `135`
+- Latest: `2026-06-19`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-19 | [Discretizing Reward Models](https://huggingface.co/papers/2606.21795) | paper | HuggingFace |
 | 2026-06-11 | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
 | 2026-06-11 | [Clinical artificial intelligence applications of vision-language foundation models](https://doi.org/10.1371/journal.pdig.0001453) | article | OpenAlex |
 | 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |

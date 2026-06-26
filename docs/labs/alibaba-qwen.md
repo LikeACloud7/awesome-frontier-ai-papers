@@ -1,14 +1,16 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `469`
-- Latest: `2026-06-22`
+- Papers: `471`
+- Latest: `2026-06-24`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
+| 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
 | 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
 | 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
 | 2026-06-19 | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |

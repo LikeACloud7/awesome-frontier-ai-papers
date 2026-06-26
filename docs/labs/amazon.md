@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1019`
+- Papers: `1020`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -183,6 +183,7 @@
 | 2026 | [Replication as learning: Scalable knowledge distillation for multimodal enterprise agents](https://www.amazon.science/publications/replication-as-learning-scalable-knowledge-distillation-for-multimodal-enterprise-agents) | publication | Official page |
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [Reasoning with memory: Adaptive information management for retrieval-augmented generation](https://www.amazon.science/publications/reasoning-with-memory-adaptive-information-management-for-retrieval-augmented-generation) | publication | Official page |
+| 2026 | [ROPOLL: Robust panel of LLM judges](https://www.amazon.science/publications/ropoll-robust-panel-of-llm-judges) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
 | 2026 | [RECoRD: A multi-agent LLM framework for reverse engineering codebase to causal relational diagram](https://www.amazon.science/publications/record-a-multi-agent-llm-framework-for-reverse-engineering-codebase-to-causal-relational-diagram) | publication | Official page |
 | 2026 | [QJL is 1-bit compressive sensing: An equivalence and its consequences for KV cache compression in LLMs](https://www.amazon.science/publications/qjl-is-1-bit-compressive-sensing-an-equivalence-and-its-consequences-for-kv-cache-compression-in-llms) | publication | Official page |

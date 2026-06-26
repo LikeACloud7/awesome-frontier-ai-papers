@@ -1,14 +1,15 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `724`
-- Latest: `2026-06-21`
+- Papers: `725`
+- Latest: `2026-06-24`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-24 | [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | technical-report | Official page |
 | 2026-06-21 | [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](https://huggingface.co/papers/2606.23543) | technical-report | Official page |
 | 2026-06-21 | [Training Open Models for Agentic Phone Use](https://huggingface.co/papers/2606.23049) | technical-report | Official page |
 | 2026-06-16 | [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](https://huggingface.co/papers/2606.19236) | technical-report | Official page |
