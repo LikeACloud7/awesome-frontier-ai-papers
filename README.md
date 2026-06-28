@@ -4,13 +4,15 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-27T06:41:10+00:00`
-- Coverage: `6126` papers across `19` labs since 2024
+- Last generated: `2026-06-28T07:13:13+00:00`
+- Coverage: `6131` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Microsoft](#microsoft) | 1763 | 2026-06-28 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 270 | 2026-06-26 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 30 | 2026-06-26 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 435 | 2026-06-25 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 726 | 2026-06-24 | [all papers](docs/labs/tencent-hunyuan.md) |
@@ -18,8 +20,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 420 | 2026-06-23 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 369 | 2026-06-23 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 24 | 2026-06-23 | [all papers](docs/labs/stepfun.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 269 | 2026-06-21 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1759 | 2026-06-20 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1020 | 2026-06-19 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 135 | 2026-06-19 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 238 | 2026-06-16 | [all papers](docs/labs/nvidia.md) |
@@ -35,7 +35,11 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-06-28 | Microsoft | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
+| 2026-06-28 | Microsoft | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
 | 2026-06-26 | DeepSeek | [DSpark](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | technical-report | Official repo |
+| 2026-06-26 | Baidu | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
+| 2026-06-26 | Microsoft | [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8) | article | OpenAlex |
 | 2026-06-25 | Huawei/Noah | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
 | 2026-06-24 | Tencent/Hunyuan | [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | technical-report | Official page |
 | 2026-06-24 | Alibaba/Qwen | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
@@ -44,21 +48,51 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-23 | Apple | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
 | 2026-06-23 | Google/DeepMind | [Can Large Language Models <i>Really</i> Recognize Your Name?](https://doi.org/10.1145/3805689.3806747) | article | OpenAlex |
 | 2026-06-22 | Alibaba/Qwen | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
+| 2026-06-22 | Microsoft | [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | article | OpenAlex |
 | 2026-06-22 | Google/DeepMind | [Modeling polarization in public opinion through LLM-synthesized arguments and stance trees](https://doi.org/10.7717/peerj-cs.3906) | article | OpenAlex |
 | 2026-06-22 | Alibaba/Qwen | [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](https://arxiv.org/abs/2606.23190) | article | OpenAlex |
 | 2026-06-21 | Tencent/Hunyuan | [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](https://huggingface.co/papers/2606.23543) | technical-report | Official page |
 | 2026-06-21 | Baidu | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
 | 2026-06-21 | Tencent/Hunyuan | [Training Open Models for Agentic Phone Use](https://huggingface.co/papers/2606.23049) | technical-report | Official page |
 | 2026-06-20 | Microsoft | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
-| 2026-06-20 | Huawei/Noah | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |
-| 2026-06-19 | Alibaba/Qwen | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
-| 2026-06-19 | Tencent/Hunyuan | [SwarmX: Agentic Scheduling for Low-Latency Agentic Systems](https://arxiv.org/abs/2606.21401) | article | OpenAlex |
-| 2026-06-19 | Amazon | [Multimodal Walkability Assessment and Path Optimization for Pedestrian Routing Using Environmental Analytics and LLMs](https://doi.org/10.1145/3744256.3812561) | article | OpenAlex |
-| 2026-06-19 | Alibaba/Qwen | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Microsoft
+
+`1763` papers · latest `2026-06-28` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-28 | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
+| 2026-06-28 | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
+| 2026-06-26 | [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8) | article | OpenAlex |
+| 2026-06-22 | [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | article | OpenAlex |
+| 2026-06-20 | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
+| 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
+| 2026-06-15 | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
+| 2026-06-15 | [From Reporting Patterns to Extracted Magnitudes: Full-Text LLM Mining Recovers the Direction but Inflates the Magnitude of Stress-Related Brain Change Across 380 Studies](https://doi.org/10.21203/rs.3.rs-10005266/v1) | preprint | OpenAlex |
+
+More: [1755 additional papers](docs/labs/microsoft.md)
+
+### 🇨🇳 Baidu
+
+`270` papers · latest `2026-06-26` · [full list](docs/labs/baidu.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-26 | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
+| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
+| 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
+| 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
+| 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
+| 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
+| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
+| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
+
+More: [262 additional papers](docs/labs/baidu.md)
 
 ### 🇨🇳 DeepSeek
 
@@ -178,40 +212,6 @@ More: [361 additional papers](docs/labs/apple.md)
 | 2026-02-24 | [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](https://huggingface.co/papers/2602.20933) | technical-report | Official page |
 
 More: [16 additional papers](docs/labs/stepfun.md)
-
-### 🇨🇳 Baidu
-
-`269` papers · latest `2026-06-21` · [full list](docs/labs/baidu.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
-| 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
-| 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
-| 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
-| 2026-06-04 | [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://huggingface.co/papers/2606.07299) | technical-report | Official page |
-| 2026-06-03 | [When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](https://huggingface.co/papers/2606.05806) | technical-report | Official page |
-| 2026-06-02 | [MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](https://huggingface.co/papers/2606.04513) | technical-report | Official page |
-| 2026-06 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://huggingface.co/papers/2606.03264) | technical-report | Official page |
-
-More: [261 additional papers](docs/labs/baidu.md)
-
-### 🇺🇸 Microsoft
-
-`1759` papers · latest `2026-06-20` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-20 | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
-| 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
-| 2026-06-15 | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
-| 2026-06-15 | [From Reporting Patterns to Extracted Magnitudes: Full-Text LLM Mining Recovers the Direction but Inflates the Magnitude of Stress-Related Brain Change Across 380 Studies](https://doi.org/10.21203/rs.3.rs-10005266/v1) | preprint | OpenAlex |
-| 2026-06-14 | [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](https://www.microsoft.com/en-us/research/publication/workflowperturb-calibrated-stress-tests-for-evaluating-multi-agent-workflow-metrics/) | publication | Official page |
-| 2026-06-12 | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://www.microsoft.com/en-us/research/publication/abstracting-cross-domain-action-sequences-into-interpretable-workflows/) | publication | Official page |
-| 2026-06-12 | [Can Language Models Go Beyond Coding? Assessing the Capability of Language Models to Build Real-World Systems](https://arxiv.org/abs/2511.00780) | preprint | OpenAlex |
-| 2026-06-12 | [FastContext: Training Efficient Repository Explorer for Coding Agents](https://huggingface.co/papers/2606.14066) | paper | HuggingFace |
-
-More: [1751 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 

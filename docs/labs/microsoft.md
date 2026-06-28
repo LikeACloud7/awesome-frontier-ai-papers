@@ -1,14 +1,18 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1759`
-- Latest: `2026-06-20`
+- Papers: `1763`
+- Latest: `2026-06-28`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-28 | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
+| 2026-06-28 | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
+| 2026-06-26 | [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8) | article | OpenAlex |
+| 2026-06-22 | [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | article | OpenAlex |
 | 2026-06-20 | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
 | 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
 | 2026-06-15 | [Towards Functional Correctness of Large Code Models with Selective Generation](https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/) | publication | Official page |
