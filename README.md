@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-06-28T07:13:13+00:00`
-- Coverage: `6131` papers across `19` labs since 2024
+- Last generated: `2026-06-29T08:30:16+00:00`
+- Coverage: `6132` papers across `19` labs since 2024
 
 ## Labs
 
@@ -16,7 +16,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇨🇳 China | [DeepSeek](#deepseek) | 30 | 2026-06-26 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 435 | 2026-06-25 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 726 | 2026-06-24 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 472 | 2026-06-24 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 473 | 2026-06-24 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 420 | 2026-06-23 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 369 | 2026-06-23 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 24 | 2026-06-23 | [all papers](docs/labs/stepfun.md) |
@@ -43,6 +43,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-25 | Huawei/Noah | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
 | 2026-06-24 | Tencent/Hunyuan | [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | technical-report | Official page |
 | 2026-06-24 | Alibaba/Qwen | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
+| 2026-06-24 | Alibaba/Qwen | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
 | 2026-06-23 | Alibaba/Qwen | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
 | 2026-06-23 | StepFun | [ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://huggingface.co/papers/2606.25763) | technical-report | Official page |
 | 2026-06-23 | Apple | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
@@ -54,7 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-06-21 | Tencent/Hunyuan | [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](https://huggingface.co/papers/2606.23543) | technical-report | Official page |
 | 2026-06-21 | Baidu | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
 | 2026-06-21 | Tencent/Hunyuan | [Training Open Models for Agentic Phone Use](https://huggingface.co/papers/2606.23049) | technical-report | Official page |
-| 2026-06-20 | Microsoft | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
 
 ## Papers By Lab
 
@@ -147,20 +147,20 @@ More: [718 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`472` papers · latest `2026-06-24` · [full list](docs/labs/alibaba-qwen.md)
+`473` papers · latest `2026-06-24` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
+| 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
 | 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
 | 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
 | 2026-06-22 | [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](https://arxiv.org/abs/2606.23190) | article | OpenAlex |
 | 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
 | 2026-06-19 | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |
 | 2026-06-16 | [Native Active Perception as Reasoning for Omni-Modal Understanding](https://huggingface.co/papers/2606.19341) | technical-report | Official page |
-| 2026-06-16 | [Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose](https://arxiv.org/abs/2606.18051) | article | OpenAlex |
 
-More: [464 additional papers](docs/labs/alibaba-qwen.md)
+More: [465 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
