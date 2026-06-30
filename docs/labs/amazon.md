@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1020`
+- Papers: `1023`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -60,8 +60,8 @@
 | 2026-03-19 | [RADIUS: Ranking, Distribution, and Significance - A Comprehensive Alignment Suite for Survey Simulation](http://arxiv.org/abs/2603.19002) | article | OpenAlex |
 | 2026-03-17 | [VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support](http://arxiv.org/abs/2603.16110) | article | OpenAlex |
 | 2026-03-16 | [AI Agents as Universal Task Solvers](https://doi.org/10.3390/e28030332) | article | OpenAlex |
+| 2026-03-14 | [SMPRO: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](https://doi.org/10.1609/aaai.v40i44.41132) | article | OpenAlex, Official page |
 | 2026-03-14 | [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://doi.org/10.1609/aaai.v40i26.39319) | article | OpenAlex |
-| 2026-03-14 | [SMPRO: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](https://doi.org/10.1609/aaai.v40i44.41132) | article | OpenAlex |
 | 2026-03-14 | [Automatic Funny Scene Extraction from Long-form Cinematic Videos](https://doi.org/10.1609/aaai.v40i47.41480) | article | OpenAlex |
 | 2026-03-14 | [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://doi.org/10.1609/aaai.v40i38.40500) | article | OpenAlex |
 | 2026-03-11 | [Optimizing LLM Prompt Engineering with DSPy-Based Declarative Learning](https://doi.org/10.1109/esci68015.2026.11493364) | article | OpenAlex |
@@ -91,7 +91,7 @@
 | 2026-01-28 | [BAP v2: An Enhanced Task Framework for Instruction Following in Minecraft Dialogues](https://doi.org/10.1162/coli.a.602) | article | OpenAlex |
 | 2026-01-20 | [Foundations of Global Consistency Checking with Noisy LLM Oracles](http://arxiv.org/abs/2601.13600) | article | OpenAlex |
 | 2026-01-10 | [FedSNA: a federated learning neuro-spiking and algae-optimized agentic AI framework for real-time fraud detection in cloud-based financial services](https://doi.org/10.1007/s41870-025-03087-7) | article | OpenAlex |
-| 2026-01-08 | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](http://arxiv.org/abs/2601.05214) | article | OpenAlex |
+| 2026-01-08 | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](http://arxiv.org/abs/2601.05214) | article | OpenAlex, Official page |
 | 2026-01-07 | [Collaborative LLM Numerical Reasoning with Local Data Protection](https://doi.org/10.48448/33kh-qb70) | other | OpenAlex |
 | 2026-01-07 | [A Framework for Explainable Artificial Intelligence in Healthcare Using Model-Agnostic Methods](https://doi.org/10.1109/icmcsi67283.2026.11412454) | article | OpenAlex |
 | 2026-01-03 | [Out of distribution detection with attention head masking for multimodal document classification](https://doi.org/10.1038/s41598-025-32328-9) | article | OpenAlex |
@@ -160,6 +160,7 @@
 | 2026 | [Trajectory2Task: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents) | publication | Official page |
 | 2026 | [Training large language models to reason in parallel with global forking tokens](https://www.amazon.science/publications/training-large-language-models-to-reason-in-parallel-with-global-forking-tokens) | publication | Official page |
 | 2026 | [Towards self-improving error diagnosis in multi-agent systems](https://www.amazon.science/publications/towards-self-improving-error-diagnosis-in-multi-agent-systems) | publication | Official page |
+| 2026 | [The personalization trap: How user memory alters emotional reasoning in LLMs](https://www.amazon.science/publications/the-personalization-trap-how-user-memory-alters-emotional-reasoning-in-llms) | publication | Official page |
 | 2026 | [The arrow of time: What tabular foundation models miss in time series forecasting](https://www.amazon.science/publications/the-arrow-of-time-what-tabular-foundation-models-miss-in-time-series-forecasting) | publication | Official page |
 | 2026 | [Text-to-distribution prediction with quantile tokens and neighbor context](https://www.amazon.science/publications/text-to-distribution-prediction-with-quantile-tokens-and-neighbor-context) | publication | Official page |
 | 2026 | [TaTToo: Tool-augmented thinking PRM for tabular reasoning](https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning) | publication | Official page |
@@ -220,6 +221,7 @@
 | 2026 | [Foundation models for sparse, multi-relational risk prediction in global supply chains](https://www.amazon.science/publications/foundation-models-for-sparse-multi-relational-risk-prediction-in-global-supply-chains) | publication | Official page |
 | 2026 | [Feedback-aware prompt optimization framework for generating job postings](https://www.amazon.science/publications/feedback-aware-prompt-optimization-framework-for-generating-job-postings) | publication | Official page |
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering) | publication | Official page |
+| 2026 | [Exploring LLM-powered agents for modeling thermal dynamics of buildings](https://www.amazon.science/publications/exploring-llm-powered-agents-for-modeling-thermal-dynamics-of-buildings) | publication | Official page |
 | 2026 | [Explicit trait inference for multi-agent coordination](https://www.amazon.science/publications/explicit-trait-inference-for-multi-agent-coordination) | publication | Official page |
 | 2026 | [Exectune: Effective steering of black-box LLMs with guide models](https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models) | publication | Official page |
 | 2026 | [Encoding domain expertise in agents: Lessons from NFL Fantasy AI](https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai) | publication | Official page |
@@ -236,6 +238,7 @@
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
 | 2026 | [Closing the feedback loop: From experience extraction to insight governance in verbal reinforcement learning](https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
+| 2026 | [Capturing gaze shifts for guidance: Cross-modal fusion enhancement for VLM hallucination mitigation](https://www.amazon.science/publications/capturing-gaze-shifts-for-guidance-cross-modal-fusion-enhancement-for-vlm-hallucination-mitigation) | publication | Official page |
 | 2026 | [CSMAD: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements) | publication | Official page |
 | 2026 | [COMET: Compatibility-oriented multi-modal embedding transformer for visual recommendations](https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations) | publication | Official page |
 | 2026 | [COMEM: Context management with A decoupled long-context model](https://www.amazon.science/publications/comem-context-management-with-a-decoupled-long-context-model) | publication | Official page |
