@@ -1,14 +1,22 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1763`
-- Latest: `2026-06-28`
+- Papers: `1771`
+- Latest: `2026-07-01`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
+| 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
+| 2026-07-01 | [PaT: Planning-after-Trial for Efficient Test-Time Code Generation](https://www.microsoft.com/en-us/research/publication/pat-planning-after-trial-for-efficient-test-time-code-generation/) | publication | Official page |
+| 2026-07-01 | [Differentially Private Synthetic Data via APIs 4: Tabular Data](https://www.microsoft.com/en-us/research/publication/differentially-private-synthetic-data-via-apis-4-tabular-data/) | publication | Official page |
+| 2026-07-01 | [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/) | publication | Official page |
+| 2026-07-01 | [EgoMemory: Memory-Augmented Personalized Retrieval for Long-Context Egocentric Video](https://www.microsoft.com/en-us/research/publication/egomemory-memory-augmented-personalized-retrieval-for-long-context-egocentric-video/) | publication | Official page |
+| 2026-07-01 | [CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents](https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/) | publication | Official page |
+| 2026-06-29 | [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://www.microsoft.com/en-us/research/publication/building-to-the-test-coding-agents-deliver-what-you-check-not-what-you-requested/) | publication | Official page |
 | 2026-06-28 | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
 | 2026-06-28 | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
 | 2026-06-26 | [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8) | article | OpenAlex |
@@ -169,7 +177,7 @@
 | 2026-04-27 | [Chow-Liu Ordering for Long-Context Reasoning in Chain-of-Agents](https://www.microsoft.com/en-us/research/publication/chow-liu-ordering-for-long-context-reasoning-in-chain-of-agents/) | publication | Official page |
 | 2026-04-27 | [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://www.microsoft.com/en-us/research/publication/world-r1-reinforcing-3d-constraints-for-text-to-video-generation/) | publication | Official page |
 | 2026-04-27 | [ARIA: Adaptive Reasoning for Integrated Analysis — An LLM-Powered Framework for Autonomous Transcriptome Analysis with Decision-Aware Workflow Orchestration](https://doi.org/10.21203/rs.3.rs-9500973/v1) | preprint | OpenAlex |
-| 2026-04-25 | [How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study](https://www.microsoft.com/en-us/research/publication/how-researchers-navigate-accountability-transparency-and-trust-when-using-ai-tools-in-early-stage-research-a-think-aloud-study/) | publication | Official page, OpenAlex |
+| 2026-04-25 | [How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study](https://www.microsoft.com/en-us/research/publication/how-researchers-navigate-accountability-transparency-and-trust-when-using-ai-tools-in-early-stage-research-a-think-aloud-study/) | publication | Official page |
 | 2026-04-24 | [CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms](https://www.microsoft.com/en-us/research/publication/cosmicdancepro-measuring-leo-satellites-orbital-decay-and-network-connectivity-implications-during-solar-storms/) | publication | Official page |
 | 2026-04-24 | [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://www.microsoft.com/en-us/research/publication/how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in-agentic-coding-tasks/) | publication | Official page |
 | 2026-04-23 | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://www.microsoft.com/en-us/research/publication/separable-expert-architecture-toward-privacy-preserving-llm-personalization-via-composable-adapters-and-deletable-user-proxies/) | publication | Official page |

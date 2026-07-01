@@ -17,7 +17,7 @@
 | 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
 | 2026-06-19 | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |
 | 2026-06-17 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://huggingface.co/papers/2606.18112) | technical-report | Official page |
-| 2026-06-16 | [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://huggingface.co/papers/2606.17846) | technical-report | Official page |
+| 2026-06-16 | [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](https://huggingface.co/papers/2606.17846) | technical-report | Official page, HuggingFace |
 | 2026-06-16 | [Native Active Perception as Reasoning for Omni-Modal Understanding](https://huggingface.co/papers/2606.19341) | technical-report | Official page |
 | 2026-06-16 | [Compositional Skill Routing for LLM Agents: Decompose, Retrieve, and Compose](https://arxiv.org/abs/2606.18051) | article | OpenAlex |
 | 2026-06-15 | [Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://huggingface.co/papers/2606.18249) | technical-report | Official page |

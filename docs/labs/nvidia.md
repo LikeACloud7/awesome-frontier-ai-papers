@@ -1,14 +1,15 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `238`
-- Latest: `2026-06-16`
+- Papers: `239`
+- Latest: `2026-07`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07 | [GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers](https://research.nvidia.com/publication/2026-07_galaxydit-efficient-video-generation-guidance-alignment-and-adaptive-proxy) | publication | Official page |
 | 2026-06-16 | [A universal gating framework for multi-expert fusion in heterogeneous multimodal time series forecasting](https://doi.org/10.1038/s41598-026-54540-x) | article | OpenAlex |
 | 2026-06-15 | [Context-Aware Visual Redaction Pipeline: Leveraging Vision-Language Models for High-Fidelity Content Inpainting](https://doi.org/10.1145/3805622.3810435) | article | OpenAlex |
 | 2026-06-12 | [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://huggingface.co/papers/2606.15007) | paper | HuggingFace |

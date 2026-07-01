@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `422`
+- Papers: `423`
 - Latest: `2026-06-30`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
 | 2026-06-30 | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
 | 2026-06-26 | [Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task](https://deepmind.google/research/publications/224297/) | publication | Official page |
 | 2026-06-23 | [Can Large Language Models <i>Really</i> Recognize Your Name?](https://doi.org/10.1145/3805689.3806747) | article | OpenAlex |

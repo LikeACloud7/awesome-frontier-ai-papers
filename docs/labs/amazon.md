@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1023`
+- Papers: `1025`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -60,7 +60,7 @@
 | 2026-03-19 | [RADIUS: Ranking, Distribution, and Significance - A Comprehensive Alignment Suite for Survey Simulation](http://arxiv.org/abs/2603.19002) | article | OpenAlex |
 | 2026-03-17 | [VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support](http://arxiv.org/abs/2603.16110) | article | OpenAlex |
 | 2026-03-16 | [AI Agents as Universal Task Solvers](https://doi.org/10.3390/e28030332) | article | OpenAlex |
-| 2026-03-14 | [SMPRO: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](https://doi.org/10.1609/aaai.v40i44.41132) | article | OpenAlex, Official page |
+| 2026-03-14 | [SMPRO: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](https://doi.org/10.1609/aaai.v40i44.41132) | article | Official page |
 | 2026-03-14 | [Harnessing Vision-Language Models for Time Series Anomaly Detection](https://doi.org/10.1609/aaai.v40i26.39319) | article | OpenAlex |
 | 2026-03-14 | [Automatic Funny Scene Extraction from Long-form Cinematic Videos](https://doi.org/10.1609/aaai.v40i47.41480) | article | OpenAlex |
 | 2026-03-14 | [InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://doi.org/10.1609/aaai.v40i38.40500) | article | OpenAlex |
@@ -91,7 +91,7 @@
 | 2026-01-28 | [BAP v2: An Enhanced Task Framework for Instruction Following in Minecraft Dialogues](https://doi.org/10.1162/coli.a.602) | article | OpenAlex |
 | 2026-01-20 | [Foundations of Global Consistency Checking with Noisy LLM Oracles](http://arxiv.org/abs/2601.13600) | article | OpenAlex |
 | 2026-01-10 | [FedSNA: a federated learning neuro-spiking and algae-optimized agentic AI framework for real-time fraud detection in cloud-based financial services](https://doi.org/10.1007/s41870-025-03087-7) | article | OpenAlex |
-| 2026-01-08 | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](http://arxiv.org/abs/2601.05214) | article | OpenAlex, Official page |
+| 2026-01-08 | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](http://arxiv.org/abs/2601.05214) | article | Official page |
 | 2026-01-07 | [Collaborative LLM Numerical Reasoning with Local Data Protection](https://doi.org/10.48448/33kh-qb70) | other | OpenAlex |
 | 2026-01-07 | [A Framework for Explainable Artificial Intelligence in Healthcare Using Model-Agnostic Methods](https://doi.org/10.1109/icmcsi67283.2026.11412454) | article | OpenAlex |
 | 2026-01-03 | [Out of distribution detection with attention head masking for multimodal document classification](https://doi.org/10.1038/s41598-025-32328-9) | article | OpenAlex |
@@ -199,6 +199,7 @@
 | 2026 | [MTSQL-R1: Towards long-horizon multi-turn text-to-SQL via agentic training](https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training) | publication | Official page |
 | 2026 | [MM-ReCoder: Advancing chart-to-code generation with reinforcement learning and self-correction](https://www.amazon.science/publications/mm-recoder-advancing-chart-to-code-generation-with-reinforcement-learning-and-self-correction) | publication | Official page |
 | 2026 | [Low-rank embedding adaptation for models with expanding vocabularies](https://www.amazon.science/publications/low-rank-embedding-adaptation-for-models-with-expanding-vocabularies) | publication | Official page |
+| 2026 | [Long-horizon shopping dialogue simulation with journey-aware user simulation and critic-guided revision](https://www.amazon.science/publications/long-horizon-shopping-dialogue-simulation-with-journey-aware-user-simulation-and-critic-guided-revision) | publication | Official page |
 | 2026 | [LocRegen: Cost-efficient redundancy removal in multilingual e-commerce titles with small language models](https://www.amazon.science/publications/locregen-cost-efficient-redundancy-removal-in-multilingual-e-commerce-titles-with-small-language-models) | publication | Official page |
 | 2026 | [Linking knowledge to care: Knowledge graph-augmented medical follow-up question generation](https://www.amazon.science/publications/linking-knowledge-to-care-knowledge-graph-augmented-medical-follow-up-question-generation) | publication | Official page |
 | 2026 | [LinguaMAP: Which layers of LLMs speak your language and how to tune them?](https://www.amazon.science/publications/linguamap-which-layers-of-llms-speak-your-language-and-how-to-tune-them) | publication | Official page |
@@ -230,6 +231,7 @@
 | 2026 | [DualVision: RGB-infrared multimodal large language models for robust visual reasoning](https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning) | publication | Official page |
 | 2026 | [Do VLMs read or rewrite?](https://www.amazon.science/publications/do-vlms-read-or-rewrite) | publication | Official page |
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps) | publication | Official page |
+| 2026 | [Dependence-aware label aggregation for LLM-as-a-judge via Ising models](https://www.amazon.science/publications/dependence-aware-label-aggregation-for-llm-as-a-judge-via-ising-models) | publication | Official page |
 | 2026 | [Delta debugging for LLM-integrated systems](https://www.amazon.science/publications/delta-debugging-for-llm-integrated-systems) | publication | Official page |
 | 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [DOT-MoE: Differentiable optimal transport for MoEfication](https://www.amazon.science/publications/dot-moe-differentiable-optimal-transport-for-moefication) | publication | Official page |

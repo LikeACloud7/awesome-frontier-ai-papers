@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `28`
+- Papers: `29`
 - Latest: `2026-06-26`
 - [Back to README](../../README.md#anthropic)
 
@@ -13,6 +13,7 @@
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
 | 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |
 | 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
+| 2026-06 | [Claude Sonnet 5 System Card](https://anthropic.com/claude-sonnet-5-system-card) | model_card | Official page |
 | 2026-06 | [Claude Fable 5 and Mythos 5 System Card](https://anthropic.com/claude-fable-5-mythos-5-system-card) | model_card | Official page |
 | 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
 | 2026-05-07 | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
