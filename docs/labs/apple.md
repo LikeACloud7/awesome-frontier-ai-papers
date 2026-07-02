@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `369`
-- Latest: `2026-06-23`
+- Papers: `370`
+- Latest: `2026-06-25`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-25 | [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329) | article | OpenAlex |
 | 2026-06-23 | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
 | 2026-06-08 | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
 | 2026-05-22 | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |

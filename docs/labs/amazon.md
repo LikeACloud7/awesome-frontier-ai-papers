@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1025`
+- Papers: `1026`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -220,6 +220,7 @@
 | 2026 | [From narrow unlearning to emergent misalignment: Causes, consequences, and containment in LLMs](https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms) | publication | Official page |
 | 2026 | [From frontier to frugal: Evaluating self-evolution frameworks with small language models](https://www.amazon.science/publications/from-frontier-to-frugal-evaluating-self-evolution-frameworks-with-small-language-models) | publication | Official page |
 | 2026 | [Foundation models for sparse, multi-relational risk prediction in global supply chains](https://www.amazon.science/publications/foundation-models-for-sparse-multi-relational-risk-prediction-in-global-supply-chains) | publication | Official page |
+| 2026 | [Forget to know, remember to use: Context-aware unlearning for large language models](https://www.amazon.science/publications/forget-to-know-remember-to-use-context-aware-unlearning-for-large-language-models) | publication | Official page |
 | 2026 | [Feedback-aware prompt optimization framework for generating job postings](https://www.amazon.science/publications/feedback-aware-prompt-optimization-framework-for-generating-job-postings) | publication | Official page |
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering) | publication | Official page |
 | 2026 | [Exploring LLM-powered agents for modeling thermal dynamics of buildings](https://www.amazon.science/publications/exploring-llm-powered-agents-for-modeling-thermal-dynamics-of-buildings) | publication | Official page |

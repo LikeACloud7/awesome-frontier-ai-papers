@@ -1,14 +1,15 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `53`
-- Latest: `2026-05-22`
+- Papers: `54`
+- Latest: `2026-06-30`
 - [Back to README](../../README.md#openai)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-30 | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |
 | 2026-05-22 | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
 | 2026-05-05 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
 | 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |

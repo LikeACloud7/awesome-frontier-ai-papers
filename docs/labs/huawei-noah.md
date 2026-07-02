@@ -1,14 +1,15 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `435`
-- Latest: `2026-06-25`
+- Papers: `436`
+- Latest: `2026-06-30`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-30 | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
 | 2026-06-25 | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
 | 2026-06-20 | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |
 | 2026-06-17 | [fastiRNN: Fast inference of recurrent neural networks at the post-training stage](https://doi.org/10.1016/j.neucom.2026.134285) | article | OpenAlex |

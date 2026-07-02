@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1771`
+- Papers: `1772`
 - Latest: `2026-07-01`
 - [Back to README](../../README.md#microsoft)
 
@@ -20,6 +20,7 @@
 | 2026-06-28 | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
 | 2026-06-28 | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
 | 2026-06-26 | [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8) | article | OpenAlex |
+| 2026-06-25 | [Validating and Refining Measurements for Generative AI Evaluation Via Stakeholder Engagement](https://doi.org/10.1145/3805689.3812403) | article | OpenAlex |
 | 2026-06-22 | [You Don't Need to Run Every Eval](https://arxiv.org/abs/2606.24020) | article | OpenAlex |
 | 2026-06-20 | [Minibatch Selection for Language Models via Partition Matroid Constrained Gradient Matching](https://www.microsoft.com/en-us/research/publication/minibatch-selection-for-language-models-via-partition-matroid-constrained-gradient-matching/) | publication | Official page |
 | 2026-06-18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/) | publication | Official page |
@@ -177,7 +178,7 @@
 | 2026-04-27 | [Chow-Liu Ordering for Long-Context Reasoning in Chain-of-Agents](https://www.microsoft.com/en-us/research/publication/chow-liu-ordering-for-long-context-reasoning-in-chain-of-agents/) | publication | Official page |
 | 2026-04-27 | [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://www.microsoft.com/en-us/research/publication/world-r1-reinforcing-3d-constraints-for-text-to-video-generation/) | publication | Official page |
 | 2026-04-27 | [ARIA: Adaptive Reasoning for Integrated Analysis — An LLM-Powered Framework for Autonomous Transcriptome Analysis with Decision-Aware Workflow Orchestration](https://doi.org/10.21203/rs.3.rs-9500973/v1) | preprint | OpenAlex |
-| 2026-04-25 | [How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study](https://www.microsoft.com/en-us/research/publication/how-researchers-navigate-accountability-transparency-and-trust-when-using-ai-tools-in-early-stage-research-a-think-aloud-study/) | publication | Official page |
+| 2026-04-25 | [How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud Study](https://www.microsoft.com/en-us/research/publication/how-researchers-navigate-accountability-transparency-and-trust-when-using-ai-tools-in-early-stage-research-a-think-aloud-study/) | publication | Official page, OpenAlex |
 | 2026-04-24 | [CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms](https://www.microsoft.com/en-us/research/publication/cosmicdancepro-measuring-leo-satellites-orbital-decay-and-network-connectivity-implications-during-solar-storms/) | publication | Official page |
 | 2026-04-24 | [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://www.microsoft.com/en-us/research/publication/how-do-ai-agents-spend-your-money-analyzing-and-predicting-token-consumption-in-agentic-coding-tasks/) | publication | Official page |
 | 2026-04-23 | [Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies](https://www.microsoft.com/en-us/research/publication/separable-expert-architecture-toward-privacy-preserving-llm-personalization-via-composable-adapters-and-deletable-user-proxies/) | publication | Official page |
@@ -277,7 +278,7 @@
 | 2026-04-02 | [GeoAI Agency Primitives](https://www.microsoft.com/en-us/research/publication/geoai-agency-primitives/) | publication | Official page |
 | 2026-04-02 | [STRIVE: Structured Spatiotemporal Exploration for Reinforcement Learning in Video Question Answering](https://www.microsoft.com/en-us/research/publication/strive-structured-spatiotemporal-exploration-for-reinforcement-learning-in-video-question-answering/) | publication | Official page |
 | 2026-04-02 | [Magic, Madness, Heaven, Sin: LLM Output Diversity is Everything, Everywhere, All at Once](https://www.microsoft.com/en-us/research/publication/magic-madness-heaven-sin-llm-output-diversity-is-everything-everywhere-all-at-once/) | publication | Official page |
-| 2026-04-02 | [Evaluating AI-Generated Images of Cultural Artifacts with Community-Informed Rubrics](https://www.microsoft.com/en-us/research/publication/evaluating-ai-generated-images-of-cultural-artifacts-with-community-informed-rubrics/) | publication | Official page |
+| 2026-04-02 | [Evaluating AI-Generated Images of Cultural Artifacts with Community-Informed Rubrics](https://www.microsoft.com/en-us/research/publication/evaluating-ai-generated-images-of-cultural-artifacts-with-community-informed-rubrics/) | publication | Official page, OpenAlex |
 | 2026-04-02 | [LiveMathematicianBench: A Live Benchmark for Mathematician-Level Reasoning with Proof Sketches](https://www.microsoft.com/en-us/research/publication/livemathematicianbench-a-live-benchmark-for-mathematician-level-reasoning-with-proof-sketches/) | publication | Official page |
 | 2026-04-02 | [DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](https://www.microsoft.com/en-us/research/publication/dynavid-learning-to-generate-highly-dynamic-videos-using-synthetic-motion-data/) | publication | Official page |
 | 2026-04-01 | [RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning](https://www.microsoft.com/en-us/research/publication/refinerl-advancing-competitive-programming-with-self-refinement-reinforcement-learning/) | publication | Official page |
