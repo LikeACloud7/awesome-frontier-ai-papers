@@ -1,19 +1,21 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `735`
-- Latest: `2026-06-30`
+- Papers: `737`
+- Latest: `2026-07-01`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
 | 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
 | 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
 | 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
 | 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
 | 2026-06-28 | [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://huggingface.co/papers/2606.29705) | technical-report | Official page |
+| 2026-06-25 | [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://huggingface.co/papers/2606.27669) | technical-report | Official page |
 | 2026-06-25 | [ReFreeKV: Towards Threshold-Free KV Cache Compression](https://huggingface.co/papers/2502.16886) | technical-report | Official page |
 | 2026-06-25 | [NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243) | article | OpenAlex |
 | 2026-06-24 | [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | technical-report | Official page |

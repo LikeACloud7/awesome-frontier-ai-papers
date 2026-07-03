@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1026`
+- Papers: `1030`
 - Latest: `2026-06-19`
 - [Back to README](../../README.md#amazon)
 
@@ -192,7 +192,9 @@
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation) | publication | Official page |
 | 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
+| 2026 | [Online boundary-aware memory for case-based reasoning agents](https://www.amazon.science/publications/online-boundary-aware-memory-for-case-based-reasoning-agents) | publication | Official page |
 | 2026 | [Not-a-bandit: Provably no-regret drafter selection in speculative decoding for LLMs](https://www.amazon.science/publications/not-a-bandit-provably-no-regret-drafter-selection-in-speculative-decoding-for-llms) | publication | Official page |
+| 2026 | [NKI-Agent: Domain-specific fine-tuning and agentic tool use for neuron kernel generation](https://www.amazon.science/publications/nki-agent-domain-specific-fine-tuning-and-agentic-tool-use-for-neuron-kernel-generation) | publication | Official page |
 | 2026 | [Multi-scale model compression via nested matrix learning](https://www.amazon.science/publications/multi-scale-model-compression-via-nested-matrix-learning) | publication | Official page |
 | 2026 | [MigrationBench: Repository-level code migration benchmark from Java 8](https://www.amazon.science/publications/migrationbench-repository-level-code-migration-benchmark-from-java-8) | publication | Official page |
 | 2026 | [MemoPhishAgent: Memory-augmented multi-modal LLM Agent for phishing URL detection](https://www.amazon.science/publications/memophishagent-memory-augmented-multi-modal-llm-agent-for-phishing-url-detection) | publication | Official page |
@@ -207,6 +209,7 @@
 | 2026 | [KG-CRAFT: Knowledge graph-based contrastive reasoning with LLMs for enhancing automated fact-checking](https://www.amazon.science/publications/kg-craft-knowledge-graph-based-contrastive-reasoning-with-llms-for-enhancing-automated-fact-checking) | publication | Official page |
 | 2026 | [Journey before destination: On the importance of visual faithfulness in slow thinking](https://www.amazon.science/publications/journey-before-destination-on-the-importance-of-visual-faithfulness-in-slow-thinking) | publication | Official page |
 | 2026 | [Investigating equation-only reasoning in large language models](https://www.amazon.science/publications/investigating-equation-only-reasoning-in-large-language-models) | publication | Official page |
+| 2026 | [Inspectable tabular foundation models via in-context kernel learning](https://www.amazon.science/publications/inspectable-tabular-foundation-models-via-in-context-kernel-learning) | publication | Official page |
 | 2026 | [Incentivizing consistent, effective and scalable reasoning capability in audio LLMs via reasoning process rewards](https://www.amazon.science/publications/incentivizing-consistent-effective-and-scalable-reasoning-capability-in-audio-llms-via-reasoning-process-rewards) | publication | Official page |
 | 2026 | [Impact-driven event covariates for time-series foundation models](https://www.amazon.science/publications/impact-driven-event-covariates-for-time-series-foundation-models) | publication | Official page |
 | 2026 | [ImageRAGTurbo: Towards one-step text-to-image generation with retrieval-augmented diffusion models](https://www.amazon.science/publications/imageragturbo-towards-one-step-text-to-image-generation-with-retrieval-augmented-diffusion-models) | publication | Official page |
@@ -239,6 +242,7 @@
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |
 | 2026 | [CompAgent: An agentic framework for visual compliance verification](https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification) | publication | Official page |
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
+| 2026 | [CodeScout: Contextual problem statement enhancement for software agents](https://www.amazon.science/publications/codescout-contextual-problem-statement-enhancement-for-software-agents) | publication | Official page |
 | 2026 | [Closing the feedback loop: From experience extraction to insight governance in verbal reinforcement learning](https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [Capturing gaze shifts for guidance: Cross-modal fusion enhancement for VLM hallucination mitigation](https://www.amazon.science/publications/capturing-gaze-shifts-for-guidance-cross-modal-fusion-enhancement-for-vlm-hallucination-mitigation) | publication | Official page |

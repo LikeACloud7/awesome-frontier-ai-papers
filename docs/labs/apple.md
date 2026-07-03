@@ -1,14 +1,26 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `370`
-- Latest: `2026-06-25`
+- Papers: `382`
+- Latest: `2026-07-02`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
+| 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
+| 2026-07-02 | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
+| 2026-07-02 | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
+| 2026-07-02 | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
+| 2026-07-02 | [Learning Structured Reasoning via Tractable Trajectory Control](https://machinelearning.apple.com/research/learning-structured-reasoning) | publication | Official page |
+| 2026-07-02 | [Flexible Routing via Uncertainty Decomposition](https://machinelearning.apple.com/research/flexible-routing-uncertainty) | publication | Official page |
+| 2026-07-02 | [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://machinelearning.apple.com/research/health-foundation-models) | publication | Official page |
+| 2026-07-02 | [Device Passport: Enabling Spatio-Temporal Pretrained Models to Generalize Across Input Layouts](https://machinelearning.apple.com/research/device-passport-input-layouts) | publication | Official page |
+| 2026-07-02 | [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://machinelearning.apple.com/research/conformal-thinking-risk-control) | publication | Official page |
+| 2026-07-02 | [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://machinelearning.apple.com/research/balanced-lora-convergence) | publication | Official page |
+| 2026-07-02 | [Annotations Mitigate Post-Training Mode Collapse](https://machinelearning.apple.com/research/annotations-mode-collapse) | publication | Official page |
 | 2026-06-25 | [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329) | article | OpenAlex |
 | 2026-06-23 | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
 | 2026-06-08 | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
@@ -108,9 +120,9 @@
 | 2025-12-11 | [Assessing the Role of Data Quality in Training Bilingual Language Models](https://machinelearning.apple.com/research/data-quality-bilingual-lms) | publication | Official page |
 | 2025-12-10 | [ChipChat: Low-Latency Cascaded Conversational Agent in MLX](https://machinelearning.apple.com/research/chipchat) | publication | Official page |
 | 2025-12-10 | [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://machinelearning.apple.com/research/continuously-augmented) | publication | Official page |
+| 2025-12-09 | [Learning Unmasking Policies for Diffusion Language Models](https://huggingface.co/papers/2512.09106) | paper | HuggingFace, Official page |
 | 2025-12-09 | [Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding](https://machinelearning.apple.com/research/semantic-mastery) | publication | Official page |
 | 2025-12-09 | [Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring](https://machinelearning.apple.com/research/reinforcement-learning-integrated) | publication | Official page |
-| 2025-12-09 | [Learning Unmasking Policies for Diffusion Language Models](https://huggingface.co/papers/2512.09106) | paper | HuggingFace |
 | 2025-12-05 | [SO-Bench: A Structural Output Evaluation of Multimodal LLMs](https://machinelearning.apple.com/research/so-bench) | publication | Official page |
 | 2025-12-03 | [Semantic Regexes: Auto-Interpreting LLM Features with a Structured Language](https://machinelearning.apple.com/research/semantic-regexes) | publication | Official page |
 | 2025-12-03 | [PREDICT: Preference Reasoning by Evaluating Decomposed preferences Inferred from Candidate Trajectories](https://machinelearning.apple.com/research/predict) | publication | Official page |

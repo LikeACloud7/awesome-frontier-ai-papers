@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1772`
+- Papers: `1774`
 - Latest: `2026-07-01`
 - [Back to README](../../README.md#microsoft)
 
@@ -16,6 +16,8 @@
 | 2026-07-01 | [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/) | publication | Official page |
 | 2026-07-01 | [EgoMemory: Memory-Augmented Personalized Retrieval for Long-Context Egocentric Video](https://www.microsoft.com/en-us/research/publication/egomemory-memory-augmented-personalized-retrieval-for-long-context-egocentric-video/) | publication | Official page |
 | 2026-07-01 | [CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents](https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/) | publication | Official page |
+| 2026-07-01 | [Introduction to the Special Issue on Integrating Large Language Models and Knowledge Graphs for Generative AI](https://doi.org/10.1145/3822514) | article | OpenAlex |
+| 2026-06-30 | [HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents](https://huggingface.co/papers/2606.31179) | paper | HuggingFace |
 | 2026-06-29 | [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://www.microsoft.com/en-us/research/publication/building-to-the-test-coding-agents-deliver-what-you-check-not-what-you-requested/) | publication | Official page |
 | 2026-06-28 | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
 | 2026-06-28 | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |

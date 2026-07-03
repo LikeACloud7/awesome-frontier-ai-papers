@@ -1,14 +1,15 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `147`
-- Latest: `2026-05-28`
+- Papers: `148`
+- Latest: `2026-06-30`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
 | 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
 | 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
 | 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |

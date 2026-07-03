@@ -4,30 +4,30 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-02T06:53:28+00:00`
-- Coverage: `6167` papers across `19` labs since 2024
+- Last generated: `2026-07-03T06:47:18+00:00`
+- Coverage: `6189` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1772 | 2026-07-01 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Apple](#apple) | 382 | 2026-07-02 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1774 | 2026-07-01 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 737 | 2026-07-01 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 476 | 2026-07-01 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 239 | 2026-07 | [all papers](docs/labs/nvidia.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 735 | 2026-06-30 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 436 | 2026-06-30 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 423 | 2026-06-30 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 148 | 2026-06-30 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 270 | 2026-06-26 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 30 | 2026-06-26 | [all papers](docs/labs/deepseek.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 29 | 2026-06-26 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [Apple](#apple) | 370 | 2026-06-25 | [all papers](docs/labs/apple.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 475 | 2026-06-24 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 24 | 2026-06-23 | [all papers](docs/labs/stepfun.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1026 | 2026-06-19 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1030 | 2026-06-19 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 135 | 2026-06-19 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 24 | 2026-06-08 | [all papers](docs/labs/zai-zhipu.md) |
-| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 147 | 2026-05-28 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
 
@@ -35,6 +35,18 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-02 | Apple | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
+| 2026-07-02 | Apple | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
+| 2026-07-02 | Apple | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
+| 2026-07-02 | Apple | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
+| 2026-07-02 | Apple | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
+| 2026-07-02 | Apple | [Learning Structured Reasoning via Tractable Trajectory Control](https://machinelearning.apple.com/research/learning-structured-reasoning) | publication | Official page |
+| 2026-07-02 | Apple | [Flexible Routing via Uncertainty Decomposition](https://machinelearning.apple.com/research/flexible-routing-uncertainty) | publication | Official page |
+| 2026-07-02 | Apple | [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://machinelearning.apple.com/research/health-foundation-models) | publication | Official page |
+| 2026-07-02 | Apple | [Device Passport: Enabling Spatio-Temporal Pretrained Models to Generalize Across Input Layouts](https://machinelearning.apple.com/research/device-passport-input-layouts) | publication | Official page |
+| 2026-07-02 | Apple | [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://machinelearning.apple.com/research/conformal-thinking-risk-control) | publication | Official page |
+| 2026-07-02 | Apple | [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://machinelearning.apple.com/research/balanced-lora-convergence) | publication | Official page |
+| 2026-07-02 | Apple | [Annotations Mitigate Post-Training Mode Collapse](https://machinelearning.apple.com/research/annotations-mode-collapse) | publication | Official page |
 | 2026-07-01 | Microsoft | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
 | 2026-07-01 | Microsoft | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
 | 2026-07-01 | Microsoft | [PaT: Planning-after-Trial for Efficient Test-Time Code Generation](https://www.microsoft.com/en-us/research/publication/pat-planning-after-trial-for-efficient-test-time-code-generation/) | publication | Official page |
@@ -42,27 +54,32 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-01 | Microsoft | [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/) | publication | Official page |
 | 2026-07-01 | Microsoft | [EgoMemory: Memory-Augmented Personalized Retrieval for Long-Context Egocentric Video](https://www.microsoft.com/en-us/research/publication/egomemory-memory-augmented-personalized-retrieval-for-long-context-egocentric-video/) | publication | Official page |
 | 2026-07-01 | Microsoft | [CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents](https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/) | publication | Official page |
-| 2026-07 | NVIDIA | [GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers](https://research.nvidia.com/publication/2026-07_galaxydit-efficient-video-generation-guidance-alignment-and-adaptive-proxy) | publication | Official page |
-| 2026-06-30 | Google/DeepMind | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
-| 2026-06-30 | Huawei/Noah | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
-| 2026-06-30 | Google/DeepMind | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
-| 2026-06-30 | OpenAI | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |
-| 2026-06-30 | Tencent/Hunyuan | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
-| 2026-06-29 | Microsoft | [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://www.microsoft.com/en-us/research/publication/building-to-the-test-coding-agents-deliver-what-you-check-not-what-you-requested/) | publication | Official page |
-| 2026-06-29 | Tencent/Hunyuan | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
-| 2026-06-29 | Tencent/Hunyuan | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
-| 2026-06-29 | Tencent/Hunyuan | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
-| 2026-06-28 | Microsoft | [Rearchitecting the Datacenter Lifecycle for AI](https://www.microsoft.com/en-us/research/publication/rearchitecting-datacenter-lifecycle-for-ai-a-tco-driven-framework/) | publication | Official page |
-| 2026-06-28 | Microsoft | [AI Agents Can Defeat Security by Obscurity for Rowhammer Defenses](https://www.microsoft.com/en-us/research/publication/ai-agents-can-defeat-security-by-obscurity-for-rowhammer-defenses/) | publication | Official page |
-| 2026-06-28 | Tencent/Hunyuan | [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://huggingface.co/papers/2606.29705) | technical-report | Official page |
+| 2026-07-01 | Tencent/Hunyuan | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇺🇸 Apple
+
+`382` papers · latest `2026-07-02` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
+| 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
+| 2026-07-02 | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
+| 2026-07-02 | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
+| 2026-07-02 | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
+| 2026-07-02 | [Learning Structured Reasoning via Tractable Trajectory Control](https://machinelearning.apple.com/research/learning-structured-reasoning) | publication | Official page |
+| 2026-07-02 | [Flexible Routing via Uncertainty Decomposition](https://machinelearning.apple.com/research/flexible-routing-uncertainty) | publication | Official page |
+| 2026-07-02 | [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://machinelearning.apple.com/research/health-foundation-models) | publication | Official page |
+
+More: [374 additional papers](docs/labs/apple.md)
+
 ### 🇺🇸 Microsoft
 
-`1772` papers · latest `2026-07-01` · [full list](docs/labs/microsoft.md)
+`1774` papers · latest `2026-07-01` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -73,9 +90,43 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-01 | [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/) | publication | Official page |
 | 2026-07-01 | [EgoMemory: Memory-Augmented Personalized Retrieval for Long-Context Egocentric Video](https://www.microsoft.com/en-us/research/publication/egomemory-memory-augmented-personalized-retrieval-for-long-context-egocentric-video/) | publication | Official page |
 | 2026-07-01 | [CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents](https://www.microsoft.com/en-us/research/publication/ci-work-benchmarking-contextual-integrity-in-enterprise-llm-agents/) | publication | Official page |
-| 2026-06-29 | [Building to the Test: Coding Agents Deliver What You Check, Not What You Requested](https://www.microsoft.com/en-us/research/publication/building-to-the-test-coding-agents-deliver-what-you-check-not-what-you-requested/) | publication | Official page |
+| 2026-07-01 | [Introduction to the Special Issue on Integrating Large Language Models and Knowledge Graphs for Generative AI](https://doi.org/10.1145/3822514) | article | OpenAlex |
 
-More: [1764 additional papers](docs/labs/microsoft.md)
+More: [1766 additional papers](docs/labs/microsoft.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`737` papers · latest `2026-07-01` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
+| 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
+| 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
+| 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
+| 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
+| 2026-06-28 | [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://huggingface.co/papers/2606.29705) | technical-report | Official page |
+| 2026-06-25 | [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://huggingface.co/papers/2606.27669) | technical-report | Official page |
+| 2026-06-25 | [ReFreeKV: Towards Threshold-Free KV Cache Compression](https://huggingface.co/papers/2502.16886) | technical-report | Official page |
+
+More: [729 additional papers](docs/labs/tencent-hunyuan.md)
+
+### 🇨🇳 Alibaba/Qwen
+
+`476` papers · latest `2026-07-01` · [full list](docs/labs/alibaba-qwen.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-01 | [DanceDiT: towards efficient and consistent human image animation with diffusion transformer](https://doi.org/10.1007/s44267-026-00121-5) | article | OpenAlex |
+| 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
+| 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
+| 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
+| 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
+| 2026-06-22 | [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](https://arxiv.org/abs/2606.23190) | article | OpenAlex |
+| 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
+| 2026-06-19 | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |
+
+More: [468 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -93,23 +144,6 @@ More: [1764 additional papers](docs/labs/microsoft.md)
 | 2026-06-01 | [Cosmos 3: Omnimodal World Models for Physical AI](https://huggingface.co/papers/2606.02800) | paper | HuggingFace |
 
 More: [231 additional papers](docs/labs/nvidia.md)
-
-### 🇨🇳 Tencent/Hunyuan
-
-`735` papers · latest `2026-06-30` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
-| 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
-| 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
-| 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
-| 2026-06-28 | [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://huggingface.co/papers/2606.29705) | technical-report | Official page |
-| 2026-06-25 | [ReFreeKV: Towards Threshold-Free KV Cache Compression](https://huggingface.co/papers/2502.16886) | technical-report | Official page |
-| 2026-06-25 | [NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243) | article | OpenAlex |
-| 2026-06-24 | [ViQ: Text-Aligned Visual Quantized Representations at Any Resolution](https://huggingface.co/papers/2606.27313) | technical-report | Official page |
-
-More: [727 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -144,6 +178,23 @@ More: [428 additional papers](docs/labs/huawei-noah.md)
 | 2026-06-12 | [Demonstration of MiXR: Harvesting and Recomposing Geometry from Real-World Objects for In-Situ 3D Design](https://doi.org/10.1145/3802974.3808035) | article | OpenAlex |
 
 More: [415 additional papers](docs/labs/google-deepmind.md)
+
+### 🇨🇳 ByteDance/Seed
+
+`148` papers · latest `2026-06-30` · [full list](docs/labs/bytedance-seed.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
+| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
+| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
+| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
+| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
+| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
+| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
+| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://seed.bytedance.com/en/research/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation) | publication | Official page |
+
+More: [140 additional papers](docs/labs/bytedance-seed.md)
 
 ### 🇺🇸 OpenAI
 
@@ -213,40 +264,6 @@ More: [22 additional papers](docs/labs/deepseek.md)
 
 More: [21 additional papers](docs/labs/anthropic.md)
 
-### 🇺🇸 Apple
-
-`370` papers · latest `2026-06-25` · [full list](docs/labs/apple.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-25 | [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329) | article | OpenAlex |
-| 2026-06-23 | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
-| 2026-06-08 | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
-| 2026-05-22 | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |
-| 2026-05-11 | [BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning](https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning) | publication | Official page |
-| 2026-05-08 | [RVPO: Risk-Sensitive Alignment via Variance Regularization](https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment) | publication | Official page |
-| 2026-05-06 | [SpecMD: A Comprehensive Study on Speculative Expert Prefetching](https://machinelearning.apple.com/research/specmd-expert-prefetching) | publication | Official page |
-| 2026-05-06 | [From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs](https://machinelearning.apple.com/research/spatial) | publication | Official page |
-
-More: [362 additional papers](docs/labs/apple.md)
-
-### 🇨🇳 Alibaba/Qwen
-
-`475` papers · latest `2026-06-24` · [full list](docs/labs/alibaba-qwen.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
-| 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
-| 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
-| 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
-| 2026-06-22 | [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](https://arxiv.org/abs/2606.23190) | article | OpenAlex |
-| 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
-| 2026-06-19 | [DDPT: Enhancing complex reasoning in large language models via distillation and dynamic prompt tuning](https://doi.org/10.1016/j.neucom.2026.134297) | article | OpenAlex |
-| 2026-06-17 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://huggingface.co/papers/2606.18112) | technical-report | Official page, HuggingFace |
-
-More: [467 additional papers](docs/labs/alibaba-qwen.md)
-
 ### 🇨🇳 StepFun
 
 `24` papers · latest `2026-06-23` · [full list](docs/labs/stepfun.md)
@@ -266,7 +283,7 @@ More: [16 additional papers](docs/labs/stepfun.md)
 
 ### 🇺🇸 Amazon
 
-`1026` papers · latest `2026-06-19` · [full list](docs/labs/amazon.md)
+`1030` papers · latest `2026-06-19` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -279,7 +296,7 @@ More: [16 additional papers](docs/labs/stepfun.md)
 | 2026-06-05 | [Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning](https://arxiv.org/abs/2606.06835) | article | OpenAlex |
 | 2026-06-03 | [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557) | article | OpenAlex |
 
-More: [1018 additional papers](docs/labs/amazon.md)
+More: [1022 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Meta/FAIR
 
@@ -331,23 +348,6 @@ More: [1 additional papers](docs/labs/minimax.md)
 | 2026-01-09 | [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://huggingface.co/papers/2601.06021) | technical-report | Official page |
 
 More: [16 additional papers](docs/labs/zai-zhipu.md)
-
-### 🇨🇳 ByteDance/Seed
-
-`147` papers · latest `2026-05-28` · [full list](docs/labs/bytedance-seed.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
-| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
-| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
-| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
-| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
-| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
-| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://seed.bytedance.com/en/research/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation) | publication | Official page |
-| 2026-03-21 | [Beyond Token Eviction: Mixed-Dimension Budget Allocation for Efficient KV Cache Compression](https://seed.bytedance.com/en/research/beyond-token-eviction-mixed-dimension-budget-allocation-for-efficient-kv-cache-compression) | publication | Official page |
-
-More: [139 additional papers](docs/labs/bytedance-seed.md)
 
 ### 🇨🇳 Moonshot/Kimi
 
