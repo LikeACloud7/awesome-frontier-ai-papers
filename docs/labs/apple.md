@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `382`
+- Papers: `385`
 - Latest: `2026-07-02`
 - [Back to README](../../README.md#apple)
 
@@ -9,10 +9,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-02 | [Sparse Autoencoders Are Capable LLM Jailbreak Mitigators](https://machinelearning.apple.com/research/sparse-autoencoders-jailbreak-mitigators) | publication | Official page |
 | 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
 | 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
+| 2026-07-02 | [Normalized Rewards for Preference Learning](https://machinelearning.apple.com/research/normalized-rewards) | publication | Official page |
 | 2026-07-02 | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
 | 2026-07-02 | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
+| 2026-07-02 | [MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities](https://machinelearning.apple.com/research/modus) | publication | Official page |
 | 2026-07-02 | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
 | 2026-07-02 | [Learning Structured Reasoning via Tractable Trajectory Control](https://machinelearning.apple.com/research/learning-structured-reasoning) | publication | Official page |
 | 2026-07-02 | [Flexible Routing via Uncertainty Decomposition](https://machinelearning.apple.com/research/flexible-routing-uncertainty) | publication | Official page |
@@ -120,7 +123,7 @@
 | 2025-12-11 | [Assessing the Role of Data Quality in Training Bilingual Language Models](https://machinelearning.apple.com/research/data-quality-bilingual-lms) | publication | Official page |
 | 2025-12-10 | [ChipChat: Low-Latency Cascaded Conversational Agent in MLX](https://machinelearning.apple.com/research/chipchat) | publication | Official page |
 | 2025-12-10 | [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://machinelearning.apple.com/research/continuously-augmented) | publication | Official page |
-| 2025-12-09 | [Learning Unmasking Policies for Diffusion Language Models](https://huggingface.co/papers/2512.09106) | paper | HuggingFace, Official page |
+| 2025-12-09 | [Learning Unmasking Policies for Diffusion Language Models](https://huggingface.co/papers/2512.09106) | paper | Official page |
 | 2025-12-09 | [Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding](https://machinelearning.apple.com/research/semantic-mastery) | publication | Official page |
 | 2025-12-09 | [Reinforcement Learning Integrated Agentic RAG for Software Test Cases Authoring](https://machinelearning.apple.com/research/reinforcement-learning-integrated) | publication | Official page |
 | 2025-12-05 | [SO-Bench: A Structural Output Evaluation of Multimodal LLMs](https://machinelearning.apple.com/research/so-bench) | publication | Official page |
