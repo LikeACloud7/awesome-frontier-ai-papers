@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `424`
+- Papers: `425`
 - Latest: `2026-07-02`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -12,6 +12,7 @@
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
 | 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
 | 2026-06-30 | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
+| 2026-06-30 | [Adaptive Perturbation Selection for Contrastive Audio Decoding](https://arxiv.org/abs/2607.00247) | preprint | OpenAlex |
 | 2026-06-26 | [Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task](https://deepmind.google/research/publications/224297/) | publication | Official page |
 | 2026-06-23 | [Can Large Language Models <i>Really</i> Recognize Your Name?](https://doi.org/10.1145/3805689.3806747) | article | OpenAlex |
 | 2026-06-22 | [Modeling polarization in public opinion through LLM-synthesized arguments and stance trees](https://doi.org/10.7717/peerj-cs.3906) | article | OpenAlex |

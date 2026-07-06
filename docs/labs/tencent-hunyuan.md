@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `738`
+- Papers: `740`
 - Latest: `2026-07-01`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -11,7 +11,9 @@
 |---|---|---|---|
 | 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
 | 2026-07-01 | [OCC-MLLM-V2: Joint understanding and generation for occluded objects via multi-modal token learning](https://doi.org/10.1016/j.jvcir.2026.104887) | article | OpenAlex |
+| 2026-07-01 | [GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746) | preprint | OpenAlex |
 | 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
+| 2026-06-29 | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227) | technical-report | Official page |
 | 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
 | 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
 | 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |

@@ -11,7 +11,7 @@
 |---|---|---|---|
 | 2026-06-26 | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
 | 2026-06-26 | [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) | preprint | OpenAlex |
-| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
+| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page, OpenAlex |
 | 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 | 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
 | 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |

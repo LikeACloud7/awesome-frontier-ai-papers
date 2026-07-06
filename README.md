@@ -4,21 +4,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-05T06:55:06+00:00`
-- Coverage: `6206` papers across `19` labs since 2024
+- Last generated: `2026-07-06T07:58:40+00:00`
+- Coverage: `6211` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1777 | 2026-07-05 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1779 | 2026-07-06 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 241 | 2026-07-03 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1034 | 2026-07-02 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 477 | 2026-07-02 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 424 | 2026-07-02 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 425 | 2026-07-02 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 385 | 2026-07-02 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 136 | 2026-07-02 | [all papers](docs/labs/meta-fair.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 738 | 2026-07-01 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 740 | 2026-07-01 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 436 | 2026-06-30 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 148 | 2026-06-30 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
@@ -35,6 +35,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-06 | Microsoft | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
+| 2026-07-06 | Microsoft | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
 | 2026-07-05 | Microsoft | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | Microsoft | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
 | 2026-07-03 | NVIDIA | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
@@ -53,8 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-02 | Apple | [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://machinelearning.apple.com/research/conformal-thinking-risk-control) | publication | Official page |
 | 2026-07-02 | Apple | [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://machinelearning.apple.com/research/balanced-lora-convergence) | publication | Official page |
 | 2026-07-02 | Apple | [Annotations Mitigate Post-Training Mode Collapse](https://machinelearning.apple.com/research/annotations-mode-collapse) | publication | Official page |
-| 2026-07-02 | Google/DeepMind | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
-| 2026-07-02 | Amazon | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
 
 ## Papers By Lab
 
@@ -62,20 +62,20 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Microsoft
 
-`1777` papers · latest `2026-07-05` · [full list](docs/labs/microsoft.md)
+`1779` papers · latest `2026-07-06` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-06 | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
+| 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
 | 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
 | 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
 | 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
 | 2026-07-01 | [PaT: Planning-after-Trial for Efficient Test-Time Code Generation](https://www.microsoft.com/en-us/research/publication/pat-planning-after-trial-for-efficient-test-time-code-generation/) | publication | Official page |
 | 2026-07-01 | [Differentially Private Synthetic Data via APIs 4: Tabular Data](https://www.microsoft.com/en-us/research/publication/differentially-private-synthetic-data-via-apis-4-tabular-data/) | publication | Official page |
-| 2026-07-01 | [CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/) | publication | Official page |
-| 2026-07-01 | [EgoMemory: Memory-Augmented Personalized Retrieval for Long-Context Egocentric Video](https://www.microsoft.com/en-us/research/publication/egomemory-memory-augmented-personalized-retrieval-for-long-context-egocentric-video/) | publication | Official page |
 
-More: [1769 additional papers](docs/labs/microsoft.md)
+More: [1771 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -130,20 +130,20 @@ More: [469 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
-`424` papers · latest `2026-07-02` · [full list](docs/labs/google-deepmind.md)
+`425` papers · latest `2026-07-02` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
 | 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
 | 2026-06-30 | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
+| 2026-06-30 | [Adaptive Perturbation Selection for Contrastive Audio Decoding](https://arxiv.org/abs/2607.00247) | preprint | OpenAlex |
 | 2026-06-26 | [Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task](https://deepmind.google/research/publications/224297/) | publication | Official page |
 | 2026-06-23 | [Can Large Language Models <i>Really</i> Recognize Your Name?](https://doi.org/10.1145/3805689.3806747) | article | OpenAlex |
 | 2026-06-22 | [Modeling polarization in public opinion through LLM-synthesized arguments and stance trees](https://doi.org/10.7717/peerj-cs.3906) | article | OpenAlex |
 | 2026-06-18 | [Quantile of Means: A Bonus-Free Ensemble Method for Minimax Optimal Reinforcement Learning](https://arxiv.org/abs/2606.20107) | article | OpenAlex |
-| 2026-06-18 | [Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery](https://arxiv.org/abs/2606.19812) | article | OpenAlex |
 
-More: [416 additional papers](docs/labs/google-deepmind.md)
+More: [417 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Apple
 
@@ -181,20 +181,20 @@ More: [128 additional papers](docs/labs/meta-fair.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
-`738` papers · latest `2026-07-01` · [full list](docs/labs/tencent-hunyuan.md)
+`740` papers · latest `2026-07-01` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
 | 2026-07-01 | [OCC-MLLM-V2: Joint understanding and generation for occluded objects via multi-modal token learning](https://doi.org/10.1016/j.jvcir.2026.104887) | article | OpenAlex |
+| 2026-07-01 | [GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746) | preprint | OpenAlex |
 | 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
+| 2026-06-29 | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227) | technical-report | Official page |
 | 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
 | 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
 | 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
-| 2026-06-28 | [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://huggingface.co/papers/2606.29705) | technical-report | Official page |
-| 2026-06-25 | [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://huggingface.co/papers/2606.27669) | technical-report | Official page |
 
-More: [730 additional papers](docs/labs/tencent-hunyuan.md)
+More: [732 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -255,7 +255,7 @@ More: [46 additional papers](docs/labs/openai.md)
 |---|---|---|---|
 | 2026-06-26 | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
 | 2026-06-26 | [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) | preprint | OpenAlex |
-| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
+| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page, OpenAlex |
 | 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 | 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
 | 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
