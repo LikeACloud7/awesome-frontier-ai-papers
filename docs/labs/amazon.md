@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1034`
+- Papers: `1039`
 - Latest: `2026-07-02`
 - [Back to README](../../README.md#amazon)
 
@@ -184,15 +184,18 @@
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
 | 2026 | [Rethinking gold standards: Co-evolving benchmarks and agents for deep research factuality](https://www.amazon.science/publications/rethinking-gold-standards-co-evolving-benchmarks-and-agents-for-deep-research-factuality) | publication | Official page |
+| 2026 | [Rethinking evaluation for LLM hallucination detection: A desiderata, a new RAG-based benchmark, new insights](https://www.amazon.science/publications/rethinking-evaluation-for-llm-hallucination-detection-a-desiderata-a-new-rag-based-benchmark-new-insights) | publication | Official page |
 | 2026 | [Restore-R1: Efficient image restoration agents via reinforcement learning with multimodal LLM perceptual feedback](https://www.amazon.science/publications/restore-r1-efficient-image-restoration-agents-via-reinforcement-learning-with-multimodal-llm-perceptual-feedback) | publication | Official page |
 | 2026 | [Replication as learning: Scalable knowledge distillation for multimodal enterprise agents](https://www.amazon.science/publications/replication-as-learning-scalable-knowledge-distillation-for-multimodal-enterprise-agents) | publication | Official page |
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding) | publication | Official page |
 | 2026 | [Reasoning with memory: Adaptive information management for retrieval-augmented generation](https://www.amazon.science/publications/reasoning-with-memory-adaptive-information-management-for-retrieval-augmented-generation) | publication | Official page |
 | 2026 | [ROPOLL: Robust panel of LLM judges](https://www.amazon.science/publications/ropoll-robust-panel-of-llm-judges) | publication | Official page |
 | 2026 | [RMIR: A benchmark dataset for reasoning-intensive multimodal image retrieval](https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval) | publication | Official page |
+| 2026 | [REVES: REvision and VErification–augmented training for test-time scaling](https://www.amazon.science/publications/reves-revision-and-verification-augmented-training-for-test-time-scaling) | publication | Official page |
 | 2026 | [RECoRD: A multi-agent LLM framework for reverse engineering codebase to causal relational diagram](https://www.amazon.science/publications/record-a-multi-agent-llm-framework-for-reverse-engineering-codebase-to-causal-relational-diagram) | publication | Official page |
 | 2026 | [QJL is 1-bit compressive sensing: An equivalence and its consequences for KV cache compression in LLMs](https://www.amazon.science/publications/qjl-is-1-bit-compressive-sensing-an-equivalence-and-its-consequences-for-kv-cache-compression-in-llms) | publication | Official page |
 | 2026 | [Progressive fine-tuning for cost-effective structured attribute generation in e-commerce](https://www.amazon.science/publications/progressive-fine-tuning-for-cost-effective-structured-attribute-generation-in-e-commerce) | publication | Official page |
+| 2026 | [Physics-guided policy optimization with self-distillation](https://www.amazon.science/publications/physics-guided-policy-optimization-with-self-distillation) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation) | publication | Official page |
 | 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
@@ -209,6 +212,7 @@
 | 2026 | [LocRegen: Cost-efficient redundancy removal in multilingual e-commerce titles with small language models](https://www.amazon.science/publications/locregen-cost-efficient-redundancy-removal-in-multilingual-e-commerce-titles-with-small-language-models) | publication | Official page |
 | 2026 | [Linking knowledge to care: Knowledge graph-augmented medical follow-up question generation](https://www.amazon.science/publications/linking-knowledge-to-care-knowledge-graph-augmented-medical-follow-up-question-generation) | publication | Official page |
 | 2026 | [LinguaMAP: Which layers of LLMs speak your language and how to tune them?](https://www.amazon.science/publications/linguamap-which-layers-of-llms-speak-your-language-and-how-to-tune-them) | publication | Official page |
+| 2026 | [Learning when to attend: Conditional memory access for long-context LLMs](https://www.amazon.science/publications/learning-when-to-attend-conditional-memory-access-for-long-context-llms) | publication | Official page |
 | 2026 | [Learning to staff: Offline reinforcement learning and fine-tuned LLMs for warehouse staffing optimization](https://www.amazon.science/publications/learning-to-staff-offline-reinforcement-learning-and-fine-tuned-llms-for-warehouse-staffing-optimization) | publication | Official page |
 | 2026 | [KG-CRAFT: Knowledge graph-based contrastive reasoning with LLMs for enhancing automated fact-checking](https://www.amazon.science/publications/kg-craft-knowledge-graph-based-contrastive-reasoning-with-llms-for-enhancing-automated-fact-checking) | publication | Official page |
 | 2026 | [Journey before destination: On the importance of visual faithfulness in slow thinking](https://www.amazon.science/publications/journey-before-destination-on-the-importance-of-visual-faithfulness-in-slow-thinking) | publication | Official page |
@@ -244,6 +248,7 @@
 | 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [DOT-MoE: Differentiable optimal transport for MoEfication](https://www.amazon.science/publications/dot-moe-differentiable-optimal-transport-for-moefication) | publication | Official page |
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |
+| 2026 | [Comparative evaluation of agent assessment frameworks: Stability, detection, and discovery in enterprise analytics agents](https://www.amazon.science/publications/comparative-evaluation-of-agent-assessment-frameworks-stability-detection-and-discovery-in-enterprise-analytics-agents) | publication | Official page |
 | 2026 | [CompAgent: An agentic framework for visual compliance verification](https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification) | publication | Official page |
 | 2026 | [CodeV: Code with images for faithful visual reasoning via tool-aware policy optimization](https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization) | publication | Official page |
 | 2026 | [CodeScout: Contextual problem statement enhancement for software agents](https://www.amazon.science/publications/codescout-contextual-problem-statement-enhancement-for-software-agents) | publication | Official page |

@@ -4,27 +4,27 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-06T07:58:40+00:00`
-- Coverage: `6211` papers across `19` labs since 2024
+- Last generated: `2026-07-07T06:59:28+00:00`
+- Coverage: `6226` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1779 | 2026-07-06 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 241 | 2026-07-03 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1034 | 2026-07-02 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1781 | 2026-07-06 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [Anthropic](#anthropic) | 30 | 2026-07-06 | [all papers](docs/labs/anthropic.md) |
+| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 149 | 2026-07-05 | [all papers](docs/labs/bytedance-seed.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 138 | 2026-07-05 | [all papers](docs/labs/meta-fair.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 242 | 2026-07-03 | [all papers](docs/labs/nvidia.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1039 | 2026-07-02 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 477 | 2026-07-02 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 425 | 2026-07-02 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Apple](#apple) | 385 | 2026-07-02 | [all papers](docs/labs/apple.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 136 | 2026-07-02 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 740 | 2026-07-01 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 436 | 2026-06-30 | [all papers](docs/labs/huawei-noah.md) |
-| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 148 | 2026-06-30 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 271 | 2026-06-26 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 30 | 2026-06-26 | [all papers](docs/labs/deepseek.md) |
-| 🇺🇸 US | [Anthropic](#anthropic) | 29 | 2026-06-26 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 24 | 2026-06-23 | [all papers](docs/labs/stepfun.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 24 | 2026-06-08 | [all papers](docs/labs/zai-zhipu.md) |
@@ -37,8 +37,16 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---|---|---|---|
 | 2026-07-06 | Microsoft | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
 | 2026-07-06 | Microsoft | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
+| 2026-07-06 | Apple | [Scaling Properties of Continuous Diffusion Spoken Language Models](https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion) | publication | Official page |
+| 2026-07-06 | Apple | [Revisiting ASR Error Correction with Specialized Models](https://machinelearning.apple.com/research/asr-error-correction) | publication | Official page |
+| 2026-07-06 | Apple | [Path-Constrained Mixture-of-Experts](https://machinelearning.apple.com/research/path-constrained-mixture-experts) | publication | Official page |
+| 2026-07-06 | Anthropic | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | publication | Official page |
 | 2026-07-05 | Microsoft | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | Microsoft | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
+| 2026-07-05 | ByteDance/Seed | [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://seed.bytedance.com/en/research/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments) | publication | Official page |
+| 2026-07-05 | Meta/FAIR | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
+| 2026-07-05 | Meta/FAIR | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |
+| 2026-07-05 | Microsoft | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
 | 2026-07-03 | NVIDIA | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
 | 2026-07-02 | Apple | [Sparse Autoencoders Are Capable LLM Jailbreak Mitigators](https://machinelearning.apple.com/research/sparse-autoencoders-jailbreak-mitigators) | publication | Official page |
 | 2026-07-02 | Apple | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
@@ -47,14 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-02 | Apple | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
 | 2026-07-02 | Apple | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
 | 2026-07-02 | Apple | [MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities](https://machinelearning.apple.com/research/modus) | publication | Official page |
-| 2026-07-02 | Apple | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
-| 2026-07-02 | Apple | [Learning Structured Reasoning via Tractable Trajectory Control](https://machinelearning.apple.com/research/learning-structured-reasoning) | publication | Official page |
-| 2026-07-02 | Apple | [Flexible Routing via Uncertainty Decomposition](https://machinelearning.apple.com/research/flexible-routing-uncertainty) | publication | Official page |
-| 2026-07-02 | Apple | [Emergent Symbolic Structure in Health Foundation Models: Extraction, Alignment, and Cross-Modal Transfer](https://machinelearning.apple.com/research/health-foundation-models) | publication | Official page |
-| 2026-07-02 | Apple | [Device Passport: Enabling Spatio-Temporal Pretrained Models to Generalize Across Input Layouts](https://machinelearning.apple.com/research/device-passport-input-layouts) | publication | Official page |
-| 2026-07-02 | Apple | [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://machinelearning.apple.com/research/conformal-thinking-risk-control) | publication | Official page |
-| 2026-07-02 | Apple | [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://machinelearning.apple.com/research/balanced-lora-convergence) | publication | Official page |
-| 2026-07-02 | Apple | [Annotations Mitigate Post-Training Mode Collapse](https://machinelearning.apple.com/research/annotations-mode-collapse) | publication | Official page |
 
 ## Papers By Lab
 
@@ -62,7 +62,7 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Microsoft
 
-`1779` papers · latest `2026-07-06` · [full list](docs/labs/microsoft.md)
+`1781` papers · latest `2026-07-06` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -70,33 +70,101 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
 | 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
+| 2026-07-05 | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
+| 2026-07-02 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](https://arxiv.org/abs/2607.01733) | preprint | OpenAlex |
 | 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
 | 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
-| 2026-07-01 | [PaT: Planning-after-Trial for Efficient Test-Time Code Generation](https://www.microsoft.com/en-us/research/publication/pat-planning-after-trial-for-efficient-test-time-code-generation/) | publication | Official page |
-| 2026-07-01 | [Differentially Private Synthetic Data via APIs 4: Tabular Data](https://www.microsoft.com/en-us/research/publication/differentially-private-synthetic-data-via-apis-4-tabular-data/) | publication | Official page |
 
-More: [1771 additional papers](docs/labs/microsoft.md)
+More: [1773 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Apple
+
+`388` papers · latest `2026-07-06` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-06 | [Scaling Properties of Continuous Diffusion Spoken Language Models](https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion) | publication | Official page |
+| 2026-07-06 | [Revisiting ASR Error Correction with Specialized Models](https://machinelearning.apple.com/research/asr-error-correction) | publication | Official page |
+| 2026-07-06 | [Path-Constrained Mixture-of-Experts](https://machinelearning.apple.com/research/path-constrained-mixture-experts) | publication | Official page |
+| 2026-07-02 | [Sparse Autoencoders Are Capable LLM Jailbreak Mitigators](https://machinelearning.apple.com/research/sparse-autoencoders-jailbreak-mitigators) | publication | Official page |
+| 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
+| 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
+| 2026-07-02 | [Normalized Rewards for Preference Learning](https://machinelearning.apple.com/research/normalized-rewards) | publication | Official page |
+| 2026-07-02 | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
+
+More: [380 additional papers](docs/labs/apple.md)
+
+### 🇺🇸 Anthropic
+
+`30` papers · latest `2026-07-06` · [full list](docs/labs/anthropic.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | publication | Official page |
+| 2026-06-26 | [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report) | publication | Official page |
+| 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
+| 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |
+| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
+| 2026-06 | [Claude Sonnet 5 System Card](https://anthropic.com/claude-sonnet-5-system-card) | model_card | Official page |
+| 2026-06 | [Claude Fable 5 and Mythos 5 System Card](https://anthropic.com/claude-fable-5-mythos-5-system-card) | model_card | Official page |
+| 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
+
+More: [22 additional papers](docs/labs/anthropic.md)
+
+### 🇨🇳 ByteDance/Seed
+
+`149` papers · latest `2026-07-05` · [full list](docs/labs/bytedance-seed.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-05 | [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://seed.bytedance.com/en/research/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments) | publication | Official page |
+| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
+| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
+| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
+| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
+| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
+| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
+| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
+
+More: [141 additional papers](docs/labs/bytedance-seed.md)
+
+### 🇺🇸 Meta/FAIR
+
+`138` papers · latest `2026-07-05` · [full list](docs/labs/meta-fair.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
+| 2026-07-05 | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |
+| 2026-07-02 | [A Physics-Aware Dual-Branch CNN-MLP Fusion Framework for Stage-Aware Bearing Degradation Monitoring and RUL Prognosis from Vibration Signals](https://doi.org/10.3390/electronics15132910) | article | OpenAlex |
+| 2026-06-19 | [Discretizing Reward Models](https://huggingface.co/papers/2606.21795) | paper | HuggingFace |
+| 2026-06-11 | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
+| 2026-06-11 | [Clinical artificial intelligence applications of vision-language foundation models](https://doi.org/10.1371/journal.pdig.0001453) | article | OpenAlex |
+| 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
+| 2026-06-03 | [Context-as-AI-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation](https://arxiv.org/abs/2606.04397) | article | OpenAlex |
+
+More: [130 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 NVIDIA
 
-`241` papers · latest `2026-07-03` · [full list](docs/labs/nvidia.md)
+`242` papers · latest `2026-07-03` · [full list](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-03 | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
 | 2026-07-02 | [GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of AI-Generated Data for Interactive Health Systems](https://doi.org/10.1145/3786579.3799790) | article | OpenAlex |
+| 2026-07-01 | [Auto-FL-Research: Agentic Search for Federated Learning Algorithms](https://arxiv.org/abs/2607.01366) | preprint | OpenAlex |
 | 2026-07 | [GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers](https://research.nvidia.com/publication/2026-07_galaxydit-efficient-video-generation-guidance-alignment-and-adaptive-proxy) | publication | Official page |
 | 2026-06-16 | [A universal gating framework for multi-expert fusion in heterogeneous multimodal time series forecasting](https://doi.org/10.1038/s41598-026-54540-x) | article | OpenAlex |
 | 2026-06-15 | [Context-Aware Visual Redaction Pipeline: Leveraging Vision-Language Models for High-Fidelity Content Inpainting](https://doi.org/10.1145/3805622.3810435) | article | OpenAlex |
 | 2026-06-12 | [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://huggingface.co/papers/2606.15007) | paper | HuggingFace |
 | 2026-06-09 | [Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction](https://arxiv.org/abs/2606.11508) | article | OpenAlex |
-| 2026-06-02 | [NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](https://huggingface.co/papers/2606.03159) | paper | HuggingFace |
 
-More: [233 additional papers](docs/labs/nvidia.md)
+More: [234 additional papers](docs/labs/nvidia.md)
 
 ### 🇺🇸 Amazon
 
-`1034` papers · latest `2026-07-02` · [full list](docs/labs/amazon.md)
+`1039` papers · latest `2026-07-02` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -109,7 +177,7 @@ More: [233 additional papers](docs/labs/nvidia.md)
 | 2026-06-15 | [A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://doi.org/10.1145/3805622.3810730) | article | OpenAlex |
 | 2026-06-12 | [Disentangling Confounders from Pathology in Long-COVID Trajectory Prediction for Women: An Interpretable Large-Language-Model Approach](https://doi.org/10.64898/2026.06.10.26355420) | article | OpenAlex |
 
-More: [1026 additional papers](docs/labs/amazon.md)
+More: [1031 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -122,7 +190,7 @@ More: [1026 additional papers](docs/labs/amazon.md)
 | 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
 | 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
 | 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
-| 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page |
+| 2026-06-22 | [Qwen-AgentWorld: Language World Models for General Agents](https://huggingface.co/papers/2606.24597) | technical-report | Official page, HuggingFace |
 | 2026-06-22 | [FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech](https://arxiv.org/abs/2606.23190) | article | OpenAlex |
 | 2026-06-19 | [Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding](https://huggingface.co/papers/2606.21906) | technical-report | Official page |
 
@@ -144,40 +212,6 @@ More: [469 additional papers](docs/labs/alibaba-qwen.md)
 | 2026-06-18 | [Quantile of Means: A Bonus-Free Ensemble Method for Minimax Optimal Reinforcement Learning](https://arxiv.org/abs/2606.20107) | article | OpenAlex |
 
 More: [417 additional papers](docs/labs/google-deepmind.md)
-
-### 🇺🇸 Apple
-
-`385` papers · latest `2026-07-02` · [full list](docs/labs/apple.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-02 | [Sparse Autoencoders Are Capable LLM Jailbreak Mitigators](https://machinelearning.apple.com/research/sparse-autoencoders-jailbreak-mitigators) | publication | Official page |
-| 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
-| 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
-| 2026-07-02 | [Normalized Rewards for Preference Learning](https://machinelearning.apple.com/research/normalized-rewards) | publication | Official page |
-| 2026-07-02 | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
-| 2026-07-02 | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
-| 2026-07-02 | [MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities](https://machinelearning.apple.com/research/modus) | publication | Official page |
-| 2026-07-02 | [Learning from Self Critique and Refinement for Faithful LLM Summarization](https://machinelearning.apple.com/research/faithful-llm-summarization) | publication | Official page |
-
-More: [377 additional papers](docs/labs/apple.md)
-
-### 🇺🇸 Meta/FAIR
-
-`136` papers · latest `2026-07-02` · [full list](docs/labs/meta-fair.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-02 | [A Physics-Aware Dual-Branch CNN-MLP Fusion Framework for Stage-Aware Bearing Degradation Monitoring and RUL Prognosis from Vibration Signals](https://doi.org/10.3390/electronics15132910) | article | OpenAlex |
-| 2026-06-19 | [Discretizing Reward Models](https://huggingface.co/papers/2606.21795) | paper | HuggingFace |
-| 2026-06-11 | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
-| 2026-06-11 | [Clinical artificial intelligence applications of vision-language foundation models](https://doi.org/10.1371/journal.pdig.0001453) | article | OpenAlex |
-| 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
-| 2026-06-03 | [Context-as-AI-Service: Surfacing Cross-File Dependency Chains for LLM-Generated Developer Documentation](https://arxiv.org/abs/2606.04397) | article | OpenAlex |
-| 2026-05-28 | [RecoWorld: Building Simulated Environments for Agentic Recommender Systems](http://arxiv.org/abs/2509.10397) | article | OpenAlex |
-| 2026-05-24 | [RIB-Guard: A Risk-Aware Information Bottleneck Defense for Black-Box Large Language Models](https://doi.org/10.3390/e28060585) | article | OpenAlex |
-
-More: [128 additional papers](docs/labs/meta-fair.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
@@ -213,23 +247,6 @@ More: [732 additional papers](docs/labs/tencent-hunyuan.md)
 
 More: [428 additional papers](docs/labs/huawei-noah.md)
 
-### 🇨🇳 ByteDance/Seed
-
-`148` papers · latest `2026-06-30` · [full list](docs/labs/bytedance-seed.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
-| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
-| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
-| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
-| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
-| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
-| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
-| 2026-03-24 | [UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://seed.bytedance.com/en/research/unigrpo-unified-policy-optimization-for-reasoning-driven-visual-generation) | publication | Official page |
-
-More: [140 additional papers](docs/labs/bytedance-seed.md)
-
 ### 🇺🇸 OpenAI
 
 `54` papers · latest `2026-06-30` · [full list](docs/labs/openai.md)
@@ -255,7 +272,7 @@ More: [46 additional papers](docs/labs/openai.md)
 |---|---|---|---|
 | 2026-06-26 | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
 | 2026-06-26 | [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) | preprint | OpenAlex |
-| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page, OpenAlex |
+| 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
 | 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 | 2026-06-14 | [Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search](https://arxiv.org/abs/2606.15911) | article | OpenAlex |
 | 2026-06-11 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](https://huggingface.co/papers/2606.14667) | technical-report | Official page |
@@ -280,23 +297,6 @@ More: [263 additional papers](docs/labs/baidu.md)
 | 2025-12-02 | [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://huggingface.co/papers/2512.02556) | technical-report | Official page |
 
 More: [22 additional papers](docs/labs/deepseek.md)
-
-### 🇺🇸 Anthropic
-
-`29` papers · latest `2026-06-26` · [full list](docs/labs/anthropic.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-26 | [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report) | publication | Official page |
-| 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
-| 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |
-| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
-| 2026-06 | [Claude Sonnet 5 System Card](https://anthropic.com/claude-sonnet-5-system-card) | model_card | Official page |
-| 2026-06 | [Claude Fable 5 and Mythos 5 System Card](https://anthropic.com/claude-fable-5-mythos-5-system-card) | model_card | Official page |
-| 2026-05-08 | [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why) | publication | Official page |
-| 2026-05-07 | [Natural Language Autoencoders: Turning Claude’s thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders) | publication | Official page |
-
-More: [21 additional papers](docs/labs/anthropic.md)
 
 ### 🇨🇳 StepFun
 

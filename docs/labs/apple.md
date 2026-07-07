@@ -1,14 +1,17 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `385`
-- Latest: `2026-07-02`
+- Papers: `388`
+- Latest: `2026-07-06`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-06 | [Scaling Properties of Continuous Diffusion Spoken Language Models](https://machinelearning.apple.com/research/scaling-properties-continuous-diffusion) | publication | Official page |
+| 2026-07-06 | [Revisiting ASR Error Correction with Specialized Models](https://machinelearning.apple.com/research/asr-error-correction) | publication | Official page |
+| 2026-07-06 | [Path-Constrained Mixture-of-Experts](https://machinelearning.apple.com/research/path-constrained-mixture-experts) | publication | Official page |
 | 2026-07-02 | [Sparse Autoencoders Are Capable LLM Jailbreak Mitigators](https://machinelearning.apple.com/research/sparse-autoencoders-jailbreak-mitigators) | publication | Official page |
 | 2026-07-02 | [Residual Context Diffusion Language Models](https://machinelearning.apple.com/research/residual-context-diffusion) | publication | Official page |
 | 2026-07-02 | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
@@ -24,7 +27,7 @@
 | 2026-07-02 | [Conformal Thinking: Risk Control for Reasoning on a Compute Budget](https://machinelearning.apple.com/research/conformal-thinking-risk-control) | publication | Official page |
 | 2026-07-02 | [Balanced LoRA: Removing Parameter Invariance to Accelerate Convergence](https://machinelearning.apple.com/research/balanced-lora-convergence) | publication | Official page |
 | 2026-07-02 | [Annotations Mitigate Post-Training Mode Collapse](https://machinelearning.apple.com/research/annotations-mode-collapse) | publication | Official page |
-| 2026-06-25 | [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329) | article | OpenAlex |
+| 2026-06-25 | [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329) | article | OpenAlex, Official page |
 | 2026-06-23 | [Nine Judges, Two Effective Votes: Correlated Errors Undermine LLM Evaluation Panels](https://machinelearning.apple.com/research/correlated-llm-evaluation-panels) | publication | Official page |
 | 2026-06-08 | [Introducing the Third Generation of Apple’s Foundation Models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models) | publication | Official page |
 | 2026-05-22 | [VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models](https://machinelearning.apple.com/research/vsas-bench-streaming-assistant) | publication | Official page |

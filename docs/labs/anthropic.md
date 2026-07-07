@@ -1,14 +1,15 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `29`
-- Latest: `2026-06-26`
+- Papers: `30`
+- Latest: `2026-07-06`
 - [Back to README](../../README.md#anthropic)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | publication | Official page |
 | 2026-06-26 | [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report) | publication | Official page |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
 | 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |

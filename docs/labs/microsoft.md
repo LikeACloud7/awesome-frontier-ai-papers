@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1779`
+- Papers: `1781`
 - Latest: `2026-07-06`
 - [Back to README](../../README.md#microsoft)
 
@@ -13,6 +13,8 @@
 | 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
 | 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
+| 2026-07-05 | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
+| 2026-07-02 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](https://arxiv.org/abs/2607.01733) | preprint | OpenAlex |
 | 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
 | 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
 | 2026-07-01 | [PaT: Planning-after-Trial for Efficient Test-Time Code Generation](https://www.microsoft.com/en-us/research/publication/pat-planning-after-trial-for-efficient-test-time-code-generation/) | publication | Official page |
