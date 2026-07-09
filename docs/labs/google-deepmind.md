@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `425`
+- Papers: `427`
 - Latest: `2026-07-02`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -10,6 +10,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
+| 2026-07-02 | [Gemma 4 Technical Report](https://huggingface.co/papers/2607.02770) | paper | HuggingFace |
+| 2026-07-01 | [Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model](https://doi.org/10.2172/3376711) | report | OpenAlex |
 | 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
 | 2026-06-30 | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
 | 2026-06-30 | [Adaptive Perturbation Selection for Contrastive Audio Decoding](https://arxiv.org/abs/2607.00247) | preprint | OpenAlex |

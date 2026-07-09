@@ -4,14 +4,15 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-08T06:11:47+00:00`
-- Coverage: `6227` papers across `19` labs since 2024
+- Last generated: `2026-07-09T07:00:21+00:00`
+- Coverage: `6230` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Microsoft](#microsoft) | 1781 | 2026-07-06 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 741 | 2026-07-06 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 30 | 2026-07-06 | [all papers](docs/labs/anthropic.md) |
@@ -20,8 +21,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [NVIDIA](#nvidia) | 242 | 2026-07-03 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1039 | 2026-07-02 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 477 | 2026-07-02 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 425 | 2026-07-02 | [all papers](docs/labs/google-deepmind.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 740 | 2026-07-01 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 427 | 2026-07-02 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 436 | 2026-06-30 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 271 | 2026-06-26 | [all papers](docs/labs/baidu.md) |
@@ -41,6 +41,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-06 | Apple | [Revisiting ASR Error Correction with Specialized Models](https://machinelearning.apple.com/research/asr-error-correction) | publication | Official page |
 | 2026-07-06 | Apple | [Path-Constrained Mixture-of-Experts](https://machinelearning.apple.com/research/path-constrained-mixture-experts) | publication | Official page |
 | 2026-07-06 | Anthropic | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | publication | Official page |
+| 2026-07-06 | Tencent/Hunyuan | [HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better](https://huggingface.co/papers/2607.04884) | paper | HuggingFace |
 | 2026-07-06 | DeepSeek | [DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://huggingface.co/papers/2607.05147) | paper | HuggingFace |
 | 2026-07-05 | Microsoft | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | Microsoft | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
@@ -54,7 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-02 | Apple | [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](https://machinelearning.apple.com/research/robustness-chain-thought-consistency) | publication | Official page |
 | 2026-07-02 | Apple | [Normalized Rewards for Preference Learning](https://machinelearning.apple.com/research/normalized-rewards) | publication | Official page |
 | 2026-07-02 | Apple | [Multi-Agent Teams Hold Experts Back](https://machinelearning.apple.com/research/multi-agent-teams-experts) | publication | Official page |
-| 2026-07-02 | Apple | [MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers](https://machinelearning.apple.com/research/memoryllm) | publication | Official page |
 
 ## Papers By Lab
 
@@ -76,6 +76,23 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
 
 More: [1773 additional papers](docs/labs/microsoft.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`741` papers · latest `2026-07-06` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-06 | [HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better](https://huggingface.co/papers/2607.04884) | paper | HuggingFace |
+| 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
+| 2026-07-01 | [OCC-MLLM-V2: Joint understanding and generation for occluded objects via multi-modal token learning](https://doi.org/10.1016/j.jvcir.2026.104887) | article | OpenAlex |
+| 2026-07-01 | [GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746) | preprint | OpenAlex |
+| 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
+| 2026-06-29 | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227) | technical-report | Official page |
+| 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
+| 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
+
+More: [733 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Apple
 
@@ -215,37 +232,20 @@ More: [469 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
-`425` papers · latest `2026-07-02` · [full list](docs/labs/google-deepmind.md)
+`427` papers · latest `2026-07-02` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
+| 2026-07-02 | [Gemma 4 Technical Report](https://huggingface.co/papers/2607.02770) | paper | HuggingFace |
+| 2026-07-01 | [Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model](https://doi.org/10.2172/3376711) | report | OpenAlex |
 | 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
 | 2026-06-30 | [Image Collection of AI-Centered Futuristic Imagination](https://pub.respai.de/articles/1-1/8rlab.html) | article | OpenAlex |
 | 2026-06-30 | [Adaptive Perturbation Selection for Contrastive Audio Decoding](https://arxiv.org/abs/2607.00247) | preprint | OpenAlex |
 | 2026-06-26 | [Real-Time Group Dynamics with LLM Facilitation: Evidence from a Charity Allocation Task](https://deepmind.google/research/publications/224297/) | publication | Official page |
 | 2026-06-23 | [Can Large Language Models <i>Really</i> Recognize Your Name?](https://doi.org/10.1145/3805689.3806747) | article | OpenAlex |
-| 2026-06-22 | [Modeling polarization in public opinion through LLM-synthesized arguments and stance trees](https://doi.org/10.7717/peerj-cs.3906) | article | OpenAlex |
-| 2026-06-18 | [Quantile of Means: A Bonus-Free Ensemble Method for Minimax Optimal Reinforcement Learning](https://arxiv.org/abs/2606.20107) | article | OpenAlex |
 
-More: [417 additional papers](docs/labs/google-deepmind.md)
-
-### 🇨🇳 Tencent/Hunyuan
-
-`740` papers · latest `2026-07-01` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
-| 2026-07-01 | [OCC-MLLM-V2: Joint understanding and generation for occluded objects via multi-modal token learning](https://doi.org/10.1016/j.jvcir.2026.104887) | article | OpenAlex |
-| 2026-07-01 | [GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746) | preprint | OpenAlex |
-| 2026-06-30 | [Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing](https://doi.org/10.1145/3808101) | article | OpenAlex |
-| 2026-06-29 | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://huggingface.co/papers/2606.31227) | technical-report | Official page |
-| 2026-06-29 | [GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://huggingface.co/papers/2606.32039) | technical-report | Official page |
-| 2026-06-29 | [SIMC: LLM-Driven Generative Recommendation with Semantic Item Modeling and Constraints](https://doi.org/10.1007/978-981-92-1926-1_19) | book-chapter | OpenAlex |
-| 2026-06-29 | [Melodic Agent: A Generative Music Recommendation Framework with Large Language Models](https://doi.org/10.1007/978-981-92-1926-1_34) | book-chapter | OpenAlex |
-
-More: [732 additional papers](docs/labs/tencent-hunyuan.md)
+More: [419 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇨🇳 Huawei/Noah
 
