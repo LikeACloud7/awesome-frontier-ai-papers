@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `271`
-- Latest: `2026-06-26`
+- Papers: `272`
+- Latest: `2026-07-05`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-05 | [Progress- and Reliability-Oriented Group Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.04242) | preprint | OpenAlex |
 | 2026-06-26 | [FV-PCBA Net: a fault diagnosis model for rolling bearings with hybrid preprocessing, parallel feature extraction and cross-attention mechanism](https://doi.org/10.1088/2631-8695/ae6e1c) | article | OpenAlex |
 | 2026-06-26 | [Data and Evaluation Closed-Loop for Model Capability Enhancement](https://arxiv.org/abs/2606.28471) | preprint | OpenAlex |
 | 2026-06-21 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | technical-report | Official page |
