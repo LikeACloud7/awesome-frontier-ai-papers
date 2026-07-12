@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `477`
-- Latest: `2026-07-02`
+- Papers: `478`
+- Latest: `2026-07-10`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |
 | 2026-07-02 | [Latency-SLO-Aware Memory Offloading for Large Language Model Inference](https://doi.org/10.1145/3797905.3807874) | article | OpenAlex |
 | 2026-07-01 | [DanceDiT: towards efficient and consistent human image animation with diffusion transformer](https://doi.org/10.1007/s44267-026-00121-5) | article | OpenAlex |
 | 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |

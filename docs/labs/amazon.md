@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1039`
-- Latest: `2026-07-02`
+- Papers: `1040`
+- Latest: `2026-07-10`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-02 | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
 | 2026-07-02 | [LLM-assisted screening method for large-scale transportation model calibration](https://doi.org/10.1038/s44333-026-00115-2) | article | OpenAlex |
 | 2026-06-29 | [Are Humans Evolved Instruction Followers? An Underlying Inductive Bias Enables Rapid Instructed Task Learning](https://arxiv.org/abs/2606.29792) | preprint | OpenAlex |

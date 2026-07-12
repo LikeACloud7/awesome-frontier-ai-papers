@@ -1,14 +1,16 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `743`
-- Latest: `2026-07-09`
+- Papers: `745`
+- Latest: `2026-07-10`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-10 | [When & How to Write for Personalized Demand-aware Query Rewriting in Video Search](https://arxiv.org/abs/2602.17667) | article | OpenAlex |
+| 2026-07-10 | [Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01302) | article | OpenAlex |
 | 2026-07-09 | [IgGM2: An All-Atom Foundation Model for Adaptive Immune Receptor Design](https://doi.org/10.64898/2026.07.09.737510) | preprint | OpenAlex |
 | 2026-07-06 | [RSPO: Reward-Swap Policy Optimization for Multi-Turn LLM Agents](https://arxiv.org/abs/2607.04713) | preprint | OpenAlex |
 | 2026-07-06 | [HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better](https://huggingface.co/papers/2607.04884) | paper | HuggingFace |
