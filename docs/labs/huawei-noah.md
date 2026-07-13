@@ -1,14 +1,17 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `437`
-- Latest: `2026-07-07`
+- Papers: `440`
+- Latest: `2026-07-10`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
+| 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
+| 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 | 2026-07-07 | [The construction of cultural IP virtual characters and consumer identification based on generative adversarial networks](https://doi.org/10.1038/s41598-026-60828-9) | article | OpenAlex |
 | 2026-06-30 | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
 | 2026-06-25 | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
