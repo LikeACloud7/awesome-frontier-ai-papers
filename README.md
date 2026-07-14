@@ -4,17 +4,17 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-13T06:34:08+00:00`
-- Coverage: `6254` papers across `19` labs since 2024
+- Last generated: `2026-07-14T05:43:16+00:00`
+- Coverage: `6257` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Amazon](#amazon) | 1042 | 2026-07-10 | [all papers](docs/labs/amazon.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 441 | 2026-07-12 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 481 | 2026-07-11 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1043 | 2026-07-10 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 747 | 2026-07-10 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 480 | 2026-07-10 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 440 | 2026-07-10 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 431 | 2026-07-10 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 275 | 2026-07-10 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 139 | 2026-07-10 | [all papers](docs/labs/meta-fair.md) |
@@ -35,6 +35,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-12 | Huawei/Noah | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
+| 2026-07-11 | Alibaba/Qwen | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
 | 2026-07-10 | Tencent/Hunyuan, Huawei/Noah | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
 | 2026-07-10 | Google/DeepMind | [Auto-ARGUE: LLM-Based Report Generation Evaluation](https://arxiv.org/abs/2509.26184) | article | OpenAlex |
 | 2026-07-10 | Amazon | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
@@ -52,30 +54,62 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-10 | Alibaba/Qwen | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
 | 2026-07-10 | Huawei/Noah | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 | 2026-07-10 | Tencent/Hunyuan | [Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01302) | article | OpenAlex |
-| 2026-07-09 | Google/DeepMind | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
-| 2026-07-09 | Tencent/Hunyuan | [IgGM2: An All-Atom Foundation Model for Adaptive Immune Receptor Design](https://doi.org/10.64898/2026.07.09.737510) | preprint | OpenAlex |
-| 2026-07-07 | Google/DeepMind | [Attention, not scale, drives human-AI alignment in multimodal language prediction](http://arxiv.org/abs/2308.06035) | preprint | OpenAlex |
+| 2026-07-09 | Amazon | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇨🇳 Huawei/Noah
+
+`441` papers · latest `2026-07-12` · [full list](docs/labs/huawei-noah.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-12 | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
+| 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
+| 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
+| 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
+| 2026-07-07 | [The construction of cultural IP virtual characters and consumer identification based on generative adversarial networks](https://doi.org/10.1038/s41598-026-60828-9) | article | OpenAlex |
+| 2026-06-30 | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
+| 2026-06-25 | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
+| 2026-06-20 | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |
+
+More: [433 additional papers](docs/labs/huawei-noah.md)
+
+### 🇨🇳 Alibaba/Qwen
+
+`481` papers · latest `2026-07-11` · [full list](docs/labs/alibaba-qwen.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-11 | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
+| 2026-07-10 | [SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://doi.org/10.1145/3805712.3808421) | article | OpenAlex |
+| 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |
+| 2026-07-10 | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
+| 2026-07-02 | [Latency-SLO-Aware Memory Offloading for Large Language Model Inference](https://doi.org/10.1145/3797905.3807874) | article | OpenAlex |
+| 2026-07-01 | [DanceDiT: towards efficient and consistent human image animation with diffusion transformer](https://doi.org/10.1007/s44267-026-00121-5) | article | OpenAlex |
+| 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
+| 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
+
+More: [473 additional papers](docs/labs/alibaba-qwen.md)
+
 ### 🇺🇸 Amazon
 
-`1042` papers · latest `2026-07-10` · [full list](docs/labs/amazon.md)
+`1043` papers · latest `2026-07-10` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
+| 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | OpenAlex |
 | 2026-07-02 | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
 | 2026-07-02 | [LLM-assisted screening method for large-scale transportation model calibration](https://doi.org/10.1038/s44333-026-00115-2) | article | OpenAlex |
 | 2026-06-29 | [Are Humans Evolved Instruction Followers? An Underlying Inductive Bias Enables Rapid Instructed Task Learning](https://arxiv.org/abs/2606.29792) | preprint | OpenAlex |
 | 2026-06-26 | [IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations](https://arxiv.org/abs/2606.28556) | preprint | OpenAlex |
-| 2026-06-19 | [Multimodal Walkability Assessment and Path Optimization for Pedestrian Routing Using Environmental Analytics and LLMs](https://doi.org/10.1145/3744256.3812561) | article | OpenAlex |
 
-More: [1034 additional papers](docs/labs/amazon.md)
+More: [1035 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
@@ -93,40 +127,6 @@ More: [1034 additional papers](docs/labs/amazon.md)
 | 2026-07-01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](https://huggingface.co/papers/2607.02291) | technical-report | Official page |
 
 More: [739 additional papers](docs/labs/tencent-hunyuan.md)
-
-### 🇨🇳 Alibaba/Qwen
-
-`480` papers · latest `2026-07-10` · [full list](docs/labs/alibaba-qwen.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-10 | [SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://doi.org/10.1145/3805712.3808421) | article | OpenAlex |
-| 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |
-| 2026-07-10 | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
-| 2026-07-02 | [Latency-SLO-Aware Memory Offloading for Large Language Model Inference](https://doi.org/10.1145/3797905.3807874) | article | OpenAlex |
-| 2026-07-01 | [DanceDiT: towards efficient and consistent human image animation with diffusion transformer](https://doi.org/10.1007/s44267-026-00121-5) | article | OpenAlex |
-| 2026-06-24 | [Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation](https://huggingface.co/papers/2606.26907) | technical-report | Official page |
-| 2026-06-24 | [Qwen-Image-2.0-RL Technical Report](https://huggingface.co/papers/2606.27608) | technical-report | Official page |
-| 2026-06-23 | [The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://huggingface.co/papers/2606.26300) | technical-report | Official page |
-
-More: [472 additional papers](docs/labs/alibaba-qwen.md)
-
-### 🇨🇳 Huawei/Noah
-
-`440` papers · latest `2026-07-10` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
-| 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
-| 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
-| 2026-07-07 | [The construction of cultural IP virtual characters and consumer identification based on generative adversarial networks](https://doi.org/10.1038/s41598-026-60828-9) | article | OpenAlex |
-| 2026-06-30 | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
-| 2026-06-25 | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
-| 2026-06-20 | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |
-| 2026-06-17 | [fastiRNN: Fast inference of recurrent neural networks at the post-training stage](https://doi.org/10.1016/j.neucom.2026.134285) | article | OpenAlex |
-
-More: [432 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇺🇸 Google/DeepMind
 

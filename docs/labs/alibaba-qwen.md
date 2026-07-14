@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `480`
-- Latest: `2026-07-10`
+- Papers: `481`
+- Latest: `2026-07-11`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-11 | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
 | 2026-07-10 | [SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://doi.org/10.1145/3805712.3808421) | article | OpenAlex |
 | 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |
 | 2026-07-10 | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
