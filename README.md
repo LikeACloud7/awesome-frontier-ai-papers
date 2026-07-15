@@ -4,21 +4,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-14T05:43:16+00:00`
-- Coverage: `6257` papers across `19` labs since 2024
+- Last generated: `2026-07-15T05:45:39+00:00`
+- Coverage: `6259` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Microsoft](#microsoft) | 1782 | 2026-07-13 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 432 | 2026-07-13 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 441 | 2026-07-12 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 481 | 2026-07-11 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1043 | 2026-07-10 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 747 | 2026-07-10 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 431 | 2026-07-10 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 275 | 2026-07-10 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 139 | 2026-07-10 | [all papers](docs/labs/meta-fair.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1781 | 2026-07-06 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 30 | 2026-07-06 | [all papers](docs/labs/anthropic.md) |
@@ -35,6 +35,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-13 | Microsoft | [Internalizing Decomposed Reasoning: Reverse-Distilled Fine-Tuning for Interpretable and Robust Text-to-SQL](https://doi.org/10.1007/978-981-92-3438-7_45) | book-chapter | OpenAlex |
+| 2026-07-13 | Google/DeepMind | [AI for Systems is "AGI-Complete"](https://doi.org/10.1145/3830422.3830425) | article | OpenAlex |
 | 2026-07-12 | Huawei/Noah | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
 | 2026-07-11 | Alibaba/Qwen | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
 | 2026-07-10 | Tencent/Hunyuan, Huawei/Noah | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
@@ -53,12 +55,44 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-10 | Meta/FAIR | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
 | 2026-07-10 | Alibaba/Qwen | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
 | 2026-07-10 | Huawei/Noah | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
-| 2026-07-10 | Tencent/Hunyuan | [Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01302) | article | OpenAlex |
-| 2026-07-09 | Amazon | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Microsoft
+
+`1782` papers · latest `2026-07-13` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-13 | [Internalizing Decomposed Reasoning: Reverse-Distilled Fine-Tuning for Interpretable and Robust Text-to-SQL](https://doi.org/10.1007/978-981-92-3438-7_45) | book-chapter | OpenAlex |
+| 2026-07-06 | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
+| 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
+| 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
+| 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
+| 2026-07-05 | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
+| 2026-07-02 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](https://arxiv.org/abs/2607.01733) | preprint | OpenAlex |
+| 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
+
+More: [1774 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Google/DeepMind
+
+`432` papers · latest `2026-07-13` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-13 | [AI for Systems is "AGI-Complete"](https://doi.org/10.1145/3830422.3830425) | article | OpenAlex |
+| 2026-07-10 | [Auto-ARGUE: LLM-Based Report Generation Evaluation](https://arxiv.org/abs/2509.26184) | article | OpenAlex |
+| 2026-07-09 | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
+| 2026-07-07 | [Attention, not scale, drives human-AI alignment in multimodal language prediction](http://arxiv.org/abs/2308.06035) | preprint | OpenAlex |
+| 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
+| 2026-07-02 | [Gemma 4 Technical Report](https://huggingface.co/papers/2607.02770) | paper | HuggingFace |
+| 2026-07-01 | [Personalizing Agent Privacy Decisions via Logical Entailment](https://doi.org/10.56553/popets-2026-0087) | article | OpenAlex |
+| 2026-07-01 | [Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model](https://doi.org/10.2172/3376711) | report | OpenAlex |
+
+More: [424 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -128,23 +162,6 @@ More: [1035 additional papers](docs/labs/amazon.md)
 
 More: [739 additional papers](docs/labs/tencent-hunyuan.md)
 
-### 🇺🇸 Google/DeepMind
-
-`431` papers · latest `2026-07-10` · [full list](docs/labs/google-deepmind.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-10 | [Auto-ARGUE: LLM-Based Report Generation Evaluation](https://arxiv.org/abs/2509.26184) | article | OpenAlex |
-| 2026-07-09 | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
-| 2026-07-07 | [Attention, not scale, drives human-AI alignment in multimodal language prediction](http://arxiv.org/abs/2308.06035) | preprint | OpenAlex |
-| 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
-| 2026-07-02 | [Gemma 4 Technical Report](https://huggingface.co/papers/2607.02770) | paper | HuggingFace |
-| 2026-07-01 | [Personalizing Agent Privacy Decisions via Logical Entailment](https://doi.org/10.56553/popets-2026-0087) | article | OpenAlex |
-| 2026-07-01 | [Beyond Point Estimates: Benchmarking Uncertainty Quantification Methods on the AION-1 Astronomical Foundation Model](https://doi.org/10.2172/3376711) | report | OpenAlex |
-| 2026-06-30 | [Gemini 3.1 Flash-Lite Image Model Card](https://deepmind.google/models/model-cards/gemini-3-1-flash-lite-image/) | model_card | Official page |
-
-More: [423 additional papers](docs/labs/google-deepmind.md)
-
 ### 🇨🇳 Baidu
 
 `275` papers · latest `2026-07-10` · [full list](docs/labs/baidu.md)
@@ -178,23 +195,6 @@ More: [267 additional papers](docs/labs/baidu.md)
 | 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
 
 More: [131 additional papers](docs/labs/meta-fair.md)
-
-### 🇺🇸 Microsoft
-
-`1781` papers · latest `2026-07-06` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-06 | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
-| 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
-| 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
-| 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
-| 2026-07-05 | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
-| 2026-07-02 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](https://arxiv.org/abs/2607.01733) | preprint | OpenAlex |
-| 2026-07-01 | [Position: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/) | publication | Official page |
-| 2026-07-01 | [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/) | publication | Official page |
-
-More: [1773 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Apple
 
