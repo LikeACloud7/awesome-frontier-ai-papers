@@ -1,14 +1,15 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `139`
-- Latest: `2026-07-10`
+- Papers: `140`
+- Latest: `2026-07-14`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
 | 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
 | 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
 | 2026-07-05 | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |

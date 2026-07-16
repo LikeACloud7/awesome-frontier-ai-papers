@@ -4,13 +4,14 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-15T05:45:39+00:00`
-- Coverage: `6259` papers across `19` labs since 2024
+- Last generated: `2026-07-16T05:58:40+00:00`
+- Coverage: `6260` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 140 | 2026-07-14 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1782 | 2026-07-13 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 432 | 2026-07-13 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 441 | 2026-07-12 | [all papers](docs/labs/huawei-noah.md) |
@@ -18,7 +19,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [Amazon](#amazon) | 1043 | 2026-07-10 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 747 | 2026-07-10 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 275 | 2026-07-10 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 139 | 2026-07-10 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 30 | 2026-07-06 | [all papers](docs/labs/anthropic.md) |
@@ -35,6 +35,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-14 | Meta/FAIR | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
 | 2026-07-13 | Microsoft | [Internalizing Decomposed Reasoning: Reverse-Distilled Fine-Tuning for Interpretable and Robust Text-to-SQL](https://doi.org/10.1007/978-981-92-3438-7_45) | book-chapter | OpenAlex |
 | 2026-07-13 | Google/DeepMind | [AI for Systems is "AGI-Complete"](https://doi.org/10.1145/3830422.3830425) | article | OpenAlex |
 | 2026-07-12 | Huawei/Noah | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
@@ -54,11 +55,27 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-10 | Baidu | [Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment](http://arxiv.org/abs/2510.19384) | article | OpenAlex |
 | 2026-07-10 | Meta/FAIR | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
 | 2026-07-10 | Alibaba/Qwen | [Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://doi.org/10.1145/3805712.3809575) | article | OpenAlex |
-| 2026-07-10 | Huawei/Noah | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Meta/FAIR
+
+`140` papers · latest `2026-07-14` · [full list](docs/labs/meta-fair.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
+| 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
+| 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
+| 2026-07-05 | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |
+| 2026-07-02 | [A Physics-Aware Dual-Branch CNN-MLP Fusion Framework for Stage-Aware Bearing Degradation Monitoring and RUL Prognosis from Vibration Signals](https://doi.org/10.3390/electronics15132910) | article | OpenAlex |
+| 2026-06-19 | [Discretizing Reward Models](https://huggingface.co/papers/2606.21795) | paper | HuggingFace |
+| 2026-06-11 | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
+| 2026-06-11 | [Clinical artificial intelligence applications of vision-language foundation models](https://doi.org/10.1371/journal.pdig.0001453) | article | OpenAlex |
+
+More: [132 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 Microsoft
 
@@ -178,23 +195,6 @@ More: [739 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-06-17 | [SWE-Future: Forecast-Conditioned Data Synthesis for Future-Oriented Software Engineering Agents](https://arxiv.org/abs/2606.18733) | article | OpenAlex |
 
 More: [267 additional papers](docs/labs/baidu.md)
-
-### 🇺🇸 Meta/FAIR
-
-`139` papers · latest `2026-07-10` · [full list](docs/labs/meta-fair.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
-| 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
-| 2026-07-05 | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |
-| 2026-07-02 | [A Physics-Aware Dual-Branch CNN-MLP Fusion Framework for Stage-Aware Bearing Degradation Monitoring and RUL Prognosis from Vibration Signals](https://doi.org/10.3390/electronics15132910) | article | OpenAlex |
-| 2026-06-19 | [Discretizing Reward Models](https://huggingface.co/papers/2606.21795) | paper | HuggingFace |
-| 2026-06-11 | [Towards Verified Code Reasoning by LLMs](https://doi.org/10.1145/3819802.3820578) | article | OpenAlex |
-| 2026-06-11 | [Clinical artificial intelligence applications of vision-language foundation models](https://doi.org/10.1371/journal.pdig.0001453) | article | OpenAlex |
-| 2026-06-05 | [Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval](https://ai.meta.com/research/publications/superintelligent-retrieval-agent-the-next-frontier-of-agentic-retrieval/) | publication | Official page |
-
-More: [131 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 Apple
 
