@@ -1,14 +1,17 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `747`
-- Latest: `2026-07-10`
+- Papers: `750`
+- Latest: `2026-07-15`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-15 | [ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection](https://doi.org/10.1145/3805712.3809648) | conference-paper | OpenAlex |
+| 2026-07-15 | [Decoding Multimodal Cues: Unveiling the Implicit Meaning Behind Hateful Videos](https://doi.org/10.1145/3805712.3809637) | conference-paper | OpenAlex |
+| 2026-07-15 | [Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01284) | conference-paper | OpenAlex |
 | 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
 | 2026-07-10 | [When & How to Write for Personalized Demand-aware Query Rewriting in Video Search](https://arxiv.org/abs/2602.17667) | article | OpenAlex |
 | 2026-07-10 | [RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction](https://doi.org/10.1145/3805712.3809968) | article | OpenAlex |

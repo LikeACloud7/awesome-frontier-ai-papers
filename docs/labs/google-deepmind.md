@@ -1,16 +1,19 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `432`
-- Latest: `2026-07-13`
+- Papers: `435`
+- Latest: `2026-07-14`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-14 | [<scp>DoGMaTiQ:</scp> Automated Generation of Question-and-Answer Nuggets for Report Evaluation](https://doi.org/10.1145/3805713.3820425) | conference-paper | OpenAlex |
+| 2026-07-13 | [In Search of "Weird Corners": Diagnosing the Limits of Convergent AI in Professional Creative Practice](https://doi.org/10.1145/3803784.3816861) | conference-paper | OpenAlex |
 | 2026-07-13 | [AI for Systems is "AGI-Complete"](https://doi.org/10.1145/3830422.3830425) | article | OpenAlex |
 | 2026-07-10 | [Auto-ARGUE: LLM-Based Report Generation Evaluation](https://arxiv.org/abs/2509.26184) | article | OpenAlex |
+| 2026-07-10 | [When is Routing Meaningful? Diversity and Robustness in Language Model Societies](https://arxiv.org/abs/2607.09197) | preprint | OpenAlex |
 | 2026-07-09 | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
 | 2026-07-07 | [Attention, not scale, drives human-AI alignment in multimodal language prediction](http://arxiv.org/abs/2308.06035) | preprint | OpenAlex |
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |

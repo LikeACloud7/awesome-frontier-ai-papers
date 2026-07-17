@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1043`
-- Latest: `2026-07-10`
+- Papers: `1044`
+- Latest: `2026-07-14`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-14 | [The GRACE Cycle: A General Large-Language-Model Framework for Phenotype Discovery with Unknown Cluster Number](https://doi.org/10.21203/rs.3.rs-10048424/v1) | preprint | OpenAlex |
 | 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
@@ -45,7 +46,7 @@
 | 2026-05-07 | [More Is Not Always Better: Cross-Component Interference in LLM Agent Scaffolding](https://arxiv.org/abs/2605.05716) | article | OpenAlex |
 | 2026-05-07 | [Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context](http://arxiv.org/abs/2412.16359) | preprint | OpenAlex |
 | 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
-| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | Official page |
+| 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | Official page, OpenAlex |
 | 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | Official page |
 | 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
 | 2026-04-23 | [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](https://arxiv.org/abs/2604.22119) | article | OpenAlex |
@@ -183,7 +184,7 @@
 | 2026 | [SELENE: Selective and evidence-weighted LLM debating for efficient and reliable reasoning](https://www.amazon.science/publications/selene-selective-and-evidence-weighted-llm-debating-for-efficient-and-reliable-reasoning) | publication | Official page |
 | 2026 | [SALT: Step-level advantage assignment for long-horizon agents via trajectory graph](https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph) | publication | Official page |
 | 2026 | [SAGE: Semantic ambiguity gate](https://www.amazon.science/publications/sage-semantic-ambiguity-gate) | publication | Official page |
-| 2026 | [SAER: Scalable assessment of e-commerce recommendations using large language models](https://www.amazon.science/publications/saer-scalable-assessment-of-e-commerce-recommendations-using-large-language-models) | publication | Official page |
+| 2026 | [SAER: Scalable assessment of e-commerce recommendations using large language models](https://www.amazon.science/publications/saer-scalable-assessment-of-e-commerce-recommendations-using-large-language-models) | publication | Official page, OpenAlex |
 | 2026 | [S2D: Selective spectral decay for quantization-friendly conditioning of neural activations](https://www.amazon.science/publications/s2d-selective-spectral-decay-for-quantization-friendly-conditioning-of-neural-activations) | publication | Official page |
 | 2026 | [Revisiting model stitching in the foundation model era](https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era) | publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery) | publication | Official page |
@@ -259,7 +260,7 @@
 | 2026 | [Closing the feedback loop: From experience extraction to insight governance in verbal reinforcement learning](https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [Capturing gaze shifts for guidance: Cross-modal fusion enhancement for VLM hallucination mitigation](https://www.amazon.science/publications/capturing-gaze-shifts-for-guidance-cross-modal-fusion-enhancement-for-vlm-hallucination-mitigation) | publication | Official page |
-| 2026 | [CSMAD: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements) | publication | Official page |
+| 2026 | [CSMAD: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements) | publication | Official page, OpenAlex |
 | 2026 | [COMET: Compatibility-oriented multi-modal embedding transformer for visual recommendations](https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations) | publication | Official page |
 | 2026 | [COMEM: Context management with A decoupled long-context model](https://www.amazon.science/publications/comem-context-management-with-a-decoupled-long-context-model) | publication | Official page |
 | 2026 | [CACHE-ED2: Compiling LLM reasoning into reusable extraction programs for document extraction at scale](https://www.amazon.science/publications/cache-ed2-compiling-llm-reasoning-into-reusable-extraction-programs-for-document-extraction-at-scale) | publication | Official page |
