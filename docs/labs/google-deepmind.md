@@ -1,14 +1,16 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `435`
-- Latest: `2026-07-14`
+- Papers: `437`
+- Latest: `2026-07-16`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-16 | [GR3EN: Generative Relighting for 3D Environments](https://doi.org/10.1145/3799902.3811181) | conference-paper | OpenAlex |
+| 2026-07-15 | [Beyond Chunk-Then-Embed: A Comprehensive Taxonomy and Evaluation of Document Chunking Strategies for Information Retrieval](https://doi.org/10.1145/3805712.3808575) | conference-paper | OpenAlex |
 | 2026-07-14 | [<scp>DoGMaTiQ:</scp> Automated Generation of Question-and-Answer Nuggets for Report Evaluation](https://doi.org/10.1145/3805713.3820425) | conference-paper | OpenAlex |
 | 2026-07-13 | [In Search of "Weird Corners": Diagnosing the Limits of Convergent AI in Professional Creative Practice](https://doi.org/10.1145/3803784.3816861) | conference-paper | OpenAlex |
 | 2026-07-13 | [AI for Systems is "AGI-Complete"](https://doi.org/10.1145/3830422.3830425) | article | OpenAlex |

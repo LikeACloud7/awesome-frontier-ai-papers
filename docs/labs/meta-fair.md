@@ -1,14 +1,16 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `141`
-- Latest: `2026-07-15`
+- Papers: `143`
+- Latest: `2026-07-16`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-16 | [LLM-MVR: LLM-Guided Multi-view Reasoning Distillation for Sarcasm Detection](https://doi.org/10.1007/978-981-92-3551-3_17) | conference-paper | OpenAlex |
+| 2026-07-15 | [CMSL: Constructive Multi-Sequence Learning for Recommendation Systems](https://doi.org/10.1145/3805712.3808426) | conference-paper | OpenAlex |
 | 2026-07-15 | [A General Framework for Multimodal LLM-Based Multimedia Understanding in Large-Scale Recommendation Systems](https://arxiv.org/abs/2605.09338) | conference-paper | OpenAlex |
 | 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
 | 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |

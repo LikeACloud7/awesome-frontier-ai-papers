@@ -1,15 +1,19 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `750`
-- Latest: `2026-07-15`
+- Papers: `754`
+- Latest: `2026-07-16`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-16 | [Pixal3D: Pixel-Aligned 3D Generation from Images](https://doi.org/10.1145/3799902.3811175) | conference-paper | OpenAlex |
+| 2026-07-16 | [BoxCtrl: 3D-Aware Visual Prompting for Geometric Image Editing](https://doi.org/10.1145/3799902.3811169) | conference-paper | OpenAlex |
+| 2026-07-16 | [Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing](https://doi.org/10.1145/3799902.3811191) | conference-paper | OpenAlex |
 | 2026-07-15 | [ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection](https://doi.org/10.1145/3805712.3809648) | conference-paper | OpenAlex |
+| 2026-07-15 | [Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience](https://doi.org/10.1145/3805712.3809549) | conference-paper | OpenAlex |
 | 2026-07-15 | [Decoding Multimodal Cues: Unveiling the Implicit Meaning Behind Hateful Videos](https://doi.org/10.1145/3805712.3809637) | conference-paper | OpenAlex |
 | 2026-07-15 | [Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01284) | conference-paper | OpenAlex |
 | 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
