@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `444`
+- Papers: `447`
 - Latest: `2026-07-15`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -17,6 +17,9 @@
 | 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
 | 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 | 2026-07-07 | [The construction of cultural IP virtual characters and consumer identification based on generative adversarial networks](https://doi.org/10.1038/s41598-026-60828-9) | article | OpenAlex |
+| 2026-07-05 | [Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation](https://doi.org/10.1145/3803437.3805560) | conference-paper | OpenAlex |
+| 2026-07-05 | [Eagle: Leveraging Operations Documents for Comprehensive Benchmark Question Generation](https://doi.org/10.1145/3803437.3805214) | conference-paper | OpenAlex |
+| 2026-07-05 | [Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment](https://doi.org/10.1145/3803437.3805266) | conference-paper | OpenAlex |
 | 2026-06-30 | [SWE Data Construction, Automatically!](https://doi.org/10.1145/3797119) | article | OpenAlex |
 | 2026-06-25 | [Intent-Aware Defect Pattern Extraction from Singular Examples](https://doi.org/10.1145/3820049) | article | OpenAlex |
 | 2026-06-20 | [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970) | preprint | OpenAlex |

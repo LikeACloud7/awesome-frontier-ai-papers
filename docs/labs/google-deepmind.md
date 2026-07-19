@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `437`
+- Papers: `438`
 - Latest: `2026-07-16`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -18,6 +18,7 @@
 | 2026-07-10 | [When is Routing Meaningful? Diversity and Robustness in Language Model Societies](https://arxiv.org/abs/2607.09197) | preprint | OpenAlex |
 | 2026-07-09 | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
 | 2026-07-07 | [Attention, not scale, drives human-AI alignment in multimodal language prediction](http://arxiv.org/abs/2308.06035) | preprint | OpenAlex |
+| 2026-07-05 | [Lessons from Mitigating False Positives in Google's OSS-Fuzz-Gen](https://doi.org/10.1145/3803437.3805205) | conference-paper | OpenAlex |
 | 2026-07-02 | [What Lives? A Meta-Analysis of Diverse Opinions on the Definition of Life](http://arxiv.org/abs/2505.15849) | article | OpenAlex |
 | 2026-07-02 | [Gemma 4 Technical Report](https://huggingface.co/papers/2607.02770) | paper | HuggingFace |
 | 2026-07-01 | [Personalizing Agent Privacy Decisions via Logical Entailment](https://doi.org/10.56553/popets-2026-0087) | article | OpenAlex |

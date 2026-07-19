@@ -4,21 +4,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-18T05:41:08+00:00`
-- Coverage: `6297` papers across `19` labs since 2024
+- Last generated: `2026-07-19T06:14:29+00:00`
+- Coverage: `6307` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 754 | 2026-07-16 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 492 | 2026-07-16 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 437 | 2026-07-16 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 756 | 2026-07-16 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 493 | 2026-07-16 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 438 | 2026-07-16 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 278 | 2026-07-16 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 245 | 2026-07-16 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 143 | 2026-07-16 | [all papers](docs/labs/meta-fair.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1783 | 2026-07-15 | [all papers](docs/labs/microsoft.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 444 | 2026-07-15 | [all papers](docs/labs/huawei-noah.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 144 | 2026-07-16 | [all papers](docs/labs/meta-fair.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1785 | 2026-07-15 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 447 | 2026-07-15 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1044 | 2026-07-14 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
@@ -62,7 +62,7 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇨🇳 Tencent/Hunyuan
 
-`754` papers · latest `2026-07-16` · [full list](docs/labs/tencent-hunyuan.md)
+`756` papers · latest `2026-07-16` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -75,11 +75,11 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-15 | [Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01284) | conference-paper | OpenAlex |
 | 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
 
-More: [746 additional papers](docs/labs/tencent-hunyuan.md)
+More: [748 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`492` papers · latest `2026-07-16` · [full list](docs/labs/alibaba-qwen.md)
+`493` papers · latest `2026-07-16` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -92,11 +92,11 @@ More: [746 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-07-15 | [GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](https://arxiv.org/abs/2506.16114) | conference-paper | OpenAlex |
 | 2026-07-15 | [EVADE-Bench: Multimodal Benchmark for Evaluating and Enhancing Evasive Content Detection](https://doi.org/10.1145/3805712.3808579) | conference-paper | OpenAlex |
 
-More: [484 additional papers](docs/labs/alibaba-qwen.md)
+More: [485 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
-`437` papers · latest `2026-07-16` · [full list](docs/labs/google-deepmind.md)
+`438` papers · latest `2026-07-16` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -109,7 +109,7 @@ More: [484 additional papers](docs/labs/alibaba-qwen.md)
 | 2026-07-10 | [When is Routing Meaningful? Diversity and Robustness in Language Model Societies](https://arxiv.org/abs/2607.09197) | preprint | OpenAlex |
 | 2026-07-09 | [Research to Reality: Scaling Generative AI for The Sphere's “Wizard of Oz"](https://doi.org/10.1145/3774846.3796618) | article | OpenAlex |
 
-More: [429 additional papers](docs/labs/google-deepmind.md)
+More: [430 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇨🇳 Baidu
 
@@ -147,7 +147,7 @@ More: [237 additional papers](docs/labs/nvidia.md)
 
 ### 🇺🇸 Meta/FAIR
 
-`143` papers · latest `2026-07-16` · [full list](docs/labs/meta-fair.md)
+`144` papers · latest `2026-07-16` · [full list](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -157,14 +157,14 @@ More: [237 additional papers](docs/labs/nvidia.md)
 | 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
 | 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
 | 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
+| 2026-07-05 | [Autonomous Refactoring for Perfective Maintenance at Scale: The Agentic RACER System and its Empirical Evaluations](https://doi.org/10.1145/3803437.3805211) | conference-paper | OpenAlex |
 | 2026-07-05 | [A Preliminary Study on Explaining Risk of Code Changes using LLM-Based Prediction Models](https://doi.org/10.1145/3805760.3814916) | article | OpenAlex |
-| 2026-07-02 | [A Physics-Aware Dual-Branch CNN-MLP Fusion Framework for Stage-Aware Bearing Degradation Monitoring and RUL Prognosis from Vibration Signals](https://doi.org/10.3390/electronics15132910) | article | OpenAlex |
 
-More: [135 additional papers](docs/labs/meta-fair.md)
+More: [136 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 Microsoft
 
-`1783` papers · latest `2026-07-15` · [full list](docs/labs/microsoft.md)
+`1785` papers · latest `2026-07-15` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -174,14 +174,14 @@ More: [135 additional papers](docs/labs/meta-fair.md)
 | 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
 | 2026-07-05 | [Learning Optimal Message Representations for Agentic Communication](https://www.microsoft.com/en-us/research/publication/learning-optimal-message-representations-for-agentic-communication/) | publication | Official page |
 | 2026-07-05 | [StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis](https://www.microsoft.com/en-us/research/publication/stepfly-agentic-troubleshooting-guide-automation-for-incident-diagnosis/) | publication | Official page |
-| 2026-07-05 | [ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes](https://huggingface.co/papers/2607.04439) | paper | HuggingFace |
-| 2026-07-02 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](https://arxiv.org/abs/2607.01733) | preprint | OpenAlex |
+| 2026-07-05 | [TSGen: Automated Troubleshooting Guide Generation](https://doi.org/10.1145/3803437.3805239) | conference-paper | OpenAlex |
+| 2026-07-05 | [AutoChecklist: Automated Checklist Refinement for LLM Judges](https://doi.org/10.1145/3803437.3805263) | conference-paper | OpenAlex |
 
-More: [1775 additional papers](docs/labs/microsoft.md)
+More: [1777 additional papers](docs/labs/microsoft.md)
 
 ### 🇨🇳 Huawei/Noah
 
-`444` papers · latest `2026-07-15` · [full list](docs/labs/huawei-noah.md)
+`447` papers · latest `2026-07-15` · [full list](docs/labs/huawei-noah.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -194,7 +194,7 @@ More: [1775 additional papers](docs/labs/microsoft.md)
 | 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 | 2026-07-07 | [The construction of cultural IP virtual characters and consumer identification based on generative adversarial networks](https://doi.org/10.1038/s41598-026-60828-9) | article | OpenAlex |
 
-More: [436 additional papers](docs/labs/huawei-noah.md)
+More: [439 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇺🇸 Amazon
 
