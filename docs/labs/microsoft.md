@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1785`
+- Papers: `1787`
 - Latest: `2026-07-15`
 - [Back to README](../../README.md#microsoft)
 
@@ -9,7 +9,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-15 | [Data-Efficient Adaptation of LLMs via Attention Head Reweighting](https://arxiv.org/abs/2607.13425) | preprint | OpenAlex |
 | 2026-07-15 | [Automating Generation of Long-Form Queries](https://doi.org/10.1145/3805712.3809917) | conference-paper | OpenAlex |
+| 2026-07-14 | [Do LLMs Need Architectural Changes for Simultaneous Speech Translation? A Prefix-to-Prefix Data Driven Approach](https://arxiv.org/abs/2607.13158) | preprint | OpenAlex |
 | 2026-07-13 | [Internalizing Decomposed Reasoning: Reverse-Distilled Fine-Tuning for Interpretable and Robust Text-to-SQL](https://doi.org/10.1007/978-981-92-3438-7_45) | book-chapter | OpenAlex |
 | 2026-07-06 | [PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://www.microsoft.com/en-us/research/publication/pisces-annotation-free-text-to-video-post-training-via-optimal-transport-aligned-rewards/) | publication | Official page |
 | 2026-07-06 | [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://www.microsoft.com/en-us/research/publication/reasoning-about-reasoning-bapo-bounds-on-chain-of-thought-token-complexity-in-llms/) | publication | Official page |
