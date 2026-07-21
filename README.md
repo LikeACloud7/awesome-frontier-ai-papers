@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-20T06:29:39+00:00`
-- Coverage: `6312` papers across `19` labs since 2024
+- Last generated: `2026-07-21T06:09:29+00:00`
+- Coverage: `6314` papers across `19` labs since 2024
 
 ## Labs
 
@@ -19,7 +19,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [NVIDIA](#nvidia) | 245 | 2026-07-16 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 144 | 2026-07-16 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1787 | 2026-07-15 | [all papers](docs/labs/microsoft.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1044 | 2026-07-14 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1046 | 2026-07-15 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Apple](#apple) | 388 | 2026-07-06 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 30 | 2026-07-06 | [all papers](docs/labs/anthropic.md) |
@@ -198,20 +198,20 @@ More: [1779 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Amazon
 
-`1044` papers · latest `2026-07-14` · [full list](docs/labs/amazon.md)
+`1046` papers · latest `2026-07-15` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
+| 2026-07-15 | [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](https://arxiv.org/abs/2607.14386) | preprint | OpenAlex |
 | 2026-07-14 | [The GRACE Cycle: A General Large-Language-Model Framework for Phenotype Discovery with Unknown Cluster Number](https://doi.org/10.21203/rs.3.rs-10048424/v1) | preprint | OpenAlex |
 | 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | OpenAlex |
 | 2026-07-02 | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
-| 2026-07-02 | [LLM-assisted screening method for large-scale transportation model calibration](https://doi.org/10.1038/s44333-026-00115-2) | article | OpenAlex |
-| 2026-06-29 | [Are Humans Evolved Instruction Followers? An Underlying Inductive Bias Enables Rapid Instructed Task Learning](https://arxiv.org/abs/2606.29792) | preprint | OpenAlex |
 
-More: [1036 additional papers](docs/labs/amazon.md)
+More: [1038 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Apple
 

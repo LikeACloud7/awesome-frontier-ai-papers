@@ -1,14 +1,16 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1044`
-- Latest: `2026-07-14`
+- Papers: `1046`
+- Latest: `2026-07-15`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
+| 2026-07-15 | [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](https://arxiv.org/abs/2607.14386) | preprint | OpenAlex |
 | 2026-07-14 | [The GRACE Cycle: A General Large-Language-Model Framework for Phenotype Discovery with Unknown Cluster Number](https://doi.org/10.21203/rs.3.rs-10048424/v1) | preprint | OpenAlex |
 | 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
