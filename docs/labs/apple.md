@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `401`
+- Papers: `402`
 - Latest: `2026-07-21`
 - [Back to README](../../README.md#apple)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-07-21 | [Environment-free Synthetic Data Generation for API-Calling Agents](https://machinelearning.apple.com/research/environment-free) | publication | Official page |
 | 2026-07-21 | [Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://machinelearning.apple.com/research/calibrated-sparse-attention) | publication | Official page |
+| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
 | 2026-07-20 | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
 | 2026-07-20 | [LVSum: A Benchmark for Timestamp-Aware Long Video Summarization](https://machinelearning.apple.com/research/lvsum-video-summarization) | publication | Official page |
 | 2026-07-17 | [Show Me Examples: Inferring Visual Concepts from Image Sets](https://machinelearning.apple.com/research/visual-concept-inference) | publication | Official page |
@@ -56,7 +57,7 @@
 | 2026-04-29 | [Adaptive Thinking: Large Language Models Know When to Think in Latent Space](https://machinelearning.apple.com/research/adaptive-thinking) | publication | Official page |
 | 2026-04-29 | [DSO: Direct Steering Optimization for Bias Mitigation](https://machinelearning.apple.com/research/direct-steering-optimization) | publication | Official page |
 | 2026-04-28 | [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://machinelearning.apple.com/research/ladir) | publication | Official page |
-| 2026-04-24 | [Uncertainty Quantification for LLM Function-Calling](https://arxiv.org/abs/2604.22985) | article | OpenAlex, Official page |
+| 2026-04-24 | [Uncertainty Quantification for LLM Function-Calling](https://arxiv.org/abs/2604.22985) | article | Official page |
 | 2026-04-21 | [Can Large Language Models Understand Context?](https://machinelearning.apple.com/research/llm-context-understanding) | publication | Official page |
 | 2026-04-20 | [What Do Your Logits Know? (The Answer May Surprise You!)](https://machinelearning.apple.com/research/what-do-your-logits-know) | publication | Official page |
 | 2026-04-16 | [MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining](https://machinelearning.apple.com/research/mixatlas) | publication | Official page |
@@ -84,7 +85,7 @@
 | 2026-03-06 | [GenCtrl -- A Formal Controllability Toolkit for Generative Models](https://machinelearning.apple.com/research/genctrl) | publication | Official page |
 | 2026-03-03 | [On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://machinelearning.apple.com/research/separating-intelligence) | publication | Official page |
 | 2026-03-03 | [Learning to Reason for Hallucination Span Detection](https://machinelearning.apple.com/research/hallucination-span-detection) | publication | Official page |
-| 2026-02-27 | [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](https://machinelearning.apple.com/research/augmenting-app) | publication | Official page |
+| 2026-02-27 | [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](https://machinelearning.apple.com/research/augmenting-app) | publication | Official page, OpenAlex |
 | 2026-02-25 | [Closing the Gap Between Text and Speech Understanding in LLMs](https://machinelearning.apple.com/research/closing-the-gap) | publication | Official page |
 | 2026-02-25 | [Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates](https://machinelearning.apple.com/research/constructive-circuit-amplification) | publication | Official page |
 | 2026-02-24 | [Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining](https://machinelearning.apple.com/research/beyond-a-single-extractor) | publication | Official page |

@@ -1,14 +1,15 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `245`
-- Latest: `2026-07-16`
+- Papers: `246`
+- Latest: `2026-07-22`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
 | 2026-07-16 | [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://doi.org/10.1145/3799902.3811190) | conference-paper | OpenAlex |
 | 2026-07-16 | [GPC: Large-Scale Generative Pretraining for Transferable Motor Control](https://doi.org/10.1145/3799902.3811038) | conference-paper | OpenAlex |
 | 2026-07-16 | [ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models](https://doi.org/10.1145/3799902.3811060) | conference-paper | OpenAlex |

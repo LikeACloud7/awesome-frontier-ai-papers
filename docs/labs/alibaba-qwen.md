@@ -1,15 +1,17 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `495`
-- Latest: `2026-07-18`
+- Papers: `497`
+- Latest: `2026-07-21`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-21 | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |
 | 2026-07-18 | [Perplexity-Guided Interest Generation with Dual-Feedback Alignment for LLM-based Recommendation](https://doi.org/10.1007/978-981-92-3391-5_20) | conference-paper | OpenAlex |
+| 2026-07-17 | [QUADS: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides](https://arxiv.org/abs/2607.15810) | preprint | OpenAlex |
 | 2026-07-16 | [UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models](https://doi.org/10.1145/3799902.3811088) | conference-paper | OpenAlex |
 | 2026-07-16 | [MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](https://doi.org/10.1145/3799902.3811202) | conference-paper | OpenAlex |
 | 2026-07-15 | [TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning](https://doi.org/10.1145/3805712.3808468) | conference-paper | OpenAlex |
@@ -21,7 +23,7 @@
 | 2026-07-15 | [Attention Grounded Enhancement for Visual Document Retrieval](https://arxiv.org/abs/2511.13415) | conference-paper | OpenAlex |
 | 2026-07-15 | [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://huggingface.co/papers/2607.10350) | paper | HuggingFace |
 | 2026-07-14 | [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://huggingface.co/papers/2607.10383) | paper | HuggingFace |
-| 2026-07-13 | [Qwen-Music Technical Report](https://huggingface.co/papers/2607.11699) | paper | HuggingFace, Official page |
+| 2026-07-13 | [Qwen-Music Technical Report](https://huggingface.co/papers/2607.11699) | paper | Official page |
 | 2026-07-11 | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
 | 2026-07-10 | [SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://doi.org/10.1145/3805712.3808421) | article | OpenAlex |
 | 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |

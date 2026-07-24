@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1065`
+- Papers: `1066`
 - Latest: `2026-07-15`
 - [Back to README](../../README.md#amazon)
 
@@ -15,7 +15,7 @@
 | 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
 | 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
-| 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | OpenAlex, Official page |
+| 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 | 2026-07-02 | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
 | 2026-07-02 | [LLM-assisted screening method for large-scale transportation model calibration](https://doi.org/10.1038/s44333-026-00115-2) | article | OpenAlex |
 | 2026-06-29 | [Are Humans Evolved Instruction Followers? An Underlying Inductive Bias Enables Rapid Instructed Task Learning](https://arxiv.org/abs/2606.29792) | preprint | OpenAlex |
@@ -28,7 +28,7 @@
 | 2026-06-09 | [What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045) | article | OpenAlex |
 | 2026-06-05 | [Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning](https://arxiv.org/abs/2606.06835) | article | OpenAlex |
 | 2026-06-03 | [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557) | article | OpenAlex |
-| 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | OpenAlex, Official page |
+| 2026-06-02 | [Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation](https://doi.org/10.21203/rs.3.rs-9794973/v1) | preprint | Official page |
 | 2026-05-31 | [Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment](https://arxiv.org/abs/2606.01456) | article | OpenAlex |
 | 2026-05-29 | [Safe Equilibrium Policy Optimization for Strategic Agent Policies](https://arxiv.org/abs/2605.30854) | article | OpenAlex |
 | 2026-05-28 | [Deep Research Comparator: A Platform For Fine-grained Human Annotations of Deep Research Agents](http://arxiv.org/abs/2507.05495) | preprint | OpenAlex |
@@ -295,6 +295,7 @@
 | 2026 | [Attribute-aware controlled product generation with LLMs for e-commerce](https://www.amazon.science/publications/attribute-aware-controlled-product-generation-with-llms-for-e-commerce) | publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms) | publication | Official page |
 | 2026 | [Align to structure: Aligning large language models with structural information](https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information) | publication | Official page |
+| 2026 | [Agentic translation of C to Rust](https://www.amazon.science/publications/agentic-translation-of-c-to-rust) | publication | Official page |
 | 2026 | [Agentic simulacra for synthetic construction management data generation](https://www.amazon.science/publications/agentic-simulacra-for-synthetic-construction-management-data-generation) | publication | Official page |
 | 2026 | [Agentic prompt optimization with visual contrastive reasoning for fine-grained classification](https://www.amazon.science/publications/agentic-prompt-optimization-with-visual-contrastive-reasoning-for-fine-grained-classification) | publication | Official page |
 | 2026 | [Agentic AI for subsurface intelligence: Automated SEG-Y to MDIO migration at scale](https://www.amazon.science/publications/agentic-ai-for-subsurface-intelligence-automated-seg-y-to-mdio-migration-at-scale) | publication | Official page |

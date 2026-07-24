@@ -1,14 +1,17 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `761`
-- Latest: `2026-07-20`
+- Papers: `764`
+- Latest: `2026-07-22`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-22 | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
+| 2026-07-21 | [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://huggingface.co/papers/2607.20061) | technical-report | Official page |
+| 2026-07-21 | [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | technical-report | Official page |
 | 2026-07-20 | [Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://huggingface.co/papers/2607.18722) | technical-report | Official page |
 | 2026-07-18 | [EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World](https://huggingface.co/papers/2607.17250) | technical-report | Official page |
 | 2026-07-16 | [HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://huggingface.co/papers/2607.14548) | technical-report | Official page |

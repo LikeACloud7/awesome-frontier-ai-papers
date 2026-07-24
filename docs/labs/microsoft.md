@@ -1,21 +1,22 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1798`
-- Latest: `2026-07-21`
+- Papers: `1799`
+- Latest: `2026-07-23`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-21 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
 | 2026-07-21 | [The Photographer's Eye: Teach MLLMs to See and Critique like Photographers](https://www.microsoft.com/en-us/research/publication/the-photographers-eye-teach-mllms-to-see-and-critique-like-photographers/) | publication | Official page |
 | 2026-07-21 | [Improve Temporal Reasoning in MLLMs via Video Contrastive Decoding](https://www.microsoft.com/en-us/research/publication/improve-temporal-reasoning-in-mllms-via-video-contrastive-decoding/) | publication | Official page |
 | 2026-07-21 | [Generalizing (CLIP) to Unseen Domains via Text-guided Augmentation](https://www.microsoft.com/en-us/research/publication/generalizing-clip-to-unseen-domains-via-text-guided-augmentation/) | publication | Official page |
 | 2026-07-21 | [Easy Regional Contrastive Learning of Expressive Fashion Representations](https://www.microsoft.com/en-us/research/publication/easy-regional-contrastive-learning-of-expressive-fashion-representations/) | publication | Official page |
 | 2026-07-17 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://www.microsoft.com/en-us/research/publication/resource2skill-distilling-executable-agent-skills-from-human-created-multimodal-resources/) | publication | Official page |
-| 2026-07-15 | [Data-Efficient Adaptation of LLMs via Attention Head Reweighting](https://arxiv.org/abs/2607.13425) | preprint | OpenAlex, Official page |
+| 2026-07-15 | [Data-Efficient Adaptation of LLMs via Attention Head Reweighting](https://arxiv.org/abs/2607.13425) | preprint | Official page |
 | 2026-07-15 | [Automating Generation of Long-Form Queries](https://doi.org/10.1145/3805712.3809917) | conference-paper | OpenAlex |
 | 2026-07-14 | [Human oversight of agentic systems in practice: Examining the oversight work, challenges, and heuristics of developers using software agents](https://www.microsoft.com/en-us/research/publication/human-oversight-of-agentic-systems-in-practice-examining-the-oversight-work-challenges-and-heuristics-of-developers-using-software-agents/) | publication | Official page |
 | 2026-07-14 | [Addressing Overreliance on AI](https://www.microsoft.com/en-us/research/publication/addressing-overreliance-on-ai/) | publication | Official page |
@@ -410,7 +411,7 @@
 | 2026-03-02 | [Reasoning as Gradient: Scaling MLE Agents Beyond Tree Search](https://www.microsoft.com/en-us/research/publication/reasoning-as-gradient-scaling-mle-agents-beyond-tree-search/) | publication | Official page |
 | 2026-03-02 | [Learning to Draft: Adaptive Speculative Decoding with Reinforcement Learning](https://www.microsoft.com/en-us/research/publication/learning-to-draft-adaptive-speculative-decoding-with-reinforcement-learning/) | publication | Official page |
 | 2026-03-02 | [CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework](https://www.microsoft.com/en-us/research/publication/care-towards-clinical-accountability-in-multi-modal-medical-reasoning-with-an-evidence-grounded-agentic-framework/) | publication | Official page |
-| 2026-03-01 | [Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data](https://www.microsoft.com/en-us/research/publication/individual-turing-test-a-case-study-of-llm-based-simulation-using-longitudinal-personal-data/) | publication | Official page |
+| 2026-03-01 | [Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data](https://www.microsoft.com/en-us/research/publication/individual-turing-test-a-case-study-of-llm-based-simulation-using-longitudinal-personal-data/) | publication | Official page, OpenAlex |
 | 2026-03-01 | [AutoAdapt: An Automated Domain Adaptation Framework for LLMs](https://www.microsoft.com/en-us/research/publication/autoadapt-an-automated-domain-adaptation-framework-for-llms/) | publication | Official page |
 | 2026-03-01 | [Online Experiential Learning for Language Models](https://www.microsoft.com/en-us/research/publication/online-experiential-learning-for-language-models/) | publication | Official page |
 | 2026-03-01 | [StreamWise: Serving Multi-Modal Generation in Real-Time at Scale](https://www.microsoft.com/en-us/research/publication/streamwise-serving-multi-modal-generation-in-real-time-at-scale/) | publication | Official page |
