@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1066`
+- Papers: `1068`
 - Latest: `2026-07-15`
 - [Back to README](../../README.md#amazon)
 
@@ -157,6 +157,7 @@
 | 2026 | [CASPER: Bridging discrete and continuous prompt optimization through feedback-guided gradient descent](https://www.amazon.science/publications/casper-bridging-discrete-and-continuous-prompt-optimization-through-feedback-guided-gradient-descent) | publication | Official page |
 | 2026 | [ByteFlow: Language modeling through adaptive byte compression without a tokenizer](https://www.amazon.science/publications/byteflow-language-modeling-through-adaptive-byte-compression-without-a-tokenizer) | publication | Official page |
 | 2026 | [Automated cricket scene classification using vision-language model](https://www.amazon.science/publications/automated-cricket-scene-classification-using-vision-language-model) | publication | Official page |
+| 2026 | [Agent-Ops: A multi-agent orchestration framework for end-to-end SOP automation in e-commerce operations](https://www.amazon.science/publications/agent-ops-a-multi-agent-orchestration-framework-for-end-to-end-sop-automation-in-e-commerce-operations) | publication | Official page |
 | 2026 | [Zodiac — Zero-inflated overshoot controlled dual-head integration for asymmetric cross-domain forecasting](https://www.amazon.science/publications/zodiac-zero-inflated-overshoot-controlled-dual-head-integration-for-asymmetric-cross-domain-forecasting) | publication | Official page |
 | 2026 | [When thoughts meet facts: Reusable reasoning for long-context LMs](https://www.amazon.science/publications/when-thoughts-meet-facts-reusable-reasoning-for-long-context-lms) | publication | Official page |
 | 2026 | [When speed meets intelligence: Scalable conversational NER in an ever-evolving world](https://www.amazon.science/publications/when-speed-meets-intelligence-scalable-conversational-ner-in-an-ever-evolving-world) | publication | Official page |
@@ -227,8 +228,10 @@
 | 2026 | [Library drift: Diagnosing and fixing a silent failure mode in self-evolving LLM skill libraries](https://www.amazon.science/publications/library-drift-diagnosing-and-fixing-a-silent-failure-mode-in-self-evolving-llm-skill-libraries) | publication | Official page |
 | 2026 | [Learning when to attend: Conditional memory access for long-context LLMs](https://www.amazon.science/publications/learning-when-to-attend-conditional-memory-access-for-long-context-llms) | publication | Official page |
 | 2026 | [Learning to staff: Offline reinforcement learning and fine-tuned LLMs for warehouse staffing optimization](https://www.amazon.science/publications/learning-to-staff-offline-reinforcement-learning-and-fine-tuned-llms-for-warehouse-staffing-optimization) | publication | Official page |
+| 2026 | [LLM-assisted diagnostics for simulation–reality discrepancies in manufacturing systems](https://www.amazon.science/publications/llm-assisted-diagnostics-for-simulation-reality-discrepancies-in-manufacturing-systems) | publication | Official page |
 | 2026 | [KG-CRAFT: Knowledge graph-based contrastive reasoning with LLMs for enhancing automated fact-checking](https://www.amazon.science/publications/kg-craft-knowledge-graph-based-contrastive-reasoning-with-llms-for-enhancing-automated-fact-checking) | publication | Official page |
 | 2026 | [Journey before destination: On the importance of visual faithfulness in slow thinking](https://www.amazon.science/publications/journey-before-destination-on-the-importance-of-visual-faithfulness-in-slow-thinking) | publication | Official page |
+| 2026 | [Is GraphRAG needed? From basic RAG to graph-/agentic solutions with context optimization](https://www.amazon.science/publications/is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization) | publication | Official page |
 | 2026 | [Investigating equation-only reasoning in large language models](https://www.amazon.science/publications/investigating-equation-only-reasoning-in-large-language-models) | publication | Official page |
 | 2026 | [Inspectable tabular foundation models via in-context kernel learning](https://www.amazon.science/publications/inspectable-tabular-foundation-models-via-in-context-kernel-learning) | publication | Official page |
 | 2026 | [Incentivizing consistent, effective and scalable reasoning capability in audio LLMs via reasoning process rewards](https://www.amazon.science/publications/incentivizing-consistent-effective-and-scalable-reasoning-capability-in-audio-llms-via-reasoning-process-rewards) | publication | Official page |
@@ -299,7 +302,6 @@
 | 2026 | [Agentic simulacra for synthetic construction management data generation](https://www.amazon.science/publications/agentic-simulacra-for-synthetic-construction-management-data-generation) | publication | Official page |
 | 2026 | [Agentic prompt optimization with visual contrastive reasoning for fine-grained classification](https://www.amazon.science/publications/agentic-prompt-optimization-with-visual-contrastive-reasoning-for-fine-grained-classification) | publication | Official page |
 | 2026 | [Agentic AI for subsurface intelligence: Automated SEG-Y to MDIO migration at scale](https://www.amazon.science/publications/agentic-ai-for-subsurface-intelligence-automated-seg-y-to-mdio-migration-at-scale) | publication | Official page |
-| 2026 | [Agent-Ops: A multi-agent orchestration framework for end-to-end SOP automation in e-commerce operations](https://www.amazon.science/publications/agent-ops-a-multi-agent-orchestration-framework-for-end-to-end-sop-automation-in-e-commerce-operations) | publication | Official page |
 | 2026 | [Adaptive turn-taking for real-time multi-party voice agents](https://www.amazon.science/publications/adaptive-turn-taking-for-real-time-multi-party-voice-agents) | publication | Official page |
 | 2026 | [Adaptive geometry routing for vision–language understanding](https://www.amazon.science/publications/adaptive-geometry-routing-for-vision-language-understanding) | publication | Official page |
 | 2026 | [AccelOpt: A self-improving LLM agentic system for AI accelerator kernel optimization](https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization) | publication | Official page |

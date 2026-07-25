@@ -4,24 +4,24 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-24T06:07:51+00:00`
-- Coverage: `6380` papers across `19` labs since 2024
+- Last generated: `2026-07-25T06:01:19+00:00`
+- Coverage: `6387` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Microsoft](#microsoft) | 1799 | 2026-07-23 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Apple](#apple) | 403 | 2026-07-24 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1801 | 2026-07-23 | [all papers](docs/labs/microsoft.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 764 | 2026-07-22 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 246 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 497 | 2026-07-21 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 441 | 2026-07-21 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Apple](#apple) | 402 | 2026-07-21 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 280 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 448 | 2026-07-17 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 449 | 2026-07-17 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 145 | 2026-07-17 | [all papers](docs/labs/meta-fair.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1066 | 2026-07-15 | [all papers](docs/labs/amazon.md) |
-| 🇺🇸 US | [Anthropic](#anthropic) | 33 | 2026-07-14 | [all papers](docs/labs/anthropic.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1068 | 2026-07-15 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Anthropic](#anthropic) | 34 | 2026-07-14 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 149 | 2026-07-05 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 25 | 2026-07 | [all papers](docs/labs/stepfun.md) |
@@ -35,6 +35,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-24 | Apple | [LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning](https://machinelearning.apple.com/research/lead-no-recovery-bottleneck) | publication | Official page |
 | 2026-07-23 | Microsoft | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-22 | Tencent/Hunyuan | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
 | 2026-07-22 | NVIDIA | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
@@ -54,15 +55,31 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-21 | Alibaba/Qwen | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |
 | 2026-07-21 | Baidu | [A Structure-Aware Multimodal Framework for Drug–Target Interaction Prediction via Heterogeneous Graph Learning](https://doi.org/10.1177/15578666261469586) | article | OpenAlex |
 | 2026-07-20 | Tencent/Hunyuan | [Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://huggingface.co/papers/2607.18722) | technical-report | Official page |
-| 2026-07-20 | Apple | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇺🇸 Apple
+
+`403` papers · latest `2026-07-24` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-24 | [LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning](https://machinelearning.apple.com/research/lead-no-recovery-bottleneck) | publication | Official page |
+| 2026-07-21 | [Environment-free Synthetic Data Generation for API-Calling Agents](https://machinelearning.apple.com/research/environment-free) | publication | Official page |
+| 2026-07-21 | [Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://machinelearning.apple.com/research/calibrated-sparse-attention) | publication | Official page |
+| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
+| 2026-07-20 | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
+| 2026-07-20 | [LVSum: A Benchmark for Timestamp-Aware Long Video Summarization](https://machinelearning.apple.com/research/lvsum-video-summarization) | publication | Official page |
+| 2026-07-17 | [Show Me Examples: Inferring Visual Concepts from Image Sets](https://machinelearning.apple.com/research/visual-concept-inference) | publication | Official page |
+| 2026-07-16 | [Embarrassingly Simple Self-Distillation Improves Code Generation](https://machinelearning.apple.com/research/simple-self-distillation) | publication | Official page |
+
+More: [395 additional papers](docs/labs/apple.md)
+
 ### 🇺🇸 Microsoft
 
-`1799` papers · latest `2026-07-23` · [full list](docs/labs/microsoft.md)
+`1801` papers · latest `2026-07-23` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -73,9 +90,9 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-21 | [Generalizing (CLIP) to Unseen Domains via Text-guided Augmentation](https://www.microsoft.com/en-us/research/publication/generalizing-clip-to-unseen-domains-via-text-guided-augmentation/) | publication | Official page |
 | 2026-07-21 | [Easy Regional Contrastive Learning of Expressive Fashion Representations](https://www.microsoft.com/en-us/research/publication/easy-regional-contrastive-learning-of-expressive-fashion-representations/) | publication | Official page |
 | 2026-07-17 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](https://www.microsoft.com/en-us/research/publication/resource2skill-distilling-executable-agent-skills-from-human-created-multimodal-resources/) | publication | Official page |
-| 2026-07-15 | [Data-Efficient Adaptation of LLMs via Attention Head Reweighting](https://arxiv.org/abs/2607.13425) | preprint | Official page |
+| 2026-07-15 | [GFlowRL: Scaling Distribution-Matching RL to Large Language Models](https://www.microsoft.com/en-us/research/publication/gflowrl-scaling-distribution-matching-rl-to-large-language-models/) | publication | Official page |
 
-More: [1791 additional papers](docs/labs/microsoft.md)
+More: [1793 additional papers](docs/labs/microsoft.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
@@ -145,23 +162,6 @@ More: [489 additional papers](docs/labs/alibaba-qwen.md)
 
 More: [433 additional papers](docs/labs/google-deepmind.md)
 
-### 🇺🇸 Apple
-
-`402` papers · latest `2026-07-21` · [full list](docs/labs/apple.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-21 | [Environment-free Synthetic Data Generation for API-Calling Agents](https://machinelearning.apple.com/research/environment-free) | publication | Official page |
-| 2026-07-21 | [Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://machinelearning.apple.com/research/calibrated-sparse-attention) | publication | Official page |
-| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
-| 2026-07-20 | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
-| 2026-07-20 | [LVSum: A Benchmark for Timestamp-Aware Long Video Summarization](https://machinelearning.apple.com/research/lvsum-video-summarization) | publication | Official page |
-| 2026-07-17 | [Show Me Examples: Inferring Visual Concepts from Image Sets](https://machinelearning.apple.com/research/visual-concept-inference) | publication | Official page |
-| 2026-07-16 | [Embarrassingly Simple Self-Distillation Improves Code Generation](https://machinelearning.apple.com/research/simple-self-distillation) | publication | Official page |
-| 2026-07-15 | [One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation](https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders) | publication | Official page |
-
-More: [394 additional papers](docs/labs/apple.md)
-
 ### 🇨🇳 Baidu
 
 `280` papers · latest `2026-07-21` · [full list](docs/labs/baidu.md)
@@ -181,7 +181,7 @@ More: [272 additional papers](docs/labs/baidu.md)
 
 ### 🇨🇳 Huawei/Noah
 
-`448` papers · latest `2026-07-17` · [full list](docs/labs/huawei-noah.md)
+`449` papers · latest `2026-07-17` · [full list](docs/labs/huawei-noah.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -189,12 +189,12 @@ More: [272 additional papers](docs/labs/baidu.md)
 | 2026-07-15 | [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609) | conference-paper | OpenAlex |
 | 2026-07-15 | [M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets](http://arxiv.org/abs/2509.15549) | conference-paper | OpenAlex |
 | 2026-07-15 | [FollowTable: A Benchmark for Instruction-Following Table Retrieval](https://arxiv.org/abs/2605.00400) | conference-paper | OpenAlex |
+| 2026-07-14 | [Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data](https://huggingface.co/papers/2607.13927) | technical-report | Official page |
 | 2026-07-12 | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
 | 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
 | 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
-| 2026-07-10 | [Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems](https://doi.org/10.1145/3805712.3808403) | article | OpenAlex |
 
-More: [440 additional papers](docs/labs/huawei-noah.md)
+More: [441 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇺🇸 Meta/FAIR
 
@@ -215,7 +215,7 @@ More: [137 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 Amazon
 
-`1066` papers · latest `2026-07-15` · [full list](docs/labs/amazon.md)
+`1068` papers · latest `2026-07-15` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -228,11 +228,11 @@ More: [137 additional papers](docs/labs/meta-fair.md)
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 | 2026-07-02 | [Rudder: Steering Prefetching in Distributed GNN Training using LLM Agents](https://doi.org/10.1145/3797905.3800542) | article | OpenAlex |
 
-More: [1058 additional papers](docs/labs/amazon.md)
+More: [1060 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Anthropic
 
-`33` papers · latest `2026-07-14` · [full list](docs/labs/anthropic.md)
+`34` papers · latest `2026-07-14` · [full list](docs/labs/anthropic.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -240,12 +240,12 @@ More: [1058 additional papers](docs/labs/amazon.md)
 | 2026-07-13 | [Claude’s values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | publication | Official page |
 | 2026-07-09 | [Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | publication | Official page |
 | 2026-07-06 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | publication | Official page |
+| 2026-07 | [Claude Opus 5 System Card](https://anthropic.com/claude-opus-5-system-card) | model_card | Official page |
 | 2026-06-26 | [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report) | publication | Official page |
 | 2026-06-16 | [Agentic coding and persistent returns to expertise](https://www.anthropic.com/research/claude-code-expertise) | publication | Official page |
 | 2026-06-08 | [Measuring LLMs’ impact on N-day exploits](https://www.anthropic.com/research/n-days) | publication | Official page |
-| 2026-06-05 | [Making Claude a chemist](https://www.anthropic.com/research/making-claude-a-chemist) | publication | Official page |
 
-More: [25 additional papers](docs/labs/anthropic.md)
+More: [26 additional papers](docs/labs/anthropic.md)
 
 ### 🇨🇳 DeepSeek
 

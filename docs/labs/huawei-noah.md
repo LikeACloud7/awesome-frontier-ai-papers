@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `448`
+- Papers: `449`
 - Latest: `2026-07-17`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -13,6 +13,7 @@
 | 2026-07-15 | [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609) | conference-paper | OpenAlex |
 | 2026-07-15 | [M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets](http://arxiv.org/abs/2509.15549) | conference-paper | OpenAlex |
 | 2026-07-15 | [FollowTable: A Benchmark for Instruction-Following Table Retrieval](https://arxiv.org/abs/2605.00400) | conference-paper | OpenAlex |
+| 2026-07-14 | [Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data](https://huggingface.co/papers/2607.13927) | technical-report | Official page |
 | 2026-07-12 | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
 | 2026-07-10 | [Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation](https://doi.org/10.1145/3805712.3809681) | article | OpenAlex |
 | 2026-07-10 | [One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment](https://doi.org/10.1145/3805712.3809689) | article | OpenAlex |
