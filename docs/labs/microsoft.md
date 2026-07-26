@@ -1,14 +1,15 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1801`
-- Latest: `2026-07-23`
+- Papers: `1802`
+- Latest: `2026-07-24`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
 | 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-21 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
 | 2026-07-21 | [The Photographer's Eye: Teach MLLMs to See and Critique like Photographers](https://www.microsoft.com/en-us/research/publication/the-photographers-eye-teach-mllms-to-see-and-critique-like-photographers/) | publication | Official page |

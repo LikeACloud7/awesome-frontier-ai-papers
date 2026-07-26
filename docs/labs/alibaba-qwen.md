@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `497`
+- Papers: `498`
 - Latest: `2026-07-21`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-21 | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |
+| 2026-07-21 | [Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](https://arxiv.org/abs/2607.19219) | preprint | OpenAlex |
 | 2026-07-18 | [Perplexity-Guided Interest Generation with Dual-Feedback Alignment for LLM-based Recommendation](https://doi.org/10.1007/978-981-92-3391-5_20) | conference-paper | OpenAlex |
 | 2026-07-17 | [QUADS: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides](https://arxiv.org/abs/2607.15810) | preprint | OpenAlex |
 | 2026-07-16 | [UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models](https://doi.org/10.1145/3799902.3811088) | conference-paper | OpenAlex |
