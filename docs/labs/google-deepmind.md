@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `443`
+- Papers: `444`
 - Latest: `2026-07-24`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
+| 2026-07-22 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
 | 2026-07-21 | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
 | 2026-07-21 | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
 | 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |

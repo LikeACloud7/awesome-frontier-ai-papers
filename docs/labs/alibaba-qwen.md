@@ -24,7 +24,7 @@
 | 2026-07-15 | [Attention Grounded Enhancement for Visual Document Retrieval](https://arxiv.org/abs/2511.13415) | conference-paper | OpenAlex |
 | 2026-07-15 | [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://huggingface.co/papers/2607.10350) | paper | HuggingFace |
 | 2026-07-14 | [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://huggingface.co/papers/2607.10383) | paper | HuggingFace |
-| 2026-07-13 | [Qwen-Music Technical Report](https://huggingface.co/papers/2607.11699) | paper | Official page |
+| 2026-07-13 | [Qwen-Music Technical Report](https://huggingface.co/papers/2607.11699) | paper | Official page, HuggingFace |
 | 2026-07-11 | [STAR: Decode-Phase Rescheduling for LLM Inference](http://arxiv.org/abs/2510.13668) | article | OpenAlex |
 | 2026-07-10 | [SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://doi.org/10.1145/3805712.3808421) | article | OpenAlex |
 | 2026-07-10 | [RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation](https://arxiv.org/abs/2605.04726) | article | OpenAlex |

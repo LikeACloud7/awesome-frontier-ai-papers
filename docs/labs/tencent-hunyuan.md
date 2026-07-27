@@ -1,14 +1,15 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `764`
-- Latest: `2026-07-22`
+- Papers: `765`
+- Latest: `2026-07-23`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-23 | [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | technical-report | Official page |
 | 2026-07-22 | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
 | 2026-07-21 | [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://huggingface.co/papers/2607.20061) | technical-report | Official page |
 | 2026-07-21 | [Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://huggingface.co/papers/2607.19747) | technical-report | Official page |
