@@ -4,19 +4,20 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-27T06:47:43+00:00`
-- Coverage: `6398` papers across `19` labs since 2024
+- Last generated: `2026-07-28T06:07:51+00:00`
+- Coverage: `6403` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 19 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1804 | 2026-07-26 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 444 | 2026-07-24 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 403 | 2026-07-24 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 765 | 2026-07-23 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1069 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 246 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1070 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 247 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 498 | 2026-07-21 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 281 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 449 | 2026-07-17 | [all papers](docs/labs/huawei-noah.md) |
@@ -28,19 +29,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 24 | 2026-06-08 | [all papers](docs/labs/zai-zhipu.md) |
-| 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 16 | 2026-03-16 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
 
 ## Latest Across Labs
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-27 | Moonshot/Kimi | [the assistant should mention 215 and 222 that appear in the prior reasoning content](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) | technical-report | Official repo |
 | 2026-07-26 | Microsoft | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
+| 2026-07-26 | Moonshot/Kimi | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page |
 | 2026-07-24 | Apple | [LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning](https://machinelearning.apple.com/research/lead-no-recovery-bottleneck) | publication | Official page |
 | 2026-07-24 | Google/DeepMind | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
 | 2026-07-24 | Microsoft | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
 | 2026-07-23 | Microsoft | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-23 | Tencent/Hunyuan | [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | technical-report | Official page |
+| 2026-07-23 | Moonshot/Kimi | [Paper](https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf) | technical-report | Official repo |
 | 2026-07-22 | Tencent/Hunyuan | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
 | 2026-07-22 | Amazon | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
 | 2026-07-22 | Google/DeepMind | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
@@ -52,13 +55,27 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-21 | Microsoft | [Improve Temporal Reasoning in MLLMs via Video Contrastive Decoding](https://www.microsoft.com/en-us/research/publication/improve-temporal-reasoning-in-mllms-via-video-contrastive-decoding/) | publication | Official page |
 | 2026-07-21 | Baidu | [HPD-Parsing: Hierarchical Parallel Document Parsing](https://huggingface.co/papers/2607.18839) | technical-report | Official page |
 | 2026-07-21 | Microsoft | [Generalizing (CLIP) to Unseen Domains via Text-guided Augmentation](https://www.microsoft.com/en-us/research/publication/generalizing-clip-to-unseen-domains-via-text-guided-augmentation/) | publication | Official page |
-| 2026-07-21 | Google/DeepMind | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
-| 2026-07-21 | Google/DeepMind | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
-| 2026-07-21 | Microsoft | [Easy Regional Contrastive Learning of Expressive Fashion Representations](https://www.microsoft.com/en-us/research/publication/easy-regional-contrastive-learning-of-expressive-fashion-representations/) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇨🇳 Moonshot/Kimi
+
+`19` papers · latest `2026-07-27` · [full list](docs/labs/moonshot-kimi.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-27 | [the assistant should mention 215 and 222 that appear in the prior reasoning content](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) | technical-report | Official repo |
+| 2026-07-26 | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page |
+| 2026-07-23 | [Paper](https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf) | technical-report | Official repo |
+| 2026-03-16 | [Attention Residuals](https://huggingface.co/papers/2603.15031) | technical-report | Official page |
+| 2026-02-02 | [Kimi K2.5: Visual Agentic Intelligence](https://huggingface.co/papers/2602.02276) | technical-report | Official page |
+| 2026-01-28 | [WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models](https://huggingface.co/papers/2602.02537) | technical-report | Official page |
+| 2026-01-27 | [Towards Pixel-Level VLM Perception via Simple Points Prediction](https://huggingface.co/papers/2601.19228) | technical-report | Official page |
+| 2025-11-12 | [PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://huggingface.co/papers/2511.09057) | paper | HuggingFace |
+
+More: [11 additional papers](docs/labs/moonshot-kimi.md)
 
 ### 🇺🇸 Microsoft
 
@@ -130,7 +147,7 @@ More: [757 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Amazon
 
-`1069` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
+`1070` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -143,11 +160,11 @@ More: [757 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 
-More: [1061 additional papers](docs/labs/amazon.md)
+More: [1062 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 NVIDIA
 
-`246` papers · latest `2026-07-22` · [full list](docs/labs/nvidia.md)
+`247` papers · latest `2026-07-22` · [full list](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -158,9 +175,9 @@ More: [1061 additional papers](docs/labs/amazon.md)
 | 2026-07-03 | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
 | 2026-07-02 | [GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of AI-Generated Data for Interactive Health Systems](https://doi.org/10.1145/3786579.3799790) | article | OpenAlex |
 | 2026-07-01 | [Auto-FL-Research: Agentic Search for Federated Learning Algorithms](https://arxiv.org/abs/2607.01366) | preprint | OpenAlex |
-| 2026-07 | [GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers](https://research.nvidia.com/publication/2026-07_galaxydit-efficient-video-generation-guidance-alignment-and-adaptive-proxy) | publication | Official page |
+| 2026-07 | [Understanding Emergent Non-Verbal Communication in the Delta Force Competitive Video Game through Multimodal AI Analysis](https://research.nvidia.com/publication/2026-07_understanding-emergent-non-verbal-communication-delta-force-competitive-video) | publication | Official page |
 
-More: [238 additional papers](docs/labs/nvidia.md)
+More: [239 additional papers](docs/labs/nvidia.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -348,23 +365,6 @@ More: [1 additional papers](docs/labs/minimax.md)
 | 2026-01-09 | [Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://huggingface.co/papers/2601.06021) | technical-report | Official page |
 
 More: [16 additional papers](docs/labs/zai-zhipu.md)
-
-### 🇨🇳 Moonshot/Kimi
-
-`16` papers · latest `2026-03-16` · [full list](docs/labs/moonshot-kimi.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-03-16 | [Attention Residuals](https://huggingface.co/papers/2603.15031) | technical-report | Official page |
-| 2026-02-02 | [Kimi K2.5: Visual Agentic Intelligence](https://huggingface.co/papers/2602.02276) | technical-report | Official page |
-| 2026-01-28 | [WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models](https://huggingface.co/papers/2602.02537) | technical-report | Official page |
-| 2026-01-27 | [Towards Pixel-Level VLM Perception via Simple Points Prediction](https://huggingface.co/papers/2601.19228) | technical-report | Official page |
-| 2025-11-12 | [PAN: A World Model for General, Interactable, and Long-Horizon World Simulation](https://huggingface.co/papers/2511.09057) | paper | HuggingFace |
-| 2025-10-30 | [Kimi Linear: An Expressive, Efficient Attention Architecture](https://huggingface.co/papers/2510.26692) | technical-report | Official page |
-| 2025-09-26 | [Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://huggingface.co/papers/2509.23045) | technical-report | Official page |
-| 2025-07-28 | [Kimi K2: Open Agentic Intelligence](https://huggingface.co/papers/2507.20534) | paper | HuggingFace |
-
-More: [8 additional papers](docs/labs/moonshot-kimi.md)
 
 ### 🇺🇸 xAI
 

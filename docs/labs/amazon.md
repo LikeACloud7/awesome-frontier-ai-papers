@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1069`
+- Papers: `1070`
 - Latest: `2026-07-22`
 - [Back to README](../../README.md#amazon)
 
@@ -296,6 +296,7 @@
 | 2026 | [Benchmarking multilingual temporal reasoning in LLMs: The temporal reasoning dataset](https://www.amazon.science/publications/benchmarking-multilingual-temporal-reasoning-in-llms-the-temporal-reasoning-dataset) | publication | Official page |
 | 2026 | [Benchmarking deflection and hallucination in large vision-language models](https://www.amazon.science/publications/benchmarking-deflection-and-hallucination-in-large-vision-language-models) | publication | Official page |
 | 2026 | [Balancing classification and calibration performance in decision-making LLMs via calibration aware reinforcement learning](https://www.amazon.science/publications/balancing-classification-and-calibration-performance-in-decision-making-llms-via-calibration-aware-reinforcement-learning) | publication | Official page |
+| 2026 | [BRIDGE: Building representations in domain-guided program synthesis](https://www.amazon.science/publications/bridge-building-representations-in-domain-guided-program-synthesis) | publication | Official page |
 | 2026 | [Attribute-aware controlled product generation with LLMs for e-commerce](https://www.amazon.science/publications/attribute-aware-controlled-product-generation-with-llms-for-e-commerce) | publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms) | publication | Official page |
 | 2026 | [Align to structure: Aligning large language models with structural information](https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information) | publication | Official page |
