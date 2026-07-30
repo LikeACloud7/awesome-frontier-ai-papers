@@ -87,7 +87,7 @@
 | 2026-03-06 | [GenCtrl -- A Formal Controllability Toolkit for Generative Models](https://machinelearning.apple.com/research/genctrl) | publication | Official page |
 | 2026-03-03 | [On the Impossibility of Separating Intelligence from Judgment: The Computational Intractability of Filtering for AI Alignment](https://machinelearning.apple.com/research/separating-intelligence) | publication | Official page |
 | 2026-03-03 | [Learning to Reason for Hallucination Span Detection](https://machinelearning.apple.com/research/hallucination-span-detection) | publication | Official page |
-| 2026-02-27 | [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](https://machinelearning.apple.com/research/augmenting-app) | publication | Official page, OpenAlex |
+| 2026-02-27 | [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](https://machinelearning.apple.com/research/augmenting-app) | publication | Official page |
 | 2026-02-25 | [Closing the Gap Between Text and Speech Understanding in LLMs](https://machinelearning.apple.com/research/closing-the-gap) | publication | Official page |
 | 2026-02-25 | [Constructive Circuit Amplification: Improving Math Reasoning in LLMs via Targeted Sub-Network Updates](https://machinelearning.apple.com/research/constructive-circuit-amplification) | publication | Official page |
 | 2026-02-24 | [Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining](https://machinelearning.apple.com/research/beyond-a-single-extractor) | publication | Official page |

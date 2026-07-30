@@ -4,20 +4,21 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-29T06:11:16+00:00`
-- Coverage: `6409` papers across `19` labs since 2024
+- Last generated: `2026-07-30T06:03:40+00:00`
+- Coverage: `6414` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 446 | 2026-07-29 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 404 | 2026-07-28 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [OpenAI](#openai) | 55 | 2026-07-28 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 35 | 2026-07-28 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1804 | 2026-07-26 | [all papers](docs/labs/microsoft.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 766 | 2026-07-26 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 445 | 2026-07-26 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1070 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1072 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 247 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 499 | 2026-07-21 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 281 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
@@ -26,8 +27,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 149 | 2026-07-05 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 25 | 2026-07 | [all papers](docs/labs/stepfun.md) |
-| 🇺🇸 US | [OpenAI](#openai) | 54 | 2026-06-30 | [all papers](docs/labs/openai.md) |
-| 🇨🇳 China | [MiniMax](#minimax) | 9 | 2026-06-10 | [all papers](docs/labs/minimax.md) |
+| 🇨🇳 China | [MiniMax](#minimax) | 10 | 2026-07 | [all papers](docs/labs/minimax.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 24 | 2026-06-08 | [all papers](docs/labs/zai-zhipu.md) |
 | 🇺🇸 US | [xAI](#xai) | 3 | 2025-11-05 | [all papers](docs/labs/xai.md) |
 
@@ -35,8 +35,10 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-29 | Google/DeepMind | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
 | 2026-07-28 | Anthropic | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | publication | Official page |
 | 2026-07-28 | Apple | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
+| 2026-07-28 | OpenAI | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
 | 2026-07-27 | Moonshot/Kimi | [the assistant should mention 215 and 222 that appear in the prior reasoning content](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) | technical-report | Official repo |
 | 2026-07-26 | Microsoft | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
 | 2026-07-26 | Moonshot/Kimi | [PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models](https://huggingface.co/papers/2607.24957) | technical-report | Official page |
@@ -53,12 +55,27 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-22 | Amazon | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
 | 2026-07-22 | Google/DeepMind | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
 | 2026-07-22 | Microsoft | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
-| 2026-07-22 | NVIDIA | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
-| 2026-07-21 | Microsoft | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Google/DeepMind
+
+`446` papers · latest `2026-07-29` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
+| 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
+| 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
+| 2026-07-22 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
+| 2026-07-21 | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
+| 2026-07-21 | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
+| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
+| 2026-07-18 | [TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization](https://arxiv.org/abs/2607.16973) | preprint | OpenAlex |
+
+More: [438 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Apple
 
@@ -76,6 +93,23 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-07-17 | [Show Me Examples: Inferring Visual Concepts from Image Sets](https://machinelearning.apple.com/research/visual-concept-inference) | publication | Official page |
 
 More: [396 additional papers](docs/labs/apple.md)
+
+### 🇺🇸 OpenAI
+
+`55` papers · latest `2026-07-28` · [full list](docs/labs/openai.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-28 | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
+| 2026-06-30 | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |
+| 2026-05-22 | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
+| 2026-05-05 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
+| 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |
+| 2026-04-23 | [GeneBench: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](https://doi.org/10.64898/2026.04.22.720113) | article | OpenAlex |
+| 2026-04-22 | [Evaluating large language models for accuracy incentivizes hallucinations](https://doi.org/10.1038/s41586-026-10549-w) | article | OpenAlex |
+| 2026-04-16 | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | publication | Official page |
+
+More: [47 additional papers](docs/labs/openai.md)
 
 ### 🇺🇸 Anthropic
 
@@ -145,26 +179,9 @@ More: [1796 additional papers](docs/labs/microsoft.md)
 
 More: [758 additional papers](docs/labs/tencent-hunyuan.md)
 
-### 🇺🇸 Google/DeepMind
-
-`445` papers · latest `2026-07-26` · [full list](docs/labs/google-deepmind.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
-| 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
-| 2026-07-22 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
-| 2026-07-21 | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
-| 2026-07-21 | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
-| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
-| 2026-07-18 | [TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization](https://arxiv.org/abs/2607.16973) | preprint | OpenAlex |
-| 2026-07-16 | [GR3EN: Generative Relighting for 3D Environments](https://doi.org/10.1145/3799902.3811181) | conference-paper | OpenAlex |
-
-More: [437 additional papers](docs/labs/google-deepmind.md)
-
 ### 🇺🇸 Amazon
 
-`1070` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
+`1072` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -177,7 +194,7 @@ More: [437 additional papers](docs/labs/google-deepmind.md)
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 
-More: [1062 additional papers](docs/labs/amazon.md)
+More: [1064 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -315,29 +332,13 @@ More: [141 additional papers](docs/labs/bytedance-seed.md)
 
 More: [17 additional papers](docs/labs/stepfun.md)
 
-### 🇺🇸 OpenAI
-
-`54` papers · latest `2026-06-30` · [full list](docs/labs/openai.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-06-30 | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |
-| 2026-05-22 | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
-| 2026-05-05 | [GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) | publication | Official page |
-| 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |
-| 2026-04-23 | [GeneBench: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](https://doi.org/10.64898/2026.04.22.720113) | article | OpenAlex |
-| 2026-04-22 | [Evaluating large language models for accuracy incentivizes hallucinations](https://doi.org/10.1038/s41586-026-10549-w) | article | OpenAlex |
-| 2026-04-16 | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | publication | Official page |
-| 2026-04-16 | [ORION: An agentic reasoning construct for the analysis of complex human immune profiling](https://doi.org/10.64898/2026.04.13.718286) | article | OpenAlex |
-
-More: [46 additional papers](docs/labs/openai.md)
-
 ### 🇨🇳 MiniMax
 
-`9` papers · latest `2026-06-10` · [full list](docs/labs/minimax.md)
+`10` papers · latest `2026-07` · [full list](docs/labs/minimax.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07 | [Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model](https://huggingface.co/papers/2607.24904) | technical-report | Official page |
 | 2026-06-10 | [MiniMax Sparse Attention](https://huggingface.co/papers/2606.13392) | technical-report | Official page |
 | 2026-06-10 | [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://huggingface.co/papers/2606.13473) | technical-report | Official page |
 | 2026-05-25 | [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://huggingface.co/papers/2605.26494) | technical-report | Official page |
@@ -345,9 +346,8 @@ More: [46 additional papers](docs/labs/openai.md)
 | 2025-06-16 | [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://huggingface.co/papers/2506.13585) | paper | HuggingFace |
 | 2025-06-13 | [MiniMax-M1](https://huggingface.co/MiniMaxAI/MiniMax-M1-80k/blob/main/MiniMax_M1_tech_report.pdf) | technical-report | Official repo |
 | 2025-05-26 | [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://huggingface.co/papers/2505.19641) | technical-report | Official report |
-| 2025-05-12 | [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](https://huggingface.co/papers/2505.07916) | technical-report | Official report |
 
-More: [1 additional papers](docs/labs/minimax.md)
+More: [2 additional papers](docs/labs/minimax.md)
 
 ### 🇨🇳 Z.ai/Zhipu
 
