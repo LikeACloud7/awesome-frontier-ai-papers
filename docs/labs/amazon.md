@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1072`
+- Papers: `1073`
 - Latest: `2026-07-22`
 - [Back to README](../../README.md#amazon)
 
@@ -156,6 +156,7 @@
 | 2026 | [FregeLogic at SemEval 2026 Task 11: A hybrid neuro-symbolic architecture for content-robust syllogistic validity prediction](https://www.amazon.science/publications/fregelogic-at-semeval-2026-task-11-a-hybrid-neuro-symbolic-architecture-for-content-robust-syllogistic-validity-prediction) | publication | Official page |
 | 2026 | [ELLA: Efficient lifelong learning for adapters in large language models](https://www.amazon.science/publications/ella-efficient-lifelong-learning-for-adapters-in-large-language-models) | publication | Official page |
 | 2026 | [Diffusion language model inference with Monte Carlo Tree Search](https://www.amazon.science/publications/diffusion-language-model-inference-with-monte-carlo-tree-search) | publication | Official page |
+| 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [CodeStruct: Code agents over structured action spaces](https://www.amazon.science/publications/codestruct-code-agents-over-structured-action-spaces) | publication | Official page |
 | 2026 | [CASPER: Bridging discrete and continuous prompt optimization through feedback-guided gradient descent](https://www.amazon.science/publications/casper-bridging-discrete-and-continuous-prompt-optimization-through-feedback-guided-gradient-descent) | publication | Official page |
 | 2026 | [ByteFlow: Language modeling through adaptive byte compression without a tokenizer](https://www.amazon.science/publications/byteflow-language-modeling-through-adaptive-byte-compression-without-a-tokenizer) | publication | Official page |
@@ -250,6 +251,7 @@
 | 2026 | [Gradient-controlled decoding: A safety guardrail for LLMs with dual-anchor steering](https://www.amazon.science/publications/gradient-controlled-decoding-a-safety-guardrail-for-llms-with-dual-anchor-steering) | publication | Official page |
 | 2026 | [GiVA: Gradient-informed bases for vector-based adaptation](https://www.amazon.science/publications/giva-gradient-informed-bases-for-vector-based-adaptation) | publication | Official page |
 | 2026 | [GeoGround: Uncertainty-weighted multi-task learning for geo-alignment and address defect detection](https://www.amazon.science/publications/geoground-uncertainty-weighted-multi-task-learning-for-geo-alignment-and-address-defect-detection) | publication | Official page |
+| 2026 | [From prompt to production: Automating brand-safe marketing imagery with text-to-image models](https://www.amazon.science/publications/from-prompt-to-production-automating-brand-safe-marketing-imagery-with-text-to-image-models) | publication | Official page |
 | 2026 | [From narrow unlearning to emergent misalignment: Causes, consequences, and containment in LLMs](https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms) | publication | Official page |
 | 2026 | [From frontier to frugal: Evaluating self-evolution frameworks with small language models](https://www.amazon.science/publications/from-frontier-to-frugal-evaluating-self-evolution-frameworks-with-small-language-models) | publication | Official page |
 | 2026 | [From Guess2Graph: When and how can unreliable experts safely boost causal discovery in finite samples?](https://www.amazon.science/publications/from-guess2graph-when-and-how-can-unreliable-experts-safely-boost-causal-discovery-in-finite-samples) | publication | Official page |
@@ -273,7 +275,6 @@
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps) | publication | Official page |
 | 2026 | [Dependence-aware label aggregation for LLM-as-a-judge via Ising models](https://www.amazon.science/publications/dependence-aware-label-aggregation-for-llm-as-a-judge-via-ising-models) | publication | Official page |
 | 2026 | [Delta debugging for LLM-integrated systems](https://www.amazon.science/publications/delta-debugging-for-llm-integrated-systems) | publication | Official page |
-| 2026 | [DQA: Diagnostic question answering for IT support](https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support) | publication | Official page |
 | 2026 | [DOT-MoE: Differentiable optimal transport for MoEfication](https://www.amazon.science/publications/dot-moe-differentiable-optimal-transport-for-moefication) | publication | Official page |
 | 2026 | [DACO: Dictionary-aligned concept control for safeguarding multimodal LLMs](https://www.amazon.science/publications/daco-dictionary-aligned-concept-control-for-safeguarding-multimodal-llms) | publication | Official page |
 | 2026 | [Correct, concise and complete: Multi-stage training for adaptive reasoning](https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning) | publication | Official page |

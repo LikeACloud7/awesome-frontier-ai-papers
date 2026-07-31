@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `281`
+- Papers: `282`
 - Latest: `2026-07-21`
 - [Back to README](../../README.md#baidu)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-21 | [HPD-Parsing: Hierarchical Parallel Document Parsing](https://huggingface.co/papers/2607.18839) | technical-report | Official page |
+| 2026-07-21 | [MedDDC-Eval: Diagnosis-Decoupled Evaluation of Multi-Turn Medical Consultation Agents](https://arxiv.org/abs/2607.18999) | preprint | OpenAlex |
 | 2026-07-21 | [A Structure-Aware Multimodal Framework for Drug–Target Interaction Prediction via Heterogeneous Graph Learning](https://doi.org/10.1177/15578666261469586) | article | OpenAlex |
 | 2026-07-20 | [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) | preprint | OpenAlex |
 | 2026-07-16 | [Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://doi.org/10.1145/3799902.3811200) | conference-paper | OpenAlex |

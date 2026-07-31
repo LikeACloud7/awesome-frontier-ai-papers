@@ -4,24 +4,24 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-07-30T06:03:40+00:00`
-- Coverage: `6414` papers across `19` labs since 2024
+- Last generated: `2026-07-31T06:27:45+00:00`
+- Coverage: `6421` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 446 | 2026-07-29 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 449 | 2026-07-30 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1806 | 2026-07-29 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Apple](#apple) | 404 | 2026-07-28 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 55 | 2026-07-28 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 35 | 2026-07-28 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1804 | 2026-07-26 | [all papers](docs/labs/microsoft.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 766 | 2026-07-26 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1072 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1073 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 247 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 499 | 2026-07-21 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 281 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 282 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 449 | 2026-07-17 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 146 | 2026-07-17 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
@@ -35,11 +35,16 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-07-30 | Google/DeepMind | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
+| 2026-07-30 | Google/DeepMind | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
 | 2026-07-29 | Google/DeepMind | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
+| 2026-07-29 | Microsoft | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
+| 2026-07-29 | Google/DeepMind | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
 | 2026-07-28 | Anthropic | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | publication | Official page |
 | 2026-07-28 | Apple | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
 | 2026-07-28 | OpenAI | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
 | 2026-07-27 | Moonshot/Kimi | [the assistant should mention 215 and 222 that appear in the prior reasoning content](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) | technical-report | Official repo |
+| 2026-07-27 | Microsoft | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
 | 2026-07-26 | Microsoft | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
 | 2026-07-26 | Moonshot/Kimi | [PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models](https://huggingface.co/papers/2607.24957) | technical-report | Official page |
 | 2026-07-26 | Moonshot/Kimi | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page |
@@ -50,11 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-24 | Microsoft | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
 | 2026-07-23 | Microsoft | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-23 | Tencent/Hunyuan | [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | technical-report | Official page |
-| 2026-07-23 | Moonshot/Kimi | [Paper](https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf) | technical-report | Official repo |
-| 2026-07-22 | Tencent/Hunyuan | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
-| 2026-07-22 | Amazon | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
-| 2026-07-22 | Google/DeepMind | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
-| 2026-07-22 | Microsoft | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
 
 ## Papers By Lab
 
@@ -62,20 +62,37 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇺🇸 Google/DeepMind
 
-`446` papers · latest `2026-07-29` · [full list](docs/labs/google-deepmind.md)
+`449` papers · latest `2026-07-30` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
+| 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
 | 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
+| 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
 | 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
 | 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
 | 2026-07-22 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
 | 2026-07-21 | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
-| 2026-07-21 | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
-| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
-| 2026-07-18 | [TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization](https://arxiv.org/abs/2607.16973) | preprint | OpenAlex |
 
-More: [438 additional papers](docs/labs/google-deepmind.md)
+More: [441 additional papers](docs/labs/google-deepmind.md)
+
+### 🇺🇸 Microsoft
+
+`1806` papers · latest `2026-07-29` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
+| 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
+| 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
+| 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
+| 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
+| 2026-07-22 | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
+| 2026-07-21 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
+| 2026-07-21 | [The Photographer's Eye: Teach MLLMs to See and Critique like Photographers](https://www.microsoft.com/en-us/research/publication/the-photographers-eye-teach-mllms-to-see-and-critique-like-photographers/) | publication | Official page |
+
+More: [1798 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 Apple
 
@@ -145,23 +162,6 @@ More: [27 additional papers](docs/labs/anthropic.md)
 
 More: [12 additional papers](docs/labs/moonshot-kimi.md)
 
-### 🇺🇸 Microsoft
-
-`1804` papers · latest `2026-07-26` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
-| 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
-| 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
-| 2026-07-22 | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
-| 2026-07-21 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
-| 2026-07-21 | [The Photographer's Eye: Teach MLLMs to See and Critique like Photographers](https://www.microsoft.com/en-us/research/publication/the-photographers-eye-teach-mllms-to-see-and-critique-like-photographers/) | publication | Official page |
-| 2026-07-21 | [Improve Temporal Reasoning in MLLMs via Video Contrastive Decoding](https://www.microsoft.com/en-us/research/publication/improve-temporal-reasoning-in-mllms-via-video-contrastive-decoding/) | publication | Official page |
-| 2026-07-21 | [Generalizing (CLIP) to Unseen Domains via Text-guided Augmentation](https://www.microsoft.com/en-us/research/publication/generalizing-clip-to-unseen-domains-via-text-guided-augmentation/) | publication | Official page |
-
-More: [1796 additional papers](docs/labs/microsoft.md)
-
 ### 🇨🇳 Tencent/Hunyuan
 
 `766` papers · latest `2026-07-26` · [full list](docs/labs/tencent-hunyuan.md)
@@ -181,7 +181,7 @@ More: [758 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Amazon
 
-`1072` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
+`1073` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -194,7 +194,7 @@ More: [758 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 
-More: [1064 additional papers](docs/labs/amazon.md)
+More: [1065 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -232,20 +232,20 @@ More: [491 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇨🇳 Baidu
 
-`281` papers · latest `2026-07-21` · [full list](docs/labs/baidu.md)
+`282` papers · latest `2026-07-21` · [full list](docs/labs/baidu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-21 | [HPD-Parsing: Hierarchical Parallel Document Parsing](https://huggingface.co/papers/2607.18839) | technical-report | Official page |
+| 2026-07-21 | [MedDDC-Eval: Diagnosis-Decoupled Evaluation of Multi-Turn Medical Consultation Agents](https://arxiv.org/abs/2607.18999) | preprint | OpenAlex |
 | 2026-07-21 | [A Structure-Aware Multimodal Framework for Drug–Target Interaction Prediction via Heterogeneous Graph Learning](https://doi.org/10.1177/15578666261469586) | article | OpenAlex |
 | 2026-07-20 | [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) | preprint | OpenAlex |
 | 2026-07-16 | [Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://doi.org/10.1145/3799902.3811200) | conference-paper | OpenAlex |
 | 2026-07-15 | [RAG-Enhanced Large Language Models for Dynamic Content Expiration Prediction in Web Search](https://doi.org/10.1145/3805712.3808457) | conference-paper | OpenAlex |
 | 2026-07-15 | [Is a Busy Search Agent a Good One? Overthinking and Overretrieval at Scale](https://doi.org/10.1145/3805712.3809941) | conference-paper | OpenAlex |
 | 2026-07-10 | [Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning](https://doi.org/10.1145/3805712.3809695) | article | OpenAlex |
-| 2026-07-10 | [Population-Guided Intent-Aware Query Rewriting for Web Search](https://doi.org/10.1145/3805712.3808487) | article | OpenAlex |
 
-More: [273 additional papers](docs/labs/baidu.md)
+More: [274 additional papers](docs/labs/baidu.md)
 
 ### 🇨🇳 Huawei/Noah
 
