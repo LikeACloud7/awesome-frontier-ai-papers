@@ -1,14 +1,16 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `449`
-- Latest: `2026-07-17`
+- Papers: `451`
+- Latest: `2026-07-30`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-30 | [Prompt and sequential selection transfer based large language model for traffic prediction with limited data](https://doi.org/10.1016/j.tre.2026.105128) | article | OpenAlex |
+| 2026-07-27 | [ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning](https://arxiv.org/abs/2607.24062) | preprint | OpenAlex |
 | 2026-07-17 | [Hessian-Aware Zeroth-Order Optimization for Quantized Large Language Models](https://doi.org/10.1007/978-981-92-3394-6_33) | conference-paper | OpenAlex |
 | 2026-07-15 | [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609) | conference-paper | OpenAlex |
 | 2026-07-15 | [M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets](http://arxiv.org/abs/2509.15549) | conference-paper | OpenAlex |

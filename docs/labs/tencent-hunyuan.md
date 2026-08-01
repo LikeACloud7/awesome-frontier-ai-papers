@@ -1,15 +1,17 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `766`
-- Latest: `2026-07-26`
+- Papers: `768`
+- Latest: `2026-08-01`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-01 | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
 | 2026-07-26 | [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | technical-report | Official page |
+| 2026-07-25 | [Spatial-channel feature fusion transformer for multimodal tumor delineation](https://doi.org/10.1016/j.asoc.2026.116086) | article | OpenAlex |
 | 2026-07-23 | [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | technical-report | Official page |
 | 2026-07-22 | [Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://huggingface.co/papers/2607.20911) | technical-report | Official page |
 | 2026-07-21 | [ReferTrack: Referring Then Tracking for Embodied Visual Tracking](https://huggingface.co/papers/2607.20061) | technical-report | Official page |

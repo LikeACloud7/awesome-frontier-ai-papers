@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1073`
+- Papers: `1074`
 - Latest: `2026-07-22`
 - [Back to README](../../README.md#amazon)
 
@@ -287,6 +287,7 @@
 | 2026 | [Closing the feedback loop: From experience extraction to insight governance in verbal reinforcement learning](https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning) | publication | Official page |
 | 2026 | [CausalFusion: Integrating LLMs and graph falsification for causal discovery](https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery) | publication | Official page |
 | 2026 | [Capturing gaze shifts for guidance: Cross-modal fusion enhancement for VLM hallucination mitigation](https://www.amazon.science/publications/capturing-gaze-shifts-for-guidance-cross-modal-fusion-enhancement-for-vlm-hallucination-mitigation) | publication | Official page |
+| 2026 | [Can AI agents simulate A/B test outcomes? A validation framework for agentic experimentation](https://www.amazon.science/publications/can-ai-agents-simulate-a-b-test-outcomes-a-validation-framework-for-agentic-experimentation) | publication | Official page |
 | 2026 | [CSMAD: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements) | publication | Official page |
 | 2026 | [COMET: Compatibility-oriented multi-modal embedding transformer for visual recommendations](https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations) | publication | Official page |
 | 2026 | [COMEM: Context management with A decoupled long-context model](https://www.amazon.science/publications/comem-context-management-with-a-decoupled-long-context-model) | publication | Official page |

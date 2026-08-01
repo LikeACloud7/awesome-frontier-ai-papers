@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `499`
-- Latest: `2026-07-21`
+- Papers: `500`
+- Latest: `2026-07-27`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-27 | [AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars](https://arxiv.org/abs/2607.24013) | preprint | OpenAlex |
 | 2026-07-21 | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |
 | 2026-07-21 | [Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](https://arxiv.org/abs/2607.19219) | preprint | OpenAlex |
 | 2026-07-18 | [Perplexity-Guided Interest Generation with Dual-Feedback Alignment for LLM-based Recommendation](https://doi.org/10.1007/978-981-92-3391-5_20) | conference-paper | OpenAlex |

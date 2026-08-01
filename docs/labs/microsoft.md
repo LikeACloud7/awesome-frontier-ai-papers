@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1806`
+- Papers: `1807`
 - Latest: `2026-07-29`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
+| 2026-07-29 | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
 | 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
 | 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
 | 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |

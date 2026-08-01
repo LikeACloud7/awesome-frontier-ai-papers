@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `449`
+- Papers: `452`
 - Latest: `2026-07-30`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -14,7 +14,10 @@
 | 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
 | 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
 | 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
+| 2026-07-24 | [Invariant Discovery for Networked Systems](https://arxiv.org/abs/2607.22944) | preprint | OpenAlex |
+| 2026-07-24 | [Frustratingly Simple Black-Box Adaptation of Language Models via Logit Bias](https://arxiv.org/abs/2607.22837) | preprint | OpenAlex |
 | 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
+| 2026-07-24 | [Beyond Shapley: An Influence-Based Data Auditing Pipeline for LLM Alignment and Evaluation](https://arxiv.org/abs/2607.22766) | preprint | OpenAlex |
 | 2026-07-22 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](https://arxiv.org/abs/2607.20268) | preprint | OpenAlex |
 | 2026-07-21 | [Gemini 3.6 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-6-flash/) | model_card | Official page |
 | 2026-07-21 | [Gemini 3.5 Flash-Lite Model Card](https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/) | model_card | Official page |
