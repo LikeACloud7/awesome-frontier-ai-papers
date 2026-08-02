@@ -4,24 +4,24 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-01T06:13:31+00:00`
-- Coverage: `6432` papers across `19` labs since 2024
+- Last generated: `2026-08-02T06:15:42+00:00`
+- Coverage: `6437` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 768 | 2026-08-01 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 452 | 2026-07-30 | [all papers](docs/labs/google-deepmind.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 451 | 2026-07-30 | [all papers](docs/labs/huawei-noah.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1807 | 2026-07-29 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1808 | 2026-07-31 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 452 | 2026-07-31 | [all papers](docs/labs/huawei-noah.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 249 | 2026-07-31 | [all papers](docs/labs/nvidia.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 453 | 2026-07-30 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 405 | 2026-07-28 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 55 | 2026-07-28 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 35 | 2026-07-28 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 500 | 2026-07-27 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1074 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 247 | 2026-07-22 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 282 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 146 | 2026-07-17 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
@@ -36,8 +36,12 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-08-01 | Tencent/Hunyuan | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
+| 2026-07-31 | Huawei/Noah | [Systematic Survey of Large Language Model Evaluation: Methods, Benchmarks, and Comprehensive Taxonomic Framework](https://doi.org/10.1007/s44196-026-01490-x) | article | OpenAlex |
+| 2026-07-31 | Microsoft | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
+| 2026-07-31 | NVIDIA | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
 | 2026-07-30 | Google/DeepMind | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
 | 2026-07-30 | Google/DeepMind | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
+| 2026-07-30 | NVIDIA | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
 | 2026-07-30 | Huawei/Noah | [Prompt and sequential selection transfer based large language model for traffic prediction with limited data](https://doi.org/10.1016/j.tre.2026.105128) | article | OpenAlex |
 | 2026-07-29 | Microsoft | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
 | 2026-07-29 | Google/DeepMind | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
@@ -51,10 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-27 | Apple | [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](https://arxiv.org/abs/2607.24688) | preprint | OpenAlex |
 | 2026-07-27 | Alibaba/Qwen | [AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars](https://arxiv.org/abs/2607.24013) | preprint | OpenAlex |
 | 2026-07-27 | Huawei/Noah | [ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning](https://arxiv.org/abs/2607.24062) | preprint | OpenAlex |
-| 2026-07-26 | Microsoft | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
-| 2026-07-26 | Moonshot/Kimi | [PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models](https://huggingface.co/papers/2607.24957) | technical-report | Official page |
-| 2026-07-26 | Moonshot/Kimi | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page |
-| 2026-07-26 | Tencent/Hunyuan | [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | technical-report | Official page |
 
 ## Papers By Lab
 
@@ -77,46 +77,13 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 More: [760 additional papers](docs/labs/tencent-hunyuan.md)
 
-### 🇺🇸 Google/DeepMind
-
-`452` papers · latest `2026-07-30` · [full list](docs/labs/google-deepmind.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
-| 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
-| 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
-| 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
-| 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
-| 2026-07-24 | [Invariant Discovery for Networked Systems](https://arxiv.org/abs/2607.22944) | preprint | OpenAlex |
-| 2026-07-24 | [Frustratingly Simple Black-Box Adaptation of Language Models via Logit Bias](https://arxiv.org/abs/2607.22837) | preprint | OpenAlex |
-| 2026-07-24 | [Capable language models can outgrow the benefits of collaboration](https://doi.org/10.1038/s42256-026-01268-y) | article | OpenAlex |
-
-More: [444 additional papers](docs/labs/google-deepmind.md)
-
-### 🇨🇳 Huawei/Noah
-
-`451` papers · latest `2026-07-30` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-30 | [Prompt and sequential selection transfer based large language model for traffic prediction with limited data](https://doi.org/10.1016/j.tre.2026.105128) | article | OpenAlex |
-| 2026-07-27 | [ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning](https://arxiv.org/abs/2607.24062) | preprint | OpenAlex |
-| 2026-07-17 | [Hessian-Aware Zeroth-Order Optimization for Quantized Large Language Models](https://doi.org/10.1007/978-981-92-3394-6_33) | conference-paper | OpenAlex |
-| 2026-07-15 | [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609) | conference-paper | OpenAlex |
-| 2026-07-15 | [M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets](http://arxiv.org/abs/2509.15549) | conference-paper | OpenAlex |
-| 2026-07-15 | [FollowTable: A Benchmark for Instruction-Following Table Retrieval](https://arxiv.org/abs/2605.00400) | conference-paper | OpenAlex |
-| 2026-07-14 | [Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data](https://huggingface.co/papers/2607.13927) | technical-report | Official page |
-| 2026-07-12 | [Adaptive Depth Sparse Framework: Similarity-Driven Resource Allocation for Pre-Trained LLMs](https://doi.org/10.1007/978-981-92-3447-9_43) | book-chapter | OpenAlex |
-
-More: [443 additional papers](docs/labs/huawei-noah.md)
-
 ### 🇺🇸 Microsoft
 
-`1807` papers · latest `2026-07-29` · [full list](docs/labs/microsoft.md)
+`1808` papers · latest `2026-07-31` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-31 | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
 | 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
 | 2026-07-29 | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
 | 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
@@ -124,9 +91,59 @@ More: [443 additional papers](docs/labs/huawei-noah.md)
 | 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
 | 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-22 | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
-| 2026-07-21 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](https://www.microsoft.com/en-us/research/publication/lakequest-a-three-domain-benchmark-for-grounded-question-answering-across-data-lakes/) | publication | Official page |
 
-More: [1799 additional papers](docs/labs/microsoft.md)
+More: [1800 additional papers](docs/labs/microsoft.md)
+
+### 🇨🇳 Huawei/Noah
+
+`452` papers · latest `2026-07-31` · [full list](docs/labs/huawei-noah.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-31 | [Systematic Survey of Large Language Model Evaluation: Methods, Benchmarks, and Comprehensive Taxonomic Framework](https://doi.org/10.1007/s44196-026-01490-x) | article | OpenAlex |
+| 2026-07-30 | [Prompt and sequential selection transfer based large language model for traffic prediction with limited data](https://doi.org/10.1016/j.tre.2026.105128) | article | OpenAlex |
+| 2026-07-27 | [ACRL: Adaptive Control of Training-Inference Discrepancy for Stable Reinforcement Learning](https://arxiv.org/abs/2607.24062) | preprint | OpenAlex |
+| 2026-07-17 | [Hessian-Aware Zeroth-Order Optimization for Quantized Large Language Models](https://doi.org/10.1007/978-981-92-3394-6_33) | conference-paper | OpenAlex |
+| 2026-07-15 | [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609) | conference-paper | OpenAlex |
+| 2026-07-15 | [M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets](http://arxiv.org/abs/2509.15549) | conference-paper | OpenAlex |
+| 2026-07-15 | [FollowTable: A Benchmark for Instruction-Following Table Retrieval](https://arxiv.org/abs/2605.00400) | conference-paper | OpenAlex |
+| 2026-07-14 | [Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data](https://huggingface.co/papers/2607.13927) | technical-report | Official page |
+
+More: [444 additional papers](docs/labs/huawei-noah.md)
+
+### 🇺🇸 NVIDIA
+
+`249` papers · latest `2026-07-31` · [full list](docs/labs/nvidia.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-31 | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
+| 2026-07-30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
+| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
+| 2026-07-16 | [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://doi.org/10.1145/3799902.3811190) | conference-paper | OpenAlex |
+| 2026-07-16 | [GPC: Large-Scale Generative Pretraining for Transferable Motor Control](https://doi.org/10.1145/3799902.3811038) | conference-paper | OpenAlex |
+| 2026-07-16 | [ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models](https://doi.org/10.1145/3799902.3811060) | conference-paper | OpenAlex |
+| 2026-07-03 | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
+| 2026-07-02 | [GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of AI-Generated Data for Interactive Health Systems](https://doi.org/10.1145/3786579.3799790) | article | OpenAlex |
+
+More: [241 additional papers](docs/labs/nvidia.md)
+
+### 🇺🇸 Google/DeepMind
+
+`453` papers · latest `2026-07-30` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
+| 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
+| 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
+| 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
+| 2026-07-26 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865) | preprint | OpenAlex |
+| 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
+| 2026-07-24 | [Invariant Discovery for Networked Systems](https://arxiv.org/abs/2607.22944) | preprint | OpenAlex |
+| 2026-07-24 | [Frustratingly Simple Black-Box Adaptation of Language Models via Logit Bias](https://arxiv.org/abs/2607.22837) | preprint | OpenAlex |
+
+More: [445 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Apple
 
@@ -229,23 +246,6 @@ More: [12 additional papers](docs/labs/moonshot-kimi.md)
 | 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
 
 More: [1066 additional papers](docs/labs/amazon.md)
-
-### 🇺🇸 NVIDIA
-
-`247` papers · latest `2026-07-22` · [full list](docs/labs/nvidia.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
-| 2026-07-16 | [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://doi.org/10.1145/3799902.3811190) | conference-paper | OpenAlex |
-| 2026-07-16 | [GPC: Large-Scale Generative Pretraining for Transferable Motor Control](https://doi.org/10.1145/3799902.3811038) | conference-paper | OpenAlex |
-| 2026-07-16 | [ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models](https://doi.org/10.1145/3799902.3811060) | conference-paper | OpenAlex |
-| 2026-07-03 | [MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](https://doi.org/10.1145/3811334) | article | OpenAlex |
-| 2026-07-02 | [GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of AI-Generated Data for Interactive Health Systems](https://doi.org/10.1145/3786579.3799790) | article | OpenAlex |
-| 2026-07-01 | [Auto-FL-Research: Agentic Search for Federated Learning Algorithms](https://arxiv.org/abs/2607.01366) | preprint | OpenAlex |
-| 2026-07 | [Understanding Emergent Non-Verbal Communication in the Delta Force Competitive Video Game through Multimodal AI Analysis](https://research.nvidia.com/publication/2026-07_understanding-emergent-non-verbal-communication-delta-force-competitive-video) | publication | Official page |
-
-More: [239 additional papers](docs/labs/nvidia.md)
 
 ### 🇨🇳 Baidu
 

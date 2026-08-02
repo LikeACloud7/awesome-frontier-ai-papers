@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `452`
+- Papers: `453`
 - Latest: `2026-07-30`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -13,6 +13,7 @@
 | 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
 | 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
 | 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
+| 2026-07-26 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865) | preprint | OpenAlex |
 | 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
 | 2026-07-24 | [Invariant Discovery for Networked Systems](https://arxiv.org/abs/2607.22944) | preprint | OpenAlex |
 | 2026-07-24 | [Frustratingly Simple Black-Box Adaptation of Language Models via Logit Bias](https://arxiv.org/abs/2607.22837) | preprint | OpenAlex |

@@ -1,14 +1,16 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `247`
-- Latest: `2026-07-22`
+- Papers: `249`
+- Latest: `2026-07-31`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-31 | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
+| 2026-07-30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
 | 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
 | 2026-07-16 | [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://doi.org/10.1145/3799902.3811190) | conference-paper | OpenAlex |
 | 2026-07-16 | [GPC: Large-Scale Generative Pretraining for Transferable Motor Control](https://doi.org/10.1145/3799902.3811038) | conference-paper | OpenAlex |
