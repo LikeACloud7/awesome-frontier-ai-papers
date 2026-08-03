@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `768`
+- Papers: `771`
 - Latest: `2026-08-01`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -10,6 +10,9 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-01 | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
+| 2026-07-31 | [Prompting Beyond Pairs: Decoupled Semantic Supervision for Knowledge-Guided Multiplex Virtual Staining](https://doi.org/10.64898/2026.07.31.741995) | preprint | OpenAlex |
+| 2026-07-29 | [WikiLoop: Jointly Learning to Build and Navigate Agent-Native Wikis with Downstream Feedback](https://arxiv.org/abs/2607.26604) | preprint | OpenAlex |
+| 2026-07-28 | [AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding](https://arxiv.org/abs/2607.25852) | preprint | OpenAlex |
 | 2026-07-26 | [A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://huggingface.co/papers/2607.24223) | technical-report | Official page |
 | 2026-07-25 | [Spatial-channel feature fusion transformer for multimodal tumor delineation](https://doi.org/10.1016/j.asoc.2026.116086) | article | OpenAlex |
 | 2026-07-23 | [Scaling Native Multimodal Pre-Training From Scratch](https://huggingface.co/papers/2607.22043) | technical-report | Official page |
