@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1074`
-- Latest: `2026-07-22`
+- Papers: `1076`
+- Latest: `2026-07-29`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-29 | [Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models](https://arxiv.org/abs/2607.27506) | preprint | OpenAlex |
 | 2026-07-22 | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
 | 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
 | 2026-07-15 | [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](https://arxiv.org/abs/2607.14386) | preprint | OpenAlex |
@@ -166,6 +167,7 @@
 | 2026 | [Agent-Ops: A multi-agent orchestration framework for end-to-end SOP automation in e-commerce operations](https://www.amazon.science/publications/agent-ops-a-multi-agent-orchestration-framework-for-end-to-end-sop-automation-in-e-commerce-operations) | publication | Official page |
 | 2026 | [A framework for prompt optimization and translation across foundation models](https://www.amazon.science/publications/a-framework-for-prompt-optimization-and-translation-across-foundation-models) | publication | Official page |
 | 2026 | [Zodiac — Zero-inflated overshoot controlled dual-head integration for asymmetric cross-domain forecasting](https://www.amazon.science/publications/zodiac-zero-inflated-overshoot-controlled-dual-head-integration-for-asymmetric-cross-domain-forecasting) | publication | Official page |
+| 2026 | [Zero-shot Bayesian optimization with TabPFN: Competitive with state-of-the-art without per-task training](https://www.amazon.science/publications/zero-shot-bayesian-optimization-with-tabpfn-competitive-with-state-of-the-art-without-per-task-training) | publication | Official page |
 | 2026 | [When thoughts meet facts: Reusable reasoning for long-context LMs](https://www.amazon.science/publications/when-thoughts-meet-facts-reusable-reasoning-for-long-context-lms) | publication | Official page |
 | 2026 | [When speed meets intelligence: Scalable conversational NER in an ever-evolving world](https://www.amazon.science/publications/when-speed-meets-intelligence-scalable-conversational-ner-in-an-ever-evolving-world) | publication | Official page |
 | 2026 | [When LLMs read tables carelessly: Measuring and reducing data referencing errors](https://www.amazon.science/publications/when-llms-read-tables-carelessly-measuring-and-reducing-data-referencing-errors) | publication | Official page |

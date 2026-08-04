@@ -4,26 +4,26 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-03T06:40:35+00:00`
-- Coverage: `6442` papers across `19` labs since 2024
+- Last generated: `2026-08-04T06:08:28+00:00`
+- Coverage: `6450` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Apple](#apple) | 406 | 2026-08-03 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1810 | 2026-08-02 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 456 | 2026-08-02 | [all papers](docs/labs/google-deepmind.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 771 | 2026-08-01 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 453 | 2026-08-01 | [all papers](docs/labs/huawei-noah.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1808 | 2026-07-31 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 249 | 2026-07-31 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 454 | 2026-07-30 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [Apple](#apple) | 405 | 2026-07-28 | [all papers](docs/labs/apple.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 147 | 2026-07-30 | [all papers](docs/labs/meta-fair.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1076 | 2026-07-29 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 55 | 2026-07-28 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 35 | 2026-07-28 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 500 | 2026-07-27 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1074 | 2026-07-22 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 282 | 2026-07-21 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 146 | 2026-07-17 | [all papers](docs/labs/meta-fair.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 149 | 2026-07-05 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 25 | 2026-07 | [all papers](docs/labs/stepfun.md) |
@@ -35,6 +35,9 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-08-03 | Apple | [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://machinelearning.apple.com/research/alignment-multimodal-llms) | publication | Official page |
+| 2026-08-02 | Google/DeepMind | [HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194) | conference-paper | OpenAlex |
+| 2026-08-02 | Microsoft | [Differentially Private Datastore Generation for Retrieval-Augmented Inference](https://doi.org/10.1007/978-3-032-31930-2_42) | conference-paper | OpenAlex |
 | 2026-08-01 | Huawei/Noah | [REVERIE+: Generalized Reflective Instruction Tuning for Hallucination Mitigation in Advanced VLMs](https://doi.org/10.1007/s11263-026-02945-6) | article | OpenAlex |
 | 2026-08-01 | Tencent/Hunyuan | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
 | 2026-07-31 | Huawei/Noah | [Systematic Survey of Large Language Model Evaluation: Methods, Benchmarks, and Comprehensive Taxonomic Framework](https://doi.org/10.1007/s44196-026-01490-x) | article | OpenAlex |
@@ -44,21 +47,69 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-07-30 | Google/DeepMind | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
 | 2026-07-30 | Google/DeepMind | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
 | 2026-07-30 | NVIDIA | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
+| 2026-07-30 | Meta/FAIR | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
 | 2026-07-30 | Huawei/Noah | [Prompt and sequential selection transfer based large language model for traffic prediction with limited data](https://doi.org/10.1016/j.tre.2026.105128) | article | OpenAlex |
+| 2026-07-30 | Google/DeepMind | [Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study](https://arxiv.org/abs/2607.27577) | preprint | OpenAlex |
 | 2026-07-29 | Microsoft | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
 | 2026-07-29 | Google/DeepMind | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
 | 2026-07-29 | Tencent/Hunyuan | [WikiLoop: Jointly Learning to Build and Navigate Agent-Native Wikis with Downstream Feedback](https://arxiv.org/abs/2607.26604) | preprint | OpenAlex |
+| 2026-07-29 | Amazon | [Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models](https://arxiv.org/abs/2607.27506) | preprint | OpenAlex |
 | 2026-07-29 | Microsoft | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
-| 2026-07-29 | Google/DeepMind | [ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369) | preprint | OpenAlex |
-| 2026-07-29 | Google/DeepMind | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
-| 2026-07-28 | Anthropic | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | publication | Official page |
-| 2026-07-28 | Apple | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
-| 2026-07-28 | Tencent/Hunyuan | [AngelSpec: Towards Real-World High Performance Inference with Speculative Decoding](https://arxiv.org/abs/2607.25852) | preprint | OpenAlex |
-| 2026-07-28 | OpenAI | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Apple
+
+`406` papers · latest `2026-08-03` · [full list](docs/labs/apple.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-03 | [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://machinelearning.apple.com/research/alignment-multimodal-llms) | publication | Official page |
+| 2026-07-28 | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
+| 2026-07-27 | [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](https://arxiv.org/abs/2607.24688) | preprint | OpenAlex |
+| 2026-07-24 | [LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning](https://machinelearning.apple.com/research/lead-no-recovery-bottleneck) | publication | Official page |
+| 2026-07-21 | [Environment-free Synthetic Data Generation for API-Calling Agents](https://machinelearning.apple.com/research/environment-free) | publication | Official page |
+| 2026-07-21 | [Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://machinelearning.apple.com/research/calibrated-sparse-attention) | publication | Official page |
+| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
+| 2026-07-20 | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
+
+More: [398 additional papers](docs/labs/apple.md)
+
+### 🇺🇸 Microsoft
+
+`1810` papers · latest `2026-08-02` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-02 | [Differentially Private Datastore Generation for Retrieval-Augmented Inference](https://doi.org/10.1007/978-3-032-31930-2_42) | conference-paper | OpenAlex |
+| 2026-07-31 | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
+| 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
+| 2026-07-29 | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
+| 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
+| 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
+| 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
+| 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
+
+More: [1802 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Google/DeepMind
+
+`456` papers · latest `2026-08-02` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-02 | [HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194) | conference-paper | OpenAlex |
+| 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
+| 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
+| 2026-07-30 | [Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study](https://arxiv.org/abs/2607.27577) | preprint | OpenAlex |
+| 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
+| 2026-07-29 | [ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369) | preprint | OpenAlex |
+| 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
+| 2026-07-26 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865) | preprint | OpenAlex |
+
+More: [448 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
@@ -94,23 +145,6 @@ More: [763 additional papers](docs/labs/tencent-hunyuan.md)
 
 More: [445 additional papers](docs/labs/huawei-noah.md)
 
-### 🇺🇸 Microsoft
-
-`1808` papers · latest `2026-07-31` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-31 | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
-| 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
-| 2026-07-29 | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
-| 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
-| 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
-| 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
-| 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
-| 2026-07-22 | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
-
-More: [1800 additional papers](docs/labs/microsoft.md)
-
 ### 🇺🇸 NVIDIA
 
 `249` papers · latest `2026-07-31` · [full list](docs/labs/nvidia.md)
@@ -128,39 +162,39 @@ More: [1800 additional papers](docs/labs/microsoft.md)
 
 More: [241 additional papers](docs/labs/nvidia.md)
 
-### 🇺🇸 Google/DeepMind
+### 🇺🇸 Meta/FAIR
 
-`454` papers · latest `2026-07-30` · [full list](docs/labs/google-deepmind.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
-| 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
-| 2026-07-29 | [Lyria 3.5 Model Card](https://deepmind.google/models/model-cards/lyria-3-5/) | model_card | Official page |
-| 2026-07-29 | [ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369) | preprint | OpenAlex |
-| 2026-07-29 | [Bridging language and action: A survey of language-conditioned robot manipulation](https://doi.org/10.1177/02783649261468360) | article | OpenAlex |
-| 2026-07-26 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865) | preprint | OpenAlex |
-| 2026-07-26 | [Impact of user tonalities on coding AI model performance and behavior](https://doi.org/10.1007/s44163-026-01863-3) | article | OpenAlex |
-| 2026-07-24 | [Invariant Discovery for Networked Systems](https://arxiv.org/abs/2607.22944) | preprint | OpenAlex |
-
-More: [446 additional papers](docs/labs/google-deepmind.md)
-
-### 🇺🇸 Apple
-
-`405` papers · latest `2026-07-28` · [full list](docs/labs/apple.md)
+`147` papers · latest `2026-07-30` · [full list](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-07-28 | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
-| 2026-07-27 | [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](https://arxiv.org/abs/2607.24688) | preprint | OpenAlex |
-| 2026-07-24 | [LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning](https://machinelearning.apple.com/research/lead-no-recovery-bottleneck) | publication | Official page |
-| 2026-07-21 | [Environment-free Synthetic Data Generation for API-Calling Agents](https://machinelearning.apple.com/research/environment-free) | publication | Official page |
-| 2026-07-21 | [Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://machinelearning.apple.com/research/calibrated-sparse-attention) | publication | Official page |
-| 2026-07-21 | [IndicMedQA: Multimodal Medical Query Analysis in Indian Languages](https://doi.org/10.1145/3833083) | article | OpenAlex |
-| 2026-07-20 | [Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://machinelearning.apple.com/research/length-value-model) | publication | Official page |
-| 2026-07-20 | [LVSum: A Benchmark for Timestamp-Aware Long Video Summarization](https://machinelearning.apple.com/research/lvsum-video-summarization) | publication | Official page |
+| 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
+| 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |
+| 2026-07-17 | [Evaluating AI models’ capability to automate voice phishing attacks](https://doi.org/10.1016/j.eswa.2026.133620) | article | OpenAlex |
+| 2026-07-16 | [LLM-MVR: LLM-Guided Multi-view Reasoning Distillation for Sarcasm Detection](https://doi.org/10.1007/978-981-92-3551-3_17) | conference-paper | OpenAlex |
+| 2026-07-15 | [CMSL: Constructive Multi-Sequence Learning for Recommendation Systems](https://doi.org/10.1145/3805712.3808426) | conference-paper | OpenAlex |
+| 2026-07-15 | [A General Framework for Multimodal LLM-Based Multimedia Understanding in Large-Scale Recommendation Systems](https://arxiv.org/abs/2605.09338) | conference-paper | OpenAlex |
+| 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
+| 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
 
-More: [397 additional papers](docs/labs/apple.md)
+More: [139 additional papers](docs/labs/meta-fair.md)
+
+### 🇺🇸 Amazon
+
+`1076` papers · latest `2026-07-29` · [full list](docs/labs/amazon.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-07-29 | [Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models](https://arxiv.org/abs/2607.27506) | preprint | OpenAlex |
+| 2026-07-22 | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
+| 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
+| 2026-07-15 | [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](https://arxiv.org/abs/2607.14386) | preprint | OpenAlex |
+| 2026-07-14 | [The GRACE Cycle: A General Large-Language-Model Framework for Phenotype Discovery with Unknown Cluster Number](https://doi.org/10.21203/rs.3.rs-10048424/v1) | preprint | OpenAlex |
+| 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
+| 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
+| 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
+
+More: [1068 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 OpenAI
 
@@ -230,23 +264,6 @@ More: [492 additional papers](docs/labs/alibaba-qwen.md)
 
 More: [12 additional papers](docs/labs/moonshot-kimi.md)
 
-### 🇺🇸 Amazon
-
-`1074` papers · latest `2026-07-22` · [full list](docs/labs/amazon.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-22 | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
-| 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
-| 2026-07-15 | [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](https://arxiv.org/abs/2607.14386) | preprint | OpenAlex |
-| 2026-07-14 | [The GRACE Cycle: A General Large-Language-Model Framework for Phenotype Discovery with Unknown Cluster Number](https://doi.org/10.21203/rs.3.rs-10048424/v1) | preprint | OpenAlex |
-| 2026-07-10 | [Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps](https://arxiv.org/abs/2607.00004) | article | OpenAlex |
-| 2026-07-10 | [Temporal Information Retrieval and Extraction: From Foundations to RAG](https://doi.org/10.1145/3805712.3808638) | article | OpenAlex |
-| 2026-07-10 | [Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items](http://arxiv.org/abs/2507.22268) | article | OpenAlex |
-| 2026-07-09 | [Super Weights in LLMs and the Failure of Selective Training](https://arxiv.org/abs/2607.08733) | preprint | Official page |
-
-More: [1066 additional papers](docs/labs/amazon.md)
-
 ### 🇨🇳 Baidu
 
 `282` papers · latest `2026-07-21` · [full list](docs/labs/baidu.md)
@@ -263,23 +280,6 @@ More: [1066 additional papers](docs/labs/amazon.md)
 | 2026-07-10 | [Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning](https://doi.org/10.1145/3805712.3809695) | article | OpenAlex |
 
 More: [274 additional papers](docs/labs/baidu.md)
-
-### 🇺🇸 Meta/FAIR
-
-`146` papers · latest `2026-07-17` · [full list](docs/labs/meta-fair.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |
-| 2026-07-17 | [Evaluating AI models’ capability to automate voice phishing attacks](https://doi.org/10.1016/j.eswa.2026.133620) | article | OpenAlex |
-| 2026-07-16 | [LLM-MVR: LLM-Guided Multi-view Reasoning Distillation for Sarcasm Detection](https://doi.org/10.1007/978-981-92-3551-3_17) | conference-paper | OpenAlex |
-| 2026-07-15 | [CMSL: Constructive Multi-Sequence Learning for Recommendation Systems](https://doi.org/10.1145/3805712.3808426) | conference-paper | OpenAlex |
-| 2026-07-15 | [A General Framework for Multimodal LLM-Based Multimedia Understanding in Large-Scale Recommendation Systems](https://arxiv.org/abs/2605.09338) | conference-paper | OpenAlex |
-| 2026-07-14 | [LLM-Driven Usefulness Judgment for Web Search Evaluation](https://doi.org/10.1145/3805713.3820429) | conference-paper | OpenAlex |
-| 2026-07-10 | [LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation](https://doi.org/10.1145/3805712.3808498) | article | OpenAlex |
-| 2026-07-05 | [Wink: Recovering from Misbehaviors in Coding Agents](https://doi.org/10.1145/3805760.3814911) | article | OpenAlex |
-
-More: [138 additional papers](docs/labs/meta-fair.md)
 
 ### 🇨🇳 DeepSeek
 

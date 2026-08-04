@@ -1,14 +1,15 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `146`
-- Latest: `2026-07-17`
+- Papers: `147`
+- Latest: `2026-07-30`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
 | 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |
 | 2026-07-17 | [Evaluating AI models’ capability to automate voice phishing attacks](https://doi.org/10.1016/j.eswa.2026.133620) | article | OpenAlex |
 | 2026-07-16 | [LLM-MVR: LLM-Guided Multi-view Reasoning Distillation for Sarcasm Detection](https://doi.org/10.1007/978-981-92-3551-3_17) | conference-paper | OpenAlex |
