@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1810`
+- Papers: `1811`
 - Latest: `2026-08-02`
 - [Back to README](../../README.md#microsoft)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-08-02 | [Differentially Private Datastore Generation for Retrieval-Augmented Inference](https://doi.org/10.1007/978-3-032-31930-2_42) | conference-paper | OpenAlex |
 | 2026-07-31 | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
+| 2026-07-30 | [Agentic Coding in the Wild: Characterizing GitHub Copilot at Production Scale](https://www.microsoft.com/en-us/research/publication/agentic-coding-in-the-wild-characterizing-github-copilot-at-production-scale/) | publication | Official page |
 | 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |
 | 2026-07-29 | [Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling](http://arxiv.org/abs/2504.09544) | article | OpenAlex |
 | 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |

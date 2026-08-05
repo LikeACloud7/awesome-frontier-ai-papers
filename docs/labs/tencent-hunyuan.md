@@ -1,14 +1,16 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `771`
-- Latest: `2026-08-01`
+- Papers: `773`
+- Latest: `2026-08-03`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-03 | [SkillJack: Persistent Skill Backdoors in Self-Evolving Agents](https://huggingface.co/papers/2608.03509) | technical-report | Official page |
+| 2026-08-02 | [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | technical-report | Official page |
 | 2026-08-01 | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
 | 2026-07-31 | [Prompting Beyond Pairs: Decoupled Semantic Supervision for Knowledge-Guided Multiplex Virtual Staining](https://doi.org/10.64898/2026.07.31.741995) | preprint | OpenAlex |
 | 2026-07-29 | [WikiLoop: Jointly Learning to Build and Navigate Agent-Native Wikis with Downstream Feedback](https://arxiv.org/abs/2607.26604) | preprint | OpenAlex |
