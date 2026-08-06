@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1811`
+- Papers: `1814`
 - Latest: `2026-08-02`
 - [Back to README](../../README.md#microsoft)
 
@@ -17,6 +17,9 @@
 | 2026-07-27 | [From Robotic Process Automation to Agentic AI: A Systematic Review, Taxonomy, and Capability Assessment Framework for Intelligent Automation in Enterprise Accounting](https://doi.org/10.65890/dmp-lncse.iciccs26.216) | review | OpenAlex |
 | 2026-07-26 | [ERR@HRI 3.0 Challenge: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/) | publication | Official page |
 | 2026-07-24 | [Bridging Retrieval Performance and Learning Outcomes: An Integrated Offline and Online Evaluation Framework for Retrieval-Augmented AI in Higher Education](https://doi.org/10.21203/rs.3.rs-10450709/v1) | preprint | OpenAlex |
+| 2026-07-23 | [OpenForgeRL: Train Harness-native Agents in Any Environment](https://www.microsoft.com/en-us/research/publication/openforgerl-train-harness-native-agents-in-any-environment/) | publication | Official page |
+| 2026-07-23 | [VibeVoice-ASR-BitNet Technical Report](https://www.microsoft.com/en-us/research/publication/vibevoice-asr-bitnet-technical-report/) | publication | Official page |
+| 2026-07-23 | [The Evolution of Digital Search: From Blue Links to Delegated Decision-Making](https://www.microsoft.com/en-us/research/publication/the-evolution-of-digital-search-from-blue-links-to-delegated-decision-making/) | publication | Official page |
 | 2026-07-23 | [LLMs Get Lost in Evolving User Intent](https://www.microsoft.com/en-us/research/publication/llms-get-lost-in-evolving-user-intent/) | publication | Official page |
 | 2026-07-22 | [Auto-Fill: Learning to Predict Missing Values Accurately with Specialist Language Models](https://arxiv.org/abs/2607.19847) | preprint | OpenAlex |
 | 2026-07-21 | [The Price of Hidden Curvature: An Ω˜(d5/4T−−√) Lower Bound for Bandit Convex Optimization](https://www.microsoft.com/en-us/research/publication/the-price-of-hidden-curvature-an-widetilde%cf%89-d5-4-sqrtt-lower-bound-for-bandit-convex-optimization/) | publication | Official page |

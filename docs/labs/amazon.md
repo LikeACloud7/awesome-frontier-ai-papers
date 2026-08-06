@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1076`
-- Latest: `2026-07-29`
+- Papers: `1078`
+- Latest: `2026-08-04`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-04 | [Merge-Bench: Resolve Merge Conflicts with Large Language Models](https://doi.org/10.1007/978-3-032-31397-3_41) | conference-paper | OpenAlex |
 | 2026-07-29 | [Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models](https://arxiv.org/abs/2607.27506) | preprint | OpenAlex |
 | 2026-07-22 | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
 | 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |
@@ -317,6 +318,7 @@
 | 2026 | [ARES: Adaptive red-teaming and end-to-end repair of policy-reward system](https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system) | publication | Official page |
 | 2026 | [A neurosymbolic approach to natural language formalization and verification](https://www.amazon.science/publications/a-neurosymbolic-approach-to-natural-language-formalization-and-verification) | publication | Official page |
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains) | publication | Official page |
+| 2026 | [Trace: TRajectory attribution for automated context engineering](https://www.amazon.science/publications/trace-trajectory-attribution-for-automated-context-engineering) | publication | Official page |
 | 2026 | [Knowing when to ask: Self-gated clarification for hierarchical language agents](https://www.amazon.science/publications/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents) | publication | Official page |
 | 2026 | [Evaluation pitfalls and sparsity limitations in LLM-based confidence estimates for classification](https://www.amazon.science/publications/evaluation-pitfalls-and-sparsity-limitations-in-llm-based-confidence-estimates-for-classification) | publication | Official page |
 

@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `406`
-- Latest: `2026-08-03`
+- Papers: `407`
+- Latest: `2026-08-05`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-05 | [Taming Outlier Tokens in Diffusion Transformers](https://machinelearning.apple.com/research/taming-outlier-tokens) | publication | Official page |
 | 2026-08-03 | [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://machinelearning.apple.com/research/alignment-multimodal-llms) | publication | Official page |
 | 2026-07-28 | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |
 | 2026-07-27 | [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](https://arxiv.org/abs/2607.24688) | preprint | OpenAlex |

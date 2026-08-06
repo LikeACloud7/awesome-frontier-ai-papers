@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `457`
+- Papers: `458`
 - Latest: `2026-08-02`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-02 | [HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194) | conference-paper | OpenAlex |
+| 2026-08-01 | [Intent-Invariant Mutation Testing: A Coverage Criterion for Large Language Model Safety Contracts](https://doi.org/10.1109/mc.2026.3696017) | article | OpenAlex |
 | 2026-07-31 | [Reproducing LightMem: Naive RAG Is Just as Good for Memory Management](https://doi.org/10.48550/arxiv.2607.29104) | preprint | OpenAlex |
 | 2026-07-30 | [Gemini Robotics-ER 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-er-2/) | model_card | Official page |
 | 2026-07-30 | [Gemini Robotics On-Device 2 Model Card](https://deepmind.google/models/model-cards/gemini-robotics-on-device-2/) | model_card | Official page |
