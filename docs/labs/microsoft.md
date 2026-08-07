@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1814`
+- Papers: `1816`
 - Latest: `2026-08-02`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-02 | [Differentially Private Datastore Generation for Retrieval-Augmented Inference](https://doi.org/10.1007/978-3-032-31930-2_42) | conference-paper | OpenAlex |
+| 2026-08-02 | [A formal model of agentic AI vulnerabilities in containerised cloud environments](https://doi.org/10.69554/jhix5712) | article | OpenAlex |
+| 2026-07-31 | [Rethinking AI Cloud Infrastructure for Agentic Serving Systems with the Aries Experimentation Framework](https://arxiv.org/abs/2607.29069) | preprint | OpenAlex |
 | 2026-07-31 | [End-to-end multimodal pathology foundation model with clinical dialogue](https://doi.org/10.1038/s41591-026-04521-4) | article | OpenAlex |
 | 2026-07-30 | [Agentic Coding in the Wild: Characterizing GitHub Copilot at Production Scale](https://www.microsoft.com/en-us/research/publication/agentic-coding-in-the-wild-characterizing-github-copilot-at-production-scale/) | publication | Official page |
 | 2026-07-29 | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://www.microsoft.com/en-us/research/publication/echoverse-deep-evolving-environments-for-training-computer-use-agents-at-scale/) | publication | Official page |

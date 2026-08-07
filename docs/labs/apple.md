@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `407`
-- Latest: `2026-08-05`
+- Papers: `409`
+- Latest: `2026-08-06`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-06 | [Locking Pretrained Weights via Deep Low-Rank Residual Distillation](https://machinelearning.apple.com/research/locking-pretrained-weights) | publication | Official page |
+| 2026-08-06 | [DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness](https://machinelearning.apple.com/research/deepambigqa-multihop-questions) | publication | Official page |
 | 2026-08-05 | [Taming Outlier Tokens in Diffusion Transformers](https://machinelearning.apple.com/research/taming-outlier-tokens) | publication | Official page |
 | 2026-08-03 | [Understanding Alignment in Multimodal LLMs: A Comprehensive Study](https://machinelearning.apple.com/research/alignment-multimodal-llms) | publication | Official page |
 | 2026-07-28 | [Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers) | publication | Official page |

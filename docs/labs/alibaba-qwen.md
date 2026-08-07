@@ -1,14 +1,16 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `500`
-- Latest: `2026-07-27`
+- Papers: `502`
+- Latest: `2026-08-04`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-04 | [GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks](https://huggingface.co/papers/2608.03764) | technical-report | Official page |
+| 2026-07-31 | [GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System](https://arxiv.org/abs/2607.29213) | preprint | OpenAlex |
 | 2026-07-27 | [AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars](https://arxiv.org/abs/2607.24013) | preprint | OpenAlex |
 | 2026-07-21 | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |
 | 2026-07-21 | [Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards](https://arxiv.org/abs/2607.19219) | preprint | OpenAlex |
