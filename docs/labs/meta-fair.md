@@ -1,14 +1,18 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `147`
-- Latest: `2026-07-30`
+- Papers: `151`
+- Latest: `2026-08-07`
 - [Back to README](../../README.md#metafair)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-07 | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
+| 2026-08-06 | [Generalizable Multi-Pass Training of Ads Recommendation Models with Foundation Model Guidance](https://doi.org/10.1145/3770855.3817809) | conference-paper | OpenAlex |
+| 2026-08-06 | [Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://doi.org/10.1145/3770855.3818322) | conference-paper | OpenAlex |
 | 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
 | 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |
 | 2026-07-17 | [Evaluating AI models’ capability to automate voice phishing attacks](https://doi.org/10.1016/j.eswa.2026.133620) | article | OpenAlex |

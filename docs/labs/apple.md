@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `409`
-- Latest: `2026-08-06`
+- Papers: `411`
+- Latest: `2026-08-07`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-07 | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
+| 2026-08-07 | [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://machinelearning.apple.com/research/arbitrage-efficient-reasoning) | publication | Official page |
 | 2026-08-06 | [Locking Pretrained Weights via Deep Low-Rank Residual Distillation](https://machinelearning.apple.com/research/locking-pretrained-weights) | publication | Official page |
 | 2026-08-06 | [DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness](https://machinelearning.apple.com/research/deepambigqa-multihop-questions) | publication | Official page |
 | 2026-08-05 | [Taming Outlier Tokens in Diffusion Transformers](https://machinelearning.apple.com/research/taming-outlier-tokens) | publication | Official page |
@@ -99,7 +101,7 @@
 | 2026-02-24 | [The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics](https://machinelearning.apple.com/research/cot) | publication | Official page |
 | 2026-02-24 | [AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://machinelearning.apple.com/research/amuse) | publication | Official page |
 | 2026-02-23 | [Learning to Evict from Key-Value Cache](https://machinelearning.apple.com/research/evict) | publication | Official page |
-| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page |
+| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page, OpenAlex |
 | 2026-02-17 | [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://machinelearning.apple.com/research/ferret-ui) | publication | Official page |
 | 2026-02-16 | [Asynchronous Verified Semantic Caching for Tiered LLM Architectures](https://machinelearning.apple.com/research/semantic-caching) | publication | Official page |
 | 2026-02-13 | [A Small-Scale System for Autoregressive Program Synthesis Enabling Controlled Experimentation](https://machinelearning.apple.com/research/controlled-experimentation) | publication | Official page |

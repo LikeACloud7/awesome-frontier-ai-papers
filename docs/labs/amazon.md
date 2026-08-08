@@ -1,15 +1,29 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1078`
-- Latest: `2026-08-04`
+- Papers: `1092`
+- Latest: `2026-08-07`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
+| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
+| 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
+| 2026-08-06 | [SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](https://doi.org/10.1145/3770855.3817807) | conference-paper | OpenAlex |
+| 2026-08-06 | [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://doi.org/10.1145/3770855.3818097) | conference-paper | OpenAlex |
+| 2026-08-06 | [<scp>LakeFM</scp> : Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data](https://arxiv.org/abs/2606.11268) | conference-paper | OpenAlex |
+| 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
+| 2026-08-04 | [Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2608.03239) | preprint | OpenAlex |
 | 2026-08-04 | [Merge-Bench: Resolve Merge Conflicts with Large Language Models](https://doi.org/10.1007/978-3-032-31397-3_41) | conference-paper | OpenAlex |
+| 2026-08-04 | [Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](https://arxiv.org/abs/2608.03272) | preprint | OpenAlex |
+| 2026-08-03 | [In-Context Collapse in Vision-Language Models and How to Mitigate it?](https://arxiv.org/abs/2608.02830) | preprint | OpenAlex |
+| 2026-08-01 | [Verifiable Checks for Business Rule Consistency](https://arxiv.org/abs/2608.00396) | preprint | OpenAlex |
+| 2026-08-01 | [Escaping Confidence Trap: Evolutionary Decoding for Mathematical Reasoning in Diffusion LLMs](https://arxiv.org/abs/2608.00605) | preprint | OpenAlex |
 | 2026-07-29 | [Models for minimalist RAG: B1ade 335M Embedding and 1B Parameter Small Language Models](https://arxiv.org/abs/2607.27506) | preprint | OpenAlex |
 | 2026-07-22 | [Same Game, Different Story: A Minimal Conservative Strategic Robustness Benchmark for Large Language Model Agents](https://arxiv.org/abs/2607.19670) | preprint | OpenAlex |
 | 2026-07-15 | [CatalogAgent: A Supervisor-Mediated Self-Learning System Enabling Context Engineering for GenAI Models](https://doi.org/10.1007/978-981-92-2759-4_9) | conference-paper | OpenAlex |

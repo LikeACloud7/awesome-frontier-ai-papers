@@ -1,14 +1,23 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `458`
-- Latest: `2026-08-02`
+- Papers: `468`
+- Latest: `2026-08-07`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
+| 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |
+| 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
+| 2026-08-04 | [TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391) | preprint | OpenAlex |
+| 2026-08-04 | [TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning](https://arxiv.org/abs/2608.03276) | preprint | OpenAlex |
+| 2026-08-04 | [Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference](https://arxiv.org/abs/2608.03867) | preprint | OpenAlex |
+| 2026-08-04 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](https://arxiv.org/abs/2608.03958) | preprint | OpenAlex |
+| 2026-08-03 | [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](https://arxiv.org/abs/2608.02491) | preprint | OpenAlex |
 | 2026-08-02 | [HueManity: Probing Fine-Grained Visual Perception in MLLMs](http://arxiv.org/abs/2506.03194) | conference-paper | OpenAlex |
 | 2026-08-01 | [Intent-Invariant Mutation Testing: A Coverage Criterion for Large Language Model Safety Contracts](https://doi.org/10.1109/mc.2026.3696017) | article | OpenAlex |
 | 2026-07-31 | [Reproducing LightMem: Naive RAG Is Just as Good for Memory Management](https://doi.org/10.48550/arxiv.2607.29104) | preprint | OpenAlex |
@@ -160,6 +169,7 @@
 | 2026-02-20 | [Synergetic Adaptive Orchestration and Governance: A Unified Framework for Production-Grade Multi-Agent Systems](https://doi.org/10.1109/southeastcon63549.2026.11476668) | article | OpenAlex |
 | 2026-02-19 | [Gemini 3.1 Pro Model Card](https://deepmind.google/models/model-cards/gemini-3-1-pro/) | model_card | Official page |
 | 2026-02-19 | [A Theoretical Framework for Modular Learning of Robust Generative Models](http://arxiv.org/abs/2602.17554) | article | OpenAlex |
+| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page, OpenAlex |
 | 2026-02-18 | [Lyria 3 Model Card](https://deepmind.google/models/model-cards/lyria-3/) | model_card | Official page |
 | 2026-02-16 | [Third Workshop on Generative AI for Recommender Systems and Personalization](https://doi.org/10.1145/3773966.3778018) | article | OpenAlex |
 | 2026-02-16 | [The Future of Personalized Universal Assistant](https://doi.org/10.1145/3773966.3778027) | article | OpenAlex |

@@ -1,20 +1,43 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `780`
-- Latest: `2026-08-04`
+- Papers: `803`
+- Latest: `2026-08-07`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-07 | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
+| 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
+| 2026-08-07 | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
+| 2026-08-06 | [UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search](https://doi.org/10.1145/3770855.3818504) | conference-paper | OpenAlex |
+| 2026-08-06 | [Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation](https://doi.org/10.1145/3770855.3817873) | conference-paper | OpenAlex |
+| 2026-08-06 | [Scaling Agentic Capabilities via Grounded Interaction Synthesis](https://doi.org/10.1145/3770855.3817660) | conference-paper | OpenAlex |
+| 2026-08-06 | [S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage](https://doi.org/10.1145/3770855.3818473) | conference-paper | OpenAlex |
+| 2026-08-06 | [Reasoning over Semantic IDs Enhances Generative Recommendation](https://doi.org/10.1145/3770855.3818122) | conference-paper | OpenAlex |
+| 2026-08-06 | [Label Annotation for Tabular Anomaly Detection with Large Language Models](https://doi.org/10.1145/3770855.3817725) | conference-paper | OpenAlex |
+| 2026-08-06 | [Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA](https://doi.org/10.1145/3770855.3818407) | conference-paper | OpenAlex |
+| 2026-08-06 | [AdPilot: Towards Fully Autonomous Advertising Delivery via Agentic Reinforcement Learning](https://doi.org/10.1145/3770855.3818315) | conference-paper | OpenAlex |
+| 2026-08-05 | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.06197) | technical-report | Official page |
 | 2026-08-04 | [WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://huggingface.co/papers/2608.04964) | technical-report | Official page |
 | 2026-08-04 | [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | technical-report | Official page |
 | 2026-08-04 | [When Memory Lies: An Empirical Study of Spatial Memory Staleness in VLM Agents](https://huggingface.co/papers/2608.04574) | technical-report | Official page |
 | 2026-08-04 | [Recursive Synthesis for Long-Horizon Terminal Tasks](https://huggingface.co/papers/2608.05466) | technical-report | Official page |
+| 2026-08-04 | [Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents](https://arxiv.org/abs/2608.03137) | preprint | OpenAlex |
+| 2026-08-04 | [Training Documents Reranker with Search Rubrics for Deep Research Agent](https://arxiv.org/abs/2608.03527) | preprint | OpenAlex |
+| 2026-08-04 | [SieveIVF: Threshold-Aware IVF Execution for Large-Scale Training Data Deduplication](https://arxiv.org/abs/2608.03199) | preprint | OpenAlex |
+| 2026-08-04 | [SeqLLM: Augmenting LLMs with Behavioral-Sequence Modeling for High-Stakes Decisions at WeChat Pay](https://arxiv.org/abs/2608.03063) | preprint | OpenAlex |
+| 2026-08-04 | [LoCA: Forward-Only LLM Tuning after One-Shot Calibration with Local Credit Assignment](https://arxiv.org/abs/2608.03020) | preprint | OpenAlex |
+| 2026-08-04 | [GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215) | preprint | OpenAlex |
 | 2026-08-03 | [SkillJack: Persistent Skill Backdoors in Self-Evolving Agents](https://huggingface.co/papers/2608.03509) | technical-report | Official page |
+| 2026-08-03 | [Start Classifying: Categorical Critics for LLM Reinforcement Learning](https://arxiv.org/abs/2608.02181) | preprint | OpenAlex |
+| 2026-08-03 | [Self-Improving Large Language Models via Progressive Experience Evolution](https://arxiv.org/abs/2608.02139) | preprint | OpenAlex |
+| 2026-08-03 | [Evolving in the Agent Jungle via History-Informed Opponent Awareness](https://arxiv.org/abs/2608.02005) | preprint | OpenAlex |
 | 2026-08-02 | [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | technical-report | Official page |
+| 2026-08-02 | [GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking](https://arxiv.org/abs/2608.01410) | preprint | OpenAlex |
+| 2026-08-01 | [TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent](https://arxiv.org/abs/2608.00650) | preprint | OpenAlex |
 | 2026-08-01 | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
 | 2026-07-31 | [Prompting Beyond Pairs: Decoupled Semantic Supervision for Knowledge-Guided Multiplex Virtual Staining](https://doi.org/10.64898/2026.07.31.741995) | preprint | OpenAlex |
 | 2026-07-31 | [Learning Latent Reasoning Traces for Scalar Reward Models End-to-End](https://arxiv.org/abs/2607.29185) | preprint | OpenAlex |
