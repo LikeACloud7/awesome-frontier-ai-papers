@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `520`
+- Papers: `525`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -11,8 +11,11 @@
 |---|---|---|---|
 | 2026-08-07 | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
 | 2026-08-07 | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
+| 2026-08-07 | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
 | 2026-08-07 | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [Few-shot action recognition with captioning foundation models](http://arxiv.org/abs/2310.10125) | article | OpenAlex |
+| 2026-08-06 | [TaoSR1: The Thinking Model for E-commerce Relevance Search](http://arxiv.org/abs/2508.12365) | conference-paper | OpenAlex |
 | 2026-08-06 | [UniRank: End-to-End Domain-Specific Reranking of Hybrid Text-Image Candidates](https://doi.org/10.1145/3770855.3817796) | conference-paper | OpenAlex |
 | 2026-08-06 | [Towards Next Graph Token Prediction: Discrete Graph Tokenization for Structural Reasoning in Large Language Models](https://doi.org/10.1145/3770855.3818177) | conference-paper | OpenAlex |
 | 2026-08-06 | [Self-Evolutionary Reinforced Knowledge Distillation for Multi-Modal Tool-Use Agents](https://doi.org/10.1145/3770855.3817780) | conference-paper | OpenAlex |
@@ -26,8 +29,10 @@
 | 2026-08-06 | [AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing](https://doi.org/10.1145/3770855.3818316) | conference-paper | OpenAlex |
 | 2026-08-06 | [<scp>Caduceus:</scp> MoE Foundation Models for Unifying Biological and Natural Language](https://doi.org/10.1145/3770855.3818885) | conference-paper | OpenAlex |
 | 2026-08-04 | [GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks](https://huggingface.co/papers/2608.03764) | technical-report | Official page |
+| 2026-08-04 | [Agentic Reinforcement Learning with Self-Distilled Reward Shaping](https://arxiv.org/abs/2608.03223) | preprint | OpenAlex |
 | 2026-08-03 | [PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent](https://arxiv.org/abs/2608.01825) | preprint | OpenAlex |
 | 2026-08-03 | [CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents](https://arxiv.org/abs/2608.01739) | preprint | OpenAlex |
+| 2026-08-01 | [Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces](https://arxiv.org/abs/2608.00423) | preprint | OpenAlex |
 | 2026-07-31 | [GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System](https://arxiv.org/abs/2607.29213) | preprint | OpenAlex |
 | 2026-07-27 | [AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars](https://arxiv.org/abs/2607.24013) | preprint | OpenAlex |
 | 2026-07-21 | [When More Is Not Better: Multimodal Information Efficiency in Conversational Interfaces](https://doi.org/10.1145/3816046.3816267) | conference-paper | OpenAlex |

@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `803`
+- Papers: `804`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -30,6 +30,7 @@
 | 2026-08-04 | [SieveIVF: Threshold-Aware IVF Execution for Large-Scale Training Data Deduplication](https://arxiv.org/abs/2608.03199) | preprint | OpenAlex |
 | 2026-08-04 | [SeqLLM: Augmenting LLMs with Behavioral-Sequence Modeling for High-Stakes Decisions at WeChat Pay](https://arxiv.org/abs/2608.03063) | preprint | OpenAlex |
 | 2026-08-04 | [LoCA: Forward-Only LLM Tuning after One-Shot Calibration with Local Credit Assignment](https://arxiv.org/abs/2608.03020) | preprint | OpenAlex |
+| 2026-08-04 | [GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs](https://arxiv.org/abs/2608.03270) | preprint | OpenAlex |
 | 2026-08-04 | [GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215) | preprint | OpenAlex |
 | 2026-08-03 | [SkillJack: Persistent Skill Backdoors in Self-Evolving Agents](https://huggingface.co/papers/2608.03509) | technical-report | Official page |
 | 2026-08-03 | [Start Classifying: Categorical Critics for LLM Reinforcement Learning](https://arxiv.org/abs/2608.02181) | preprint | OpenAlex |

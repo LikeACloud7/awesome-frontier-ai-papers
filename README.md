@@ -4,8 +4,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-08T04:33:21+00:00`
-- Coverage: `6566` papers across `19` labs since 2024
+- Last generated: `2026-08-09T04:41:26+00:00`
+- Coverage: `6577` papers across `19` labs since 2024
 
 ## Labs
 
@@ -13,15 +13,15 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Microsoft](#microsoft) | 1826 | 2026-08-08 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1092 | 2026-08-07 | [all papers](docs/labs/amazon.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 803 | 2026-08-07 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 520 | 2026-08-07 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 804 | 2026-08-07 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 525 | 2026-08-07 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 468 | 2026-08-07 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 462 | 2026-08-07 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 291 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 293 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 251 | 2026-08-07 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 151 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 460 | 2026-08-06 | [all papers](docs/labs/huawei-noah.md) |
-| 🇺🇸 US | [OpenAI](#openai) | 55 | 2026-07-28 | [all papers](docs/labs/openai.md) |
+| 🇺🇸 US | [OpenAI](#openai) | 56 | 2026-07-31 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 35 | 2026-07-28 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
@@ -43,18 +43,18 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-07 | Tencent/Hunyuan | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
 | 2026-08-07 | Alibaba/Qwen | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
 | 2026-08-07 | Alibaba/Qwen | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
+| 2026-08-07 | Huawei/Noah | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
 | 2026-08-07 | Microsoft | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
 | 2026-08-07 | Amazon | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-07 | Tencent/Hunyuan | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
 | 2026-08-07 | Baidu | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 | 2026-08-07 | Meta/FAIR | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
 | 2026-08-07 | Tencent/Hunyuan | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
+| 2026-08-07 | Alibaba/Qwen | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
 | 2026-08-07 | Alibaba/Qwen | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
 | 2026-08-07 | Baidu | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
 | 2026-08-06 | Apple | [Locking Pretrained Weights via Deep Low-Rank Residual Distillation](https://machinelearning.apple.com/research/locking-pretrained-weights) | publication | Official page |
 | 2026-08-06 | Apple | [DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness](https://machinelearning.apple.com/research/deepambigqa-multihop-questions) | publication | Official page |
-| 2026-08-06 | Alibaba/Qwen, Huawei/Noah | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
-| 2026-08-06 | Microsoft, Amazon | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 
 ## Papers By Lab
 
@@ -96,7 +96,7 @@ More: [1084 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
-`803` papers · latest `2026-08-07` · [full list](docs/labs/tencent-hunyuan.md)
+`804` papers · latest `2026-08-07` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -109,24 +109,24 @@ More: [1084 additional papers](docs/labs/amazon.md)
 | 2026-08-06 | [S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage](https://doi.org/10.1145/3770855.3818473) | conference-paper | OpenAlex |
 | 2026-08-06 | [Reasoning over Semantic IDs Enhances Generative Recommendation](https://doi.org/10.1145/3770855.3818122) | conference-paper | OpenAlex |
 
-More: [795 additional papers](docs/labs/tencent-hunyuan.md)
+More: [796 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`520` papers · latest `2026-08-07` · [full list](docs/labs/alibaba-qwen.md)
+`525` papers · latest `2026-08-07` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
 | 2026-08-07 | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
+| 2026-08-07 | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
 | 2026-08-07 | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [Few-shot action recognition with captioning foundation models](http://arxiv.org/abs/2310.10125) | article | OpenAlex |
+| 2026-08-06 | [TaoSR1: The Thinking Model for E-commerce Relevance Search](http://arxiv.org/abs/2508.12365) | conference-paper | OpenAlex |
 | 2026-08-06 | [UniRank: End-to-End Domain-Specific Reranking of Hybrid Text-Image Candidates](https://doi.org/10.1145/3770855.3817796) | conference-paper | OpenAlex |
-| 2026-08-06 | [Towards Next Graph Token Prediction: Discrete Graph Tokenization for Structural Reasoning in Large Language Models](https://doi.org/10.1145/3770855.3818177) | conference-paper | OpenAlex |
-| 2026-08-06 | [Self-Evolutionary Reinforced Knowledge Distillation for Multi-Modal Tool-Use Agents](https://doi.org/10.1145/3770855.3817780) | conference-paper | OpenAlex |
-| 2026-08-06 | [MOBI: Monolithic Graph-Language Modeling Beyond Modality Interference](https://doi.org/10.1145/3770855.3818175) | conference-paper | OpenAlex |
 
-More: [512 additional papers](docs/labs/alibaba-qwen.md)
+More: [517 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Google/DeepMind
 
@@ -144,6 +144,23 @@ More: [512 additional papers](docs/labs/alibaba-qwen.md)
 | 2026-08-04 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](https://arxiv.org/abs/2608.03958) | preprint | OpenAlex |
 
 More: [460 additional papers](docs/labs/google-deepmind.md)
+
+### 🇨🇳 Huawei/Noah
+
+`462` papers · latest `2026-08-07` · [full list](docs/labs/huawei-noah.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
+| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
+| 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
+| 2026-08-06 | [FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data](http://arxiv.org/abs/2509.02473) | conference-paper | OpenAlex |
+| 2026-08-06 | [DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark](https://arxiv.org/abs/2605.30027) | conference-paper | OpenAlex |
+| 2026-08-06 | [<i>When Hard Negatives Hurt:</i> Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval](https://arxiv.org/abs/2606.01304) | conference-paper | OpenAlex |
+| 2026-08-04 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](https://arxiv.org/abs/2608.03972) | preprint | OpenAlex |
+
+More: [454 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇺🇸 Apple
 
@@ -164,20 +181,20 @@ More: [403 additional papers](docs/labs/apple.md)
 
 ### 🇨🇳 Baidu
 
-`291` papers · latest `2026-08-07` · [full list](docs/labs/baidu.md)
+`293` papers · latest `2026-08-07` · [full list](docs/labs/baidu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 | 2026-08-07 | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
 | 2026-08-06 | [VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](https://arxiv.org/abs/2605.24675) | conference-paper | OpenAlex |
+| 2026-08-06 | [SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963) | conference-paper | OpenAlex |
 | 2026-08-06 | [Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation](https://arxiv.org/abs/2602.11790) | conference-paper | OpenAlex |
 | 2026-08-04 | [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](https://arxiv.org/abs/2608.04007) | preprint | OpenAlex |
 | 2026-08-04 | [DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning](https://arxiv.org/abs/2608.03292) | preprint | OpenAlex |
 | 2026-08-04 | [DiffImaginE: Imagine to Verify Entity Types with Diffusio](https://arxiv.org/abs/2608.03025) | preprint | OpenAlex |
-| 2026-08-04 | [Can Text-to-Image Models Draw from the Right Frame of Reference?](https://arxiv.org/abs/2608.03357) | preprint | OpenAlex |
 
-More: [283 additional papers](docs/labs/baidu.md)
+More: [285 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 NVIDIA
 
@@ -213,29 +230,13 @@ More: [243 additional papers](docs/labs/nvidia.md)
 
 More: [143 additional papers](docs/labs/meta-fair.md)
 
-### 🇨🇳 Huawei/Noah
-
-`460` papers · latest `2026-08-06` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
-| 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
-| 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
-| 2026-08-06 | [DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark](https://arxiv.org/abs/2605.30027) | conference-paper | OpenAlex |
-| 2026-08-06 | [<i>When Hard Negatives Hurt:</i> Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval](https://arxiv.org/abs/2606.01304) | conference-paper | OpenAlex |
-| 2026-08-04 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](https://arxiv.org/abs/2608.03972) | preprint | OpenAlex |
-| 2026-08-03 | [P-MUSE: Prompt-MIDI-Optional Model for Unified Instrumental Music Synthesis and Editing](https://arxiv.org/abs/2608.01920) | preprint | OpenAlex |
-| 2026-08-01 | [REVERIE+: Generalized Reflective Instruction Tuning for Hallucination Mitigation in Advanced VLMs](https://doi.org/10.1007/s11263-026-02945-6) | article | OpenAlex |
-
-More: [452 additional papers](docs/labs/huawei-noah.md)
-
 ### 🇺🇸 OpenAI
 
-`55` papers · latest `2026-07-28` · [full list](docs/labs/openai.md)
+`56` papers · latest `2026-07-31` · [full list](docs/labs/openai.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-07-31 | [Learning to Coordinate Symbolic Tools: LLM Agents for Verified Sum-of-Squares Certificates](https://arxiv.org/abs/2608.00326) | preprint | OpenAlex |
 | 2026-07-28 | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
 | 2026-06-30 | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |
 | 2026-05-22 | [DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents](https://doi.org/10.1145/3786335.3813132) | article | OpenAlex |
@@ -243,9 +244,8 @@ More: [452 additional papers](docs/labs/huawei-noah.md)
 | 2026-04-23 | [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) | publication | Official page |
 | 2026-04-23 | [GeneBench: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](https://doi.org/10.64898/2026.04.22.720113) | article | OpenAlex |
 | 2026-04-22 | [Evaluating large language models for accuracy incentivizes hallucinations](https://doi.org/10.1038/s41586-026-10549-w) | article | OpenAlex |
-| 2026-04-16 | [Introducing GPT-Rosalind for life sciences research](https://openai.com/index/introducing-gpt-rosalind) | publication | Official page |
 
-More: [47 additional papers](docs/labs/openai.md)
+More: [48 additional papers](docs/labs/openai.md)
 
 ### 🇺🇸 Anthropic
 
