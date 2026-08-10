@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `468`
+- Papers: `469`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -15,6 +15,7 @@
 | 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
 | 2026-08-04 | [TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391) | preprint | OpenAlex |
 | 2026-08-04 | [TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning](https://arxiv.org/abs/2608.03276) | preprint | OpenAlex |
+| 2026-08-04 | [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](https://arxiv.org/abs/2608.04132) | preprint | OpenAlex |
 | 2026-08-04 | [Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference](https://arxiv.org/abs/2608.03867) | preprint | OpenAlex |
 | 2026-08-04 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](https://arxiv.org/abs/2608.03958) | preprint | OpenAlex |
 | 2026-08-03 | [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](https://arxiv.org/abs/2608.02491) | preprint | OpenAlex |

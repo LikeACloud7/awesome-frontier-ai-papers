@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `525`
+- Papers: `529`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -28,7 +28,11 @@
 | 2026-08-06 | [ATLAS: Population-Level Disease Locus Discovery via Differential Attention in Genomic Language Models](https://doi.org/10.1145/3770855.3819004) | conference-paper | OpenAlex |
 | 2026-08-06 | [AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing](https://doi.org/10.1145/3770855.3818316) | conference-paper | OpenAlex |
 | 2026-08-06 | [<scp>Caduceus:</scp> MoE Foundation Models for Unifying Biological and Natural Language](https://doi.org/10.1145/3770855.3818885) | conference-paper | OpenAlex |
+| 2026-08-05 | [State2State: Environment-Derived Mid-Training for LLM Agents](https://arxiv.org/abs/2608.04934) | preprint | OpenAlex |
+| 2026-08-05 | [Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](https://arxiv.org/abs/2608.05126) | preprint | OpenAlex |
+| 2026-08-05 | [Private Direct Preference Optimization for LLM Alignment](https://arxiv.org/abs/2608.05040) | preprint | OpenAlex |
 | 2026-08-04 | [GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks](https://huggingface.co/papers/2608.03764) | technical-report | Official page |
+| 2026-08-04 | [FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents](https://arxiv.org/abs/2608.04095) | preprint | OpenAlex |
 | 2026-08-04 | [Agentic Reinforcement Learning with Self-Distilled Reward Shaping](https://arxiv.org/abs/2608.03223) | preprint | OpenAlex |
 | 2026-08-03 | [PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent](https://arxiv.org/abs/2608.01825) | preprint | OpenAlex |
 | 2026-08-03 | [CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents](https://arxiv.org/abs/2608.01739) | preprint | OpenAlex |
