@@ -11,7 +11,7 @@
 |---|---|---|---|
 | 2026-07-27 | [the assistant should mention 215 and 222 that appear in the prior reasoning content](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf) | technical-report | Official repo |
 | 2026-07-26 | [PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models](https://huggingface.co/papers/2607.24957) | technical-report | Official page |
-| 2026-07-26 | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page, HuggingFace |
+| 2026-07-26 | [Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653) | technical-report | Official page |
 | 2026-07-23 | [Paper](https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf) | technical-report | Official repo |
 | 2026-03-16 | [Attention Residuals](https://huggingface.co/papers/2603.15031) | technical-report | Official page |
 | 2026-02-02 | [Kimi K2.5: Visual Agentic Intelligence](https://huggingface.co/papers/2602.02276) | technical-report | Official page |

@@ -1,14 +1,15 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `35`
-- Latest: `2026-07-28`
+- Papers: `36`
+- Latest: `2026-08-10`
 - [Back to README](../../README.md#anthropic)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | publication | Official page |
 | 2026-07-28 | [Discovering cryptographic weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) | publication | Official page |
 | 2026-07-14 | [How Canada uses Claude: Findings from the Anthropic Economic Index](https://www.anthropic.com/research/how-canada-uses-claude) | publication | Official page |
 | 2026-07-13 | [Claude’s values across models and languages](https://www.anthropic.com/research/claude-values-models-languages) | publication | Official page |

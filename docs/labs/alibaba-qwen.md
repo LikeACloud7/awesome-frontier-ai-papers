@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `529`
+- Papers: `531`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -19,7 +19,9 @@
 | 2026-08-06 | [UniRank: End-to-End Domain-Specific Reranking of Hybrid Text-Image Candidates](https://doi.org/10.1145/3770855.3817796) | conference-paper | OpenAlex |
 | 2026-08-06 | [Towards Next Graph Token Prediction: Discrete Graph Tokenization for Structural Reasoning in Large Language Models](https://doi.org/10.1145/3770855.3818177) | conference-paper | OpenAlex |
 | 2026-08-06 | [Self-Evolutionary Reinforced Knowledge Distillation for Multi-Modal Tool-Use Agents](https://doi.org/10.1145/3770855.3817780) | conference-paper | OpenAlex |
+| 2026-08-06 | [One Ranking, Any Budget: Matryoshka Evidence-to-Context Frame Selection for Long-Video Understanding](https://arxiv.org/abs/2608.05707) | preprint | OpenAlex |
 | 2026-08-06 | [MOBI: Monolithic Graph-Language Modeling Beyond Modality Interference](https://doi.org/10.1145/3770855.3818175) | conference-paper | OpenAlex |
+| 2026-08-06 | [M$^3$Prune: Hierarchical Collaborative Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation](https://arxiv.org/abs/2608.05967) | preprint | OpenAlex |
 | 2026-08-06 | [Interpretability in the Era of Large Language Models: Mechanistic Methodology, Empirical Practices, and Applications](https://doi.org/10.1145/3770855.3816451) | conference-paper | OpenAlex |
 | 2026-08-06 | [DualLane: Fast and Reliable LLM Agents for Interactive AIOps via Dual-Path Planning](https://doi.org/10.1145/3770855.3818380) | conference-paper | OpenAlex |
 | 2026-08-06 | [Distribution-Value Coevolution for Adaptive RLHF Data Scheduling](https://doi.org/10.1145/3770855.3817990) | conference-paper | OpenAlex |

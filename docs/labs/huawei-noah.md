@@ -1,21 +1,25 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `462`
-- Latest: `2026-08-07`
+- Papers: `466`
+- Latest: `2026-08-08`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
 | 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
 | 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
 | 2026-08-06 | [FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data](http://arxiv.org/abs/2509.02473) | conference-paper | OpenAlex |
 | 2026-08-06 | [DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark](https://arxiv.org/abs/2605.30027) | conference-paper | OpenAlex |
+| 2026-08-06 | [Agent-Based Test Assertion Generation via Diverse Perspective Aggregation](https://arxiv.org/abs/2608.05822) | preprint | OpenAlex |
 | 2026-08-06 | [<i>When Hard Negatives Hurt:</i> Bridging the Generative Discriminative Gap in Hard Negative Synthesis for Retrieval](https://arxiv.org/abs/2606.01304) | conference-paper | OpenAlex |
+| 2026-08-05 | [Diff-Symbo: Text-Controlled Long-Duration Symbolic Music Generation Using Autoregressive Latent Diffusion Model](https://arxiv.org/abs/2608.05222) | preprint | OpenAlex |
 | 2026-08-04 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](https://arxiv.org/abs/2608.03972) | preprint | OpenAlex |
 | 2026-08-03 | [P-MUSE: Prompt-MIDI-Optional Model for Unified Instrumental Music Synthesis and Editing](https://arxiv.org/abs/2608.01920) | preprint | OpenAlex |
 | 2026-08-01 | [REVERIE+: Generalized Reflective Instruction Tuning for Hallucination Mitigation in Advanced VLMs](https://doi.org/10.1007/s11263-026-02945-6) | article | OpenAlex |

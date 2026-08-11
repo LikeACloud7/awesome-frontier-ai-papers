@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `808`
+- Papers: `811`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -13,7 +13,9 @@
 | 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
 | 2026-08-07 | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
 | 2026-08-06 | [YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family](https://huggingface.co/papers/2608.07051) | technical-report | Official page |
+| 2026-08-06 | [When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories](https://arxiv.org/abs/2608.06057) | preprint | OpenAlex |
 | 2026-08-06 | [UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search](https://doi.org/10.1145/3770855.3818504) | conference-paper | OpenAlex |
+| 2026-08-06 | [TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](https://arxiv.org/abs/2608.06346) | preprint | OpenAlex |
 | 2026-08-06 | [Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation](https://doi.org/10.1145/3770855.3817873) | conference-paper | OpenAlex |
 | 2026-08-06 | [Scaling Agentic Capabilities via Grounded Interaction Synthesis](https://doi.org/10.1145/3770855.3817660) | conference-paper | OpenAlex |
 | 2026-08-06 | [S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage](https://doi.org/10.1145/3770855.3818473) | conference-paper | OpenAlex |
@@ -25,6 +27,7 @@
 | 2026-08-05 | [Skills Know Their Neighbors: Cluster-Contrastive Capability Pages for Skill Retrieval](https://arxiv.org/abs/2608.04482) | preprint | OpenAlex |
 | 2026-08-05 | [Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses?](https://arxiv.org/abs/2608.04828) | preprint | OpenAlex |
 | 2026-08-05 | [MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off](https://arxiv.org/abs/2608.04843) | preprint | OpenAlex |
+| 2026-08-05 | [InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval](https://arxiv.org/abs/2608.04761) | preprint | OpenAlex |
 | 2026-08-04 | [WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://huggingface.co/papers/2608.04964) | technical-report | Official page |
 | 2026-08-04 | [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | technical-report | Official page |
 | 2026-08-04 | [When Memory Lies: An Empirical Study of Spatial Memory Staleness in VLM Agents](https://huggingface.co/papers/2608.04574) | technical-report | Official page |
