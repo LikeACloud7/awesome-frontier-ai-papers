@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1828`
+- Papers: `1829`
 - Latest: `2026-08-08`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
+| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
 | 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 | 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |

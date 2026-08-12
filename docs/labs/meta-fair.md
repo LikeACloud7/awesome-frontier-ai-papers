@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `152`
+- Papers: `154`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#metafair)
 
@@ -11,8 +11,10 @@
 |---|---|---|---|
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
+| 2026-08-07 | [Skaling: Chinchilla's Exponents Meet Kaplan's Coupling](https://huggingface.co/papers/2608.07222) | paper | HuggingFace |
 | 2026-08-06 | [Generalizable Multi-Pass Training of Ads Recommendation Models with Foundation Model Guidance](https://doi.org/10.1145/3770855.3817809) | conference-paper | OpenAlex |
 | 2026-08-06 | [Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://doi.org/10.1145/3770855.3818322) | conference-paper | OpenAlex |
+| 2026-08-06 | [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | paper | HuggingFace |
 | 2026-08-05 | [ASTELD: A Six-Axis Classification Framework for Autonomous AI Agents - Design, Evaluation, and an OpenClaw Case Study](https://arxiv.org/abs/2608.05201) | preprint | OpenAlex |
 | 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
 | 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |

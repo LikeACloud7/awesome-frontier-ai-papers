@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `531`
+- Papers: `532`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -38,6 +38,7 @@
 | 2026-08-04 | [Agentic Reinforcement Learning with Self-Distilled Reward Shaping](https://arxiv.org/abs/2608.03223) | preprint | OpenAlex |
 | 2026-08-03 | [PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent](https://arxiv.org/abs/2608.01825) | preprint | OpenAlex |
 | 2026-08-03 | [CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents](https://arxiv.org/abs/2608.01739) | preprint | OpenAlex |
+| 2026-08-03 | [What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems](https://huggingface.co/papers/2608.07565) | paper | HuggingFace |
 | 2026-08-01 | [Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces](https://arxiv.org/abs/2608.00423) | preprint | OpenAlex |
 | 2026-07-31 | [GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System](https://arxiv.org/abs/2607.29213) | preprint | OpenAlex |
 | 2026-07-27 | [AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars](https://arxiv.org/abs/2607.24013) | preprint | OpenAlex |

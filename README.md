@@ -4,28 +4,28 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-11T04:43:55+00:00`
-- Coverage: `6606` papers across `19` labs since 2024
+- Last generated: `2026-08-12T05:08:35+00:00`
+- Coverage: `6614` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 470 | 2026-08-10 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 36 | 2026-08-10 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1828 | 2026-08-08 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1829 | 2026-08-08 | [all papers](docs/labs/microsoft.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 466 | 2026-08-08 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1094 | 2026-08-07 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 811 | 2026-08-07 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 531 | 2026-08-07 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 469 | 2026-08-07 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 532 | 2026-08-07 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 295 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 254 | 2026-08-07 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 152 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 154 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 56 | 2026-07-31 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
-| 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 149 | 2026-07-05 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 25 | 2026-07 | [all papers](docs/labs/stepfun.md) |
 | 🇨🇳 China | [MiniMax](#minimax) | 10 | 2026-07 | [all papers](docs/labs/minimax.md) |
 | 🇨🇳 China | [Z.ai/Zhipu](#zaizhipu) | 24 | 2026-06-08 | [all papers](docs/labs/zai-zhipu.md) |
@@ -36,8 +36,11 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-08-10 | Anthropic | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | publication | Official page |
+| 2026-08-10 | Google/DeepMind | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
+| 2026-08-10 | ByteDance/Seed | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | paper | HuggingFace |
 | 2026-08-08 | Microsoft | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
 | 2026-08-08 | Huawei/Noah | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
+| 2026-08-08 | Microsoft | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
 | 2026-08-07 | Meta/FAIR, Amazon, NVIDIA | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | Apple | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
 | 2026-08-07 | Apple | [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://machinelearning.apple.com/research/arbitrage-efficient-reasoning) | publication | Official page |
@@ -52,13 +55,44 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-07 | Baidu | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 | 2026-08-07 | Meta/FAIR | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
 | 2026-08-07 | Tencent/Hunyuan | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
-| 2026-08-07 | Alibaba/Qwen | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
-| 2026-08-07 | Alibaba/Qwen | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
-| 2026-08-07 | Baidu | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Google/DeepMind
+
+`470` papers · latest `2026-08-10` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-10 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
+| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
+| 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |
+| 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
+| 2026-08-04 | [TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391) | preprint | OpenAlex |
+| 2026-08-04 | [TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning](https://arxiv.org/abs/2608.03276) | preprint | OpenAlex |
+| 2026-08-04 | [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](https://arxiv.org/abs/2608.04132) | preprint | OpenAlex |
+
+More: [462 additional papers](docs/labs/google-deepmind.md)
+
+### 🇨🇳 ByteDance/Seed
+
+`152` papers · latest `2026-08-10` · [full list](docs/labs/bytedance-seed.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-10 | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | paper | HuggingFace |
+| 2026-08-06 | [GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](https://huggingface.co/papers/2608.05747) | paper | HuggingFace |
+| 2026-08-03 | [Douyin Multimodal Embedding Model Technical Report](https://huggingface.co/papers/2608.02148) | paper | HuggingFace |
+| 2026-07-05 | [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://seed.bytedance.com/en/research/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments) | publication | Official page |
+| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
+| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
+| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
+| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
+
+More: [144 additional papers](docs/labs/bytedance-seed.md)
 
 ### 🇺🇸 Anthropic
 
@@ -79,20 +113,20 @@ More: [28 additional papers](docs/labs/anthropic.md)
 
 ### 🇺🇸 Microsoft
 
-`1828` papers · latest `2026-08-08` · [full list](docs/labs/microsoft.md)
+`1829` papers · latest `2026-08-08` · [full list](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
+| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
 | 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 | 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |
 | 2026-08-06 | [SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation](https://arxiv.org/abs/2608.05628) | preprint | OpenAlex |
 | 2026-08-06 | [Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning: Advances, Challenges, and Future Directions](https://doi.org/10.1145/3770855.3816466) | conference-paper | OpenAlex |
 | 2026-08-03 | [FLARE: Few-shot Learning-based Adaptive Reflective Engine](https://arxiv.org/abs/2608.02919) | preprint | OpenAlex |
-| 2026-08-03 | [ECLAIR: A Causally-Grounded AI Framework for Scientific Discovery in Empirical Software Engineering](https://arxiv.org/abs/2608.02323) | preprint | OpenAlex |
 
-More: [1820 additional papers](docs/labs/microsoft.md)
+More: [1821 additional papers](docs/labs/microsoft.md)
 
 ### 🇨🇳 Huawei/Noah
 
@@ -147,7 +181,7 @@ More: [803 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`531` papers · latest `2026-08-07` · [full list](docs/labs/alibaba-qwen.md)
+`532` papers · latest `2026-08-07` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -160,24 +194,7 @@ More: [803 additional papers](docs/labs/tencent-hunyuan.md)
 | 2026-08-06 | [TaoSR1: The Thinking Model for E-commerce Relevance Search](http://arxiv.org/abs/2508.12365) | conference-paper | OpenAlex |
 | 2026-08-06 | [UniRank: End-to-End Domain-Specific Reranking of Hybrid Text-Image Candidates](https://doi.org/10.1145/3770855.3817796) | conference-paper | OpenAlex |
 
-More: [523 additional papers](docs/labs/alibaba-qwen.md)
-
-### 🇺🇸 Google/DeepMind
-
-`469` papers · latest `2026-08-07` · [full list](docs/labs/google-deepmind.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
-| 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
-| 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |
-| 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
-| 2026-08-04 | [TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391) | preprint | OpenAlex |
-| 2026-08-04 | [TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning](https://arxiv.org/abs/2608.03276) | preprint | OpenAlex |
-| 2026-08-04 | [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](https://arxiv.org/abs/2608.04132) | preprint | OpenAlex |
-| 2026-08-04 | [Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference](https://arxiv.org/abs/2608.03867) | preprint | OpenAlex |
-
-More: [461 additional papers](docs/labs/google-deepmind.md)
+More: [524 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇺🇸 Apple
 
@@ -232,20 +249,20 @@ More: [246 additional papers](docs/labs/nvidia.md)
 
 ### 🇺🇸 Meta/FAIR
 
-`152` papers · latest `2026-08-07` · [full list](docs/labs/meta-fair.md)
+`154` papers · latest `2026-08-07` · [full list](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
+| 2026-08-07 | [Skaling: Chinchilla's Exponents Meet Kaplan's Coupling](https://huggingface.co/papers/2608.07222) | paper | HuggingFace |
 | 2026-08-06 | [Generalizable Multi-Pass Training of Ads Recommendation Models with Foundation Model Guidance](https://doi.org/10.1145/3770855.3817809) | conference-paper | OpenAlex |
 | 2026-08-06 | [Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://doi.org/10.1145/3770855.3818322) | conference-paper | OpenAlex |
+| 2026-08-06 | [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | paper | HuggingFace |
 | 2026-08-05 | [ASTELD: A Six-Axis Classification Framework for Autonomous AI Agents - Design, Evaluation, and an OpenClaw Case Study](https://arxiv.org/abs/2608.05201) | preprint | OpenAlex |
 | 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
-| 2026-07-17 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](https://ai.meta.com/research/publications/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning/) | publication | Official page |
-| 2026-07-17 | [Evaluating AI models’ capability to automate voice phishing attacks](https://doi.org/10.1016/j.eswa.2026.133620) | article | OpenAlex |
 
-More: [144 additional papers](docs/labs/meta-fair.md)
+More: [146 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 OpenAI
 
@@ -297,23 +314,6 @@ More: [12 additional papers](docs/labs/moonshot-kimi.md)
 | 2025-12-31 | [mHC: Manifold-Constrained Hyper-Connections](https://huggingface.co/papers/2512.24880) | technical-report | Official report |
 
 More: [23 additional papers](docs/labs/deepseek.md)
-
-### 🇨🇳 ByteDance/Seed
-
-`149` papers · latest `2026-07-05` · [full list](docs/labs/bytedance-seed.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-07-05 | [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://seed.bytedance.com/en/research/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments) | publication | Official page |
-| 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
-| 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
-| 2026-04-22 | [Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation](https://seed.bytedance.com/en/research/seed3d-2-0-advancing-high-fidelity-simulation-ready-3d-content-generation) | publication | Official page |
-| 2026-04-08 | [Not all tokens contribute equally to diffusion learning](https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning) | publication | Official page |
-| 2026-03-26 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification) | publication | Official page |
-| 2026-03-26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments) | publication | Official page |
-| 2026-03-24 | [SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://seed.bytedance.com/en/research/simart-decomposing-monolithic-meshes-into-sim-ready-articulated-assets-via-mllm) | publication | Official page |
-
-More: [141 additional papers](docs/labs/bytedance-seed.md)
 
 ### 🇨🇳 StepFun
 

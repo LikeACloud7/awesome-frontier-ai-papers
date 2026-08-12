@@ -1,14 +1,15 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `469`
-- Latest: `2026-08-07`
+- Papers: `470`
+- Latest: `2026-08-10`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-10 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
 | 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
 | 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |

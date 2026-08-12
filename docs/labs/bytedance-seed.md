@@ -1,14 +1,17 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `149`
-- Latest: `2026-07-05`
+- Papers: `152`
+- Latest: `2026-08-10`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-10 | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | paper | HuggingFace |
+| 2026-08-06 | [GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](https://huggingface.co/papers/2608.05747) | paper | HuggingFace |
+| 2026-08-03 | [Douyin Multimodal Embedding Model Technical Report](https://huggingface.co/papers/2608.02148) | paper | HuggingFace |
 | 2026-07-05 | [EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://seed.bytedance.com/en/research/edgebench-unveiling-scaling-laws-of-learning-from-real-world-environments) | publication | Official page |
 | 2026-06-30 | [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://huggingface.co/papers/2607.00248) | paper | HuggingFace |
 | 2026-05-28 | [Task-Focused Memorization for Multimodal Agents](https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents) | publication | Official page |
