@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `295`
+- Papers: `296`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#baidu)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-08-07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 | 2026-08-07 | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
+| 2026-08-07 | [Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849) | preprint | OpenAlex |
 | 2026-08-06 | [VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](https://arxiv.org/abs/2605.24675) | conference-paper | OpenAlex |
 | 2026-08-06 | [TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223) | preprint | OpenAlex |
 | 2026-08-06 | [SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963) | conference-paper | OpenAlex |

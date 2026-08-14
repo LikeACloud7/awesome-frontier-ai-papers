@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `533`
+- Papers: `534`
 - Latest: `2026-08-11`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -12,6 +12,7 @@
 | 2026-08-11 | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
 | 2026-08-07 | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
 | 2026-08-07 | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
+| 2026-08-07 | [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) | preprint | OpenAlex |
 | 2026-08-07 | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
 | 2026-08-07 | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |

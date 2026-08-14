@@ -1,14 +1,15 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `254`
-- Latest: `2026-08-07`
+- Papers: `255`
+- Latest: `2026-08-12`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-12 | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-06 | [VLMs for Videogame Data Annotation](https://arxiv.org/abs/2608.05949) | preprint | OpenAlex |
 | 2026-08-06 | [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954) | preprint | OpenAlex |

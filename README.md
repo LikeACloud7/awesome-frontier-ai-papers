@@ -4,25 +4,25 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-13T05:11:25+00:00`
-- Coverage: `6616` papers across `19` labs since 2024
+- Last generated: `2026-08-14T05:09:15+00:00`
+- Coverage: `6632` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 812 | 2026-08-11 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 533 | 2026-08-11 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 470 | 2026-08-10 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 474 | 2026-08-13 | [all papers](docs/labs/google-deepmind.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 255 | 2026-08-12 | [all papers](docs/labs/nvidia.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1831 | 2026-08-11 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 813 | 2026-08-11 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 534 | 2026-08-11 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 469 | 2026-08-11 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 36 | 2026-08-10 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1829 | 2026-08-08 | [all papers](docs/labs/microsoft.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 466 | 2026-08-08 | [all papers](docs/labs/huawei-noah.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1094 | 2026-08-07 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1096 | 2026-08-07 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 295 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 254 | 2026-08-07 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Meta/FAIR](#metafair) | 154 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 296 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
+| 🇺🇸 US | [Meta/FAIR](#metafair) | 155 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 56 | 2026-07-31 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 31 | 2026-07-06 | [all papers](docs/labs/deepseek.md) |
@@ -35,7 +35,13 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-08-13 | Google/DeepMind | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
+| 2026-08-12 | NVIDIA | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
+| 2026-08-12 | Google/DeepMind | [Agentic profiles for effective AI governance](https://doi.org/10.1038/s41586-026-10805-z) | article | OpenAlex |
 | 2026-08-11 | Tencent/Hunyuan | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
+| 2026-08-11 | Huawei/Noah | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
+| 2026-08-11 | Microsoft | [DEMO: NetArena Adaptation for Next Waves of Network Benchmarks](https://doi.org/10.1145/3789240.3830284) | conference-paper | OpenAlex |
+| 2026-08-11 | Huawei/Noah | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
 | 2026-08-11 | Alibaba/Qwen | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
 | 2026-08-10 | Anthropic | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | publication | Official page |
 | 2026-08-10 | Google/DeepMind | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
@@ -47,69 +53,114 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-07 | Apple | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
 | 2026-08-07 | Apple | [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://machinelearning.apple.com/research/arbitrage-efficient-reasoning) | publication | Official page |
 | 2026-08-07 | Google/DeepMind, Amazon | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | Tencent/Hunyuan | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
 | 2026-08-07 | Tencent/Hunyuan | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
-| 2026-08-07 | Alibaba/Qwen | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
-| 2026-08-07 | Alibaba/Qwen | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
-| 2026-08-07 | Huawei/Noah | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
-| 2026-08-07 | Microsoft | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
-| 2026-08-07 | Amazon | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
-| 2026-08-07 | Tencent/Hunyuan | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
-| 2026-08-07 | Baidu | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇺🇸 Google/DeepMind
+
+`474` papers · latest `2026-08-13` · [full list](docs/labs/google-deepmind.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-13 | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
+| 2026-08-12 | [Agentic profiles for effective AI governance](https://doi.org/10.1038/s41586-026-10805-z) | article | OpenAlex |
+| 2026-08-10 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
+| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | [ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](https://arxiv.org/abs/2608.07418) | preprint | OpenAlex |
+| 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
+| 2026-08-06 | [Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628) | preprint | OpenAlex |
+| 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |
+
+More: [466 additional papers](docs/labs/google-deepmind.md)
+
+### 🇺🇸 NVIDIA
+
+`255` papers · latest `2026-08-12` · [full list](docs/labs/nvidia.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-12 | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
+| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-06 | [VLMs for Videogame Data Annotation](https://arxiv.org/abs/2608.05949) | preprint | OpenAlex |
+| 2026-08-06 | [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954) | preprint | OpenAlex |
+| 2026-08-06 | [MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](https://arxiv.org/abs/2608.06183) | preprint | OpenAlex |
+| 2026-07-31 | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
+| 2026-07-30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
+| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
+
+More: [247 additional papers](docs/labs/nvidia.md)
+
+### 🇺🇸 Microsoft
+
+`1831` papers · latest `2026-08-11` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-11 | [DEMO: NetArena Adaptation for Next Waves of Network Benchmarks](https://doi.org/10.1145/3789240.3830284) | conference-paper | OpenAlex |
+| 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
+| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
+| 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
+| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
+| 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |
+| 2026-08-06 | [SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation](https://arxiv.org/abs/2608.05628) | preprint | OpenAlex |
+| 2026-08-06 | [Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning: Advances, Challenges, and Future Directions](https://doi.org/10.1145/3770855.3816466) | conference-paper | OpenAlex |
+
+More: [1823 additional papers](docs/labs/microsoft.md)
+
 ### 🇨🇳 Tencent/Hunyuan
 
-`812` papers · latest `2026-08-11` · [full list](docs/labs/tencent-hunyuan.md)
+`813` papers · latest `2026-08-11` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
+| 2026-08-07 | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
 | 2026-08-07 | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
 | 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
 | 2026-08-07 | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
 | 2026-08-06 | [YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family](https://huggingface.co/papers/2608.07051) | technical-report | Official page |
 | 2026-08-06 | [When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories](https://arxiv.org/abs/2608.06057) | preprint | OpenAlex |
 | 2026-08-06 | [UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search](https://doi.org/10.1145/3770855.3818504) | conference-paper | OpenAlex |
-| 2026-08-06 | [TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](https://arxiv.org/abs/2608.06346) | preprint | OpenAlex |
 
-More: [804 additional papers](docs/labs/tencent-hunyuan.md)
+More: [805 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
-`533` papers · latest `2026-08-11` · [full list](docs/labs/alibaba-qwen.md)
+`534` papers · latest `2026-08-11` · [full list](docs/labs/alibaba-qwen.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-11 | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
 | 2026-08-07 | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
 | 2026-08-07 | [SetLLM: Set Large Language Model for Cold-Start Item Recommendation](https://doi.org/10.1145/3770855.3817707) | conference-paper | OpenAlex |
+| 2026-08-07 | [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) | preprint | OpenAlex |
 | 2026-08-07 | [From Scaling to Structured Expressivity: Rethinking Transformers for CTR Prediction](https://arxiv.org/abs/2511.12081) | conference-paper | OpenAlex |
 | 2026-08-07 | [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://doi.org/10.1145/3770855.3817924) | conference-paper | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
 | 2026-08-06 | [Few-shot action recognition with captioning foundation models](http://arxiv.org/abs/2310.10125) | article | OpenAlex |
-| 2026-08-06 | [TaoSR1: The Thinking Model for E-commerce Relevance Search](http://arxiv.org/abs/2508.12365) | conference-paper | OpenAlex |
 
-More: [525 additional papers](docs/labs/alibaba-qwen.md)
+More: [526 additional papers](docs/labs/alibaba-qwen.md)
 
-### 🇺🇸 Google/DeepMind
+### 🇨🇳 Huawei/Noah
 
-`470` papers · latest `2026-08-10` · [full list](docs/labs/google-deepmind.md)
+`469` papers · latest `2026-08-11` · [full list](docs/labs/huawei-noah.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026-08-10 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
-| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
-| 2026-08-06 | [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://doi.org/10.1145/3770855.3818506) | conference-paper | OpenAlex |
-| 2026-08-05 | [A moral Turing test: How belief and source shape detection of and agreement with LLM judgments](https://deepmind.google/research/publications/118955/) | publication | Official page |
-| 2026-08-04 | [MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation](https://arxiv.org/abs/2608.03275) | preprint | OpenAlex |
-| 2026-08-04 | [TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series](https://arxiv.org/abs/2608.03391) | preprint | OpenAlex |
-| 2026-08-04 | [TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning](https://arxiv.org/abs/2608.03276) | preprint | OpenAlex |
-| 2026-08-04 | [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](https://arxiv.org/abs/2608.04132) | preprint | OpenAlex |
+| 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
+| 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
+| 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
+| 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
+| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
+| 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
+| 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
 
-More: [462 additional papers](docs/labs/google-deepmind.md)
+More: [461 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇨🇳 ByteDance/Seed
 
@@ -145,56 +196,22 @@ More: [144 additional papers](docs/labs/bytedance-seed.md)
 
 More: [28 additional papers](docs/labs/anthropic.md)
 
-### 🇺🇸 Microsoft
-
-`1829` papers · latest `2026-08-08` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
-| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
-| 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
-| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
-| 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |
-| 2026-08-06 | [SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation](https://arxiv.org/abs/2608.05628) | preprint | OpenAlex |
-| 2026-08-06 | [Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning: Advances, Challenges, and Future Directions](https://doi.org/10.1145/3770855.3816466) | conference-paper | OpenAlex |
-| 2026-08-03 | [FLARE: Few-shot Learning-based Adaptive Reflective Engine](https://arxiv.org/abs/2608.02919) | preprint | OpenAlex |
-
-More: [1821 additional papers](docs/labs/microsoft.md)
-
-### 🇨🇳 Huawei/Noah
-
-`466` papers · latest `2026-08-08` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
-| 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
-| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
-| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
-| 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
-| 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
-| 2026-08-06 | [FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data](http://arxiv.org/abs/2509.02473) | conference-paper | OpenAlex |
-| 2026-08-06 | [DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark](https://arxiv.org/abs/2605.30027) | conference-paper | OpenAlex |
-
-More: [458 additional papers](docs/labs/huawei-noah.md)
-
 ### 🇺🇸 Amazon
 
-`1094` papers · latest `2026-08-07` · [full list](docs/labs/amazon.md)
+`1096` papers · latest `2026-08-07` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex |
 | 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 | 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
 | 2026-08-06 | [SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](https://doi.org/10.1145/3770855.3817807) | conference-paper | OpenAlex |
 | 2026-08-06 | [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://doi.org/10.1145/3770855.3818097) | conference-paper | OpenAlex |
-| 2026-08-06 | [<scp>LakeFM</scp> : Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data](https://arxiv.org/abs/2606.11268) | conference-paper | OpenAlex |
 
-More: [1086 additional papers](docs/labs/amazon.md)
+More: [1088 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Apple
 
@@ -215,54 +232,37 @@ More: [403 additional papers](docs/labs/apple.md)
 
 ### 🇨🇳 Baidu
 
-`295` papers · latest `2026-08-07` · [full list](docs/labs/baidu.md)
+`296` papers · latest `2026-08-07` · [full list](docs/labs/baidu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
 | 2026-08-07 | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
+| 2026-08-07 | [Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849) | preprint | OpenAlex |
 | 2026-08-06 | [VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](https://arxiv.org/abs/2605.24675) | conference-paper | OpenAlex |
 | 2026-08-06 | [TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223) | preprint | OpenAlex |
 | 2026-08-06 | [SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963) | conference-paper | OpenAlex |
 | 2026-08-06 | [Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation](https://arxiv.org/abs/2602.11790) | conference-paper | OpenAlex |
 | 2026-08-05 | [Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2608.04935) | preprint | OpenAlex |
-| 2026-08-04 | [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](https://arxiv.org/abs/2608.04007) | preprint | OpenAlex |
 
-More: [287 additional papers](docs/labs/baidu.md)
-
-### 🇺🇸 NVIDIA
-
-`254` papers · latest `2026-08-07` · [full list](docs/labs/nvidia.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
-| 2026-08-06 | [VLMs for Videogame Data Annotation](https://arxiv.org/abs/2608.05949) | preprint | OpenAlex |
-| 2026-08-06 | [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954) | preprint | OpenAlex |
-| 2026-08-06 | [MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](https://arxiv.org/abs/2608.06183) | preprint | OpenAlex |
-| 2026-07-31 | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
-| 2026-07-30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
-| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
-| 2026-07-16 | [VideoNeuMat: Neural Material Extraction from Generative Video Models](https://doi.org/10.1145/3799902.3811190) | conference-paper | OpenAlex |
-
-More: [246 additional papers](docs/labs/nvidia.md)
+More: [288 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Meta/FAIR
 
-`154` papers · latest `2026-08-07` · [full list](docs/labs/meta-fair.md)
+`155` papers · latest `2026-08-07` · [full list](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | [LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation](https://doi.org/10.1145/3770855.3818442) | conference-paper | OpenAlex |
 | 2026-08-07 | [Skaling: Chinchilla's Exponents Meet Kaplan's Coupling](https://huggingface.co/papers/2608.07222) | paper | HuggingFace |
+| 2026-08-06 | [Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation](https://arxiv.org/abs/2608.06632) | preprint | OpenAlex |
 | 2026-08-06 | [Generalizable Multi-Pass Training of Ads Recommendation Models with Foundation Model Guidance](https://doi.org/10.1145/3770855.3817809) | conference-paper | OpenAlex |
 | 2026-08-06 | [Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://doi.org/10.1145/3770855.3818322) | conference-paper | OpenAlex |
 | 2026-08-06 | [Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes](https://huggingface.co/papers/2608.05000) | paper | HuggingFace |
 | 2026-08-05 | [ASTELD: A Six-Axis Classification Framework for Autonomous AI Agents - Design, Evaluation, and an OpenClaw Case Study](https://arxiv.org/abs/2608.05201) | preprint | OpenAlex |
-| 2026-07-30 | [ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation](https://arxiv.org/abs/2607.27744) | preprint | OpenAlex |
 
-More: [146 additional papers](docs/labs/meta-fair.md)
+More: [147 additional papers](docs/labs/meta-fair.md)
 
 ### 🇺🇸 OpenAI
 

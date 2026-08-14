@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1094`
+- Papers: `1096`
 - Latest: `2026-08-07`
 - [Back to README](../../README.md#amazon)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex |
 | 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 | 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
@@ -243,6 +244,7 @@
 | 2026 | [NKI-Agent: Domain-specific fine-tuning and agentic tool use for neuron kernel generation](https://www.amazon.science/publications/nki-agent-domain-specific-fine-tuning-and-agentic-tool-use-for-neuron-kernel-generation) | publication | Official page |
 | 2026 | [Multi-scale model compression via nested matrix learning](https://www.amazon.science/publications/multi-scale-model-compression-via-nested-matrix-learning) | publication | Official page |
 | 2026 | [MigrationBench: Repository-level code migration benchmark from Java 8](https://www.amazon.science/publications/migrationbench-repository-level-code-migration-benchmark-from-java-8) | publication | Official page |
+| 2026 | [Memory tree guided key frame querying for efficient 3D question answering](https://www.amazon.science/publications/memory-tree-guided-key-frame-querying-for-efficient-3d-question-answering) | publication | Official page |
 | 2026 | [MUSS: Multilevel subset selection for relevance and diversity](https://www.amazon.science/publications/muss-multilevel-subset-selection-for-relevance-and-diversity) | publication | Official page |
 | 2026 | [MTSQL-R1: Towards long-horizon multi-turn text-to-SQL via agentic training](https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training) | publication | Official page |
 | 2026 | [MM-ReCoder: Advancing chart-to-code generation with reinforcement learning and self-correction](https://www.amazon.science/publications/mm-recoder-advancing-chart-to-code-generation-with-reinforcement-learning-and-self-correction) | publication | Official page |
