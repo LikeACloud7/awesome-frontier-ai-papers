@@ -1,17 +1,18 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1096`
-- Latest: `2026-08-07`
+- Papers: `1103`
+- Latest: `2026-08-13`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-13 | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex, Official page |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
-| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex |
 | 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
 | 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
@@ -198,6 +199,7 @@
 | 2026 | [USAD 2.0: Scaling representation distillation for universal audio understanding](https://www.amazon.science/publications/usad-2-0-scaling-representation-distillation-for-universal-audio-understanding) | publication | Official page |
 | 2026 | [Trajectory2Task: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents) | publication | Official page |
 | 2026 | [Training large language models to reason in parallel with global forking tokens](https://www.amazon.science/publications/training-large-language-models-to-reason-in-parallel-with-global-forking-tokens) | publication | Official page |
+| 2026 | [Trace: TRajectory attribution for automated context engineering](https://www.amazon.science/publications/trace-trajectory-attribution-for-automated-context-engineering) | publication | Official page |
 | 2026 | [Towards self-improving error diagnosis in multi-agent systems](https://www.amazon.science/publications/towards-self-improving-error-diagnosis-in-multi-agent-systems) | publication | Official page |
 | 2026 | [Token-wise residual latent adapters: Steering seq2Seq models for protein fitness extrapolation](https://www.amazon.science/publications/token-wise-residual-latent-adapters-steering-seq2seq-models-for-protein-fitness-extrapolation) | publication | Official page |
 | 2026 | [The personalization trap: How user memory alters emotional reasoning in LLMs](https://www.amazon.science/publications/the-personalization-trap-how-user-memory-alters-emotional-reasoning-in-llms) | publication | Official page |
@@ -234,12 +236,14 @@
 | 2026 | [QJL is 1-bit compressive sensing: An equivalence and its consequences for KV cache compression in LLMs](https://www.amazon.science/publications/qjl-is-1-bit-compressive-sensing-an-equivalence-and-its-consequences-for-kv-cache-compression-in-llms) | publication | Official page |
 | 2026 | [Progressive fine-tuning for cost-effective structured attribute generation in e-commerce](https://www.amazon.science/publications/progressive-fine-tuning-for-cost-effective-structured-attribute-generation-in-e-commerce) | publication | Official page |
 | 2026 | [ProFraudGuard: Proactive adversarial fine-tuning of fraud detectors with inverse reinforcement learning](https://www.amazon.science/publications/profraudguard-proactive-adversarial-fine-tuning-of-fraud-detectors-with-inverse-reinforcement-learning) | publication | Official page |
+| 2026 | [Practical multilingual product title optimization at scale with small language models](https://www.amazon.science/publications/practical-multilingual-product-title-optimization-at-scale-with-small-language-models) | publication | Official page |
 | 2026 | [Physics-guided policy optimization with self-distillation](https://www.amazon.science/publications/physics-guided-policy-optimization-with-self-distillation) | publication | Official page |
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation) | publication | Official page |
 | 2026 | [PatientAgentBench: A benchmark framework for evaluating patient-facing health AI agents](https://www.amazon.science/publications/patientagentbench-a-benchmark-framework-for-evaluating-patient-facing-health-ai-agents) | publication | Official page |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation) | publication | Official page |
 | 2026 | [PGGA: A plan-grounded GUI agent for automated device support](https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support) | publication | Official page |
 | 2026 | [Online boundary-aware memory for case-based reasoning agents](https://www.amazon.science/publications/online-boundary-aware-memory-for-case-based-reasoning-agents) | publication | Official page |
+| 2026 | [On recursive resolution: Scalable ground truth for self-improving AI systems](https://www.amazon.science/publications/on-recursive-resolution-scalable-ground-truth-for-self-improving-ai-systems) | publication | Official page |
 | 2026 | [Not-a-bandit: Provably no-regret drafter selection in speculative decoding for LLMs](https://www.amazon.science/publications/not-a-bandit-provably-no-regret-drafter-selection-in-speculative-decoding-for-llms) | publication | Official page |
 | 2026 | [NKI-Agent: Domain-specific fine-tuning and agentic tool use for neuron kernel generation](https://www.amazon.science/publications/nki-agent-domain-specific-fine-tuning-and-agentic-tool-use-for-neuron-kernel-generation) | publication | Official page |
 | 2026 | [Multi-scale model compression via nested matrix learning](https://www.amazon.science/publications/multi-scale-model-compression-via-nested-matrix-learning) | publication | Official page |
@@ -256,9 +260,12 @@
 | 2026 | [Library drift: Diagnosing and fixing a silent failure mode in self-evolving LLM skill libraries](https://www.amazon.science/publications/library-drift-diagnosing-and-fixing-a-silent-failure-mode-in-self-evolving-llm-skill-libraries) | publication | Official page |
 | 2026 | [Learning when to attend: Conditional memory access for long-context LLMs](https://www.amazon.science/publications/learning-when-to-attend-conditional-memory-access-for-long-context-llms) | publication | Official page |
 | 2026 | [Learning to staff: Offline reinforcement learning and fine-tuned LLMs for warehouse staffing optimization](https://www.amazon.science/publications/learning-to-staff-offline-reinforcement-learning-and-fine-tuned-llms-for-warehouse-staffing-optimization) | publication | Official page |
+| 2026 | [LRBENCH and Judge-R1: Principled evaluation and training of LLM-based judges for long-context reasoning](https://www.amazon.science/publications/lrbench-and-judge-r1-principled-evaluation-and-training-of-llm-based-judges-for-long-context-reasoning) | publication | Official page |
 | 2026 | [LLM-assisted diagnostics for simulation–reality discrepancies in manufacturing systems](https://www.amazon.science/publications/llm-assisted-diagnostics-for-simulation-reality-discrepancies-in-manufacturing-systems) | publication | Official page |
+| 2026 | [Knowing when to quit: A principled framework for dynamic abstention in LLM reasoning](https://www.amazon.science/publications/knowing-when-to-quit-a-principled-framework-for-dynamic-abstention-in-llm-reasoning) | publication | Official page |
 | 2026 | [KG-CRAFT: Knowledge graph-based contrastive reasoning with LLMs for enhancing automated fact-checking](https://www.amazon.science/publications/kg-craft-knowledge-graph-based-contrastive-reasoning-with-llms-for-enhancing-automated-fact-checking) | publication | Official page |
 | 2026 | [Journey before destination: On the importance of visual faithfulness in slow thinking](https://www.amazon.science/publications/journey-before-destination-on-the-importance-of-visual-faithfulness-in-slow-thinking) | publication | Official page |
+| 2026 | [Jacobian-guided noise injection for quantization robustness in large language models](https://www.amazon.science/publications/jacobian-guided-noise-injection-for-quantization-robustness-in-large-language-models) | publication | Official page |
 | 2026 | [Is GraphRAG needed? From basic RAG to graph-/agentic solutions with context optimization](https://www.amazon.science/publications/is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization) | publication | Official page |
 | 2026 | [Investigating equation-only reasoning in large language models](https://www.amazon.science/publications/investigating-equation-only-reasoning-in-large-language-models) | publication | Official page |
 | 2026 | [Inspectable tabular foundation models via in-context kernel learning](https://www.amazon.science/publications/inspectable-tabular-foundation-models-via-in-context-kernel-learning) | publication | Official page |
@@ -284,6 +291,7 @@
 | 2026 | [Exploring LLM-powered agents for modeling thermal dynamics of buildings](https://www.amazon.science/publications/exploring-llm-powered-agents-for-modeling-thermal-dynamics-of-buildings) | publication | Official page |
 | 2026 | [Explicit trait inference for multi-agent coordination](https://www.amazon.science/publications/explicit-trait-inference-for-multi-agent-coordination) | publication | Official page |
 | 2026 | [Exectune: Effective steering of black-box LLMs with guide models](https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models) | publication | Official page |
+| 2026 | [EvoMAS: Evolutionary generation of multi-agent systems](https://www.amazon.science/publications/evomas-evolutionary-generation-of-multi-agent-systems) | publication | Official page |
 | 2026 | [Enhancing part-level point grounding for any open-source MLLMs](https://www.amazon.science/publications/enhancing-part-level-point-grounding-for-any-open-source-mllms) | publication | Official page |
 | 2026 | [Encoding domain expertise in agents: Lessons from NFL Fantasy AI](https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai) | publication | Official page |
 | 2026 | [Enabling user agency in scalable content recommendations with large language models](https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models) | publication | Official page |
@@ -336,7 +344,6 @@
 | 2026 | [ARES: Adaptive red-teaming and end-to-end repair of policy-reward system](https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system) | publication | Official page |
 | 2026 | [A neurosymbolic approach to natural language formalization and verification](https://www.amazon.science/publications/a-neurosymbolic-approach-to-natural-language-formalization-and-verification) | publication | Official page |
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains) | publication | Official page |
-| 2026 | [Trace: TRajectory attribution for automated context engineering](https://www.amazon.science/publications/trace-trajectory-attribution-for-automated-context-engineering) | publication | Official page |
 | 2026 | [Knowing when to ask: Self-gated clarification for hierarchical language agents](https://www.amazon.science/publications/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents) | publication | Official page |
 | 2026 | [Evaluation pitfalls and sparsity limitations in LLM-based confidence estimates for classification](https://www.amazon.science/publications/evaluation-pitfalls-and-sparsity-limitations-in-llm-based-confidence-estimates-for-classification) | publication | Official page |
 

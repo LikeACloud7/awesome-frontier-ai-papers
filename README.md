@@ -4,22 +4,22 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-14T05:09:15+00:00`
-- Coverage: `6632` papers across `19` labs since 2024
+- Last generated: `2026-08-15T03:58:17+00:00`
+- Coverage: `6642` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇺🇸 US | [Microsoft](#microsoft) | 1832 | 2026-08-14 | [all papers](docs/labs/microsoft.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1103 | 2026-08-13 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 474 | 2026-08-13 | [all papers](docs/labs/google-deepmind.md) |
-| 🇺🇸 US | [NVIDIA](#nvidia) | 255 | 2026-08-12 | [all papers](docs/labs/nvidia.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1831 | 2026-08-11 | [all papers](docs/labs/microsoft.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 813 | 2026-08-11 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇺🇸 US | [NVIDIA](#nvidia) | 256 | 2026-08-12 | [all papers](docs/labs/nvidia.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 814 | 2026-08-11 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 534 | 2026-08-11 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 469 | 2026-08-11 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 36 | 2026-08-10 | [all papers](docs/labs/anthropic.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1096 | 2026-08-07 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 296 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 155 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
@@ -35,7 +35,9 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-08-14 | Microsoft | [OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://www.microsoft.com/en-us/research/publication/opscale-operator-level-provisioning-and-autoscaling-for-llm-serving/) | publication | Official page |
 | 2026-08-13 | Google/DeepMind | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
+| 2026-08-13 | Amazon | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-12 | NVIDIA | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
 | 2026-08-12 | Google/DeepMind | [Agentic profiles for effective AI governance](https://doi.org/10.1038/s41586-026-10805-z) | article | OpenAlex |
 | 2026-08-11 | Tencent/Hunyuan | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
@@ -44,21 +46,53 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-11 | Huawei/Noah | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
 | 2026-08-11 | Alibaba/Qwen | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
 | 2026-08-10 | Anthropic | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | publication | Official page |
+| 2026-08-10 | Tencent/Hunyuan | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | preprint | OpenAlex |
 | 2026-08-10 | Google/DeepMind | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
 | 2026-08-10 | ByteDance/Seed | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | paper | HuggingFace |
 | 2026-08-08 | Microsoft | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
 | 2026-08-08 | Huawei/Noah | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-08 | Microsoft | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
 | 2026-08-07 | Meta/FAIR, Amazon, NVIDIA | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-07 | Amazon | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex, Official page |
 | 2026-08-07 | Apple | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
-| 2026-08-07 | Apple | [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://machinelearning.apple.com/research/arbitrage-efficient-reasoning) | publication | Official page |
-| 2026-08-07 | Google/DeepMind, Amazon | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
-| 2026-08-07 | Tencent/Hunyuan | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
-| 2026-08-07 | Tencent/Hunyuan | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇺🇸 Microsoft
+
+`1832` papers · latest `2026-08-14` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-14 | [OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://www.microsoft.com/en-us/research/publication/opscale-operator-level-provisioning-and-autoscaling-for-llm-serving/) | publication | Official page |
+| 2026-08-11 | [DEMO: NetArena Adaptation for Next Waves of Network Benchmarks](https://doi.org/10.1145/3789240.3830284) | conference-paper | OpenAlex |
+| 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
+| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
+| 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
+| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
+| 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |
+| 2026-08-06 | [SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation](https://arxiv.org/abs/2608.05628) | preprint | OpenAlex |
+
+More: [1824 additional papers](docs/labs/microsoft.md)
+
+### 🇺🇸 Amazon
+
+`1103` papers · latest `2026-08-13` · [full list](docs/labs/amazon.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-13 | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
+| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex, Official page |
+| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
+| 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
+| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
+| 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
+| 2026-08-06 | [SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](https://doi.org/10.1145/3770855.3817807) | conference-paper | OpenAlex |
+
+More: [1095 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Google/DeepMind
 
@@ -79,7 +113,7 @@ More: [466 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 NVIDIA
 
-`255` papers · latest `2026-08-12` · [full list](docs/labs/nvidia.md)
+`256` papers · latest `2026-08-12` · [full list](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -88,45 +122,28 @@ More: [466 additional papers](docs/labs/google-deepmind.md)
 | 2026-08-06 | [VLMs for Videogame Data Annotation](https://arxiv.org/abs/2608.05949) | preprint | OpenAlex |
 | 2026-08-06 | [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](https://arxiv.org/abs/2608.05954) | preprint | OpenAlex |
 | 2026-08-06 | [MicroEvo: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](https://arxiv.org/abs/2608.06183) | preprint | OpenAlex |
+| 2026-08 | [HorizonRelight: Relighting Long-horizon Videos Consistently via Diffusion Transformers](https://research.nvidia.com/publication/2026-08_horizonrelight-relighting-long-horizon-videos-consistently-diffusion) | publication | Official page |
 | 2026-07-31 | [Chelatron: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](https://doi.org/10.26434/chemrxiv.15006844/v1) | preprint | OpenAlex |
 | 2026-07-30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](https://doi.org/10.1007/s11548-026-03763-4) | article | OpenAlex |
-| 2026-07-22 | [NVIDIA-labs OO Agents: Native Python Object-Oriented Agents](https://huggingface.co/papers/2607.20709) | paper | HuggingFace |
 
-More: [247 additional papers](docs/labs/nvidia.md)
-
-### 🇺🇸 Microsoft
-
-`1831` papers · latest `2026-08-11` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-11 | [DEMO: NetArena Adaptation for Next Waves of Network Benchmarks](https://doi.org/10.1145/3789240.3830284) | conference-paper | OpenAlex |
-| 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
-| 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
-| 2026-08-07 | [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](https://arxiv.org/abs/2508.18166) | conference-paper | OpenAlex |
-| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
-| 2026-08-06 | [m <sup>3</sup> BERT: A Modern, Multi-lingual, Matryoshka Bidirectional Encoder](https://doi.org/10.1145/3770855.3818308) | conference-paper | OpenAlex |
-| 2026-08-06 | [SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation](https://arxiv.org/abs/2608.05628) | preprint | OpenAlex |
-| 2026-08-06 | [Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning: Advances, Challenges, and Future Directions](https://doi.org/10.1145/3770855.3816466) | conference-paper | OpenAlex |
-
-More: [1823 additional papers](docs/labs/microsoft.md)
+More: [248 additional papers](docs/labs/nvidia.md)
 
 ### 🇨🇳 Tencent/Hunyuan
 
-`813` papers · latest `2026-08-11` · [full list](docs/labs/tencent-hunyuan.md)
+`814` papers · latest `2026-08-11` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
+| 2026-08-10 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | preprint | OpenAlex |
 | 2026-08-07 | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
 | 2026-08-07 | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
 | 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
 | 2026-08-07 | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
 | 2026-08-06 | [YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family](https://huggingface.co/papers/2608.07051) | technical-report | Official page |
 | 2026-08-06 | [When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories](https://arxiv.org/abs/2608.06057) | preprint | OpenAlex |
-| 2026-08-06 | [UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search](https://doi.org/10.1145/3770855.3818504) | conference-paper | OpenAlex |
 
-More: [805 additional papers](docs/labs/tencent-hunyuan.md)
+More: [806 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -195,23 +212,6 @@ More: [144 additional papers](docs/labs/bytedance-seed.md)
 | 2026-06-26 | [Anthropic Economic Index report: Cadences](https://www.anthropic.com/research/economic-index-june-2026-report) | publication | Official page |
 
 More: [28 additional papers](docs/labs/anthropic.md)
-
-### 🇺🇸 Amazon
-
-`1096` papers · latest `2026-08-07` · [full list](docs/labs/amazon.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
-| 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
-| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex |
-| 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
-| 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
-| 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
-| 2026-08-06 | [SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](https://doi.org/10.1145/3770855.3817807) | conference-paper | OpenAlex |
-| 2026-08-06 | [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://doi.org/10.1145/3770855.3818097) | conference-paper | OpenAlex |
-
-More: [1088 additional papers](docs/labs/amazon.md)
 
 ### 🇺🇸 Apple
 

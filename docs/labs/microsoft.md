@@ -1,14 +1,15 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1831`
-- Latest: `2026-08-11`
+- Papers: `1832`
+- Latest: `2026-08-14`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-14 | [OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://www.microsoft.com/en-us/research/publication/opscale-operator-level-provisioning-and-autoscaling-for-llm-serving/) | publication | Official page |
 | 2026-08-11 | [DEMO: NetArena Adaptation for Next Waves of Network Benchmarks](https://doi.org/10.1145/3789240.3830284) | conference-paper | OpenAlex |
 | 2026-08-08 | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
 | 2026-08-08 | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
