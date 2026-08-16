@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `469`
+- Papers: `470`
 - Latest: `2026-08-11`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
 | 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
+| 2026-08-08 | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |
 | 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |

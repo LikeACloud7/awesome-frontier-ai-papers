@@ -4,24 +4,24 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-15T03:58:17+00:00`
-- Coverage: `6642` papers across `19` labs since 2024
+- Last generated: `2026-08-16T04:04:18+00:00`
+- Coverage: `6644` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
 | 🇺🇸 US | [Microsoft](#microsoft) | 1832 | 2026-08-14 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Baidu](#baidu) | 297 | 2026-08-14 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1103 | 2026-08-13 | [all papers](docs/labs/amazon.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 474 | 2026-08-13 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 256 | 2026-08-12 | [all papers](docs/labs/nvidia.md) |
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 814 | 2026-08-11 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 534 | 2026-08-11 | [all papers](docs/labs/alibaba-qwen.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 469 | 2026-08-11 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 470 | 2026-08-11 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 36 | 2026-08-10 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
-| 🇨🇳 China | [Baidu](#baidu) | 296 | 2026-08-07 | [all papers](docs/labs/baidu.md) |
 | 🇺🇸 US | [Meta/FAIR](#metafair) | 155 | 2026-08-07 | [all papers](docs/labs/meta-fair.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 56 | 2026-07-31 | [all papers](docs/labs/openai.md) |
 | 🇨🇳 China | [Moonshot/Kimi](#moonshotkimi) | 20 | 2026-07-27 | [all papers](docs/labs/moonshot-kimi.md) |
@@ -36,6 +36,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
 | 2026-08-14 | Microsoft | [OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://www.microsoft.com/en-us/research/publication/opscale-operator-level-provisioning-and-autoscaling-for-llm-serving/) | publication | Official page |
+| 2026-08-14 | Baidu | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](https://doi.org/10.1117/12.3121525) | conference-abstract | OpenAlex |
 | 2026-08-13 | Google/DeepMind | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
 | 2026-08-13 | Amazon | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-12 | NVIDIA | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
@@ -50,11 +51,10 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-10 | Google/DeepMind | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
 | 2026-08-10 | ByteDance/Seed | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://huggingface.co/papers/2608.09802) | paper | HuggingFace |
 | 2026-08-08 | Microsoft | [ENCO: Deploying Production-Scale Engineering Copilots](https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/) | publication | Official page |
+| 2026-08-08 | Huawei/Noah | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |
 | 2026-08-08 | Huawei/Noah | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-08 | Microsoft | [OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://huggingface.co/papers/2608.08097) | paper | HuggingFace |
 | 2026-08-07 | Meta/FAIR, Amazon, NVIDIA | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
-| 2026-08-07 | Amazon | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex, Official page |
-| 2026-08-07 | Apple | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
 
 ## Papers By Lab
 
@@ -77,6 +77,23 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 More: [1824 additional papers](docs/labs/microsoft.md)
 
+### 🇨🇳 Baidu
+
+`297` papers · latest `2026-08-14` · [full list](docs/labs/baidu.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](https://doi.org/10.1117/12.3121525) | conference-abstract | OpenAlex |
+| 2026-08-07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
+| 2026-08-07 | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
+| 2026-08-07 | [Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849) | preprint | OpenAlex |
+| 2026-08-06 | [VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](https://arxiv.org/abs/2605.24675) | conference-paper | OpenAlex |
+| 2026-08-06 | [TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223) | preprint | OpenAlex |
+| 2026-08-06 | [SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963) | conference-paper | OpenAlex |
+| 2026-08-06 | [Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation](https://arxiv.org/abs/2602.11790) | conference-paper | OpenAlex |
+
+More: [289 additional papers](docs/labs/baidu.md)
+
 ### 🇺🇸 Amazon
 
 `1103` papers · latest `2026-08-13` · [full list](docs/labs/amazon.md)
@@ -85,7 +102,7 @@ More: [1824 additional papers](docs/labs/microsoft.md)
 |---|---|---|---|
 | 2026-08-13 | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
-| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | OpenAlex, Official page |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | Official page |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
 | 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
@@ -164,20 +181,20 @@ More: [526 additional papers](docs/labs/alibaba-qwen.md)
 
 ### 🇨🇳 Huawei/Noah
 
-`469` papers · latest `2026-08-11` · [full list](docs/labs/huawei-noah.md)
+`470` papers · latest `2026-08-11` · [full list](docs/labs/huawei-noah.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
 | 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
+| 2026-08-08 | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |
 | 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
 | 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
 | 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
-| 2026-08-06 | [Lifting the Veil of Non-Stationarity in Financial Market](https://doi.org/10.1145/3770855.3817881) | conference-paper | OpenAlex |
 
-More: [461 additional papers](docs/labs/huawei-noah.md)
+More: [462 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇨🇳 ByteDance/Seed
 
@@ -229,23 +246,6 @@ More: [28 additional papers](docs/labs/anthropic.md)
 | 2026-07-27 | [Beyond Scale and Generation: Understanding Language Model-based Entity Matching](https://arxiv.org/abs/2607.24688) | preprint | OpenAlex |
 
 More: [403 additional papers](docs/labs/apple.md)
-
-### 🇨🇳 Baidu
-
-`296` papers · latest `2026-08-07` · [full list](docs/labs/baidu.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](https://arxiv.org/abs/2605.27066) | conference-paper | OpenAlex |
-| 2026-08-07 | [Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](https://doi.org/10.1145/3770855.3817586) | conference-paper | OpenAlex |
-| 2026-08-07 | [Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849) | preprint | OpenAlex |
-| 2026-08-06 | [VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](https://arxiv.org/abs/2605.24675) | conference-paper | OpenAlex |
-| 2026-08-06 | [TS-RAG: Retrieval Augmented Generation for Time Series Forecasting](https://arxiv.org/abs/2608.06223) | preprint | OpenAlex |
-| 2026-08-06 | [SUDER: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963) | conference-paper | OpenAlex |
-| 2026-08-06 | [Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation](https://arxiv.org/abs/2602.11790) | conference-paper | OpenAlex |
-| 2026-08-05 | [Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2608.04935) | preprint | OpenAlex |
-
-More: [288 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Meta/FAIR
 
