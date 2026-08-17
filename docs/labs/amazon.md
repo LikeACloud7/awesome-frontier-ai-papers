@@ -11,7 +11,7 @@
 |---|---|---|---|
 | 2026-08-13 | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
-| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | Official page |
+| 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | Official page, OpenAlex |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
 | 2026-08-07 | [Multi-Turn Reinforcement Learning for Large Language Models: From Theory to Practice with Amazon SageMaker AI](https://doi.org/10.1145/3770855.3816472) | conference-paper | OpenAlex |
 | 2026-08-06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](https://doi.org/10.1145/3770855.3818237) | conference-paper | OpenAlex |
@@ -159,7 +159,7 @@
 | 2026 | [Small language models for efficient agentic tool calling: Outperforming large models with targeted fine-tuning](https://www.amazon.science/publications/small-language-models-for-efficient-agentic-tool-calling-outperforming-large-models-with-targeted-fine-tuning) | publication | Official page |
 | 2026 | [Self-refining vision language model for robotic failure detection and reasoning](https://www.amazon.science/publications/self-refining-vision-language-model-for-robotic-failure-detection-and-reasoning) | publication | Official page |
 | 2026 | [Self-aligned reward: Towards effective and efficient reasoners](https://www.amazon.science/publications/self-aligned-reward-towards-effective-and-efficient-reasoners) | publication | Official page |
-| 2026 | [SOP-Bench: Complex industrial SOPs for evaluating LLM agents](https://www.amazon.science/publications/sop-bench-complex-industrial-sops-for-evaluating-llm-agents) | publication | Official page |
+| 2026 | [SOP-Bench: Complex industrial SOPs for evaluating LLM agents](https://www.amazon.science/publications/sop-bench-complex-industrial-sops-for-evaluating-llm-agents) | publication | Official page, OpenAlex |
 | 2026 | [Personality-driven AI agents: Operationalizing OCEAN traits for human-AI collaboration in the coding domain](https://www.amazon.science/publications/personality-driven-ai-agents-operationalizing-ocean-traits-for-human-ai-collaboration-in-the-coding-domain) | publication | Official page |
 | 2026 | [PRECISE: Reducing the bias of LLM evaluations using prediction-powered ranking estimation](https://www.amazon.science/publications/precise-reducing-the-bias-of-llm-evaluations-using-prediction-powered-ranking-estimation) | publication | Official page |
 | 2026 | [Neural codec language model for controllable timbre transfer in music synthesis](https://www.amazon.science/publications/neural-codec-language-model-for-controllable-timbre-transfer-in-music-synthesis) | publication | Official page |
