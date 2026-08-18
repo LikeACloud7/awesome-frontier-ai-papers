@@ -46,7 +46,7 @@
 | 2026-08-03 | [Start Classifying: Categorical Critics for LLM Reinforcement Learning](https://arxiv.org/abs/2608.02181) | preprint | OpenAlex |
 | 2026-08-03 | [Self-Improving Large Language Models via Progressive Experience Evolution](https://arxiv.org/abs/2608.02139) | preprint | OpenAlex |
 | 2026-08-03 | [Evolving in the Agent Jungle via History-Informed Opponent Awareness](https://arxiv.org/abs/2608.02005) | preprint | OpenAlex |
-| 2026-08-02 | [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | technical-report | Official page, HuggingFace |
+| 2026-08-02 | [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://huggingface.co/papers/2608.02711) | technical-report | Official page |
 | 2026-08-02 | [GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking](https://arxiv.org/abs/2608.01410) | preprint | OpenAlex |
 | 2026-08-01 | [TEngineDB-V: An OLAP-Native Vector Search System for Large-$k$ Workloads at Tencent](https://arxiv.org/abs/2608.00650) | preprint | OpenAlex |
 | 2026-08-01 | [Medusa:Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://hdl.handle.net/2031/a517f72b-3f93-4445-a048-6cfb61b05423) | conference-paper | OpenAlex |
