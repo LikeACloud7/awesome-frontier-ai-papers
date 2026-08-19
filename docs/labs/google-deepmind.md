@@ -1,15 +1,18 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `474`
-- Latest: `2026-08-13`
+- Papers: `477`
+- Latest: `2026-08-17`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-17 | [Generative AI for efficient statistical computation of fluids](https://doi.org/10.1038/s41467-026-76390-x) | article | OpenAlex |
 | 2026-08-13 | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
+| 2026-08-13 | [Mixture of Training: Recombining Small-Scale Scaffolded Pretraining Runs into a Larger Language Model](https://arxiv.org/abs/2608.13277) | preprint | OpenAlex |
+| 2026-08-12 | [Sci-Surf: Navigating Scientific Literature Discovery through Human Feedback and Intelligent Summarization](https://arxiv.org/abs/2608.11973) | preprint | OpenAlex |
 | 2026-08-12 | [Agentic profiles for effective AI governance](https://doi.org/10.1038/s41586-026-10805-z) | article | OpenAlex |
 | 2026-08-10 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](https://doi.org/10.1145/3765964.3811645) | conference-paper | OpenAlex |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |

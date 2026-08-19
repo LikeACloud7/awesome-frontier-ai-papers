@@ -1,14 +1,16 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `814`
-- Latest: `2026-08-11`
+- Papers: `816`
+- Latest: `2026-08-17`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
+| 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
 | 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
 | 2026-08-10 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | preprint | OpenAlex |
 | 2026-08-07 | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
@@ -42,7 +44,7 @@
 | 2026-08-04 | [LoCA: Forward-Only LLM Tuning after One-Shot Calibration with Local Credit Assignment](https://arxiv.org/abs/2608.03020) | preprint | OpenAlex |
 | 2026-08-04 | [GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs](https://arxiv.org/abs/2608.03270) | preprint | OpenAlex |
 | 2026-08-04 | [GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model](https://arxiv.org/abs/2608.03215) | preprint | OpenAlex |
-| 2026-08-03 | [SkillJack: Persistent Skill Backdoors in Self-Evolving Agents](https://huggingface.co/papers/2608.03509) | technical-report | Official page, HuggingFace |
+| 2026-08-03 | [SkillJack: Persistent Skill Backdoors in Self-Evolving Agents](https://huggingface.co/papers/2608.03509) | technical-report | Official page |
 | 2026-08-03 | [Start Classifying: Categorical Critics for LLM Reinforcement Learning](https://arxiv.org/abs/2608.02181) | preprint | OpenAlex |
 | 2026-08-03 | [Self-Improving Large Language Models via Progressive Experience Evolution](https://arxiv.org/abs/2608.02139) | preprint | OpenAlex |
 | 2026-08-03 | [Evolving in the Agent Jungle via History-Informed Opponent Awareness](https://arxiv.org/abs/2608.02005) | preprint | OpenAlex |
