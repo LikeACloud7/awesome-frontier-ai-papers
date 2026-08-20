@@ -1,14 +1,16 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `477`
-- Latest: `2026-08-17`
+- Papers: `479`
+- Latest: `2026-08-18`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-18 | [Perturb-ME: Scalable mechanism discovery from phenotype-enriched genome-wide screens](https://doi.org/10.64898/2026.08.17.745330) | preprint | OpenAlex |
+| 2026-08-18 | [A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies](https://doi.org/10.64898/2026.08.12.743536) | preprint | OpenAlex |
 | 2026-08-17 | [Generative AI for efficient statistical computation of fluids](https://doi.org/10.1038/s41467-026-76390-x) | article | OpenAlex |
 | 2026-08-13 | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
 | 2026-08-13 | [Mixture of Training: Recombining Small-Scale Scaffolded Pretraining Runs into a Larger Language Model](https://arxiv.org/abs/2608.13277) | preprint | OpenAlex |

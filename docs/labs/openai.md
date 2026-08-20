@@ -1,14 +1,15 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `56`
-- Latest: `2026-07-31`
+- Papers: `57`
+- Latest: `2026-08-18`
 - [Back to README](../../README.md#openai)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-18 | [LifeSciBench: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences](https://doi.org/10.64898/2026.08.13.744657) | preprint | OpenAlex |
 | 2026-07-31 | [Learning to Coordinate Symbolic Tools: LLM Agents for Verified Sum-of-Squares Certificates](https://arxiv.org/abs/2608.00326) | preprint | OpenAlex |
 | 2026-07-28 | [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://huggingface.co/papers/2607.26115) | paper | HuggingFace |
 | 2026-06-30 | [GeneBench-Pro: Evaluating Multistage Statistical Reasoning\\in Genomics, Quantitative Biology, and Translational Biomedicine](https://doi.org/10.64898/2026.06.29.735386) | preprint | OpenAlex |

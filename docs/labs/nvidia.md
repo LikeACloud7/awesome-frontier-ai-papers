@@ -1,14 +1,15 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `256`
-- Latest: `2026-08-12`
+- Papers: `257`
+- Latest: `2026-08-18`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-18 | [Personal Behavior-Robust and Interpretable Multimodal Sentiment Analysis](https://doi.org/10.1145/3829080) | article | OpenAlex |
 | 2026-08-12 | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
 | 2026-08-06 | [VLMs for Videogame Data Annotation](https://arxiv.org/abs/2608.05949) | preprint | OpenAlex |

@@ -33,9 +33,9 @@
 | 2026-08-05 | [Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses?](https://arxiv.org/abs/2608.04828) | preprint | OpenAlex |
 | 2026-08-05 | [MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off](https://arxiv.org/abs/2608.04843) | preprint | OpenAlex |
 | 2026-08-05 | [InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval](https://arxiv.org/abs/2608.04761) | preprint | OpenAlex |
-| 2026-08-04 | [WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://huggingface.co/papers/2608.04964) | technical-report | Official page, HuggingFace |
-| 2026-08-04 | [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | technical-report | Official page, HuggingFace |
-| 2026-08-04 | [When Memory Lies: An Empirical Study of Spatial Memory Staleness in VLM Agents](https://huggingface.co/papers/2608.04574) | technical-report | Official page, HuggingFace |
+| 2026-08-04 | [WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://huggingface.co/papers/2608.04964) | technical-report | Official page |
+| 2026-08-04 | [WorldClaw: Agentic 3D Open-World Generation at Scale](https://huggingface.co/papers/2608.05248) | technical-report | Official page |
+| 2026-08-04 | [When Memory Lies: An Empirical Study of Spatial Memory Staleness in VLM Agents](https://huggingface.co/papers/2608.04574) | technical-report | Official page |
 | 2026-08-04 | [Recursive Synthesis for Long-Horizon Terminal Tasks](https://huggingface.co/papers/2608.05466) | technical-report | Official page, HuggingFace |
 | 2026-08-04 | [Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents](https://arxiv.org/abs/2608.03137) | preprint | OpenAlex |
 | 2026-08-04 | [Training Documents Reranker with Search Rubrics for Deep Research Agent](https://arxiv.org/abs/2608.03527) | preprint | OpenAlex |
