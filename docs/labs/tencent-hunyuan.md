@@ -28,7 +28,7 @@
 | 2026-08-06 | [Label Annotation for Tabular Anomaly Detection with Large Language Models](https://doi.org/10.1145/3770855.3817725) | conference-paper | OpenAlex |
 | 2026-08-06 | [Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA](https://doi.org/10.1145/3770855.3818407) | conference-paper | OpenAlex |
 | 2026-08-06 | [AdPilot: Towards Fully Autonomous Advertising Delivery via Agentic Reinforcement Learning](https://doi.org/10.1145/3770855.3818315) | conference-paper | OpenAlex |
-| 2026-08-05 | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.06197) | technical-report | Official page, HuggingFace |
+| 2026-08-05 | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://huggingface.co/papers/2608.06197) | technical-report | Official page |
 | 2026-08-05 | [Skills Know Their Neighbors: Cluster-Contrastive Capability Pages for Skill Retrieval](https://arxiv.org/abs/2608.04482) | preprint | OpenAlex |
 | 2026-08-05 | [Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses?](https://arxiv.org/abs/2608.04828) | preprint | OpenAlex |
 | 2026-08-05 | [MemoryCPT: An End-to-End Agent Memory Framework for Cost-Performance Trade-off](https://arxiv.org/abs/2608.04843) | preprint | OpenAlex |

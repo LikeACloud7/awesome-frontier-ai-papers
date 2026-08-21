@@ -101,7 +101,7 @@
 | 2026-02-24 | [The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics](https://machinelearning.apple.com/research/cot) | publication | Official page |
 | 2026-02-24 | [AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://machinelearning.apple.com/research/amuse) | publication | Official page |
 | 2026-02-23 | [Learning to Evict from Key-Value Cache](https://machinelearning.apple.com/research/evict) | publication | Official page |
-| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page, OpenAlex |
+| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page |
 | 2026-02-17 | [Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](https://machinelearning.apple.com/research/ferret-ui) | publication | Official page |
 | 2026-02-16 | [Asynchronous Verified Semantic Caching for Tiered LLM Architectures](https://machinelearning.apple.com/research/semantic-caching) | publication | Official page |
 | 2026-02-13 | [A Small-Scale System for Autoregressive Program Synthesis Enabling Controlled Experimentation](https://machinelearning.apple.com/research/controlled-experimentation) | publication | Official page |

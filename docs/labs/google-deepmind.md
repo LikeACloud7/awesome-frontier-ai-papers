@@ -180,7 +180,7 @@
 | 2026-02-20 | [Synergetic Adaptive Orchestration and Governance: A Unified Framework for Production-Grade Multi-Agent Systems](https://doi.org/10.1109/southeastcon63549.2026.11476668) | article | OpenAlex |
 | 2026-02-19 | [Gemini 3.1 Pro Model Card](https://deepmind.google/models/model-cards/gemini-3-1-pro/) | model_card | Official page |
 | 2026-02-19 | [A Theoretical Framework for Modular Learning of Robust Generative Models](http://arxiv.org/abs/2602.17554) | article | OpenAlex |
-| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page, OpenAlex |
+| 2026-02-18 | [Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment](https://machinelearning.apple.com/research/query-auto-completion) | publication | Official page |
 | 2026-02-18 | [Lyria 3 Model Card](https://deepmind.google/models/model-cards/lyria-3/) | model_card | Official page |
 | 2026-02-16 | [Third Workshop on Generative AI for Recommender Systems and Personalization](https://doi.org/10.1145/3773966.3778018) | article | OpenAlex |
 | 2026-02-16 | [The Future of Personalized Universal Assistant](https://doi.org/10.1145/3773966.3778027) | article | OpenAlex |
