@@ -1,14 +1,15 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `470`
-- Latest: `2026-08-11`
+- Papers: `471`
+- Latest: `2026-08-19`
 - [Back to README](../../README.md#huaweinoah)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-19 | [UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](https://doi.org/10.1016/j.patcog.2026.114652) | article | OpenAlex |
 | 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
 | 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
 | 2026-08-08 | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |

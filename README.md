@@ -4,13 +4,14 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-22T04:01:35+00:00`
-- Coverage: `6658` papers across `19` labs since 2024
+- Last generated: `2026-08-23T04:06:45+00:00`
+- Coverage: `6659` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 471 | 2026-08-19 | [all papers](docs/labs/huawei-noah.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1835 | 2026-08-18 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 479 | 2026-08-18 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 257 | 2026-08-18 | [all papers](docs/labs/nvidia.md) |
@@ -19,7 +20,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 816 | 2026-08-17 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 536 | 2026-08-17 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 297 | 2026-08-14 | [all papers](docs/labs/baidu.md) |
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 470 | 2026-08-11 | [all papers](docs/labs/huawei-noah.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 36 | 2026-08-10 | [all papers](docs/labs/anthropic.md) |
 | 🇺🇸 US | [Apple](#apple) | 411 | 2026-08-07 | [all papers](docs/labs/apple.md) |
@@ -35,6 +35,7 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-08-19 | Huawei/Noah | [UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](https://doi.org/10.1016/j.patcog.2026.114652) | article | OpenAlex |
 | 2026-08-18 | Google/DeepMind | [Perturb-ME: Scalable mechanism discovery from phenotype-enriched genome-wide screens](https://doi.org/10.64898/2026.08.17.745330) | preprint | OpenAlex |
 | 2026-08-18 | NVIDIA | [Personal Behavior-Robust and Interpretable Multimodal Sentiment Analysis](https://doi.org/10.1145/3829080) | article | OpenAlex |
 | 2026-08-18 | Microsoft | [Measuring AI Scientists: From Exams to Discovery](https://doi.org/10.26434/chemrxiv.15007582/v1) | preprint | OpenAlex |
@@ -54,11 +55,27 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-13 | Google/DeepMind | [Mixture of Training: Recombining Small-Scale Scaffolded Pretraining Runs into a Larger Language Model](https://arxiv.org/abs/2608.13277) | preprint | OpenAlex |
 | 2026-08-12 | NVIDIA | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
 | 2026-08-12 | Google/DeepMind | [Sci-Surf: Navigating Scientific Literature Discovery through Human Feedback and Intelligent Summarization](https://arxiv.org/abs/2608.11973) | preprint | OpenAlex |
-| 2026-08-12 | Google/DeepMind | [Agentic profiles for effective AI governance](https://doi.org/10.1038/s41586-026-10805-z) | article | OpenAlex |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
+
+### 🇨🇳 Huawei/Noah
+
+`471` papers · latest `2026-08-19` · [full list](docs/labs/huawei-noah.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-19 | [UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](https://doi.org/10.1016/j.patcog.2026.114652) | article | OpenAlex |
+| 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
+| 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
+| 2026-08-08 | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |
+| 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
+| 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
+| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
+| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
+
+More: [463 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇺🇸 Microsoft
 
@@ -195,23 +212,6 @@ More: [528 additional papers](docs/labs/alibaba-qwen.md)
 | 2026-08-06 | [Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation](https://arxiv.org/abs/2602.11790) | conference-paper | OpenAlex |
 
 More: [289 additional papers](docs/labs/baidu.md)
-
-### 🇨🇳 Huawei/Noah
-
-`470` papers · latest `2026-08-11` · [full list](docs/labs/huawei-noah.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
-| 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
-| 2026-08-08 | [TongGuOCR: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](https://arxiv.org/abs/2608.07917) | preprint | OpenAlex |
-| 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
-| 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
-| 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
-| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
-| 2026-08-06 | [PACE: Unleashing the Power of Code Embeddings to Boost AutoML Agents](https://doi.org/10.1145/3770855.3817742) | conference-paper | OpenAlex |
-
-More: [462 additional papers](docs/labs/huawei-noah.md)
 
 ### 🇨🇳 ByteDance/Seed
 
