@@ -4,20 +4,20 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-08-25T04:05:59+00:00`
-- Coverage: `6659` papers across `19` labs since 2024
+- Last generated: `2026-08-26T04:07:12+00:00`
+- Coverage: `6661` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 471 | 2026-08-19 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 472 | 2026-08-23 | [all papers](docs/labs/huawei-noah.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 817 | 2026-08-20 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1835 | 2026-08-18 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 479 | 2026-08-18 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 257 | 2026-08-18 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [OpenAI](#openai) | 57 | 2026-08-18 | [all papers](docs/labs/openai.md) |
 | 🇺🇸 US | [Amazon](#amazon) | 1104 | 2026-08-17 | [all papers](docs/labs/amazon.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 816 | 2026-08-17 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 536 | 2026-08-17 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 297 | 2026-08-14 | [all papers](docs/labs/baidu.md) |
 | 🇨🇳 China | [ByteDance/Seed](#bytedanceseed) | 152 | 2026-08-10 | [all papers](docs/labs/bytedance-seed.md) |
@@ -35,6 +35,8 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-08-23 | Huawei/Noah | [Vision-Language Model Based Transfer Learning for Historical Document Recognition](https://doi.org/10.1007/978-3-032-36039-7_24) | conference-paper | OpenAlex |
+| 2026-08-20 | Tencent/Hunyuan | [A workflow-aligned multimodal framework for interpretable breast cancer diagnosis and molecular subtyping](https://doi.org/10.1016/j.eswa.2026.134108) | article | OpenAlex |
 | 2026-08-19 | Huawei/Noah | [UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](https://doi.org/10.1016/j.patcog.2026.114652) | article | OpenAlex |
 | 2026-08-18 | Google/DeepMind | [Perturb-ME: Scalable mechanism discovery from phenotype-enriched genome-wide screens](https://doi.org/10.64898/2026.08.17.745330) | preprint | OpenAlex |
 | 2026-08-18 | NVIDIA | [Personal Behavior-Robust and Interpretable Multimodal Sentiment Analysis](https://doi.org/10.1145/3829080) | article | OpenAlex |
@@ -53,8 +55,6 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-13 | Google/DeepMind | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
 | 2026-08-13 | Amazon | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](https://doi.org/10.1175/aies-d-25-0101.1) | article | OpenAlex |
 | 2026-08-13 | Google/DeepMind | [Mixture of Training: Recombining Small-Scale Scaffolded Pretraining Runs into a Larger Language Model](https://arxiv.org/abs/2608.13277) | preprint | OpenAlex |
-| 2026-08-12 | NVIDIA | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
-| 2026-08-12 | Google/DeepMind | [Sci-Surf: Navigating Scientific Literature Discovery through Human Feedback and Intelligent Summarization](https://arxiv.org/abs/2608.11973) | preprint | OpenAlex |
 
 ## Papers By Lab
 
@@ -62,10 +62,11 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 
 ### 🇨🇳 Huawei/Noah
 
-`471` papers · latest `2026-08-19` · [full list](docs/labs/huawei-noah.md)
+`472` papers · latest `2026-08-23` · [full list](docs/labs/huawei-noah.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-23 | [Vision-Language Model Based Transfer Learning for Historical Document Recognition](https://doi.org/10.1007/978-3-032-36039-7_24) | conference-paper | OpenAlex |
 | 2026-08-19 | [UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](https://doi.org/10.1016/j.patcog.2026.114652) | article | OpenAlex |
 | 2026-08-11 | [Delphinus: Ultra-Fast Link Failure Detection and Recovery for AI Data Center Networks](https://doi.org/10.1145/3789240.3828741) | conference-paper | OpenAlex |
 | 2026-08-11 | [Balanced Sparse Tree: A Scalable Network Topology for Large Language Models](https://doi.org/10.1145/3789240.3829208) | conference-paper | OpenAlex |
@@ -73,9 +74,25 @@ Each section shows the newest papers for quick scanning. Open the per-lab page f
 | 2026-08-08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](http://arxiv.org/abs/2510.15480) | article | OpenAlex |
 | 2026-08-07 | [SLOPE: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](https://doi.org/10.1145/3838599) | article | OpenAlex |
 | 2026-08-06 | [Large Language Model (LLM) as an Excellent Reinforcement Learning Researcher in both Single-Agent and Multi-Agent Scenarios](https://doi.org/10.1145/3770855.3818940) | conference-paper | OpenAlex |
-| 2026-08-06 | [Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models](https://arxiv.org/abs/2608.05903) | preprint | OpenAlex |
 
-More: [463 additional papers](docs/labs/huawei-noah.md)
+More: [464 additional papers](docs/labs/huawei-noah.md)
+
+### 🇨🇳 Tencent/Hunyuan
+
+`817` papers · latest `2026-08-20` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-08-20 | [A workflow-aligned multimodal framework for interpretable breast cancer diagnosis and molecular subtyping](https://doi.org/10.1016/j.eswa.2026.134108) | article | OpenAlex |
+| 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
+| 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
+| 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
+| 2026-08-10 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | preprint | OpenAlex |
+| 2026-08-07 | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
+| 2026-08-07 | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
+| 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
+
+More: [809 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇺🇸 Microsoft
 
@@ -161,23 +178,6 @@ More: [49 additional papers](docs/labs/openai.md)
 | 2026-08-06 | [Teaching LLMs to Write System Kernels for AI Accelerators: Post-Training, Reasoning, and Agentic Optimization](https://doi.org/10.1145/3770855.3816468) | conference-paper | OpenAlex |
 
 More: [1096 additional papers](docs/labs/amazon.md)
-
-### 🇨🇳 Tencent/Hunyuan
-
-`816` papers · latest `2026-08-17` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
-| 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
-| 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
-| 2026-08-10 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158) | preprint | OpenAlex |
-| 2026-08-07 | [Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.07371) | preprint | OpenAlex |
-| 2026-08-07 | [Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment](https://doi.org/10.1145/3770855.3818491) | conference-paper | OpenAlex |
-| 2026-08-07 | [MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization](https://doi.org/10.1145/3770855.3818445) | conference-paper | OpenAlex |
-| 2026-08-07 | [G-STAR: Graph-based Scheduling with Trace-driven Adaptive Routing for Industrial LLM-based Multi-Agent Systems](https://doi.org/10.1145/3770855.3818421) | conference-paper | OpenAlex |
-
-More: [808 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 

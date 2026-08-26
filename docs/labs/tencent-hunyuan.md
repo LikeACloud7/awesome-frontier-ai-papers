@@ -1,14 +1,15 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `816`
-- Latest: `2026-08-17`
+- Papers: `817`
+- Latest: `2026-08-20`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-20 | [A workflow-aligned multimodal framework for interpretable breast cancer diagnosis and molecular subtyping](https://doi.org/10.1016/j.eswa.2026.134108) | article | OpenAlex |
 | 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
 | 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
 | 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |
