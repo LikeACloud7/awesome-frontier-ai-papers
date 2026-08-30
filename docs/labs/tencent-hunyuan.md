@@ -1,14 +1,19 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `817`
-- Latest: `2026-08-20`
+- Papers: `822`
+- Latest: `2026-08-28`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
+| 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
+| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | OpenAlex |
+| 2026-08-25 | [PiT: Progressive Diffusion Transformer](https://doi.org/10.1016/j.patcog.2026.114732) | article | OpenAlex |
+| 2026-08-24 | [Best Practice Critic Optimization](https://arxiv.org/abs/2608.23566) | preprint | OpenAlex |
 | 2026-08-20 | [A workflow-aligned multimodal framework for interpretable breast cancer diagnosis and molecular subtyping](https://doi.org/10.1016/j.eswa.2026.134108) | article | OpenAlex |
 | 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
 | 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
