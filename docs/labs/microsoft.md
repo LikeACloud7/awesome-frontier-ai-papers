@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1836`
+- Papers: `1840`
 - Latest: `2026-08-27`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,10 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-27 | [LLM Prompt Interfaces as Execution Contracts: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](https://doi.org/10.70917/ijcisim-2026-5217) | article | OpenAlex |
+| 2026-08-26 | [VGI-Bench: Probing Visual Intelligence in Video Generation Models](https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/) | publication | Official page |
+| 2026-08-24 | [HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/) | publication | Official page |
+| 2026-08-22 | [PowerSlider: Exploiting Phase Asymmetry for LLM Serving under Demand Response](https://www.microsoft.com/en-us/research/publication/powerslider-exploiting-phase-asymmetry-for-llm-serving-under-demand-response/) | publication | Official page |
+| 2026-08-18 | [Agent Lightning v1.0: Towards Harnessed Agentic RL](https://www.microsoft.com/en-us/research/publication/agent-lightning-v1-0-towards-harnessed-agentic-rl/) | publication | Official page |
 | 2026-08-18 | [Measuring AI Scientists: From Exams to Discovery](https://doi.org/10.26434/chemrxiv.15007582/v1) | preprint | OpenAlex |
 | 2026-08-17 | [Proofs Promptly: Proof-Oriented Programming with AI Agents (Experience Report)](https://doi.org/10.1145/3828709) | article | OpenAlex |
 | 2026-08-14 | [OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://www.microsoft.com/en-us/research/publication/opscale-operator-level-provisioning-and-autoscaling-for-llm-serving/) | publication | Official page |

@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `822`
+- Papers: `831`
 - Latest: `2026-08-28`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -10,11 +10,20 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
+| 2026-08-27 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | technical-report | Official page |
+| 2026-08-27 | [Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](https://huggingface.co/papers/2608.28478) | technical-report | Official page |
 | 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
-| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | OpenAlex |
+| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | OpenAlex, Official page |
 | 2026-08-25 | [PiT: Progressive Diffusion Transformer](https://doi.org/10.1016/j.patcog.2026.114732) | article | OpenAlex |
+| 2026-08-24 | [GameWAM: A World Action Model for Video Games](https://huggingface.co/papers/2608.26200) | technical-report | Official page |
+| 2026-08-24 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](https://huggingface.co/papers/2608.24794) | technical-report | Official page |
 | 2026-08-24 | [Best Practice Critic Optimization](https://arxiv.org/abs/2608.23566) | preprint | OpenAlex |
+| 2026-08-21 | [GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?](https://huggingface.co/papers/2608.21833) | technical-report | Official page |
+| 2026-08-20 | [FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](https://huggingface.co/papers/2608.19758) | technical-report | Official page |
 | 2026-08-20 | [A workflow-aligned multimodal framework for interpretable breast cancer diagnosis and molecular subtyping](https://doi.org/10.1016/j.eswa.2026.134108) | article | OpenAlex |
+| 2026-08-19 | [WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://huggingface.co/papers/2608.20336) | technical-report | Official page |
+| 2026-08-17 | [Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection](https://huggingface.co/papers/2608.16393) | technical-report | Official page |
+| 2026-08-17 | [CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing](https://huggingface.co/papers/2608.17566) | technical-report | Official page |
 | 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
 | 2026-08-17 | [An explainable biomedical foundation model via large-scale concept-enhanced vision–language pretraining](https://doi.org/10.1038/s41551-026-01764-x) | article | OpenAlex |
 | 2026-08-11 | [RosePO: Customized Preference Alignment in LLM-Based Recommendation](https://doi.org/10.1145/3833420) | article | OpenAlex |

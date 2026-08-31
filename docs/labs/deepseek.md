@@ -1,14 +1,15 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `31`
-- Latest: `2026-07-06`
+- Papers: `32`
+- Latest: `2026-08-25`
 - [Back to README](../../README.md#deepseek)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-25 | [A Programming Paradigm for Spatiotemporal Composability](https://huggingface.co/papers/2608.25512) | technical-report | Official page |
 | 2026-07-06 | [DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://huggingface.co/papers/2607.05147) | paper | HuggingFace |
 | 2026-06-26 | [DSpark](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | technical-report | Official repo |
 | 2026-05-12 | [PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://huggingface.co/papers/2605.13027) | technical-report | Official page |

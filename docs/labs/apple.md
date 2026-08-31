@@ -1,14 +1,26 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `411`
-- Latest: `2026-08-07`
+- Papers: `423`
+- Latest: `2026-08-28`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-28 | [LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs](https://machinelearning.apple.com/research/llms-not-consistently-bayesian) | publication | Official page |
+| 2026-08-28 | [Agent Seer: Synthesizing Scenarios from Specification Understanding](https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios) | publication | Official page |
+| 2026-08-26 | [PROOF-Gen: From Optimized Data to Better Distillation](https://machinelearning.apple.com/research/proof-gen-optimized-distillation) | publication | Official page |
+| 2026-08-26 | [Luce: Relightable Gaussians for 3D Asset Generation](https://machinelearning.apple.com/research/relightable-gaussians-3d-generation) | publication | Official page |
+| 2026-08-26 | [IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining](https://machinelearning.apple.com/research/idea-prune-pipeline) | publication | Official page |
+| 2026-08-25 | [STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation](https://machinelearning.apple.com/research/starflow2-multimodal-generation) | publication | Official page |
+| 2026-08-24 | [Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning](https://machinelearning.apple.com/research/internalized-visual-thinking) | publication | Official page |
+| 2026-08-20 | [Scaling Laws for Mixture Pretraining Under Data Constraints](https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining) | publication | Official page |
+| 2026-08-20 | [Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions) | publication | Official page |
+| 2026-08-19 | [The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs](https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal) | publication | Official page |
+| 2026-08-19 | [Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts](https://machinelearning.apple.com/research/human-like-behaviors-llms) | publication | Official page |
+| 2026-08-18 | [GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings](https://machinelearning.apple.com/research/grpo-beyond-english) | publication | Official page |
 | 2026-08-07 | [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://machinelearning.apple.com/research/diffusion-autoregressive-performance) | publication | Official page |
 | 2026-08-07 | [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://machinelearning.apple.com/research/arbitrage-efficient-reasoning) | publication | Official page |
 | 2026-08-06 | [Locking Pretrained Weights via Deep Low-Rank Residual Distillation](https://machinelearning.apple.com/research/locking-pretrained-weights) | publication | Official page |
