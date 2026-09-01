@@ -1,14 +1,16 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1840`
-- Latest: `2026-08-27`
+- Papers: `1842`
+- Latest: `2026-09-01`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09-01 | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
+| 2026-08-29 | [Toward Cultural Alignment: Human-Centered Evaluation of Multimodal AI Stories Across Five African Communities](https://www.microsoft.com/en-us/research/publication/toward-cultural-alignment-human-centered-evaluation-of-multimodal-ai-stories-across-five-african-communities/) | publication | Official page |
 | 2026-08-27 | [LLM Prompt Interfaces as Execution Contracts: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](https://doi.org/10.70917/ijcisim-2026-5217) | article | OpenAlex |
 | 2026-08-26 | [VGI-Bench: Probing Visual Intelligence in Video Generation Models](https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/) | publication | Official page |
 | 2026-08-24 | [HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/) | publication | Official page |

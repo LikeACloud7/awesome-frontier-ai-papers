@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `831`
+- Papers: `832`
 - Latest: `2026-08-28`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -9,11 +9,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-28 | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
 | 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
 | 2026-08-27 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | technical-report | Official page |
 | 2026-08-27 | [Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](https://huggingface.co/papers/2608.28478) | technical-report | Official page |
 | 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
-| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | OpenAlex, Official page |
+| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | Official page |
 | 2026-08-25 | [PiT: Progressive Diffusion Transformer](https://doi.org/10.1016/j.patcog.2026.114732) | article | OpenAlex |
 | 2026-08-24 | [GameWAM: A World Action Model for Video Games](https://huggingface.co/papers/2608.26200) | technical-report | Official page |
 | 2026-08-24 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](https://huggingface.co/papers/2608.24794) | technical-report | Official page |

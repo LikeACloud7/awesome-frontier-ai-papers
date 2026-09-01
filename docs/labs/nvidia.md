@@ -1,14 +1,16 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `257`
-- Latest: `2026-08-18`
+- Papers: `259`
+- Latest: `2026-09`
 - [Back to README](../../README.md#nvidia)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09 | [Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding](https://research.nvidia.com/publication/2026-09_why-and-when-visual-token-pruning-fails-study-relevant-visual-information-shift) | publication | Official page |
+| 2026-09 | [GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](https://research.nvidia.com/publication/2026-09_genrecal-generation-after-recalibration-large-small-vision-language-models) | publication | Official page |
 | 2026-08-18 | [Personal Behavior-Robust and Interpretable Multimodal Sentiment Analysis](https://doi.org/10.1145/3829080) | article | OpenAlex |
 | 2026-08-12 | [SONIC: Supersizing motion tracking for natural humanoid whole-body control](https://doi.org/10.1126/scirobotics.aed4592) | article | OpenAlex |
 | 2026-08-07 | [Enterprise AI Agents: From Prototypes to Production](https://doi.org/10.1145/3770855.3818266) | conference-paper | OpenAlex |
