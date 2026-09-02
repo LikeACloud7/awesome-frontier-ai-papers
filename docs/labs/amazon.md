@@ -1,14 +1,15 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1118`
-- Latest: `2026-08-27`
+- Papers: `1119`
+- Latest: `2026-08-29`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-29 | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](https://doi.org/10.1016/j.jbi.2026.105095) | article | OpenAlex |
 | 2026-08-27 | [BrailleBench: Investigating Multi-Criteria Braille Comprehension in Large Language Models](https://arxiv.org/abs/2608.27268) | preprint | OpenAlex |
 | 2026-08-19 | [AMMO Sessions Server](https://github.com/amazon-science/ammo/blob/main/docs/AMMO_arXiv_Paper.pdf) | technical-report | Official repo |
 | 2026-08-17 | [A survey of reward hacking in agentic large language model systems](https://doi.org/10.1007/s44163-026-01980-z) | article | OpenAlex |
@@ -74,7 +75,7 @@
 | 2026-05-07 | [Cross-domain Few-shot Object Detection with Multi-modal Textual Enrichment](http://arxiv.org/abs/2502.16469) | article | OpenAlex |
 | 2026-04-30 | [From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking](https://arxiv.org/abs/2604.27410) | article | Official page |
 | 2026-04-25 | [Context-aware multi-property antibody predictor: a novel framework integrating text and protein language models](https://doi.org/10.1038/s41540-026-00723-1) | article | Official page |
-| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex |
+| 2026-04-24 | [SAS: Sparse Attention Synthesizer for Efficient Language Model Inference](https://doi.org/10.1145/3767295.3769364) | article | OpenAlex, Official page |
 | 2026-04-23 | [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](https://arxiv.org/abs/2604.22119) | article | OpenAlex |
 | 2026-04-21 | [Scale: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM](https://doi.org/10.1109/icassp55912.2026.11462898) | article | Official page |
 | 2026-04-21 | [Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts](https://arxiv.org/abs/2604.19835) | article | OpenAlex |

@@ -1,14 +1,15 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `25`
-- Latest: `2026-07`
+- Papers: `26`
+- Latest: `2026-08-28`
 - [Back to README](../../README.md#stepfun)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-28 | [Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models](https://huggingface.co/papers/2608.29137) | technical-report | Official page |
 | 2026-07 | [MentalThink: Shaping Thoughts in Mental SVG World](https://huggingface.co/papers/2607.03530) | technical-report | Official page |
 | 2026-06-23 | [ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://huggingface.co/papers/2606.25763) | technical-report | Official page |
 | 2026-06 | [SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://huggingface.co/papers/2606.09669) | technical-report | Official page |

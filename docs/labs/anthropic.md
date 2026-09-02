@@ -1,14 +1,15 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `38`
-- Latest: `2026-08-26`
+- Papers: `39`
+- Latest: `2026-09`
 - [Back to README](../../README.md#anthropic)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09 | [Claude Fable 5.1 and Mythos 5.1 System Card](https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card) | model_card | Official page |
 | 2026-08-26 | [Enabling independent research on how people use Claude](https://www.anthropic.com/research/enabling-independent-research) | publication | Official page |
 | 2026-08-18 | [How Claude is accelerating protein design and analytical chemistry](https://www.anthropic.com/research/Claude-accelerates-protein-design) | publication | Official page |
 | 2026-08-10 | [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta) | publication | Official page |

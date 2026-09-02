@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `538`
+- Papers: `540`
 - Latest: `2026-08-30`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -9,7 +9,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-08-30 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | technical-report | Official page |
 | 2026-08-30 | [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://huggingface.co/papers/2608.30320) | technical-report | Official page |
+| 2026-08-30 | [E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](https://huggingface.co/papers/2608.30730) | technical-report | Official page |
 | 2026-08-24 | [Qwen3.8-Flash-Next](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf) | technical-report | Official repo |
 | 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
 | 2026-08-17 | [Trans-Percept: robust perceptive locomotion in the wild via spatiotemporal causal transformers](https://doi.org/10.1038/s41598-026-62543-x) | article | OpenAlex |
