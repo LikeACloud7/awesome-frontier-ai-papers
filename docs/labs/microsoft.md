@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1843`
+- Papers: `1844`
 - Latest: `2026-09-01`
 - [Back to README](../../README.md#microsoft)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-09-01 | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
+| 2026-09-01 | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
 | 2026-09-01 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | paper | HuggingFace |
 | 2026-08-29 | [Toward Cultural Alignment: Human-Centered Evaluation of Multimodal AI Stories Across Five African Communities](https://www.microsoft.com/en-us/research/publication/toward-cultural-alignment-human-centered-evaluation-of-multimodal-ai-stories-across-five-african-communities/) | publication | Official page |
 | 2026-08-27 | [LLM Prompt Interfaces as Execution Contracts: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](https://doi.org/10.70917/ijcisim-2026-5217) | article | OpenAlex |

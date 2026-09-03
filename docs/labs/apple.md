@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `423`
-- Latest: `2026-08-28`
+- Papers: `424`
+- Latest: `2026-09-02`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09-02 | [REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs](https://machinelearning.apple.com/research/refactor-vla-motor-programs) | publication | Official page |
 | 2026-08-28 | [LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs](https://machinelearning.apple.com/research/llms-not-consistently-bayesian) | publication | Official page |
 | 2026-08-28 | [Agent Seer: Synthesizing Scenarios from Specification Understanding](https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios) | publication | Official page |
 | 2026-08-26 | [PROOF-Gen: From Optimized Data to Better Distillation](https://machinelearning.apple.com/research/proof-gen-optimized-distillation) | publication | Official page |

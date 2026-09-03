@@ -1,14 +1,15 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `481`
-- Latest: `2026-08-31`
+- Papers: `482`
+- Latest: `2026-09-02`
 - [Back to README](../../README.md#googledeepmind)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09-02 | [Gemini 3.8 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | model_card | Official page |
 | 2026-08-31 | [Machine Learning-Based Prediction of Maternal Morbidity across Heterogeneous Populations in the United States using Sequential Modeling of the All of Us Dataset](https://doi.org/10.64898/2026.08.25.26360552) | preprint | OpenAlex |
 | 2026-08-27 | [Inference Perf: A Benchmarking Tool for GenAI Inference](https://doi.org/10.21105/joss.10314) | article | OpenAlex |
 | 2026-08-18 | [Perturb-ME: Scalable mechanism discovery from phenotype-enriched genome-wide screens](https://doi.org/10.64898/2026.08.17.745330) | preprint | OpenAlex |
