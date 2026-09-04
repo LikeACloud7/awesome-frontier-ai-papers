@@ -4,22 +4,22 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-09-03T08:10:17+00:00`
-- Coverage: `6729` papers across `19` labs since 2024
+- Last generated: `2026-09-04T08:05:25+00:00`
+- Coverage: `6733` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 482 | 2026-09-02 | [all papers](docs/labs/google-deepmind.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 834 | 2026-09-02 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 541 | 2026-09-02 | [all papers](docs/labs/alibaba-qwen.md) |
+| 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 483 | 2026-09-02 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 424 | 2026-09-02 | [all papers](docs/labs/apple.md) |
 | 🇺🇸 US | [Microsoft](#microsoft) | 1844 | 2026-09-01 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 259 | 2026-09 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 39 | 2026-09 | [all papers](docs/labs/anthropic.md) |
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 833 | 2026-08-31 | [all papers](docs/labs/tencent-hunyuan.md) |
-| 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 540 | 2026-08-30 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 298 | 2026-08-30 | [all papers](docs/labs/baidu.md) |
-| 🇺🇸 US | [Amazon](#amazon) | 1119 | 2026-08-29 | [all papers](docs/labs/amazon.md) |
+| 🇺🇸 US | [Amazon](#amazon) | 1120 | 2026-08-29 | [all papers](docs/labs/amazon.md) |
 | 🇨🇳 China | [StepFun](#stepfun) | 26 | 2026-08-28 | [all papers](docs/labs/stepfun.md) |
 | 🇨🇳 China | [DeepSeek](#deepseek) | 32 | 2026-08-25 | [all papers](docs/labs/deepseek.md) |
 | 🇨🇳 China | [Huawei/Noah](#huaweinoah) | 472 | 2026-08-23 | [all papers](docs/labs/huawei-noah.md) |
@@ -35,7 +35,9 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-09-02 | Alibaba/Qwen | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | technical-report | Official page |
 | 2026-09-02 | Google/DeepMind | [Gemini 3.8 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | model_card | Official page |
+| 2026-09-02 | Tencent/Hunyuan | [Environment Evolution for Terminal Agents](https://huggingface.co/papers/2609.04128) | technical-report | Official page |
 | 2026-09-02 | Apple | [REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs](https://machinelearning.apple.com/research/refactor-vla-motor-programs) | publication | Official page |
 | 2026-09-01 | Microsoft | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
 | 2026-09-01 | Microsoft | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
@@ -53,29 +55,61 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-29 | Amazon | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](https://doi.org/10.1016/j.jbi.2026.105095) | article | OpenAlex |
 | 2026-08-28 | Tencent/Hunyuan | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
 | 2026-08-28 | StepFun | [Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models](https://huggingface.co/papers/2608.29137) | technical-report | Official page |
-| 2026-08-28 | Apple | [LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs](https://machinelearning.apple.com/research/llms-not-consistently-bayesian) | publication | Official page |
-| 2026-08-28 | Apple | [Agent Seer: Synthesizing Scenarios from Specification Understanding](https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios) | publication | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇨🇳 Tencent/Hunyuan
+
+`834` papers · latest `2026-09-02` · [full list](docs/labs/tencent-hunyuan.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-09-02 | [Environment Evolution for Terminal Agents](https://huggingface.co/papers/2609.04128) | technical-report | Official page |
+| 2026-08-31 | [DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation](https://huggingface.co/papers/2609.00646) | technical-report | Official page |
+| 2026-08-28 | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
+| 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
+| 2026-08-27 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | technical-report | Official page |
+| 2026-08-27 | [Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](https://huggingface.co/papers/2608.28478) | technical-report | Official page |
+| 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
+| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | Official page |
+
+More: [826 additional papers](docs/labs/tencent-hunyuan.md)
+
+### 🇨🇳 Alibaba/Qwen
+
+`541` papers · latest `2026-09-02` · [full list](docs/labs/alibaba-qwen.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-09-02 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | technical-report | Official page |
+| 2026-08-30 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | technical-report | Official page |
+| 2026-08-30 | [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://huggingface.co/papers/2608.30320) | technical-report | Official page |
+| 2026-08-30 | [E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](https://huggingface.co/papers/2608.30730) | technical-report | Official page |
+| 2026-08-24 | [Qwen3.8-Flash-Next](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf) | technical-report | Official repo |
+| 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
+| 2026-08-17 | [Trans-Percept: robust perceptive locomotion in the wild via spatiotemporal causal transformers](https://doi.org/10.1038/s41598-026-62543-x) | article | OpenAlex |
+| 2026-08-11 | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
+
+More: [533 additional papers](docs/labs/alibaba-qwen.md)
+
 ### 🇺🇸 Google/DeepMind
 
-`482` papers · latest `2026-09-02` · [full list](docs/labs/google-deepmind.md)
+`483` papers · latest `2026-09-02` · [full list](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-09-02 | [Gemini 3.8 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | model_card | Official page |
 | 2026-08-31 | [Machine Learning-Based Prediction of Maternal Morbidity across Heterogeneous Populations in the United States using Sequential Modeling of the All of Us Dataset](https://doi.org/10.64898/2026.08.25.26360552) | preprint | OpenAlex |
 | 2026-08-27 | [Inference Perf: A Benchmarking Tool for GenAI Inference](https://doi.org/10.21105/joss.10314) | article | OpenAlex |
+| 2026-08-21 | [Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs](https://doi.org/10.1109/lra.2026.3726331) | article | OpenAlex |
 | 2026-08-18 | [Perturb-ME: Scalable mechanism discovery from phenotype-enriched genome-wide screens](https://doi.org/10.64898/2026.08.17.745330) | preprint | OpenAlex |
 | 2026-08-18 | [A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies](https://doi.org/10.64898/2026.08.12.743536) | preprint | OpenAlex |
 | 2026-08-17 | [Generative AI for efficient statistical computation of fluids](https://doi.org/10.1038/s41467-026-76390-x) | article | OpenAlex |
 | 2026-08-13 | [Gemini 3.7 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-7-flash/) | model_card | Official page |
-| 2026-08-13 | [Mixture of Training: Recombining Small-Scale Scaffolded Pretraining Runs into a Larger Language Model](https://arxiv.org/abs/2608.13277) | preprint | OpenAlex |
 
-More: [474 additional papers](docs/labs/google-deepmind.md)
+More: [475 additional papers](docs/labs/google-deepmind.md)
 
 ### 🇺🇸 Apple
 
@@ -145,40 +179,6 @@ More: [251 additional papers](docs/labs/nvidia.md)
 
 More: [31 additional papers](docs/labs/anthropic.md)
 
-### 🇨🇳 Tencent/Hunyuan
-
-`833` papers · latest `2026-08-31` · [full list](docs/labs/tencent-hunyuan.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-31 | [DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation](https://huggingface.co/papers/2609.00646) | technical-report | Official page |
-| 2026-08-28 | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
-| 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
-| 2026-08-27 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | technical-report | Official page |
-| 2026-08-27 | [Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](https://huggingface.co/papers/2608.28478) | technical-report | Official page |
-| 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
-| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | Official page |
-| 2026-08-25 | [PiT: Progressive Diffusion Transformer](https://doi.org/10.1016/j.patcog.2026.114732) | article | OpenAlex |
-
-More: [825 additional papers](docs/labs/tencent-hunyuan.md)
-
-### 🇨🇳 Alibaba/Qwen
-
-`540` papers · latest `2026-08-30` · [full list](docs/labs/alibaba-qwen.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-08-30 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | technical-report | Official page |
-| 2026-08-30 | [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://huggingface.co/papers/2608.30320) | technical-report | Official page |
-| 2026-08-30 | [E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](https://huggingface.co/papers/2608.30730) | technical-report | Official page |
-| 2026-08-24 | [Qwen3.8-Flash-Next](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf) | technical-report | Official repo |
-| 2026-08-17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](https://arxiv.org/abs/2601.21173) | data-paper | OpenAlex |
-| 2026-08-17 | [Trans-Percept: robust perceptive locomotion in the wild via spatiotemporal causal transformers](https://doi.org/10.1038/s41598-026-62543-x) | article | OpenAlex |
-| 2026-08-11 | [AIDA: Accelerating Root Cause Analysis for Multi-Vendor Device Failures with LLM-Powered Reasoning](https://doi.org/10.1145/3789240.3829126) | conference-paper | OpenAlex |
-| 2026-08-07 | [TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search](https://arxiv.org/abs/2607.13398) | conference-paper | OpenAlex |
-
-More: [532 additional papers](docs/labs/alibaba-qwen.md)
-
 ### 🇨🇳 Baidu
 
 `298` papers · latest `2026-08-30` · [full list](docs/labs/baidu.md)
@@ -198,7 +198,7 @@ More: [290 additional papers](docs/labs/baidu.md)
 
 ### 🇺🇸 Amazon
 
-`1119` papers · latest `2026-08-29` · [full list](docs/labs/amazon.md)
+`1120` papers · latest `2026-08-29` · [full list](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -211,7 +211,7 @@ More: [290 additional papers](docs/labs/baidu.md)
 | 2026-08-07 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](https://arxiv.org/abs/2608.06778) | preprint | Official page |
 | 2026-08-07 | [KDD 9th Workshop on Machine Learning in Finance](https://doi.org/10.1145/3770855.3818256) | conference-paper | OpenAlex |
 
-More: [1111 additional papers](docs/labs/amazon.md)
+More: [1112 additional papers](docs/labs/amazon.md)
 
 ### 🇨🇳 StepFun
 

@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1119`
+- Papers: `1120`
 - Latest: `2026-08-29`
 - [Back to README](../../README.md#amazon)
 
@@ -353,6 +353,7 @@
 | 2026 | [Align to structure: Aligning large language models with structural information](https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information) | publication | Official page |
 | 2026 | [Agentic translation of C to Rust](https://www.amazon.science/publications/agentic-translation-of-c-to-rust) | publication | Official page |
 | 2026 | [Agentic AI for subsurface intelligence: Automated SEG-Y to MDIO migration at scale](https://www.amazon.science/publications/agentic-ai-for-subsurface-intelligence-automated-seg-y-to-mdio-migration-at-scale) | publication | Official page |
+| 2026 | [AgenTwin: An end-to-end framework for building agentic twins of mobile users](https://www.amazon.science/publications/agentwin-an-end-to-end-framework-for-building-agentic-twins-of-mobile-users) | publication | Official page |
 | 2026 | [Adaptive turn-taking for real-time multi-party voice agents](https://www.amazon.science/publications/adaptive-turn-taking-for-real-time-multi-party-voice-agents) | publication | Official page |
 | 2026 | [Adaptive geometry routing for vision–language understanding](https://www.amazon.science/publications/adaptive-geometry-routing-for-vision-language-understanding) | publication | Official page |
 | 2026 | [AccelOpt: A self-improving LLM agentic system for AI accelerator kernel optimization](https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization) | publication | Official page |

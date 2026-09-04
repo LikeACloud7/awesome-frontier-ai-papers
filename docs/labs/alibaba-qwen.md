@@ -1,14 +1,15 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `540`
-- Latest: `2026-08-30`
+- Papers: `541`
+- Latest: `2026-09-02`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09-02 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | technical-report | Official page |
 | 2026-08-30 | [Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://huggingface.co/papers/2609.00111) | technical-report | Official page |
 | 2026-08-30 | [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://huggingface.co/papers/2608.30320) | technical-report | Official page |
 | 2026-08-30 | [E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](https://huggingface.co/papers/2608.30730) | technical-report | Official page |
