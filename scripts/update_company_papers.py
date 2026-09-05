@@ -7,26 +7,34 @@ existing archive, and writes data/company_papers.json for the Next.js static app
 """
 
 import argparse
+import copy
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / "public" / "data" / "company_papers.json"
 sys.path.insert(0, str(REPO_ROOT / "scripts"))
 
+from collection_status import collect_with_status, record_source_error, safe_message
+from publication_sources import enrich_publication
+
 from fetch_papers import (  # noqa: E402
     date_in_range,
+    ai_topic_evidence,
     enrich_papers,
     fetch_arxiv_company_papers,
+    fetch_official_publication_page,
     fetch_huggingface_company_papers,
     fetch_official_report_papers,
     fetch_openalex_company_papers,
     get_company_registry,
     get_paper_key,
+    OUTPUT_DIR,
     is_excluded_company_paper,
     is_frontier_ai_relevant_paper,
     load_config,
@@ -35,49 +43,15 @@ from fetch_papers import (  # noqa: E402
 )
 
 
-def apply_collection_overrides(
-    config: dict,
-    *,
-    comprehensive: bool = False,
-    include_openalex: bool = False,
-    include_arxiv: bool = False,
-) -> dict:
-    """Runtime knobs for one-off comprehensive backfills without rewriting config."""
+def apply_collection_overrides(config: dict, *, comprehensive: bool = False,
+                               include_openalex: bool = False, include_arxiv: bool = False) -> dict:
+    config = copy.deepcopy(config)
     tracking = config.setdefault("company_tracking", {})
-    openalex_config = tracking.setdefault("openalex", {})
-    arxiv_config = tracking.setdefault("arxiv_company_search", {})
-    report_config = tracking.setdefault("official_reports", {})
-
-    if comprehensive:
-        include_openalex = True
-        report_config["max_huggingface_org_repos"] = max(
-            int(report_config.get("max_huggingface_org_repos", 0) or 0),
-            20,
-        )
-        report_config["max_github_org_repos"] = max(
-            int(report_config.get("max_github_org_repos", 0) or 0),
-            20,
-        )
-        openalex_config["max_results_per_org"] = max(
-            int(openalex_config.get("max_results_per_org", 0) or 0),
-            3000,
-        )
-
+    if comprehensive or include_openalex:
+        tracking.setdefault("openalex", {})["enabled"] = True
     if include_arxiv:
-        arxiv_config["max_results_per_query"] = max(
-            int(arxiv_config.get("max_results_per_query", 0) or 0),
-            1000,
-        )
-        arxiv_config["query_chunk_size"] = min(
-            int(arxiv_config.get("query_chunk_size", 8) or 8),
-            8,
-        )
-
-    if include_openalex:
-        openalex_config["enabled"] = True
-    if include_arxiv:
-        arxiv_config["enabled"] = True
-
+        # Broad company mentions are candidates, not proof of authorship.
+        tracking.setdefault("arxiv_affiliations", {})["enabled"] = True
     return config
 
 
@@ -112,9 +86,12 @@ def normalize_paper(paper: dict) -> dict:
     return {
         "id": get_paper_key(paper),
         "title": clean_display_text(paper.get("title", "")),
-        "url": paper.get("url", ""),
+        "url": (paper.get("url", "") or "").strip(),
+        "paper_url": (paper.get("paper_url", "") or "").strip(),
+        "alternate_urls": list(dict.fromkeys(url.strip() for url in paper.get("alternate_urls", []) if url.strip())),
+        "alternate_titles": paper.get("alternate_titles", []),
         "published": paper.get("published", ""),
-        "authors": clean_display_list(paper.get("authors", []), 12),
+        "authors": clean_display_list(paper.get("authors", []), 1000),
         "abstract": truncate_text(clean_display_text(paper.get("abstract", "")), 900),
         "companies": companies,
         "matched_orgs": companies,
@@ -132,6 +109,9 @@ def normalize_paper(paper: dict) -> dict:
         "concepts": paper.get("concepts", [])[:8],
         "official_report": bool(paper.get("official_report", False)),
         "quality_signals": paper.get("quality_signals", {}),
+        "evidence": paper.get("evidence", []),
+        "topic_evidence": paper.get("topic_evidence", {}),
+        "ai_research_source": paper.get("ai_research_source", ""),
     }
 
 
@@ -166,175 +146,223 @@ def build_company_rows(registry: list[dict], papers: list[dict]) -> list[dict]:
     return sorted(rows, key=company_sort_key, reverse=True)
 
 
-def collect_fresh_papers_by_source(
-    config: dict,
-    registry: list[dict],
-    days: int,
-    since: str | None = None,
-) -> list[dict]:
-    collectors = {
-        "openalex": lambda: fetch_openalex_company_papers(config, registry, days, since=since),
-        "huggingface": lambda: fetch_huggingface_company_papers(config, registry, days, since=since),
-        "official_reports": lambda: fetch_official_report_papers(config, registry, days, since=since),
-        "arxiv": lambda: fetch_arxiv_company_papers(config, registry, days, since=since),
-    }
-    merge_order = ["official_reports", "openalex", "huggingface", "arxiv"]
-    results: dict[str, list[dict]] = {}
-
-    with ThreadPoolExecutor(max_workers=len(collectors)) as executor:
-        futures = {
-            executor.submit(collector): source
-            for source, collector in collectors.items()
-        }
+def collect_fresh_papers_by_source(config: dict, registry: list[dict], days: int,
+                                   since: str | None = None, *, diagnostics: list | None = None,
+                                   seed_papers: list | None = None, sources: set | None = None) -> list[dict]:
+    from affiliation_discovery import fetch_affiliation_papers
+    from repository_sources import collect_repository_reports
+    tracking = config.get("company_tracking", {})
+    start = since or (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
+    end = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    jobs = []
+    def official(org, source):
+        papers = fetch_official_publication_page(org, source, start, end)
+        if source.get("topic_scope") == "ai":
+            label = source.get("url") or "https://huggingface.co/" + source.get("hf_orgs", [org["name"]])[0] + "/papers"
+            for paper in papers:
+                paper["ai_research_source"] = label
+        return papers
+    def add(org, family, name, collector):
+        if sources is None or family in sources:
+            jobs.append((org["name"], name, collector))
+    for org in registry:
+        for source in org.get("official_publication_pages", []):
+            name = "official:" + source["type"] + ":" + (source.get("url") or ",".join(source.get("hf_orgs", [])))
+            add(org, "official", name, lambda o=org, s=source: official(o, s))
+        if tracking.get("official_reports", {}).get("enabled", True):
+            report_org = {**org, "official_publication_pages": []}
+            add(org, "repositories", "repositories", lambda o=report_org: collect_repository_reports(config, o, days, since=since))
+        if tracking.get("openalex", {}).get("enabled", True):
+            add(org, "openalex", "openalex", lambda o=org: fetch_openalex_company_papers(config, [o], days, since=since))
+        if tracking.get("huggingface_search", {}).get("enabled", True):
+            add(org, "huggingface", "huggingface_search", lambda o=org: fetch_huggingface_company_papers(config, [o], days, since=since))
+        if tracking.get("arxiv_affiliations", {}).get("enabled", True):
+            add(org, "affiliations", "arxiv_affiliations", lambda o=org: fetch_affiliation_papers(config, o, seed_papers or [], days, since))
+    results = []
+    with ThreadPoolExecutor(max_workers=int(tracking.get("max_workers", 4))) as executor:
+        futures = [executor.submit(collect_with_status, lab, name, collector) for lab, name, collector in jobs]
         for future in as_completed(futures):
-            source = futures[future]
-            try:
-                results[source] = future.result()
-            except Exception as e:
-                print(f"{source} 수집 실패: {e}", file=sys.stderr)
-                results[source] = []
-
-    return merge_paper_lists(*(results[source] for source in merge_order))
+            papers, status = future.result()
+            if diagnostics is not None:
+                diagnostics.append(status)
+            results.extend(papers)
+            print(f"[{status['status']}] {status['lab']} / {status['source']}: {len(papers)} records", file=sys.stderr)
+    return merge_paper_lists(results)
 
 
 def source_notes_for_config(config: dict) -> list[str]:
-    tracking = config.get("company_tracking", {})
-    openalex_enabled = tracking.get("openalex", {}).get("enabled", True)
-    arxiv_enabled = tracking.get("arxiv_company_search", {}).get("enabled", True)
-    report_config = tracking.get("official_reports", {})
-
-    notes = [
-        "Configured official company publication pages and feeds are collected where available.",
-        "Official company technical reports are collected from configured company-owned HuggingFace and GitHub repositories.",
-        "HuggingFace Papers search is accepted only when organization or author metadata matches a tracked company.",
-        "Default archive filtering keeps explicit reports or papers matching configured frontier-AI model keywords.",
+    return [
+        "Tracks AI research authored by the configured US and Chinese frontier labs, including papers, technical reports and research posts.",
+        "Official publication catalogues are paginated; sparse records are checked against abstracts and research metadata before AI filtering.",
+        "Affiliation evidence is required for search results; a third-party paper mentioning a lab's model does not establish authorship.",
+        "Daily recent collection is supplemented by an automatic rotating historical reconciliation; backfills merge with the existing archive.",
+        "Per-source failures, unresolved metadata and historical reconciliation status are recorded separately from archive totals.",
+        "No public index guarantees every publication. Missing affiliations, unavailable sources and pending scans remain explicit coverage limits.",
     ]
-    if openalex_enabled:
-        notes.append("OpenAlex authorship institution metadata is collected to catch papers whose author affiliations name a tracked lab.")
-    else:
-        notes.append("OpenAlex authorship institution metadata is disabled for this run.")
-    if arxiv_enabled:
-        notes.append("arXiv company-name search is enabled for metadata/text matches in configured AI categories.")
-    else:
-        notes.append("arXiv company-name fallback search is disabled for this run.")
-    if int(report_config.get("max_huggingface_org_repos", 0) or 0) > 0:
-        notes.append("Company-owned HuggingFace model repositories are scanned for PDF technical reports.")
-    notes.append("PDF-only affiliations not exposed by OpenAlex, arXiv metadata, or configured official sources may still require an additional PDF-text adapter.")
-    return notes
 
 
-def update_archive(
-    days: int,
-    max_papers: int,
-    since: str | None = None,
-    comprehensive: bool = False,
-    include_openalex: bool = False,
-    include_arxiv: bool = False,
-) -> dict:
-    config = apply_collection_overrides(
-        load_config(),
-        comprehensive=comprehensive,
-        include_openalex=include_openalex,
-        include_arxiv=include_arxiv,
-    )
-    registry = get_company_registry(config)
-    existing = load_existing_archive()
+def atomic_json(path: Path, value, *, compact: bool = False):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_name(path.name + ".tmp")
+    with temporary.open("w", encoding="utf-8") as stream:
+        json.dump(value, stream, ensure_ascii=False, **({"separators": (",", ":")} if compact else {"indent": 2}))
+        stream.write("\n")
+    temporary.replace(path)
+
+
+def filter_new_papers(papers: list[dict], config: dict, diagnostics: list, pending: list) -> list[dict]:
+    accepted = []
+    sparse = []
+    for paper in papers:
+        if is_frontier_ai_relevant_paper(paper, config):
+            accepted.append(paper)
+        elif len(paper.get("abstract", "")) < 300:
+            sparse.append(paper)
+        # A complete non-AI abstract has already supplied the topic evidence.
+    budget = int(config.get("company_tracking", {}).get("metadata_checks_per_run", 200))
+    selected = sparse[:budget] if budget else sparse
+    for paper in sparse[len(selected):]:
+        pending.append({"paper": paper, "reason": "queued for automatic detail metadata check"})
+    def evaluate(paper):
+        if is_frontier_ai_relevant_paper(paper, config):
+            return paper, None
+        try:
+            enriched = enrich_publication(paper, OUTPUT_DIR / "publication_metadata")
+            if is_frontier_ai_relevant_paper(enriched, config):
+                return enriched, None
+            if len(enriched.get("abstract", "")) < 120:
+                return None, {"paper": enriched, "reason": "insufficient AI topic metadata"}
+            return None, None
+        except Exception as error:
+            return None, {"paper": paper, "reason": safe_message(error)}
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        for paper, unresolved in executor.map(evaluate, selected):
+            if paper:
+                accepted.append(paper)
+            if unresolved:
+                pending.append(unresolved)
+    for paper in accepted:
+        paper["topic_evidence"] = ai_topic_evidence(paper, config)
+    return accepted
+
+
+def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None,
+                   comprehensive: bool = False, include_openalex: bool = False,
+                   include_arxiv: bool = False, *, output: Path | None = None,
+                   labs: list[str] | None = None, sources: set | None = None,
+                   reconcile: bool = False) -> dict:
+    config = apply_collection_overrides(load_config(), comprehensive=comprehensive,
+        include_openalex=include_openalex, include_arxiv=include_arxiv)
+    full_registry = get_company_registry(config)
+    registry = [o for o in full_registry if not labs or o["name"] in labs]
+    if labs and len(registry) != len(set(labs)):
+        raise ValueError("Unknown lab name. Use the exact configured lab name.")
+    destination = output or DATA_FILE
+    existing = json.loads(destination.read_text()) if destination.exists() else (
+        load_existing_archive() if destination != DATA_FILE else {"papers": []})
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
-    if since:
-        print(f"Collecting company papers since {since}...", file=sys.stderr)
-    else:
-        print(f"Collecting company papers for the last {days} days...", file=sys.stderr)
-
-    fresh_papers = enrich_papers(
-        collect_fresh_papers_by_source(config, registry, days, since=since),
-        config,
-        registry,
-        allow_text_org_matches=False,
-    )
-    if since and not fresh_papers:
-        raise RuntimeError(
-            "No papers were collected for a full backfill. "
-            "Check network access and source configuration before overwriting the archive."
-        )
-
-    existing_papers = [] if since else existing.get("papers", [])
-    merged = merge_paper_lists(existing_papers, [normalize_paper(p) for p in fresh_papers])
-    normalized = [
-        normalize_paper(p)
-        for p in enrich_papers(merged, config, registry, allow_text_org_matches=False)
-    ]
-    normalized = [
-        paper for paper in normalized
-        if (
-            paper.get("companies")
-            and paper.get("title")
-            and paper.get("url")
-            and date_in_range(paper.get("published", ""), "0000-01-01", today)
-            and (not since or date_in_range(paper.get("published", ""), since, today))
-            and (
-                paper.get("source") in {"official_report", "official_repository_scan"}
-                or is_frontier_ai_relevant_paper(paper, config)
-            )
-            and not is_excluded_company_paper(paper, config)
-        )
-    ]
-    normalized.sort(
-        key=lambda p: (p.get("published", ""), p.get("quality_score", 0), p.get("title", "")),
-        reverse=True,
-    )
-    normalized = normalized[:max_papers]
-
-    archive = {
-        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "collection": {
-            "since": since,
-            "days": days if not since else None,
-            "comprehensive": comprehensive,
-            "openalex_enabled": config.get("company_tracking", {}).get("openalex", {}).get("enabled", True),
-            "arxiv_company_search_enabled": config.get("company_tracking", {}).get("arxiv_company_search", {}).get("enabled", True),
-        },
+    diagnostics = []
+    fresh = collect_fresh_papers_by_source(config, registry, days, since,
+        diagnostics=diagnostics, seed_papers=existing.get("papers", []), sources=sources)
+    state_file = destination.parent / "collection_state.json"
+    state = json.loads(state_file.read_text()) if state_file.exists() else {"next_lab": 0, "labs": {}}
+    if reconcile:
+        index = int(state.get("next_lab", 0)) % len(registry)
+        org = registry[index]
+        history_since = config.get("company_tracking", {}).get("archive_since", "2024-01-01")
+        historical_status = []
+        historical = collect_fresh_papers_by_source(config, [org], days, history_since,
+            diagnostics=historical_status, seed_papers=existing.get("papers", []), sources=sources)
+        for item in historical_status:
+            item["mode"] = "historical"
+            item["since"] = history_since
+        diagnostics.extend(historical_status)
+        fresh = merge_paper_lists(fresh, historical)
+        successful = bool(historical_status) and all(s["status"] == "ok" for s in historical_status)
+        previous = state.setdefault("labs", {}).get(org["name"], {})
+        state["labs"][org["name"]] = {**previous, "last_attempt": today,
+            "status": "ok" if successful else "partial", "since": history_since}
+        if successful:
+            state["labs"][org["name"]]["last_success"] = today
+        state["next_lab"] = (index + 1) % len(registry)
+    pending_file = destination.parent / "collection_pending.json"
+    old_pending = json.loads(pending_file.read_text()) if pending_file.exists() else []
+    # Retry metadata failures automatically. Carry the rest forward, never silently drop them.
+    retry_limit = 200
+    fresh = merge_paper_lists([x["paper"] for x in old_pending[:retry_limit]], fresh)
+    pending = list(old_pending[retry_limit:])
+    fresh = filter_new_papers(fresh, config, diagnostics, pending)
+    fresh = enrich_papers(fresh, config, full_registry, allow_text_org_matches=False)
+    # A since date bounds acquisition only. It must never delete existing records.
+    merged = merge_paper_lists(copy.deepcopy(existing.get("papers", [])), fresh)
+    normalized = [normalize_paper(p) for p in merged if p.get("title") and p.get("url")
+        and (p.get("matched_orgs") or p.get("companies"))
+        and date_in_range(p.get("published", ""), "0000-01-01", today)
+        and not is_excluded_company_paper(p, config)]
+    normalized.sort(key=lambda p: (p.get("published", ""), p.get("quality_score", 0), p.get("title", "")), reverse=True)
+    if max_papers and len(normalized) > max_papers:
+        raise ValueError(f"Archive has {len(normalized)} records; refusing to delete papers to satisfy --max-papers={max_papers}. Use 0 for unlimited.")
+    failed = [s for s in diagnostics if s["status"] == "failed"]
+    partial = [s for s in diagnostics if s["status"] == "partial"]
+    errored = [s for s in diagnostics if s["errors"]]
+    previous_status = {(s["lab"], s["source"]):s for s in existing.get("collection", {}).get("sources", [])}
+    for status in diagnostics:
+        old = previous_status.get((status["lab"], status["source"]), {})
+        status["last_success"] = status["checked_at"] if status["status"] == "ok" else old.get("last_success")
+    pending = list({get_paper_key(x["paper"]):x for x in pending}.values())
+    archive = {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "collection": {"scope": "frontier_lab_ai_research", "since": since, "days": days,
+            "selected_labs": labs, "selected_sources": sorted(sources) if sources else None,
+            "status": "partial" if failed or partial or pending else "ok",
+            "source_count": len(diagnostics), "failed_sources": len(failed), "partial_sources": len(partial),
+            "error_sources": len(errored),
+            "pending_metadata": len(pending), "sources": diagnostics,
+            "historical_reconciliation": state, "comprehensive": comprehensive,
+            "openalex_enabled": config["company_tracking"].get("openalex", {}).get("enabled", True),
+            "arxiv_company_search_enabled": False},
         "source_notes": source_notes_for_config(config),
-        "totals": {
-            "papers": len(normalized),
-            "companies": len([c for c in build_company_rows(registry, normalized) if c["paper_count"] > 0]),
-            "tracked_companies": len([o for o in registry if o.get("group_id", "").startswith("company_")]),
-        },
-        "companies": build_company_rows(registry, normalized),
-        "papers": normalized,
-    }
-
-    DATA_FILE.parent.mkdir(exist_ok=True)
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(archive, f, ensure_ascii=False, separators=(",", ":"))
-        f.write("\n")
-
+        "totals": {"papers": len(normalized), "companies": len({c for p in normalized for c in p["companies"]}),
+                   "tracked_companies": len(full_registry)},
+        "companies": build_company_rows(full_registry, normalized), "papers": normalized}
+    # Archive first: a crash can cause a harmless retry, not a lost checkpoint.
+    atomic_json(destination, archive, compact=True)
+    atomic_json(pending_file, pending, compact=True)
+    atomic_json(state_file, state)
+    atomic_json(destination.parent / "collection_health.json", archive["collection"])
     return archive
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Update static company-paper archive")
-    parser.add_argument("--days", type=int, default=30, help="Lookback window for fresh collection")
-    parser.add_argument("--since", help="Collect fresh papers from YYYY-MM-DD instead of using --days")
-    parser.add_argument("--max-papers", type=int, default=2000, help="Maximum papers kept in the static archive")
-    parser.add_argument("--comprehensive", action="store_true", help="Enable OpenAlex affiliation and official repository scans for a 2024+ backfill")
-    parser.add_argument("--include-openalex", action="store_true", help="Enable OpenAlex affiliation collection for this run")
-    parser.add_argument("--include-arxiv", action="store_true", help="Enable arXiv company-name fallback search for this run")
+    parser = argparse.ArgumentParser(description="Automatically track AI publications from frontier labs")
+    parser.add_argument("--days", type=int, default=30)
+    parser.add_argument("--since", help="Historical acquisition start; existing papers are preserved")
+    parser.add_argument("--max-papers", type=int, default=0, help="Safety ceiling (0=unlimited); never truncates existing papers")
+    parser.add_argument("--comprehensive", action="store_true")
+    parser.add_argument("--include-openalex", action="store_true")
+    parser.add_argument("--include-arxiv", action="store_true", help="Enable affiliation-verified arXiv discovery")
+    parser.add_argument("--reconcile", action="store_true", help="Also reconcile the next lab's history, advancing a persistent queue")
+    parser.add_argument("--lab", action="append", dest="labs")
+    parser.add_argument("--sources", help="Comma-separated official,openalex,huggingface,repositories,affiliations")
+    parser.add_argument("--output", type=Path)
+    parser.add_argument("--strict", action="store_true", help="Exit nonzero after preserving results if a source failed")
     args = parser.parse_args()
-
-    archive = update_archive(
-        args.days,
-        args.max_papers,
-        args.since,
-        comprehensive=args.comprehensive,
-        include_openalex=args.include_openalex,
-        include_arxiv=args.include_arxiv,
-    )
-    print(
-        f"Wrote {DATA_FILE} with {archive['totals']['papers']} papers "
-        f"across {archive['totals']['companies']} companies.",
-        file=sys.stderr,
-    )
+    archive = update_archive(args.days, args.max_papers, args.since,
+        comprehensive=args.comprehensive, include_openalex=args.include_openalex,
+        include_arxiv=args.include_arxiv, output=args.output, labs=args.labs,
+        sources=set(args.sources.split(",")) if args.sources else None, reconcile=args.reconcile)
+    health = archive["collection"]
+    print(f"Wrote {archive['totals']['papers']} papers; collection={health['status']}, "
+          f"sources_with_errors={health['error_sources']}, failed={health['failed_sources']}, partial={health['partial_sources']}, pending_metadata={health['pending_metadata']}", file=sys.stderr)
+    if os.environ.get("GITHUB_STEP_SUMMARY"):
+        with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as stream:
+            stream.write(f"## Publication collection: {health['status']}\n\n"
+                f"{archive['totals']['papers']} archived papers. {health['error_sources']} sources with errors; "
+                f"{health['partial_sources']} partial sources; {health['pending_metadata']} records awaiting metadata.\n")
+            for item in health['sources']:
+                if item['status'] != 'ok':
+                    stream.write(f"- {item['lab']} / {item['source']}: {item['status']}\n")
+    if args.strict and (health["failed_sources"] or any(s['errors'] for s in health['sources'])):
+        raise SystemExit(2)
 
 
 if __name__ == "__main__":
