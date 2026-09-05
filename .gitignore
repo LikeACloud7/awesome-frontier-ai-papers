@@ -2,8 +2,16 @@
 venv/
 .venv/
 
-# Output files (user-specific)
+# Local collection output, personal reports, and verification artifacts
 output/
+/reports/
+/previews/
+/screenshots/
+
+# One-off audits accidentally saved alongside public documentation
+/docs/*_AUDIT_*.md
+/docs/*_REVIEW_*.md
+/docs/*-audit-*.csv
 
 # Next.js
 node_modules/
@@ -36,3 +44,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+service-account*.json

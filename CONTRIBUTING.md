@@ -26,7 +26,7 @@ Update `config/frontier_labs.json`:
 Useful command:
 
 ```bash
-venv/bin/python scripts/update_company_papers.py --since 2024-01-01 --comprehensive --max-papers 50000
+.venv/bin/python scripts/update_company_papers.py --since 2024-01-01 --comprehensive --output output/preview/company_papers.json
 ```
 
 ## Validation
@@ -34,10 +34,20 @@ venv/bin/python scripts/update_company_papers.py --since 2024-01-01 --comprehens
 Before opening a PR, run:
 
 ```bash
-venv/bin/python -m compileall scripts
+.venv/bin/python -m unittest discover -s tests -v
 npm run typecheck
 npm run build
 ```
+
+## README and Generated Lists
+
+The README and `docs/labs/*.md` are generated from the dataset. Change the layout in `scripts/generate_markdown_index.py`, then regenerate it. Keep the latest-paper tables and links to every lab's full archive.
+
+Keep personal reports, audit exports, sample outputs, and verification screenshots under the ignored `output/` directory. Commit only project documentation, assets used by the README or site, and data required by the collector or site.
+
+## Security
+
+Treat titles, URLs, HTML, PDFs, and API responses as untrusted. Keep public-address checks, response limits, Markdown escaping, and artifact validation intact when adding a source. Use pinned dependencies and never commit credentials. See [SECURITY.md](SECURITY.md) for reporting guidance and the project’s security boundaries.
 
 For data changes, also check:
 
