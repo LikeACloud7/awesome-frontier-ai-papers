@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `212`
+- Papers: `213`
 - Latest: `2026-09-04`
 - [Back to README](../../README.md#anthropic)
 
@@ -12,6 +12,7 @@
 | n\.d\. | [Why Do Some Language Models Fake Alignment While Others Don't?](<https://arxiv.org/abs/2506.18032>) | Research post | Official page |
 | n\.d\. | [Tracing Model Outputs to the Training Data](<https://www.anthropic.com/research/influence-functions>) | Research post | Official page |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
+| n\.d\. | [Claude Cookbooks](<https://github.com/anthropics/claude-cookbooks/blob/main/multimodal/documents/constitutional-ai-paper.pdf>) | Technical report | Official repo |
 
 ## 2026
 

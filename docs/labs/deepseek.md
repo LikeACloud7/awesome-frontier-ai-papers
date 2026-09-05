@@ -1,14 +1,15 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `32`
-- Latest: `2026-08-25`
+- Papers: `33`
+- Latest: `2026-08-31`
 - [Back to README](../../README.md#deepseek)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑08‑31 | [Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening](<https://arxiv.org/abs/2608.30877v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [A Programming Paradigm for Spatiotemporal Composability](<https://huggingface.co/papers/2608.25512>) | Technical report | Official page |
 | 2026‑07‑05 | [DSpark\: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](<https://huggingface.co/papers/2607.05147>) | Preprint | Hugging Face, Official page |
 | 2026‑06‑26 | [DSpark](<https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf>) | Technical report | Official repo |

@@ -1,7 +1,7 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `26`
+- Papers: `28`
 - Latest: `2026-08-28`
 - [Back to README](../../README.md#stepfun)
 
@@ -10,6 +10,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑08‑28 | [Chat-Edit-3D++\: Interactive 3D and 4D Scene Editing via Large Language Models](<https://huggingface.co/papers/2608.29137>) | Technical report | Official page |
+| 2026‑08‑11 | [Scheduling Mixed RL Rollouts Beyond Prefix Locality](<https://arxiv.org/abs/2608.11152v1>) | Paper | Verified affiliation |
+| 2026‑08‑06 | [TensorCast\: The Missing Tensor Management Layer in Large Language Model Infrastructure](<https://arxiv.org/abs/2608.06007v1>) | Paper | Verified affiliation |
 | 2026‑07 | [MentalThink\: Shaping Thoughts in Mental SVG World](<https://huggingface.co/papers/2607.03530>) | Technical report | Official page |
 | 2026‑06‑23 | [ShutterMuse\: Capture-Time Photography Guidance with MLLMs](<https://huggingface.co/papers/2606.25763>) | Technical report | Official page |
 | 2026‑06 | [SpatialWorld\: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](<https://huggingface.co/papers/2606.09669>) | Technical report | Official page |

@@ -1,23 +1,41 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `307`
-- Latest: `2026-08-30`
+- Papers: `325`
+- Latest: `2026-09-02`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
+| 2026‑09‑01 | [Virtual ta’lim muhiti asosida ispan tilini o‘qitishning innovatsion modellari](<https://doi.org/10.67895/9t6y9z11>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [O‘zbek tilini ikkinchi til sifatida o‘qitishda milliy realiyalarning lingvodidaktik imkoniyatlari](<https://doi.org/10.67895/mxqc5r91>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Oʻzbekistonda chet elliklarga turk tilini oʻqitish usullari va ta’lim jarayonida muammolar](<https://doi.org/10.67895/7pa53m96>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Oʻzbek tili darslari samaradorligini oshirishda badiiy matndan foydalanishning yangicha usullari](<https://doi.org/10.67895/gzm2xa03>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Nemis tili ta’limida madaniy komponentni rivojlantirishda adabiyotning roli](<https://doi.org/10.67895/nx73q102>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Lotin tilining diplomatiya sohasida qo‘llanish xususiyatlari](<https://doi.org/10.67895/tw2y4725>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Inson tana tajribasi va uning maqollarda aks etishi](<https://doi.org/10.67895/w9e3sk51>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Chet tilini o‘qitishda “ha” va “yo‘q” so‘z ma’nolarining berilishi xususida](<https://doi.org/10.67895/19h48y33>) | Conference paper | OpenAlex |
 | 2026‑08‑30 | [ICEGR\: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](<https://arxiv.org/abs/2608.29652>) | Preprint | OpenAlex |
 | 2026‑08‑14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](<https://doi.org/10.1117/12.3121525>) | Conference abstract | OpenAlex |
+| 2026‑08‑11 | [Understanding SLAM Systems through a Unified Design Space\: Taxonomy, Systemic Limits, and Emerging Directions](<https://doi.org/10.5281/zenodo.21891936>) | Preprint | OpenAlex |
+| 2026‑08‑10 | [Attention-constrained diffusion-prior super-resolution for scan-free terahertz focal-plane-array imaging](<https://doi.org/10.1364/oe.608298>) | Article | OpenAlex |
+| 2026‑08‑07 | [RELATE\: A Reinforcement-Learning-Enhanced LLM Framework for Advertising Text Generation](<https://doi.org/10.1145/3770855.3818469>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](<https://arxiv.org/abs/2605.27066>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [Clarify-Then-Search\: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration](<https://doi.org/10.1145/3770855.3817586>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [Autonomy-of-Heads\: Data-Free Sparse Attention from Frozen Query-Key Geometry](<https://arxiv.org/abs/2608.06849>) | Preprint | OpenAlex |
+| 2026‑08‑06 | [Beyond End-to-End Video Models\: An LLM-Based Multi-Agent System for Educational Video Generation](<https://arxiv.org/abs/2602.11790>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [VaaWIT\: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation](<https://arxiv.org/abs/2605.24675>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Temporal Bridges for Spatial Resolution\: Enhancing Climate Data Super-Resolution with Bidirectional Alignment](<https://arxiv.org/abs/2608.05981>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [TS-RAG\: Retrieval Augmented Generation for Time Series Forecasting](<https://arxiv.org/abs/2608.06223>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [SUDER\: Self-Improving Unified Large Multimodal Models for Understanding and Generation with Dual Self-rewards](<http://arxiv.org/abs/2506.07963>) | Conference paper | OpenAlex |
-| 2026‑08‑06 | [Beyond End-to-End Video Models\: An LLM-Based Multi-Agent System for Educational Video Generation](<https://arxiv.org/abs/2602.11790>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [EPMD\: A Framework for LLM-Enhanced Ad Auctions](<https://doi.org/10.1145/3770855.3818144>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [DuCCAE\: A Hybrid Engine for Immersive Conversation via Collaboration, Augmentation, and Evolution](<https://doi.org/10.1145/3770855.3818383>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Disentangled Dual-Granularity Learning for Market-Adaptive Stock Return Forecasting under Non-Stationary Environments](<https://doi.org/10.1145/3770855.3817765>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Beyond Residual Connections\: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning](<https://arxiv.org/abs/2608.05549>) | Preprint | OpenAlex |
+| 2026‑08‑06 | [Alignment-Free Multi-Modality Large-Small Model Bidirectional Collaboration with Missing Modality](<https://doi.org/10.1145/3770855.3817904>) | Conference paper | OpenAlex |
 | 2026‑08‑05 | [Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection](<https://arxiv.org/abs/2608.04935>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [TurnSight\: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](<https://arxiv.org/abs/2608.04007>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [DocTrace\: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning](<https://arxiv.org/abs/2608.03292>) | Preprint | OpenAlex |
@@ -44,7 +62,7 @@
 | 2026‑06‑11 | [Memento\: Reconstruct to Remember for Consistent Long Video Generation](<https://huggingface.co/papers/2606.14667>) | Technical report | Official page |
 | 2026‑06‑04 | [DuMate-DeepResearch\: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](<https://huggingface.co/papers/2606.07299>) | Technical report | Official page |
 | 2026‑06‑03 | [When Tools Fail\: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents](<https://huggingface.co/papers/2606.05806>) | Technical report | Official page |
-| 2026‑06‑02 | [MapAgent\: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](<https://huggingface.co/papers/2606.04513>) | Technical report | Official page |
+| 2026‑06‑02 | [MapAgent\: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation](<https://huggingface.co/papers/2606.04513>) | Technical report | Official page, OpenAlex |
 | 2026‑06 | [PaddleOCR-VL-1\.6\: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](<https://huggingface.co/papers/2606.03264>) | Technical report | Official page |
 | 2026‑06 | [PP-OCRv6\: From 1\.5M to 34\.5M Parameters, Surpassing Billion-Scale VLMs on OCR Tasks](<https://huggingface.co/papers/2606.13108>) | Technical report | Official page |
 | 2026‑05‑28 | [Cookie-Bench\: Continuous On-screen Key Interaction Evaluation for Web Generation](<https://arxiv.org/abs/2605.30000>) | Article | OpenAlex |

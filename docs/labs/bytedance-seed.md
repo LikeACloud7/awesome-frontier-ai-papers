@@ -1,14 +1,22 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `210`
-- Latest: `2026-08-10`
+- Papers: `218`
+- Latest: `2026-09-02`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [SMELT\: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [HarnessDev\: Can LLMs Create and Evolve Their Own Agent Harness?](<https://arxiv.org/abs/2609.01437v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [S3Gym\: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](<https://arxiv.org/abs/2608.31100v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [REER-PT\: Reverse-Engineered Reasoning for Perplexity-Guided Pre-training Data Augmentation](<https://arxiv.org/abs/2608.30627v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [Lucida\: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](<https://arxiv.org/abs/2608.30821v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [ByteX\: A Unified AI Search Engine at ByteDance](<https://arxiv.org/abs/2608.30607v2>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [Aspire\: Can Models Self-Evolve from Vague Goals?](<https://arxiv.org/abs/2608.31111v1>) | Paper | Verified affiliation |
 | 2026‑08‑10 | [SWE-Bench ProMax\: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](<https://huggingface.co/papers/2608.09802>) | Paper | Hugging Face |
 | 2026‑08‑06 | [GST-Bench\: Can VLMs Develop Global Spatial Awareness from Video?](<https://huggingface.co/papers/2608.05747>) | Paper | Hugging Face |
 | 2026‑08‑03 | [Douyin Multimodal Embedding Model Technical Report](<https://huggingface.co/papers/2608.02148>) | Paper | Hugging Face |

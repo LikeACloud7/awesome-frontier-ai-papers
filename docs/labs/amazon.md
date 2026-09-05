@@ -1,27 +1,94 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1342`
-- Latest: `2026-08-29`
+- Papers: `1409`
+- Latest: `2026-09-04`
 - [Back to README](../../README.md#amazon)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑04 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.7](<https://doi.org/10.5281/zenodo.18475447>) | Software | OpenAlex |
+| 2026‑09‑04 | [CliMA/ClimaLand\.jl\: v1\.12\.1](<https://doi.org/10.5281/zenodo.22311300>) | Software | OpenAlex |
+| 2026‑09‑04 | [CliMA/ClimaAtmos\.jl\: v0\.42\.9](<https://doi.org/10.5281/zenodo.22313026>) | Software | OpenAlex |
+| 2026‑09‑04 | [Use of methylene blue discography in transforaminal endoscopic discectomy for cranially migrated lumbar disc herniation\: A case report](<https://doi.org/10.1016/j.radcr.2026.08.035>) | Article | OpenAlex |
+| 2026‑09‑03 | [SGD-KV\: Summarization Guided KV Cache Compression](<https://arxiv.org/abs/2609.03235v1>) | Paper | Verified affiliation |
+| 2026‑09‑02 | [CliMA/ClimaLand\.jl\: v1\.12\.0](<https://doi.org/10.5281/zenodo.22261751>) | Software | OpenAlex |
+| 2026‑09‑01 | [AI-enhanced adaptive virtual screening of large libraries for ligand discovery](<https://doi.org/10.1038/s41587-026-03217-x>) | Article | OpenAlex |
+| 2026‑09‑01 | [scttfrdmn/starburst\: Base Images base-images-20260901](<https://doi.org/10.5281/zenodo.21462615>) | Software | OpenAlex |
+| 2026‑09‑01 | [Data-Driven Persona-Conditioned Agents for A/B Test Simulation](<https://arxiv.org/abs/2609.01038v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [Belief-Calibrated Optimization\: An Explicit World Model for Agentic Optimization](<https://arxiv.org/abs/2609.01861v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators\: Lean 4 Proof Development](<https://doi.org/10.5281/zenodo.22212569>) | Software | OpenAlex |
+| 2026‑08‑29 | [CliMA/ClimaAtmos\.jl\: v0\.42\.8](<https://doi.org/10.5281/zenodo.22153928>) | Software | OpenAlex |
+| 2026‑08‑29 | [mallob\: Mallob Fork that supports UNSAT proof writting over multible preprocessing steps](<https://doi.org/10.5281/zenodo.22163524>) | Software | OpenAlex |
+| 2026‑08‑29 | [Photographic image layout retrieval via representation learning with adaptive ellipse primitives](<https://doi.org/10.1016/j.patcog.2026.114677>) | Article | OpenAlex |
 | 2026‑08‑29 | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](<https://doi.org/10.1016/j.jbi.2026.105095>) | Article | OpenAlex |
+| 2026‑08‑28 | [easystats/modelbased\: modelbased 0\.17\.0](<https://doi.org/10.5281/zenodo.22144107>) | Software | OpenAlex |
+| 2026‑08‑28 | [QUORUM\: QUality-Optimized Routing Using Multiple annotators](<https://arxiv.org/abs/2608.27974v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [BrailleBench\: Investigating Multi-Criteria Braille Comprehension in Large Language Models](<https://arxiv.org/abs/2608.27268>) | Preprint | OpenAlex |
+| 2026‑08‑27 | [Active-Voxel Selection for Small-Sample fMRI Decoding\: Dataset-Dependent Preprocessing and the Cost of Cross-Validation Leakage](<https://doi.org/10.21203/rs.3.rs-10828698/v1>) | Preprint | OpenAlex |
+| 2026‑08‑26 | [CliMA/CloudMicrophysics\.jl\: v0\.38\.2](<https://doi.org/10.5281/zenodo.22104777>) | Software | OpenAlex |
+| 2026‑08‑26 | [Title\: Gene expression, neuroinflammation, and neural plasticity in type 2 diabetes\: Translational insights from exercise and cognitive modulation](<https://doi.org/10.1016/j.neubiorev.2026.106922>) | Article | OpenAlex |
+| 2026‑08‑26 | [Deep learning-based EEG motor imagery signal classification for brain–computer interface applications](<https://doi.org/10.1007/s42452-026-09450-y>) | Article | OpenAlex |
+| 2026‑08‑25 | [easystats/insight\: insight 1\.5\.3](<https://doi.org/10.5281/zenodo.22093445>) | Software | OpenAlex |
+| 2026‑08‑25 | [Supply Chain (SC) Cybersecurity Risk Management Within Industry 4\.0 Environment in Developing Countries](<https://doi.org/10.1108/978-1-80592-849-220261016>) | Book chapter | OpenAlex |
+| 2026‑08‑25 | [Missing physics discovery through fully differentiable finite element-based machine learning](<https://arxiv.org/abs/2507.15787>) | Article | OpenAlex |
+| 2026‑08‑24 | [BUILDING PRIVACY-FIRST DOCUMENT INTELLIGENCE\: A LOCAL RAG ARCHITECTURE](<https://doi.org/10.5281/zenodo.22098230>) | Article | OpenAlex |
+| 2026‑08‑21 | [CliMA/ClimaAtmos\.jl\: v0\.42\.7](<https://doi.org/10.5281/zenodo.22036913>) | Software | OpenAlex |
 | 2026‑08‑19 | [AMMO Sessions Server](<https://github.com/amazon-science/ammo/blob/main/docs/AMMO_arXiv_Paper.pdf>) | Technical report | Official repo |
+| 2026‑08‑19 | [Modelling Attribution-Driven Budgeting Systems for High-Intent Consumer Acquisition](<https://doi.org/10.56201/ijssmr.vol.11no6.2025.pg57.73>) | Article | OpenAlex |
+| 2026‑08‑19 | [A Conceptual Framework for Multi-Agent AI Quality Control in The Review of Regulated Documents](<https://doi.org/10.56201/ijssmr.vol.11no8.2025.pg534.557>) | Article | OpenAlex |
+| 2026‑08‑18 | [CliMA/ClimaCore\.jl\: v0\.15\.3](<https://doi.org/10.5281/zenodo.21987213>) | Software | OpenAlex |
+| 2026‑08‑18 | [EleutherAI/bergson\: v0\.26\.1](<https://doi.org/10.5281/zenodo.21994675>) | Software | OpenAlex |
+| 2026‑08‑17 | [JuliaNLSolvers/NLsolve\.jl\: v5\.0\.0](<https://doi.org/10.5281/zenodo.21985203>) | Software | OpenAlex |
+| 2026‑08‑17 | [Accountability shift in human–AI collaborations](<https://doi.org/10.1007/s10506-026-09536-3>) | Article | OpenAlex |
 | 2026‑08‑17 | [A survey of reward hacking in agentic large language model systems](<https://doi.org/10.1007/s44163-026-01980-z>) | Article | OpenAlex |
+| 2026‑08‑15 | [CliMA/ClimaLand\.jl\: v1\.11\.2](<https://doi.org/10.5281/zenodo.21959653>) | Software | OpenAlex |
+| 2026‑08‑15 | [CliMA/ClimaCore\.jl\: v0\.15\.2](<https://doi.org/10.5281/zenodo.21940833>) | Software | OpenAlex |
+| 2026‑08‑15 | [calque\: run Modal-shaped code at AWS scale, unchanged](<https://doi.org/10.5281/zenodo.21953698>) | Software | OpenAlex |
+| 2026‑08‑15 | [Governing Demographic Bias Across AI Retrieval Systems](<https://aisel.aisnet.org/amcis2026/sig_dsa/sig_dsa/5>) | Article | OpenAlex |
+| 2026‑08‑14 | [firedrakeproject/firedrake\: Firedrake\: an automated finite element system](<https://doi.org/10.5281/zenodo.21932028>) | Software | OpenAlex |
+| 2026‑08‑14 | [firedrakeproject/ufl\: UFL\: the Unified Form Language](<https://doi.org/10.5281/zenodo.21932031>) | Software | OpenAlex |
+| 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.6](<https://doi.org/10.5281/zenodo.21940590>) | Software | OpenAlex |
+| 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.5](<https://doi.org/10.5281/zenodo.21930837>) | Software | OpenAlex |
+| 2026‑08‑14 | [Review of\: "Multi-View Clustering Goes Federated\: A Survey"](<https://doi.org/10.32388/oobvdj>) | Peer review | OpenAlex |
 | 2026‑08‑13 | [Reconstructing the Aerosol State from Partial Observations with Generative Modeling](<https://doi.org/10.1175/aies-d-25-0101.1>) | Article | OpenAlex |
+| 2026‑08‑13 | [LOREnc\: Low-Rank Encryption for Securing Foundation Models and Lora Adapters](<https://doi.org/10.1109/icip61757.2026.11630524>) | Conference paper | OpenAlex |
+| 2026‑08‑12 | [Toward nonlinear representations with Gaussian-splat manifolds for physics-informed learning](<https://doi.org/10.1038/s41467-026-76254-4>) | Article | OpenAlex |
+| 2026‑08‑12 | [How Far Are LLMs from Real Search\: Rethinking the Complementary Roles of Search and Learning](<https://doi.org/10.1145/3834774>) | Article | OpenAlex |
+| 2026‑08‑11 | [librosa](<https://doi.org/10.5281/zenodo.21891531>) | Software | OpenAlex |
+| 2026‑08‑11 | [CliMA/ClimaLand\.jl\: v1\.11\.1](<https://doi.org/10.5281/zenodo.21880666>) | Software | OpenAlex |
+| 2026‑08‑11 | [OpenHands/software-agent-sdk\: v1\.42\.0](<https://doi.org/10.5281/zenodo.21895237>) | Software | OpenAlex |
+| 2026‑08‑09 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.6](<https://doi.org/10.5281/zenodo.21856115>) | Software | OpenAlex |
+| 2026‑08‑08 | [Artificial intelligence mediated socioemotional support emotional co-regulation and self-regulated learning in higher education](<https://doi.org/10.1007/s44217-026-01985-x>) | Article | OpenAlex |
+| 2026‑08‑08 | [A Comprehensive Review of Malware Detection Techniques in Wireless Sensor Networks](<https://doi.org/10.38124/ijisrt/26aug099>) | Article | OpenAlex |
 | 2026‑08‑07 | [Enterprise AI Agents\: From Prototypes to Production](<https://doi.org/10.1145/3770855.3818266>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [KDD 9th Workshop on Machine Learning in Finance](<https://doi.org/10.1145/3770855.3818256>) | Conference paper | OpenAlex |
+| 2026‑08‑07 | [CliMA/ClimaAtmos\.jl\: v0\.42\.4](<https://doi.org/10.5281/zenodo.21844739>) | Software | OpenAlex |
+| 2026‑08‑07 | [truffle\: EC2 instance-type discovery, pricing, and quotas](<https://doi.org/10.5281/zenodo.21439669>) | Software | OpenAlex |
 | 2026‑08‑07 | [Multi-Turn Reinforcement Learning for Large Language Models\: From Theory to Practice with Amazon SageMaker AI](<https://doi.org/10.1145/3770855.3816472>) | Conference paper | OpenAlex |
+| 2026‑08‑07 | [LitTraceQA\: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering](<https://arxiv.org/abs/2608.07370>) | Preprint | OpenAlex |
+| 2026‑08‑07 | [EleutherAI/bergson\: v0\.26\.0](<https://doi.org/10.5281/zenodo.21834764>) | Software | OpenAlex |
+| 2026‑08‑07 | [Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness](<https://arxiv.org/abs/2608.10008v3>) | Paper | Verified affiliation |
 | 2026‑08‑06 | [KDD Workshop on Evaluation and Trustworthiness of Agentic AI](<https://www.microsoft.com/en-us/research/publication/kdd-workshop-on-evaluation-and-trustworthiness-of-agentic-ai/>) | Publication | OpenAlex, Official page |
+| 2026‑08‑06 | [OpenHands/software-agent-sdk\: v1\.41\.0](<https://doi.org/10.5281/zenodo.21824603>) | Software | OpenAlex |
+| 2026‑08‑06 | [The 2nd SeT-LLM Workshop on Secure and Trustworthy Large Language Models](<https://doi.org/10.1145/3770855.3818247>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [Teaching LLMs to Write System Kernels for AI Accelerators\: Post-Training, Reasoning, and Agentic Optimization](<https://doi.org/10.1145/3770855.3816468>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [SafeCRS\: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](<https://doi.org/10.1145/3770855.3817807>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [OPBench\: A Graph Benchmark to Combat the Opioid Crisis](<https://doi.org/10.1145/3770855.3817541>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Multi-omics analyses of facial skin in acne identify distinct microbial and metabolic features at lesional and non-lesional sites](<https://doi.org/10.1038/s41522-026-01086-5>) | Article | OpenAlex |
 | 2026‑08‑06 | [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](<https://doi.org/10.1145/3770855.3818097>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.25\.1](<https://doi.org/10.5281/zenodo.21825006>) | Software | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.25\.0](<https://doi.org/10.5281/zenodo.21823165>) | Software | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.24\.6](<https://doi.org/10.5281/zenodo.21821693>) | Software | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.24\.5](<https://doi.org/10.5281/zenodo.21820797>) | Software | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.24\.4](<https://doi.org/10.5281/zenodo.21820446>) | Software | OpenAlex |
+| 2026‑08‑06 | [EleutherAI/bergson\: v0\.24\.3](<https://doi.org/10.5281/zenodo.21819892>) | Software | OpenAlex |
+| 2026‑08‑06 | [Deciphering Fingerprints of 3D Molecular Surfaces For Accurate Epitope Prediction](<https://doi.org/10.1145/3770855.3818825>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Align-RAG\: Alignment Is All You Need for TSFM In-Context Learning](<https://arxiv.org/abs/2608.05571>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [&lt;scp&gt;LakeFM&lt;/scp&gt; \: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data](<https://arxiv.org/abs/2606.11268>) | Conference paper | OpenAlex |
+| 2026‑08‑06 | [Learning Context-Free Grammars for Grammar-Constrained Decoding via Declarative Agentic Programming with Guarantees](<https://arxiv.org/abs/2608.05493v1>) | Paper | Verified affiliation |
 | 2026‑08‑05 | [Optimizing What Policies Learn From\: Recoverability-aware Rollout Intervention Learning](<https://arxiv.org/abs/2608.05080>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [MoEGen\: Mixture-of-Experts for Instance-Adaptive LoRA Generation](<https://arxiv.org/abs/2608.03275>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems](<https://arxiv.org/abs/2608.03239>) | Preprint | OpenAlex |
@@ -155,7 +222,7 @@
 | 2026 | [Small language models for efficient agentic tool calling\: Outperforming large models with targeted fine-tuning](<https://www.amazon.science/publications/small-language-models-for-efficient-agentic-tool-calling-outperforming-large-models-with-targeted-fine-tuning>) | Publication | Official page |
 | 2026 | [Self-refining vision language model for robotic failure detection and reasoning](<https://www.amazon.science/publications/self-refining-vision-language-model-for-robotic-failure-detection-and-reasoning>) | Publication | Official page |
 | 2026 | [Self-aligned reward\: Towards effective and efficient reasoners](<https://www.amazon.science/publications/self-aligned-reward-towards-effective-and-efficient-reasoners>) | Publication | Official page |
-| 2026 | [SOP-Bench\: Complex industrial SOPs for evaluating LLM agents](<https://www.amazon.science/publications/sop-bench-complex-industrial-sops-for-evaluating-llm-agents>) | Publication | Official page |
+| 2026 | [SOP-Bench\: Complex industrial SOPs for evaluating LLM agents](<https://www.amazon.science/publications/sop-bench-complex-industrial-sops-for-evaluating-llm-agents>) | Publication | Official page, OpenAlex |
 | 2026 | [SMPRO\: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](<https://doi.org/10.1609/aaai.v40i44.41132>) | Article | Official page |
 | 2026 | [Personality-driven AI agents\: Operationalizing OCEAN traits for human-AI collaboration in the coding domain](<https://www.amazon.science/publications/personality-driven-ai-agents-operationalizing-ocean-traits-for-human-ai-collaboration-in-the-coding-domain>) | Publication | Official page |
 | 2026 | [PRECISE\: Reducing the bias of LLM evaluations using prediction-powered ranking estimation](<https://www.amazon.science/publications/precise-reducing-the-bias-of-llm-evaluations-using-prediction-powered-ranking-estimation>) | Publication | Official page |
@@ -240,7 +307,7 @@
 | 2026 | [SAER\: Scalable assessment of e-commerce recommendations using large language models](<https://www.amazon.science/publications/saer-scalable-assessment-of-e-commerce-recommendations-using-large-language-models>) | Publication | Official page |
 | 2026 | [S2D\: Selective spectral decay for quantization-friendly conditioning of neural activations](<https://www.amazon.science/publications/s2d-selective-spectral-decay-for-quantization-friendly-conditioning-of-neural-activations>) | Publication | Official page |
 | 2026 | [Revisiting model stitching in the foundation model era](<https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era>) | Publication | Official page |
-| 2026 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](<https://arxiv.org/abs/2608.06778>) | Preprint | Official page |
+| 2026 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](<https://arxiv.org/abs/2608.06778>) | Preprint | Official page, OpenAlex |
 | 2026 | [Rethinking visual information processing in multimodal LLMs](<https://www.amazon.science/publications/rethinking-visual-information-processing-in-multimodal-llms>) | Publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](<https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery>) | Publication | Official page |
 | 2026 | [Rethinking gold standards\: Co-evolving benchmarks and agents for deep research factuality](<https://www.amazon.science/publications/rethinking-gold-standards-co-evolving-benchmarks-and-agents-for-deep-research-factuality>) | Publication | Official page |
@@ -363,7 +430,7 @@
 | 2026 | [Enabling user agency in scalable content recommendations with large language models](<https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models>) | Publication | Official page |
 | 2026 | [Eliciting self-verification in multimodal reasoning agents with reinforcement learning](<https://www.amazon.science/publications/eliciting-self-verification-in-multimodal-reasoning-agents-with-reinforcement-learning>) | Publication | Official page |
 | 2026 | [EKKA\: Automated diagnosis of silent errors in LLM inference](<https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference>) | Publication | Official page |
-| 2026 | [Dynamic resolution switching for live streaming](<https://www.amazon.science/publications/dynamic-resolution-switching-for-live-streaming>) | Publication | Official page |
+| 2026 | [Dynamic resolution switching for live streaming](<https://www.amazon.science/publications/dynamic-resolution-switching-for-live-streaming>) | Publication | Official page, OpenAlex |
 | 2026 | [DualVision\: RGB-infrared multimodal large language models for robust visual reasoning](<https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning>) | Publication | Official page |
 | 2026 | [Don’t park there! Learning socially-appropriate robot parking spots in the home](<https://www.amazon.science/publications/dont-park-there-learning-socially-appropriate-robot-parking-spots-in-the-home>) | Publication | Official page |
 | 2026 | [Does the optimal hallucination detector for agentic tool calls depend on model scale?](<https://www.amazon.science/publications/does-the-optimal-hallucination-detector-for-agentic-tool-calls-depend-on-model-scale>) | Publication | Official page |
@@ -634,7 +701,7 @@
 | 2025 | [Sequence-level large language model training with contrastive preference optimization](<https://www.amazon.science/publications/sequence-level-large-language-model-training-with-contrastive-preference-optimization>) | Publication | Official page |
 | 2025 | [SelfElicit\: Your language model secretly knows where is the relevant evidence](<https://www.amazon.science/publications/selfelicit-your-language-model-secretly-knows-where-is-the-relevant-evidence>) | Publication | Official page |
 | 2025 | [SQLGenie\: A practical LLM based system for reliable and efficient SQL generation](<https://www.amazon.science/publications/sqlgenie-a-practical-llm-based-system-for-reliable-and-efficient-sql-generation>) | Publication | Official page |
-| 2025 | [SATA-BENCH\: Select all that apply benchmark for multiple choice questions](<https://www.amazon.science/publications/sata-bench-select-all-that-apply-benchmark-for-multiple-choice-questions>) | Publication | Official page |
+| 2025 | [SATA-BENCH\: Select all that apply benchmark for multiple choice questions](<https://www.amazon.science/publications/sata-bench-select-all-that-apply-benchmark-for-multiple-choice-questions>) | Publication | Official page, OpenAlex |
 | 2025 | [Rationale-guided distillation for e-commerce relevance classification\: Bridging large language models and lightweight cross-encoders](<https://www.amazon.science/publications/rationale-guided-distillation-for-e-commerce-relevance-classification-bridging-large-language-models-and-lightweight-cross-encoders>) | Publication | Official page |
 | 2025 | [RAGferee\: Building contextual reward models for retrieval-augmented generation](<https://www.amazon.science/publications/ragferee-building-contextual-reward-models-for-retrieval-augmented-generation>) | Publication | Official page |
 | 2025 | [R-VLM\: Region-aware vision language model for precise GUI grounding](<https://www.amazon.science/publications/r-vlm-region-aware-vision-language-model-for-precise-gui-grounding>) | Publication | Official page |

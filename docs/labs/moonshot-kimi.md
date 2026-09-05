@@ -1,9 +1,15 @@
 # Moonshot/Kimi Papers
 
 - Region: `China`
-- Papers: `20`
+- Papers: `21`
 - Latest: `2026-07-27`
 - [Back to README](../../README.md#moonshotkimi)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [To use instant mode, pass {"thinking" = {"type"\:"disabled"}}](<https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf>) | Technical report | Official repo |
 
 ## 2026
 
@@ -12,7 +18,7 @@
 | 2026‑07‑27 | [the assistant should mention 215 and 222 that appear in the prior reasoning content](<https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf>) | Technical report | Official repo |
 | 2026‑07‑26 | [PerceptionBench\: Evaluating Atomic Visual Perception in Multimodal Large Language Models](<https://huggingface.co/papers/2607.24957>) | Technical report | Official page |
 | 2026‑07‑26 | [Kimi K3\: Open Frontier Intelligence](<https://huggingface.co/papers/2607.24653>) | Technical report | Official page |
-| 2026‑07‑23 | [Paper](<https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf>) | Technical report | Official repo |
+| 2026‑07‑23 | [PerceptionBench](<https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf>) | Technical report | Official repo |
 | 2026‑03‑16 | [Attention Residuals](<https://huggingface.co/papers/2603.15031>) | Technical report | Official page |
 | 2026‑02‑02 | [Kimi K2\.5\: Visual Agentic Intelligence](<https://huggingface.co/papers/2602.02276>) | Technical report | Official page |
 | 2026‑01‑28 | [WorldVQA\: Measuring Atomic World Knowledge in Multimodal Large Language Models](<https://huggingface.co/papers/2602.02537>) | Technical report | Official page |
