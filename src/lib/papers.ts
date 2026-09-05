@@ -38,6 +38,13 @@ export type Paper = {
 
 export type PaperDataset = {
   generated_at: string;
+  collection?: {
+    status: "ok" | "partial";
+    failed_sources: number;
+    error_sources?: number;
+    partial_sources: number;
+    pending_metadata: number;
+  };
   source_notes: string[];
   totals: {
     papers: number;
@@ -79,6 +86,28 @@ export function formatGeneratedAt(value: string): string {
 
 export function companyNames(paper: Paper): string[] {
   return paper.companies?.length ? paper.companies : paper.matched_orgs || [];
+}
+
+export function safePaperUrl(value: string): string | undefined {
+  if (!/^https?:\/\//i.test(value) || /[\u0000-\u0020\u007f\\]/.test(value)) return undefined;
+  try {
+    if (/[\u0000-\u001f\u007f\\]/.test(decodeURIComponent(value))) return undefined;
+    const url = new URL(value);
+    const host = url.hostname.toLowerCase().replace(/\.$/, "");
+    if (url.username || url.password || (url.port && !["80", "443"].includes(url.port))) return undefined;
+    if (!host.includes(".") || host.startsWith("[") || /(?:^|\.)(?:localhost|local|internal)$/.test(host)) return undefined;
+    if (/^\d+\.\d+\.\d+\.\d+$/.test(host)) {
+      const [a, b, c] = host.split(".").map(Number);
+      if (a === 0 || a === 10 || a === 127 || a >= 224 ||
+          (a === 100 && b >= 64 && b <= 127) || (a === 169 && b === 254) ||
+          (a === 172 && b >= 16 && b <= 31) || (a === 192 && (b === 168 || b === 0)) ||
+          (a === 198 && (b === 18 || b === 19 || (b === 51 && c === 100))) ||
+          (a === 203 && b === 0 && c === 113)) return undefined;
+    }
+    return url.href;
+  } catch {
+    return undefined;
+  }
 }
 
 export function paperMatchesQuery(paper: Paper, query: string): boolean {

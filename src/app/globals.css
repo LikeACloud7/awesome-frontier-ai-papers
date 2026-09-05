@@ -891,3 +891,19 @@ h1 {
     font-size: 17px;
   }
 }
+.collection-notice {
+  margin: 0 0 1.25rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #c5ced8;
+  border-radius: 0.5rem;
+  background: #f5f7fa;
+  color: #334155;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.collection-notice a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}

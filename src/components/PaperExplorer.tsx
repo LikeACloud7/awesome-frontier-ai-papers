@@ -21,6 +21,7 @@ import {
   formatGeneratedAt,
   paperMatchesQuery,
   regionLabels,
+  safePaperUrl,
   type Company,
   type Paper,
   type PaperDataset
@@ -46,6 +47,7 @@ const emptyDataset: PaperDataset = {
 };
 
 function sourceLabel(source: string): string {
+  if (source === "arxiv_affiliation") return "Verified affiliation";
   if (source === "openalex") return "OpenAlex";
   if (source === "official_report" || source === "official_repository_scan") return "Official report";
   if (source === "official_publication_page") return "Official page";
@@ -106,6 +108,7 @@ function CompanyRow({
 }
 
 function PaperRow({ paper }: { paper: Paper }) {
+  const paperUrl = safePaperUrl(paper.url);
   const companies = companyNames(paper);
   const authors = paper.authors.slice(0, 5).join(", ");
   const extraAuthors = paper.authors.length > 5 ? ` +${paper.authors.length - 5}` : "";
@@ -134,10 +137,10 @@ function PaperRow({ paper }: { paper: Paper }) {
         </div>
 
         <h2>
-          <a href={paper.url} rel="noreferrer" target="_blank">
+          {paperUrl ? <a href={paperUrl} rel="noopener noreferrer" target="_blank">
             {paper.title}
             <ArrowUpRight size={16} aria-hidden />
-          </a>
+          </a> : <span>{paper.title}</span>}
         </h2>
 
         {authors ? (
@@ -242,6 +245,7 @@ export default function PaperExplorer() {
 
   const renderedPapers = visiblePapers.slice(0, visibleLimit);
   const latestDate = dataset.papers[0]?.published || "";
+  const collectionErrors = dataset.collection?.error_sources ?? dataset.collection?.failed_sources ?? 0;
   const selectedCompanyLabel = selectedCompany === "all" ? "All labs" : selectedCompany;
   const activeFilters = [
     region !== "all" ? regionLabels[region] : null,
@@ -314,6 +318,19 @@ export default function PaperExplorer() {
           </span>
         </div>
       </section>
+
+      {dataset.collection?.status === "partial" ? (
+        <aside className="collection-notice" role="status" aria-label="Collection status">
+          <strong>Collection is still catching up.</strong>{" "}
+          {collectionErrors > 0
+            ? `${collectionErrors} ${collectionErrors === 1 ? "source needs" : "sources need"} attention. `
+            : "Background scans are continuing. "}
+          {dataset.collection.pending_metadata > 0
+            ? `${dataset.collection.pending_metadata} records are awaiting topic checks. `
+            : ""}
+          <a href="data/collection_health.json">View collection status</a>
+        </aside>
+      ) : null}
 
       <section className="toolbar" aria-label="Filters">
         <div className="search-box">
