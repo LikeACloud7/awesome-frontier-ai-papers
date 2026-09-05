@@ -2,10 +2,10 @@
   "company_tracking": {
     "enabled": true,
     "openalex": {
-      "enabled": false,
+      "enabled": true,
       "resolve_institutions": true,
-      "max_institutions_per_org": 3,
-      "max_results_per_org": 2000,
+      "max_institutions_per_org": 0,
+      "max_results_per_org": 0,
       "min_ai_concept_score": 0.35,
       "ai_concept_ids": [
         "https://openalex.org/C154945302",
@@ -30,14 +30,15 @@
     },
     "huggingface_search": {
       "enabled": true,
-      "max_results_per_query": 100
+      "max_results_per_query": 0
     },
     "official_reports": {
       "enabled": true,
       "max_workers": 2,
       "max_huggingface_org_repos": 0,
-      "max_github_org_repos": 20,
-      "max_github_org_repos_without_token": 2
+      "max_github_org_repos": 0,
+      "max_github_org_repos_without_token": 0,
+      "repositories_per_run": 30
     },
     "ai_relevance_keywords": [
       "LLM",
@@ -54,7 +55,65 @@
       "retrieval",
       "computer vision",
       "speech recognition",
-      "reinforcement learning"
+      "reinforcement learning",
+      "machine learning",
+      "deep learning",
+      "neural network",
+      "neural networks",
+      "vision-language",
+      "world model",
+      "world models",
+      "flow matching",
+      "flow-matching",
+      "representation learning",
+      "Gaussian splatting",
+      "speech synthesis",
+      "natural language processing",
+      "artificial intelligence",
+      "AI safety",
+      "AI systems",
+      "model alignment",
+      "federated learning",
+      "generative model",
+      "generative models",
+      "AI agents",
+      "multiagent systems",
+      "text-to-speech",
+      "state space model",
+      "state-space model",
+      "neural compression",
+      "computer vision",
+      "视觉语言",
+      "大语言模型",
+      "机器学习",
+      "人工智能",
+      "robot manipulation",
+      "robotic manipulation",
+      "vision-language-action",
+      "action tokenization",
+      "self-supervised",
+      "semantic retrieval",
+      "semantic search",
+      "mechanistic interpretability",
+      "alignment auditing",
+      "reward hacking",
+      "language modeling",
+      "language modelling",
+      "self attention",
+      "self-attention",
+      "diffusion model",
+      "diffusion models",
+      "transformer model",
+      "transformer models",
+      "neural operator",
+      "neural operators",
+      "activation steering",
+      "jailbreak",
+      "jailbreaks",
+      "generative graphics",
+      "audio generation",
+      "structured prediction",
+      "dimensionality reduction"
     ],
     "frontier_ai_keywords": [
       "LLM",
@@ -164,18 +223,7 @@
       "MiniMax",
       "Step-Audio"
     ],
-    "frontier_ai_weak_keywords": [
-      "agent",
-      "agents",
-      "transformer",
-      "transformers",
-      "diffusion",
-      "reasoning",
-      "alignment",
-      "retrieval",
-      "tokenization",
-      "reinforcement learning"
-    ],
+    "frontier_ai_weak_keywords": ["agent", "agents", "transformer", "transformers", "diffusion", "reasoning", "alignment", "retrieval", "tokenization", "reinforcement learning"],
     "frontier_ai_context_keywords": [
       "LLM",
       "LLMs",
@@ -216,10 +264,7 @@
       "MiniMax",
       "Step-Audio"
     ],
-    "excluded_url_patterns": [
-      "zenodo",
-      "github.com"
-    ],
+    "excluded_url_patterns": [],
     "groups": [
       {
         "id": "company_us",
@@ -239,26 +284,21 @@
                 "url": "https://openai.com/news/rss.xml",
                 "include_url_patterns": ["/index/"],
                 "include_categories": ["Publication", "Research", "Safety"],
-                "include_title_keywords": [
-                  "System Card",
-                  "Model Card",
-                  "technical report",
-                  "chain-of-thought",
-                  "consistency models",
-                  "Prover-Verifier",
-                  "frontier risks",
-                  "scientific research tasks",
-                  "biological threat",
-                  "Computer-Using Agent",
-                  "IndQA",
-                  "Sora",
-                  "GPT-Rosalind",
-                  "o1",
-                  "o3",
-                  "o4-mini"
-                ]
+                "work_type": "research_post",
+                "topic_scope": "ai"
+              },
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["openai"],
+                "max_pages": 0,
+                "topic_scope": "ai"
               }
-            ]
+            ],
+            "affiliation_terms": ["OpenAI"],
+            "official_repositories": {
+              "huggingface_orgs": ["openai"],
+              "github_orgs": ["openai"]
+            }
           },
           {
             "name": "Anthropic",
@@ -271,14 +311,25 @@
               {
                 "type": "anthropic_research_page",
                 "url": "https://www.anthropic.com/research",
-                "include_url_patterns": ["/research/"]
+                "include_url_patterns": ["/research/"],
+                "topic_scope": "ai"
               },
               {
                 "type": "anthropic_system_cards_page",
                 "url": "https://www.anthropic.com/system-cards",
-                "include_url_patterns": ["anthropic.com/", "www-cdn.anthropic.com/"]
+                "include_url_patterns": ["anthropic.com/", "www-cdn.anthropic.com/"],
+                "topic_scope": "ai"
+              },
+              {
+                "type": "anthropic_alignment",
+                "url": "https://alignment.anthropic.com/",
+                "topic_scope": "ai"
               }
-            ]
+            ],
+            "affiliation_terms": ["Anthropic"],
+            "official_repositories": {
+              "github_orgs": ["anthropics", "safety-research"]
+            }
           },
           {
             "name": "Google/DeepMind",
@@ -289,24 +340,28 @@
             "official_publication_pages": [
               {
                 "type": "deepmind_publication_list",
-                "url": "https://deepmind.google/research/publications/"
+                "url": "https://deepmind.google/research/publications/",
+                "topic_scope": "ai"
               },
               {
                 "type": "deepmind_model_cards",
                 "url": "https://deepmind.google/models/model-cards/",
                 "work_type": "model_card",
                 "default_abstract": "Official Google DeepMind model card.",
-                "include_url_patterns": [
-                  "deepmind.google/models/model-cards/",
-                  "storage.googleapis.com/deepmind-media/",
-                  "ai.google.dev/gemma/docs/"
-                ]
+                "include_url_patterns": ["deepmind.google/models/model-cards/", "storage.googleapis.com/deepmind-media/", "ai.google.dev/gemma/docs/"],
+                "topic_scope": "ai"
+              },
+              {
+                "type": "google_research_publications",
+                "url": "https://research.google/pubs/",
+                "max_pages": 0
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["google"],
               "github_orgs": ["google-deepmind"]
-            }
+            },
+            "affiliation_terms": ["Google", "Google Research", "Google DeepMind", "DeepMind"]
           },
           {
             "name": "Meta/FAIR",
@@ -319,14 +374,16 @@
               {
                 "type": "meta_publication_search",
                 "url": "https://ai.meta.com/results/",
-                "max_pages": 50,
-                "include_url_patterns": ["/research/publications/"]
+                "max_pages": 0,
+                "include_url_patterns": ["/research/publications/"],
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["meta-llama"],
               "github_orgs": ["facebookresearch"]
-            }
+            },
+            "affiliation_terms": ["Meta AI", "Meta Platforms", "Facebook AI Research"]
           },
           {
             "name": "Microsoft",
@@ -341,7 +398,7 @@
                 "url": "https://www.microsoft.com/en-us/research/publications/",
                 "endpoint": "https://www.microsoft.com/en-us/research/wp-json/microsoft-research/v1/faceted-search",
                 "post_id": "687471",
-                "max_pages": 500,
+                "max_pages": 0,
                 "split_by_year": true,
                 "retries": 3,
                 "timeout_seconds": 60,
@@ -351,7 +408,8 @@
             ],
             "official_repositories": {
               "huggingface_orgs": ["microsoft"]
-            }
+            },
+            "affiliation_terms": ["Microsoft Research", "Microsoft"]
           },
           {
             "name": "Apple",
@@ -363,17 +421,21 @@
             "official_publication_pages": [
               {
                 "type": "apple_next_data",
-                "url": "https://machinelearning.apple.com/research"
+                "url": "https://machinelearning.apple.com/research",
+                "topic_scope": "ai"
               },
               {
                 "type": "rss",
                 "url": "https://machinelearning.apple.com/rss.xml",
-                "include_url_patterns": ["/research/"]
+                "include_url_patterns": ["/research/"],
+                "work_type": "research_post",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["apple"]
-            }
+            },
+            "affiliation_terms": ["Apple"]
           },
           {
             "name": "Amazon",
@@ -386,13 +448,14 @@
               {
                 "type": "amazon_publication_list",
                 "url": "https://www.amazon.science/publications",
-                "max_pages": 100
+                "max_pages": 0
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["AmazonScience"],
               "github_orgs": ["amazon-science"]
-            }
+            },
+            "affiliation_terms": ["Amazon", "Amazon Web Services"]
           },
           {
             "name": "NVIDIA",
@@ -405,12 +468,13 @@
               {
                 "type": "nvidia_publication_list",
                 "url": "https://research.nvidia.com/publications",
-                "max_pages_per_year": 10
+                "max_pages_per_year": 0
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["nvidia"]
-            }
+            },
+            "affiliation_terms": ["NVIDIA"]
           },
           {
             "name": "xAI",
@@ -448,7 +512,16 @@
             "official_repositories": {
               "huggingface_orgs": ["xai-org"],
               "github_orgs": ["xai-org"]
-            }
+            },
+            "affiliation_terms": ["xAI"],
+            "official_publication_pages": [
+              {
+                "type": "huggingface_org_papers",
+                "hf_orgs": ["xai-org"],
+                "max_pages": 0,
+                "topic_scope": "ai"
+              }
+            ]
           }
         ]
       },
@@ -469,19 +542,22 @@
                 "type": "rss",
                 "url": "https://qwenlm.github.io/blog/index.xml",
                 "include_url_patterns": ["/blog/"],
-                "work_type": "technical-report"
+                "work_type": "research_post",
+                "topic_scope": "ai"
               },
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["Qwen"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["Qwen"],
               "github_orgs": ["QwenLM"]
-            }
+            },
+            "affiliation_terms": ["Alibaba", "Alibaba Group", "Alibaba Cloud", "Alibaba Inc", "DAMO Academy", "Qwen Team"]
           },
           {
             "name": "Moonshot/Kimi",
@@ -494,14 +570,16 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["moonshotai"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["moonshotai"],
               "github_orgs": ["MoonshotAI"]
-            }
+            },
+            "affiliation_terms": ["Moonshot AI", "Moonshot"]
           },
           {
             "name": "DeepSeek",
@@ -514,8 +592,9 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["deepseek-ai"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
@@ -537,7 +616,22 @@
                 "title": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
                 "url": "https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf",
                 "published": "2026-01-12",
-                "authors": ["Xin Cheng", "Wangding Zeng", "Damai Dai", "Qinyu Chen", "Bingxuan Wang", "Zhenda Xie", "Kezhao Huang", "Xingkai Yu", "Zhewen Hao", "Yukun Li", "Han Zhang", "Huishuai Zhang", "Dongyan Zhao", "Wenfeng Liang"],
+                "authors": [
+                  "Xin Cheng",
+                  "Wangding Zeng",
+                  "Damai Dai",
+                  "Qinyu Chen",
+                  "Bingxuan Wang",
+                  "Zhenda Xie",
+                  "Kezhao Huang",
+                  "Xingkai Yu",
+                  "Zhewen Hao",
+                  "Yukun Li",
+                  "Han Zhang",
+                  "Huishuai Zhang",
+                  "Dongyan Zhao",
+                  "Wenfeng Liang"
+                ],
                 "author_affiliations": ["Peking University", "DeepSeek-AI"],
                 "work_type": "technical-report",
                 "abstract": "The paper introduces conditional memory as a complementary sparsity axis for Large Language Models, instantiated via Engram, an N-gram lookup module with O(1) retrieval. It reports iso-parameter and iso-FLOPs improvements over MoE baselines across knowledge, reasoning, code, math, and long-context retrieval tasks."
@@ -546,11 +640,32 @@
                 "title": "mHC: Manifold-Constrained Hyper-Connections",
                 "url": "https://huggingface.co/papers/2512.24880",
                 "published": "2025-12-31",
-                "authors": ["Zhenda Xie", "Yixuan Wei", "Huanqi Cao", "Chenggang Zhao", "Chengqi Deng", "Jiashi Li", "Damai Dai", "Huazuo Gao", "Jiang Chang", "Liang Zhao", "Shangyan Zhou", "Zhean Xu", "Zhengyan Zhang", "Wangding Zeng", "Shengding Hu", "Yuqing Wang", "Jingyang Yuan", "Lean Wang", "Wenfeng Liang"],
+                "authors": [
+                  "Zhenda Xie",
+                  "Yixuan Wei",
+                  "Huanqi Cao",
+                  "Chenggang Zhao",
+                  "Chengqi Deng",
+                  "Jiashi Li",
+                  "Damai Dai",
+                  "Huazuo Gao",
+                  "Jiang Chang",
+                  "Liang Zhao",
+                  "Shangyan Zhou",
+                  "Zhean Xu",
+                  "Zhengyan Zhang",
+                  "Wangding Zeng",
+                  "Shengding Hu",
+                  "Yuqing Wang",
+                  "Jingyang Yuan",
+                  "Lean Wang",
+                  "Wenfeng Liang"
+                ],
                 "work_type": "technical-report",
                 "abstract": "Manifold-Constrained Hyper-Connections stabilize and scale residual connection architectures by restoring identity mapping properties through manifold projection and infrastructure optimization, suggesting directions for the evolution of foundational language models."
               }
-            ]
+            ],
+            "affiliation_terms": ["DeepSeek", "DeepSeek AI"]
           },
           {
             "name": "Z.ai/Zhipu",
@@ -563,14 +678,16 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["zai-org"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["zai-org"],
               "github_orgs": ["zai-org"]
-            }
+            },
+            "affiliation_terms": ["Zhipu AI", "Zhipu"]
           },
           {
             "name": "ByteDance/Seed",
@@ -586,15 +703,17 @@
                 "url_template": "https://seed.bytedance.com/en/research/{title_key}",
                 "article_type": 1,
                 "count": 50,
-                "max_pages": 10,
+                "max_pages": 0,
                 "locale": "US",
-                "include_url_patterns": ["/en/research/"]
+                "include_url_patterns": ["/en/research/"],
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["ByteDance-Seed"],
               "github_orgs": ["bytedance-seed"]
-            }
+            },
+            "affiliation_terms": ["ByteDance", "Bytedance"]
           },
           {
             "name": "Tencent/Hunyuan",
@@ -607,8 +726,9 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["tencent", "Tencent-Hunyuan"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_reports": [
@@ -700,7 +820,8 @@
             "official_repositories": {
               "huggingface_orgs": ["tencent", "Tencent-Hunyuan"],
               "github_orgs": ["Tencent-Hunyuan"]
-            }
+            },
+            "affiliation_terms": ["Tencent", "Tencent AI"]
           },
           {
             "name": "Baidu",
@@ -715,35 +836,28 @@
                 "url": "https://ernie.baidu.com/blog/index.xml",
                 "include_url_patterns": ["/blog/posts/"],
                 "include_categories": [],
-                "include_title_keywords": [
-                  "Technical Report",
-                  "PaddleOCR-VL",
-                  "ERNIE 5.0:",
-                  "ERNIE 4.5",
-                  "ERNIE-Image",
-                  "FastDeploy"
-                ],
-                "work_type": "technical-report"
+                "work_type": "research_post",
+                "topic_scope": "ai"
               },
               {
                 "type": "baidu_ernie_publication_page",
                 "url": "https://ernie.baidu.com/blog/publication/",
-                "include_url_patterns": [
-                  "ernie.baidu.com/blog/publication/",
-                  "arxiv.org/abs/"
-                ],
-                "work_type": "technical-report"
+                "include_url_patterns": ["ernie.baidu.com/blog/publication/", "arxiv.org/abs/"],
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               },
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["baidu"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["baidu"]
-            }
+            },
+            "affiliation_terms": ["Baidu", "Baidu Research"]
           },
           {
             "name": "Huawei/Noah",
@@ -756,8 +870,9 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["huawei-noah"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               },
               {
                 "type": "huawei_noah_wagtail_publications",
@@ -766,14 +881,16 @@
                 "page_type": "research.ResourcesPage",
                 "locale": "en",
                 "limit": 20,
-                "max_pages": 10,
-                "include_url_patterns": ["/en/scientific_research/"]
+                "max_pages": 0,
+                "include_url_patterns": ["/en/scientific_research/"],
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["huawei-noah"],
               "github_orgs": ["huawei-noah"]
-            }
+            },
+            "affiliation_terms": ["Huawei", "Huawei Noah"]
           },
           {
             "name": "MiniMax",
@@ -786,8 +903,9 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["MiniMaxAI"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_reports": [
@@ -809,7 +927,8 @@
             "official_repositories": {
               "huggingface_orgs": ["MiniMaxAI"],
               "github_orgs": ["MiniMax-AI"]
-            }
+            },
+            "affiliation_terms": ["MiniMax", "MiniMax AI"]
           },
           {
             "name": "StepFun",
@@ -822,18 +941,29 @@
               {
                 "type": "huggingface_org_papers",
                 "hf_orgs": ["stepfun-ai"],
-                "max_papers": 100,
-                "work_type": "technical-report"
+                "max_papers": 0,
+                "work_type": "technical-report",
+                "topic_scope": "ai"
               }
             ],
             "official_repositories": {
               "huggingface_orgs": ["stepfun-ai"],
               "github_orgs": ["stepfun-ai"]
-            }
+            },
+            "affiliation_terms": ["StepFun", "Step Fun"]
           }
         ]
       }
-    ]
+    ],
+    "archive_since": "2024-01-01",
+    "max_workers": 4,
+    "arxiv_affiliations": {
+      "enabled": true,
+      "authors_per_run": 60,
+      "candidates_per_query": 50,
+      "pdf_checks_per_run": 100
+    },
+    "metadata_checks_per_run": 200
   },
   "categories": ["cs.CL", "cs.AI", "cs.LG"]
 }

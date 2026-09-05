@@ -13,15 +13,20 @@ from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlencode, urljoin
+from urllib.parse import urlencode, urljoin, urlsplit
+from itertools import count as page_counter
+from threading import Lock
+import unicodedata
 
 import feedparser
 import requests
+from collection_status import http_get, http_request, record_source_error, record_source_limit, safe_message
 
 # Cache directory for source metadata.
 OUTPUT_DIR = Path(__file__).parent.parent / "output"
 OPENALEX_CACHE_FILE = OUTPUT_DIR / "openalex_institutions_cache.json"
 OPENALEX_API_BASE = "https://api.openalex.org"
+OPENALEX_CACHE_LOCK = Lock()
 USER_AGENT = "awesome-frontier-ai-papers/0.2"
 HF_RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 HF_MAX_RETRIES = 3
@@ -73,42 +78,18 @@ def retry_after_seconds(value: str | None) -> float | None:
             return None
 
 
-def huggingface_request(
-    method: str,
-    url: str,
-    *,
-    max_retries: int = HF_MAX_RETRIES,
-    max_total_sleep_seconds: float = HF_MAX_TOTAL_SLEEP_SECONDS,
-    **kwargs,
-) -> requests.Response:
-    headers = {"User-Agent": USER_AGENT, **kwargs.pop("headers", {})}
-    kwargs.setdefault("timeout", 30)
-    total_sleep = 0.0
-
-    for attempt in range(max_retries + 1):
-        response = requests.request(method, url, headers=headers, **kwargs)
-        if response.status_code not in HF_RETRY_STATUS_CODES or attempt >= max_retries:
-            response.raise_for_status()
-            return response
-
-        retry_after = retry_after_seconds(response.headers.get("Retry-After"))
-        delay = retry_after if retry_after is not None else HF_BACKOFF_BASE_SECONDS * (2 ** attempt)
-        remaining_sleep = max_total_sleep_seconds - total_sleep
-        if remaining_sleep <= 0:
-            response.raise_for_status()
-        delay = min(delay, remaining_sleep)
-        print(
-            f"HuggingFace 일시 실패 재시도 ({response.status_code}, {attempt + 1}/{max_retries}, {delay:.1f}s): {url}",
-            file=sys.stderr,
-        )
-        time.sleep(delay)
-        total_sleep += delay
-
-    raise RuntimeError("unreachable HuggingFace retry state")
+def huggingface_request(method: str, url: str, *, max_retries: int = HF_MAX_RETRIES,
+                        max_total_sleep_seconds: float = HF_MAX_TOTAL_SLEEP_SECONDS, **kwargs):
+    response = http_request(method, url, retries=max_retries, **kwargs)
+    response.raise_for_status()
+    return response
 
 
 def get_arxiv_id(url: str) -> str:
     """URL에서 arXiv ID 추출"""
+    match = re.search(r"(?:arxiv:|arxiv\.org/(?:abs|pdf|html)/|huggingface\.co/papers/)?(\d{4}\.\d{4,5})(?:v\d+)?(?:\.pdf)?(?:[?#].*)?$", url or "")
+    if match:
+        return match.group(1)
     if "arxiv.org/abs/" in url:
         raw_id = url.split("/abs/")[-1]
     elif re.match(r"^\d{4}\.\d+|^[a-z\-]+/\d+", url):
@@ -120,6 +101,11 @@ def get_arxiv_id(url: str) -> str:
 
 def get_paper_key(paper: dict) -> str:
     """중복 제거/seen 추적용 안정 키 생성"""
+    for field in ("paper_url", "url", "id"):
+        value = paper.get(field, "") or ""
+        arxiv_id = get_arxiv_id(value)
+        if re.fullmatch(r"\d{4}\.\d{4,5}", arxiv_id):
+            return f"arxiv:{arxiv_id}"
     if paper.get("id"):
         return paper["id"]
 
@@ -149,8 +135,8 @@ def get_url_key(paper: dict) -> str:
 
 def get_title_key(paper: dict) -> str:
     """공식 페이지와 arXiv/HF가 같은 보고서를 다른 URL로 내는 경우를 병합하기 위한 키"""
-    title = normalized_term_text(paper.get("title", "")).lower()
-    title = re.sub(r"\s+", " ", title).strip()
+    title = unicodedata.normalize("NFKC", paper.get("title", "")).casefold()
+    title = re.sub(r"[^\w]+", " ", title).strip()
     generic_titles = {
         "technical report",
         "model card",
@@ -244,9 +230,10 @@ def huggingface_evidence_text(item: dict, paper_data: dict) -> str:
     add(item.get("organization"))
     add(paper_data.get("organization"))
     for author in paper_data.get("authors", []) or []:
-        add(author)
         if isinstance(author, dict):
-            add(author.get("user"))
+            add(author.get("affiliation"))
+            for affiliation in author.get("affiliations", []) or []:
+                add(affiliation)
 
     evidence = " ".join(values)
     normalized = normalized_term_text(evidence)
@@ -293,8 +280,8 @@ def paper_match_text(paper: dict) -> str:
     return " ".join([
         paper.get("title", ""),
         paper.get("abstract", ""),
-        " ".join(paper.get("authors", [])),
-        " ".join(paper.get("author_affiliations", [])),
+        " ".join(paper.get("matched_keywords", [])),
+        " ".join(c.get("display_name", "") for c in paper.get("concepts", [])),
     ])
 
 
@@ -338,15 +325,50 @@ def concept_matches_ai(concepts: list[dict], config: dict) -> bool:
 
 def paper_matches_ai_keywords(paper: dict, config: dict) -> bool:
     text = paper_match_text(paper)
-    return bool(match_keywords(text, get_ai_relevance_keywords(config)))
+    ambiguous = {"ai", "agent", "agents", "reasoning", "alignment", "retrieval", "ranking",
+                 "embedding", "neural", "inference", "token", "transformer", "diffusion", "generative"}
+    terms = [term for term in get_ai_relevance_keywords(config) if term.casefold() not in ambiguous]
+    # Generic terms such as "neural" also describe non-AI medical research.
+    # They need model/AI context; a standalone acronym must actually be uppercase AI.
+    return bool(re.search(r"\bAI\b", text) or match_keywords(text, terms))
 
 
 def is_ai_relevant_paper(paper: dict, config: dict) -> bool:
-    return concept_matches_ai(paper.get("concepts", []), config) or paper_matches_ai_keywords(paper, config)
+    if official_ai_source(paper, config):
+        return True
+    text = paper_match_text(paper)
+    ai_venue = re.search(r"\b(?:NeurIPS|ICML|ICLR|COLM|ACL|EMNLP|NAACL|TACL|AAAI|IJCAI|CVPR|ICCV|ECCV|CoRL|ICASSP|INTERSPEECH|JMLR|TPAMI)\b", " ".join(paper.get("matched_keywords", [])))
+    return bool(ai_venue or concept_matches_ai(paper.get("concepts", []), config) or paper_matches_ai_keywords(paper, config))
+
+
+def official_ai_source(paper: dict, config: dict) -> str:
+    if paper.get("ai_research_source"):
+        return paper["ai_research_source"]
+    if paper.get("source") != "official_publication_page":
+        return ""
+    provenance = paper.get("quality_signals", {}).get("company_match_source", "")
+    labs = paper.get("matched_orgs") or paper.get("companies") or []
+    for org in get_company_registry(config):
+        if org["name"] not in labs:
+            continue
+        for source in org.get("official_publication_pages", []):
+            if source.get("topic_scope") != "ai":
+                continue
+            urls = [source.get("url", "")] + [f"https://huggingface.co/{owner}/papers" for owner in source.get("hf_orgs", [])]
+            for url in urls:
+                if url and url in provenance:
+                    return url
+    return ""
 
 
 def is_frontier_ai_relevant_paper(paper: dict, config: dict) -> bool:
-    if paper.get("work_type") in {"technical-report", "model_card", "system_card", "benchmark_dataset_card"}:
+    if paper.get("topic_evidence", {}).get("classifier_version") == 2 and paper["topic_evidence"].get("scope") == "ai":
+        return True
+    if paper.get("work_type") in {"model_card", "system_card", "benchmark_dataset_card"}:
+        return True
+    # Scope is AI research by frontier labs, including learning, agents, vision,
+    # speech, robotics, safety and systems; it is not a model-name allowlist.
+    if is_ai_relevant_paper(paper, config):
         return True
     keywords = get_frontier_ai_keywords(config)
     if not keywords:
@@ -367,6 +389,17 @@ def is_frontier_ai_relevant_paper(paper: dict, config: dict) -> bool:
         and match_keywords(text, weak_keywords)
         and match_keywords(text, context_keywords)
     )
+
+
+def ai_topic_evidence(paper: dict, config: dict) -> dict:
+    text = paper_match_text(paper)
+    terms = match_keywords(text, get_frontier_ai_keywords(config) + get_ai_relevance_keywords(config))
+    ai_source = official_ai_source(paper, config)
+    return {"scope": "ai", "classifier_version": 2, "method": "official_ai_research_catalogue" if ai_source else "abstract_and_subject_metadata",
+            "ai_research_source": ai_source,
+            "matched_terms": list(dict.fromkeys(terms))[:30],
+            "concept_ids": [c["id"] for c in paper.get("concepts", []) if c.get("id") in get_ai_concept_ids(config)],
+            "work_type": paper.get("work_type", "")}
 
 
 def is_excluded_company_paper(paper: dict, config: dict) -> bool:
@@ -534,6 +567,7 @@ def official_report_to_paper(report: dict, org: dict, source: str = "official_re
         "abstract": clean_markdown_text(report.get("abstract", "")),
         "categories": [],
         "url": url,
+        "paper_url": report.get("paper_url", ""),
         "published": report.get("published", ""),
         "doi": report.get("doi", ""),
         "openalex_id": "",
@@ -556,6 +590,7 @@ def official_publication_page_paper(entry: dict, org: dict) -> dict:
         "id": entry.get("id"),
         "title": entry.get("title", ""),
         "url": entry.get("url", ""),
+        "paper_url": entry.get("paper_url", ""),
         "published": entry.get("published", ""),
         "authors": entry.get("authors") or [org["name"]],
         "abstract": entry.get("abstract", ""),
@@ -569,7 +604,7 @@ def fetch_text_url(url: str) -> str:
     if url.startswith("https://huggingface.co/"):
         response = huggingface_request("GET", url)
     else:
-        response = requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
+        response = http_get(url, timeout=30, headers={"User-Agent": USER_AGENT})
     response.raise_for_status()
     if not response.encoding or response.encoding.lower() in {"iso-8859-1", "latin-1"}:
         response.encoding = "utf-8"
@@ -596,10 +631,11 @@ def split_author_text(value: str) -> list[str]:
 def fetch_rss_publication_page(org: dict, source: dict) -> list[dict]:
     url = source.get("url", "")
     try:
-        response = requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
+        response = http_get(url, timeout=30, headers={"User-Agent": USER_AGENT})
         response.raise_for_status()
     except requests.RequestException as e:
-        print(f"공식 RSS 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"공식 RSS 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     feed = feedparser.parse(response.content)
@@ -644,7 +680,8 @@ def fetch_apple_next_data_publications(org: dict, source: dict) -> list[dict]:
     try:
         html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"Apple 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"Apple 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     match = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html)
@@ -681,7 +718,8 @@ def fetch_deepmind_publication_list(org: dict, source: dict) -> list[dict]:
     try:
         html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"DeepMind 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"DeepMind 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     item_pattern = re.compile(
@@ -716,7 +754,8 @@ def fetch_deepmind_model_cards(org: dict, source: dict) -> list[dict]:
     try:
         html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"DeepMind 공식 model cards 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"DeepMind 공식 model cards 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     row_pattern = re.compile(
@@ -855,7 +894,8 @@ def fetch_huggingface_org_papers(
         try:
             page_html = fetch_text_url(page_url)
         except requests.RequestException as e:
-            print(f"HuggingFace 공식 papers 페이지 수집 실패 ({org['name']} / {page_url}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"HuggingFace 공식 papers 페이지 수집 실패 ({org['name']} / {page_url}): {safe_message(e)}", file=sys.stderr)
             continue
 
         for card in huggingface_org_paper_cards(page_html)[:max_papers]:
@@ -866,7 +906,8 @@ def fetch_huggingface_org_papers(
                     response = huggingface_request("GET", f"https://huggingface.co/api/papers/{paper_id}")
                     paper_data = response.json()
                 except (requests.RequestException, ValueError) as e:
-                    print(f"HuggingFace 공식 paper 메타데이터 수집 실패 ({org['name']} / {paper_id}): {e}", file=sys.stderr)
+                    record_source_error(e)
+                    print(f"HuggingFace 공식 paper 메타데이터 수집 실패 ({org['name']} / {paper_id}): {safe_message(e)}", file=sys.stderr)
                     paper_data = {}
 
             published = parse_publication_date(paper_data.get("publishedAt", "")) or card.get("published", "")
@@ -909,7 +950,8 @@ def fetch_baidu_ernie_publication_page(
     try:
         page_html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"Baidu ERNIE 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"Baidu ERNIE 공식 publication 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     papers = []
@@ -1045,19 +1087,26 @@ def fetch_meta_publication_search(
     url = source.get("url", "https://ai.meta.com/results/")
     max_pages = int(source.get("max_pages", 50))
     papers_by_url = {}
+    seen_page_keys = set()
 
-    for page in range(1, max_pages + 1):
+    for page in (range(1, max_pages + 1) if max_pages else page_counter(1)):
         page_url = f"{url}?{urlencode({'content_types[0]': 'publication', 'page': page})}"
         try:
             page_html = fetch_text_url(page_url)
         except requests.RequestException as e:
-            print(f"Meta 공식 publication 검색 수집 실패 ({org['name']} / {page_url}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"Meta 공식 publication 검색 수집 실패 ({org['name']} / {page_url}): {safe_message(e)}", file=sys.stderr)
             break
 
         entries = parse_meta_publication_cards(page_html, page_url)
         if not entries:
             break
 
+        signature = tuple(entry.get("url") for entry in entries)
+        if signature in seen_page_keys:
+            record_source_error("Meta publication pagination repeated a result page")
+            break
+        seen_page_keys.add(signature)
         page_dates = [entry["published"] for entry in entries if entry.get("published")]
         for entry in entries:
             link = entry.get("url", "")
@@ -1087,13 +1136,15 @@ def fetch_amazon_publication_list(
     url = source.get("url", "")
     max_pages = int(source.get("max_pages", 100))
     papers = []
+    seen_page_keys = set()
 
-    for page in range(1, max_pages + 1):
+    for page in (range(1, max_pages + 1) if max_pages else page_counter(1)):
         page_url = url if page == 1 else f"{url}?{urlencode({'p': page})}"
         try:
             html = fetch_text_url(page_url)
         except requests.RequestException as e:
-            print(f"Amazon 공식 publication 페이지 수집 실패 ({org['name']} / {page_url}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"Amazon 공식 publication 페이지 수집 실패 ({org['name']} / {page_url}): {safe_message(e)}", file=sys.stderr)
             break
 
         page_papers = []
@@ -1125,6 +1176,11 @@ def fetch_amazon_publication_list(
 
         if not page_papers:
             break
+        signature = tuple(p.get("url") for p in page_papers)
+        if signature in seen_page_keys:
+            record_source_error("Amazon pagination repeated a result page")
+            break
+        seen_page_keys.add(signature)
         papers.extend(page_papers)
         if start_date and end_date and all(
             paper.get("published") and not date_in_range(paper.get("published", ""), start_date, end_date)
@@ -1141,7 +1197,8 @@ def fetch_anthropic_research_page(org: dict, source: dict) -> list[dict]:
     try:
         html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"Anthropic 공식 research 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"Anthropic 공식 research 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     papers = []
@@ -1178,7 +1235,8 @@ def fetch_anthropic_system_cards_page(org: dict, source: dict) -> list[dict]:
     try:
         html = fetch_text_url(url)
     except requests.RequestException as e:
-        print(f"Anthropic 공식 system cards 페이지 수집 실패 ({org['name']} / {url}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"Anthropic 공식 system cards 페이지 수집 실패 ({org['name']} / {url}): {safe_message(e)}", file=sys.stderr)
         return []
 
     papers = []
@@ -1244,9 +1302,9 @@ def fetch_bytedance_seed_publication_api(
     page_token = str(source.get("page_token", "0"))
     papers_by_url = {}
 
-    for _ in range(max_pages):
+    for _ in (range(max_pages) if max_pages else page_counter()):
         try:
-            response = requests.get(
+            response = http_get(
                 endpoint,
                 params={**params_base, "page_token": page_token},
                 timeout=30,
@@ -1255,7 +1313,8 @@ def fetch_bytedance_seed_publication_api(
             response.raise_for_status()
             data = response.json()
         except (requests.RequestException, ValueError) as e:
-            print(f"ByteDance Seed 공식 publication API 수집 실패 ({org['name']} / {endpoint}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"ByteDance Seed 공식 publication API 수집 실패 ({org['name']} / {endpoint}): {safe_message(e)}", file=sys.stderr)
             break
 
         articles = data.get("sub_article_list", []) or []
@@ -1295,6 +1354,7 @@ def fetch_bytedance_seed_publication_api(
                 abstract = f"{abstract} External paper link: {external_links[0]}".strip()
             paper = official_publication_page_paper({
                 "id": f"bytedance-seed:{meta.get('ID') or meta.get('ArticleID') or title_key}",
+                "paper_url": external_links[0] if external_links else "",
                 "title": title,
                 "url": link,
                 "published": published,
@@ -1334,11 +1394,12 @@ def fetch_huawei_noah_wagtail_publications(
         "year_type,resources_type,publication_date,resources_title,meeting,link",
     )
     papers_by_url = {}
+    seen_page_keys = set()
 
-    for page in range(max_pages):
+    for page in (range(max_pages) if max_pages else page_counter()):
         offset = page * limit
         try:
-            response = requests.get(
+            response = http_get(
                 endpoint,
                 params={
                     "type": source.get("page_type", "research.ResourcesPage"),
@@ -1353,13 +1414,19 @@ def fetch_huawei_noah_wagtail_publications(
             response.raise_for_status()
             data = response.json()
         except (requests.RequestException, ValueError) as e:
-            print(f"Huawei Noah 공식 publication API 수집 실패 ({org['name']} / {endpoint}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"Huawei Noah 공식 publication API 수집 실패 ({org['name']} / {endpoint}): {safe_message(e)}", file=sys.stderr)
             break
 
         items = data.get("items", []) or []
         if not items:
             break
 
+        signature = tuple(item.get("id") for item in items)
+        if signature in seen_page_keys:
+            record_source_error("Huawei pagination repeated a result page")
+            break
+        seen_page_keys.add(signature)
         for item in items:
             meta = item.get("meta", {}) or {}
             slug = meta.get("slug", "")
@@ -1382,6 +1449,7 @@ def fetch_huawei_noah_wagtail_publications(
                 abstract_parts.append(f"External paper link: {external_link}")
             papers_by_url[link] = official_publication_page_paper({
                 "id": f"huawei-noah:{item.get('id') or slug}",
+                "paper_url": external_link,
                 "title": title,
                 "url": link,
                 "published": published,
@@ -1400,18 +1468,26 @@ def fetch_huawei_noah_wagtail_publications(
 
 
 def microsoft_meta_value(post_data: dict, field: str) -> str:
-    values = post_data.get("meta", {}).get(field, [])
+    metadata = post_data.get("meta") or {}
+    if not isinstance(metadata, dict):
+        return ""
+    values = metadata.get(field, [])
     if not values:
         return ""
-    first = values[0]
-    return first.get("date") or first.get("value") or first.get("raw") or ""
+    first = values[0] if isinstance(values, list) else values
+    if isinstance(first, dict):
+        return first.get("date") or first.get("value") or first.get("raw") or ""
+    return str(first or "")
 
 
 def microsoft_term_names(post_data: dict, field: str) -> list[str]:
+    terms = post_data.get("terms") or {}
+    if not isinstance(terms, dict):
+        return []
     return [
         term.get("name", "")
-        for term in post_data.get("terms", {}).get(field, [])
-        if term.get("name")
+        for term in terms.get(field, [])
+        if isinstance(term, dict) and term.get("name")
     ]
 
 
@@ -1466,115 +1542,55 @@ def date_range_windows(start_date: str, end_date: str, split_by_year: bool = Fal
     return windows
 
 
-def fetch_microsoft_publication_list(
-    org: dict,
-    source: dict,
-    start_date: str = "",
-    end_date: str = "",
-) -> list[dict]:
+def fetch_microsoft_publication_list(org: dict, source: dict, start_date: str = "", end_date: str = "") -> list[dict]:
     endpoint = source.get("endpoint", "https://www.microsoft.com/en-us/research/wp-json/microsoft-research/v1/faceted-search")
-    post_id = str(source.get("post_id", "687471"))
-    max_pages = int(source.get("max_pages", 500))
-    retries = int(source.get("retries", 3))
-    timeout_seconds = int(source.get("timeout_seconds", 60))
-    max_workers = int(source.get("max_workers", 8))
-    papers_by_url = {}
-
-    def page_params(page: int, window_start: str, window_end: str) -> dict:
-        params = {
-            "post_id": post_id,
-            "sort_by": "most-recent",
-            "page": page,
-        }
-        if window_start:
-            params["facet[date][range][from]"] = window_start
-        if window_end:
-            params["facet[date][range][to]"] = window_end
-        return params
-
-    def fetch_page(page: int, window_start: str, window_end: str) -> tuple[int, dict | None, Exception | None]:
-        params = page_params(page, window_start, window_end)
-        last_error = None
-        for attempt in range(1, retries + 1):
-            try:
-                response = requests.get(
-                    endpoint,
-                    params=params,
-                    timeout=timeout_seconds,
-                    headers={"User-Agent": "awesome-frontier-ai-papers/0.2"},
-                )
-                response.raise_for_status()
-                return page, response.json(), None
-            except (requests.RequestException, ValueError) as e:
-                last_error = e
-                if attempt < retries:
-                    time.sleep(min(2 * attempt, 10))
-        return page, None, last_error
-
-    def add_posts(data: dict | None) -> int:
-        if not data:
-            return 0
-        page_posts = data.get("posts", []) or []
-        for post in page_posts:
-            paper = microsoft_post_to_paper(post, org, endpoint)
-            if not paper or not url_allowed_for_source(paper.get("url", ""), source):
-                continue
-            papers_by_url[paper["url"]] = paper
-        return len(page_posts)
-
+    limit = int(source.get("max_pages", 0) or 0)
+    workers = max(1, int(source.get("max_workers", 8)))
+    papers = {}
     for window_start, window_end in date_range_windows(start_date, end_date, bool(source.get("split_by_year", False))):
-        page, first_data, first_error = fetch_page(1, window_start, window_end)
-        if first_data is None:
-            print(
-                f"Microsoft 공식 publication API 수집 실패 "
-                f"({org['name']} / {window_start}..{window_end} page {page}): {first_error}",
-                file=sys.stderr,
-            )
-            continue
-
-        if not add_posts(first_data):
-            continue
-
-        try:
-            max_num_pages = int(first_data.get("max_num_pages", 1) or 1)
-        except (TypeError, ValueError):
-            max_num_pages = 1
-        last_page = min(max_num_pages, max_pages)
-        if last_page <= 1:
-            continue
-
-        worker_count = max(1, min(max_workers, last_page - 1))
-        with ThreadPoolExecutor(max_workers=worker_count) as executor:
-            futures = [
-                executor.submit(fetch_page, page, window_start, window_end)
-                for page in range(2, last_page + 1)
-            ]
-            for future in as_completed(futures):
-                page, data, error = future.result()
-                if data is None:
-                    print(
-                        f"Microsoft 공식 publication API 수집 실패 "
-                        f"({org['name']} / {window_start}..{window_end} page {page}): {error}",
-                        file=sys.stderr,
-                    )
-                    continue
-
-                add_posts(data)
-
+        def fetch(page):
+            try:
+                params = {"post_id": source.get("post_id", "687471"), "sort_by": "most-recent", "page": page,
+                    "facet[date][range][from]": window_start, "facet[date][range][to]": window_end}
+                response = http_get(endpoint, params=params, timeout=int(source.get("timeout_seconds", 60)))
+                response.raise_for_status()
+                data = response.json()
+                if not isinstance(data, dict):
+                    raise ValueError("Microsoft publication API returned a non-object")
+                return page, data, None
+            except Exception as error:
+                return page, None, error
+        def add(data):
+            for post in data.get("posts", []) or []:
                 try:
-                    page_max_num_pages = int(data.get("max_num_pages", last_page) or last_page)
-                except (TypeError, ValueError):
-                    page_max_num_pages = last_page
-                if page_max_num_pages > last_page:
-                    print(
-                        f"Microsoft 공식 publication API page count 증가 감지 "
-                        f"({org['name']} / {window_start}..{window_end}: {last_page} -> {page_max_num_pages}); "
-                        f"이번 실행은 최초 page 1 기준으로 {last_page} page까지만 수집",
-                        file=sys.stderr,
-                    )
-                    last_page = page_max_num_pages
-
-    return list(papers_by_url.values())
+                    p = microsoft_post_to_paper(post, org, endpoint)
+                    if p and url_allowed_for_source(p["url"], source):
+                        papers[p["url"]] = p
+                except Exception as error:
+                    record_source_error(error)
+        _, first, error = fetch(1)
+        if error:
+            record_source_error(error)
+            continue
+        add(first)
+        last = int(first.get("max_num_pages", 1) or 1)
+        page = 2
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            while page <= last:
+                if limit and page > limit:
+                    record_source_limit(f"Microsoft page cap {limit} reached")
+                    break
+                stop = min(page + workers - 1, last, limit or last)
+                futures = [executor.submit(fetch, index) for index in range(page, stop + 1)]
+                for future in as_completed(futures):
+                    _, data, error = future.result()
+                    if error:
+                        record_source_error(error)
+                        continue
+                    add(data)
+                    last = max(last, int(data.get("max_num_pages", last) or last))
+                page = stop + 1
+    return list(papers.values())
 
 
 def nvidia_publication_date(url: str, fallback_year: int) -> str:
@@ -1597,13 +1613,15 @@ def fetch_nvidia_publication_list(
     papers = []
 
     for year in range(end_year, start_year - 1, -1):
-        for page in range(max_pages_per_year):
+        seen_page_keys = set()
+        for page in (range(max_pages_per_year) if max_pages_per_year else page_counter()):
             query = urlencode({"f[0]": f"publication_date:{year}", "page": page})
             page_url = f"{url}?{query}"
             try:
                 html = fetch_text_url(page_url)
             except requests.RequestException as e:
-                print(f"NVIDIA 공식 publication 페이지 수집 실패 ({org['name']} / {page_url}): {e}", file=sys.stderr)
+                record_source_error(e)
+                print(f"NVIDIA 공식 publication 페이지 수집 실패 ({org['name']} / {page_url}): {safe_message(e)}", file=sys.stderr)
                 break
 
             page_papers = []
@@ -1640,6 +1658,11 @@ def fetch_nvidia_publication_list(
 
             if not page_papers:
                 break
+            signature = tuple(p.get("url") for p in page_papers)
+            if signature in seen_page_keys:
+                record_source_error("NVIDIA pagination repeated a result page")
+                break
+            seen_page_keys.add(signature)
             papers.extend(page_papers)
 
     return papers
@@ -1651,7 +1674,18 @@ def fetch_official_publication_page(
     start_date: str = "",
     end_date: str = "",
 ) -> list[dict]:
+    from publication_sources import (alignment_publications, anthropic_publications,
+        deepmind_publications, google_research_publications, hf_org_publications)
     source_type = source.get("type", "rss")
+    complete_collectors = {
+        "deepmind_publication_list": deepmind_publications,
+        "huggingface_org_papers": hf_org_publications,
+        "anthropic_research_page": anthropic_publications,
+        "anthropic_alignment": alignment_publications,
+        "google_research_publications": google_research_publications,
+    }
+    if source_type in complete_collectors:
+        return complete_collectors[source_type](org, source, start_date, end_date)
     if source_type == "rss":
         return fetch_rss_publication_page(org, source)
     if source_type == "apple_next_data":
@@ -1697,7 +1731,10 @@ def github_headers() -> dict:
 
 
 def github_get_json(url: str, params: dict | None = None):
-    response = requests.get(url, params=params, timeout=30, headers=github_headers())
+    parsed = urlsplit(url)
+    if parsed.scheme != "https" or parsed.hostname != "api.github.com":
+        raise ValueError("Authenticated GitHub requests must target the GitHub API")
+    response = http_get(url, params=params, timeout=30, headers=github_headers())
     response.raise_for_status()
     return response.json()
 
@@ -1719,7 +1756,8 @@ def fetch_huggingface_repo_reports(org: dict, repo_id: str) -> list[dict]:
         )
         model = metadata.json()
     except requests.RequestException as e:
-        print(f"HuggingFace 공식 repo 메타데이터 검색 실패 ({org['name']} / {repo_id}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"HuggingFace 공식 repo 메타데이터 검색 실패 ({org['name']} / {repo_id}): {safe_message(e)}", file=sys.stderr)
         return []
 
     try:
@@ -1729,7 +1767,7 @@ def fetch_huggingface_repo_reports(org: dict, repo_id: str) -> list[dict]:
 
     fallback_title = markdown_heading(readme) or repo_id.split("/")[-1]
     abstract = markdown_abstract(readme)
-    published = (model.get("createdAt") or model.get("lastModified") or "")[:10]
+    published = ""  # Repository creation is not the paper's publication date.
     reports = []
     for sibling in model.get("siblings", []):
         filename = sibling.get("rfilename", "")
@@ -1743,6 +1781,8 @@ def fetch_huggingface_repo_reports(org: dict, repo_id: str) -> list[dict]:
             "authors": [org["name"]],
             "abstract": abstract,
             "work_type": "technical-report",
+            "matched_keywords": model.get("tags", []) + [model.get("pipeline_tag", "")],
+            "quality_signals": {"repository_created_at": model.get("createdAt", ""), "publication_date_basis": "unknown"},
             "company_match_source": f"official HuggingFace repo {repo_id}",
         }, org, source="official_repository_scan"))
     return reports
@@ -1765,7 +1805,8 @@ def fetch_huggingface_org_repo_reports(org: dict, author: str, max_repos: int) -
         )
         models = response.json()
     except requests.RequestException as e:
-        print(f"HuggingFace 공식 org repo 검색 실패 ({org['name']} / {author}): {e}", file=sys.stderr)
+        record_source_error(e)
+        print(f"HuggingFace 공식 org repo 검색 실패 ({org['name']} / {author}): {safe_message(e)}", file=sys.stderr)
         return []
 
     reports = []
@@ -1784,16 +1825,40 @@ def fetch_github_repo_reports(org: dict, repo: str) -> list[dict]:
             f"https://api.github.com/repos/{repo}/git/trees/{branch}",
             params={"recursive": "1"},
         )
-        readme = fetch_text_url(f"https://raw.githubusercontent.com/{repo}/{branch}/README.md")
     except requests.RequestException as e:
+        record_source_error(e)
         if github_unauth_rate_limited(e):
             return []
-        print(f"GitHub 공식 repo 보고서 검색 실패 ({org['name']} / {repo}): {e}", file=sys.stderr)
+        print(f"GitHub 공식 repo 보고서 검색 실패 ({org['name']} / {repo}): {safe_message(e)}", file=sys.stderr)
         return []
+
+    response = http_get(f"https://raw.githubusercontent.com/{repo}/{branch}/README.md")
+    if response.status_code == 404:
+        readme = ""
+    else:
+        response.raise_for_status()
+        readme = response.text
+    if tree.get("truncated"):
+        # GitHub caps recursive trees. Walk directory trees individually instead
+        # of treating the truncated response as a complete repository scan.
+        queue = [(tree.get("sha") or branch, "")]
+        complete_tree = []
+        while queue:
+            sha, prefix = queue.pop()
+            subtree = github_get_json(f"https://api.github.com/repos/{repo}/git/trees/{sha}")
+            if subtree.get("truncated"):
+                raise ValueError(f"GitHub truncated a non-recursive directory tree: {repo}/{prefix}")
+            for entry in subtree.get("tree", []):
+                path = prefix + entry.get("path", "")
+                if entry.get("type") == "tree":
+                    queue.append((entry["sha"], path + "/"))
+                else:
+                    complete_tree.append({**entry, "path": path})
+        tree = {"tree": complete_tree}
 
     fallback_title = markdown_heading(readme) or repo.split("/")[-1]
     abstract = markdown_abstract(readme) or clean_markdown_text(repo_data.get("description", ""))
-    published = (repo_data.get("created_at") or repo_data.get("pushed_at") or "")[:10]
+    published = ""  # A report may be added years after its repository was created.
     reports = []
     for item in tree.get("tree", []):
         path = item.get("path", "")
@@ -1807,6 +1872,8 @@ def fetch_github_repo_reports(org: dict, repo: str) -> list[dict]:
             "authors": [org["name"]],
             "abstract": abstract,
             "work_type": "technical-report",
+            "matched_keywords": repo_data.get("topics", []),
+            "quality_signals": {"repository_created_at": repo_data.get("created_at", ""), "publication_date_basis": "unknown"},
             "company_match_source": f"official GitHub repo {repo}",
         }, org, source="official_repository_scan"))
     return reports
@@ -1828,6 +1895,7 @@ def fetch_github_owner_repos(owner: str, max_repos: int) -> list[dict]:
             },
         )
     except requests.RequestException as e:
+        record_source_error(e)
         if github_unauth_rate_limited(e):
             return []
         try:
@@ -1841,9 +1909,10 @@ def fetch_github_owner_repos(owner: str, max_repos: int) -> list[dict]:
                 },
             )
         except requests.RequestException as e:
+            record_source_error(e)
             if github_unauth_rate_limited(e):
                 return []
-            print(f"GitHub 공식 org repo 검색 실패 ({owner}): {e}", file=sys.stderr)
+            print(f"GitHub 공식 org repo 검색 실패 ({owner}): {safe_message(e)}", file=sys.stderr)
             return []
 
 
@@ -1917,6 +1986,9 @@ def fetch_official_report_papers(
 
         return org_papers
 
+    if len(tracked_orgs) == 1:
+        return collect_org_reports(tracked_orgs[0])
+
     papers = []
     worker_count = min(max_workers, len(tracked_orgs))
     with ThreadPoolExecutor(max_workers=worker_count) as executor:
@@ -1952,7 +2024,7 @@ def fetch_huggingface_company_papers(
 
         for term in terms:
             try:
-                response = requests.get(
+                response = http_get(
                     "https://huggingface.co/api/papers/search",
                     params={"q": term},
                     timeout=30,
@@ -1960,10 +2032,13 @@ def fetch_huggingface_company_papers(
                 response.raise_for_status()
                 data = response.json()
             except requests.RequestException as e:
-                print(f"HuggingFace Papers 검색 실패 ({org['name']} / {term}): {e}", file=sys.stderr)
+                record_source_error(e)
+                print(f"HuggingFace Papers 검색 실패 ({org['name']} / {term}): {safe_message(e)}", file=sys.stderr)
                 continue
 
-            for item in data[:max_results_per_query]:
+            if len(data) >= 100:
+                record_source_limit("Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage")
+            for item in (data[:max_results_per_query] if max_results_per_query else data):
                 paper_data = item.get("paper", {})
                 arxiv_id = paper_data.get("id", "")
                 published = (paper_data.get("publishedAt") or item.get("publishedAt") or "")[:10]
@@ -2001,7 +2076,7 @@ def fetch_huggingface_company_papers(
                         "company_match_source": "HuggingFace Papers organization/author metadata",
                     },
                 }
-                if title and url and is_ai_relevant_paper(paper, config):
+                if title and url:
                     papers.append(paper)
 
     return papers
@@ -2013,23 +2088,24 @@ def fetch_arxiv_query(
     max_results: int = 500,
     since: str | None = None,
     request_delay_seconds: float = 0.0,
+    start_offset: int = 0,
 ) -> list[dict]:
     """arXiv API에서 검색 쿼리로 논문 수집"""
     start_date = (
         datetime.strptime(since, "%Y-%m-%d")
         if since
-        else datetime.now() - timedelta(days=days_back)
+        else datetime.combine((datetime.now() - timedelta(days=days_back)).date(), datetime.min.time())
     )
-    base_url = "http://export.arxiv.org/api/query?"
+    base_url = "https://export.arxiv.org/api/query?"
     papers = []
-    start = 0
+    start = start_offset
     batch_size = min(100, max_results)
 
-    while start < max_results:
+    while start < start_offset + max_results:
         params = {
             "search_query": query,
             "start": start,
-            "max_results": min(batch_size, max_results - start),
+            "max_results": min(batch_size, start_offset + max_results - start),
             "sortBy": "submittedDate",
             "sortOrder": "descending"
         }
@@ -2037,7 +2113,7 @@ def fetch_arxiv_query(
         url = base_url + urlencode(params)
 
         try:
-            response = requests.get(url, timeout=30)
+            response = http_get(url, timeout=30)
             response.raise_for_status()
         except requests.RequestException:
             raise
@@ -2094,7 +2170,7 @@ def fetch_arxiv_query(
             break
 
         start += batch_size
-        if request_delay_seconds > 0 and start < max_results:
+        if request_delay_seconds > 0 and start < start_offset + max_results:
             time.sleep(request_delay_seconds)
 
     return papers
@@ -2111,19 +2187,25 @@ def load_openalex_cache() -> dict:
 
 
 def save_openalex_cache(cache: dict):
-    OUTPUT_DIR.mkdir(exist_ok=True)
-    with open(OPENALEX_CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, ensure_ascii=False, indent=2, fp=f)
+    with OPENALEX_CACHE_LOCK:
+        OUTPUT_DIR.mkdir(exist_ok=True)
+        current = load_openalex_cache()
+        current.update(cache)
+        temporary = OPENALEX_CACHE_FILE.with_suffix(".tmp")
+        temporary.write_text(json.dumps(current, ensure_ascii=False, indent=2))
+        temporary.replace(OPENALEX_CACHE_FILE)
 
 
 def openalex_get(path: str, params: dict, config: dict) -> dict:
     """OpenAlex API 호출"""
     openalex_config = config.get("company_tracking", {}).get("openalex", {})
     mailto = openalex_config.get("mailto")
+    if os.environ.get("OPENALEX_API_KEY"):
+        params = {**params, "api_key": os.environ["OPENALEX_API_KEY"]}
     if mailto:
         params = {**params, "mailto": mailto}
 
-    response = requests.get(
+    response = http_get(
         f"{OPENALEX_API_BASE}{path}",
         params=params,
         timeout=30,
@@ -2144,10 +2226,11 @@ def resolve_openalex_institutions(org: dict, config: dict, cache: dict) -> list[
         return []
 
     search_terms = org.get("openalex_search_terms") or [org["name"]]
-    country = org.get("country_code")
+    # Lab grouping reflects headquarters, not the country of every subsidiary.
+    country = org.get("institution_country_code")
     cache_key = "|".join([org["name"], ",".join(search_terms), country or "any"])
     cached = cache.get(cache_key)
-    if cached and cached.get("ids"):
+    if cached and cached.get("ids") and cached.get("validated_name_match"):
         return cached["ids"]
 
     max_ids = openalex_config.get("max_institutions_per_org", 3)
@@ -2157,29 +2240,33 @@ def resolve_openalex_institutions(org: dict, config: dict, cache: dict) -> list[
         try:
             data = openalex_get("/institutions", {
                 "search": term,
-                "per-page": 5,
+                "per-page": 100,
                 "select": "id,display_name,country_code,type,ror",
             }, config)
         except requests.RequestException as e:
-            print(f"OpenAlex 기관 검색 실패 ({org['name']}): {e}", file=sys.stderr)
+            record_source_error(e)
+            print(f"OpenAlex 기관 검색 실패 ({org['name']}): {safe_message(e)}", file=sys.stderr)
             continue
 
         for result in data.get("results", []):
             if country and result.get("country_code") and result.get("country_code") != country:
                 continue
             display_name = result.get("display_name", "")
-            searchable = " ".join([display_name] + org.get("aliases", []))
+            searchable = display_name
             if any(re.search(term_pattern(alias), searchable, re.IGNORECASE) for alias in [org["name"], term]):
                 resolved.append(result["id"])
-                break
+                # Keep matching subsidiaries as well as the first institution.
 
-        if len(resolved) >= max_ids:
+        if max_ids and len(resolved) >= max_ids:
             break
 
-    resolved = list(dict.fromkeys(resolved))[:max_ids]
+    resolved = list(dict.fromkeys(resolved))
+    if max_ids:
+        resolved = resolved[:max_ids]
     cache[cache_key] = {
         "ids": resolved,
         "resolved_at": datetime.now().strftime("%Y-%m-%d"),
+        "validated_name_match": True,
     }
     return resolved
 
@@ -2299,16 +2386,15 @@ def fetch_openalex_company_papers(
 
         institution_ids = resolve_openalex_institutions(org, config, cache)
         if not institution_ids:
+            record_source_limit(f"No verified OpenAlex institution resolved for {org['name']}")
             continue
 
         filters = [
-            "authorships.institutions.id:" + "|".join(institution_ids[:5]),
+            "authorships.institutions.id:" + "|".join(institution_ids),
             f"from_publication_date:{start_date}",
             f"to_publication_date:{end_date}",
             "is_retracted:false",
         ]
-        if ai_concept_ids:
-            filters.append("concepts.id:" + "|".join(ai_concept_ids))
         params = {
             "filter": ",".join(filters),
             "sort": "publication_date:desc",
@@ -2317,8 +2403,13 @@ def fetch_openalex_company_papers(
 
         org_count = 0
         cursor = "*"
-        while org_count < max_per_org:
-            page_size = min(200, max_per_org - org_count)
+        seen_cursors = set()
+        while not max_per_org or org_count < max_per_org:
+            if cursor in seen_cursors:
+                record_source_error("OpenAlex repeated a pagination cursor")
+                break
+            seen_cursors.add(cursor)
+            page_size = min(200, max_per_org - org_count) if max_per_org else 200
             page_params = {
                 **params,
                 "per-page": page_size,
@@ -2328,7 +2419,8 @@ def fetch_openalex_company_papers(
             try:
                 data = openalex_get("/works", page_params, config)
             except requests.RequestException as e:
-                print(f"OpenAlex 논문 수집 실패 ({org['name']}): {e}", file=sys.stderr)
+                record_source_error(e)
+                print(f"OpenAlex 논문 수집 실패 ({org['name']}): {safe_message(e)}", file=sys.stderr)
                 break
 
             results = data.get("results", [])
@@ -2339,14 +2431,13 @@ def fetch_openalex_company_papers(
                 paper = openalex_work_to_paper(work, org)
                 if (
                     paper["title"]
-                    and is_ai_relevant_paper(paper, config)
                     and not is_excluded_company_paper(paper, config)
                 ):
                     papers.append(paper)
                 org_count += 1
 
             next_cursor = data.get("meta", {}).get("next_cursor")
-            if not next_cursor or len(results) < page_size:
+            if not next_cursor:
                 break
             cursor = next_cursor
 
@@ -2413,7 +2504,8 @@ def fetch_arxiv_company_papers(
                     request_delay_seconds=request_delay,
                 )
             except requests.RequestException as e:
-                print(f"arXiv 회사 검색 실패 ({terms_chunk[0]}...): {e}", file=sys.stderr)
+                record_source_error(e)
+                print(f"arXiv 회사 검색 실패 ({terms_chunk[0]}...): {safe_message(e)}", file=sys.stderr)
                 continue
 
             for paper in org_papers:
@@ -2505,50 +2597,65 @@ def enrich_papers(
 
 
 def merge_paper_lists(*paper_lists: list[dict]) -> list[dict]:
-    """여러 소스의 논문을 중복 제거하며 병합"""
-    merged: dict[str, dict] = {}
-    key_index: dict[str, str] = {}
-    source_priority = {
-        "official_report": 50,
-        "official_repository_scan": 45,
-        "official_publication_page": 40,
-        "huggingface_search": 30,
-        "openalex": 20,
-        "arxiv": 10,
-    }
-
-    for papers in paper_lists:
-        for paper in papers:
-            keys = [key for key in (get_paper_key(paper), get_url_key(paper), get_title_key(paper)) if key]
-            if not keys:
-                continue
-
-            existing_key = next((key_index[key] for key in keys if key in key_index), "")
-            if not existing_key:
-                key = keys[0]
-                paper["sources"] = list(dict.fromkeys([paper.get("source", "unknown")]))
-                merged[key] = paper
-                for candidate_key in keys:
-                    key_index[candidate_key] = key
-                continue
-
-            existing = merged[existing_key]
-            existing["sources"] = list(dict.fromkeys(existing.get("sources", []) + [paper.get("source", "unknown")]))
-            for field in ("matched_keywords", "matched_orgs", "affiliations", "author_affiliations", "company_groups", "company_regions"):
-                existing[field] = list(dict.fromkeys(existing.get(field, []) + paper.get(field, [])))
-            for field in ("upvotes", "cited_by_count", "quality_score"):
-                existing[field] = max(existing.get(field, 0), paper.get(field, 0))
-            existing["official_report"] = bool(existing.get("official_report") or paper.get("official_report"))
-            if not existing.get("abstract") and paper.get("abstract"):
-                existing["abstract"] = paper["abstract"]
-            if not existing.get("authors") and paper.get("authors"):
-                existing["authors"] = paper["authors"]
-            if source_priority.get(paper.get("source", ""), 0) > source_priority.get(existing.get("source", ""), 0):
-                existing["source"] = paper.get("source", existing.get("source", "unknown"))
-            if existing.get("source") != "openalex" and paper.get("source") == "openalex":
-                existing["openalex_id"] = paper.get("openalex_id", existing.get("openalex_id"))
-                existing["doi"] = paper.get("doi", existing.get("doi"))
-            for candidate_key in keys:
-                key_index[candidate_key] = existing_key
-
-    return list(merged.values())
+    """Union connected identities across sources; retain provenance and aliases."""
+    import copy
+    papers = [copy.deepcopy(p) for group in paper_lists for p in group]
+    parent = list(range(len(papers)))
+    def root(index):
+        while parent[index] != index:
+            parent[index] = parent[parent[index]]
+            index = parent[index]
+        return index
+    owners = {}
+    for index, paper in enumerate(papers):
+        keys = [get_paper_key(paper), get_url_key(paper), get_title_key(paper)]
+        for url in [paper.get("paper_url", ""), *paper.get("alternate_urls", [])]:
+            if url:
+                keys.extend([get_paper_key({"url": url}), get_url_key({"url": url})])
+        for title in paper.get("alternate_titles", []):
+            keys.append(get_title_key({"title": title}))
+        if paper.get("doi"):
+            keys.append("doi:" + paper["doi"].lower().removeprefix("https://doi.org/"))
+        for key in set(filter(None, keys)):
+            if key in owners:
+                parent[root(index)] = root(owners[key])
+            else:
+                owners[key] = index
+    groups = {}
+    for index, paper in enumerate(papers):
+        groups.setdefault(root(index), []).append(paper)
+    priority = {"official_report": 50, "official_repository_scan": 45,
+        "official_publication_page": 40, "arxiv_affiliation": 35, "huggingface_search": 30,
+        "openalex": 20, "arxiv": 10}
+    merged = []
+    for group in groups.values():
+        primary = max(group, key=lambda p: (priority.get(p.get("source"), 0), len(p.get("title", ""))))
+        result = dict(primary)
+        def unique(values):
+            return list(dict.fromkeys(v for v in values if v))
+        for field in ("authors", "matched_keywords", "matched_orgs", "affiliations", "author_affiliations", "company_groups", "company_regions"):
+            result[field] = unique(v for p in group for v in p.get(field, []))
+        result["matched_orgs"] = unique(result.get("matched_orgs", []) + [v for p in group for v in p.get("companies", [])])
+        result["companies"] = result["matched_orgs"]
+        result["sources"] = unique(v for p in group for v in (p.get("sources") or [p.get("source", "unknown")]))
+        result["alternate_titles"] = unique(v for p in group for v in [p.get("title", ""), *p.get("alternate_titles", [])])
+        result["alternate_urls"] = unique(v for p in group for v in [p.get("url", ""), p.get("paper_url", ""), *p.get("alternate_urls", [])])
+        result["abstract"] = max((p.get("abstract", "") for p in group), key=len, default="")
+        dates = [p.get("published", "") for p in group if p.get("published")]
+        if dates:
+            result["published"] = min(dates)
+        for field in ("doi", "openalex_id", "paper_url"):
+            result[field] = next((p[field] for p in group if p.get(field)), "")
+        for field in ("quality_score", "cited_by_count", "upvotes"):
+            result[field] = max(int(p.get(field, 0) or 0) for p in group)
+        result["official_report"] = any(p.get("official_report") for p in group)
+        result["topic_evidence"] = next((p["topic_evidence"] for p in reversed(group)
+            if p.get("topic_evidence", {}).get("classifier_version") == 2), result.get("topic_evidence", {}))
+        evidence = [entry for p in group for entry in p.get("evidence", [])]
+        evidence.extend({"source":p.get("source"), "url":p.get("url"),
+            "labs":p.get("matched_orgs") or p.get("companies", []), "signals":p.get("quality_signals", {})}
+            for p in group if p.get("quality_signals"))
+        result["evidence"] = list({json.dumps(e, sort_keys=True): e for e in evidence}.values())
+        result["id"] = get_paper_key(result)
+        merged.append(result)
+    return merged
