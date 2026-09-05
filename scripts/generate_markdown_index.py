@@ -4,10 +4,14 @@
 from __future__ import annotations
 
 import json
+import html
 import re
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
+
+from security import safe_link, safe_slug
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -25,17 +29,17 @@ def load_dataset() -> dict:
 
 
 def md_escape(value: str) -> str:
-    text = str(value or "").replace("\n", " ").strip()
-    text = text.replace("|", "\\|")
-    return re.sub(r"\s+", " ", text)
+    text = re.sub(r"\s+", " ", str(value or "")).strip()
+    text = html.escape(text, quote=False)
+    return re.sub(r"([\\`*_\[\]|:.@])", r"\\\1", text)
 
 
 def link(title: str, url: str) -> str:
     title = md_escape(title)
-    if not url:
+    if not safe_link(url):
         return title
-    safe_url = str(url).replace(")", "%29")
-    return f"[{title}]({safe_url})"
+    safe_url = quote(url, safe=":/?#[]@!$&'*,;=%+")
+    return f"[{title}](<{safe_url}>)"
 
 
 def source_label(source: str) -> str:
@@ -43,9 +47,10 @@ def source_label(source: str) -> str:
         "official_publication_page": "Official page",
         "official_report": "Official report",
         "official_repository_scan": "Official repo",
-        "huggingface_search": "HuggingFace",
+        "huggingface_search": "Hugging Face",
         "openalex": "OpenAlex",
         "arxiv": "arXiv",
+        "arxiv_affiliation": "Verified affiliation",
     }
     return labels.get(source, source or "source")
 
@@ -61,7 +66,7 @@ def lab_anchor(name: str) -> str:
 
 
 def lab_doc_path(company: dict) -> str:
-    return f"docs/labs/{company['id']}.md"
+    return f"docs/labs/{safe_slug(company['id'])}.md"
 
 
 def paper_sort_key(paper: dict) -> tuple[str, int, str]:
@@ -86,9 +91,9 @@ def table_rows(papers: list[dict], include_lab: bool = False) -> list[str]:
 
     rows = [header, divider]
     for paper in papers:
-        date = md_escape(paper.get("published") or "n.d.")
+        date = md_escape(paper.get("published") or "n.d.").replace("-", "‑")
         title = link(paper.get("title", ""), paper.get("url", ""))
-        work_type = md_escape(paper.get("work_type") or "paper")
+        work_type = md_escape((paper.get("work_type") or "paper").replace("_", " ").replace("-", " ").capitalize())
         sources = md_escape(source_labels(paper))
         if include_lab:
             labs = md_escape(", ".join(paper.get("companies", [])))
@@ -114,7 +119,7 @@ def write_lab_docs(dataset: dict) -> None:
             by_year[year_for_paper(paper)].append(paper)
 
         lines = [
-            f"# {company['name']} Papers",
+            f"# {md_escape(company['name'])} Papers",
             "",
             f"- Region: `{company.get('region', '')}`",
             f"- Papers: `{len(company_papers)}`",
@@ -128,7 +133,7 @@ def write_lab_docs(dataset: dict) -> None:
             lines.extend(table_rows(by_year[year]))
             lines.append("")
 
-        (LAB_DOCS_DIR / f"{company['id']}.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+        (LAB_DOCS_DIR / f"{safe_slug(company['id'])}.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
 def region_icon(region: str) -> str:
@@ -136,97 +141,111 @@ def region_icon(region: str) -> str:
 
 
 def build_readme(dataset: dict) -> str:
-    companies = dataset["companies"]
+    companies = sorted(dataset["companies"], key=lambda c: (0 if c.get("region") == "US" else 1, c["name"].casefold()))
     papers = dataset["papers"]
     totals = dataset["totals"]
     generated_at = dataset.get("generated_at", "")
-
+    snapshot = generated_at[:10] or "Not generated"
+    health = dataset.get("collection", {})
+    region_counts = {region: sum(c.get("region") == region for c in companies) for region in ("US", "China")}
     recent_all = sorted(papers, key=paper_sort_key, reverse=True)[:20]
-
     lines = [
-        "# Awesome Frontier AI Papers",
-        "",
-        "Daily tracker for frontier AI lab papers, model cards, system cards, dataset cards, and technical reports.",
-        "",
-        f"- Website: {PAGES_URL}",
-        f"- Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)",
-        f"- Last generated: `{generated_at}`",
-        f"- Coverage: `{totals['papers']}` papers across `{totals['companies']}` labs since 2024",
-        "",
-        "## Labs",
-        "",
-        "| Region | Lab | Papers | Latest | Full list |",
-        "|---|---:|---:|---|---|",
+        '<p align="center">',
+        '  <img src=".github/assets/research-map.svg" width="100%" alt="Frontier research, connected — AI papers from the United States and China">',
+        '</p>',
+        '',
+        '<h1 align="center">Awesome Frontier AI Papers</h1>',
+        '',
+        '<p align="center">',
+        '  <strong>An open research index for the frontier of AI.</strong><br>',
+        '  Follow papers, technical reports, and model cards from leading US and Chinese AI labs.',
+        '</p>',
+        '',
+        '<p align="center">',
+        '  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>',
+        f'  <a href="{REPO_URL}/actions/workflows/update-papers.yml"><img src="{REPO_URL}/actions/workflows/update-papers.yml/badge.svg" alt="Collection and deployment workflow"></a>',
+        f'  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"></a>',
+        '  <a href="public/data/company_papers.json"><img src="https://img.shields.io/badge/data-open_JSON-10b981.svg" alt="Open JSON dataset"></a>',
+        '</p>',
+        '',
+        '<p align="center">',
+        f'  <a href="{PAGES_URL}"><strong>Explore the website ↗</strong></a> ·',
+        '  <a href="#latest-across-labs">Latest papers</a> ·',
+        '  <a href="#labs">Browse labs</a> ·',
+        '  <a href="docs/COVERAGE.md">Coverage</a> ·',
+        '  <a href="CONTRIBUTING.md">Contribute</a>',
+        '</p>',
+        '',
+        '| Publications in the index | Tracked labs | Archive window | Latest snapshot |',
+        '|:---:|:---:|:---:|:---:|',
+        f"| **{totals['papers']:,}** | **{totals['tracked_companies']}** · {region_counts['US']} US / {region_counts['China']} China | **2024 → present** | **{snapshot}** |",
+        '',
+        'AI research by the tracked labs, with links back to the source. Publication counts include papers, research posts, technical reports, and model or system cards.',
+        '',
     ]
-
-    for company in companies:
-        lines.append(
-            f"| {region_icon(company.get('region', ''))} {md_escape(company.get('region', ''))} "
-            f"| [{md_escape(company['name'])}](#{lab_anchor(company['name'])}) "
-            f"| {company['paper_count']} "
-            f"| {company.get('latest_paper_date') or 'n.d.'} "
-            f"| [all papers]({lab_doc_path(company)}) |"
-        )
-
+    if health.get("status") == "partial":
+        errors = health.get("error_sources", health.get("failed_sources", 0))
+        pending = health.get("pending_metadata", 0)
+        source_status = f"{errors} source needs attention" if errors == 1 else f"{errors} sources need attention"
+        pending_status = f"{pending} record awaits metadata" if pending == 1 else f"{pending} records await metadata"
+        lines.extend(['> [!NOTE]',
+            f"> **Collection is still catching up.** {source_status} and {pending_status}. [View collection status](public/data/collection_health.json).", ''])
     lines.extend([
-        "",
-        "## Latest Across Labs",
-        "",
+        '## Latest Across Labs', '',
+        'The 20 newest entries. Use the [web explorer](' + PAGES_URL + ') to search by lab, date, author, or source.', '',
     ])
     lines.extend(table_rows(recent_all, include_lab=True))
-    lines.extend([
-        "",
-        "## Papers By Lab",
-        "",
-        "Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.",
-        "",
-    ])
-
+    lines.extend(['', '## Labs', '', 'Jump to a lab’s recent work, or open its complete archive.', ''])
+    for region, title in [('US', '🇺🇸 United States'), ('China', '🇨🇳 China')]:
+        lines.extend([f'### {title}', '', '| Lab | Publications | Latest | Archive |', '|:---|---:|:---|:---|'])
+        for company in companies:
+            if company.get('region') != region:
+                continue
+            lines.append(f"| [{md_escape(company['name'])}](#{lab_anchor(company['name'])}) | **{company['paper_count']:,}** | {md_escape(company.get('latest_paper_date') or 'n.d.')} | [Full list →]({lab_doc_path(company)}) |")
+        lines.append('')
+    lines.extend(['## Papers by Lab', '', 'The latest eight entries for every lab. Full archives are organized by year.', ''])
     for company in companies:
-        company_papers = papers_for_company(papers, company["name"])
+        company_papers = papers_for_company(papers, company['name'])
         visible = company_papers[:MAX_README_PAPERS_PER_LAB]
-        lines.extend([
-            f"### {region_icon(company.get('region', ''))} {company['name']}",
-            "",
-            f"`{company['paper_count']}` papers · latest `{company.get('latest_paper_date') or 'n.d.'}` · [full list]({lab_doc_path(company)})",
-            "",
-        ])
+        lines.extend([f"### {md_escape(company['name'])}", '',
+            f"{region_icon(company.get('region', ''))} **{company['paper_count']:,} publications** · Latest `{company.get('latest_paper_date') or 'n.d.'}` · [Full archive →]({lab_doc_path(company)})", ''])
         lines.extend(table_rows(visible))
-        if len(company_papers) > len(visible):
-            lines.append(f"\nMore: [{len(company_papers) - len(visible)} additional papers]({lab_doc_path(company)})")
-        lines.append("")
-
+        lines.extend(['', f"[All {company['paper_count']:,} entries →]({lab_doc_path(company)}) · [Back to labs ↑](#labs)", ''])
     lines.extend([
-        "## Collection Policy",
-        "",
-        "Included by default:",
-        "",
-        "- official company publication pages and feeds",
-        "- official technical reports, model cards, system cards, and dataset cards",
-        "- company-owned HuggingFace and GitHub repositories",
-        "- HuggingFace Papers entries with matching organization or author metadata",
-        "- OpenAlex authorship institution metadata via `--comprehensive`",
-        "",
-        "The broad arXiv company-name text sweep is disabled by default because model names can over-match third-party papers. Use `--include-arxiv` only when that noisy layer is wanted.",
-        "",
-        "See [docs/COVERAGE.md](docs/COVERAGE.md) for source and caveat details.",
-        "",
-        "## Update Locally",
-        "",
-        "```bash",
-        "python3 -m venv venv",
-        "venv/bin/pip install -r requirements.txt",
-        "npm install",
-        "venv/bin/python scripts/update_company_papers.py --since 2024-01-01 --comprehensive --max-papers 50000",
-        "venv/bin/python scripts/generate_markdown_index.py",
-        "npm run dev",
-        "```",
-        "",
-        "## License",
-        "",
-        "MIT. See [LICENSE](LICENSE).",
+        '## How the Index Works', '',
+        '| Discover | Verify | Keep up |',
+        '|:---|:---|:---|',
+        '| Official lab catalogues, feeds, repositories, OpenAlex, and Hugging Face. | AI topic evidence and lab attribution; arXiv author affiliations when needed. | Daily recent collection, rotating historical reconciliation, and persistent retry queues. |',
+        '',
+        'The scope is **AI research from the configured frontier labs**. Model mentions alone do not establish authorship. Public sources have gaps, so this index does not claim exhaustive coverage.',
+        '',
+        '[Collection policy & limitations](docs/COVERAGE.md) · [Open dataset](public/data/company_papers.json) · [Collection health](public/data/collection_health.json)',
+        '',
+        '## Contributing', '',
+        'Found a missing source, broken link, or incorrect lab attribution? Contributions are welcome.', '',
+        '- Add or repair a source in [`config/frontier_labs.json`](config/frontier_labs.json).',
+        '- Include an official publication link or author-affiliation evidence.',
+        '- Follow the [contribution guide](CONTRIBUTING.md). Report security issues through the [security policy](SECURITY.md).',
+        '',
+        '## Run Locally', '',
+        '<details>', '<summary><strong>Set up the collector and web explorer</strong></summary>', '',
+        'Requires Python 3.10+ and Node.js 22+.', '',
+        '```bash',
+        'python3 -m venv .venv',
+        '.venv/bin/python -m pip install --require-hashes -r requirements.txt',
+        'npm ci --ignore-scripts',
+        '',
+        '.venv/bin/python scripts/update_company_papers.py --days 30 --comprehensive --reconcile',
+        '.venv/bin/python scripts/generate_markdown_index.py',
+        'npm run dev',
+        '```', '',
+        'The README and lab lists are generated. Edit `scripts/generate_markdown_index.py` to change their layout.', '',
+        '</details>', '',
+        '## License', '',
+        '[MIT](LICENSE) for this project. Linked papers and reports retain their original licenses and copyrights.', '',
+        '---', '',
+        '<p align="center"><sub>Built for reading, exploring, and keeping up with frontier AI research.</sub></p>',
     ])
-
     return "\n".join(lines).rstrip() + "\n"
 
 

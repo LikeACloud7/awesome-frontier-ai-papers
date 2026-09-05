@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img" aria-labelledby="title desc">
+  <title id="title">Frontier research, connected</title>
+  <desc id="desc">An illustrated network of research papers connecting AI labs in the United States and China.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#172d43"/></linearGradient>
+    <linearGradient id="beam"><stop stop-color="#73a9ff"/><stop offset="1" stop-color="#65e1c1"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ab5d4" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="236" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="236" rx="16" fill="url(#grid)"/>
+  <path d="M0 216C260 108 378 270 626 154S993 114 1200 28" fill="none" stroke="url(#beam)" stroke-opacity=".18" stroke-width="2"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="52" y="64" fill="#80b7ee" font-size="13" font-weight="600" letter-spacing="3.5">RESEARCH / OPEN / CONNECTED</text>
+    <text x="50" y="119" fill="#f4f8ff" font-size="43" font-weight="700" letter-spacing="-1.6">Follow the frontier.</text>
+    <text x="52" y="156" fill="#adbed2" font-size="17">Papers, models, and ideas — traced to their sources.</text>
+    <rect x="52" y="182" width="7" height="7" rx="3.5" fill="#72deb8"/>
+    <text x="68" y="190" fill="#c4d4e5" font-size="11" letter-spacing="1.8">UNITED STATES  +  CHINA</text>
+  </g>
+  <g fill="none" stroke="url(#beam)" stroke-width="1.4" stroke-opacity=".5">
+    <path d="M691 55L783 101 704 181 863 174 924 63 1043 109 1122 54M783 101L924 63M783 101L863 174M863 174L1043 109 1114 190M691 55L704 181M924 63L1114 190M1043 109L1122 54"/>
+    <path d="M645 119L783 101M704 181L780 213M924 63L989 28" stroke-opacity=".35"/>
+  </g>
+  <g fill="#101f34" stroke="#86b6f5" stroke-width="1.5">
+    <circle cx="691" cy="55" r="7"/><circle cx="704" cy="181" r="6"/><circle cx="645" cy="119" r="3"/>
+    <circle cx="783" cy="101" r="26"/><circle cx="924" cy="63" r="18"/>
+  </g>
+  <g fill="#102b32" stroke="#70d8ba" stroke-width="1.5">
+    <circle cx="863" cy="174" r="18"/><circle cx="1043" cy="109" r="28"/><circle cx="1122" cy="54" r="6"/><circle cx="1114" cy="190" r="6"/>
+  </g>
+  <g fill="none" stroke="#e3f1ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M775 87H786L793 94V116H774V88M786 88V95H792M778 101H788M778 106H788"/>
+    <path d="M1035 94H1046L1054 102V125H1033V96M1046 95V103H1053M1038 109H1048M1038 115H1048"/>
+    <path d="M918 57H930M918 62H930M918 67H926M856 169H870M856 174H870M856 179H866"/>
+  </g>
+  <circle cx="989" cy="28" r="3" fill="#75c6d4"/>
+  <circle cx="780" cy="213" r="3" fill="#75a9e9"/>
+</svg>
