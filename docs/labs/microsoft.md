@@ -1,14 +1,15 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `1844`
-- Latest: `2026-09-01`
+- Papers: `1845`
+- Latest: `2026-09-04`
 - [Back to README](../../README.md#microsoft)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026-09-04 | [Axiom: Achieving Determinism in LLM Inference](https://www.microsoft.com/en-us/research/publication/axiom-achieving-determinism-in-llm-inference/) | publication | Official page |
 | 2026-09-01 | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
 | 2026-09-01 | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
 | 2026-09-01 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | paper | HuggingFace |

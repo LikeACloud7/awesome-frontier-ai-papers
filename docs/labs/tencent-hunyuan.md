@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `834`
+- Papers: `835`
 - Latest: `2026-09-02`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-09-02 | [Environment Evolution for Terminal Agents](https://huggingface.co/papers/2609.04128) | technical-report | Official page |
+| 2026-09-02 | [Editable Visual Design](https://huggingface.co/papers/2609.04034) | technical-report | Official page |
 | 2026-08-31 | [DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation](https://huggingface.co/papers/2609.00646) | technical-report | Official page |
 | 2026-08-28 | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
 | 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |

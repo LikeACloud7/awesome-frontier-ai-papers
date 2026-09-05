@@ -4,18 +4,18 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 - Website: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 - Dataset: [`public/data/company_papers.json`](public/data/company_papers.json)
-- Last generated: `2026-09-04T08:05:25+00:00`
-- Coverage: `6733` papers across `19` labs since 2024
+- Last generated: `2026-09-05T07:46:21+00:00`
+- Coverage: `6735` papers across `19` labs since 2024
 
 ## Labs
 
 | Region | Lab | Papers | Latest | Full list |
 |---|---:|---:|---|---|
-| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 834 | 2026-09-02 | [all papers](docs/labs/tencent-hunyuan.md) |
+| 🇺🇸 US | [Microsoft](#microsoft) | 1845 | 2026-09-04 | [all papers](docs/labs/microsoft.md) |
+| 🇨🇳 China | [Tencent/Hunyuan](#tencenthunyuan) | 835 | 2026-09-02 | [all papers](docs/labs/tencent-hunyuan.md) |
 | 🇨🇳 China | [Alibaba/Qwen](#alibabaqwen) | 541 | 2026-09-02 | [all papers](docs/labs/alibaba-qwen.md) |
 | 🇺🇸 US | [Google/DeepMind](#googledeepmind) | 483 | 2026-09-02 | [all papers](docs/labs/google-deepmind.md) |
 | 🇺🇸 US | [Apple](#apple) | 424 | 2026-09-02 | [all papers](docs/labs/apple.md) |
-| 🇺🇸 US | [Microsoft](#microsoft) | 1844 | 2026-09-01 | [all papers](docs/labs/microsoft.md) |
 | 🇺🇸 US | [NVIDIA](#nvidia) | 259 | 2026-09 | [all papers](docs/labs/nvidia.md) |
 | 🇺🇸 US | [Anthropic](#anthropic) | 39 | 2026-09 | [all papers](docs/labs/anthropic.md) |
 | 🇨🇳 China | [Baidu](#baidu) | 298 | 2026-08-30 | [all papers](docs/labs/baidu.md) |
@@ -35,9 +35,11 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026-09-04 | Microsoft | [Axiom: Achieving Determinism in LLM Inference](https://www.microsoft.com/en-us/research/publication/axiom-achieving-determinism-in-llm-inference/) | publication | Official page |
 | 2026-09-02 | Alibaba/Qwen | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://huggingface.co/papers/2609.04148) | technical-report | Official page |
 | 2026-09-02 | Google/DeepMind | [Gemini 3.8 Flash Model Card](https://deepmind.google/models/model-cards/gemini-3-8-flash/) | model_card | Official page |
 | 2026-09-02 | Tencent/Hunyuan | [Environment Evolution for Terminal Agents](https://huggingface.co/papers/2609.04128) | technical-report | Official page |
+| 2026-09-02 | Tencent/Hunyuan | [Editable Visual Design](https://huggingface.co/papers/2609.04034) | technical-report | Official page |
 | 2026-09-02 | Apple | [REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs](https://machinelearning.apple.com/research/refactor-vla-motor-programs) | publication | Official page |
 | 2026-09-01 | Microsoft | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
 | 2026-09-01 | Microsoft | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
@@ -53,29 +55,44 @@ Daily tracker for frontier AI lab papers, model cards, system cards, dataset car
 | 2026-08-30 | Baidu | [ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652) | preprint | OpenAlex |
 | 2026-08-29 | Microsoft | [Toward Cultural Alignment: Human-Centered Evaluation of Multimodal AI Stories Across Five African Communities](https://www.microsoft.com/en-us/research/publication/toward-cultural-alignment-human-centered-evaluation-of-multimodal-ai-stories-across-five-african-communities/) | publication | Official page |
 | 2026-08-29 | Amazon | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](https://doi.org/10.1016/j.jbi.2026.105095) | article | OpenAlex |
-| 2026-08-28 | Tencent/Hunyuan | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
-| 2026-08-28 | StepFun | [Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models](https://huggingface.co/papers/2608.29137) | technical-report | Official page |
 
 ## Papers By Lab
 
 Each section shows the newest papers for quick scanning. Open the per-lab page for the complete list.
 
+### 🇺🇸 Microsoft
+
+`1845` papers · latest `2026-09-04` · [full list](docs/labs/microsoft.md)
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| 2026-09-04 | [Axiom: Achieving Determinism in LLM Inference](https://www.microsoft.com/en-us/research/publication/axiom-achieving-determinism-in-llm-inference/) | publication | Official page |
+| 2026-09-01 | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
+| 2026-09-01 | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
+| 2026-09-01 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | paper | HuggingFace |
+| 2026-08-29 | [Toward Cultural Alignment: Human-Centered Evaluation of Multimodal AI Stories Across Five African Communities](https://www.microsoft.com/en-us/research/publication/toward-cultural-alignment-human-centered-evaluation-of-multimodal-ai-stories-across-five-african-communities/) | publication | Official page |
+| 2026-08-27 | [LLM Prompt Interfaces as Execution Contracts: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](https://doi.org/10.70917/ijcisim-2026-5217) | article | OpenAlex |
+| 2026-08-26 | [VGI-Bench: Probing Visual Intelligence in Video Generation Models](https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/) | publication | Official page |
+| 2026-08-24 | [HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/) | publication | Official page |
+
+More: [1837 additional papers](docs/labs/microsoft.md)
+
 ### 🇨🇳 Tencent/Hunyuan
 
-`834` papers · latest `2026-09-02` · [full list](docs/labs/tencent-hunyuan.md)
+`835` papers · latest `2026-09-02` · [full list](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026-09-02 | [Environment Evolution for Terminal Agents](https://huggingface.co/papers/2609.04128) | technical-report | Official page |
+| 2026-09-02 | [Editable Visual Design](https://huggingface.co/papers/2609.04034) | technical-report | Official page |
 | 2026-08-31 | [DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation](https://huggingface.co/papers/2609.00646) | technical-report | Official page |
 | 2026-08-28 | [Dynamic Important Example Mining for Reinforcement Finetuning](https://huggingface.co/papers/2608.29252) | technical-report | Official page |
 | 2026-08-28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954) | article | OpenAlex |
 | 2026-08-27 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://huggingface.co/papers/2608.28476) | technical-report | Official page |
 | 2026-08-27 | [Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](https://huggingface.co/papers/2608.28478) | technical-report | Official page |
 | 2026-08-26 | [Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529) | preprint | OpenAlex |
-| 2026-08-25 | [WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report](https://arxiv.org/abs/2608.24053) | preprint | Official page |
 
-More: [826 additional papers](docs/labs/tencent-hunyuan.md)
+More: [827 additional papers](docs/labs/tencent-hunyuan.md)
 
 ### 🇨🇳 Alibaba/Qwen
 
@@ -127,23 +144,6 @@ More: [475 additional papers](docs/labs/google-deepmind.md)
 | 2026-08-24 | [Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning](https://machinelearning.apple.com/research/internalized-visual-thinking) | publication | Official page |
 
 More: [416 additional papers](docs/labs/apple.md)
-
-### 🇺🇸 Microsoft
-
-`1844` papers · latest `2026-09-01` · [full list](docs/labs/microsoft.md)
-
-| Date | Paper | Type | Source |
-|---|---|---|---|
-| 2026-09-01 | [FaultSense: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/) | publication | Official page |
-| 2026-09-01 | [Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions](https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/) | publication | Official page |
-| 2026-09-01 | [StudentSim: Training LLM-based Student Simulators](https://huggingface.co/papers/2609.01591) | paper | HuggingFace |
-| 2026-08-29 | [Toward Cultural Alignment: Human-Centered Evaluation of Multimodal AI Stories Across Five African Communities](https://www.microsoft.com/en-us/research/publication/toward-cultural-alignment-human-centered-evaluation-of-multimodal-ai-stories-across-five-african-communities/) | publication | Official page |
-| 2026-08-27 | [LLM Prompt Interfaces as Execution Contracts: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](https://doi.org/10.70917/ijcisim-2026-5217) | article | OpenAlex |
-| 2026-08-26 | [VGI-Bench: Probing Visual Intelligence in Video Generation Models](https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/) | publication | Official page |
-| 2026-08-24 | [HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/) | publication | Official page |
-| 2026-08-22 | [PowerSlider: Exploiting Phase Asymmetry for LLM Serving under Demand Response](https://www.microsoft.com/en-us/research/publication/powerslider-exploiting-phase-asymmetry-for-llm-serving-under-demand-response/) | publication | Official page |
-
-More: [1836 additional papers](docs/labs/microsoft.md)
 
 ### 🇺🇸 NVIDIA
 
