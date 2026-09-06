@@ -1,9 +1,16 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `589`
+- Papers: `606`
 - Latest: `2026-09-04`
 - [Back to README](../../README.md#openai)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [OpenAI Guardrails\: Python (Preview)](<https://github.com/openai/openai-guardrails-python/blob/main/examples/hallucination_detection/example_microsoft_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [Build Hours](<https://github.com/openai/build-hours/blob/main/04-mmrag_tooluse/earnings_report_all/Webslides_Q120_4.28.20_Final.pdf>) | Technical report | Official repo |
 
 ## 2026
 
@@ -77,11 +84,14 @@
 | 2026‑06‑30 | [GeneBench-Pro\: Evaluating Multistage Statistical Reasoning\\\\in Genomics, Quantitative Biology, and Translational Biomedicine](<https://doi.org/10.64898/2026.06.29.735386>) | Preprint | OpenAlex |
 | 2026‑06‑28 | [Synthetic Salience Re-Prioritization Layer (SSRL)\: A Meta-Control Architecture for Persistent Investigation of Unresolved Structure in Long-Horizon AI Agents](<https://doi.org/10.5281/zenodo.20983868>) | Preprint | OpenAlex |
 | 2026‑06‑19 | [lmfaoooo at SemEval-2026 Task 1\: Humor Is an Audience\. Preference Modeling for Constrained Humor Generation](<https://doi.org/10.48448/er54-v854>) | Other | OpenAlex |
+| 2026‑06‑19 | [coin-or/pulp\: 4\.0\.0a12](<https://doi.org/10.5281/zenodo.20763773>) | Software | OpenAlex |
+| 2026‑06‑19 | [coin-or/pulp\: 4\.0\.0a11](<https://doi.org/10.5281/zenodo.20763266>) | Software | OpenAlex |
 | 2026‑06‑19 | [Reference-Based Distillation Detection in LLMs](<https://arxiv.org/abs/2607.09692>) | Preprint | OpenAlex |
 | 2026‑06‑18 | [LLM-Assisted Reanalysis of Unsolved Rare Disease Genomes Increases Diagnostic Yield](<https://doi.org/10.1056/aics2501343>) | Article | OpenAlex |
 | 2026‑06‑18 | [Structural Cognitive Emergence (SCE)\: From Cat Recognition to Why Generation](<https://doi.org/10.5281/zenodo.20740824>) | Article | OpenAlex |
 | 2026‑06‑17 | [Introducing LifeSciBench](<https://openai.com/index/introducing-life-sci-bench>) | Research post | Official page |
 | 2026‑06‑17 | [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](<https://openai.com/index/ai-chemist-improves-reaction>) | Research post | Official page |
+| 2026‑06‑17 | [coin-or/pulp\: 4\.0\.0a10](<https://doi.org/10.5281/zenodo.20731780>) | Software | OpenAlex |
 | 2026‑06‑16 | [Predicting model behavior before release by simulating deployment](<https://openai.com/index/deployment-simulation>) | Research post | Official page |
 | 2026‑06‑16 | [The Multipath Reliable Connection (MRC) Transport](<https://arxiv.org/abs/2606.18170>) | Preprint | OpenAlex |
 | 2026‑06‑14 | [dathere/qsv\: 21\.1\.0](<https://doi.org/10.5281/zenodo.20691624>) | Software | OpenAlex |
@@ -90,6 +100,13 @@
 | 2026‑06‑07 | [dathere/qsv\: 21\.0\.0](<https://doi.org/10.5281/zenodo.20582068>) | Software | OpenAlex |
 | 2026‑06‑07 | [AI-Assisted Variance Reduction in Randomized Experiments](<https://doi.org/10.1145/3770855.3817896>) | Conference paper | OpenAlex |
 | 2026‑06‑04 | [Dreaming\: Better memory for a more helpful ChatGPT](<https://openai.com/index/chatgpt-memory-dreaming>) | Research post | Official page |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.22](<https://doi.org/10.5281/zenodo.20524704>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.21](<https://doi.org/10.5281/zenodo.20520131>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.20](<https://doi.org/10.5281/zenodo.20519920>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.19](<https://doi.org/10.5281/zenodo.20519863>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.18](<https://doi.org/10.5281/zenodo.20519852>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.17](<https://doi.org/10.5281/zenodo.20519790>) | Software | OpenAlex |
+| 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.16](<https://doi.org/10.5281/zenodo.20519116>) | Software | OpenAlex |
 | 2026‑06‑03 | [Audio MultiChallenge\: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction](<https://doi.org/10.48448/ca54-gk56>) | Other | OpenAlex |
 | 2026‑05‑29 | [A shared playbook for trustworthy third party evaluations](<https://openai.com/index/trustworthy-third-party-evaluations-foundations>) | Research post | Official page |
 | 2026‑05‑29 | [The Industrial Revolution of the Intelligence Age](<https://doi.org/10.1109/mc.2026.3678508>) | Article | OpenAlex |
@@ -99,6 +116,8 @@
 | 2026‑05‑27 | [ENHANCE-PET/PUMA\: pumaz v1\.8\.12](<https://doi.org/10.5281/zenodo.20413329>) | Software | OpenAlex |
 | 2026‑05‑27 | [ENHANCE-PET/MOOSE\: moosez v3\.2\.1](<https://doi.org/10.5281/zenodo.20412983>) | Software | OpenAlex |
 | 2026‑05‑25 | [QFunity\: Quantum Fractal Unity – A Scale-Dependent Unified Theory of Everything (Version 1\.3)](<https://doi.org/10.5281/zenodo.20381080>) | Preprint | OpenAlex |
+| 2026‑05‑25 | [coin-or/pulp\: 3\.3\.2](<https://doi.org/10.5281/zenodo.20376542>) | Software | OpenAlex |
+| 2026‑05‑22 | [coin-or/pulp\: 4\.0\.0a8](<https://doi.org/10.5281/zenodo.20343261>) | Software | OpenAlex |
 | 2026‑05‑22 | [DraftNEPABench\: A Benchmark for Drafting NEPA Document Sections with Coding Agents](<https://doi.org/10.1145/3786335.3813132>) | Article | OpenAlex |
 | 2026‑05‑20 | [An OpenAI model has disproved a central conjecture in discrete geometry](<https://openai.com/index/model-disproves-discrete-geometry-conjecture>) | Research post | Official page |
 | 2026‑05‑20 | [Hybrid Intelligence Series RefDigest Volume II (Japanese Edition)\: Reimagining Measurement — 第二巻 評価法を問う(省察ノート付) (日本語縮約版)](<https://doi.org/10.5281/zenodo.19978215>) | Book | OpenAlex |
@@ -117,6 +136,7 @@
 | 2026‑05‑07 | [Electron Calibration of the Ouroboros Chaoiton\: Detailed Report](<https://doi.org/10.5281/zenodo.20218067>) | Article | OpenAlex |
 | 2026‑05‑07 | [Analytic Foundations of Thermal Quantum Annealing\: Convergence Guarantees and Computational Advantage for Quantum Matrix Methods](<https://doi.org/10.5281/zenodo.20069130>) | Preprint | OpenAlex |
 | 2026‑05‑07 | [A Classical Field Theory Equivalent to Quantum Physics\: The Ouroboros Lagrangian as the Law of Everything Prior to Gravity](<https://doi.org/10.5281/zenodo.20186599>) | Preprint | OpenAlex |
+| 2026‑05‑06 | [coin-or/pulp\: 3\.3\.1](<https://doi.org/10.5281/zenodo.20048980>) | Software | OpenAlex |
 | 2026‑05‑05 | [GPT-5\.5 Instant System Card](<https://openai.com/index/gpt-5-5-instant-system-card>) | Publication | Official page |
 | 2026‑05‑05 | [Advancing youth safety and wellbeing in EMEA](<https://openai.com/index/advancing-youth-safety-in-emea>) | Research post | Official page |
 | 2026‑05‑02 | [场计算\:一种不打分的自组织架构/Field Computation\: A Self-Organizing Architecture Without Scoring](<https://doi.org/10.5281/zenodo.19971266>) | Article | OpenAlex |
@@ -211,10 +231,12 @@
 | 2026‑01‑01 | [What Should Physics Foundation Model Benchmarks Measure?](<https://doi.org/10.1109/mcse.2026.3698434>) | Article | OpenAlex |
 | 2026‑01‑01 | [V63\: Photosynthesis as an Update-Continuity System — KPI Reversal, Variance-First Dynamics, and EM-Environment Benchmarking](<https://doi.org/10.5281/zenodo.18116997>) | Conference abstract | OpenAlex |
 | 2026‑01‑01 | [The Difference Between Data Science, Statistics, Machine Learning, and Artificial Intelligence](<https://doi.org/10.1007/978-3-032-18312-5_7>) | Book chapter | OpenAlex |
+| 2026‑01‑01 | [Introduction to Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_2>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Findings of the MAGMaR 2026 Shared Task](<https://arxiv.org/abs/2606.12295>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Datasets for Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_3>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Datasets Preparation](<https://doi.org/10.1007/978-3-032-18312-5_5>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Data Preprocessing](<https://doi.org/10.1007/978-3-032-18312-5_6>) | Book chapter | OpenAlex |
+| 2026‑01‑01 | [Collecting the Data in Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_4>) | Book chapter | OpenAlex |
 
 ## 2025
 

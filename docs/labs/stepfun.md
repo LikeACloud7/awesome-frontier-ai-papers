@@ -1,9 +1,15 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `28`
+- Papers: `33`
 - Latest: `2026-08-28`
 - [Back to README](../../README.md#stepfun)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [enable mcp server](<https://github.com/stepfun-ai/gelab-zero/blob/main/report/Step-GUI_Technical_Report.pdf>) | Technical report | Official repo |
 
 ## 2026
 
@@ -32,12 +38,16 @@
 |---|---|---|---|
 | 2025‑12‑23 | [Step-DeepResearch Technical Report](<https://huggingface.co/papers/2512.20491>) | Technical report | Official page |
 | 2025‑12‑17 | [Step-GUI Technical Report](<https://huggingface.co/papers/2512.15431>) | Technical report | Official page |
+| 2025‑12‑02 | [GUI Exploration Lab\: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](<https://arxiv.org/abs/2512.02423>) | Paper | Verified affiliation |
 | 2025‑11‑27 | [REASONEDIT\: Towards Reasoning-Enhanced Image Editing Models](<https://huggingface.co/papers/2511.22625>) | Technical report | Official page |
 | 2025‑11‑25 | [iMontage\: Unified, Versatile, Highly Dynamic Many-to-many Image Generation](<https://huggingface.co/papers/2511.20635>) | Technical report | Official page |
 | 2025‑11‑19 | [Step-Audio-R1 Technical Report](<https://huggingface.co/papers/2511.15848>) | Technical report | Official page |
 | 2025‑11‑05 | [Step-Audio-EditX Technical Report](<https://huggingface.co/papers/2511.03601>) | Technical report | Official page |
 | 2025‑10‑16 | [WithAnyone\: Towards Controllable and ID Consistent Image Generation](<https://huggingface.co/papers/2510.14975>) | Technical report | Official page |
+| 2025‑08‑14 | [NextStep-1\: Toward Autoregressive Image Generation with Continuous Tokens at Scale](<https://arxiv.org/abs/2508.10711>) | Paper | Verified affiliation |
+| 2025‑08‑06 | [StepFun-Formalizer\: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](<https://arxiv.org/abs/2508.04440>) | Paper | Verified affiliation |
 | 2025‑07‑25 | [Step-3 is Large yet Affordable\: Model-system Co-design for Cost-effective Decoding](<https://huggingface.co/papers/2507.19427>) | Paper | Hugging Face |
+| 2025‑07‑22 | [Step-Audio 2 Technical Report](<https://arxiv.org/abs/2507.16632>) | Paper | Verified affiliation |
 | 2025‑05‑30 | [ViStoryBench\: Comprehensive Benchmark Suite for Story Visualization](<https://huggingface.co/papers/2505.24862>) | Technical report | Official page |
 | 2025‑04‑08 | [OmniSVG\: A Unified Scalable Vector Graphics Generation Model](<https://huggingface.co/papers/2504.06263>) | Technical report | Official page |
 | 2025‑04 | [StyleMe3D\: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians](<https://huggingface.co/papers/2504.15281>) | Technical report | Official page |

@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `601`
+- Papers: `604`
 - Latest: `2026-09-03`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -23,7 +23,9 @@
 | 2026‑08‑30 | [E-Commerce Bench\: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](<https://huggingface.co/papers/2608.30730>) | Technical report | Official page |
 | 2026‑08‑30 | [RegimeFormer\: A Large Protein Model of Global Perturbation Regimes](<https://arxiv.org/abs/2608.26586>) | Preprint | OpenAlex |
 | 2026‑08‑30 | [Brain-AVQA and the Platonic brain bridge\: data, model checkpoints and code](<https://doi.org/10.5281/zenodo.22209021>) | Dataset | OpenAlex |
+| 2026‑08‑29 | [Learning Simple Test-Time Environments for LLM Web Agents](<https://arxiv.org/abs/2608.29305v1>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [Building an Application Framework for Dynamic Smart City Governance\: A Case Study of a Four-Dimensional Spatial Intelligent Design](<https://doi.org/10.1007/978-3-032-28573-7_45>) | Conference paper | OpenAlex |
+| 2026‑08‑28 | [EvoHarmBench\: Breaking Content Moderation with Iterative Human-Like Evasion](<https://arxiv.org/abs/2608.27844v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [Learning from Limited phenotype-level annotations for promoting multiple instance learning in endoscopic helicobacter pylori infection diagnosis](<https://doi.org/10.1016/j.media.2026.104267>) | Article | OpenAlex |
 | 2026‑08‑27 | [Fully Unleashing the Multimodal Attacker\: Meta-Adaptive Jailbreaking of Vision-Language Models](<https://arxiv.org/abs/2608.27531v2>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [Astar\: Learning to Propose Evolution Directions for Self-Evolving Industrial AI Systems](<https://arxiv.org/abs/2608.27287v1>) | Paper | Verified affiliation |
@@ -160,6 +162,7 @@
 | 2026‑05‑28 | [Orchestrating Heterogeneous Experts\: A Scalable MoE Framework with Anisotropy-Preserving Fusion](<https://doi.org/10.1145/3774905.3797243>) | Article | OpenAlex |
 | 2026‑05‑28 | [EvoRubric\: Self-Evolving Rubric-Driven RL for Open-Ended Generation](<https://arxiv.org/abs/2605.29847>) | Article | OpenAlex |
 | 2026‑05‑27 | [Qwen-VLA\: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](<https://huggingface.co/papers/2605.30280>) | Technical report | Official page |
+| 2026‑05‑27 | [Qwen-Image-Bench\: From Generation to Creation in Text-to-Image Evaluation](<https://arxiv.org/abs/2605.28091>) | Paper | Verified affiliation |
 | 2026‑05‑26 | [SQLens\: Continuous Code-to-SQL Visibility in the Wild](<https://doi.org/10.1145/3788853.3803091>) | Article | OpenAlex |
 | 2026‑05‑26 | [LindormVector\: A Distributed Vector Engine on a Cloud-Native Multi-Model NoSQL Database](<https://doi.org/10.1145/3788853.3803088>) | Article | OpenAlex |
 | 2026‑05‑26 | [A &lt;scp&gt;mbi&lt;/scp&gt; SQL\: Interactive Ambiguity Detection and Resolution for Text-to-SQL](<https://doi.org/10.1145/3788853.3801581>) | Article | OpenAlex |

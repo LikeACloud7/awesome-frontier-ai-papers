@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `218`
+- Papers: `226`
 - Latest: `2026-09-02`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,6 +17,9 @@
 | 2026‑08‑31 | [Lucida\: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](<https://arxiv.org/abs/2608.30821v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [ByteX\: A Unified AI Search Engine at ByteDance](<https://arxiv.org/abs/2608.30607v2>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [Aspire\: Can Models Self-Evolve from Vague Goals?](<https://arxiv.org/abs/2608.31111v1>) | Paper | Verified affiliation |
+| 2026‑08‑27 | [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763v1>) | Paper | Verified affiliation |
+| 2026‑08‑26 | [Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training](<https://arxiv.org/abs/2608.25826v1>) | Paper | Verified affiliation |
+| 2026‑08‑22 | [Repo2Skill-Evo\: Repository Skills Go Stale in Silence](<https://arxiv.org/abs/2608.21964v1>) | Paper | Verified affiliation |
 | 2026‑08‑10 | [SWE-Bench ProMax\: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](<https://huggingface.co/papers/2608.09802>) | Paper | Hugging Face |
 | 2026‑08‑06 | [GST-Bench\: Can VLMs Develop Global Spatial Awareness from Video?](<https://huggingface.co/papers/2608.05747>) | Paper | Hugging Face |
 | 2026‑08‑03 | [Douyin Multimodal Embedding Model Technical Report](<https://huggingface.co/papers/2608.02148>) | Paper | Hugging Face |
@@ -97,6 +100,7 @@
 |---|---|---|---|
 | 2025‑12‑15 | [Seedance 1\.5 pro\: A Native Audio-Visual Joint Generation Foundation Model](<https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model>) | Publication | Official page |
 | 2025‑12‑02 | [GR-RL\: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](<https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation>) | Publication | Official page |
+| 2025‑11‑27 | [Adversarial Flow Models](<https://arxiv.org/abs/2511.22475>) | Paper | Verified affiliation |
 | 2025‑10‑22 | [Seed3D 1\.0\: From Images to High-Fidelity Simulation-Ready 3D Assets](<https://seed.bytedance.com/en/research/seed3d-1-0-from-images-to-high-fidelity-simulation-ready-3d-assets>) | Publication | Official page |
 | 2025‑10‑21 | [A Multi-Resolution Systematically Improvable Quantum Embedding Scheme for Large-scale Surface Chemistry Calculations](<https://seed.bytedance.com/en/research/a-multi-resolution-systematically-improvable-quantum-embedding-scheme-for-large-scale-surface-chemistry-calculations>) | Publication | Official page |
 | 2025‑10‑09 | [Memory Retrieval and Consolidation in Large Language Models through Function Tokens](<https://seed.bytedance.com/en/research/memory-retrieval-and-consolidation-in-large-language-models-through-function-tokens>) | Publication | Official page |
@@ -109,6 +113,7 @@
 | 2025‑09‑01 | [Robix\: A Unified Model for Robot Interaction, Reasoning and Planning](<https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning>) | Publication | Official page |
 | 2025‑08‑14 | [ReportBench\: Evaluating Deep Research Agents via Academic Survey Tasks](<https://huggingface.co/papers/2508.15804>) | Paper | Hugging Face |
 | 2025‑08‑13 | [Seeing, Listening, Remembering, and Reasoning\: A Multimodal Agent with Long-Term Memory](<https://seed.bytedance.com/en/research/seeing-listening-remembering-and-reasoning-a-multimodal-agent-with-long-term-memory>) | Publication | Official page |
+| 2025‑08‑12 | [Bridging Quantum Mechanics to Liquid Properties via a Universal Organic Force Field](<https://arxiv.org/abs/2508.08575>) | Paper | Verified affiliation |
 | 2025‑08‑04 | [Seed Diffusion\: A Large-Scale Diffusion Language Model with High-Speed Inference](<https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference>) | Publication | Official page |
 | 2025‑07‑31 | [Seed-Prover\: Deep and Broad Reasoning for Automated Theorem Proving](<https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving>) | Publication | Official page |
 | 2025‑07‑24 | [Seed LiveInterpret 2\.0\: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](<https://seed.bytedance.com/en/research/seed-liveinterpret-2-0-end-to-end-simultaneous-speech-to-speech-translation-with-your-voice>) | Publication | Official page |
@@ -120,6 +125,7 @@
 | 2025‑06‑12 | [PAG\: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier](<https://seed.bytedance.com/en/research/pag-multi-turn-reinforced-llm-self-correction-with-policy-as-generative-verifier>) | Publication | Official page |
 | 2025‑06‑12 | [Expert Race\: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts](<https://seed.bytedance.com/en/research/expert-race-a-flexible-routing-strategy-for-scaling-diffusion-transformer-with-mixture-of-experts>) | Publication | Official page |
 | 2025‑06‑12 | [Elucidating the Design Space of Multimodal Protein Language Models](<https://seed.bytedance.com/en/research/elucidating-the-design-space-of-multimodal-protein-language-models>) | Publication | Official page |
+| 2025‑06‑12 | [VINCIE\: Unlocking In-context Image Editing from Video](<https://arxiv.org/abs/2506.10941>) | Paper | Verified affiliation |
 | 2025‑06‑11 | [Seedance 1\.0\: Exploring the Boundaries of Video Generation Models](<https://seed.bytedance.com/en/research/seedance-1-0-exploring-the-boundaries-of-video-generation-models>) | Publication | Official page |
 | 2025‑06‑06 | [BRiTE\: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning](<https://seed.bytedance.com/en/research/brite-bootstrapping-reinforced-thinking-process-to-enhance-language-model-reasoning>) | Publication | Official page |
 | 2025‑06‑06 | [Astra\: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning](<https://seed.bytedance.com/en/research/astra-toward-general-purpose-mobile-robots-via-hierarchical-multimodal-learning>) | Publication | Official page |
@@ -131,6 +137,7 @@
 | 2025‑05‑27 | [Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling](<https://seed.bytedance.com/en/research/designing-cyclic-peptides-via-harmonic-sde-with-atom-bond-modeling>) | Publication | Official page |
 | 2025‑05‑25 | [DiTAR\: Diffusion Transformer Autoregressive Modeling for Speech Generation](<https://seed.bytedance.com/en/research/ditar-diffusion-transformer-autoregressive-modeling-for-speech-generation>) | Publication | Official page |
 | 2025‑05‑23 | [Over-Tokenized Transformer\: Vocabulary is Generally Worth Scaling](<https://seed.bytedance.com/en/research/over-tokenized-transformer-vocabulary-is-generally-worth-scaling>) | Publication | Official page |
+| 2025‑05‑23 | [ConfRover\: Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression](<https://arxiv.org/abs/2505.17478>) | Paper | Verified affiliation |
 | 2025‑05‑21 | [MMaDA\: Multimodal Large Diffusion Language Models](<https://seed.bytedance.com/en/research/mmada-multimodal-large-diffusion-language-models>) | Publication | Official page |
 | 2025‑05‑20 | [DAPO\: An Open-Source LLM Reinforcement Learning System at Scale](<https://seed.bytedance.com/en/research/dapo-an-open-source-llm-reinforcement-learning-system-at-scale>) | Publication | Official page |
 | 2025‑05‑20 | [Emerging Properties in Unified Multimodal Pretraining](<https://seed.bytedance.com/en/research/emerging-properties-in-unified-multimodal-pretraining>) | Publication | Official page |
@@ -204,6 +211,7 @@
 | 2024‑10‑27 | [AutoKaggle\: A Multi-Agent Framework for Autonomous Data Science Competitions](<https://seed.bytedance.com/en/research/autokaggle-a-multi-agent-framework-for-autonomous-data-science-competitions>) | Publication | Official page |
 | 2024‑10‑24 | [Why Does the Effective Context Length of LLMs Fall Short?](<https://seed.bytedance.com/en/research/why-does-the-effective-context-length-of-llms-fall-short>) | Publication | Official page |
 | 2024‑10‑22 | [Merging LoRAs like Playing LEGO\: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](<https://seed.bytedance.com/en/research/merging-loras-like-playing-lego-pushing-the-modularity-of-lora-to-extremes-through-rank-wise-clustering>) | Publication | Official page |
+| 2024‑10‑11 | [CryoFM\: A Flow-based Foundation Model for Cryo-EM Densities](<https://arxiv.org/abs/2410.08631>) | Paper | Verified affiliation |
 | 2024‑10‑10 | [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](<https://seed.bytedance.com/en/research/reward-augmented-data-enhances-direct-preference-alignment-of-llms>) | Publication | Official page |
 | 2024‑10‑09 | [KOR-Bench\: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks](<https://seed.bytedance.com/en/research/kor-bench-benchmarking-language-models-on-knowledge-orthogonal-reasoning-tasks>) | Publication | Official page |
 | 2024‑10‑03 | [Loong\: Generating Minute-level Long Videos with Autoregressive Language Models](<https://seed.bytedance.com/en/research/loong-generating-minute-level-long-videos-with-autoregressive-language-models>) | Publication | Official page |

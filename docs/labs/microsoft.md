@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3194`
+- Papers: `3205`
 - Latest: `2026-09-04`
 - [Back to README](../../README.md#microsoft)
 
@@ -47,7 +47,6 @@
 | 2026‑08‑27 | [OpenHands/software-agent-sdk\: v1\.44\.0](<https://doi.org/10.5281/zenodo.22128877>) | Software | OpenAlex |
 | 2026‑08‑27 | [LLM Prompt Interfaces as Execution Contracts\: Reducing Unsafe Tool Invocation Across the Incident Lifecycle in AIOps](<https://doi.org/10.70917/ijcisim-2026-5217>) | Article | OpenAlex |
 | 2026‑08‑27 | [GeoMAD\: Geometry-Aware Multi-View Anomaly Detection via Deformable Fusion and Distributional Alignment](<https://arxiv.org/abs/2608.26724>) | Preprint | OpenAlex |
-| 2026‑08‑26 | [VGI-Bench\: Probing Visual Intelligence in Video Generation Models](<https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/>) | Publication | Official page |
 | 2026‑08‑26 | [girder/large\_image\: Version 1\.35\.4](<https://doi.org/10.5281/zenodo.22115276>) | Software | OpenAlex |
 | 2026‑08‑26 | [PirateshipOrg/pirateship\: SOSP Artifact](<https://doi.org/10.5281/zenodo.22117852>) | Software | OpenAlex |
 | 2026‑08‑26 | [Accessing the Universe via Algorithm\: A Baseline Study for Automating Alt-Text Generation with NASA Data and AI](<https://doi.org/10.5281/zenodo.22117110>) | Dataset | OpenAlex |
@@ -55,34 +54,43 @@
 | 2026‑08‑25 | [girder/large\_image\: v1\.35\.3](<https://doi.org/10.5281/zenodo.22100368>) | Software | OpenAlex |
 | 2026‑08‑25 | [The hardest part of AI is not the algorithm](<https://doi.org/10.1038/d44148-026-00250-5>) | Article | OpenAlex |
 | 2026‑08‑25 | [AUTONOMOUS LOOP CONSTRUCTION AND SUPERVISION FOR CLINICIAN-ORIENTED MEDICAL-AI RESEARCH](<https://doi.org/10.64898/2026.08.21.26361049>) | Preprint | OpenAlex |
+| 2026‑08‑25 | [Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation](<https://arxiv.org/abs/2608.24138v1>) | Paper | Verified affiliation |
+| 2026‑08‑25 | [Preference Data Selection for Mitigating the Alignment Tax in Large Language Models](<https://arxiv.org/abs/2608.24192v1>) | Paper | Verified affiliation |
+| 2026‑08‑25 | [AgentSpec\: Speculative Decoding for Batch Inference of LLM Agents](<https://arxiv.org/abs/2608.24004v1>) | Paper | Verified affiliation |
 | 2026‑08‑24 | [HD-Eval\: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](<https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/>) | Publication | Official page |
 | 2026‑08‑24 | [Handbook of Bayesian Deep Learning](<https://doi.org/10.5281/zenodo.22086449>) | Book | OpenAlex |
 | 2026‑08‑24 | [microsoft/Qcodes\: QCoDeS 0\.59\.0](<https://doi.org/10.5281/zenodo.22078603>) | Software | OpenAlex |
 | 2026‑08‑24 | [microsoft/Consumption-of-Digital-Applications-Data-Set\: Dataset of consumption of digital applications](<https://doi.org/10.5281/zenodo.22084796>) | Software | OpenAlex |
 | 2026‑08‑24 | [Reviewer #2 (Public review)\: Protein generation with evolutionary diffusion\: sequence is all you need](<https://doi.org/10.7554/elife.112029.1.sa0>) | Peer review | OpenAlex |
 | 2026‑08‑24 | [A Conceptual and Applied Framework for Enterprise ServiceNow Program Design, Governance, And Scalable Delivery Across Organizations](<https://doi.org/10.56201/ijssmr.vol.12no2.2026.pg124.143>) | Article | OpenAlex |
+| 2026‑08‑24 | [DPIAgent\: Divide, Protocol, Isolate for Agentic Reproduction Test Generation](<https://arxiv.org/abs/2608.23341v1>) | Paper | Verified affiliation |
+| 2026‑08‑24 | [AutoSaddler\: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](<https://arxiv.org/abs/2608.23041v1>) | Paper | Verified affiliation |
 | 2026‑08‑23 | [Which Characters Need Context? Measuring Character-Specific Context Gain in Natural Language and Source Code](<https://doi.org/10.5281/zenodo.22074822>) | Preprint | OpenAlex |
 | 2026‑08‑23 | [GRACE\: Gradient-Regulated Approach for Consistent Explanations](<https://doi.org/10.1007/978-3-032-36039-7_33>) | Conference paper | OpenAlex |
-| 2026‑08‑22 | [PowerSlider\: Exploiting Phase Asymmetry for LLM Serving under Demand Response](<https://www.microsoft.com/en-us/research/publication/powerslider-exploiting-phase-asymmetry-for-llm-serving-under-demand-response/>) | Publication | Official page |
+| 2026‑08‑23 | [OmniCAD\: A Large-Scale Benchmark for 3D Spatial Reasoning in Robotics Assemblies](<https://arxiv.org/abs/2608.22637v1>) | Paper | Verified affiliation |
+| 2026‑08‑22 | [PowerSlider\: Exploiting Phase Asymmetry for LLM Serving under Demand Response](<https://www.microsoft.com/en-us/research/publication/powerslider-exploiting-phase-asymmetry-for-llm-serving-under-demand-response/>) | Publication | Official page, Verified affiliation |
 | 2026‑08‑22 | [A Subject-Aware Mathematical Framework for Parkinson's Disease Severity Modeling from Longitudinal Voice Biomarkers](<https://doi.org/10.5281/zenodo.22054096>) | Article | OpenAlex |
 | 2026‑08‑21 | [OpenHands/software-agent-sdk\: v1\.43\.1](<https://doi.org/10.5281/zenodo.22051045>) | Software | OpenAlex |
 | 2026‑08‑21 | [OpenHands/software-agent-sdk\: v1\.43\.0](<https://doi.org/10.5281/zenodo.22043457>) | Software | OpenAlex |
 | 2026‑08‑21 | [How Much Intelligence Exists Inside an AI Model That Standard Evaluation Never Reveals](<https://doi.org/10.5281/zenodo.22095440>) | Article | OpenAlex |
 | 2026‑08‑21 | [Eleven quick tips for Biomedical Federated Learning](<https://doi.org/10.1371/journal.pcbi.1014530>) | Article | OpenAlex |
 | 2026‑08‑21 | [BC-Bench\: Evaluating Agentic Engineering in a Domain-Specific Language for ERP](<https://arxiv.org/abs/2608.20851v1>) | Paper | Verified affiliation |
+| 2026‑08‑20 | [VGI-Bench\: Probing Visual Intelligence in Video Generation Models](<https://www.microsoft.com/en-us/research/publication/vgi-bench-probing-visual-intelligence-in-video-generation-models/>) | Publication | Official page, Verified affiliation |
 | 2026‑08‑20 | [hindawiai/v86\: v2026\.08\.21\.1787254787\.072756059](<https://doi.org/10.5281/zenodo.22034776>) | Software | OpenAlex |
 | 2026‑08‑20 | [samber/cc-skills-golang\: v2\.0\.0](<https://doi.org/10.5281/zenodo.21605229>) | Software | OpenAlex |
 | 2026‑08‑20 | [Can AI Models Hide Capabilities](<https://doi.org/10.5281/zenodo.22095430>) | Article | OpenAlex |
 | 2026‑08‑20 | [A quantile-based layer-aware perturbation to defend against model inversion attacks in deep neural networks](<https://doi.org/10.1038/s41598-026-67561-3>) | Article | OpenAlex |
+| 2026‑08‑20 | [Unified and Efficient Point-Line Local Features](<https://arxiv.org/abs/2608.19894v1>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [One Success Isn't Reliability\: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows](<https://arxiv.org/abs/2608.19741v2>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [Metag\: A dataset to build agentic meta-reviewing capabilities](<https://arxiv.org/abs/2608.20488v2>) | Paper | Verified affiliation |
 | 2026‑08‑19 | [JANUS\: A Multi-modal Foundation Neural Sampler for Disordered Materials](<https://www.microsoft.com/en-us/research/publication/janus-a-multi-modal-foundation-neural-sampler-for-disordered-materials/>) | Publication | Official page |
 | 2026‑08‑19 | [Molecular Implementation of the Machine-Learned Skala Exchange-Correlation Functional in CP2K through GauXC](<https://www.microsoft.com/en-us/research/publication/molecular-implementation-of-the-machine-learned-skala-exchange-correlation-functional-in-cp2k-through-gauxc/>) | Publication | Official page |
 | 2026‑08‑19 | [Beyond Static Snapshots\: Assessing Critical Thinking Ability Through Iterative Argumentation Processes](<https://doi.org/10.3390/jintelligence14080190>) | Article | OpenAlex |
 | 2026‑08‑18 | [Evaluating the Diversity of AI-Generated Content with Diversity Profiles](<https://www.microsoft.com/en-us/research/publication/evaluating-the-diversity-of-ai-generated-content-with-diversity-profiles/>) | Publication | Official page |
-| 2026‑08‑18 | [Agent Lightning v1\.0\: Towards Harnessed Agentic RL](<https://www.microsoft.com/en-us/research/publication/agent-lightning-v1-0-towards-harnessed-agentic-rl/>) | Publication | Official page |
+| 2026‑08‑18 | [Agent Lightning v1\.0\: Towards Harnessed Agentic RL](<https://www.microsoft.com/en-us/research/publication/agent-lightning-v1-0-towards-harnessed-agentic-rl/>) | Publication | Official page, Verified affiliation |
 | 2026‑08‑18 | [On the Sublinear Regret of Continuous K-Max Bandits](<https://www.microsoft.com/en-us/research/publication/on-the-sublinear-regret-of-continuous-k-max-bandits/>) | Publication | Official page |
 | 2026‑08‑18 | [Federated Combinatorial Causal Bandits with Heterogeneous Causal Influences](<https://www.microsoft.com/en-us/research/publication/federated-combinatorial-causal-bandits-with-heterogeneous-causal-influences/>) | Publication | Official page |
+| 2026‑08‑18 | [GenRec\: Knowing Where to Reconstruct and Where to Generate](<https://arxiv.org/abs/2608.17832v1>) | Paper | Verified affiliation |
 | 2026‑08‑18 | [The Alignment Conservation Question](<https://doi.org/10.5281/zenodo.22051539>) | Article | OpenAlex |
 | 2026‑08‑18 | [Measuring Genuine Conceptual Novelty in Frontier Models](<https://doi.org/10.5281/zenodo.22051546>) | Article | OpenAlex |
 | 2026‑08‑18 | [Measuring AI Scientists\: From Exams to Discovery](<https://doi.org/10.26434/chemrxiv.15007582/v1>) | Preprint | OpenAlex |
@@ -304,7 +312,7 @@
 | 2026‑07‑01 | [Temporal Preference Optimization for Unsupervised Retrieval](<https://www.microsoft.com/en-us/research/publication/temporal-preference-optimization-for-unsupervised-retrieval/>) | Publication | Official page |
 | 2026‑07‑01 | [Position\: Web Agents Should Use Typed Actions Instead of Click-Based Browsing](<https://www.microsoft.com/en-us/research/publication/web-agents-should-use-typed-actions-instead-of-click-based-browsing/>) | Publication | Official page |
 | 2026‑07‑01 | [Multiscale Neural Network Potential with Anisotropic Message Passing for the Fast and Accurate Simulation of Protein Dynamics and Enzymatic Reactions\.](<https://www.microsoft.com/en-us/research/publication/multiscale-neural-network-potential-with-anisotropic-message-passing-for-the-fast-and-accurate-simulation-of-protein-dynamics-and-enzymatic-reactions/>) | Publication | Official page |
-| 2026‑07‑01 | [HARC\: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment](<https://www.microsoft.com/en-us/research/publication/harc-coupling-harmfulness-and-refusal-directions-for-robust-safety-alignment/>) | Publication | Official page |
+| 2026‑07‑01 | [HARC\: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment](<https://www.microsoft.com/en-us/research/publication/harc-coupling-harmfulness-and-refusal-directions-for-robust-safety-alignment/>) | Publication | Official page, Verified affiliation |
 | 2026‑07‑01 | [ExVerus\: Verus Proof Repair via Counterexample Reasoning](<https://www.microsoft.com/en-us/research/publication/exverus-verus-proof-repair-via-counterexample-reasoning/>) | Publication | Official page |
 | 2026‑07‑01 | [Evaluation Validity in Information Retrieval](<https://www.microsoft.com/en-us/research/publication/evaluation-validity-in-information-retrieval/>) | Publication | Official page |
 | 2026‑07‑01 | [Psychological Influences of Conversational AI\: Research and Design Directions for Reducing Harm and Promoting Well-Being](<https://www.microsoft.com/en-us/research/publication/psychological-influences-of-conversational-ai-research-and-design-directions-for-reducing-harm-and-promoting-well-being/>) | Publication | Official page |
@@ -339,7 +347,7 @@
 | 2026‑06‑25 | [SKILL-DISCO\: Distilling and Compiling Agent Traces into Reusable Procedural Skills](<https://www.microsoft.com/en-us/research/publication/skill-disco-distilling-and-compiling-agent-traces-into-reusable-procedural-skills/>) | Publication | Official page |
 | 2026‑06‑25 | [Validating and Refining Measurements for Generative AI Evaluation Via Stakeholder Engagement](<https://doi.org/10.1145/3805689.3812403>) | Article | OpenAlex |
 | 2026‑06‑24 | [DeformGen\: Dynamics-Based Topology Augmentation for Deformable Manipulation Policy Learning](<https://www.microsoft.com/en-us/research/publication/deformgen-dynamics-based-topology-augmentation-for-deformable-manipulation-policy-learning/>) | Publication | Official page |
-| 2026‑06‑24 | [BitNet Text Embeddings](<https://www.microsoft.com/en-us/research/publication/bitnet-text-embeddings/>) | Publication | Official page |
+| 2026‑06‑24 | [BitNet Text Embeddings](<https://www.microsoft.com/en-us/research/publication/bitnet-text-embeddings/>) | Publication | Official page, Verified affiliation |
 | 2026‑06‑24 | [A Backward-Compatible Protocol Upgrade for HotNets](<https://www.microsoft.com/en-us/research/publication/a-backward-compatible-protocol-upgrade-for-hotnets/>) | Publication | Official page |
 | 2026‑06‑24 | [JASPR\: Joint Spatial Representation learning of histology and spatial genomics for improved virtual genomic screening and clinical prognostication](<https://www.microsoft.com/en-us/research/publication/jaspr-joint-spatial-representation-learning-of-histology-and-spatial-genomics-for-improved-virtual-genomic-screening-and-clinical-prognostication/>) | Publication | Official page |
 | 2026‑06‑23 | [MambaRaw\: Selective State Space Modeling for Efficient 4K Raw Image Reconstruction](<https://www.microsoft.com/en-us/research/publication/mambaraw-selective-state-space-modeling-for-efficient-4k-raw-image-reconstruction/>) | Publication | Official page |
@@ -359,6 +367,7 @@
 | 2026‑06‑18 | [How Copilot Changed the Pace of Work in Word — And How We Measured It](<https://www.microsoft.com/en-us/research/publication/how-copilot-changed-the-pace-of-work-in-word-and-how-we-measured-it/>) | Publication | Official page |
 | 2026‑06‑18 | [Fara-1\.5\: Scalable Learning Environments for Computer Use Agents](<https://www.microsoft.com/en-us/research/publication/fara-1-5-scalable-learning-environments-for-computer-use-agents/>) | Publication | Official page |
 | 2026‑06‑18 | [A Foundation-style Model for Zero-Shot Statistical Dependency Measurement](<https://www.microsoft.com/en-us/research/publication/a-foundation-style-model-for-zero-shot-statistical-dependency-measurement/>) | Publication | Official page |
+| 2026‑06‑16 | [MuseVLA\: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](<https://arxiv.org/abs/2606.17598>) | Paper | Verified affiliation |
 | 2026‑06‑15 | [Closed-Loop Triplet Synergistic Generation for Long-Form Video](<https://www.microsoft.com/en-us/research/publication/closed-loop-triplet-synergistic-generation-for-long-form-video/>) | Publication | Official page |
 | 2026‑06‑15 | [Towards Functional Correctness of Large Code Models with Selective Generation](<https://www.microsoft.com/en-us/research/publication/towards-functional-correctness-of-large-code-models-with-selective-generation/>) | Publication | Official page |
 | 2026‑06‑15 | [SkillWiki\: A Living Knowledge Infrastructure for Agent Skills](<https://www.microsoft.com/en-us/research/publication/skillwiki-a-living-knowledge-infrastructure-for-agent-skills/>) | Publication | Official page |
@@ -465,6 +474,7 @@
 | 2026‑05‑28 | [From Augmentation to Reconstruction\: Guiding the AI Disruption to the Good Place](<https://www.microsoft.com/en-us/research/publication/ai-disruption-market-design-agentic-web-good-place/>) | Publication | Official page |
 | 2026‑05‑28 | [Evaluating Cross-lingual Knowledge Consistency in Code-Mixed vis-a-vis Indian Languages using IndicKLAR](<https://www.microsoft.com/en-us/research/publication/evaluating-cross-lingual-knowledge-consistency-in-code-mixed-vis-a-vis-indian-languages-using-indicklar/>) | Publication | Official page |
 | 2026‑05‑28 | [Battery-Sim-Agent\: Leveraging LLM-Agent for Inverse Battery Parameter Estimation](<https://www.microsoft.com/en-us/research/publication/battery-sim-agent-leveraging-llm-agent-for-inverse-battery-parameter-estimation/>) | Publication | Official page, OpenAlex |
+| 2026‑05‑28 | [SchGen\: PCB Schematic Generation with Semantic-Grounded Code Representations](<https://arxiv.org/abs/2605.30345>) | Paper | Verified affiliation |
 | 2026‑05‑27 | [MVP-LAM\: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction](<https://www.microsoft.com/en-us/research/publication/mvp-lam-learning-action-centric-latent-action-via-cross-viewpoint-reconstruction/>) | Publication | Official page |
 | 2026‑05‑27 | [Leveraging the Potential of Machine-Learning Interatomic Potentials for QM/MM Simulations](<https://www.microsoft.com/en-us/research/publication/leveraging-the-potential-of-machine-learning-interatomic-potentials-for-qm-mm-simulations/>) | Publication | Official page |
 | 2026‑05‑27 | [Thinned Mean Field Langevin Dynamics](<https://www.microsoft.com/en-us/research/publication/thinned-mean-field-langevin-dynamics-2/>) | Publication | Official page |
@@ -628,7 +638,7 @@
 | 2026‑04‑30 | [GAFSV-Net\: A Vision Framework for Online Signature Verification](<https://www.microsoft.com/en-us/research/publication/gafsv-net-a-vision-framework-for-online-signature-verification/>) | Publication | Official page |
 | 2026‑04‑30 | [World Model for Robot Learning\: A Comprehensive Survey](<https://www.microsoft.com/en-us/research/publication/world-model-for-robot-learning-a-comprehensive-survey/>) | Publication | Official page |
 | 2026‑04‑30 | [Synthetic Computers at Scale for Long-Horizon Productivity Simulation](<https://www.microsoft.com/en-us/research/publication/synthetic-computers-at-scale-for-long-horizon-productivity-simulation/>) | Publication | Official page |
-| 2026‑04‑30 | [SQuadGen\: Generating Simple Quad Layouts via Chart Distance Fields](<https://www.microsoft.com/en-us/research/publication/squadgen-generating-simple-quad-layouts-via-chart-distance-fields/>) | Publication | Official page |
+| 2026‑04‑30 | [SQuadGen\: Generating Simple Quad Layouts via Chart Distance Fields](<https://www.microsoft.com/en-us/research/publication/squadgen-generating-simple-quad-layouts-via-chart-distance-fields/>) | Publication | Official page, Verified affiliation |
 | 2026‑04‑30 | [Performance of a large language model on the reasoning tasks of a physician](<https://www.microsoft.com/en-us/research/publication/performance-of-a-large-language-model-on-the-reasoning-tasks-of-a-physician/>) | Publication | OpenAlex, Official page |
 | 2026‑04‑30 | [Diagnosing Capability Gaps in Fine-Tuning Data](<https://www.microsoft.com/en-us/research/publication/diagnosing-capability-gaps-in-fine-tuning-data/>) | Publication | Official page |
 | 2026‑04‑30 | [CasLayout\: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling](<https://www.microsoft.com/en-us/research/publication/caslayout-cascaded-3d-layout-diffusion-for-indoor-scene-synthesis-with-implicit-relation-modeling/>) | Publication | Official page |
@@ -1049,7 +1059,7 @@
 | 2026‑02‑02 | [AgentRx\: Diagnosing AI Agent Failures from Execution Trajectories](<https://www.microsoft.com/en-us/research/publication/agentrx-diagnosing-ai-agent-failures-from-execution-trajectories/>) | Publication | Official page |
 | 2026‑02‑02 | [How Well Do Models Follow Visual Instructions? VIBE\: A Systematic Benchmark for Visual Instruction-Driven Image Editing](<https://www.microsoft.com/en-us/research/publication/how-well-do-models-follow-visual-instructions-vibe-a-systematic-benchmark-for-visual-instruction-driven-image-editing/>) | Publication | Official page |
 | 2026‑02‑02 | [RE-TRAC\: REcursive TRAjectory Compression for Deep Search Agents](<https://www.microsoft.com/en-us/research/publication/re-trac-recursive-trajectory-compression-for-deep-search-agents/>) | Publication | Official page |
-| 2026‑02‑02 | [Learning Sparse Visual Representations via Spatial-Semantic Factorization](<https://www.microsoft.com/en-us/research/publication/learning-sparse-visual-representations-via-spatial-semantic-factorization/>) | Publication | Official page |
+| 2026‑02‑02 | [Learning Sparse Visual Representations via Spatial-Semantic Factorization](<https://www.microsoft.com/en-us/research/publication/learning-sparse-visual-representations-via-spatial-semantic-factorization/>) | Publication | Official page, Verified affiliation |
 | 2026‑02‑02 | [One Model, All Roles\: Multi-Turn, Multi-Agent Self-Play Reinforcement Learning for Conversational Social Intelligence](<https://www.microsoft.com/en-us/research/publication/one-model-all-roles-multi-turn-multi-agent-self-play-reinforcement-learning-for-conversational-social-intelligence/>) | Publication | Official page |
 | 2026‑02‑01 | [RedCodeAgent\: Automatic Red-teaming Agent against Diverse Code Agents](<https://www.microsoft.com/en-us/research/publication/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/>) | Publication | Official page |
 | 2026‑02‑01 | [GenMAC\: Compositional Text-to-Video Generation with Multi-Agent Collaboration](<https://www.microsoft.com/en-us/research/publication/genmac-compositional-text-to-video-generation-with-multi-agent-collaboration/>) | Publication | Official page |
@@ -1315,6 +1325,7 @@
 | 2025‑10‑17 | [Cost-Aware Retrieval-Augmentation Reasoning Models with Adaptive Retrieval Depth](<https://www.microsoft.com/en-us/research/publication/cost-aware-retrieval-augmentation-reasoning-models-with-adaptive-retrieval-depth/>) | Publication | Official page |
 | 2025‑10‑17 | [The Impact of Generative AI on the CSCW Landscape\: Insights from HCI Education, Industry Dynamics, and Funding Perspectives](<https://doi.org/10.1145/3715070.3748275>) | Article | OpenAlex |
 | 2025‑10‑16 | [Towards a Responsible AI Organizational Maturity Model](<https://www.microsoft.com/en-us/research/publication/towards-a-responsible-ai-organizational-maturity-model/>) | Publication | Official page |
+| 2025‑10‑16 | [Comprehensive language-image pre-training for 3D medical image understanding](<https://arxiv.org/abs/2510.15042>) | Paper | Verified affiliation |
 | 2025‑10‑15 | [Holdout-Loss-Based Data Selection for LLM Finetuning via In-Context Learning](<https://www.microsoft.com/en-us/research/publication/holdout-loss-based-data-selection-for-llm-finetuning-via-in-context-learning/>) | Publication | Official page |
 | 2025‑10‑15 | [SimPoly\: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles](<https://www.microsoft.com/en-us/research/publication/simpoly-simulation-of-polymers-with-machine-learning-force-fields-derived-from-first-principles/>) | Publication | Official page |
 | 2025‑10‑15 | [The Coverage Principle\: How Pre-Training Enables Post-Training](<https://www.microsoft.com/en-us/research/publication/the-coverage-principle-how-pre-training-enables-post-training/>) | Publication | Official page |
@@ -1349,7 +1360,7 @@
 | 2025‑10‑08 | [Expanding the Action Space of LLMs to Reason Beyond Language](<https://www.microsoft.com/en-us/research/publication/expanding-the-action-space-of-llms-to-reason-beyond-language/>) | Publication | Official page |
 | 2025‑10‑07 | [Vipera\: Blending Visual and LLM-Driven Guidance for Systematic Auditing of Text-to-Image Generative AI](<https://www.microsoft.com/en-us/research/publication/vipera-blending-visual-and-llm-driven-guidance-for-systematic-auditing-of-text-to-image-generative-ai/>) | Publication | Official page |
 | 2025‑10‑07 | [The Markovian Thinker](<https://www.microsoft.com/en-us/research/publication/the-markovian-thinker/>) | Publication | Official page |
-| 2025‑10‑07 | [Flipping the Dialogue\: Training and Evaluating User Language Models](<https://www.microsoft.com/en-us/research/publication/flipping-the-dialogue-training-and-evaluating-user-language-models/>) | Publication | Official page |
+| 2025‑10‑07 | [Flipping the Dialogue\: Training and Evaluating User Language Models](<https://www.microsoft.com/en-us/research/publication/flipping-the-dialogue-training-and-evaluating-user-language-models/>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑07 | [Reward Model Perspectives\: Whose Opinions Do Reward Models Reward?](<https://www.microsoft.com/en-us/research/publication/reward-model-perspectives-whose-opinions-do-reward-models-reward/>) | Publication | Official page |
 | 2025‑10‑07 | [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models](<https://www.microsoft.com/en-us/research/publication/next-semantic-scale-prediction-via-hierarchical-diffusion-language-models/>) | Publication | Official page |
 | 2025‑10‑07 | [NorMuon\: Making Muon more efficient and scalable](<https://www.microsoft.com/en-us/research/publication/normuon-making-muon-more-efficient-and-scalable/>) | Publication | Official page |
@@ -1691,7 +1702,7 @@
 | 2025‑06‑18 | [PadChest-GR\: A Bilingual Chest X-ray Dataset for Grounded Radiology Report Generation](<https://www.microsoft.com/en-us/research/publication/padchest-gr/>) | Publication | Official page |
 | 2025‑06‑17 | [Nabla-R2D3\: Effective and Efficient 3D Diffusion Alignment with 2D Rewards](<https://www.microsoft.com/en-us/research/publication/nabla-r2d3-effective-and-efficient-3d-diffusion-alignment-with-2d-rewards/>) | Publication | Official page |
 | 2025‑06‑17 | [Understanding multi-fidelity training of machine-learned force-fields](<https://www.microsoft.com/en-us/research/publication/understanding-multi-fidelity-training-of-machine-learned-force-fields/>) | Publication | Official page |
-| 2025‑06‑17 | [Accurate and scalable exchange-correlation with deep learning](<https://www.microsoft.com/en-us/research/publication/accurate-and-scalable-exchange-correlation-with-deep-learning/>) | Publication | Official page |
+| 2025‑06‑17 | [Accurate and scalable exchange-correlation with deep learning](<https://www.microsoft.com/en-us/research/publication/accurate-and-scalable-exchange-correlation-with-deep-learning/>) | Publication | Official page, Verified affiliation |
 | 2025‑06‑17 | [Accurate Chemistry Collection\: Coupled cluster atomization energies for broad chemical space](<https://www.microsoft.com/en-us/research/publication/accurate-chemistry-collection-coupled-cluster-atomization-energies-for-broad-chemical-space/>) | Publication | Official page |
 | 2025‑06‑16 | [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs](<https://www.microsoft.com/en-us/research/publication/reinforcement-learning-with-verifiable-rewards-implicitly-incentivizes-correct-reasoning-in-base-llms/>) | Publication | Official page |
 | 2025‑06‑16 | [Multimodal Needle in a Haystack\: Benchmarking Long-Context Capability of Multimodal Large Language Models](<https://www.microsoft.com/en-us/research/publication/multimodal-needle-in-a-haystack-benchmarking-long-context-capability-of-multimodal-large-language-models/>) | Publication | Official page |
@@ -2245,7 +2256,7 @@
 | 2024‑12‑14 | [Modality-Driven Design for Multi-Step Dexterous Manipulation\: Insights from Neuroscience](<https://www.microsoft.com/en-us/research/publication/modality-driven-design-for-multi-step-dexterous-manipulation-insights-from-neuroscience/>) | Publication | Official page |
 | 2024‑12‑13 | [SCBench\: A KV Cache-Centric Analysis of Long-Context Methods](<https://www.microsoft.com/en-us/research/publication/scbench-a-kv-cache-centric-analysis-of-long-context-methods/>) | Publication | Official page |
 | 2024‑12‑12 | [METIS\: Fast Quality-Aware RAG Systems with Configuration Adaptation (TR)](<https://www.microsoft.com/en-us/research/publication/metis-fast-quality-aware-rag-systems-with-configuration-adaptation-tr/>) | Publication | Official page |
-| 2024‑12‑12 | [Phi-4 Technical Report](<https://www.microsoft.com/en-us/research/publication/phi-4-technical-report/>) | Publication | Official page |
+| 2024‑12‑12 | [Phi-4 Technical Report](<https://www.microsoft.com/en-us/research/publication/phi-4-technical-report/>) | Publication | Official page, Verified affiliation |
 | 2024‑12‑12 | [Deeper evaluation of a single-cell foundation model](<https://www.microsoft.com/en-us/research/publication/deeper-evaluation-of-a-single-cell-foundation-model/>) | Publication | Official page |
 | 2024‑12‑11 | [Elevating Visual Perception in Multimodal LLMs with Visual Embedding Distillation](<https://www.microsoft.com/en-us/research/publication/elevating-visual-perception-in-multimodal-llms-with-visual-embedding-distillation/>) | Publication | Official page |
 | 2024‑12‑11 | [Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models](<https://www.microsoft.com/en-us/research/publication/is-a-picture-worth-a-thousand-words-delving-into-spatial-reasoning-for-vision-language-models/>) | Publication | Official page |
@@ -3124,7 +3135,7 @@
 | 2024‑02‑08 | [CultureLLM\: Incorporating Cultural Differences into Large Language Models](<https://www.microsoft.com/en-us/research/publication/culturellm-incorporating-cultural-differences-into-large-language-models/>) | Publication | Official page |
 | 2024‑02‑08 | [Self-Supervised Learning for Improved Optical Coherence Tomography Detection of Macular Telangiectasia Type 2](<https://www.microsoft.com/en-us/research/publication/self-supervised-learning-for-improved-optical-coherence-tomography-detection-of-macular-telangiectasia-type-2/>) | Publication | Official page |
 | 2024‑02‑08 | [Fewer is More\: Boosting LLM Reasoning with Reinforced Context Pruning](<https://www.microsoft.com/en-us/research/publication/fewer-is-more-boosting-llm-reasoning-with-reinforced-context-pruning/>) | Publication | Official page |
-| 2024‑02‑07 | [Multilingual E5 Text Embeddings\: A Technical Report](<https://www.microsoft.com/en-us/research/publication/multilingual-e5-text-embeddings-a-technical-report/>) | Publication | Official page |
+| 2024‑02‑07 | [Multilingual E5 Text Embeddings\: A Technical Report](<https://www.microsoft.com/en-us/research/publication/multilingual-e5-text-embeddings-a-technical-report/>) | Publication | Official page, Verified affiliation |
 | 2024‑02‑06 | [CataractBot\: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients](<https://www.microsoft.com/en-us/research/publication/cataractbot-an-llm-powered-expert-in-the-loop-chatbot-for-cataract-patients/>) | Publication | Official page |
 | 2024‑02‑06 | [Open-Vocabulary Calibration for Vision-Language Models](<https://www.microsoft.com/en-us/research/publication/open-vocabulary-calibration-for-vision-language-models/>) | Publication | Official page |
 | 2024‑02‑06 | [Leveraging Large Language Models for Hybrid Workplace Decision Support](<https://www.microsoft.com/en-us/research/publication/llm-for-hybrid-workplace-decision-support/>) | Publication | Official page |

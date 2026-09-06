@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `213`
+- Papers: `217`
 - Latest: `2026-09-04`
 - [Back to README](../../README.md#anthropic)
 
@@ -12,6 +12,7 @@
 | n\.d\. | [Why Do Some Language Models Fake Alignment While Others Don't?](<https://arxiv.org/abs/2506.18032>) | Research post | Official page |
 | n\.d\. | [Tracing Model Outputs to the Training Data](<https://www.anthropic.com/research/influence-functions>) | Research post | Official page |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
+| n\.d\. | [Claude for Healthcare](<https://github.com/anthropics/healthcare/blob/main/plugins/healthcare/skills/prior-auth/assets/sample/03_CT_Chest_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Claude Cookbooks](<https://github.com/anthropics/claude-cookbooks/blob/main/multimodal/documents/constitutional-ai-paper.pdf>) | Technical report | Official repo |
 
 ## 2026
@@ -57,6 +58,7 @@
 | 2026‑04‑22 | [What 81,000 people told us about the economics of AI](<https://www.anthropic.com/research/81k-economics>) | Research post | Official page |
 | 2026‑04‑22 | [Announcing the Anthropic Economic Index Survey](<https://www.anthropic.com/research/economic-index-survey-announcement>) | Research post | Official page |
 | 2026‑04‑14 | [Automated Alignment Researchers\: Using large language models to scale scalable oversight](<https://www.anthropic.com/research/automated-alignment-researchers>) | Publication | Official page |
+| 2026‑04‑11 | [Dead Cognitions\: A Census of Misattributed Insights](<https://arxiv.org/abs/2604.10288v2>) | Paper | Verified affiliation |
 | 2026‑04‑09 | [Trustworthy agents in practice](<https://www.anthropic.com/research/trustworthy-agents>) | Research post | Official page |
 | 2026‑04‑07 | [Assessing Claude Mythos Preview’s cybersecurity capabilities](<https://www.anthropic.com/research/mythos-preview>) | Research post | Official page |
 | 2026‑04‑02 | [Emotion concepts and their function in a large language model](<https://www.anthropic.com/research/emotion-concepts-function>) | Publication | Official page |
@@ -214,6 +216,7 @@
 | 2024‑10‑01 | [Circuits Updates – September 2024](<https://www.anthropic.com/research/circuits-updates-sept-2024>) | Research post | Official page |
 | 2024‑10 | [Claude Haiku 3\.5 and Sonnet 3\.5 (new) System Card](<https://www-cdn.anthropic.com/c7822cdc35ad788ec87e14b3a9d45010f1f86c38.pdf>) | Model card | Official page |
 | 2024‑09‑06 | [Circuits Updates – August 2024](<https://www.anthropic.com/research/circuits-updates-august-2024>) | Research post | Official page |
+| 2024‑08‑28 | [Early-life dispersal traits of coastal fishes\: an extensive database combining observations and growth models](<https://doi.org/10.5194/essd-16-3851-2024>) | Article | OpenAlex |
 | 2024‑07‑31 | [Circuits Updates – July 2024](<https://www.anthropic.com/research/circuits-updates-july-2024>) | Research post | Official page |
 | 2024‑06‑28 | [Circuits Updates – June 2024](<https://www.anthropic.com/research/circuits-updates-june-2024>) | Research post | Official page |
 | 2024‑06‑13 | [The engineering challenges of scaling interpretability](<https://www.anthropic.com/research/engineering-challenges-interpretability>) | Research post | Official page |
@@ -224,6 +227,7 @@
 | 2024‑04‑26 | [Circuits Updates – April 2024](<https://www.anthropic.com/research/circuits-updates-april-2024>) | Research post | Official page |
 | 2024‑04‑23 | [Simple probes can catch sleeper agents](<https://www.anthropic.com/research/probes-catch-sleeper-agents>) | Research post | Official page |
 | 2024‑04‑09 | [Measuring the persuasiveness of language models](<https://www.anthropic.com/research/measuring-model-persuasiveness>) | Research post | Official page |
+| 2024‑04‑04 | [Projet URBO – Urbi et Orb(etello) – Co-évolution de la ville d’Orbetello et de sa lagune\: une histoire socio-environnementale d’une ville enclavée par les eaux lagunaires en Italie](<https://hal.science/hal-04556522>) | Conference paper | OpenAlex |
 | 2024‑03‑08 | [Reflections on Qualitative Research](<https://www.anthropic.com/research/transformer-circuits>) | Research post | Official page |
 | 2024‑03 | [Claude 3 System Card](<https://www-cdn.anthropic.com/c6a80a657af445f40e31afac050f3bf76d3b1404.pdf>) | Model card | Official page |
 | 2024 | [Sleeper Agents\: Training Deceptive LLMs that Persist Through Safety Training](<https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training>) | Research post | Official page |

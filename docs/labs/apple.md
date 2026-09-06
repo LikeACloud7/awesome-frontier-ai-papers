@@ -66,10 +66,8 @@
 | 2026‑07‑16 | [Personalizing Incremental Video Search with Hybrid Text and ID Embeddings](<https://machinelearning.apple.com/research/personalizing-incremental-video-search>) | Publication | Official page |
 | 2026‑07‑16 | [Location-Invariant Properties of Functions Versus Properties of Distributions\: United in Testing but Separated in Verification](<https://machinelearning.apple.com/research/location-invariant-functions>) | Publication | Official page |
 | 2026‑07‑16 | [Interactive Proofs for General Distribution Properties](<https://machinelearning.apple.com/research/interactive-proofs-distribution-properties>) | Publication | Official page |
-| 2026‑07‑16 | [Embarrassingly Simple Self-Distillation Improves Code Generation](<https://machinelearning.apple.com/research/simple-self-distillation>) | Publication | Official page |
 | 2026‑07‑16 | [Doubly Sub-linear Interactive Proofs of Proximity](<https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs>) | Publication | Official page |
 | 2026‑07‑15 | [One Layer Is Enough\: Adapting Pretrained Visual Encoders for Image Generation](<https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders>) | Publication | Official page |
-| 2026‑07‑15 | [CLaRa\: Bridging Retrieval and Generation with Continuous Latent Reasoning](<https://machinelearning.apple.com/research/clara-latent-reasoning>) | Publication | Official page |
 | 2026‑07‑14 | [Proactive Agent Research Environment\: Simulating Active Users to Evaluate Proactive Assistants](<https://machinelearning.apple.com/research/proactive-agent-research-environment>) | Publication | Official page |
 | 2026‑07‑14 | [Multilingual Semantic Retrieval for Apple Music Search](<https://machinelearning.apple.com/research/multilingual-semantic-retrieval>) | Publication | Official page |
 | 2026‑07‑10 | [Behavioral Privacy Leakage in Agentic Negotiation\: Formalizing and Mitigating Inference Attacks via Randomized Policies](<https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation>) | Publication | Official page, OpenAlex |
@@ -126,7 +124,6 @@
 | 2026‑05‑05 | [Stochastic KV Routing\: Enabling Adaptive Depth-Wise Cache Sharing](<https://machinelearning.apple.com/research/stochastic-kv-routing>) | Publication | Official page |
 | 2026‑05‑04 | [PORTool\: Importance-Aware Policy Optimization with Rewarded Tree for Multi-Tool-Integrated Reasoning](<https://machinelearning.apple.com/research/portool-policy-optimization>) | Publication | Official page |
 | 2026‑05‑01 | [Reinforced Agent\: Inference-Time Feedback for Tool-Calling Agents](<https://machinelearning.apple.com/research/reinforced-agent-inference-feedback>) | Publication | Official page |
-| 2026‑04‑30 | [STARFlow-V\: End-to-End Video Generative Modeling with Normalizing Flows](<https://machinelearning.apple.com/research/starflow-v-video-modeling>) | Publication | Official page |
 | 2026‑04‑30 | [Bootstrapping Sign Language Annotations with Sign Language Models](<https://machinelearning.apple.com/research/sign-language-annotations>) | Publication | Official page |
 | 2026‑04‑29 | [Adaptive Thinking\: Large Language Models Know When to Think in Latent Space](<https://machinelearning.apple.com/research/adaptive-thinking>) | Publication | Official page |
 | 2026‑04‑29 | [DSO\: Direct Steering Optimization for Bias Mitigation](<https://machinelearning.apple.com/research/direct-steering-optimization>) | Publication | Official page |
@@ -147,6 +144,7 @@
 | 2026‑04‑08 | [Governance-Aware Agent Telemetry for Closed-Loop Enforcement in Multi-Agent AI Systems](<https://machinelearning.apple.com/research/governance-aware-agent-telemetry>) | Publication | Official page |
 | 2026‑04‑06 | [SQUIRE\: Interactive UI Authoring via Slot QUery Intermediate REpresentations](<https://machinelearning.apple.com/research/squire>) | Publication | Official page |
 | 2026‑04‑02 | [Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment](<https://machinelearning.apple.com/research/personalized-group>) | Publication | Official page |
+| 2026‑04‑01 | [Embarrassingly Simple Self-Distillation Improves Code Generation](<https://machinelearning.apple.com/research/simple-self-distillation>) | Publication | Official page, Verified affiliation |
 | 2026‑03‑31 | [ProText\: A Benchmark Dataset for Measuring (Mis)gendering in Long-Form Texts](<https://machinelearning.apple.com/research/protext-gender-bias-benchmark>) | Publication | Official page |
 | 2026‑03‑30 | [Entropy-Preserving Reinforcement Learning](<https://machinelearning.apple.com/research/entropy-preserving-reinforcement-learning>) | Publication | Official page |
 | 2026‑03‑30 | [Beyond Real Data\: Synthetic Data through the Lens of Regularization](<https://machinelearning.apple.com/research/beyond-real-data>) | Publication | Official page |
@@ -204,7 +202,6 @@
 | 2026‑01‑27 | [SelfReflect\: Can LLMs Communicate Their Internal Answer Distribution?](<https://machinelearning.apple.com/research/selfreflect>) | Publication | Official page |
 | 2026‑01‑27 | [Principled Coarse-Grained Acceptance for Speculative Decoding in Speech](<https://machinelearning.apple.com/research/coarse-grained>) | Publication | Official page |
 | 2026‑01‑27 | [Learning to Reason as Action Abstractions with Scalable Mid-Training RL](<https://machinelearning.apple.com/research/action-abstractions>) | Publication | Official page |
-| 2026‑01‑21 | [DiffuCoder\: Understanding and Improving Masked Diffusion Models for Code Generation](<https://machinelearning.apple.com/research/diffucoder>) | Publication | Official page |
 | 2026‑01‑16 | [The Data-Quality Illusion\: Rethinking Classifier-Based Quality Filtering for LLM Pretraining](<https://machinelearning.apple.com/research/data-quality-illusion>) | Publication | Official page |
 | 2026‑01‑16 | [ParaRNN\: Unlocking Parallel Training of Nonlinear RNNs for Large Language Models](<https://machinelearning.apple.com/research/pararnn>) | Publication | Official page |
 | 2026‑01‑12 | [Over-Searching in Search-Augmented Large Language Models](<https://machinelearning.apple.com/research/search-augmented>) | Publication | Official page |
@@ -237,19 +234,18 @@
 | 2025‑12‑16 | [GIE-Bench\: Towards Grounded Evaluation for Text-Guided Image Editing](<https://machinelearning.apple.com/research/gie-bench>) | Publication | Official page |
 | 2025‑12‑16 | [Data-Centric Lessons To Improve Speech-Language Pretraining](<https://machinelearning.apple.com/research/data-centric-lessons>) | Publication | Official page |
 | 2025‑12‑16 | [DarkDiff\: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP](<https://machinelearning.apple.com/research/darkdiff>) | Publication | Official page |
-| 2025‑12‑13 | [Sharp Monocular View Synthesis in Less Than a Second](<https://machinelearning.apple.com/research/sharp-monocular-view>) | Publication | Official page |
 | 2025‑12‑12 | [Reusing Pre-Training Data at Test Time is a Compute Multiplier](<https://machinelearning.apple.com/research/compute-multiplier>) | Publication | Official page |
 | 2025‑12‑12 | [IMPACT\: Inflectional Morphology Probes Across Complex Typologies](<https://machinelearning.apple.com/research/inflectional-morphology-probes>) | Publication | Official page |
 | 2025‑12‑11 | [COMPASS\: A Multi-Turn Benchmark for Tool-Mediated Planning &amp; Preference Optimization](<https://machinelearning.apple.com/research/multi-turn-benchmark>) | Publication | Official page |
 | 2025‑12‑11 | [Mirror Speculative Decoding\: Breaking the Serial Barrier in LLM Inference](<https://machinelearning.apple.com/research/mirror>) | Publication | Official page |
 | 2025‑12‑11 | [GRACE\: A Language Model Framework for Explainable Inverse Reinforcement Learning](<https://machinelearning.apple.com/research/grace>) | Publication | Official page |
+| 2025‑12‑11 | [Sharp Monocular View Synthesis in Less Than a Second](<https://machinelearning.apple.com/research/sharp-monocular-view>) | Publication | Official page, Verified affiliation |
 | 2025‑12‑11 | [On Fitting Flow Models with Large Sinkhorn Couplings](<https://machinelearning.apple.com/research/sinkhorn-couplings>) | Publication | Official page |
 | 2025‑12‑11 | [MoE-PHDS\: One MoE Checkpoint for Flexible Runtime Sparsity](<https://machinelearning.apple.com/research/moe-phds>) | Publication | Official page |
 | 2025‑12‑11 | [DiT-Air\: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation](<https://machinelearning.apple.com/research/dit-air>) | Publication | Official page |
 | 2025‑12‑11 | [Assessing the Role of Data Quality in Training Bilingual Language Models](<https://machinelearning.apple.com/research/data-quality-bilingual-lms>) | Publication | Official page |
 | 2025‑12‑10 | [ChipChat\: Low-Latency Cascaded Conversational Agent in MLX](<https://machinelearning.apple.com/research/chipchat>) | Publication | Official page |
 | 2025‑12‑10 | [Multi-View Causal Discovery without Non-Gaussianity\: Identifiability and Algorithms](<https://machinelearning.apple.com/research/algorithms>) | Publication | Official page |
-| 2025‑12‑10 | [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](<https://machinelearning.apple.com/research/continuously-augmented>) | Publication | Official page |
 | 2025‑12‑10 | [Chain-of-Sketch\: Enabling Global Visual Reasoning](<https://machinelearning.apple.com/research/chain-of-sketch>) | Publication | Official page |
 | 2025‑12‑10 | [Assessing the Feasibility of Large-Scale Digital Sensing for Depression and Anxiety\: The Digital Mental Health Study](<https://machinelearning.apple.com/research/digital-mental-health>) | Publication | Official page |
 | 2025‑12‑09 | [Learning Unmasking Policies for Diffusion Language Models](<https://huggingface.co/papers/2512.09106>) | Paper | Official page |
@@ -260,6 +256,8 @@
 | 2025‑12‑03 | [PREDICT\: Preference Reasoning by Evaluating Decomposed preferences Inferred from Candidate Trajectories](<https://machinelearning.apple.com/research/predict>) | Publication | Official page |
 | 2025‑12‑02 | [Hybrid Modeling of Photoplethysmography for Non-Invasive Monitoring of Cardiovascular Parameters](<https://machinelearning.apple.com/research/photoplethysmography>) | Publication | Official page |
 | 2025‑12‑01 | [Sample and Map from a Single Convex Potential\: Generation using Conjugate Moment Measures](<https://machinelearning.apple.com/research/sample-and-map>) | Publication | Official page |
+| 2025‑11‑25 | [STARFlow-V\: End-to-End Video Generative Modeling with Normalizing Flows](<https://machinelearning.apple.com/research/starflow-v-video-modeling>) | Publication | Official page, Verified affiliation |
+| 2025‑11‑24 | [CLaRa\: Bridging Retrieval and Generation with Continuous Latent Reasoning](<https://machinelearning.apple.com/research/clara-latent-reasoning>) | Publication | Official page, Verified affiliation |
 | 2025‑11‑22 | [Towards a Better Evaluation of 3D CVML Algorithms\: Immersive Debugging of a Localization Model](<https://machinelearning.apple.com/research/immersive-debugging>) | Publication | Official page |
 | 2025‑11‑21 | [SDSP\: Scalable and Diverse Synthetic Pairwise Text Generation from Web Corpus Using Large Language Model](<https://doi.org/10.1007/978-981-95-4367-0_1>) | Book chapter | OpenAlex |
 | 2025‑11‑20 | [VLSU\: Mapping the Limits of Joint Multimodal Understanding for AI Safety](<https://machinelearning.apple.com/research/vlsu>) | Publication | Official page |
@@ -305,6 +303,7 @@
 | 2025‑10‑02 | [TASER\: Translation Assessment via Systematic Evaluation and Reasoning](<https://machinelearning.apple.com/research/taser>) | Publication | Official page |
 | 2025‑10‑02 | [Hilbert\: Recursively Building Formal Proofs with Informal Reasoning](<https://machinelearning.apple.com/research/hilbert>) | Publication | Official page |
 | 2025‑10‑02 | [Barriers for Learning in an Evolving World\: Mathematical Understanding of Loss of Plasticity](<https://machinelearning.apple.com/research/barriers-for-learning>) | Publication | Official page |
+| 2025‑10‑01 | [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](<https://machinelearning.apple.com/research/continuously-augmented>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑01 | [Compute-Optimal Quantization-Aware Training](<https://machinelearning.apple.com/research/compute-optimal>) | Publication | Official page |
 | 2025‑09‑29 | [StreamBridge\: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](<https://machinelearning.apple.com/research/proactive-streaming-assistant>) | Publication | Official page |
 | 2025‑09‑29 | [PREAMBLE\: Private and Efficient Aggregation via Block Sparse Vectors](<https://machinelearning.apple.com/research/preamble>) | Publication | Official page |
@@ -328,12 +327,12 @@
 | 2025‑09‑22 | [Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](<https://machinelearning.apple.com/research/guiding-cross-modal>) | Publication | Official page |
 | 2025‑09‑22 | [TADA\: Improved Diffusion Sampling with Training-free Augmented Dynamics](<https://machinelearning.apple.com/research/tada>) | Publication | Official page |
 | 2025‑09‑22 | [On Inductive Biases That Enable Generalization of Diffusion Transformers](<https://machinelearning.apple.com/research/on-inductive-biases>) | Publication | Official page |
-| 2025‑09‑22 | [MobileCLIP2\: Improving Multi-Modal Reinforced Training](<https://machinelearning.apple.com/research/mobileclip2>) | Publication | Official page |
 | 2025‑09‑22 | [Instance-Optimality for Private KL Distribution Estimation](<https://machinelearning.apple.com/research/instance-optimality>) | Publication | Official page |
 | 2025‑09‑22 | [Follow the Energy, Find the Path\: Riemannian Metrics from Energy-Based Models](<https://machinelearning.apple.com/research/follow-the-energy>) | Publication | Official page |
 | 2025‑09‑22 | [Flexible Language Modeling in Continuous Space with Transformer-based Autoregressive Flows](<https://machinelearning.apple.com/research/flexible-language-modeling>) | Publication | Official page |
 | 2025‑09‑22 | [Discrete Neural Flow Samplers with Locally Equivariant Transformer](<https://machinelearning.apple.com/research/discrete-neural-flow>) | Publication | Official page |
 | 2025‑09‑03 | [PersonaTeaming\: Exploring How Introducing Personas Can Improve Automated AI Red-Teaming](<https://machinelearning.apple.com/research/ai-red-teaming>) | Publication | Official page |
+| 2025‑08‑28 | [MobileCLIP2\: Improving Multi-Modal Reinforced Training](<https://machinelearning.apple.com/research/mobileclip2>) | Publication | Official page, Verified affiliation |
 | 2025‑08‑22 | [SlowFast-LLaVA-1\.5\: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](<https://machinelearning.apple.com/research/slowfast-llava>) | Publication | Official page |
 | 2025‑08‑18 | [Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations](<https://machinelearning.apple.com/research/rethinking-non-negative>) | Publication | Official page |
 | 2025‑08‑18 | [Investigating Intersectional Bias in Large Language Models using Confidence Disparities in Coreference Resolution](<https://machinelearning.apple.com/research/investigating-intersectional>) | Publication | Official page |
@@ -394,7 +393,6 @@
 | 2025‑06‑30 | [Instruction-Following Pruning for Large Language Models](<https://machinelearning.apple.com/research/pruning-large-language>) | Publication | Official page |
 | 2025‑06‑30 | [Evaluating Long Range Dependency Handling in Code Generation LLMs](<https://machinelearning.apple.com/research/evaluating-long-range>) | Publication | Official page |
 | 2025‑06‑30 | [ETVA\: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering](<https://machinelearning.apple.com/research/etva>) | Publication | Official page |
-| 2025‑06‑30 | [STARFlow\: Scaling Latent Normalizing Flows for High-resolution Image Synthesis](<https://machinelearning.apple.com/research/starflow>) | Publication | Official page |
 | 2025‑06‑30 | [From Interaction to Impact\: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts](<https://machinelearning.apple.com/research/towards-safer-ai-agents>) | Publication | Official page |
 | 2025‑06‑30 | [Contrastive Localized Language-Image Pre-Training](<https://machinelearning.apple.com/research/contrastive-localized>) | Publication | Official page |
 | 2025‑06‑30 | [Cavia\: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](<https://machinelearning.apple.com/research/cavia>) | Publication | Official page |
@@ -408,6 +406,7 @@
 | 2025‑06‑27 | [Normalizing Flows are Capable Generative Models](<https://machinelearning.apple.com/research/normalizing-flows>) | Publication | Official page |
 | 2025‑06‑27 | [INRFlow\: Flow Matching for INRs in Ambient Space](<https://machinelearning.apple.com/research/flow-matching>) | Publication | Official page |
 | 2025‑06‑27 | [Disentangled Safety Adapters Enable Efficient Guardrails and Flexible Inference-Time Alignment](<https://machinelearning.apple.com/research/disentangled-safety>) | Publication | Official page |
+| 2025‑06‑25 | [DiffuCoder\: Understanding and Improving Masked Diffusion Models for Code Generation](<https://machinelearning.apple.com/research/diffucoder>) | Publication | Official page, Verified affiliation |
 | 2025‑06‑22 | [Synth4Seg – Learning Defect Data Synthesis for Defect Segmentation Using Bi-Level Optimization](<https://machinelearning.apple.com/research/synth4seg>) | Publication | Official page |
 | 2025‑06‑22 | [AbstRaL\: Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking](<https://machinelearning.apple.com/research/abstral>) | Publication | Official page |
 | 2025‑06‑20 | [Scaling Laws for Forgetting During Finetuning with Pretraining Data Injection](<https://machinelearning.apple.com/research/scaling-laws>) | Publication | Official page |
@@ -415,6 +414,7 @@
 | 2025‑06‑13 | [Discriminating Form and Meaning in Multilingual Models with Minimal-Pair ABX Tasks](<https://machinelearning.apple.com/research/discriminating-form>) | Publication | Official page |
 | 2025‑06‑12 | [CSLAN\: Cross-Species Latent Alignment Network for Trauma-Related Cell-Type Classification](<https://doi.org/10.1101/2025.06.09.655966>) | Preprint | OpenAlex |
 | 2025‑06‑11 | [The Illusion of Thinking\: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](<https://machinelearning.apple.com/research/illusion-of-thinking>) | Publication | Official page |
+| 2025‑06‑06 | [STARFlow\: Scaling Latent Normalizing Flows for High-resolution Image Synthesis](<https://machinelearning.apple.com/research/starflow>) | Publication | Official page, Verified affiliation |
 | 2025‑06‑05 | [Beyond Text Compression\: Evaluating Tokenizers Across Scales](<https://machinelearning.apple.com/research/beyond-text-compression>) | Publication | Official page |
 | 2025‑06‑05 | [Improve Vision Language Model Chain-of-thought Reasoning](<https://machinelearning.apple.com/research/chain-of-thought>) | Publication | Official page |
 | 2025‑06‑05 | [Voice Quality Dimensions as Interpretable Primitives for Speaking Style for Atypical Speech and Affect](<https://machinelearning.apple.com/research/voice-quality>) | Publication | Official page |

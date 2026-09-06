@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `325`
+- Papers: `328`
 - Latest: `2026-09-02`
 - [Back to README](../../README.md#baidu)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
+| 2026‑09‑02 | [NE-R1\: Enhancing Named Entity Recognition Model via Reinforcement Learning](<https://arxiv.org/abs/2609.02366v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [Virtual ta’lim muhiti asosida ispan tilini o‘qitishning innovatsion modellari](<https://doi.org/10.67895/9t6y9z11>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [O‘zbek tilini ikkinchi til sifatida o‘qitishda milliy realiyalarning lingvodidaktik imkoniyatlari](<https://doi.org/10.67895/mxqc5r91>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Oʻzbekistonda chet elliklarga turk tilini oʻqitish usullari va ta’lim jarayonida muammolar](<https://doi.org/10.67895/7pa53m96>) | Conference paper | OpenAlex |
@@ -19,6 +20,7 @@
 | 2026‑09‑01 | [Inson tana tajribasi va uning maqollarda aks etishi](<https://doi.org/10.67895/w9e3sk51>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Chet tilini o‘qitishda “ha” va “yo‘q” so‘z ma’nolarining berilishi xususida](<https://doi.org/10.67895/19h48y33>) | Conference paper | OpenAlex |
 | 2026‑08‑30 | [ICEGR\: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](<https://arxiv.org/abs/2608.29652>) | Preprint | OpenAlex |
+| 2026‑08‑20 | [OmegaUse-SOP\: SOP Engineering for Professional Computer Use from Human Demonstrations](<https://arxiv.org/abs/2609.02149v2>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](<https://doi.org/10.1117/12.3121525>) | Conference abstract | OpenAlex |
 | 2026‑08‑11 | [Understanding SLAM Systems through a Unified Design Space\: Taxonomy, Systemic Limits, and Emerging Directions](<https://doi.org/10.5281/zenodo.21891936>) | Preprint | OpenAlex |
 | 2026‑08‑10 | [Attention-constrained diffusion-prior super-resolution for scan-free terahertz focal-plane-array imaging](<https://doi.org/10.1364/oe.608298>) | Article | OpenAlex |
@@ -199,6 +201,7 @@
 | 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://huggingface.co/papers/2509.24945>) | Paper | Hugging Face |
 | 2025‑09‑28 | [Knowledge-Level Consistency Reinforcement Learning\: Dual-Fact Alignment for Long-Form Factuality](<https://huggingface.co/papers/2509.23765>) | Technical report | Official page |
 | 2025‑09‑27 | [Design of Intelligent Report Automatic Generation System and Optimization of Generative Algorithm in Power Business Scenarios](<https://doi.org/10.1109/actce66599.2025.00036>) | Article | OpenAlex |
+| 2025‑09‑19 | [Qianfan-VL\: Domain-Enhanced Universal Vision-Language Models](<https://arxiv.org/abs/2509.18189>) | Paper | Verified affiliation |
 | 2025‑09‑12 | [ERNIE 4\.5 Gets a Major Inference Speed Boost](<https://ernie.baidu.com/blog/posts/plas/>) | Technical report | Official page |
 | 2025‑09‑01 | [Endogenous Recovery via Within-modality Prototypes for Incomplete Multimodal Hashing](<https://doi.org/10.24963/ijcai.2025/281>) | Article | OpenAlex |
 | 2025‑09‑01 | [Indirect Online Preference Optimization via Reinforcement Learning](<https://doi.org/10.24963/ijcai.2025/61>) | Article | OpenAlex |

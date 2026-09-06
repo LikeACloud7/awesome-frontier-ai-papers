@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `886`
+- Papers: `901`
 - Latest: `2026-09-02`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -18,12 +18,18 @@
 | 2026‑08‑30 | [ReNFT\: Repairing Mode Collapse in Reward Post-Training via Internal Probability-Mass Recalibration](<https://arxiv.org/abs/2609.00061v1>) | Paper | Verified affiliation |
 | 2026‑08‑30 | [Higher-Dimensional Rotary Position Embedding](<https://arxiv.org/abs/2608.29715v1>) | Paper | Verified affiliation |
 | 2026‑08‑29 | [917Dhj/DeepPaperNote\: DeepPaperNote v2\.3\.0 — Your paper notes, now in English](<https://doi.org/10.5281/zenodo.21512071>) | Software | OpenAlex |
+| 2026‑08‑29 | [AlgoWorlds\: Benchmarking Tool Use for Global Optimization in Algorithmic Worlds](<https://arxiv.org/abs/2608.29397v1>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [Dynamic Important Example Mining for Reinforcement Finetuning](<https://huggingface.co/papers/2608.29252>) | Technical report | Official page |
 | 2026‑08‑28 | [Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](<https://arxiv.org/abs/2608.10954>) | Article | OpenAlex |
+| 2026‑08‑28 | [SocialBuddy\: Tailoring Search Agent for Social Scenarios](<https://arxiv.org/abs/2609.01641v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [ContextPilot\: Teaching Agents for Proactive Context Management via Fine-grained RL](<https://huggingface.co/papers/2608.28476>) | Technical report | Official page |
 | 2026‑08‑27 | [Blind Men and the Elephant\: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge](<https://huggingface.co/papers/2608.28478>) | Technical report | Official page |
+| 2026‑08‑27 | [Thinking on Shots\: Consistent Multi-Shot Video Editing with Agentic Reasoning](<https://arxiv.org/abs/2608.26809v1>) | Paper | Verified affiliation |
+| 2026‑08‑27 | [Not Just Reason, Not Just Scan\: Reinforcement Learning for Proactive Scientific Error Verification over Academic Paper](<https://arxiv.org/abs/2608.26596v1>) | Paper | Verified affiliation |
+| 2026‑08‑27 | [From Atomic to Agentic\: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities](<https://arxiv.org/abs/2608.26950v1>) | Paper | Verified affiliation |
 | 2026‑08‑26 | [Video-IFBench\: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](<https://arxiv.org/abs/2608.25529>) | Preprint | OpenAlex |
 | 2026‑08‑26 | [Integrating human linguistic insights into AI\: theory-driven representation for multilingual text-to-speech](<https://arxiv.org/abs/2204.07228>) | Article | OpenAlex |
+| 2026‑08‑26 | [Controllable Affective Generation via Latent Vector Steering](<https://arxiv.org/abs/2608.25569v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [PiT\: Progressive Diffusion Transformer](<https://doi.org/10.1016/j.patcog.2026.114732>) | Article | OpenAlex |
 | 2026‑08‑24 | [WeMM-Embedding\: WeChat Multi-Modal Embedding Technical Report](<https://arxiv.org/abs/2608.24053>) | Preprint | Official page, OpenAlex |
 | 2026‑08‑24 | [GameWAM\: A World Action Model for Video Games](<https://huggingface.co/papers/2608.26200>) | Technical report | Official page |
@@ -136,6 +142,8 @@
 | 2026‑07‑15 | [Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience](<https://doi.org/10.1145/3805712.3809549>) | Conference paper | OpenAlex |
 | 2026‑07‑15 | [Decoding Multimodal Cues\: Unveiling the Implicit Meaning Behind Hateful Videos](<https://doi.org/10.1145/3805712.3809637>) | Conference paper | OpenAlex |
 | 2026‑07‑15 | [Chain of Evidence\: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](<https://arxiv.org/abs/2605.01284>) | Conference paper | OpenAlex |
+| 2026‑07‑15 | [RxBrain\: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](<https://arxiv.org/abs/2607.14187>) | Paper | Verified affiliation |
+| 2026‑07‑14 | [Hy-Embodied-VLM-1\.0\: Efficient Physical-World Agents](<https://arxiv.org/abs/2607.12894>) | Paper | Verified affiliation |
 | 2026‑07‑13 | [Harness Handbook\: Making Evolving Agent Harnesses Readable,Navigable, and Editable](<https://huggingface.co/papers/2607.13285>) | Technical report | Official page |
 | 2026‑07‑10 | [Modular Representation Compression\: Adapting LLM Representations for Efficient and Effective Recommendation](<https://doi.org/10.1145/3805712.3809681>) | Article | OpenAlex |
 | 2026‑07‑10 | [When &amp; How to Write for Personalized Demand-aware Query Rewriting in Video Search](<https://arxiv.org/abs/2602.17667>) | Article | OpenAlex |
@@ -153,6 +161,7 @@
 | 2026‑07‑01 | [Optimizing Visual Generative Models via Distribution-wise Rewards](<https://huggingface.co/papers/2607.02291>) | Technical report | Official page |
 | 2026‑07‑01 | [OCC-MLLM-V2\: Joint understanding and generation for occluded objects via multi-modal token learning](<https://doi.org/10.1016/j.jvcir.2026.104887>) | Article | OpenAlex |
 | 2026‑07‑01 | [GaussianFusion\: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](<https://arxiv.org/abs/2607.00746>) | Preprint | OpenAlex |
+| 2026‑07‑01 | [Rosetta\: Composable Native Multimodal Pretraining](<https://arxiv.org/abs/2607.00293>) | Paper | Verified affiliation |
 | 2026‑06‑30 | [When Classic Cache Policies Fail\: Learning-Augmented Replacement for Semantic Retrieval Buffers](<https://huggingface.co/papers/2607.00394>) | Preprint | Official page |
 | 2026‑06‑30 | [Cascaded Code Editing\: Large-Small Model Collaboration for Effective and Efficient Code Editing](<https://doi.org/10.1145/3808101>) | Article | OpenAlex |
 | 2026‑06‑29 | [Securing the AI Agent\: A Unified Framework for Multi-Layer Agent Red Teaming](<https://huggingface.co/papers/2606.31227>) | Technical report | Official page |
@@ -184,9 +193,11 @@
 | 2026‑06‑07 | [FlashMemory-DeepSeek-V4\: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](<https://huggingface.co/papers/2606.09079>) | Technical report | Official page |
 | 2026‑06‑04 | [Stream3D-VLM\: Online 3D Spatial Understanding with Incremental Geometry Priors](<https://huggingface.co/papers/2606.06891>) | Technical report | Official page |
 | 2026‑06‑02 | [World Models Meet Language Models\: On the Complementarity of Concrete and Abstract Reasoning](<https://huggingface.co/papers/2606.03603>) | Technical report | Official page |
+| 2026‑06‑02 | [Skill Is Not Document\: Query-Conditioned Compatibility for LLM Agent Skill Routing](<https://arxiv.org/abs/2606.03565>) | Paper | Verified affiliation |
 | 2026‑06‑01 | [Workflow matters](<https://doi.org/10.1075/target.25081.wan>) | Article | OpenAlex |
 | 2026‑06‑01 | [OCC-MLLM-V1\: Occlusion reasoning with commonsense-guided Multi-modal LLM based agent via internal Chain-of-Thoughts (CoTs)](<https://doi.org/10.1016/j.cviu.2026.104828>) | Article | OpenAlex |
 | 2026‑06‑01 | [DDSE\: Efficient Neural Codec Language Models for speech enhancement with disentangled representations](<https://doi.org/10.1016/j.specom.2026.103428>) | Article | OpenAlex |
+| 2026‑05‑29 | [UniAudio-Token\: Empowering Semantic Speech Tokenizers with General Audio Perception](<https://arxiv.org/abs/2605.31521>) | Paper | Verified affiliation |
 | 2026‑05‑28 | [Hijacking Agent Memory\: Stealthy Trojan Attacks Through Conversational Interaction](<https://arxiv.org/abs/2605.29960>) | Article | OpenAlex |
 | 2026‑05‑28 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](<https://arxiv.org/abs/2605.30407>) | Article | OpenAlex |
 | 2026‑05‑28 | [DiffSpot\: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](<https://arxiv.org/abs/2605.29615>) | Article | OpenAlex |
@@ -205,6 +216,7 @@
 | 2026‑05‑24 | [DebugTA\: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](<https://doi.org/10.65109/gymb4283>) | Article | OpenAlex |
 | 2026‑05‑23 | [WorldCraft\: From Camera Navigation to Object Manipulation in Interactive Video World Models](<https://huggingface.co/papers/2605.25077>) | Preprint | Official page |
 | 2026‑05‑21 | [EvalVerse\: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation](<https://huggingface.co/papers/2605.23271>) | Technical report | Official page |
+| 2026‑05‑21 | [Hy-MT2\: A Family of Fast, Efficient and Powerful Multilingual Translation Models in the Wild](<https://arxiv.org/abs/2605.22064>) | Paper | Verified affiliation |
 | 2026‑05‑19 | [PlanningBench\: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](<https://huggingface.co/papers/2605.20873>) | Technical report | Official page |
 | 2026‑05‑18 | [Code-as-Room\: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](<https://huggingface.co/papers/2605.18451>) | Technical report | Official page |
 | 2026‑05‑14 | [Unlocking Dense Metric Depth Estimation in VLMs](<https://huggingface.co/papers/2605.15876>) | Technical report | Official page |
@@ -338,6 +350,7 @@
 | 2026‑02‑09 | [WorldCompass\: Reinforcement Learning for Long-Horizon World Models](<https://huggingface.co/papers/2602.09022>) | Technical report | Official page |
 | 2026‑02‑09 | [StyleAvatar3D\: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation](<https://doi.org/10.1109/jstsp.2026.3662496>) | Article | OpenAlex |
 | 2026‑02‑08 | [Free()\: Learning to Forget in Malloc-Only Reasoning Models](<https://huggingface.co/papers/2602.08030>) | Technical report | Official page |
+| 2026‑02‑07 | [AngelSlim\: A more accessible, comprehensive, and efficient toolkit for large model compression](<https://arxiv.org/abs/2602.21233>) | Paper | Verified affiliation |
 | 2026‑02‑05 | [ProAct\: Agentic Lookahead in Interactive Environments](<https://huggingface.co/papers/2602.05327>) | Technical report | Official page |
 | 2026‑02‑05 | [OmniVideo-R1\: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](<https://huggingface.co/papers/2602.05847>) | Technical report | Official page |
 | 2026‑02‑04 | [Locas\: Your Models are Principled Initializers of Locally-Supported Parametric Memories](<https://huggingface.co/papers/2602.05085>) | Technical report | Official page |
@@ -361,6 +374,7 @@
 | 2026‑01‑19 | [Make-Your-Anchor+\: Temporal Consistent 2D Avatar Generation via Video Diffusion Prior](<https://doi.org/10.1109/tvcg.2026.3655478>) | Article | OpenAlex |
 | 2026‑01‑15 | [GFM4GA\: Graph Foundation Model for Group Anomaly Detection](<http://arxiv.org/abs/2601.10193>) | Article | OpenAlex |
 | 2026‑01‑12 | [TAG-MoE\: Task-Aware Gating for Unified Generative Mixture-of-Experts](<https://huggingface.co/papers/2601.08881>) | Technical report | Official page |
+| 2026‑01‑12 | [Sherry\: Hardware-Efficient 1\.25-Bit Ternary Quantization via Fine-grained Sparsification](<https://arxiv.org/abs/2601.07892>) | Paper | Verified affiliation |
 | 2026‑01‑08 | [AT^2PO\: Agentic Turn-based Policy Optimization via Tree Search](<https://huggingface.co/papers/2601.04767>) | Technical report | Official page |
 | 2026‑01‑07 | [TCAndon-Router\: Adaptive Reasoning Router for Multi-Agent Collaboration](<https://huggingface.co/papers/2601.04544>) | Technical report | Official page |
 | 2026‑01‑07 | [165 - GRAM-R$^2$\: Self-Training Generative Foundation Reward Models for Reward Reasoning](<https://doi.org/10.48448/6mng-1s85>) | Other | OpenAlex |
@@ -392,6 +406,7 @@
 | 2025‑12‑31 | [Position Paper\: Artificial Intelligence in Medical Image Analysis\: Advances, Clinical Translation, and Emerging Frontiers](<https://doi.org/10.1109/jbhi.2025.3649496>) | Article | OpenAlex |
 | 2025‑12‑30 | [Youtu-LLM\: Unlocking the Native Agentic Potential for Lightweight Large Language Models](<https://huggingface.co/papers/2512.24618>) | Technical report | Official page |
 | 2025‑12‑30 | [Youtu-Agent\: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](<https://huggingface.co/papers/2512.24615>) | Technical report | Official page |
+| 2025‑12‑30 | [HY-MT1\.5 Technical Report](<https://arxiv.org/abs/2512.24092>) | Paper | Verified affiliation |
 | 2025‑12‑29 | [Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling](<https://huggingface.co/papers/2512.23959>) | Technical report | Official page |
 | 2025‑12‑29 | [YOLO-Master\: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection](<https://huggingface.co/papers/2512.23273>) | Technical report | Official page |
 | 2025‑12‑28 | [Diversity or Precision? A Deep Dive into Next Token Prediction](<https://huggingface.co/papers/2512.22955>) | Technical report | Official page |

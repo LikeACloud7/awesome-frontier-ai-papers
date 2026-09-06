@@ -1,9 +1,15 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `553`
+- Papers: `557`
 - Latest: `2026-09-03`
 - [Back to README](../../README.md#huaweinoah)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [Bayesian Optimization, Reinforcement Learning, &amp; Generative Model Research](<https://github.com/huawei-noah/HEBO/blob/master/MCBO/paper_results/images/rank_symmetry/check_rank_dist_symmetry_Model_AcqOpt._TR.pdf>) | Technical report | Official repo |
 
 ## 2026
 
@@ -25,12 +31,15 @@
 | 2026‑08‑26 | [Semantic Layer-Enabled AI](<https://doi.org/10.1109/mc.2026.3708637>) | Article | OpenAlex |
 | 2026‑08‑26 | [Beyond Scaling\: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory](<https://arxiv.org/abs/2608.25570>) | Preprint | OpenAlex |
 | 2026‑08‑26 | [AsymSpec\: Context-Asymmetric Speculative Decoding for Agentic LLMs](<https://arxiv.org/abs/2608.26004v1>) | Paper | Verified affiliation |
+| 2026‑08‑26 | [Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence](<https://arxiv.org/abs/2608.25905v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [ChorusTIC\: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning](<https://arxiv.org/abs/2608.24033>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [What Proves You Wrong\: Benchmarking Language Models on Falsifiable Research Ideation](<https://arxiv.org/abs/2608.22948>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [Progressive representation stabilization and alignment for cross-modal remote sensing image-text retrieval](<https://doi.org/10.1016/j.sigpro.2026.110887>) | Article | OpenAlex |
 | 2026‑08‑24 | [HAP\: Head-Adaptive Visual Token Pruning via Cross-Modal Alignment](<https://arxiv.org/abs/2608.23921v1>) | Paper | Verified affiliation |
 | 2026‑08‑24 | [ENCORE\: Entropy-Guided Cropping and Attention Regularization for Robust Vision--Language Understanding](<https://arxiv.org/abs/2608.22996v1>) | Paper | Verified affiliation |
+| 2026‑08‑24 | [Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation](<https://arxiv.org/abs/2608.23400v1>) | Paper | Verified affiliation |
 | 2026‑08‑23 | [Vision-Language Model Based Transfer Learning for Historical Document Recognition](<https://doi.org/10.1007/978-3-032-36039-7_24>) | Conference paper | OpenAlex |
+| 2026‑08‑23 | [Barbell\: An Extensible Generator of On-demand Loads for Interactive Cloud Services](<https://doi.org/10.1007/978-981-92-4805-6_4>) | Conference paper | OpenAlex |
 | 2026‑08‑19 | [UTPTrack\: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking](<https://doi.org/10.1016/j.patcog.2026.114652>) | Article | OpenAlex |
 | 2026‑08‑18 | [Multi-Feature Fusion Based Adaptive Surge Detection Method for Aero-Engine Compressors](<https://doi.org/10.3390/aerospace13080734>) | Article | OpenAlex |
 | 2026‑08‑18 | [Mocap Denoising via Sparsity Optimization on High‐Order Motion Feature](<https://doi.org/10.1111/cgf.70585>) | Article | OpenAlex |

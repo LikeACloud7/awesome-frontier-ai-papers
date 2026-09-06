@@ -1,7 +1,7 @@
 # Moonshot/Kimi Papers
 
 - Region: `China`
-- Papers: `21`
+- Papers: `26`
 - Latest: `2026-07-27`
 - [Back to README](../../README.md#moonshotkimi)
 
@@ -9,7 +9,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [Your tool implementation](<https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [WorldVQA](<https://github.com/MoonshotAI/WorldVQA/blob/master/paper/worldvqa.pdf>) | Technical report | Official repo |
 | n\.d\. | [To use instant mode, pass {"thinking" = {"type"\:"disabled"}}](<https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [Kimi-Linear](<https://github.com/MoonshotAI/Kimi-Linear/blob/master/tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [--- 1\. Load Model ---](<https://github.com/MoonshotAI/Kimi-Audio/blob/master/assets/kimia_report.pdf>) | Technical report | Official repo |
 
 ## 2026
 
@@ -33,11 +37,12 @@
 | 2025‑09‑26 | [Kimi-Dev\: Agentless Training as Skill Prior for SWE-Agents](<https://huggingface.co/papers/2509.23045>) | Technical report | Official page |
 | 2025‑07‑28 | [Kimi K2\: Open Agentic Intelligence](<https://huggingface.co/papers/2507.20534>) | Paper | Hugging Face |
 | 2025‑05‑19 | [G1\: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](<https://huggingface.co/papers/2505.13426>) | Technical report | Official page |
+| 2025‑05‑06 | [CombiBench\: Benchmarking LLM Capability for Combinatorial Mathematics](<https://arxiv.org/abs/2505.03171>) | Paper | Verified affiliation |
 | 2025‑04‑25 | [Kimi-Audio Technical Report](<https://huggingface.co/papers/2504.18425>) | Technical report | Official page |
 | 2025‑04‑15 | [Kimina-Prover Preview\: Towards Large Formal Reasoning Models with Reinforcement Learning](<https://huggingface.co/papers/2504.11354>) | Technical report | Official page |
 | 2025‑04‑10 | [Kimi-VL Technical Report](<https://huggingface.co/papers/2504.07491>) | Technical report | Official page |
 | 2025‑02‑24 | [Muon is Scalable for LLM Training](<https://huggingface.co/papers/2502.16982>) | Technical report | Official page |
-| 2025‑02‑18 | [MoBA\: Mixture of Block Attention for Long-Context LLMs](<https://huggingface.co/papers/2502.13189>) | Technical report | Official page |
+| 2025‑02‑18 | [MoBA\: Mixture of Block Attention for Long-Context LLMs](<https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf>) | Technical report | Official page, Official repo |
 | 2025‑01‑21 | [Kimi k1\.5\: Scaling Reinforcement Learning with LLMs](<https://huggingface.co/papers/2501.12599>) | Technical report | Official page |
 
 ## 2024
