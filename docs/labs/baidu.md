@@ -1,17 +1,26 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `328`
-- Latest: `2026-09-02`
+- Papers: `339`
+- Latest: `2026-09-24`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑24 | [A Survey on Parallel Reasoning](<http://arxiv.org/abs/2510.12164>) | Article | OpenAlex |
+| 2026‑09‑22 | [Coupled characteristics and operational optimization of a high-pressure hydrogen cascade fast refueling system](<https://doi.org/10.1016/j.ijhydene.2026.157608>) | Article | OpenAlex |
+| 2026‑09‑20 | [MuSeR\: Scalable Long-sequence Recommendation with Multi-interest Modeling](<https://arxiv.org/abs/2609.23677v1>) | Paper | Verified affiliation |
+| 2026‑09‑13 | [Tensos\: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers](<https://doi.org/10.1145/3832810.3832861>) | Conference paper | OpenAlex |
+| 2026‑09‑10 | [SWRouter\: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations](<https://arxiv.org/abs/2609.11414>) | Preprint | OpenAlex |
+| 2026‑09‑09 | [OCL-Detector\: Artifact for "One Click to Leak\: Characterizing the Real-World Usage and Threat Impact of MNO-based Single Sign-On Websites"](<https://doi.org/10.5281/zenodo.22669707>) | Software | OpenAlex |
+| 2026‑09‑08 | [DynaStyle\: Mitigating Content Leakage by Dynamic Layer Routing in Stylized Image Generation](<https://doi.org/10.1145/3842745>) | Article | OpenAlex |
+| 2026‑09‑06 | [Entity-Driven Knowledge Compression for Question Answering on Long Contexts](<https://doi.org/10.1007/978-3-032-37667-1_3>) | Conference paper | OpenAlex |
 | 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
 | 2026‑09‑02 | [NE-R1\: Enhancing Named Entity Recognition Model via Reinforcement Learning](<https://arxiv.org/abs/2609.02366v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [Virtual ta’lim muhiti asosida ispan tilini o‘qitishning innovatsion modellari](<https://doi.org/10.67895/9t6y9z11>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [Stay in Character, Stay Safe\: Dual-Cycle Adversarial Self-Evolution for Role-Playing Agents](<https://doi.org/10.24963/ijcai.2026/24>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [O‘zbek tilini ikkinchi til sifatida o‘qitishda milliy realiyalarning lingvodidaktik imkoniyatlari](<https://doi.org/10.67895/mxqc5r91>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Oʻzbekistonda chet elliklarga turk tilini oʻqitish usullari va ta’lim jarayonida muammolar](<https://doi.org/10.67895/7pa53m96>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Oʻzbek tili darslari samaradorligini oshirishda badiiy matndan foydalanishning yangicha usullari](<https://doi.org/10.67895/gzm2xa03>) | Conference paper | OpenAlex |
@@ -19,7 +28,9 @@
 | 2026‑09‑01 | [Lotin tilining diplomatiya sohasida qo‘llanish xususiyatlari](<https://doi.org/10.67895/tw2y4725>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Inson tana tajribasi va uning maqollarda aks etishi](<https://doi.org/10.67895/w9e3sk51>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Chet tilini o‘qitishda “ha” va “yo‘q” so‘z ma’nolarining berilishi xususida](<https://doi.org/10.67895/19h48y33>) | Conference paper | OpenAlex |
+| 2026‑08‑31 | [BRC-Net\: Few-shot medical image segmentation via region calibration and boundary purification](<https://doi.org/10.1016/j.eswa.2026.134209>) | Article | OpenAlex |
 | 2026‑08‑30 | [ICEGR\: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](<https://arxiv.org/abs/2608.29652>) | Preprint | OpenAlex |
+| 2026‑08‑28 | [Encore\: Infinite Audio-Video Generation with Adaptive Signal Routing](<https://arxiv.org/abs/2609.04249v1>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [OmegaUse-SOP\: SOP Engineering for Professional Computer Use from Human Demonstrations](<https://arxiv.org/abs/2609.02149v2>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](<https://doi.org/10.1117/12.3121525>) | Conference abstract | OpenAlex |
 | 2026‑08‑11 | [Understanding SLAM Systems through a Unified Design Space\: Taxonomy, Systemic Limits, and Emerging Directions](<https://doi.org/10.5281/zenodo.21891936>) | Preprint | OpenAlex |
@@ -94,7 +105,7 @@
 | 2026‑03‑26 | [RefAlign\: Representation Alignment for Reference-to-Video Generation](<https://huggingface.co/papers/2603.25743>) | Technical report | Official page |
 | 2026‑03‑25 | [PP-OCRv5\: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](<http://arxiv.org/abs/2603.24373>) | Article | OpenAlex |
 | 2026‑03‑19 | [SAMA\: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](<https://huggingface.co/papers/2603.19228>) | Technical report | Official page |
-| 2026‑03‑19 | [dTRPO\: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](<https://huggingface.co/papers/2603.18806>) | Paper | Hugging Face |
+| 2026‑03‑19 | [dTRPO\: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](<https://arxiv.org/abs/2603.18806>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑03‑14 | [SR-KI\: Scalable and Real-Time Knowledge Integration into LLMs via Supervised Attention](<https://doi.org/10.1609/aaai.v40i41.40747>) | Article | OpenAlex |
 | 2026‑03‑14 | [EM-KD\: Distilling Efficient Multimodal Large Language Model with Unbalanced Vision Tokens](<https://doi.org/10.1609/aaai.v40i25.39254>) | Article | OpenAlex |
 | 2026‑03‑14 | [Inference Scaling Law for Retrieval Augmented Generation](<https://doi.org/10.1609/aaai.v40i19.38692>) | Article | OpenAlex |
@@ -198,7 +209,7 @@
 | 2025‑10‑10 | [AlignX\: Advancing Multilingual Large Language Models with Multilingual Representation Alignment](<https://doi.org/10.48448/6ms1-w020>) | Other | OpenAlex |
 | 2025‑10‑01 | [Pre-trained molecular language models with random functional group masking](<https://doi.org/10.1038/s44387-025-00029-3>) | Article | OpenAlex |
 | 2025‑10‑01 | [Guiding Evolution of Artificial Life Using Vision-Language Models](<https://doi.org/10.1162/isal.a.850>) | Article | OpenAlex |
-| 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://huggingface.co/papers/2509.24945>) | Paper | Hugging Face |
+| 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://arxiv.org/abs/2509.24945>) | Paper | Hugging Face, Verified affiliation |
 | 2025‑09‑28 | [Knowledge-Level Consistency Reinforcement Learning\: Dual-Fact Alignment for Long-Form Factuality](<https://huggingface.co/papers/2509.23765>) | Technical report | Official page |
 | 2025‑09‑27 | [Design of Intelligent Report Automatic Generation System and Optimization of Generative Algorithm in Power Business Scenarios](<https://doi.org/10.1109/actce66599.2025.00036>) | Article | OpenAlex |
 | 2025‑09‑19 | [Qianfan-VL\: Domain-Enhanced Universal Vision-Language Models](<https://arxiv.org/abs/2509.18189>) | Paper | Verified affiliation |
@@ -234,8 +245,8 @@
 | 2025‑06‑10 | [TexGarment\: Consistent Garment UV Texture Generation via Efficient 3D Structure-Guided Diffusion Transformer](<https://doi.org/10.1109/cvpr52734.2025.02474>) | Article | OpenAlex |
 | 2025‑06‑10 | [Re-HOLD\: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model](<https://doi.org/10.1109/cvpr52734.2025.01635>) | Article | OpenAlex |
 | 2025‑06‑10 | [OpenHumanVid\: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation](<https://doi.org/10.1109/cvpr52734.2025.00726>) | Article | OpenAlex |
+| 2025‑06‑10 | [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](<https://doi.org/10.1109/iccv51701.2025.02338>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [DistinctAD\: Distinctive Audio Description Generation in Contexts](<https://doi.org/10.1109/cvpr52734.2025.01267>) | Article | OpenAlex |
-| 2025‑06‑10 | [Low-Biased General Annotated Dataset Generation](<https://doi.org/10.1109/cvpr52734.2025.02338>) | Article | OpenAlex |
 | 2025‑06‑10 | [Are Images Indistinguishable to Humans Also Indistinguishable to Classifiers?](<https://doi.org/10.1109/cvpr52734.2025.02681>) | Article | OpenAlex |
 | 2025‑06‑09 | [MA-FSAR\: Multimodal Adaptation of CLIP for few-shot action recognition](<https://doi.org/10.1016/j.patcog.2025.111902>) | Article | OpenAlex |
 | 2025‑05‑30 | [A Joint Learning of Force Feedback of Robotic Manipulation and Textual Cues for Granular Materials Classification](<https://doi.org/10.1109/lra.2025.3575322>) | Article | OpenAlex |

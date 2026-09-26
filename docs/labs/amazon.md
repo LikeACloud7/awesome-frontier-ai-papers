@@ -1,46 +1,131 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1426`
-- Latest: `2026-09-04`
+- Papers: `1563`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#amazon)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [Brute force approach to calculate the coset probability](<https://github.com/amazon-science/LatticeAlgorithms.jl/blob/main/examples/papers/Approximate_maximum_likelihood_decoding_with_K_minimum_weight_matchings/plots/fig_qubit_surf_a.pdf>) | Technical report | Official repo |
+| n\.d\. | [the paper "Meta-Learning the Difference\: Preparing Large Language Models for Efficient Adaptation"](<https://github.com/amazon-science/meta-learning-the-difference/blob/main/paper.pdf>) | Technical report | Official repo |
+| n\.d\. | [Insert-Optimized Implementation of Streaming Data Sketches](<https://github.com/amazon-science/Insert-Optimized-Data-Sketches/blob/main/figures/CountSketch_insert_final_vs_papers.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Separating AI-assisted authoring from governed execution through specification-driven composition A design framework and industrial experience report for explainable automation in regulated data transformation](<https://doi.org/10.21203/rs.3.rs-10898472/v1>) | Preprint | OpenAlex |
+| 2026‑09‑24 | [Representation Control for Large Language Models\: Survey and Research Challenges](<https://doi.org/10.1145/3846173>) | Article | OpenAlex |
+| 2026‑09‑24 | [Rufus-Air\: An Open LLM Post-Training Recipe](<https://arxiv.org/abs/2609.29421v1>) | Paper | Verified affiliation |
+| 2026‑09‑24 | [An Empirical Study of VLM Pipelines for Long-Document QA](<https://arxiv.org/abs/2609.29933v1>) | Paper | Verified affiliation |
+| 2026‑09‑23 | [Perception and Interaction Systems](<https://doi.org/10.1007/978-3-032-33669-9_3>) | Book chapter | OpenAlex |
+| 2026‑09‑23 | [Integration and Control Systems](<https://doi.org/10.1007/978-3-032-33669-9_5>) | Book chapter | OpenAlex |
+| 2026‑09‑23 | [DistTDT\: distributed terminological decision tree learning](<https://doi.org/10.1007/s10115-026-02891-2>) | Article | OpenAlex |
+| 2026‑09‑23 | [Category mis-routing in LLM query planners\: A reproducible failure mode and a label-free audit for e-commerce search](<https://doi.org/10.1016/j.ipm.2026.105174>) | Article | OpenAlex |
+| 2026‑09‑23 | [Agentic AI Architectures and Models for Humanoid Robots](<https://doi.org/10.1007/978-3-032-33669-9_4>) | Book chapter | OpenAlex |
+| 2026‑09‑22 | [Special Issue on the Workshop on Measurements, Modeling, and Metrics for Carbon-Aware Computing (CarbonMetrics 2026)](<https://doi.org/10.1145/3848038.3848039>) | Editorial | OpenAlex |
+| 2026‑09‑22 | [Breaking the Downstream Bottleneck\: Transitioning to AI-Native DevOps](<https://doi.org/10.3390/software5040041>) | Article | OpenAlex |
+| 2026‑09‑22 | [Agentic AI for Automated Sensitivity Analysis of Missing Not at Random Data in Patient-Reported Outcome Measures\: A Simulation Study](<https://doi.org/10.54103/2282-0930/31766>) | Article | OpenAlex |
+| 2026‑09‑22 | [Greedy Decoding Is Not Precision-Invariant\: Cross-Precision Output Divergence in LLM Inference](<https://arxiv.org/abs/2609.26621v1>) | Paper | Verified affiliation |
+| 2026‑09‑20 | [Hamm-Grams\: An Algorithm for Mining Regular Expressions of Bytes](<https://arxiv.org/abs/2607.01445>) | Book chapter | OpenAlex |
+| 2026‑09‑18 | [CliMA/ClimaAtmos\.jl\: v0\.42\.11](<https://doi.org/10.5281/zenodo.22836577>) | Software | OpenAlex |
+| 2026‑09‑18 | [The Impact of Artificial Intelligence on Labor, Employment Contracts, and Professional Identity](<https://doi.org/10.4018/979-8-3373-4642-7.ch006>) | Book chapter | OpenAlex |
+| 2026‑09‑18 | [Secure and scalable IoT device management with blockchain, K-anonymity, and deep reinforcement learning](<https://doi.org/10.1080/23737484.2026.2730611>) | Article | OpenAlex |
+| 2026‑09‑18 | [Enabling Technologies](<https://doi.org/10.4018/979-8-3373-8352-1.ch005>) | Book chapter | OpenAlex |
+| 2026‑09‑18 | [A Nonasymptotic Theory of Seminorm Lyapunov Stability\: From Deterministic to Stochastic Iterative Algorithms](<http://arxiv.org/abs/2502.14208>) | Article | OpenAlex |
+| 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
+| 2026‑09‑17 | [CliMA/ClimaLand\.jl\: v1\.12\.2](<https://doi.org/10.5281/zenodo.22816316>) | Software | OpenAlex |
+| 2026‑09‑17 | [Autonomous governance integrating agentic AI and zero trust for intelligent cybersecurity in distributed enterprise ecosystems](<https://doi.org/10.1007/s43926-026-00497-2>) | Article | OpenAlex |
+| 2026‑09‑17 | [Don't Mask the Environment\: Observation Supervision Changes How Agents Explore Under RL](<https://arxiv.org/abs/2609.20715v1>) | Paper | Verified affiliation |
+| 2026‑09‑17 | [Attention-Aware Routing\: Coupling Routing and Attention in MoEs](<https://arxiv.org/abs/2609.20974v1>) | Paper | Verified affiliation |
+| 2026‑09‑16 | [CliMA/ClimaCore\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22800579>) | Software | OpenAlex |
+| 2026‑09‑16 | [CH-Earth/summa\: Experimental v4\.4\.0 support model calibration and objective-function workflows](<https://doi.org/10.5281/zenodo.22784538>) | Software | OpenAlex |
+| 2026‑09‑16 | [Compositional Reasoning in Language Models under Reinforcement Learning Post-Training](<https://arxiv.org/abs/2609.19465>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [Memex Re-imagined\: Knowledge Mesh for a Cognitive Age (Preprint)](<https://doi.org/10.5281/zenodo.22772174>) | Book chapter | OpenAlex |
+| 2026‑09‑15 | [Comparative evaluation of large language models for patient-facing information in clear aligner therapy](<https://doi.org/10.25259/apos_146_2026>) | Article | OpenAlex |
+| 2026‑09‑15 | [AutoE2E\: Open-Loop Evaluation of a Map- and Oracle-Route-Conditioned Temporal BEV Planner](<https://doi.org/10.5281/zenodo.22764734>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [Where Should a Document Live\: Context, Representations, or Parameters?](<https://arxiv.org/abs/2609.17346v1>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [CliMA/CloudMicrophysics\.jl\: v0\.40\.0](<https://doi.org/10.5281/zenodo.22755406>) | Software | OpenAlex |
+| 2026‑09‑14 | [EleutherAI/bergson\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22740623>) | Software | OpenAlex |
+| 2026‑09‑12 | [CliMA/ClimaTimeSteppers\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22730008>) | Software | OpenAlex |
+| 2026‑09‑12 | [CliMA/ClimaAtmos\.jl\: v0\.42\.10](<https://doi.org/10.5281/zenodo.22718255>) | Software | OpenAlex |
+| 2026‑09‑12 | [Portfolio Optimization with Covariance from News-Derived Information Networks](<https://doi.org/10.3905/jfds.2026.019>) | Article | OpenAlex |
+| 2026‑09‑11 | [CH-Earth/summa\: Experimental v4\.1\.0 adding spatial domain](<https://doi.org/10.5281/zenodo.22711175>) | Software | OpenAlex |
+| 2026‑09‑11 | [QP-Faith\: a label-free audit for category mis-routing in LLM query planners](<https://doi.org/10.5281/zenodo.22701132>) | Software | OpenAlex |
+| 2026‑09‑11 | [Learning-Augmented Optimization for Strategic Two-Echelon Spare Parts Network Design](<https://arxiv.org/abs/2609.12524v1>) | Paper | Verified affiliation |
+| 2026‑09‑10 | [Overview and Analysis of the RecSys Challenge 2026\: Conversational Music Recommendation](<https://doi.org/10.1145/3842413.3842414>) | Conference paper | OpenAlex |
+| 2026‑09‑10 | [GAUGE\: When Not to Trust LLM-as-a-Judge in User-Simulated Evaluation of Task-Oriented Agents](<https://arxiv.org/abs/2609.12191v1>) | Paper | Verified affiliation |
+| 2026‑09‑10 | [Beyond Solver Verdicts\: Generative Reward Models for Autoformalization](<https://arxiv.org/abs/2609.11085v2>) | Paper | Verified affiliation |
+| 2026‑09‑09 | [Revolutionizing Defense Operations through Collaborative Technologies in Industry 5\.0](<https://doi.org/10.1002/9781394409334.ch20>) | Other | OpenAlex |
+| 2026‑09‑09 | [Consistent, Not Correct\: How LLM Agent Rollback Launders State Corruption into Its Own Blind Spots (research artifact)](<https://doi.org/10.5281/zenodo.22670077>) | Software | OpenAlex |
+| 2026‑09‑09 | [Advances in automated governance\: Mitigating operational and systemic risks in multi-country delivery networks](<https://doi.org/10.51594/gjabr.v4i4.218>) | Article | OpenAlex |
+| 2026‑09‑09 | [UnitBoost\: Managing Compound LLM Systems with a Merge Operator, Not a Model](<https://arxiv.org/abs/2609.09815v1>) | Paper | Verified affiliation |
+| 2026‑09‑09 | [Scaling E-Commerce Attribute Extraction with Parallel Decoding](<https://arxiv.org/abs/2609.09716v2>) | Paper | Verified affiliation |
+| 2026‑09‑09 | [Positional task conditioning for scalable defect detection across product families in large product catalogs](<https://arxiv.org/abs/2609.09567v2>) | Paper | Verified affiliation |
+| 2026‑09‑08 | [aewindle110/DroneWQ\: JOSS submission release](<https://doi.org/10.5281/zenodo.22665734>) | Software | OpenAlex |
+| 2026‑09‑07 | [When Soft Labels Beat Perfect Rewards\: Knowledge Distillation vs\. GRPO](<https://doi.org/10.1007/978-3-032-37685-5_63>) | Conference paper | OpenAlex |
+| 2026‑09‑07 | [The Role of Strategic Planning in Business Success\: A Literature Review](<https://doi.org/10.56201/ijebm.vol.11.no10.2025.pg182.197>) | Article | OpenAlex |
+| 2026‑09‑07 | [LLM-Assisted Logic Rule Learning\: Scaling Human Expertise for Time Series Anomaly Detection in Supply Chain Management](<https://doi.org/10.1007/978-3-032-37685-5_54>) | Conference paper | OpenAlex |
+| 2026‑09‑07 | [Global Compliance Complexities in HR Systems](<https://doi.org/10.47941/hrlj.3961>) | Article | OpenAlex |
+| 2026‑09‑07 | [An LLM-Based Agentic Framework for Industrial Forecasting Workflows](<https://doi.org/10.1007/978-3-032-37685-5_44>) | Conference paper | OpenAlex |
+| 2026‑09‑06 | [Learning Pairwise Cooperation For Large-Scale Vertex Subset Selection\: Dominating Set Problem as Example](<https://doi.org/10.1007/978-3-032-37667-1_38>) | Conference paper | OpenAlex |
+| 2026‑09‑05 | [easystats/insight\: insight 1\.5\.4](<https://doi.org/10.5281/zenodo.22343318>) | Software | OpenAlex |
+| 2026‑09‑05 | [The Assumed Reader\: AI Agents, Hypertext, and the Vulnerable Limits of Interpretation](<https://doi.org/10.1145/3800935.3830883>) | Conference paper | OpenAlex |
+| 2026‑09‑05 | [Substrate-Portable Execution for Production LLM Workflows](<https://arxiv.org/abs/2609.06128v1>) | Paper | Verified affiliation |
 | 2026‑09‑04 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.7](<https://doi.org/10.5281/zenodo.18475447>) | Software | OpenAlex |
 | 2026‑09‑04 | [CliMA/ClimaLand\.jl\: v1\.12\.1](<https://doi.org/10.5281/zenodo.22311300>) | Software | OpenAlex |
 | 2026‑09‑04 | [CliMA/ClimaAtmos\.jl\: v0\.42\.9](<https://doi.org/10.5281/zenodo.22313026>) | Software | OpenAlex |
 | 2026‑09‑04 | [Use of methylene blue discography in transforaminal endoscopic discectomy for cranially migrated lumbar disc herniation\: A case report](<https://doi.org/10.1016/j.radcr.2026.08.035>) | Article | OpenAlex |
+| 2026‑09‑04 | [Intra-Prompt Parallel Decoding for Common-Context Question Answering](<https://arxiv.org/abs/2609.05707v1>) | Paper | Verified affiliation |
+| 2026‑09‑04 | [DI-Bench\: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents](<https://arxiv.org/abs/2609.05776v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [SGD-KV\: Summarization Guided KV Cache Compression](<https://arxiv.org/abs/2609.03235v1>) | Paper | Verified affiliation |
+| 2026‑09‑03 | [Mitra-v2 Technical Report](<https://arxiv.org/abs/2609.04540v1>) | Paper | Verified affiliation |
 | 2026‑09‑02 | [CliMA/ClimaLand\.jl\: v1\.12\.0](<https://doi.org/10.5281/zenodo.22261751>) | Software | OpenAlex |
+| 2026‑09‑02 | [Multi Signer Spatio Temporal Framework for Isolated Sign Language Recognition](<https://doi.org/10.1007/978-3-032-30438-4_22>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [AI-enhanced adaptive virtual screening of large libraries for ligand discovery](<https://doi.org/10.1038/s41587-026-03217-x>) | Article | OpenAlex |
 | 2026‑09‑01 | [scttfrdmn/starburst\: Base Images base-images-20260901](<https://doi.org/10.5281/zenodo.21462615>) | Software | OpenAlex |
+| 2026‑09‑01 | [Large Lemma Miners\: Can LLMs Do Induction Proofs for Hardware?](<https://arxiv.org/abs/2511.02521>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [FossilWriter\: Learning Hypergraph World Models with Latent Narratives for Creative Story Generation](<https://doi.org/10.24963/ijcai.2026/629>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [FedGLoRA\: Grassmann-Manifold Federated Learning via Dual LoRA for Large EEG Models](<https://doi.org/10.24963/ijcai.2026/398>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Data-Driven Persona-Conditioned Agents for A/B Test Simulation](<https://arxiv.org/abs/2609.01038v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [Belief-Calibrated Optimization\: An Explicit World Model for Agentic Optimization](<https://arxiv.org/abs/2609.01861v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators\: Lean 4 Proof Development](<https://doi.org/10.5281/zenodo.22212569>) | Software | OpenAlex |
+| 2026‑08‑31 | [Group Adaptive Clipping Policy Optimization](<https://arxiv.org/abs/2609.00444v1>) | Paper | Verified affiliation |
 | 2026‑08‑29 | [CliMA/ClimaAtmos\.jl\: v0\.42\.8](<https://doi.org/10.5281/zenodo.22153928>) | Software | OpenAlex |
 | 2026‑08‑29 | [mallob\: Mallob Fork that supports UNSAT proof writting over multible preprocessing steps](<https://doi.org/10.5281/zenodo.22163524>) | Software | OpenAlex |
 | 2026‑08‑29 | [Photographic image layout retrieval via representation learning with adaptive ellipse primitives](<https://doi.org/10.1016/j.patcog.2026.114677>) | Article | OpenAlex |
 | 2026‑08‑29 | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](<https://doi.org/10.1016/j.jbi.2026.105095>) | Article | OpenAlex |
+| 2026‑08‑29 | [JudgePanel\: A Compact Judge with Panel Deliberation via Adaptive Multi-Reward Reinforcement Learning](<https://arxiv.org/abs/2608.29168v1>) | Paper | Verified affiliation |
+| 2026‑08‑29 | [A Pinch of SFT, A Dash of RL\: When Reinforcement Learning Helps Long-Horizon Advertising Agents](<https://arxiv.org/abs/2609.22194v1>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [easystats/modelbased\: modelbased 0\.17\.0](<https://doi.org/10.5281/zenodo.22144107>) | Software | OpenAlex |
 | 2026‑08‑28 | [QUORUM\: QUality-Optimized Routing Using Multiple annotators](<https://arxiv.org/abs/2608.27974v1>) | Paper | Verified affiliation |
+| 2026‑08‑28 | [MERIT\: Mitigating Exposure Bias in Generative XMC for User-Interest Propensity Modeling](<https://arxiv.org/abs/2608.28931v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [BrailleBench\: Investigating Multi-Criteria Braille Comprehension in Large Language Models](<https://arxiv.org/abs/2608.27268>) | Preprint | OpenAlex |
 | 2026‑08‑27 | [Active-Voxel Selection for Small-Sample fMRI Decoding\: Dataset-Dependent Preprocessing and the Cost of Cross-Validation Leakage](<https://doi.org/10.21203/rs.3.rs-10828698/v1>) | Preprint | OpenAlex |
+| 2026‑08‑27 | [One Model, Many Minds\: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles](<https://arxiv.org/abs/2608.27338v1>) | Paper | Verified affiliation |
 | 2026‑08‑26 | [CliMA/CloudMicrophysics\.jl\: v0\.38\.2](<https://doi.org/10.5281/zenodo.22104777>) | Software | OpenAlex |
 | 2026‑08‑26 | [Title\: Gene expression, neuroinflammation, and neural plasticity in type 2 diabetes\: Translational insights from exercise and cognitive modulation](<https://doi.org/10.1016/j.neubiorev.2026.106922>) | Article | OpenAlex |
 | 2026‑08‑26 | [Deep learning-based EEG motor imagery signal classification for brain–computer interface applications](<https://doi.org/10.1007/s42452-026-09450-y>) | Article | OpenAlex |
+| 2026‑08‑26 | [Rank-Deviation Quality\: A Distance-Aware Metric for Multi-Answer Retrieval and Ranking Evaluation](<https://arxiv.org/abs/2608.25318v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [easystats/insight\: insight 1\.5\.3](<https://doi.org/10.5281/zenodo.22093445>) | Software | OpenAlex |
 | 2026‑08‑25 | [Supply Chain (SC) Cybersecurity Risk Management Within Industry 4\.0 Environment in Developing Countries](<https://doi.org/10.1108/978-1-80592-849-220261016>) | Book chapter | OpenAlex |
 | 2026‑08‑25 | [Missing physics discovery through fully differentiable finite element-based machine learning](<https://arxiv.org/abs/2507.15787>) | Article | OpenAlex |
+| 2026‑08‑25 | [The Handoff Tax\: Continuing Non-Native Trajectories in LLM Agents](<https://arxiv.org/abs/2608.24358v1>) | Paper | Verified affiliation |
+| 2026‑08‑25 | [Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems](<https://arxiv.org/abs/2608.24361v1>) | Paper | Verified affiliation |
+| 2026‑08‑25 | [AHEAD\: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL](<https://arxiv.org/abs/2608.24114v1>) | Paper | Verified affiliation |
 | 2026‑08‑24 | [BUILDING PRIVACY-FIRST DOCUMENT INTELLIGENCE\: A LOCAL RAG ARCHITECTURE](<https://doi.org/10.5281/zenodo.22098230>) | Article | OpenAlex |
+| 2026‑08‑24 | [Exploit More, Explore Smarter for Budget-Constrained Agentic Search](<https://arxiv.org/abs/2608.23848v1>) | Paper | Verified affiliation |
 | 2026‑08‑21 | [CliMA/ClimaAtmos\.jl\: v0\.42\.7](<https://doi.org/10.5281/zenodo.22036913>) | Software | OpenAlex |
+| 2026‑08‑21 | [Trojaning the Alignment\: Stealthy Backdoor Attacks against Graph Foundation Models](<https://arxiv.org/abs/2608.20991v2>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [PACEShop\: Evaluating Personalized, Actionable, Compositional, and Evidence-grounded Shopping Assistants](<https://arxiv.org/abs/2608.26180v1>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [Hear2Act\: Benchmarking When Prosody Should Change What an Assistant Does](<https://arxiv.org/abs/2608.19515v2>) | Paper | Verified affiliation |
 | 2026‑08‑19 | [AMMO Sessions Server](<https://github.com/amazon-science/ammo/blob/main/docs/AMMO_arXiv_Paper.pdf>) | Technical report | Official repo |
 | 2026‑08‑19 | [Modelling Attribution-Driven Budgeting Systems for High-Intent Consumer Acquisition](<https://doi.org/10.56201/ijssmr.vol.11no6.2025.pg57.73>) | Article | OpenAlex |
 | 2026‑08‑19 | [A Conceptual Framework for Multi-Agent AI Quality Control in The Review of Regulated Documents](<https://doi.org/10.56201/ijssmr.vol.11no8.2025.pg534.557>) | Article | OpenAlex |
+| 2026‑08‑19 | [Metrics That Write Themselves\: Evolving an Evaluator from Its Own Blind Spots](<https://arxiv.org/abs/2608.18744v1>) | Paper | Verified affiliation |
 | 2026‑08‑18 | [CliMA/ClimaCore\.jl\: v0\.15\.3](<https://doi.org/10.5281/zenodo.21987213>) | Software | OpenAlex |
 | 2026‑08‑18 | [EleutherAI/bergson\: v0\.26\.1](<https://doi.org/10.5281/zenodo.21994675>) | Software | OpenAlex |
 | 2026‑08‑17 | [JuliaNLSolvers/NLsolve\.jl\: v5\.0\.0](<https://doi.org/10.5281/zenodo.21985203>) | Software | OpenAlex |
@@ -50,8 +135,7 @@
 | 2026‑08‑15 | [CliMA/ClimaCore\.jl\: v0\.15\.2](<https://doi.org/10.5281/zenodo.21940833>) | Software | OpenAlex |
 | 2026‑08‑15 | [calque\: run Modal-shaped code at AWS scale, unchanged](<https://doi.org/10.5281/zenodo.21953698>) | Software | OpenAlex |
 | 2026‑08‑15 | [Governing Demographic Bias Across AI Retrieval Systems](<https://aisel.aisnet.org/amcis2026/sig_dsa/sig_dsa/5>) | Article | OpenAlex |
-| 2026‑08‑14 | [firedrakeproject/firedrake\: Firedrake\: an automated finite element system](<https://doi.org/10.5281/zenodo.21932028>) | Software | OpenAlex |
-| 2026‑08‑14 | [firedrakeproject/ufl\: UFL\: the Unified Form Language](<https://doi.org/10.5281/zenodo.21932031>) | Software | OpenAlex |
+| 2026‑08‑15 | [Evo-Harness\: Context-to-Harness Skill Compilation for Self-Evolving Agents](<https://arxiv.org/abs/2608.15071v2>) | Paper | Verified affiliation |
 | 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.6](<https://doi.org/10.5281/zenodo.21940590>) | Software | OpenAlex |
 | 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.5](<https://doi.org/10.5281/zenodo.21930837>) | Software | OpenAlex |
 | 2026‑08‑14 | [Review of\: "Multi-View Clustering Goes Federated\: A Survey"](<https://doi.org/10.32388/oobvdj>) | Peer review | OpenAlex |
@@ -60,9 +144,12 @@
 | 2026‑08‑12 | [Toward nonlinear representations with Gaussian-splat manifolds for physics-informed learning](<https://doi.org/10.1038/s41467-026-76254-4>) | Article | OpenAlex |
 | 2026‑08‑12 | [How Far Are LLMs from Real Search\: Rethinking the Complementary Roles of Search and Learning](<https://doi.org/10.1145/3834774>) | Article | OpenAlex |
 | 2026‑08‑12 | [Trie Automata for Constrained Decoding over Large Finite Sets](<https://arxiv.org/abs/2608.12574v1>) | Paper | Verified affiliation |
+| 2026‑08‑12 | [Reasoning Jury\: Multi-Model Consensus for Evaluating Reasoning Traces](<https://arxiv.org/abs/2608.12585v1>) | Paper | Verified affiliation |
 | 2026‑08‑11 | [librosa](<https://doi.org/10.5281/zenodo.21891531>) | Software | OpenAlex |
 | 2026‑08‑11 | [CliMA/ClimaLand\.jl\: v1\.11\.1](<https://doi.org/10.5281/zenodo.21880666>) | Software | OpenAlex |
 | 2026‑08‑11 | [OpenHands/software-agent-sdk\: v1\.42\.0](<https://doi.org/10.5281/zenodo.21895237>) | Software | OpenAlex |
+| 2026‑08‑11 | [MMArt\: A Multi-Perspective Multimodal Dataset for Visual Art Understanding](<https://arxiv.org/abs/2608.10706v2>) | Paper | Verified affiliation |
+| 2026‑08‑11 | [From Interpretability to Control\: Insights from Six Years of the TrustNLP Workshop](<https://arxiv.org/abs/2608.11171v1>) | Paper | Verified affiliation |
 | 2026‑08‑09 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.6](<https://doi.org/10.5281/zenodo.21856115>) | Software | OpenAlex |
 | 2026‑08‑08 | [Artificial intelligence mediated socioemotional support emotional co-regulation and self-regulated learning in higher education](<https://doi.org/10.1007/s44217-026-01985-x>) | Article | OpenAlex |
 | 2026‑08‑08 | [A Comprehensive Review of Malware Detection Techniques in Wireless Sensor Networks](<https://doi.org/10.38124/ijisrt/26aug099>) | Article | OpenAlex |
@@ -146,6 +233,7 @@
 | 2026‑04‑21 | [Expert Upcycling\: Shifting the Compute-Efficient Frontier of Mixture-of-Experts](<https://arxiv.org/abs/2604.19835>) | Article | OpenAlex |
 | 2026‑04‑21 | [Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs](<http://arxiv.org/abs/2510.12995>) | Article | OpenAlex |
 | 2026‑04‑19 | [A Survey on Graph-Based Retrieval-Augmented Generation\: Architectures, Methods, and Applications](<https://doi.org/10.63503/j.ijcma.2026.235>) | Article | OpenAlex |
+| 2026‑04‑12 | [STORM\: End-to-End Referring Multi-Object Tracking in Videos](<https://arxiv.org/abs/2604.10527>) | Paper | Verified affiliation |
 | 2026‑04‑09 | [Reinforcement Learning from Human and AI Feedback for Large Language Model Alignment\: A Review](<https://doi.org/10.63503/j.ijssic.2026.234>) | Article | OpenAlex |
 | 2026‑04‑08 | [Retrieval-Augmented Generation (RAG) for Large Language Models\: A Comprehensive Survey](<https://doi.org/10.63503/j.ijaimd.2026.233>) | Article | OpenAlex |
 | 2026‑04‑05 | [Unmasking Hallucinations\: A Causal Graph-Attention Perspective on Factual Reliability in Large Language Models](<http://arxiv.org/abs/2604.04020>) | Article | OpenAlex |
@@ -193,6 +281,7 @@
 | 2026‑01‑10 | [FedSNA\: a federated learning neuro-spiking and algae-optimized agentic AI framework for real-time fraud detection in cloud-based financial services](<https://doi.org/10.1007/s41870-025-03087-7>) | Article | OpenAlex |
 | 2026‑01‑07 | [Collaborative LLM Numerical Reasoning with Local Data Protection](<https://doi.org/10.48448/33kh-qb70>) | Other | OpenAlex |
 | 2026‑01‑07 | [A Framework for Explainable Artificial Intelligence in Healthcare Using Model-Agnostic Methods](<https://doi.org/10.1109/icmcsi67283.2026.11412454>) | Article | OpenAlex |
+| 2026‑01‑05 | [Talk2Move\: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](<https://arxiv.org/abs/2601.02356>) | Paper | Verified affiliation |
 | 2026‑01‑03 | [Out of distribution detection with attention head masking for multimodal document classification](<https://doi.org/10.1038/s41598-025-32328-9>) | Article | OpenAlex |
 | 2026‑01‑01 | [Unifying Multi-modal Hair Editing via Proxy Feature Blending](<https://doi.org/10.1109/tpami.2026.3656763>) | Article | OpenAlex |
 | 2026‑01‑01 | [Orchestrating Well Analytics with Agentic Intelligence](<https://doi.org/10.3997/2214-4609.202639044>) | Article | OpenAlex |
@@ -208,7 +297,7 @@
 | 2026 | [Internal Representations as Indicators of Hallucinations in Agent Tool Selection](<http://arxiv.org/abs/2601.05214>) | Article | Official page |
 | 2026 | [Hearing between the lines\: Unlocking the reasoning power of LLMs for speech evaluation](<https://www.amazon.science/publications/hearing-between-the-lines-unlocking-the-reasoning-power-of-llms-for-speech-evaluation>) | Publication | Official page |
 | 2026 | [Finny\: A multi-agent system for structured decision-making with LLMs](<https://www.amazon.science/publications/finny-a-multi-agent-system-for-structured-decision-making-with-llms>) | Publication | Official page |
-| 2026 | [Exploring fine-tuning for in-context retrieval and efficient KV-caching in long-context language models](<https://www.amazon.science/publications/exploring-fine-tuning-for-in-context-retrieval-and-efficient-kv-caching-in-long-context-language-models>) | Publication | Official page |
+| 2026 | [Exploring fine-tuning for in-context retrieval and efficient KV-caching in long-context language models](<https://www.amazon.science/publications/exploring-fine-tuning-for-in-context-retrieval-and-efficient-kv-caching-in-long-context-language-models>) | Publication | Official page, Verified affiliation |
 | 2026 | [Domain-specific LLM adaptation\: Bridging personalization and efficiency through synthetic data and optimization](<https://www.amazon.science/publications/domain-specific-llm-adaptation-bridging-personalization-and-efficiency-through-synthetic-data-and-optimization>) | Publication | Official page |
 | 2026 | [Confidence-calibrated small-large language model collaboration for cost-efficient reasoning](<https://www.amazon.science/publications/confidence-calibrated-small-large-language-model-collaboration-for-cost-efficient-reasoning>) | Publication | Official page |
 | 2026 | [APEX-MEM\: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](<https://arxiv.org/abs/2604.14362>) | Article | Official page |
@@ -224,7 +313,7 @@
 | 2026 | [From Unstructured to Structured\: LLM-Guided Attribute Graphs for Entity Search and Ranking](<https://arxiv.org/abs/2604.27410>) | Article | Official page |
 | 2026 | [Accelerating personalization signal learning via synthetic data](<https://www.amazon.science/publications/accelerating-personalization-signal-learning-via-synthetic-data>) | Publication | Official page |
 | 2026 | [A modular LLM framework for explainable price outlier detection](<https://www.amazon.science/publications/a-modular-llm-framework-for-explainable-price-outlier-detection>) | Publication | Official page |
-| 2026 | [When LLMs get significantly worse\: A statistical approach to detect model degradations](<https://www.amazon.science/publications/when-llms-get-significantly-worse-a-statistical-approach-to-detect-model-degradations>) | Publication | Official page |
+| 2026 | [When LLMs get significantly worse\: A statistical approach to detect model degradations](<https://www.amazon.science/publications/when-llms-get-significantly-worse-a-statistical-approach-to-detect-model-degradations>) | Publication | Official page, Verified affiliation |
 | 2026 | [Vision-guided iterative refinement for frontend code generation](<https://www.amazon.science/publications/vision-guided-iterative-refinement-for-frontend-code-generation>) | Publication | Official page |
 | 2026 | [ViG-LLM\: Enhancing visual grounding capabilities in closed-box LLMs for document information extraction without OCR dependencies](<https://www.amazon.science/publications/vig-llm-enhancing-visual-grounding-capabilities-in-closed-box-llms-for-document-information-extraction-without-ocr-dependencies>) | Publication | Official page |
 | 2026 | [VERAFI\: Verified agentic financial intelligence through neurosymbolic policy generation](<https://www.amazon.science/publications/verafi-verified-agentic-financial-intelligence-through-neurosymbolic-policy-generation>) | Publication | Official page |
@@ -232,7 +321,6 @@
 | 2026 | [Test-time efficient pretrained model portfolios for time series forecasting](<https://www.amazon.science/publications/test-time-efficient-pretrained-model-portfolios-for-time-series-forecasting>) | Publication | Official page |
 | 2026 | [Small language models for efficient agentic tool calling\: Outperforming large models with targeted fine-tuning](<https://www.amazon.science/publications/small-language-models-for-efficient-agentic-tool-calling-outperforming-large-models-with-targeted-fine-tuning>) | Publication | Official page |
 | 2026 | [Self-refining vision language model for robotic failure detection and reasoning](<https://www.amazon.science/publications/self-refining-vision-language-model-for-robotic-failure-detection-and-reasoning>) | Publication | Official page |
-| 2026 | [Self-aligned reward\: Towards effective and efficient reasoners](<https://www.amazon.science/publications/self-aligned-reward-towards-effective-and-efficient-reasoners>) | Publication | Official page |
 | 2026 | [SMPRO\: Self-Supervised Visual Preference Alignment via Differentiable Multi-Preference Multi-Group Ranking](<https://doi.org/10.1609/aaai.v40i44.41132>) | Article | Official page |
 | 2026 | [Personality-driven AI agents\: Operationalizing OCEAN traits for human-AI collaboration in the coding domain](<https://www.amazon.science/publications/personality-driven-ai-agents-operationalizing-ocean-traits-for-human-ai-collaboration-in-the-coding-domain>) | Publication | Official page |
 | 2026 | [PRECISE\: Reducing the bias of LLM evaluations using prediction-powered ranking estimation](<https://www.amazon.science/publications/precise-reducing-the-bias-of-llm-evaluations-using-prediction-powered-ranking-estimation>) | Publication | Official page |
@@ -252,7 +340,7 @@
 | 2026 | [Diffusion language model inference with Monte Carlo Tree Search](<https://www.amazon.science/publications/diffusion-language-model-inference-with-monte-carlo-tree-search>) | Publication | Official page |
 | 2026 | [DQA\: Diagnostic question answering for IT support](<https://www.amazon.science/publications/dqa-diagnostic-question-answering-for-it-support>) | Publication | Official page |
 | 2026 | [Context-aware multi-property antibody predictor\: a novel framework integrating text and protein language models](<https://doi.org/10.1038/s41540-026-00723-1>) | Article | Official page |
-| 2026 | [CodeStruct\: Code agents over structured action spaces](<https://www.amazon.science/publications/codestruct-code-agents-over-structured-action-spaces>) | Publication | Official page |
+| 2026 | [CodeStruct\: Code agents over structured action spaces](<https://www.amazon.science/publications/codestruct-code-agents-over-structured-action-spaces>) | Publication | Official page, Verified affiliation |
 | 2026 | [CASPER\: Bridging discrete and continuous prompt optimization through feedback-guided gradient descent](<https://www.amazon.science/publications/casper-bridging-discrete-and-continuous-prompt-optimization-through-feedback-guided-gradient-descent>) | Publication | Official page |
 | 2026 | [ByteFlow\: Language modeling through adaptive byte compression without a tokenizer](<https://www.amazon.science/publications/byteflow-language-modeling-through-adaptive-byte-compression-without-a-tokenizer>) | Publication | Official page |
 | 2026 | [Automated cricket scene classification using vision-language model](<https://www.amazon.science/publications/automated-cricket-scene-classification-using-vision-language-model>) | Publication | Official page |
@@ -268,10 +356,12 @@
 | 2026 | [When speed meets intelligence\: Scalable conversational NER in an ever-evolving world](<https://www.amazon.science/publications/when-speed-meets-intelligence-scalable-conversational-ner-in-an-ever-evolving-world>) | Publication | Official page |
 | 2026 | [When rubrics fail\: Error enumeration as reward in reference-free RL post-training for virtual try-on](<https://www.amazon.science/publications/when-rubrics-fail-error-enumeration-as-reward-in-reference-free-rl-post-training-for-virtual-try-on>) | Publication | Official page |
 | 2026 | [When LLMs read tables carelessly\: Measuring and reducing data referencing errors](<https://www.amazon.science/publications/when-llms-read-tables-carelessly-measuring-and-reducing-data-referencing-errors>) | Publication | Official page |
+| 2026 | [WARP\: Wasserstein-Aligned RAG for population opinions](<https://www.amazon.science/publications/warp-wasserstein-aligned-rag-for-population-opinions>) | Publication | Official page |
 | 2026 | [Visual reasoning through tool-supervised reinforcement learning](<https://www.amazon.science/publications/visual-reasoning-through-tool-supervised-reinforcement-learning>) | Publication | Official page |
 | 2026 | [Visual grounding for object questions](<https://www.amazon.science/publications/visual-grounding-for-object-questions>) | Publication | Official page |
 | 2026 | [ViLL-E\: Video LLM embeddings for retrieval](<https://www.amazon.science/publications/vill-e-video-llm-embeddings-for-retrieval>) | Publication | Official page |
 | 2026 | [VeriCOT\: Neuro-symbolic chain-of-thought validation via logical consistency checks](<https://www.amazon.science/publications/vericot-neuro-symbolic-chain-of-though-validation-via-logical-consistency-checks>) | Publication | Official page |
+| 2026 | [Validation-gated architecture search for self-organizing multi-agent orchestration](<https://www.amazon.science/publications/validation-gated-architecture-search-for-self-organizing-multi-agent-orchestration>) | Publication | Official page |
 | 2026 | [VOFA\: Visual object goal pushing with force-adaptive control for humanoids](<https://www.amazon.science/publications/vofa-visual-object-goal-pushing-with-force-adaptive-control-for-humanoids>) | Publication | Official page |
 | 2026 | [VERGE\: Formal refinement and guidance engine for verifiable LLM reasoning](<https://www.amazon.science/publications/verge-formal-refinement-and-guidance-engine-for-verifiable-llm-reasoning>) | Publication | Official page |
 | 2026 | [VCNAC\: A variable-channel neural audio codec for mono, stereo, and surround sound](<https://www.amazon.science/publications/vcnac-a-variable-channel-neural-audio-codec-for-mono-stereo-and-surround-sound>) | Publication | Official page |
@@ -296,7 +386,9 @@
 | 2026 | [TaTToo\: Tool-augmented thinking PRM for tabular reasoning](<https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning>) | Publication | Official page |
 | 2026 | [TSMOO\: Solving multi-objective experimentation with constrained Thompson sampling](<https://www.amazon.science/publications/tsmoo-solving-multi-objective-experimentation-with-constrained-thompson-sampling>) | Publication | Official page |
 | 2026 | [TRAJECT-Bench\: A trajectory-aware benchmark for evaluating agentic tool use](<https://www.amazon.science/publications/traject-bench-a-trajectory-aware-benchmark-for-evaluating-agentic-tool-use>) | Publication | Official page |
+| 2026 | [TRACE \: Traceable root-cause analysis with calibrated evidence-grounded agents](<https://www.amazon.science/publications/trace-traceable-root-cause-analysis-with-calibrated-evidence-grounded-agents>) | Publication | Official page |
 | 2026 | [T2PO\: Uncertainty-guided exploration control for stable multi-turn agentic reinforcement learning](<https://www.amazon.science/publications/t2po-uncertainty-guided-exploration-control-for-stable-multi-turn-agentic-reinforcement-learning>) | Publication | Official page |
+| 2026 | [SynthAVE\: Scalable synthetic labeling for e-commerce with LLM-arena validation](<https://www.amazon.science/publications/synthave-scalable-synthetic-labeling-for-e-commerce-with-llm-arena-validation>) | Publication | Official page |
 | 2026 | [Symbolic planning and multi-agent path finding in extremely dense environments with unassigned agents](<https://www.amazon.science/publications/symbolic-planning-and-multi-agent-path-finding-in-extremely-dense-environments-with-unassigned-agents>) | Publication | Official page |
 | 2026 | [Supplement generation training for enhancing agentic task performance](<https://www.amazon.science/publications/supplement-generation-training-for-enhancing-agentic-task-performance>) | Publication | Official page |
 | 2026 | [Super Weights in LLMs and the Failure of Selective Training](<https://arxiv.org/abs/2607.08733>) | Preprint | Official page |
@@ -327,7 +419,7 @@
 | 2026 | [Relatron\: Automating relational machine learning over relational databases](<https://www.amazon.science/publications/relatron-automating-relational-machine-learning-over-relational-databases>) | Publication | Official page |
 | 2026 | [Reinforcing structured chain-of-thought for video understanding](<https://www.amazon.science/publications/reinforcing-structured-chain-of-thought-for-video-understanding>) | Publication | Official page |
 | 2026 | [Reasoning with memory\: Adaptive information management for retrieval-augmented generation](<https://www.amazon.science/publications/reasoning-with-memory-adaptive-information-management-for-retrieval-augmented-generation>) | Publication | Official page |
-| 2026 | [Real-time multi-robot motion planning with safe-interval search and learning-guided repair](<https://www.amazon.science/publications/real-time-multi-robot-motion-planning-with-safe-interval-search-and-learning-guided-repair>) | Publication | Official page |
+| 2026 | [Real-time multi-robot motion planning with safe-interval search and learning-guided repair](<https://www.amazon.science/publications/real-time-multi-robot-motion-planning-with-safe-interval-search-and-learning-guided-repair>) | Publication | Official page, OpenAlex |
 | 2026 | [ROPOLL\: Robust panel of LLM judges](<https://www.amazon.science/publications/ropoll-robust-panel-of-llm-judges>) | Publication | Official page |
 | 2026 | [RMIR\: A benchmark dataset for reasoning-intensive multimodal image retrieval](<https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval>) | Publication | Official page |
 | 2026 | [REVES\: REvision and VErification–augmented training for test-time scaling](<https://www.amazon.science/publications/reves-revision-and-verification-augmented-training-for-test-time-scaling>) | Publication | Official page |
@@ -345,7 +437,7 @@
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](<https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation>) | Publication | Official page |
 | 2026 | [PatientAgentBench\: A benchmark framework for evaluating patient-facing health AI agents](<https://www.amazon.science/publications/patientagentbench-a-benchmark-framework-for-evaluating-patient-facing-health-ai-agents>) | Publication | Official page, Verified affiliation |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](<https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation>) | Publication | Official page |
-| 2026 | [Pairwise ranking outperforms single-action RL for offline explanation selection\: A practical lesson](<https://www.amazon.science/publications/pairwise-ranking-outperforms-single-action-rl-for-offline-explanation-selection-a-practical-lesson>) | Publication | Official page |
+| 2026 | [Pairwise ranking outperforms single-action RL for offline explanation selection\: A practical lesson](<https://www.amazon.science/publications/pairwise-ranking-outperforms-single-action-rl-for-offline-explanation-selection-a-practical-lesson>) | Publication | Official page, Verified affiliation |
 | 2026 | [PGGA\: A plan-grounded GUI agent for automated device support](<https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support>) | Publication | Official page |
 | 2026 | [PADAM\: Perceptual audio defect assessment model](<https://www.amazon.science/publications/padam-perceptual-audio-defect-assessment-model>) | Publication | Official page |
 | 2026 | [Optimal and scalable MAPF via multi-marginal optimal transport and schrödinger bridges](<https://www.amazon.science/publications/optimal-and-scalable-mapf-via-multi-marginal-optimal-transport-and-schrodinger-bridges>) | Publication | Official page |
@@ -363,6 +455,7 @@
 | 2026 | [Multi-domain marker aggregation for threat detection in cloud environments](<https://www.amazon.science/publications/multi-domain-marker-aggregation-for-threat-detection-in-cloud-environments>) | Publication | Official page |
 | 2026 | [Multi-Objective Ranking for Live-Streaming\: Balancing Fresh and Delayed Signals with Segment-Aware Targeting](<https://arxiv.org/abs/2608.04455>) | Preprint | Official page |
 | 2026 | [Memory tree guided key frame querying for efficient 3D question answering](<https://www.amazon.science/publications/memory-tree-guided-key-frame-querying-for-efficient-3d-question-answering>) | Publication | Official page, Verified affiliation |
+| 2026 | [MapScout\: An agentic harness for map editing and geospatial data labeling](<https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling>) | Publication | Official page |
 | 2026 | [MakeupMirror\: Improving facial attribute preservation in diffusion models for makeup transfer](<https://www.amazon.science/publications/makeupmirror-improving-facial-attribute-preservation-in-diffusion-models-for-makeup-transfer>) | Publication | Official page |
 | 2026 | [MTSQL-R1\: Towards long-horizon multi-turn text-to-SQL via agentic training](<https://www.amazon.science/publications/mtsql-r1-towards-long-horizon-multi-turn-text-to-sql-via-agentic-training>) | Publication | Official page |
 | 2026 | [MM-ReCoder\: Advancing chart-to-code generation with reinforcement learning and self-correction](<https://www.amazon.science/publications/mm-recoder-advancing-chart-to-code-generation-with-reinforcement-learning-and-self-correction>) | Publication | Official page |
@@ -401,23 +494,26 @@
 | 2026 | [GiVA\: Gradient-informed bases for vector-based adaptation](<https://www.amazon.science/publications/giva-gradient-informed-bases-for-vector-based-adaptation>) | Publication | Official page |
 | 2026 | [GeoGround\: Uncertainty-weighted multi-task learning for geo-alignment and address defect detection](<https://www.amazon.science/publications/geoground-uncertainty-weighted-multi-task-learning-for-geo-alignment-and-address-defect-detection>) | Publication | Official page |
 | 2026 | [Generative vs discriminative? Revisiting the shortcut learning debate in text classification](<https://www.amazon.science/publications/generative-vs-discriminative-revisiting-the-shortcut-learning-debate-in-text-classification>) | Publication | Official page |
+| 2026 | [Generalized position-based model\: Rethinking position weights in ranking off-policy evaluation](<https://www.amazon.science/publications/generalized-position-based-model-rethinking-position-weights-in-ranking-off-policy-evaluation>) | Publication | Official page |
 | 2026 | [Generalizable dense reward for long-horizon robotic tasks](<https://www.amazon.science/publications/generalizable-dense-reward-for-long-horizon-robotic-tasks>) | Publication | Official page |
 | 2026 | [Gated KalmaNet\: A fading memory layer through test-time ridge regression](<https://www.amazon.science/publications/gated-kalmanet-a-fading-memory-layer-through-test-time-ridge-regression>) | Publication | Official page |
-| 2026 | [GRAFT\: Grounding cold-start nodes via factorized structural alignment](<https://www.amazon.science/publications/graft-grounding-cold-start-nodes-via-factorized-structural-alignment>) | Publication | Official page |
+| 2026 | [GRAFT\: Grounding cold-start nodes via factorized structural alignment](<https://www.amazon.science/publications/graft-grounding-cold-start-nodes-via-factorized-structural-alignment>) | Publication | Official page, OpenAlex |
 | 2026 | [GAM\: Generalized action model for robotic manipulation](<https://www.amazon.science/publications/gam-generalized-action-model-for-robotic-manipulation>) | Publication | Official page |
+| 2026 | [From trace entropy to coordination control\: Diagnosing and intervening in multi-Agent LLM systems](<https://www.amazon.science/publications/from-trace-entropy-to-coordination-control-diagnosing-and-intervening-in-multi-agent-llm-systems>) | Publication | Official page |
 | 2026 | [From prompt to production\: Automating brand-safe marketing imagery with text-to-image models](<https://www.amazon.science/publications/from-prompt-to-production-automating-brand-safe-marketing-imagery-with-text-to-image-models>) | Publication | Official page |
 | 2026 | [From narrow unlearning to emergent misalignment\: Causes, consequences, and containment in LLMs](<https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms>) | Publication | Official page |
 | 2026 | [From frontier to frugal\: Evaluating self-evolution frameworks with small language models](<https://www.amazon.science/publications/from-frontier-to-frugal-evaluating-self-evolution-frameworks-with-small-language-models>) | Publication | Official page |
 | 2026 | [From demo to production\: Generative search lessons from Alexa+](<https://www.amazon.science/publications/from-demo-to-production-generative-search-lessons-from-alexa>) | Publication | Official page |
-| 2026 | [From Guess2Graph\: When and how can unreliable experts safely boost causal discovery in finite samples?](<https://www.amazon.science/publications/from-guess2graph-when-and-how-can-unreliable-experts-safely-boost-causal-discovery-in-finite-samples>) | Publication | Official page |
 | 2026 | [Foundation models for sparse, multi-relational risk prediction in global supply chains](<https://www.amazon.science/publications/foundation-models-for-sparse-multi-relational-risk-prediction-in-global-supply-chains>) | Publication | Official page |
 | 2026 | [Formalizing and falsifying causal pathways of rare events](<https://www.amazon.science/publications/formalizing-and-falsifying-causal-pathways-of-rare-events>) | Publication | Official page |
 | 2026 | [Forget to know, remember to use\: Context-aware unlearning for large language models](<https://www.amazon.science/publications/forget-to-know-remember-to-use-context-aware-unlearning-for-large-language-models>) | Publication | Official page |
 | 2026 | [Forecasting with factor-augmented time series foundation models](<https://www.amazon.science/publications/forecasting-with-factor-augmented-time-series-foundation-models>) | Publication | Official page |
 | 2026 | [FlowFixer\: Towards detail-preserving subject-driven generation](<https://www.amazon.science/publications/flowfixer-towards-detail-preserving-subject-driven-generation>) | Publication | Official page |
+| 2026 | [FinLCR\: Scaling financial long-context reasoning via curriculum reinforcement learning](<https://www.amazon.science/publications/finlcr-scaling-financial-long-context-reasoning-via-curriculum-reinforcement-learning>) | Publication | Official page |
 | 2026 | [Feedback-aware prompt optimization framework for generating job postings](<https://www.amazon.science/publications/feedback-aware-prompt-optimization-framework-for-generating-job-postings>) | Publication | Official page |
 | 2026 | [Feedback control for multi-objective graph self-supervision](<https://www.amazon.science/publications/feedback-control-for-multi-objective-graph-self-supervision>) | Publication | Official page |
 | 2026 | [Fangorn\: A conversational platform for geospatial intelligence analytics \[demo\]](<https://www.amazon.science/publications/fangorn-a-conversational-platform-for-geospatial-intelligence-analytics-demo>) | Publication | Official page |
+| 2026 | [Failing agents leave traces\: Telemetry signatures for multi-tier agent evaluation](<https://www.amazon.science/publications/failing-agents-leave-traces-telemetry-signatures-for-multi-tier-agent-evaluation>) | Publication | Official page |
 | 2026 | [Exploring coherence of LLMs in multilingual question answering](<https://www.amazon.science/publications/exploring-coherence-of-llms-in-multilingual-question-answering>) | Publication | Official page |
 | 2026 | [Exploring LLM-powered agents for modeling thermal dynamics of buildings](<https://www.amazon.science/publications/exploring-llm-powered-agents-for-modeling-thermal-dynamics-of-buildings>) | Publication | Official page |
 | 2026 | [Explicit trait inference for multi-agent coordination](<https://www.amazon.science/publications/explicit-trait-inference-for-multi-agent-coordination>) | Publication | Official page |
@@ -425,7 +521,7 @@
 | 2026 | [Expansion-contraction\: A multi-agent graph traversal pattern for compound AI systems](<https://www.amazon.science/publications/expansion-contraction-a-multi-agent-graph-traversal-pattern-for-compound-ai-systems>) | Publication | Official page |
 | 2026 | [Exo2EgoPolicy\: Geometry-aware policy transfer from exocentric human demonstrations](<https://www.amazon.science/publications/exo2egopolicy-geometry-aware-policy-transfer-from-exocentric-human-demonstrations>) | Publication | Official page |
 | 2026 | [Exectune\: Effective steering of black-box LLMs with guide models](<https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models>) | Publication | Official page |
-| 2026 | [EvoMAS\: Evolutionary generation of multi-agent systems](<https://www.amazon.science/publications/evomas-evolutionary-generation-of-multi-agent-systems>) | Publication | Official page |
+| 2026 | [EvoMAS\: Evolutionary generation of multi-agent systems](<https://www.amazon.science/publications/evomas-evolutionary-generation-of-multi-agent-systems>) | Publication | Official page, Verified affiliation |
 | 2026 | [Evaluating bivariate causal statements based on mutual compatibility](<https://www.amazon.science/publications/evaluating-bivariate-causal-statements-based-on-mutual-compatibility>) | Publication | Official page |
 | 2026 | [Estimating joint interventional distributions from marginal interventional data](<https://www.amazon.science/publications/estimating-joint-interventional-distributions-from-marginal-interventional-data>) | Publication | Official page |
 | 2026 | [Enhancing part-level point grounding for any open-source MLLMs](<https://www.amazon.science/publications/enhancing-part-level-point-grounding-for-any-open-source-mllms>) | Publication | Official page |
@@ -435,7 +531,8 @@
 | 2026 | [End-to-end probabilistic framework for learning with hard constraints](<https://www.amazon.science/publications/end-to-end-probabilistic-framework-for-learning-with-hard-constraints>) | Publication | Official page |
 | 2026 | [Encoding domain expertise in agents\: Lessons from NFL Fantasy AI](<https://www.amazon.science/publications/encoding-domain-expertise-in-agents-lessons-from-nfl-fantasy-ai>) | Publication | Official page |
 | 2026 | [Enabling user agency in scalable content recommendations with large language models](<https://www.amazon.science/publications/enabling-user-agency-in-scalable-content-recommendations-with-large-language-models>) | Publication | Official page |
-| 2026 | [Eliciting self-verification in multimodal reasoning agents with reinforcement learning](<https://www.amazon.science/publications/eliciting-self-verification-in-multimodal-reasoning-agents-with-reinforcement-learning>) | Publication | Official page |
+| 2026 | [Eliciting self-verification in multimodal reasoning agents with reinforcement learning](<https://www.amazon.science/publications/eliciting-self-verification-in-multimodal-reasoning-agents-with-reinforcement-learning>) | Publication | Official page, Verified affiliation |
+| 2026 | [ESPO\: Error-structured prompt optimization via diagnose, diversify, and stabilize](<https://www.amazon.science/publications/espo-error-structured-prompt-optimization-via-diagnose-diversify-and-stabilize>) | Publication | Official page |
 | 2026 | [EKKA\: Automated diagnosis of silent errors in LLM inference](<https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference>) | Publication | Official page |
 | 2026 | [Dynamic resolution switching for live streaming](<https://www.amazon.science/publications/dynamic-resolution-switching-for-live-streaming>) | Publication | Official page, OpenAlex |
 | 2026 | [DualVision\: RGB-infrared multimodal large language models for robust visual reasoning](<https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning>) | Publication | Official page |
@@ -448,12 +545,13 @@
 | 2026 | [DiTailed\: Ensuring visual object consistency in text-image-to-image flow matching models](<https://www.amazon.science/publications/ditailed-ensuring-visual-object-consistency-in-text-image-to-image-flow-matching-models>) | Publication | Official page |
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](<https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps>) | Publication | Official page |
 | 2026 | [Deployment risk assessment using diff-aware features\: A case study at Prime Video](<https://www.amazon.science/publications/deployment-risk-assessment-using-diff-aware-features-a-case-study-at-prime-video>) | Publication | Official page |
+| 2026 | [Deploying programmatic tool calling with pre-execution validation for production agentic systems](<https://www.amazon.science/publications/deploying-programmatic-tool-calling-with-pre-execution-validation-for-production-agentic-systems>) | Publication | Official page |
 | 2026 | [Dependence-aware label aggregation for LLM-as-a-judge via Ising models](<https://www.amazon.science/publications/dependence-aware-label-aggregation-for-llm-as-a-judge-via-ising-models>) | Publication | Official page |
-| 2026 | [Demystifying transition matching\: When and why it can beat flow matching](<https://www.amazon.science/publications/demystifying-transition-matching-when-and-why-it-can-beat-flow-matching>) | Publication | Official page |
 | 2026 | [Delta debugging for LLM-integrated systems](<https://www.amazon.science/publications/delta-debugging-for-llm-integrated-systems>) | Publication | Official page |
 | 2026 | [DeepResearch retail\: Benchmarking tool-augmented deep research in the e-commerce domain](<https://www.amazon.science/publications/deepresearch-retail-benchmarking-tool-augmented-deep-research-in-the-e-commerce-domain>) | Publication | Official page |
 | 2026 | [Decoding defensive coverage responsibilities in American football using factorized attention based transformer models](<https://www.amazon.science/publications/decoding-defensive-coverage-responsibilities-in-american-football-using-factorized-attention-based-transformer-models>) | Publication | Official page |
 | 2026 | [DOT-MoE\: Differentiable optimal transport for MoEfication](<https://www.amazon.science/publications/dot-moe-differentiable-optimal-transport-for-moefication>) | Publication | Official page |
+| 2026 | [DODO\: Discrete OCR diffusion models](<https://www.amazon.science/publications/dodo-discrete-ocr-diffusion-models>) | Publication | Official page |
 | 2026 | [DACO\: Dictionary-aligned concept control for safeguarding multimodal LLMs](<https://www.amazon.science/publications/daco-dictionary-aligned-concept-control-for-safeguarding-multimodal-llms>) | Publication | Official page |
 | 2026 | [Cross-view fusion for occluded roads inpainting in satellite imagery](<https://www.amazon.science/publications/cross-view-fusion-for-occluded-roads-inpainting-in-satellite-imagery>) | Publication | Official page |
 | 2026 | [Correct, concise and complete\: Multi-stage training for adaptive reasoning](<https://www.amazon.science/publications/correct-concise-and-complete-multi-stage-training-for-adaptive-reasoning>) | Publication | Official page |
@@ -462,17 +560,17 @@
 | 2026 | [Confidence-aware multi-agent orchestration for evaluating multimodal rule compliance](<https://www.amazon.science/publications/confidence-aware-multi-agent-orchestration-for-evaluating-multimodal-rule-compliance>) | Publication | Official page |
 | 2026 | [Composite-attribute person re-identification via pose-guided disentanglement](<https://www.amazon.science/publications/composite-attribute-person-re-identification-via-pose-guided-disentanglement>) | Publication | Official page |
 | 2026 | [Comparative evaluation of agent assessment frameworks\: Stability, detection, and discovery in enterprise analytics agents](<https://www.amazon.science/publications/comparative-evaluation-of-agent-assessment-frameworks-stability-detection-and-discovery-in-enterprise-analytics-agents>) | Publication | Official page |
-| 2026 | [CompAgent\: An agentic framework for visual compliance verification](<https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification>) | Publication | Official page |
 | 2026 | [ColdNet\: Treatment effect estimation with cold-start, imbalance, and zero-inflated outcomes](<https://www.amazon.science/publications/coldnet-treatment-effect-estimation-with-cold-start-imbalance-and-zero-inflated-outcomes>) | Publication | Official page |
 | 2026 | [CodeV\: Code with images for faithful visual reasoning via tool-aware policy optimization](<https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization>) | Publication | Official page |
 | 2026 | [CodeScout\: Contextual problem statement enhancement for software agents](<https://www.amazon.science/publications/codescout-contextual-problem-statement-enhancement-for-software-agents>) | Publication | Official page |
 | 2026 | [CoCo\: Conformal confidence suppression to optimize search results](<https://www.amazon.science/publications/coco-conformal-confidence-suppression-to-optimize-search-results>) | Publication | Official page |
 | 2026 | [Closing the feedback loop\: From experience extraction to insight governance in verbal reinforcement learning](<https://www.amazon.science/publications/closing-the-feedback-loop-from-experience-extraction-to-insight-governance-in-verbal-reinforcement-learning>) | Publication | Official page |
 | 2026 | [Choice modeling and pricing for scheduled services](<https://www.amazon.science/publications/choice-modeling-and-pricing-for-scheduled-services>) | Publication | Official page |
+| 2026 | [Characterizing and provisioning the environment bubble in agentic-RL LLM rollout](<https://www.amazon.science/publications/characterizing-and-provisioning-the-environment-bubble-in-agentic-rl-llm-rollout>) | Publication | Official page |
 | 2026 | [CausalFusion\: Integrating LLMs and graph falsification for causal discovery](<https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery>) | Publication | Official page |
 | 2026 | [Can AI agents simulate A/B test outcomes? A validation framework for agentic experimentation](<https://www.amazon.science/publications/can-ai-agents-simulate-a-b-test-outcomes-a-validation-framework-for-agentic-experimentation>) | Publication | Official page |
 | 2026 | [CSMAD\: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](<https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements>) | Publication | Official page |
-| 2026 | [CRAFT\: Cross-modal representation with adaptive fusion transformer for operational defect detection](<https://www.amazon.science/publications/craft-cross-modal-representation-with-adaptive-fusion-transformer-for-operational-defect-detection>) | Publication | Official page |
+| 2026 | [CRAFT\: Cross-modal representation with adaptive fusion transformer for operational defect detection](<https://www.amazon.science/publications/craft-cross-modal-representation-with-adaptive-fusion-transformer-for-operational-defect-detection>) | Publication | Official page, OpenAlex |
 | 2026 | [CORRECT\: Condensed error recognition via knowledge transfer in multi-agent systems](<https://www.amazon.science/publications/correct-condensed-error-recognition-via-knowledge-transfer-in-multi-agent-systems>) | Publication | Official page |
 | 2026 | [COMET\: Compatibility-oriented multi-modal embedding transformer for visual recommendations](<https://www.amazon.science/publications/comet-compatibility-oriented-multi-modal-embedding-transformer-for-visual-recommendations>) | Publication | Official page |
 | 2026 | [COMEM\: Context management with A decoupled long-context model](<https://www.amazon.science/publications/comem-context-management-with-a-decoupled-long-context-model>) | Publication | Official page |
@@ -482,14 +580,17 @@
 | 2026 | [Breaking the safety-capability tradeoff\: Reinforcement learning with verifiable rewards maintains safety guardrails in LLMs](<https://www.amazon.science/publications/breaking-the-safety-capability-tradeoff-reinforcement-learning-with-verifiable-rewards-maintains-safety-guardrails-in-llms>) | Publication | Official page |
 | 2026 | [BoundRL\: Efficient token-level structured text segmentation through reinforced boundary generation](<https://www.amazon.science/publications/boundrl-efficient-token-level-structured-text-segmentation-through-reinforced-boundary-generation>) | Publication | Official page |
 | 2026 | [Bootstrap-conditioned action selection with tabular foundation models](<https://www.amazon.science/publications/bootstrap-conditioned-action-selection-with-tabular-foundation-models>) | Publication | Official page |
+| 2026 | [Beyond the harness\: End-to-end optimization of context artifacts for enterprise Text-to-SQL](<https://www.amazon.science/publications/beyond-the-harness-end-to-end-optimization-of-context-artifacts-for-enterprise-text-to-sql>) | Publication | Official page |
 | 2026 | [Beyond statistical changepoint detection\: Semantic interpretation of time series via large language models](<https://www.amazon.science/publications/beyond-statistical-changepoint-detection-semantic-interpretation-of-time-series-via-large-language-models>) | Publication | Official page |
 | 2026 | [Beyond grey-box assumptions\: Uncertainty-guided example selection for black-box language models](<https://www.amazon.science/publications/beyond-grey-box-assumptions-uncertainty-guided-example-selection-for-black-box-language-models>) | Publication | Official page |
 | 2026 | [Beyond disjoint tasks\: Towards more natural continual learning for vision-language models](<https://www.amazon.science/publications/beyond-disjoint-tasks-towards-more-natural-continual-learning-for-vision-language-models>) | Publication | Official page |
 | 2026 | [Beyond correctness\: Rewarding faithful reasoning in retrieval-augmented generation](<https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation>) | Publication | Official page |
+| 2026 | [Beyond Task Success\: An eight-metric tiered evaluation protocol for LLM agents over fragmented operational data](<https://www.amazon.science/publications/beyond-task-success-an-eight-metric-tiered-evaluation-protocol-for-llm-agents-over-fragmented-operational-data>) | Publication | Official page |
 | 2026 | [Better literary translation\: A multi-aspect data generation and LLM training approach](<https://www.amazon.science/publications/better-literary-translation-a-multi-aspect-data-generation-and-llm-training-approach>) | Publication | Official page |
 | 2026 | [Benchmarking multilingual temporal reasoning in LLMs\: The temporal reasoning dataset](<https://www.amazon.science/publications/benchmarking-multilingual-temporal-reasoning-in-llms-the-temporal-reasoning-dataset>) | Publication | Official page |
 | 2026 | [Benchmarking deflection and hallucination in large vision-language models](<https://www.amazon.science/publications/benchmarking-deflection-and-hallucination-in-large-vision-language-models>) | Publication | Official page |
-| 2026 | [BasketFormer\: Contrastive masked language modeling with temporal encoding and repeat-explore gating for next-basket recommendation](<https://www.amazon.science/publications/basketformer-contrastive-masked-language-modeling-with-temporal-encoding-and-repeat-explore-gating-for-next-basket-recommendation>) | Publication | Official page |
+| 2026 | [Bee private compute\: Privacy-preserving intelligence for Bee](<https://www.amazon.science/publications/bee-private-compute-privacy-preserving-intelligence-for-bee>) | Publication | Official page |
+| 2026 | [BasketFormer\: Contrastive masked language modeling with temporal encoding and repeat-explore gating for next-basket recommendation](<https://www.amazon.science/publications/basketformer-contrastive-masked-language-modeling-with-temporal-encoding-and-repeat-explore-gating-for-next-basket-recommendation>) | Publication | Official page, OpenAlex |
 | 2026 | [Balancing classification and calibration performance in decision-making LLMs via calibration aware reinforcement learning](<https://www.amazon.science/publications/balancing-classification-and-calibration-performance-in-decision-making-llms-via-calibration-aware-reinforcement-learning>) | Publication | Official page |
 | 2026 | [Bag of dims\: Training-free mechanistic interpretability via dimension-level sign patterns](<https://www.amazon.science/publications/bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-patterns>) | Publication | Official page |
 | 2026 | [BRIDGE\: Building representations in domain-guided program synthesis](<https://www.amazon.science/publications/bridge-building-representations-in-domain-guided-program-synthesis>) | Publication | Official page |
@@ -499,7 +600,7 @@
 | 2026 | [Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](<https://arxiv.org/abs/2608.03272>) | Preprint | Official page |
 | 2026 | [AsymLoc\: Towards asymmetric feature matching for efficient visual localization](<https://www.amazon.science/publications/asymloc-towards-asymmetric-feature-matching-for-efficient-visual-localization>) | Publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](<https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms>) | Publication | Official page |
-| 2026 | [Anchored FLoE\: A business-guardrailed ensemble framework of foundation and local-trained models for demand forecasting](<https://www.amazon.science/publications/anchored-floe-a-business-guardrailed-ensemble-framework-of-foundation-and-local-trained-models-for-demand-forecasting>) | Publication | Official page |
+| 2026 | [Anchored FLoE\: A business-guardrailed ensemble framework of foundation and local-trained models for demand forecasting](<https://www.amazon.science/publications/anchored-floe-a-business-guardrailed-ensemble-framework-of-foundation-and-local-trained-models-for-demand-forecasting>) | Publication | Official page, OpenAlex |
 | 2026 | [Analyzing seismic workflows with large language models\: A case study on error detection](<https://www.amazon.science/publications/analyzing-seismic-workflows-with-large-language-models-a-case-study-on-error-detection>) | Publication | Official page |
 | 2026 | [Amortizing AI training carbon footprint\: Challenges, limitations, and a path forward](<https://www.amazon.science/publications/amortizing-ai-training-carbon-footprint-challenges-limitations-and-a-path-forward>) | Publication | Official page |
 | 2026 | [Aligning recommendations with user popularity preferences](<https://www.amazon.science/publications/aligning-recommendations-with-user-popularity-preferences>) | Publication | Official page |
@@ -522,10 +623,16 @@
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](<https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains>) | Publication | Official page |
 | 2026 | [A first step towards dialog simulation with grounded dialog graphs](<https://www.amazon.science/publications/a-first-step-towards-dialog-simulation-with-grounded-dialog-graphs>) | Publication | Official page |
 | 2026 | [A comprehensive taxonomy of temporal dimensions in natural language queries](<https://www.amazon.science/publications/a-comprehensive-taxonomy-of-temporal-dimensions-in-natural-language-queries>) | Publication | Official page |
+| 2026 | [The blind curator\: How a biased judge silently disables skill retirement in self-evolving agents](<https://www.amazon.science/publications/the-blind-curator-how-a-biased-judge-silently-disables-skill-retirement-in-self-evolving-agents>) | Publication | Official page |
+| 2026 | [RetroAgent\: Harnessing LLMs to search over structured memory for agentic retrosynthesis planning](<https://www.amazon.science/publications/retroagent-harnessing-llms-to-search-over-structured-memory-for-agentic-retrosynthesis-planning>) | Publication | Official page |
+| 2026 | [PersonaJudge\: Simulating individual human preference judgments with evaluator-specific demonstration data](<https://www.amazon.science/publications/personajudge-simulating-individual-human-preference-judgments-with-evaluator-specific-demonstration-data>) | Publication | Official page |
 | 2026 | [PB-GRPO\: Learning socially adaptive LLM agents from persona-driven simulation with preference-batched GRPO](<https://www.amazon.science/publications/pb-grpo-learning-socially-adaptive-llm-agents-from-persona-driven-simulations-with-preference-batched-grpo>) | Publication | Official page |
 | 2026 | [Knowing when to ask\: Self-gated clarification for hierarchical language agents](<https://www.amazon.science/publications/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents>) | Publication | Official page |
 | 2026 | [Evaluation pitfalls and sparsity limitations in LLM-based confidence estimates for classification](<https://www.amazon.science/publications/evaluation-pitfalls-and-sparsity-limitations-in-llm-based-confidence-estimates-for-classification>) | Publication | Official page |
-| 2026 | [Conversation coach\: A voice-enabled AI system that helps practice difficult workplace conversations](<https://www.amazon.science/publications/conversation-coach-a-voice-enabled-ai-system-that-helps-practice-difficult-workplace-conversations>) | Publication | Official page |
+| 2026 | [Data-driven personas for survey simulation\: Insights into simulation alignment across data-access regimes](<https://www.amazon.science/publications/data-driven-personas-for-survey-simulation-insights-into-simulation-alignment-across-data-access-regimes>) | Publication | Official page |
+| 2026 | [DI-Bench\: Systematically generating in-domain benchmarks for data intelligence agents](<https://www.amazon.science/publications/di-bench-systematically-generating-in-domain-benchmarks-for-data-intelligence-agents>) | Publication | Official page |
+| 2026 | [Conversation coach\: A voice-enabled AI system that helps practice difficult workplace conversations](<https://www.amazon.science/publications/conversation-coach-a-voice-enabled-ai-system-that-helps-practice-difficult-workplace-conversations>) | Publication | Official page, Verified affiliation |
+| 2026 | [Chart-RL\: Policy optimization reinforcement learning for enhanced visual reasoning in chart question answering with Vision Language Models](<https://www.amazon.science/publications/chart-rl-policy-optimization-reinforcement-learning-for-enhanced-visual-reasoning-in-chart-question-answering-with-vision-language-models>) | Publication | Official page |
 
 ## 2025
 
@@ -545,6 +652,8 @@
 | 2025‑12‑01 | [Digital Twin Enabled Deep Learning System for Predictive Monitoring of Cardiovascular Health](<https://doi.org/10.1109/ic2nc67409.2025.11376464>) | Article | OpenAlex |
 | 2025‑11‑26 | [Generative AI-based Framework for Fraud Detection and Prevention in Online Payment Systems](<https://doi.org/10.1109/icuis67429.2025.11380758>) | Article | OpenAlex |
 | 2025‑11‑21 | [Introduction to the Special Issue on Large Language Models for Recommender Systems](<https://doi.org/10.1145/3721299>) | Article | OpenAlex |
+| 2025‑11‑20 | [firedrakeproject/firedrake\: Firedrake\: an automated finite element system](<https://doi.org/10.5281/zenodo.21932028>) | Software | OpenAlex |
+| 2025‑11‑20 | [firedrakeproject/ufl\: UFL\: the Unified Form Language](<https://doi.org/10.5281/zenodo.21932031>) | Software | OpenAlex |
 | 2025‑11‑16 | [VERT\: Polyglot Verified Equivalent Rust Transpilation with Large Language Models](<https://doi.org/10.1109/ase63991.2025.00123>) | Article | OpenAlex |
 | 2025‑11‑12 | [PRvL\: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction](<https://doi.org/10.1109/tps-isa67132.2025.00025>) | Article | OpenAlex |
 | 2025‑11‑12 | [Scalable Multilingual PII Annotation for Responsible AI in LLMs](<https://doi.org/10.1109/icdmw69685.2025.00049>) | Article | OpenAlex |
@@ -554,6 +663,7 @@
 | 2025‑11‑08 | [Sparse Autoencoders in Collaborative Filtering Enhanced LLM-based Recommender Systems](<https://doi.org/10.1145/3746252.3760957>) | Article | OpenAlex |
 | 2025‑11‑08 | [GraFS\: An Integrated GNN-LLM Approach for Inferring Best Functional Substitute Products](<https://doi.org/10.1145/3746252.3760961>) | Article | OpenAlex |
 | 2025‑11‑03 | [Few-shot Vision-language Prompt Tuning of VLMs for On-road Object Detection](<https://doi.org/10.1145/3764919.3770873>) | Article | OpenAlex |
+| 2025‑10‑31 | [CompAgent\: An agentic framework for visual compliance verification](<https://www.amazon.science/publications/compagent-an-agentic-framework-for-visual-compliance-verification>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑30 | [Enhancing Customer Journey Intelligence\: A Comprehensive Framework for 360 - Degree Analytics Using Generative AI](<https://doi.org/10.53469/jrse.2025.07%2810%29.06>) | Article | OpenAlex |
 | 2025‑10‑29 | [Language Models as Ontology Encoders](<https://doi.org/10.1007/978-3-032-09527-5_24>) | Book chapter | OpenAlex |
 | 2025‑10‑27 | [Leveraging historical information to boost retrieval-augmented generation in conversations](<https://doi.org/10.1016/j.ipm.2025.104449>) | Article | OpenAlex |
@@ -563,9 +673,12 @@
 | 2025‑10‑25 | [Beyond Paraphrasing\: Analyzing Summarization Abstractiveness and Reasoning](<https://doi.org/10.48448/22xh-d354>) | Other | OpenAlex |
 | 2025‑10‑24 | [Capturing gaze shifts for guidance\: Cross-modal fusion enhancement for VLM hallucination mitigation](<https://www.amazon.science/publications/capturing-gaze-shifts-for-guidance-cross-modal-fusion-enhancement-for-vlm-hallucination-mitigation>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑24 | [Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms](<https://doi.org/10.1109/mlbdbi67855.2025.11331476>) | Article | OpenAlex |
+| 2025‑10‑20 | [Demystifying transition matching\: When and why it can beat flow matching](<https://www.amazon.science/publications/demystifying-transition-matching-when-and-why-it-can-beat-flow-matching>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑19 | [Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors](<https://doi.org/10.1109/iros60139.2025.11246657>) | Article | OpenAlex |
 | 2025‑10‑19 | [Cross-Lingual Visual Text Stylization and Synthesis Incorporating Text Rendering and Diffusion Model](<https://doi.org/10.1109/iccvw69036.2025.00636>) | Article | OpenAlex |
 | 2025‑10‑19 | [Enhancing Numerical Prediction of MLLMS With Soft Labeling](<https://doi.org/10.1109/iccv51701.2025.00327>) | Article | OpenAlex |
+| 2025‑10‑19 | [SafeSearch\: Do Not Trade Safety for Utility in LLM Search Agents](<https://arxiv.org/abs/2510.17017>) | Paper | Verified affiliation |
+| 2025‑10‑16 | [From Guess2Graph\: When and how can unreliable experts safely boost causal discovery in finite samples?](<https://www.amazon.science/publications/from-guess2graph-when-and-how-can-unreliable-experts-safely-boost-causal-discovery-in-finite-samples>) | Publication | Official page, Verified affiliation |
 | 2025‑10‑11 | [E-commerce Sentiment Analysis Using Fine-tuned LLaMA3 Models\: A QLoRA - based Approach](<https://doi.org/10.63887/jtie.2025.1.4.13>) | Article | OpenAlex |
 | 2025‑10‑10 | [Split-Merge\: Scalable and Memory-Efficient Merging of Expert LLMs](<https://doi.org/10.48448/bbf0-bc72>) | Other | OpenAlex |
 | 2025‑10‑10 | [SLOT\: Structuring the Output of Large Language Models](<https://doi.org/10.48448/t3tt-de79>) | Other | OpenAlex |
@@ -592,10 +705,12 @@
 | 2025‑09‑18 | [A Comprehensive Survey of Small Language Models in the Era of Large Language Models\: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness](<https://doi.org/10.1145/3768165>) | Article | OpenAlex |
 | 2025‑09‑12 | [A Survey for Foundation Models in Autonomous Driving](<https://doi.org/10.1109/iccvdm66874.2025.11290083>) | Article | OpenAlex |
 | 2025‑09‑07 | [Together We are Better\: LLM, IDE and Semantic Embedding to Assist Move Method Refactoring](<https://doi.org/10.1109/icsme64153.2025.00046>) | Article | OpenAlex |
+| 2025‑09‑05 | [Self-aligned reward\: Towards effective and efficient reasoners](<https://www.amazon.science/publications/self-aligned-reward-towards-effective-and-efficient-reasoners>) | Publication | Official page, Verified affiliation |
 | 2025‑09‑05 | [Application of AI and Generative AI for Understanding Student Behavior and Performance in Higher Education](<https://doi.org/10.1109/icicnct66124.2025.11232608>) | Article | OpenAlex |
 | 2025‑09‑03 | [Beyond Correctness\: Harmonizing Process and Outcome Rewards through RL Training](<https://arxiv.org/abs/2509.03403>) | Paper | Verified affiliation |
 | 2025‑09‑01 | [Cross-Domain Knowledge Transfer in Multimodal AI Systems for Enhanced Predictive Accuracy](<https://doi.org/10.1109/icact67549.2025.11351389>) | Article | OpenAlex |
 | 2025‑08‑25 | [Machine Translation in the Era of Large Language Models\:A Survey of Historical and Emerging Problems](<https://doi.org/10.3390/info16090723>) | Article | OpenAlex |
+| 2025‑08‑25 | [Training Language Model Agents to Find Vulnerabilities with CTF-Dojo](<https://arxiv.org/abs/2508.18370>) | Paper | Verified affiliation |
 | 2025‑08‑22 | [Research on Multi-Model Fusion Machine Learning Demand Intelligent Forecasting System in Cloud Computing Environment](<https://doi.org/10.1109/iacis65746.2025.11210946>) | Article | OpenAlex |
 | 2025‑08‑03 | [KDD 2025 Workshop on Inference Optimization for Generative AI](<https://doi.org/10.1145/3711896.3737865>) | Article | OpenAlex |
 | 2025‑08‑03 | [KDD 2025 - AI Reasoning Day](<https://doi.org/10.1145/3711896.3737674>) | Article | OpenAlex |
@@ -606,6 +721,7 @@
 | 2025‑08‑03 | [SKnow-LLM Workshop\: Structured Knowledge for Large Language Models](<https://doi.org/10.1145/3711896.3737845>) | Article | OpenAlex |
 | 2025‑08‑03 | [The 11th Mining and Learning from Time Series (MILETS)\: From Classical Methods to LLMs](<https://doi.org/10.1145/3711896.3737867>) | Article | OpenAlex |
 | 2025‑08‑01 | [FlanS\: A Foundation Model for Free-Form Language-based Segmentation in Medical Images](<https://doi.org/10.1145/3711896.3736963>) | Article | OpenAlex |
+| 2025‑07‑29 | [Cyber-Zero\: Training Cybersecurity Agents without Runtime](<https://github.com/amazon-science/Cyber-Zero/blob/main/benchmarks/intercode_ctf/forensics/67/Financial_Report_for_ABC_Labs.pdf>) | Technical report | Official repo, Verified affiliation |
 | 2025‑07‑26 | [Generative AI and Large Language Models in Conversational Systems\: Trends and Future Directions](<https://doi.org/10.1109/aic66080.2025.11212044>) | Article | OpenAlex |
 | 2025‑07‑13 | [Insight Agents\: An LLM-Based Multi-Agent System for Data Insights](<http://arxiv.org/abs/2601.20048>) | Article | OpenAlex |
 | 2025‑07‑13 | [Language Model Alignment for Conversational Shopping at Amazon](<https://doi.org/10.1145/3726302.3731955>) | Article | OpenAlex |
@@ -626,9 +742,11 @@
 | 2025‑06‑07 | [PHAnToM\: Persona-Based Prompting Has an Effect on Theory-of-Mind Reasoning in Large Language Models](<https://doi.org/10.1609/icwsm.v19i1.35923>) | Article | OpenAlex |
 | 2025‑06‑04 | [Generative Migration Architectures\: Accelerating Cloud-Native Data Integration Through AI Orchestration](<https://doi.org/10.32996/jcsts.2025.7.5.79>) | Article | OpenAlex |
 | 2025‑06‑02 | [Survey on Factuality in Large Language Models](<https://doi.org/10.1145/3742420>) | Review | OpenAlex |
+| 2025‑06‑02 | [CiteEval\: Principle-Driven Citation Evaluation for Source Attribution](<https://arxiv.org/abs/2506.01829>) | Paper | Verified affiliation |
 | 2025‑05‑29 | [AI/ML curation of AI/ML training datasets](<https://doi.org/10.1117/12.3055515>) | Article | OpenAlex |
 | 2025‑05‑18 | [Leveraging Generative AI for Actionable Insights in Cloud Computing\: Innovations and Applications](<https://doi.org/10.56472/iccsaiml25-121>) | Article | OpenAlex |
 | 2025‑05‑18 | [Electric Motor Drive Anomaly Detection Using AutoGluon](<https://doi.org/10.1109/iemdc60492.2025.11061011>) | Article | OpenAlex |
+| 2025‑05‑15 | [XRAG\: Cross-lingual Retrieval-Augmented Generation](<https://arxiv.org/abs/2505.10089>) | Paper | Verified affiliation |
 | 2025‑05‑14 | [MigrationBench\: Repository-level code migration benchmark from Java 8](<https://www.amazon.science/publications/migrationbench-repository-level-code-migration-benchmark-from-java-8>) | Publication | Official page, Verified affiliation |
 | 2025‑05‑09 | [DST-GFN\: A Dual-Stage Transformer Network with Gated Fusion for Pairwise User Preference Prediction in Dialogue Systems](<https://doi.org/10.1109/aemcse65292.2025.11042684>) | Article | OpenAlex |
 | 2025‑05‑08 | [Tutorial on Landing Generative AI in Industrial Social and E-commerce Recsys](<https://doi.org/10.1145/3701716.3715871>) | Article | OpenAlex |
@@ -644,9 +762,11 @@
 | 2025‑04‑21 | [Abstract 3762\: DEL-AI\: Proteome-wide &lt;i&gt;in silico&lt;/i&gt; screening of multi-billion compound libraries using machine learning foundation models](<https://doi.org/10.1158/1538-7445.am2025-3762>) | Article | OpenAlex |
 | 2025‑04‑15 | [Role of Generative Artificial Intelligence in Personalized Medicine\: A Systematic Review](<https://doi.org/10.7759/cureus.82310>) | Review | OpenAlex |
 | 2025‑04‑15 | [The Strategic Selection of Machine Learning Models\: A Comparative Analysis of Dedicated Models versus Large Language Models](<https://doi.org/10.37745/ejcsit.2013/vol13n319298>) | Article | OpenAlex |
+| 2025‑04‑12 | [Exploration of Plan-Guided Summarization for Narrative Texts\: the Case of Small Language Models](<https://arxiv.org/abs/2504.09071>) | Paper | Verified affiliation |
 | 2025‑04‑11 | [OpenVIS\: Open-vocabulary Video Instance Segmentation](<https://doi.org/10.1609/aaai.v39i3.32338>) | Article | OpenAlex |
 | 2025‑04‑11 | [SWE-PolyBench\: A multi-language benchmark for repository level evaluation of coding agents](<https://arxiv.org/abs/2504.08703>) | Paper | Verified affiliation |
 | 2025‑04‑04 | [Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes](<https://doi.org/10.1145/3690624.3709258>) | Article | OpenAlex |
+| 2025‑03‑27 | [MemInsight\: Autonomous Memory Augmentation for LLM Agents](<https://arxiv.org/abs/2503.21760>) | Paper | Verified affiliation |
 | 2025‑03‑21 | [Emission Factor Recommendation for Life Cycle Assessments with Generative AI](<https://doi.org/10.1021/acs.est.4c12667>) | Article | OpenAlex |
 | 2025‑03‑17 | [Had Enough of Experts? Quantitative Knowledge Retrieval From Large Language Models](<https://doi.org/10.1002/sta4.70054>) | Article | OpenAlex |
 | 2025‑03‑14 | [MUSS\: Multilevel subset selection for relevance and diversity](<https://www.amazon.science/publications/muss-multilevel-subset-selection-for-relevance-and-diversity>) | Publication | Official page, Verified affiliation |
@@ -662,10 +782,13 @@
 | 2025‑02‑25 | [Igniting Language Intelligence\: The Hitchhiker’s Guide from Chain-of-Thought Reasoning to Language Agents](<https://doi.org/10.1145/3719341>) | Review | OpenAlex |
 | 2025‑02‑25 | [GLEAN\: Active Generalized Category Discovery with Diverse LLM Feedback](<https://arxiv.org/abs/2502.18414>) | Paper | Verified affiliation |
 | 2025‑02‑14 | [ENHANCING INFORMATION RETRIEVAL WITH RETRIEVAL-AUGMENTED GENERATION (RAG) FOR IMPROVED CONVERSATIONAL AI](<https://doi.org/10.34218/ijcet_16_01_233>) | Article | OpenAlex |
+| 2025‑02‑13 | [Eidetic Learning\: an Efficient and Provable Solution to Catastrophic Forgetting](<https://arxiv.org/abs/2502.09500>) | Paper | Verified affiliation |
 | 2025‑02‑06 | [A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis](<https://doi.org/10.1038/s41746-024-01339-7>) | Article | OpenAlex |
 | 2025‑02‑01 | [Earnings Call Scripts Generation With Large Language Models Using Few‐Shot Learning Prompt Engineering and Fine‐Tuning Methods](<https://doi.org/10.1002/ail2.110>) | Article | OpenAlex |
 | 2025‑02‑01 | [Spectro-Riemannian Graph Neural Networks](<https://arxiv.org/abs/2502.00401>) | Paper | Verified affiliation |
 | 2025‑01‑31 | [Transforming Healthcare\: The Convergence of Generative AI and Cloud Technologies](<https://doi.org/10.32628/cseit251112127>) | Article | OpenAlex |
+| 2025‑01‑28 | [Large Language Model Critics for Execution-Free Evaluation of Code Changes](<https://arxiv.org/abs/2501.16655>) | Paper | Verified affiliation |
+| 2025‑01‑20 | [QualityFlow\: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](<https://arxiv.org/abs/2501.17167>) | Paper | Verified affiliation |
 | 2025‑01‑09 | [Automated Research Review Support Using Machine Learning, Large Language Models, and Natural Language Processing](<https://doi.org/10.3390/electronics14020256>) | Article | OpenAlex |
 | 2025‑01‑09 | [How Culturally Aware Are Vision-Language Models?](<https://doi.org/10.1109/ipas63548.2025.10924504>) | Article | OpenAlex |
 | 2025‑01‑02 | [Transformation of ChatGPT into Threat\: The Effects of Generative AI on Data Protection and Security](<https://doi.org/10.47672/ajce.2586>) | Article | OpenAlex |
@@ -686,16 +809,15 @@
 | 2025 | [Insight agents\: An LLM-based multi-agent system for data](<https://www.amazon.science/publications/insight-agents-an-llm-based-multi-agent-system-for-data>) | Publication | Official page |
 | 2025 | [UXAgent\: An LLM-agent-based usability testing framework for web design](<https://www.amazon.science/publications/uxagent-an-llm-agent-based-usability-testing-framework-for-web-design>) | Publication | Official page |
 | 2025 | [Structuring the unstructured\: A multi-agent LLM framework for transforming ambiguous SOPs into code](<https://www.amazon.science/publications/structuring-the-unstructured-a-multi-agent-llm-framework-for-transforming-ambiguous-sops-into-code>) | Publication | Official page |
-| 2025 | [Stochastic rounding for LLM training\: Theory and practice](<https://www.amazon.science/publications/stochastic-rounding-for-llm-training-theory-and-practice>) | Publication | Official page |
+| 2025 | [Stochastic rounding for LLM training\: Theory and practice](<https://www.amazon.science/publications/stochastic-rounding-for-llm-training-theory-and-practice>) | Publication | Official page, Verified affiliation |
 | 2025 | [Scaling context, not parameters\: Training a compact 7B language model for efficient long-context processing](<https://www.amazon.science/publications/scaling-context-not-parameters-training-a-compact-7b-language-model-for-efficient-long-context-processing>) | Publication | Official page |
-| 2025 | [Rethinking LLM uncertainty\: A multi-agent approach to estimating black-box model uncertainty](<https://www.amazon.science/publications/rethinking-llm-uncertainty-a-multi-agent-approach-to-estimating-black-box-model-uncertainty>) | Publication | Official page |
 | 2025 | [RASL\: Retrieval augmented schema linking for massive database text-to-SQL](<https://www.amazon.science/publications/rasl-retrieval-augmented-schema-linking-for-massive-database-text-to-sql>) | Publication | Official page |
 | 2025 | [PersonaAgent\: When large language model agents meet personalization at test time](<https://www.amazon.science/publications/personaagent-when-large-language-model-agents-meet-personalization-at-test-time>) | Publication | Official page |
 | 2025 | [MaRGen\: Multi-agent LLM approach for self-directed market research and analysis](<https://www.amazon.science/publications/margen-multi-agent-llm-approach-for-self-directed-market-research-and-analysis>) | Publication | Official page |
 | 2025 | [MLZero\: A multi-agent system for automated end-to-end machine learning solutions](<https://www.amazon.science/publications/mlzero-a-multi-agent-system-for-automated-end-to-end-machine-learning-solutions>) | Publication | Official page |
 | 2025 | [M-LLM based video frame selection for efficient video understanding](<https://www.amazon.science/publications/m-llm-based-video-frame-selection-for-efficient-video-understanding>) | Publication | Official page |
 | 2025 | [From unstructured communication to intelligent RAG\: Multi-agent automation for supply chain knowledge bases](<https://www.amazon.science/publications/from-unstructured-communication-to-intelligent-rag-multi-agent-automation-for-supply-chain-knowledge-bases>) | Publication | Official page |
-| 2025 | [Faithful, unfaithful or ambiguous? Multi-agent debate with initial stance for summary evaluation](<https://www.amazon.science/publications/faithful-unfaithful-or-ambiguous-multi-agent-debate-with-initial-stance-for-summary-evaluation>) | Publication | Official page |
+| 2025 | [Faithful, unfaithful or ambiguous? Multi-agent debate with initial stance for summary evaluation](<https://www.amazon.science/publications/faithful-unfaithful-or-ambiguous-multi-agent-debate-with-initial-stance-for-summary-evaluation>) | Publication | Official page, Verified affiliation |
 | 2025 | [Enhancing LLM-as-a-judge via multi-agent collaboration](<https://www.amazon.science/publications/enhancing-llm-as-a-judge-via-multi-agent-collaboration>) | Publication | Official page |
 | 2025 | [DEPART\: A hierarchical multi-agent system for multi-turn interaction](<https://www.amazon.science/publications/depart-a-hierarchical-multi-agent-system-for-multi-turn-interaction>) | Publication | Official page |
 | 2025 | [Customer-R1\: Personalized simulation of human behaviors via RL-based LLM agent in online shopping](<https://www.amazon.science/publications/customer-r1-personalized-simulation-of-human-behaviors-via-rl-based-llm-agent-in-online-shopping>) | Publication | Official page |
@@ -703,7 +825,6 @@
 | 2025 | [Building analyst-like agents\: A self-improving multi-agent framework for financial reasoning in the enterprise](<https://www.amazon.science/publications/building-analyst-like-agents-a-self-improving-multi-agent-framework-for-financial-reasoning-in-the-enterprise>) | Publication | Official page |
 | 2025 | [BYOKG-RAG\: Multi-strategy graph retrieval for knowledge graph question answering](<https://www.amazon.science/publications/byokg-rag-multi-strategy-graph-retrieval-for-knowledge-graph-question-answering>) | Publication | Official page |
 | 2025 | [Auto-GDA\: Automatic domain adaptation for grounding verification in retrieval-augmented generation](<https://www.amazon.science/publications/auto-gda-automatic-domain-adaptation-for-grounding-verification-in-retrieval-augmented-generation>) | Publication | Official page |
-| 2025 | [AgentOccam\: A simple yet strong baseline for LLM-based web agents](<https://www.amazon.science/publications/agentoccam-a-simple-yet-strong-baseline-for-llm-based-web-agents>) | Publication | Official page |
 | 2025 | [MAPoRL\: Multi-agent post-co-training for collaborative large language models with reinforcement learning](<https://www.amazon.science/publications/maporl-multi-agent-post-co-training-for-collaborative-large-language-models-with-reinforcement-learning>) | Publication | Official page |
 | 2025 | [Zero-resource speech translation and recognition with LLMs](<https://www.amazon.science/publications/zero-resource-speech-translation-and-recognition-with-llms>) | Publication | Official page |
 | 2025 | [VL-Cache\: Sparsity and modality-aware KV cache compression for vision-language model inference acceleration](<https://www.amazon.science/publications/vl-cache-sparsity-and-modality-aware-kv-cache-compression-for-vision-language-model-inference-acceleration>) | Publication | Official page |
@@ -720,7 +841,7 @@
 | 2025 | [SQLGenie\: A practical LLM based system for reliable and efficient SQL generation](<https://www.amazon.science/publications/sqlgenie-a-practical-llm-based-system-for-reliable-and-efficient-sql-generation>) | Publication | Official page |
 | 2025 | [SATA-BENCH\: Select all that apply benchmark for multiple choice questions](<https://www.amazon.science/publications/sata-bench-select-all-that-apply-benchmark-for-multiple-choice-questions>) | Publication | Official page, OpenAlex |
 | 2025 | [Rationale-guided distillation for e-commerce relevance classification\: Bridging large language models and lightweight cross-encoders](<https://www.amazon.science/publications/rationale-guided-distillation-for-e-commerce-relevance-classification-bridging-large-language-models-and-lightweight-cross-encoders>) | Publication | Official page |
-| 2025 | [RAGferee\: Building contextual reward models for retrieval-augmented generation](<https://www.amazon.science/publications/ragferee-building-contextual-reward-models-for-retrieval-augmented-generation>) | Publication | Official page |
+| 2025 | [RAGferee\: Building contextual reward models for retrieval-augmented generation](<https://www.amazon.science/publications/ragferee-building-contextual-reward-models-for-retrieval-augmented-generation>) | Publication | Official page, Verified affiliation |
 | 2025 | [R-VLM\: Region-aware vision language model for precise GUI grounding](<https://www.amazon.science/publications/r-vlm-region-aware-vision-language-model-for-precise-gui-grounding>) | Publication | Official page |
 | 2025 | [QID\: Efficient query-informed ViTs in data-scarce regimes for OCR-free visual document understanding](<https://www.amazon.science/publications/qid-efficient-query-informed-vits-in-data-scarce-regimes-for-ocr-free-visual-document-understanding>) | Publication | Official page |
 | 2025 | [PersonaLens\: A benchmark for personalization evaluation in conversational AI assistants](<https://www.amazon.science/publications/personalens-a-benchmark-for-personalization-evaluation-in-conversational-ai-assistants>) | Publication | Official page |
@@ -739,11 +860,10 @@
 | 2025 | [FalseReject\: A resource for improving contextual safety and mitigating over-refusals in LLMs via structured reasoning](<https://www.amazon.science/publications/falsereject-a-resource-for-improving-contextual-safety-and-mitigating-over-refusals-in-llms-via-structured-reasoning>) | Publication | Official page |
 | 2025 | [Exposing privacy gaps\: Membership inference attack on preference data for LLM alignment](<https://www.amazon.science/publications/exposing-privacy-gaps-membership-inference-attack-on-preference-data-for-llm-alignment>) | Publication | Official page |
 | 2025 | [EcomScriptBench\: A multi-task benchmark for e-commerce script planning via step-wise intention-driven product association](<https://www.amazon.science/publications/ecomscriptbench-a-multi-task-benchmark-for-e-commerce-script-planning-via-step-wise-intention-driven-product-association>) | Publication | Official page |
-| 2025 | [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](<https://www.amazon.science/publications/do-llms-recognize-your-preferences-evaluating-personalized-preference-following-in-llms>) | Publication | Official page |
+| 2025 | [Do LLMs recognize your preferences? Evaluating personalized preference following in LLMs](<https://www.amazon.science/publications/do-llms-recognize-your-preferences-evaluating-personalized-preference-following-in-llms>) | Publication | Official page, Verified affiliation |
 | 2025 | [DIVERSED\: Relaxed speculative decoding via dynamic ensemble verification](<https://www.amazon.science/publications/diversed-relaxed-speculative-decoding-via-dynamic-ensemble-verification>) | Publication | Official page |
 | 2025 | [Contextual ASR with retrieval augmented large language model](<https://www.amazon.science/publications/contextual-asr-with-retrieval-augmented-large-language-model>) | Publication | Official page |
 | 2025 | [Context length alone hurts LLM performance despite perfect retrieval](<https://www.amazon.science/publications/context-length-alone-hurts-llm-performance-despite-perfect-retrieval>) | Publication | Official page |
-| 2025 | [Constrained decoding with speculative lookaheads](<https://www.amazon.science/publications/constrained-decoding-with-speculative-lookaheads>) | Publication | Official page |
 | 2025 | [Compress, gather, and recompute\: REFORMing long-context processing in transformers](<https://www.amazon.science/publications/compress-gather-and-recompute-reforming-long-context-processing-in-transformers>) | Publication | Official page |
 | 2025 | [CoLLM\: A large language model for composed image retrieval](<https://www.amazon.science/publications/collm-a-large-language-model-for-composed-image-retrieval>) | Publication | Official page |
 | 2025 | [CACHE-ED\: Redefining document entity extraction with graph-based templates, actor-critic agents &amp; HIL](<https://www.amazon.science/publications/cache-ed-redefining-document-entity-extraction-with-graph-based-templates-actor-critic-agents-hil>) | Publication | Official page |
@@ -751,7 +871,7 @@
 | 2025 | [AttributeForge\: An agentic LLM framework for automated product schema modeling](<https://www.amazon.science/publications/attributeforge-an-agentic-llm-framework-for-automated-product-schema-modeling>) | Publication | Official page |
 | 2025 | [Aligning to constraints for data-efficient language model customization](<https://www.amazon.science/publications/aligning-to-constraints-for-data-efficient-language-model-customization>) | Publication | Official page |
 | 2025 | [Active evaluation acquisition for efficient LLM benchmarking](<https://www.amazon.science/publications/active-evaluation-acquisition-for-efficient-llm-benchmarking>) | Publication | Official page |
-| 2025 | [A tri-agent framework for evaluating and aligning question clarification capabilities of large language models](<https://www.amazon.science/publications/a-tri-agent-framework-for-evaluating-and-aligning-question-clarification-capabilities-of-large-language-models>) | Publication | Official page |
+| 2025 | [A tri-agent framework for evaluating and aligning question clarification capabilities of large language models](<https://www.amazon.science/publications/a-tri-agent-framework-for-evaluating-and-aligning-question-clarification-capabilities-of-large-language-models>) | Publication | Official page, Verified affiliation |
 | 2025 | [Scalable, validated code translation of entire projects using large language models](<https://www.amazon.science/publications/scalable-validated-code-translation-of-entire-projects-using-large-language-models>) | Publication | Official page |
 | 2025 | [Enhancing e-commerce representation learning via hypergraph contrastive learning and interpretable LLM-driven analysis](<https://www.amazon.science/publications/enhancing-e-commerce-representation-learning-via-hypergraph-contrastive-learning-and-interpretable-llm-driven-analysis>) | Publication | Official page |
 | 2025 | [Zero-shot 3D question answering via voxel-based dynamic token compression](<https://www.amazon.science/publications/zero-shot-3d-question-answering-via-voxel-based-dynamic-token-compression>) | Publication | Official page |
@@ -760,7 +880,7 @@
 | 2025 | [Unlocking efficient, scalable, and continual knowledge editing with basis-level representation fine-tuning](<https://www.amazon.science/publications/unlocking-efficient-scalable-and-continual-knowledge-editing-with-basis-level-representation-fine-tuning>) | Publication | Official page |
 | 2025 | [Universal semantic disentangled privacy-preserving speech representation learning](<https://www.amazon.science/publications/universal-semantic-disentangled-privacy-preserving-speech-representation-learning>) | Publication | Official page |
 | 2025 | [Understanding the limitations of medical reasoning in large language models](<https://www.amazon.science/publications/understanding-the-limitations-of-medical-reasoning-in-large-language-models>) | Publication | Official page |
-| 2025 | [Understanding and improving information preservation in prompt compression for LLMs](<https://www.amazon.science/publications/understanding-and-improving-information-preservation-in-prompt-compression-for-llms>) | Publication | Official page |
+| 2025 | [Understanding and improving information preservation in prompt compression for LLMs](<https://www.amazon.science/publications/understanding-and-improving-information-preservation-in-prompt-compression-for-llms>) | Publication | Official page, Verified affiliation |
 | 2025 | [UTFix\: Change aware unit test repairing using LLM](<https://www.amazon.science/publications/utfix-change-aware-unit-test-repairing-using-llm>) | Publication | Official page |
 | 2025 | [Tuning-free personalized alignment via trial-error-explain in-context learning](<https://www.amazon.science/publications/tuning-free-personalized-alignment-via-trial-error-explain-in-context-learning>) | Publication | Official page |
 | 2025 | [Trustworthiness-as-reward\: Improving LLM performance on text classification through reinforcement learning](<https://www.amazon.science/publications/trustworthiness-as-reward-improving-llm-performance-on-text-classification-through-reinforcement-learning>) | Publication | Official page |
@@ -782,7 +902,6 @@
 | 2025 | [REIC\: RAG-enhanced intent classification at scale](<https://www.amazon.science/publications/reic-rag-enhanced-intent-classification-at-scale>) | Publication | Official page |
 | 2025 | [Quantifying fairness in LLMs beyond tokens\: A semantic and statistical perspective](<https://www.amazon.science/publications/quantifying-fairness-in-llms-beyond-tokens-a-semantic-and-statistical-perspective>) | Publication | Official page |
 | 2025 | [QA-Calibration of language model confidence scores](<https://www.amazon.science/publications/qa-calibration-of-language-model-confidence-scores>) | Publication | Official page |
-| 2025 | [Proposer-agent-evaluator (PAE)\: Autonomous skill discovery for foundation model internet agents](<https://www.amazon.science/publications/proposer-agent-evaluator-pae-autonomous-skill-discovery-for-foundation-model-internet-agents>) | Publication | Official page |
 | 2025 | [PipeRAG\: Fast retrieval-augmented generation via adaptive pipeline parallelism](<https://www.amazon.science/publications/piperag-fast-retrieval-augmented-generation-via-adaptive-pipeline-parallelism>) | Publication | Official page |
 | 2025 | [PipeFill\: Using GPUs during bubbles in pipeline-parallel LLM training](<https://www.amazon.science/publications/pipefill-using-gpus-during-bubbles-in-pipeline-parallel-llm-training>) | Publication | Official page |
 | 2025 | [PARSE\: LLM driven schema optimization for reliable entity extraction](<https://www.amazon.science/publications/parse-llm-driven-schema-optimization-for-reliable-entity-extraction>) | Publication | Official page |
@@ -793,11 +912,11 @@
 | 2025 | [Monte Carlo Temperature\: A robust sampling strategy for LLM’s uncertainty quantification methods](<https://www.amazon.science/publications/monte-carlo-temperature-a-robust-sampling-strategy-for-llms-uncertainty-quantification-methods>) | Publication | Official page |
 | 2025 | [Measuring the fairness gap between retrieval and generation in RAG systems using a cognitive complexity framework](<https://www.amazon.science/publications/measuring-the-fairness-gap-between-retrieval-and-generation-in-rag-systems-using-a-cognitive-complexity-framework>) | Publication | Official page |
 | 2025 | [Marconi\: Prefix caching for the era of hybrid LLMs](<https://www.amazon.science/publications/marconi-prefix-caching-for-the-era-of-hybrid-llms>) | Publication | Official page |
-| 2025 | [MEMERAG\: A multilingual end-to-end meta-evaluation benchmark for retrieval augmented generation](<https://www.amazon.science/publications/memerag-a-multilingual-end-to-end-meta-evaluation-benchmark-for-retrieval-augmented-generation>) | Publication | Official page |
+| 2025 | [MEMERAG\: A multilingual end-to-end meta-evaluation benchmark for retrieval augmented generation](<https://www.amazon.science/publications/memerag-a-multilingual-end-to-end-meta-evaluation-benchmark-for-retrieval-augmented-generation>) | Publication | Official page, Verified affiliation |
 | 2025 | [LongLeader\: A comprehensive leaderboard for large language models in long-context scenarios](<https://www.amazon.science/publications/longleader-a-comprehensive-leaderboard-for-large-language-models-in-long-context-scenarios>) | Publication | Official page |
-| 2025 | [LentEx\: Generalizable latent entity extraction via synthetic data and instruction-tuned LLMs](<https://www.amazon.science/publications/lentex-generalizable-latent-entity-extraction-via-synthetic-data-and-instruction-tuned-llms>) | Publication | Official page |
+| 2025 | [LentEx\: Generalizable latent entity extraction via synthetic data and instruction-tuned LLMs](<https://www.amazon.science/publications/lentex-generalizable-latent-entity-extraction-via-synthetic-data-and-instruction-tuned-llms>) | Publication | Official page, Verified affiliation |
 | 2025 | [Learning with less\: Knowledge distillation from large language models via unlabeled data](<https://www.amazon.science/publications/learning-with-less-knowledge-distillation-from-large-language-models-via-unlabeled-data>) | Publication | Official page |
-| 2025 | [LUME\: LLM unlearning with multitask evaluations](<https://www.amazon.science/publications/lume-llm-unlearning-with-multitask-evaluations>) | Publication | Official page |
+| 2025 | [LUME\: LLM unlearning with multitask evaluations](<https://www.amazon.science/publications/lume-llm-unlearning-with-multitask-evaluations>) | Publication | Official page, Verified affiliation |
 | 2025 | [LLaVA-RE\: Binary image-text relevancy evaluation with multimodal large language model](<https://www.amazon.science/publications/llava-re-binary-image-text-relevancy-evaluation-with-multimodal-large-language-model>) | Publication | Official page |
 | 2025 | [LLMs for customized marketing content generation and evaluation at scale](<https://www.amazon.science/publications/llms-for-customized-marketing-content-generation-and-evaluation-at-scale>) | Publication | Official page |
 | 2025 | [LLM-STARS\: LLM-enhanced standardization of time-series analysis and relationships in subledgers](<https://www.amazon.science/publications/llm-stars-llm-enhanced-standardization-of-time-series-analysis-and-relationships-in-subledgers>) | Publication | Official page |
@@ -816,7 +935,7 @@
 | 2025 | [Effective post-training embedding compression via temperature control in contrastive training](<https://www.amazon.science/publications/effective-post-training-embedding-compression-via-temperature-control-in-contrastive-training>) | Publication | Official page |
 | 2025 | [DuRep\: Dual-mode speech representation learning via ASR-aware distillation](<https://www.amazon.science/publications/durep-dual-mode-speech-representation-learning-via-asr-aware-distillation>) | Publication | Official page |
 | 2025 | [DreamBlend\: Advancing personalized fine-tuning of text-to-image diffusion models](<https://www.amazon.science/publications/dreamblend-advancing-personalized-fine-tuning-of-text-to-image-diffusion-models>) | Publication | Official page |
-| 2025 | [Document haystack\: A long context multimodal image/document understanding vision LLM benchmark](<https://www.amazon.science/publications/document-haystack-a-long-context-multimodal-image-document-understanding-vision-llm-benchmark>) | Publication | Official page |
+| 2025 | [Document haystack\: A long context multimodal image/document understanding vision LLM benchmark](<https://www.amazon.science/publications/document-haystack-a-long-context-multimodal-image-document-understanding-vision-llm-benchmark>) | Publication | Official page, Verified affiliation |
 | 2025 | [DocVLM\: Make your VLM an efficient reader](<https://www.amazon.science/publications/docvlm-make-your-vlm-an-efficient-reader>) | Publication | Official page |
 | 2025 | [DocTalk\: Scalable graph-based dialogue synthesis for enhancing LLM conversational capabilities](<https://www.amazon.science/publications/doctalk-scalable-graph-based-dialogue-synthesis-for-enhancing-llm-conversational-capabilities>) | Publication | Official page |
 | 2025 | [Direct and explicit 3D generation from a single image](<https://www.amazon.science/publications/direct-and-explicit-3d-generation-from-a-single-image>) | Publication | Official page |
@@ -874,7 +993,7 @@
 | 2025 | [TurboFuzzLLM\: Turbocharging mutation-based fuzzing for effectively jailbreaking large language models in practice](<https://www.amazon.science/publications/turbofuzzllm-turbocharging-mutation-based-fuzzing-for-effectively-jailbreaking-large-language-models-in-practice>) | Publication | Official page |
 | 2025 | [Tree-of-Prompts\: Abstracting control-flow for prompt optimization](<https://www.amazon.science/publications/tree-of-prompts-abstracting-control-flow-for-prompt-optimization>) | Publication | Official page |
 | 2025 | [Transforming expert knowledge into scalable ontology via large language models](<https://www.amazon.science/publications/transforming-expert-knowledge-into-scalable-ontology-via-large-language-models>) | Publication | Official page |
-| 2025 | [Training LLMs with MXFP4](<https://www.amazon.science/publications/training-llms-with-mxfp4>) | Publication | Official page |
+| 2025 | [Training LLMs with MXFP4](<https://www.amazon.science/publications/training-llms-with-mxfp4>) | Publication | Official page, Verified affiliation |
 | 2025 | [Towards safety reasoning in LLMs\: AI-agentic deliberation for policy-embedded CoT data creation](<https://www.amazon.science/publications/towards-safety-reasoning-in-llms-ai-agentic-deliberation-for-policy-embedded-cot-data-creation>) | Publication | Official page |
 | 2025 | [Towards robust knowledge representations in multilingual LLMs for equivalence and inheritance based consistent reasoning](<https://www.amazon.science/publications/towards-robust-knowledge-representations-in-multilingual-llms-for-equivalence-and-inheritance-based-consistent-reasoning>) | Publication | Official page |
 | 2025 | [Towards long context hallucination detection](<https://www.amazon.science/publications/towards-long-context-hallucination-detection>) | Publication | Official page |
@@ -889,7 +1008,7 @@
 | 2025 | [TaeBench\: Improving quality of toxic adversarial examples](<https://www.amazon.science/publications/taebench-improving-quality-of-toxic-adversarial-examples>) | Publication | Official page |
 | 2025 | [TSKANMixer\: Kolmogorov–Arnold networks with MLP-mixer model for time series forecasting](<https://www.amazon.science/publications/tskanmixer-kolmogorov-arnold-networks-with-mlp-mixer-model-for-time-series-forecasting>) | Publication | Official page |
 | 2025 | [TOD-ProcBench\: Benchmarking complex instruction-following in task-oriented dialogues](<https://www.amazon.science/publications/tod-procbench-benchmarking-complex-instruction-following-in-task-oriented-dialogues>) | Publication | Official page |
-| 2025 | [TN-Eval\: Rubric and evaluation protocols for measuring the quality of behavioral therapy notes](<https://www.amazon.science/publications/tn-eval-rubric-and-evaluation-protocols-for-measuring-the-quality-of-behavioral-therapy-notes>) | Publication | Official page |
+| 2025 | [TN-Eval\: Rubric and evaluation protocols for measuring the quality of behavioral therapy notes](<https://www.amazon.science/publications/tn-eval-rubric-and-evaluation-protocols-for-measuring-the-quality-of-behavioral-therapy-notes>) | Publication | Official page, Verified affiliation |
 | 2025 | [TAP-VL\: Text layout-aware pre-training for enriched vision-language models](<https://www.amazon.science/publications/tap-vl-text-layout-aware-pre-training-for-enriched-vision-language-models>) | Publication | Official page |
 | 2025 | [Sustainability-focused generative AI risk mitigation strategies](<https://www.amazon.science/publications/sustainability-focused-generative-ai-risk-mitigation-strategies>) | Publication | Official page |
 | 2025 | [Stow\: Robotic packing of items into fabric pods](<https://www.amazon.science/publications/stow-robotic-packing-of-items-into-fabric-pods>) | Publication | Official page |
@@ -928,7 +1047,7 @@
 | 2025 | [RRO\: LLM agent optimization through rising reward trajectories](<https://www.amazon.science/publications/rro-llm-agent-optimization-through-rising-reward-trajectories>) | Publication | Official page |
 | 2025 | [RECoRD\: A multi-agent LLM framework for reverse engineering codebase to relational diagram](<https://www.amazon.science/publications/record-a-multi-agent-llm-framework-for-reverse-engineering-codebase-to-relational-diagram>) | Publication | Official page |
 | 2025 | [Quantile regression with large language models for price prediction](<https://www.amazon.science/publications/quantile-regression-with-large-language-models-for-price-prediction>) | Publication | Official page |
-| 2025 | [ProxSparse\: Regularized learning of semi-structured sparsity masks for pretrained LLMs](<https://www.amazon.science/publications/proxsparse-regularized-learning-of-semi-structured-sparsity-masks-for-pretrained-llms>) | Publication | Official page |
+| 2025 | [ProxSparse\: Regularized learning of semi-structured sparsity masks for pretrained LLMs](<https://www.amazon.science/publications/proxsparse-regularized-learning-of-semi-structured-sparsity-masks-for-pretrained-llms>) | Publication | Official page, Verified affiliation |
 | 2025 | [Protein structure tokenization\: Benchmarking and new recipe](<https://www.amazon.science/publications/protein-structure-tokenization-benchmarking-and-new-recipe>) | Publication | Official page |
 | 2025 | [Privacy preserving data selection for bias mitigation in speech models](<https://www.amazon.science/publications/privacy-preserving-data-selection-for-bias-mitigation-in-speech-models>) | Publication | Official page |
 | 2025 | [Privacy and fairness in machine learning\: A survey](<https://www.amazon.science/publications/privacy-and-fairness-in-machine-learning-a-survey>) | Publication | Official page |
@@ -945,7 +1064,7 @@
 | 2025 | [Optimal pattern detection tree for symbolic rule-based classification](<https://www.amazon.science/publications/optimal-pattern-detection-tree-for-symbolic-rule-based-classification>) | Publication | Official page |
 | 2025 | [OpenM3D\: Open vocabulary multi-view indoor 3D object detection without human annotations](<https://www.amazon.science/publications/openm3d-open-vocabulary-multi-view-indoor-3d-object-detection-without-human-annotations>) | Publication | Official page |
 | 2025 | [On localizing and deleting toxic memories in large language models](<https://www.amazon.science/publications/on-localizing-and-deleting-toxic-memories-in-large-language-models>) | Publication | Official page |
-| 2025 | [OmniMatch\: Joinability discovery in data products](<https://www.amazon.science/publications/omnimatch-joinability-discovery-in-data-products>) | Publication | Official page |
+| 2025 | [OmniMatch\: Joinability discovery in data products](<https://www.amazon.science/publications/omnimatch-joinability-discovery-in-data-products>) | Publication | Official page, OpenAlex |
 | 2025 | [Off-policy evaluation of candidate generators in two-stage recommender systems](<https://www.amazon.science/publications/off-policy-evaluation-of-candidate-generators-in-two-stage-recommender-systems>) | Publication | Official page |
 | 2025 | [Multilingual information retrieval with a monolingual knowledge base](<https://www.amazon.science/publications/multilingual-information-retrieval-with-a-monolingual-knowledge-base>) | Publication | Official page |
 | 2025 | [Multi-layer stack ensembles for time series forecasting](<https://www.amazon.science/publications/multi-layer-stack-ensembles-for-time-series-forecasting>) | Publication | Official page |
@@ -960,17 +1079,17 @@
 | 2025 | [MURPHY\: Reflective multi-turn reinforcement learning for self-correcting code generation in large language models](<https://www.amazon.science/publications/murphy-reflective-multi-turn-reinforcement-learning-for-self-correcting-code-generation-in-large-language-models>) | Publication | Official page |
 | 2025 | [MO-LightGBM\: A library for multi-objective learning to rank with LightGBM](<https://www.amazon.science/publications/mo-lightgbm-a-library-for-multi-objective-learning-to-rank-with-lightgbm>) | Publication | Official page |
 | 2025 | [MITRA\: Mixed synthetic priors for enhancing tabular foundation models](<https://www.amazon.science/publications/mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models>) | Publication | Official page |
-| 2025 | [MDSEval\: A meta-evaluation benchmark for multimodal dialogue summarization](<https://www.amazon.science/publications/mdseval-a-meta-evaluation-benchmark-for-multimodal-dialogue-summarization>) | Publication | Official page |
+| 2025 | [MDSEval\: A meta-evaluation benchmark for multimodal dialogue summarization](<https://www.amazon.science/publications/mdseval-a-meta-evaluation-benchmark-for-multimodal-dialogue-summarization>) | Publication | Official page, Verified affiliation |
 | 2025 | [MASSIVE-Agents\: A benchmark for multilingual function-calling in 52 languages](<https://www.amazon.science/publications/massive-agents-a-benchmark-for-multilingual-function-calling-in-52-languages>) | Publication | Official page |
 | 2025 | [LibEvolutionEval\: A benchmark and study for version-specific code generation](<https://www.amazon.science/publications/libevolutioneval-a-benchmark-and-study-for-version-specific-code-generation>) | Publication | Official page |
 | 2025 | [Let a neural network be your invariant](<https://www.amazon.science/publications/let-a-neural-network-be-your-invariant>) | Publication | Official page |
 | 2025 | [Learning visual hierarchies in hyperbolic space for image retrieval](<https://www.amazon.science/publications/learning-visual-hierarchies-in-hyperbolic-space-for-image-retrieval>) | Publication | Official page |
-| 2025 | [Learning to reason over time\: Timeline self-reflection for improved temporal reasoning in language models](<https://www.amazon.science/publications/learning-to-reason-over-time-timeline-self-reflection-for-improved-temporal-reasoning-in-language-models>) | Publication | Official page |
+| 2025 | [Learning to reason over time\: Timeline self-reflection for improved temporal reasoning in language models](<https://www.amazon.science/publications/learning-to-reason-over-time-timeline-self-reflection-for-improved-temporal-reasoning-in-language-models>) | Publication | Official page, Verified affiliation |
 | 2025 | [Learning to optimize package picking for large-scale, real-world robot induction](<https://www.amazon.science/publications/learning-to-optimize-package-picking-for-large-scale-real-world-robot-induction>) | Publication | Official page |
 | 2025 | [Learning rich speech representations with acoustic-semantic factorization](<https://www.amazon.science/publications/learning-rich-speech-representations-with-acoustic-semantic-factorization>) | Publication | Official page |
 | 2025 | [LatteCLIP\: Unsupervised CLIP fine-tuning via LMM-synthetic texts](<https://www.amazon.science/publications/latteclip-unsupervised-clip-fine-tuning-via-lmm-synthetic-texts>) | Publication | Official page |
 | 2025 | [Latent diffusion shield - Mitigating malicious use of diffusion models through latent space adversarial perturbations](<https://www.amazon.science/publications/latent-diffusion-shield-mitigating-malicious-use-of-diffusion-models-through-latent-space-adversarial-perturbations>) | Publication | Official page |
-| 2025 | [LV-MAE\: Learning long video representations through masked-embedding autoencoders](<https://www.amazon.science/publications/lv-mae-learning-long-video-representations-through-masked-embedding-autoencoders>) | Publication | Official page |
+| 2025 | [LV-MAE\: Learning long video representations through masked-embedding autoencoders](<https://www.amazon.science/publications/lv-mae-learning-long-video-representations-through-masked-embedding-autoencoders>) | Publication | Official page, Verified affiliation |
 | 2025 | [LOFTI\: Localization and factuality transfer to Indian locales](<https://www.amazon.science/publications/lofti-localization-and-factuality-transfer-to-indian-locales>) | Publication | Official page |
 | 2025 | [LEAD - Framework for efficient time-series anomaly detection on large scale data using LLMs](<https://www.amazon.science/publications/lead-framework-for-efficient-time-series-anomaly-detection-on-large-scale-data-using-llms>) | Publication | Official page |
 | 2025 | [Kaputt\: A large-scale dataset for visual defect detection](<https://www.amazon.science/publications/kaputt-a-large-scale-dataset-for-visual-defect-detection>) | Publication | Official page |
@@ -999,9 +1118,9 @@
 | 2025 | [Geometric collaborative filtering with convergence](<https://www.amazon.science/publications/geometric-collaborative-filtering-with-convergence>) | Publication | Official page |
 | 2025 | [Generative product recommendations for implicit superlative queries](<https://www.amazon.science/publications/generative-product-recommendations-for-implicit-superlative-queries>) | Publication | Official page |
 | 2025 | [Generative or discriminative? Revisiting text classification in the era of transformers](<https://www.amazon.science/publications/generative-or-discriminative-revisiting-text-classification-in-the-era-of-transformers>) | Publication | Official page |
-| 2025 | [Generative data augmentation challenge\: Zero-shot speech synthesis for personalized speech enhancement](<https://www.amazon.science/publications/generative-data-augmentation-challenge-zero-shot-speech-synthesis-for-personalized-speech-enhancement>) | Publication | Official page |
-| 2025 | [Generative data augmentation challenge\: Synthesis of room acoustics for speaker distance estimation](<https://www.amazon.science/publications/generative-data-augmentation-challenge-synthesis-of-room-acoustics-for-speaker-distance-estimation>) | Publication | Official page |
-| 2025 | [GaRAGe\: A benchmark with grounding annotations for RAG evaluation](<https://www.amazon.science/publications/garage-a-benchmark-with-grounding-annotations-for-rag-evaluation>) | Publication | Official page |
+| 2025 | [Generative data augmentation challenge\: Zero-shot speech synthesis for personalized speech enhancement](<https://www.amazon.science/publications/generative-data-augmentation-challenge-zero-shot-speech-synthesis-for-personalized-speech-enhancement>) | Publication | Official page, OpenAlex |
+| 2025 | [Generative data augmentation challenge\: Synthesis of room acoustics for speaker distance estimation](<https://www.amazon.science/publications/generative-data-augmentation-challenge-synthesis-of-room-acoustics-for-speaker-distance-estimation>) | Publication | Official page, OpenAlex |
+| 2025 | [GaRAGe\: A benchmark with grounding annotations for RAG evaluation](<https://www.amazon.science/publications/garage-a-benchmark-with-grounding-annotations-for-rag-evaluation>) | Publication | Official page, Verified affiliation |
 | 2025 | [Forking-Sequences\: Statistically and computationally efficient multi-horizon forecasting with reduced volatility](<https://www.amazon.science/publications/forking-sequences-statistically-and-computationally-efficient-multi-horizon-forecasting-with-reduced-volatility>) | Publication | Official page |
 | 2025 | [Faithful and interpretable explanations for complex ensemble time series forecasts using surrogate models and forecastability analysis](<https://www.amazon.science/publications/faithful-and-interpretable-explanations-for-complex-ensemble-time-series-forecasts-using-surrogate-models-and-forecastability-analysis>) | Publication | Official page |
 | 2025 | [FABRIC\: Fully-automated broad intent categorization in e-commerce](<https://www.amazon.science/publications/fabric-fully-automated-broad-intent-categorization-in-e-commerce>) | Publication | Official page |
@@ -1071,7 +1190,7 @@
 | 2025 | [A multi-stage pipeline for accurate handwritten information extraction from financial forms](<https://www.amazon.science/publications/a-multi-stage-pipeline-for-accurate-handwritten-information-extraction-from-financial-forms>) | Publication | Official page |
 | 2025 | [A general framework to enhance fine-tuning-based LLM unlearning](<https://www.amazon.science/publications/a-general-framework-to-enhance-fine-tuning-based-llm-unlearning>) | Publication | Official page |
 | 2025 | [A framework to optimize shelf space allocations for physical stores](<https://www.amazon.science/publications/a-framework-to-optimize-shelf-space-allocations-for-physical-stores>) | Publication | Official page |
-| 2025 | [A calibrated reflection approach for enhancing confidence estimation in LLMs](<https://www.amazon.science/publications/a-calibrated-reflection-approach-for-enhancing-confidence-estimation-in-llms>) | Publication | Official page |
+| 2025 | [A calibrated reflection approach for enhancing confidence estimation in LLMs](<https://www.amazon.science/publications/a-calibrated-reflection-approach-for-enhancing-confidence-estimation-in-llms>) | Publication | Official page, Verified affiliation |
 | 2025 | [A biconvex method for minimum-time motion planning through sequences of convex sets](<https://www.amazon.science/publications/a-biconvex-method-for-minimum-time-motion-planning-through-sequences-of-convex-sets>) | Publication | Official page |
 | 2025 | [Bi-NAS\: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search](<https://research.google/pubs/bi-nas-towards-effective-and-personalized-explanation-for-recommender-systems-via-bi-level-neural-architecture-search/>) | Publication | OpenAlex, Official page |
 | 2025 | [Stepwise multi-turn jailbreak attacks on code LLMs via task decomposition and test-time scaling](<https://www.amazon.science/nova-ai-challenge/proceedings/stepwise-multi-turn-jailbreak-attacks-on-code-llms-via-task-decomposition-and-test-time-scaling>) | Publication | Official page |
@@ -1093,9 +1212,15 @@
 |---|---|---|---|
 | 2024‑12‑30 | [A dataset and benchmark for hospital course summarization with adapted large language models](<http://arxiv.org/abs/2403.05720>) | Article | OpenAlex |
 | 2024‑12‑28 | [Parameter-efficient fine-tuning of large language models using semantic knowledge tuning](<https://doi.org/10.1038/s41598-024-75599-4>) | Article | OpenAlex |
+| 2024‑12‑17 | [Proposer-agent-evaluator (PAE)\: Autonomous skill discovery for foundation model internet agents](<https://www.amazon.science/publications/proposer-agent-evaluator-pae-autonomous-skill-discovery-for-foundation-model-internet-agents>) | Publication | Official page, Verified affiliation |
 | 2024‑12‑15 | [LLM Enhanced Machine Learning Estimators for Classification](<https://doi.org/10.1109/wsc63780.2024.10838779>) | Article | OpenAlex |
+| 2024‑12‑12 | [Rethinking LLM uncertainty\: A multi-agent approach to estimating black-box model uncertainty](<https://www.amazon.science/publications/rethinking-llm-uncertainty-a-multi-agent-approach-to-estimating-black-box-model-uncertainty>) | Publication | Official page, Verified affiliation |
 | 2024‑12‑12 | [Fine-Tuning Llama 3 for Sentiment Analysis\: Leveraging AWS Cloud for Enhanced Performance](<https://doi.org/10.1007/s42979-024-03473-1>) | Article | OpenAlex |
+| 2024‑12‑09 | [Constrained decoding with speculative lookaheads](<https://www.amazon.science/publications/constrained-decoding-with-speculative-lookaheads>) | Publication | Official page, Verified affiliation |
 | 2024‑12‑09 | [Warm-Starting Contextual Bandits Under Latent Reward Scaling](<https://doi.org/10.1109/icdm59182.2024.00043>) | Article | OpenAlex |
+| 2024‑12‑02 | [Gradient-Free Generation for Hard-Constrained Systems](<https://arxiv.org/abs/2412.01786>) | Paper | Verified affiliation |
+| 2024‑11‑26 | [Scalable iterative pruning of large language and vision models using block coordinate descent](<https://arxiv.org/abs/2411.17796>) | Paper | Verified affiliation |
+| 2024‑11‑25 | [Factorized Visual Tokenization and Generation](<https://arxiv.org/abs/2411.16681>) | Paper | Verified affiliation |
 | 2024‑11‑20 | [Skews in the Phenomenon Space Hinder Generalization in Text-to-Image Generation](<https://doi.org/10.1007/978-3-031-73021-4_25>) | Book chapter | OpenAlex |
 | 2024‑11‑12 | [Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models](<https://doi.org/10.1007/978-981-96-0119-6_34>) | Book chapter | OpenAlex |
 | 2024‑11‑06 | [Modified Convolutional Neural Network with Multiple Features for Multimodal Sarcasm Detection](<https://doi.org/10.1109/icrais62903.2024.10811714>) | Article | OpenAlex |
@@ -1104,10 +1229,15 @@
 | 2024‑11‑04 | [Using Generative AI to Build a Reservoir Simulation Assistant](<https://doi.org/10.2118/221987-ms>) | Article | OpenAlex |
 | 2024‑11‑01 | [Emerging trends\: evaluating general purpose foundation models](<https://doi.org/10.1017/s1351324924000068>) | Article | OpenAlex |
 | 2024‑10‑29 | [Adaptive Policy Regularization for Offline-to-Online Reinforcement Learning in HVAC Control](<https://doi.org/10.1145/3671127.3698163>) | Article | OpenAlex |
+| 2024‑10‑29 | [Long-context Protein Language Modeling Using Bidirectional Mamba with Shared Projection Layers](<https://arxiv.org/abs/2411.08909>) | Paper | Verified affiliation |
 | 2024‑10‑20 | [Generative AI and Retrieval-Augmented Generation (RAG) Systems for Enterprise](<https://doi.org/10.1145/3627673.3680117>) | Article | OpenAlex |
 | 2024‑10‑20 | [Workshop on Generative AI for E-commerce](<https://doi.org/10.1145/3627673.3679087>) | Article | OpenAlex |
+| 2024‑10‑17 | [AgentOccam\: A simple yet strong baseline for LLM-based web agents](<https://www.amazon.science/publications/agentoccam-a-simple-yet-strong-baseline-for-llm-based-web-agents>) | Publication | Official page, Verified affiliation |
+| 2024‑10‑17 | [LLM-Rank\: A Graph Theoretical Approach to Pruning Large Language Models](<https://arxiv.org/abs/2410.13299>) | Paper | Verified affiliation |
 | 2024‑10‑14 | [Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations\: A Case Study on DBpedia](<https://doi.org/10.1609/hcomp.v12i1.31605>) | Article | OpenAlex |
 | 2024‑10‑14 | [Response-Aided Score-Matching Representative Approaches for Big Data Analysis and Model Selection under Generalized Linear Models](<https://doi.org/10.3390/a17100456>) | Article | OpenAlex |
+| 2024‑10‑04 | [Learning Code Preference via Synthetic Evolution](<https://arxiv.org/abs/2410.03837>) | Paper | Verified affiliation |
+| 2024‑10‑03 | [Beyond correlation\: The Impact of Human Uncertainty in Measuring the Effectiveness of Automatic Evaluation and LLM-as-a-Judge](<https://arxiv.org/abs/2410.03775>) | Paper | Verified affiliation |
 | 2024‑09‑16 | [Economics and Equity of Large Language Models\: Health Care Perspective](<https://doi.org/10.2196/64226>) | Article | OpenAlex |
 | 2024‑09‑04 | [High Efficient Neural Network for the Segmentation and Detection of Brain Tumors](<https://doi.org/10.1109/globalaisummit62156.2024.10947986>) | Article | OpenAlex |
 | 2024‑08‑31 | [Earnings call scripts generation with large language models\: A study of few-shot prompting and fine-tuning methods](<https://doi.org/10.22541/au.172514199.95737319/v1>) | Preprint | OpenAlex |
@@ -1119,24 +1249,36 @@
 | 2024‑08‑13 | [Research on Image Generation Optimization based Deep Learning](<https://doi.org/10.20944/preprints202408.0927.v1>) | Preprint | OpenAlex |
 | 2024‑08‑01 | [Achieving Inclusive Healthcare through Integrating Education and Research with AI and Personalized Curricula](<https://doi.org/10.1101/2024.07.31.24311182>) | Preprint | OpenAlex |
 | 2024‑07‑24 | [Enhancing reservoir simulation workflows with generative AI for expert model building, quality control, and interpretation](<https://doi.org/10.1190/image2024-4099981.1>) | Article | OpenAlex |
+| 2024‑07‑19 | [Comparing and Contrasting DLWP Backbones on Navier-Stokes and Atmospheric Dynamics](<https://arxiv.org/abs/2407.14129>) | Paper | Verified affiliation |
 | 2024‑07‑11 | [Securing AI-Agentic Interactions via Multi-Agent Reinforcement Learning (MARL) with Secure Communication Protocols](<https://doi.org/10.60087/jaigs.v4i1.397>) | Article | OpenAlex |
 | 2024‑07‑10 | [Multimodal Representation and Retrieval \[MRR 2024\]](<https://doi.org/10.1145/3626772.3657987>) | Article | OpenAlex |
 | 2024‑07‑07 | [Predicting Uncertainty of Generative LLMs with MARS\: Meaning-Aware Response Scoring](<http://dx.doi.org/10.1109/isit57864.2024.10619136>) | Article | OpenAlex |
 | 2024‑07‑07 | [Estimation of Downed Woody Time-Lag Fuel Loadings with Multimodal Remote Sensing Data and Ensemble Machine Learning Regression Model](<http://dx.doi.org/10.1109/igarss53475.2024.10641641>) | Article | OpenAlex |
+| 2024‑06‑11 | [REAL Sampling\: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy](<https://arxiv.org/abs/2406.07735>) | Paper | Verified affiliation |
+| 2024‑06‑11 | [A Framework for Efficient Model Evaluation through Stratification, Sampling, and Estimation](<https://arxiv.org/abs/2406.07320>) | Paper | Verified affiliation |
 | 2024‑06‑03 | [Harness the Power of Generative AI in Healthcare with Amazon AI/ML Services](<https://doi.org/10.1109/ichi61247.2024.00070>) | Article | OpenAlex |
+| 2024‑05‑23 | [RefChecker\: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models](<https://arxiv.org/abs/2405.14486>) | Paper | Verified affiliation |
 | 2024‑05‑14 | [Practical applications of advanced cloud services and generative AI systems in medical image analysis](<https://doi.org/10.54254/2755-2721/64/20241361>) | Article | OpenAlex |
 | 2024‑05‑13 | [CppFlow\: Generative Inverse Kinematics for Efficient and Robust Cartesian Path Planning](<https://doi.org/10.1109/icra57147.2024.10611724>) | Article | OpenAlex |
 | 2024‑05‑11 | [The HaLLMark Effect\: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization](<https://doi.org/10.1145/3613904.3641895>) | Article | OpenAlex |
 | 2024‑05‑08 | [Can GNN be Good Adapter for LLMs?](<https://doi.org/10.1145/3589334.3645627>) | Article | OpenAlex |
 | 2024‑04‑22 | [Recommender Systems in the Era of Large Language Models (LLMs)](<https://doi.org/10.1109/tkde.2024.3392335>) | Article | OpenAlex |
 | 2024‑04‑18 | [DynaPipe\: Optimizing Multi-task Training through Dynamic Pipelines](<https://doi.org/10.1145/3627703.3629585>) | Article | OpenAlex |
+| 2024‑04‑16 | [EMC$^2$\: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence](<https://arxiv.org/abs/2404.10575>) | Paper | Verified affiliation |
+| 2024‑04‑10 | [PEAVS\: Perceptual Evaluation of Audio-Visual Synchrony Grounded in Viewers' Opinion Scores](<https://arxiv.org/abs/2404.07336>) | Paper | Verified affiliation |
 | 2024‑03‑24 | [CLIPSyntel\: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare](<https://doi.org/10.1609/aaai.v38i20.30206>) | Article | OpenAlex |
 | 2024‑03‑24 | [VLN-Video\: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation](<https://doi.org/10.1609/aaai.v38i17.29813>) | Article | OpenAlex |
+| 2024‑03‑13 | [Token Alignment via Character Matching for Subword Completion](<https://arxiv.org/abs/2403.08688>) | Paper | Verified affiliation |
 | 2024‑03‑04 | [Logic-Scaffolding\: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs](<http://arxiv.org/abs/2312.14345>) | Preprint | OpenAlex |
 | 2024‑03‑04 | [Some Useful Things to Know When Combining IR and NLP\: The Easy, the Hard and the Ugly](<https://doi.org/10.1145/3616855.3636452>) | Article | OpenAlex |
 | 2024‑03‑02 | [NLP4ReF\: Requirements Classification and Forecasting\: From Model-Based Design to Large Language Models](<https://doi.org/10.1109/aero58975.2024.10521022>) | Article | OpenAlex |
 | 2024‑03‑02 | [AI, ML, and Large Language Models in Cybersecurity](<http://doi.org/10.56726/irjmets49546>) | Article | OpenAlex |
+| 2024‑02‑28 | [Constrained Decoding for Fill-in-the-Middle Code Language Models via Efficient Left and Right Quotienting of Context-Sensitive Grammars](<https://arxiv.org/abs/2402.17988>) | Paper | Verified affiliation |
+| 2024‑02‑15 | [Explaining Probabilistic Models with Distributional Values](<https://arxiv.org/abs/2402.09947>) | Paper | Verified affiliation |
 | 2024‑02‑12 | [Enhancing Predictive Maintenance in an Oil &amp; Gas Refinery Using IoT, AI &amp; ML\: An Generative AI Solution](<https://doi.org/10.2523/iptc-23466-ms>) | Article | OpenAlex |
+| 2024‑01‑17 | [MADA\: Meta-Adaptive Optimizers through hyper-gradient Descent](<https://arxiv.org/abs/2401.08893>) | Paper | Verified affiliation |
+| 2024‑01‑11 | [A Shocking Amount of the Web is Machine Translated\: Insights from Multi-Way Parallelism](<https://arxiv.org/abs/2401.05749>) | Paper | Verified affiliation |
+| 2024‑01‑04 | [Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition](<https://arxiv.org/abs/2401.02417>) | Paper | Verified affiliation |
 | 2024‑01‑03 | [Text-to-image Editing by Image Information Removal](<https://doi.org/10.1109/wacv57701.2024.00515>) | Article | OpenAlex |
 | 2024‑01‑01 | [Overview of the Ninth Dialog System Technology Challenge\: DSTC9](<http://dx.doi.org/10.1109/taslp.2024.3426331>) | Article | OpenAlex |
 | 2024‑01‑01 | [A Large-Scale Evaluation of Speech Foundation Models](<https://doi.org/10.1109/taslp.2024.3389631>) | Article | OpenAlex |
@@ -1162,7 +1304,7 @@
 | 2024 | [Textual dataset distillation via language model embedding](<https://www.amazon.science/publications/textual-dataset-distillation-via-language-model-embedding>) | Publication | Official page |
 | 2024 | [Generating colloquial radiology reports with large language models](<https://www.amazon.science/publications/generating-colloquial-radiology-reports-with-large-language-models>) | Publication | Official page |
 | 2024 | [The Amazon Nova family of models\: Technical report and model card](<https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card>) | Publication | Official page |
-| 2024 | [SYNTHESIZRR\: Generating diverse datasets with retrieval augmentation](<https://www.amazon.science/publications/synthesizrr-generating-diverse-datasets-with-retrieval-augmentation>) | Publication | Official page |
+| 2024 | [SYNTHESIZRR\: Generating diverse datasets with retrieval augmentation](<https://www.amazon.science/publications/synthesizrr-generating-diverse-datasets-with-retrieval-augmentation>) | Publication | Official page, Verified affiliation |
 | 2024 | [RAG-QA arena\: Evaluating domain robustness for long-form retrieval-augmented question answering](<https://www.amazon.science/publications/rag-qa-arena-evaluating-domain-robustness-for-long-form-retrieval-augmented-question-answering>) | Publication | Official page |
 | 2024 | [Performance-guided LLM knowledge distillation for efficient text classification at scale](<https://www.amazon.science/publications/performance-guided-llm-knowledge-distillation-for-efficient-text-classification-at-scale>) | Publication | Official page |
 | 2024 | [Paralinguistics-enhanced large language modeling of spoken dialogue](<https://www.amazon.science/publications/paralinguistics-enhanced-large-language-modeling-of-spoken-dialogue>) | Publication | Official page |
@@ -1187,11 +1329,11 @@
 | 2024 | [Question aware vision transformer for multimodal reasoning](<https://www.amazon.science/publications/question-aware-vision-transformer-for-multimodal-reasoning>) | Publication | Official page |
 | 2024 | [Private text generation by seeding large language model prompts](<https://www.amazon.science/publications/private-text-generation-by-seeding-large-language-model-prompts>) | Publication | Official page |
 | 2024 | [Precise model benchmarking with only a few observations](<https://www.amazon.science/publications/precise-model-benchmarking-with-only-a-few-observations>) | Publication | Official page |
-| 2024 | [OpenTab\: Advancing large language models as open-domain table reasoners](<https://www.amazon.science/publications/opentab-advancing-large-language-models-as-open-domain-table-reasoners>) | Publication | Official page |
+| 2024 | [OpenTab\: Advancing large language models as open-domain table reasoners](<https://www.amazon.science/publications/opentab-advancing-large-language-models-as-open-domain-table-reasoners>) | Publication | Official page, Verified affiliation |
 | 2024 | [Multi-modal retrieval for large language model based speech recognition](<https://www.amazon.science/publications/multi-modal-retrieval-for-large-language-model-based-speech-recognition>) | Publication | Official page |
 | 2024 | [MATTER\: Memory-augmented transformer using heterogeneous knowledge sources](<https://www.amazon.science/publications/matter-memory-augmented-transformer-using-heterogeneous-knowledge-sources>) | Publication | Official page |
 | 2024 | [LLM self-correction with DeCRIM\: Decompose, critique, and refine for enhanced following of instructions with multiple constraints](<https://www.amazon.science/publications/llm-self-correction-with-decrim-decompose-critique-and-refine-for-enhanced-following-of-instructions-with-multiple-constraints>) | Publication | Official page |
-| 2024 | [HR-MultiWOZ\: A task oriented dialogue (TOD) dataset for HR LLM agent](<https://www.amazon.science/publications/hr-multiwoz-a-task-oriented-dialogue-tod-dataset-for-hr-llm-agent>) | Publication | Official page |
+| 2024 | [HR-MultiWOZ\: A task oriented dialogue (TOD) dataset for HR LLM agent](<https://www.amazon.science/publications/hr-multiwoz-a-task-oriented-dialogue-tod-dataset-for-hr-llm-agent>) | Publication | Official page, Verified affiliation |
 | 2024 | [GraphEval\: A knowledge-graph based LLM hallucination evaluation framework](<https://www.amazon.science/publications/grapheval-a-knowledge-graph-based-llm-hallucination-evaluation-framework>) | Publication | Official page |
 | 2024 | [EIVEN\: Efficient implicit attribute value extraction using multimodal LLM](<https://www.amazon.science/publications/eiven-efficient-implicit-attribute-value-extraction-using-multimodal-llm>) | Publication | Official page |
 | 2024 | [Correcting language model outputs by editing salient layers](<https://www.amazon.science/publications/correcting-language-model-outputs-by-editing-salient-layers>) | Publication | Official page |
@@ -1200,11 +1342,11 @@
 | 2024 | [CoMERA\: Computing- and memory-efficient training via rank-adaptive tensor optimization](<https://www.amazon.science/publications/comera-computing-and-memory-efficient-training-via-rank-adaptive-tensor-optimization>) | Publication | Official page |
 | 2024 | [Chronos\: Learning the language of time series](<https://www.amazon.science/publications/chronos-learning-the-language-of-time-series>) | Publication | Official page, Verified affiliation |
 | 2024 | [CPR\: Retrieval augmented generation for copyright protection](<https://www.amazon.science/publications/cpr-retrieval-augmented-generation-for-copyright-protection>) | Publication | Official page |
-| 2024 | [COLLAGE\: Light-weight low-precision strategy for LLM training](<https://www.amazon.science/publications/collage-light-weight-low-precision-strategy-for-llm-training>) | Publication | Official page |
+| 2024 | [COLLAGE\: Light-weight low-precision strategy for LLM training](<https://www.amazon.science/publications/collage-light-weight-low-precision-strategy-for-llm-training>) | Publication | Official page, Verified affiliation |
 | 2024 | [B’MOJO\: Hybrid state space realizations of foundation models with eidetic and fading memory](<https://www.amazon.science/publications/bmojo-hybrid-state-space-realizations-of-foundation-models-with-eidetic-and-fading-memory>) | Publication | Official page |
 | 2024 | [Bifurcated attention for single-context large-batch sampling](<https://www.amazon.science/publications/bifurcated-attention-for-single-context-large-batch-sampling>) | Publication | Official page |
 | 2024 | [Bi-CAT\: Improving robustness of LLM-based text rankers to conditional distribution shifts](<https://www.amazon.science/publications/bi-cat-improving-robustness-of-llm-based-text-rankers-to-conditional-distribution-shifts>) | Publication | Official page |
-| 2024 | [Automated evaluation of retrieval-augmented language models with task-specific exam generation](<https://www.amazon.science/publications/automated-evaluation-of-retrieval-augmented-language-models-with-task-specific-exam-generation>) | Publication | Official page |
+| 2024 | [Automated evaluation of retrieval-augmented language models with task-specific exam generation](<https://www.amazon.science/publications/automated-evaluation-of-retrieval-augmented-language-models-with-task-specific-exam-generation>) | Publication | Official page, Verified affiliation |
 | 2024 | [Approximations may be all you need\: Towards pre-training LLMs with low-rank decomposition and optimizers](<https://www.amazon.science/publications/approximations-may-be-all-you-need-towards-pre-training-llms-with-low-rank-decomposition-and-optimizers>) | Publication | Official page |
 | 2024 | [An interpretable answer scoring framework](<https://www.amazon.science/publications/an-interpretable-answer-scoring-framework>) | Publication | Official page |
 | 2024 | [AdaZeta\: Adaptive zeroth-order tensor-train adaption for memory-efficient large language models fine-tuning](<https://www.amazon.science/publications/adazeta-adaptive-zeroth-order-tensor-train-adaption-for-memory-efficient-large-language-models-fine-tuning>) | Publication | Official page |
@@ -1220,7 +1362,7 @@
 | 2024 | [Leveraging large language models for multimodal search](<https://www.amazon.science/publications/leveraging-large-language-models-for-multimodal-search>) | Publication | Official page |
 | 2024 | [Improving LLM group fairness on tabular data via in-context learning](<https://www.amazon.science/publications/improving-llm-group-fairness-on-tabular-data-via-in-context-learning>) | Publication | Official page |
 | 2024 | [HLAT\: High-quality large language model pre-trained on AWS Trainium](<https://www.amazon.science/publications/hlat-high-quality-large-language-model-pre-trained-on-aws-trainium>) | Publication | Official page |
-| 2024 | [Entity disambiguation with extreme multi-label ranking](<https://www.amazon.science/publications/entity-disambiguation-with-extreme-multi-label-ranking>) | Publication | Official page |
+| 2024 | [Entity disambiguation with extreme multi-label ranking](<https://www.amazon.science/publications/entity-disambiguation-with-extreme-multi-label-ranking>) | Publication | Official page, OpenAlex |
 | 2024 | [Combining multiple metrics for evaluating retrieval-augmented conversations](<https://www.amazon.science/publications/combining-multiple-metrics-for-evaluating-retrieval-augmented-conversations>) | Publication | Official page |
 | 2024 | [An efficient domain-independent approach for supervised keyphrase extraction and ranking](<https://www.amazon.science/publications/an-efficient-domain-independent-approach-for-supervised-keyphrase-extraction-and-ranking>) | Publication | Official page |
 | 2024 | [VERA\: Validation and evaluation of retrieval-augmented systems](<https://www.amazon.science/publications/vera-validation-and-evaluation-of-retrieval-augmented-systems>) | Publication | Official page |
@@ -1228,10 +1370,10 @@
 | 2024 | [Unified embeddings for multimodal retrieval via frozen LLMs](<https://www.amazon.science/publications/unified-embeddings-for-multimodal-retrieval-via-frozen-llms>) | Publication | Official page |
 | 2024 | [Tree-of-traversals\: A zero-shot reasoning algorithm for augmenting black-box language models with knowledge graphs](<https://www.amazon.science/publications/tree-of-traversals-a-zero-shot-reasoning-algorithm-for-augmenting-black-box-language-models-with-knowledge-graphs>) | Publication | Official page |
 | 2024 | [Towards improved multi-source attribution for long-form answer generation](<https://www.amazon.science/publications/towards-improved-multi-source-attribution-for-long-form-answer-generation>) | Publication | Official page |
-| 2024 | [Toward informal language processing\: Knowledge of slang in large language models](<https://www.amazon.science/publications/toward-informal-language-processing-knowledge-of-slang-in-large-language-models>) | Publication | Official page |
+| 2024 | [Toward informal language processing\: Knowledge of slang in large language models](<https://www.amazon.science/publications/toward-informal-language-processing-knowledge-of-slang-in-large-language-models>) | Publication | Official page, Verified affiliation |
 | 2024 | [Tokenization matters\: Navigating data-scarce tokenization for gender inclusive language technologies](<https://www.amazon.science/publications/tokenization-matters-navigating-data-scarce-tokenization-for-gender-inclusive-language-technologies>) | Publication | Official page |
-| 2024 | [TofuEval\: Evaluating hallucinations of LLMs on topic-focused dialogue summarization](<https://www.amazon.science/publications/tofueval-evaluating-hallucinations-of-llms-on-topic-focused-dialogue-summarization>) | Publication | Official page |
-| 2024 | [The fine-tuning paradox\: Boosting translation quality without sacrificing LLM abilities](<https://www.amazon.science/publications/the-fine-tuning-paradox-boosting-translation-quality-without-sacrificing-llm-abilities>) | Publication | Official page |
+| 2024 | [TofuEval\: Evaluating hallucinations of LLMs on topic-focused dialogue summarization](<https://www.amazon.science/publications/tofueval-evaluating-hallucinations-of-llms-on-topic-focused-dialogue-summarization>) | Publication | Official page, Verified affiliation |
+| 2024 | [The fine-tuning paradox\: Boosting translation quality without sacrificing LLM abilities](<https://www.amazon.science/publications/the-fine-tuning-paradox-boosting-translation-quality-without-sacrificing-llm-abilities>) | Publication | Official page, Verified affiliation |
 | 2024 | [The empirical impact of data sanitization on language models](<https://www.amazon.science/publications/the-empirical-impact-of-data-sanitization-on-language-models>) | Publication | Official page |
 | 2024 | [The N-Grammys\: Accelerating autoregressive inference with learning-free batched speculation](<https://www.amazon.science/publications/the-n-grammys-accelerating-autoregressive-inference-with-learning-free-batched-speculation>) | Publication | Official page |
 | 2024 | [TAIL\: Task-specific adapters for imitation learning with large pretrained models](<https://www.amazon.science/publications/tail-task-specific-adapters-for-imitation-learning-with-large-pretrained-models>) | Publication | Official page |
@@ -1244,12 +1386,12 @@
 | 2024 | [ReScorer\: An aggregation and alignment technique for building trust into LLM reasons](<https://www.amazon.science/publications/rescorer-an-aggregation-and-alignment-technique-for-building-trust-into-llm-reasons>) | Publication | Official page |
 | 2024 | [RS-DPO\: A hybrid rejection sampling and direct preference optimization method for alignment of large language models](<https://www.amazon.science/publications/rs-dpo-a-hybrid-rejection-sampling-and-direct-preference-optimization-method-for-alignment-of-large-language-models>) | Publication | Official page |
 | 2024 | [REPOFORMER\: Selective retrieval for repository-level code completion](<https://www.amazon.science/publications/repoformer-selective-retrieval-for-repository-level-code-completion>) | Publication | Official page |
-| 2024 | [RAGChecker\: A fine-grained framework for diagnosing retrieval-augmented generation](<https://www.amazon.science/publications/ragchecker-a-fine-grained-framework-for-diagnosing-retrieval-augmented-generation>) | Publication | Official page |
+| 2024 | [RAGChecker\: A fine-grained framework for diagnosing retrieval-augmented generation](<https://www.amazon.science/publications/ragchecker-a-fine-grained-framework-for-diagnosing-retrieval-augmented-generation>) | Publication | Official page, Verified affiliation |
 | 2024 | [Q-Tuning\: Queue-based prompt tuning for lifelong few-shot language learning](<https://www.amazon.science/publications/q-tuning-queue-based-prompt-tuning-for-lifelong-few-shot-language-learning>) | Publication | Official page |
 | 2024 | [Panda\: Performance debugging for databases using LLM agents](<https://www.amazon.science/publications/panda-performance-debugging-for-databases-using-llm-agents>) | Publication | Official page |
 | 2024 | [Order of magnitude speedups for LLM membership inference](<https://www.amazon.science/publications/order-of-magnitude-speedups-for-llm-membership-inference>) | Publication | Official page |
-| 2024 | [One token to seg them all\: Language instructed reasoning segmentation in videos](<https://www.amazon.science/publications/one-token-to-seg-them-all-language-instructed-reasoning-segmentation-in-videos>) | Publication | Official page |
-| 2024 | [Non-autoregressive sequence-to-sequence vision-language models](<https://www.amazon.science/publications/non-autoregressive-sequence-to-sequence-vision-language-models>) | Publication | Official page |
+| 2024 | [One token to seg them all\: Language instructed reasoning segmentation in videos](<https://www.amazon.science/publications/one-token-to-seg-them-all-language-instructed-reasoning-segmentation-in-videos>) | Publication | Official page, Verified affiliation |
+| 2024 | [Non-autoregressive sequence-to-sequence vision-language models](<https://www.amazon.science/publications/non-autoregressive-sequence-to-sequence-vision-language-models>) | Publication | Official page, Verified affiliation |
 | 2024 | [No head left behind - Multi-head alignment distillation for transformers](<https://www.amazon.science/publications/no-head-left-behind-multi-head-alignment-distillation-for-transformers>) | Publication | Official page |
 | 2024 | [Near-duplicate question detection](<https://www.amazon.science/publications/near-duplicate-question-detection>) | Publication | Official page |
 | 2024 | [Metapath of thoughts\: Verbalized metapaths in heterogeneous graph as contextual augmentation to LLM](<https://www.amazon.science/publications/metapath-of-thoughts-verbalized-metapaths-in-heterogeneous-graph-as-contextual-augmentation-to-llm>) | Publication | Official page |
@@ -1267,7 +1409,7 @@
 | 2024 | [Inductive or deductive? Rethinking the fundamental reasoning abilities of LLMs](<https://www.amazon.science/publications/inductive-or-deductive-rethinking-the-fundamental-reasoning-abilities-of-llms>) | Publication | Official page |
 | 2024 | [Improving tool retrieval by leveraging large language models for query generation](<https://www.amazon.science/publications/improving-tool-retrieval-by-leveraging-large-language-models-for-query-generation>) | Publication | Official page |
 | 2024 | [ITERALIGN\: Iterative constitutional alignment of large language models](<https://www.amazon.science/publications/iteralign-iterative-constitutional-alignment-of-large-language-models>) | Publication | Official page |
-| 2024 | [Has my system prompt been used? Large language model prompt membership inference](<https://www.amazon.science/publications/has-my-system-prompt-been-used-large-language-model-prompt-membership-inference>) | Publication | Official page |
+| 2024 | [Has my system prompt been used? Large language model prompt membership inference](<https://www.amazon.science/publications/has-my-system-prompt-been-used-large-language-model-prompt-membership-inference>) | Publication | Official page, Verified affiliation |
 | 2024 | [Hallucination detection in LLM-enriched product listings](<https://www.amazon.science/publications/hallucination-detection-in-llm-enriched-product-listings>) | Publication | Official page |
 | 2024 | [HalluMeasure\: Fine-grained hallucination measurement using chain-of-thought reasoning](<https://www.amazon.science/publications/hallumeasure-fine-grained-hallucination-measurement-using-chain-of-thought-reasoning>) | Publication | Official page |
 | 2024 | [Generative explore-exploit\: Training-free optimization of generative recommender systems using LLM optimizers](<https://www.amazon.science/publications/generative-explore-exploit-training-free-optimization-of-generative-recommender-systems-using-llm-optimizers>) | Publication | Official page |
@@ -1277,8 +1419,8 @@
 | 2024 | [Fast training dataset attribution via in-context learning](<https://www.amazon.science/publications/fast-training-dataset-attribution-via-in-context-learning>) | Publication | Official page |
 | 2024 | [FairRAG\: Fair human generation via fair retrieval augmentation](<https://www.amazon.science/publications/fairrag-fair-human-generation-via-fair-retrieval-augmentation>) | Publication | Official page |
 | 2024 | [Factual confidence of LLMs\: On reliability and robustness of current estimators](<https://www.amazon.science/publications/factual-confidence-of-llms-on-reliability-and-robustness-of-current-estimators>) | Publication | Official page |
-| 2024 | [FANTAstic SEquences and where to find them\: Faithful and efficient API call generation through state-tracked constrained decoding and reranking](<https://www.amazon.science/publications/fantastic-sequences-and-where-to-find-them-faithful-and-efficient-api-call-generation-through-state-tracked-constrained-decoding-and-reranking>) | Publication | Official page |
-| 2024 | [Explaining and improving contrastive decoding by extrapolating the probabilities of a huge and hypothetical LM](<https://www.amazon.science/publications/explaining-and-improving-contrastive-decoding-by-extrapolating-the-probabilities-of-a-huge-and-hypothetical-lm>) | Publication | Official page |
+| 2024 | [FANTAstic SEquences and where to find them\: Faithful and efficient API call generation through state-tracked constrained decoding and reranking](<https://www.amazon.science/publications/fantastic-sequences-and-where-to-find-them-faithful-and-efficient-api-call-generation-through-state-tracked-constrained-decoding-and-reranking>) | Publication | Official page, Verified affiliation |
+| 2024 | [Explaining and improving contrastive decoding by extrapolating the probabilities of a huge and hypothetical LM](<https://www.amazon.science/publications/explaining-and-improving-contrastive-decoding-by-extrapolating-the-probabilities-of-a-huge-and-hypothetical-lm>) | Publication | Official page, Verified affiliation |
 | 2024 | [Evaluation of topic continuity using nonlinearlized naive bayes with attention mechanism](<https://www.amazon.science/publications/evaluation-of-topic-continuity-using-nonlinearlized-naive-bayes-with-attention-mechanism>) | Publication | Official page |
 | 2024 | [Enhancing low-resource LLMs classification with PEFT and synthetic data](<https://www.amazon.science/publications/enhancing-low-resource-llms-classification-with-peft-and-synthetic-data>) | Publication | Official page |
 | 2024 | [Enhancing e-commerce product title translation with retrieval-augmented generation and large language models](<https://www.amazon.science/publications/enhancing-e-commerce-product-title-translation-with-retrieval-augmented-generation-and-large-language-models>) | Publication | Official page |
@@ -1292,7 +1434,7 @@
 | 2024 | [DiffusionPipe\: Training large diffusion models with efficient pipelines](<https://www.amazon.science/publications/diffusionpipe-training-large-diffusion-models-with-efficient-pipelines>) | Publication | Official page |
 | 2024 | [Convolution meets LoRA\: Parameter efficient finetuning for segment anything model](<https://www.amazon.science/publications/convolution-meets-lora-parameter-efficient-finetuning-for-segment-anything-model>) | Publication | Official page |
 | 2024 | [Can small language models help large language models reason better?\: LM-guided chain-of-thought](<https://www.amazon.science/publications/can-small-language-models-help-large-language-models-reason-better-lm-guided-chain-of-thought>) | Publication | Official page |
-| 2024 | [CERET\: Cost-effective extrinsic refinement for text generation](<https://www.amazon.science/publications/ceret-cost-effective-extrinsic-refinement-for-text-generation>) | Publication | Official page |
+| 2024 | [CERET\: Cost-effective extrinsic refinement for text generation](<https://www.amazon.science/publications/ceret-cost-effective-extrinsic-refinement-for-text-generation>) | Publication | Official page, Verified affiliation |
 | 2024 | [CANDLE\: Iterative conceptualization and instantiation distillation from large language models for commonsense reasoning](<https://www.amazon.science/publications/candle-iterative-conceptualization-and-instantiation-distillation-from-large-language-models-for-commonsense-reasoning>) | Publication | Official page |
 | 2024 | [Building natural language interface for product search](<https://www.amazon.science/publications/building-natural-language-interface-for-product-search>) | Publication | Official page |
 | 2024 | [BioBridge\: Bridging biomedical foundation models via knowledge graphs](<https://www.amazon.science/publications/biobridge-bridging-biomedical-foundation-models-via-knowledge-graphs>) | Publication | Official page |
@@ -1325,7 +1467,7 @@
 | 2024 | [ViewFusion\: Towards multi-view consistency via interpolated denoising](<https://www.amazon.science/publications/viewfusion-towards-multi-view-consistency-via-interpolated-denoising>) | Publication | Official page |
 | 2024 | [ViGoR\: Improving visual grounding of large vision language models with fine-grained reward modeling](<https://www.amazon.science/publications/vigor-improving-visual-grounding-of-large-vision-language-models-with-fine-grained-reward-modeling>) | Publication | Official page |
 | 2024 | [Trustworthiness in medical product question answering by large language models](<https://www.amazon.science/publications/trustworthiness-in-medical-product-question-answering-by-large-language-models>) | Publication | Official page |
-| 2024 | [Transferring knowledge from large foundation models to small downstream models](<https://www.amazon.science/publications/transferring-knowledge-from-large-foundation-models-to-small-downstream-models>) | Publication | Official page |
+| 2024 | [Transferring knowledge from large foundation models to small downstream models](<https://www.amazon.science/publications/transferring-knowledge-from-large-foundation-models-to-small-downstream-models>) | Publication | Official page, Verified affiliation |
 | 2024 | [Training LLMs to better self-debug and explain code](<https://www.amazon.science/publications/training-llms-to-better-self-debug-and-explain-code>) | Publication | Official page |
 | 2024 | [Towards quantitative evaluation metrics for image editing approaches](<https://www.amazon.science/publications/towards-quantitative-evaluation-metrics-for-image-editing-approaches>) | Publication | Official page |
 | 2024 | [The steerability of large language models toward data-driven personas](<https://www.amazon.science/publications/the-steerability-of-large-language-models-toward-data-driven-personas>) | Publication | Official page |
@@ -1374,11 +1516,11 @@
 | 2024 | [MICo\: Preventative detoxification of large language models through inhibition control](<https://www.amazon.science/publications/mico-preventative-detoxification-of-large-language-models-through-inhibition-control>) | Publication | Official page |
 | 2024 | [MERLIN\: Multimodal &amp; multilingual embedding for recommendations at large-scale via item associations](<https://www.amazon.science/publications/merlin-multimodal-multilingual-embedding-for-recommendations-at-large-scale-via-item-associations>) | Publication | Official page |
 | 2024 | [MAGID\: An automated pipeline for generating synthetic multi-modal datasets](<https://www.amazon.science/publications/magid-an-automated-pipeline-for-generating-synthetic-multi-modal-datasets>) | Publication | Official page |
-| 2024 | [M3T\: A new benchmark dataset for multi-modal document-level machine translation](<https://www.amazon.science/publications/m3t-a-new-benchmark-dataset-for-multi-modal-document-level-machine-translation>) | Publication | Official page |
+| 2024 | [M3T\: A new benchmark dataset for multi-modal document-level machine translation](<https://www.amazon.science/publications/m3t-a-new-benchmark-dataset-for-multi-modal-document-level-machine-translation>) | Publication | Official page, Verified affiliation |
 | 2024 | [Low-cost generation and evaluation of dictionary example sentences](<https://www.amazon.science/publications/low-cost-generation-and-evaluation-of-dictionary-example-sentences>) | Publication | Official page |
 | 2024 | [Leveraging customer feedback for multi-modal insight extraction](<https://www.amazon.science/publications/leveraging-customer-feedback-for-multi-modal-insight-extraction>) | Publication | Official page |
 | 2024 | [Leveraging LLMs for dialogue quality measurement](<https://www.amazon.science/publications/leveraging-llms-for-dialogue-quality-measurement>) | Publication | Official page |
-| 2024 | [Learning to generate answers with citations via factual consistency models](<https://www.amazon.science/publications/learning-to-generate-answers-with-citations-via-factual-consistency-models>) | Publication | Official page |
+| 2024 | [Learning to generate answers with citations via factual consistency models](<https://www.amazon.science/publications/learning-to-generate-answers-with-citations-via-factual-consistency-models>) | Publication | Official page, Verified affiliation |
 | 2024 | [Learning metadata-agnostic representations for Text-to-SQL in-context example selection](<https://www.amazon.science/publications/learning-metadata-agnostic-representations-for-text-to-sql-in-context-example-selection>) | Publication | Official page |
 | 2024 | [Learning from natural language explanations for generalizable entity matching](<https://www.amazon.science/publications/learning-from-natural-language-explanations-for-generalizable-entity-matching>) | Publication | Official page |
 | 2024 | [Large language models for preventing medication direction errors in online pharmacies](<https://www.amazon.science/publications/large-language-models-for-preventing-medication-direction-errors-in-online-pharmacies>) | Publication | Official page |
@@ -1425,13 +1567,13 @@
 | 2024 | [CorrSynth - A correlated sampling method for diverse dataset generation from LLMs](<https://www.amazon.science/publications/corrsynth-a-correlated-sampling-method-for-diverse-dataset-generation-from-llms>) | Publication | Official page |
 | 2024 | [ConSiDERS—the human-evaluation framework\: Rethinking human evaluation for generative large language models](<https://www.amazon.science/publications/considers-the-human-evaluation-framework-rethinking-human-evaluation-for-generative-large-language-models>) | Publication | Official page |
 | 2024 | [CodeFort\: Robust training for code generation models](<https://www.amazon.science/publications/codefort-robust-training-for-code-generation-models>) | Publication | Official page |
-| 2024 | [Code representation learning at scale](<https://www.amazon.science/publications/code-representation-learning-at-scale>) | Publication | Official page |
+| 2024 | [Code representation learning at scale](<https://www.amazon.science/publications/code-representation-learning-at-scale>) | Publication | Official page, Verified affiliation |
 | 2024 | [CoD\: Coherent detection of entities from images with multiple modalities](<https://www.amazon.science/publications/cod-coherent-detection-of-entities-from-images-with-multiple-modalities>) | Publication | Official page |
 | 2024 | [CoCoMIC\: Code completion by jointly modeling in-file and cross-file context](<https://www.amazon.science/publications/cocomic-code-completion-by-jointly-modeling-in-file-and-cross-file-context>) | Publication | Official page |
 | 2024 | [Clustering-based sampling for few-shot cross-domain keyphrase extraction](<https://www.amazon.science/publications/clustering-based-sampling-for-few-shot-cross-domain-keyphrase-extraction>) | Publication | Official page |
 | 2024 | [Can your model tell a negation from an implicature? Unravelling challenges with intent encoders](<https://www.amazon.science/publications/can-your-model-tell-a-negation-from-an-implicature-unravelling-challenges-with-intent-encoders>) | Publication | Official page |
 | 2024 | [Can language models learn to skip steps?](<https://www.amazon.science/publications/can-language-models-learn-to-skip-steps>) | Publication | Official page |
-| 2024 | [CaMML\: Context-aware multimodal learner for large models](<https://www.amazon.science/publications/camml-context-aware-multimodal-learner-for-large-models>) | Publication | Official page |
+| 2024 | [CaMML\: Context-aware multimodal learner for large models](<https://www.amazon.science/publications/camml-context-aware-multimodal-learner-for-large-models>) | Publication | Official page, Verified affiliation |
 | 2024 | [CA-SSLR\: Condition-aware self-supervised learning representation for generalized speech processing](<https://www.amazon.science/publications/ca-sslr-condition-aware-self-supervised-learning-representation-for-generalized-speech-processing>) | Publication | Official page |
 | 2024 | [Bridging remote sensors with multisensor geospatial foundation models](<https://www.amazon.science/publications/bridging-remote-sensors-with-multisensor-geospatial-foundation-models>) | Publication | Official page |
 | 2024 | [Boosting entity recognition by leveraging cross-task domain models for weak supervision](<https://www.amazon.science/publications/boosting-entity-recognition-by-leveraging-cross-task-domain-models-for-weak-supervision>) | Publication | Official page |

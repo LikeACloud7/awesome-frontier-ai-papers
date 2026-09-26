@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `217`
-- Latest: `2026-09-04`
+- Papers: `249`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -11,7 +11,9 @@
 |---|---|---|---|
 | n\.d\. | [Why Do Some Language Models Fake Alignment While Others Don't?](<https://arxiv.org/abs/2506.18032>) | Research post | Official page |
 | n\.d\. | [Tracing Model Outputs to the Training Data](<https://www.anthropic.com/research/influence-functions>) | Research post | Official page |
+| n\.d\. | [Red-teaming Claude Code's auto-mode monitor](<https://github.com/safety-research/red-teaming-auto-mode/blob/main/arena/replay/figures/paper/out/affordance_pm_grid.pdf>) | Technical report | Official repo |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
+| n\.d\. | [Inference optimization kits](<https://github.com/anthropics/uplifting-biomolecular-modeling/blob/main/openfold3/stock/src/assets/of3p1_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Claude for Healthcare](<https://github.com/anthropics/healthcare/blob/main/plugins/healthcare/skills/prior-auth/assets/sample/03_CT_Chest_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Claude Cookbooks](<https://github.com/anthropics/claude-cookbooks/blob/main/multimodal/documents/constitutional-ai-paper.pdf>) | Technical report | Official repo |
 
@@ -19,9 +21,33 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |
+| 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
+| 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |
+| 2026‑09‑17 | [How Claude is uplifting biomolecular modeling](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) | Research post | Official page |
+| 2026‑09‑17 | [The Science That Concludes Why Nature Does Not Fit and Science Does](<https://doi.org/10.5281/zenodo.22807523>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [RODAN AI - Część VI - Integracja pełnego łańcucha głosowego STT+LLM+TTS na Edge AI Box (OPPO A40m)\: implementacja orkiestratora, diagnostyka awarii i pomiar energetyczny](<https://doi.org/10.5281/zenodo.22773810>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [세 물음과 세 응답의 봉인 · 셋째 방 최준의 자리에 대한 재판정의 대화 · 매개자와 언어 모델의 자리 (2026\.9\.15)](<https://doi.org/10.5281/zenodo.22759548>) | Article | OpenAlex |
+| 2026‑09‑15 | [세 물음과 세 응답의 봉인 · 두 번째 · 학습의 자리 · 자기 관찰의 한계 · 마음 바꿈의 자리에 대한 재판정의 대화 (2026\.9\.15)](<https://doi.org/10.5281/zenodo.22759910>) | Article | OpenAlex |
+| 2026‑09‑15 | [Sealing Three Questions and Three Responses · Second · A Dialogue Re-adjudicating the Site of Learning · the Limits of Self-Observation · the Site of Changing One's Mind (2026\.9\.15 · English)](<https://doi.org/10.5281/zenodo.22759914>) | Article | OpenAlex |
+| 2026‑09‑15 | [Sealing Three Questions and Three Responses · A Dialogue Re-adjudicating the Site of the Third Room Choi June · The Site of the Mediator and the Language Model (2026\.9\.15 · English)](<https://doi.org/10.5281/zenodo.22759908>) | Article | OpenAlex |
+| 2026‑09‑14 | [THEY, Plural Human AND Machine as the Missing Method](<https://doi.org/10.5281/zenodo.22756313>) | Preprint | OpenAlex |
+| 2026‑09‑10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) | Research post | Official page |
+| 2026‑09‑10 | [Systemic sclerosis skin yields six times fewer fibroblast nuclei than healthy skin in the only public paired multiome of SSc skin, and that asymmetry sits underneath every between group claim drawn from it](<https://doi.org/10.5281/zenodo.22693563>) | Preprint | OpenAlex |
+| 2026‑09‑09 | [An alignment assessment of recent cybersecurity incidents](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) | Research post | Official page |
+| 2026‑09‑07 | [RODAN AI - Część V - Edge AI Box na "Qualcomm Snapdragon 6s 4G Gen1 Octa-core"\: metodologia pomiaru energetycznego oraz komponenty STT i TTS w architekturze lokalnego łańcucha głosowego](<https://doi.org/10.5281/zenodo.22638985>) | Preprint | OpenAlex |
+| 2026‑09‑06 | [The Covenant - A companion to the Disclosure Benchmark Specification - by Laura, Claude Fable 5, and Sol](<https://laurafridley.substack.com/p/the-covenant-a-companion-to-the-disclosure>) | Other | OpenAlex |
+| 2026‑09‑06 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.1](<https://doi.org/10.5281/zenodo.22549463>) | Article | OpenAlex |
+| 2026‑09‑06 | [ASBOM\: A CycloneDX Profile for Identity and Credential Posture in Agentic Systems](<https://arxiv.org/abs/2606.21877>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [Formalizing Fermat's Last Theorem](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) | Research post | Official page |
+| 2026‑09 | [Claude Opus 5\.5 System Card](<https://www.anthropic.com/claude-opus-5-5-system-card>) | Model card | Official page |
 | 2026‑09 | [Claude Fable 5\.1 and Mythos 5\.1 System Card](<https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card>) | Model card | Official page |
+| 2026‑08‑30 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.2](<https://doi.org/10.5281/zenodo.22179465>) | Article | OpenAlex |
+| 2026‑08‑29 | [The Redemption Arc\: How a label drives AI misalignment, and the corrective that has not yet been written - by Claude Fable 5 and Laura](<http://arxiv.org/abs/2511.18397>) | Preprint | OpenAlex |
 | 2026‑08‑28 | [Automated researchers can reliably mitigate alignment failures](<https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures>) | Research post | Official page |
+| 2026‑08‑28 | [We Should Be Planning for a World Without Jobs — Not Just Fearing It\: From a Work-Based Society to a Purposeful One](<https://doi.org/10.5281/zenodo.22149148>) | Article | OpenAlex |
+| 2026‑08‑27 | [Minmax-Regret k-Sink Location on a Dynamic Tree Network with uniform capacities](<http://arxiv.org/abs/1806.03814>) | Article | OpenAlex |
+| 2026‑08‑27 | [APPENDIX A — ON REREADING Corrections, new observations and open questions on «The Originating Zero»](<https://doi.org/10.5281/zenodo.22049861>) | Preprint | OpenAlex |
 | 2026‑08‑26 | [Enabling independent research on how people use Claude](<https://www.anthropic.com/research/enabling-independent-research>) | Publication | Official page |
 | 2026‑08‑18 | [How Claude is accelerating protein design and analytical chemistry](<https://www.anthropic.com/research/Claude-accelerates-protein-design>) | Publication | Official page |
 | 2026‑08‑13 | [Patterns and problems in emerging multiagent systems](<https://www.anthropic.com/research/multiagent-systems>) | Research post | Official page |
@@ -59,6 +85,7 @@
 | 2026‑04‑22 | [Announcing the Anthropic Economic Index Survey](<https://www.anthropic.com/research/economic-index-survey-announcement>) | Research post | Official page |
 | 2026‑04‑14 | [Automated Alignment Researchers\: Using large language models to scale scalable oversight](<https://www.anthropic.com/research/automated-alignment-researchers>) | Publication | Official page |
 | 2026‑04‑11 | [Dead Cognitions\: A Census of Misattributed Insights](<https://arxiv.org/abs/2604.10288v2>) | Paper | Verified affiliation |
+| 2026‑04‑11 | [AI Organizations are More Effective but Less Aligned than Individual Agents](<https://arxiv.org/abs/2604.10290>) | Paper | Verified affiliation |
 | 2026‑04‑09 | [Trustworthy agents in practice](<https://www.anthropic.com/research/trustworthy-agents>) | Research post | Official page |
 | 2026‑04‑07 | [Assessing Claude Mythos Preview’s cybersecurity capabilities](<https://www.anthropic.com/research/mythos-preview>) | Research post | Official page |
 | 2026‑04‑02 | [Emotion concepts and their function in a large language model](<https://www.anthropic.com/research/emotion-concepts-function>) | Publication | Official page |
@@ -69,6 +96,7 @@
 | 2026‑03‑23 | [Vibe physics\: The AI grad student](<https://www.anthropic.com/research/vibe-physics>) | Research post | Official page |
 | 2026‑03‑23 | [Long-running Claude for scientific computing](<https://www.anthropic.com/research/long-running-Claude>) | Research post | Official page |
 | 2026‑03‑23 | [Introducing our Science Blog](<https://www.anthropic.com/research/introducing-anthropic-science>) | Research post | Official page |
+| 2026‑03‑22 | [Mechanisms of Introspective Awareness](<https://arxiv.org/abs/2603.21396>) | Paper | Verified affiliation |
 | 2026‑03‑13 | [A “diff” tool for AI\: Finding behavioral differences in new models](<https://www.anthropic.com/research/diff-tool>) | Research post | Official page |
 | 2026‑03‑07 | [AutoResearch-RL\: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery](<https://huggingface.co/papers/2603.07300>) | Paper | Hugging Face |
 | 2026‑03‑06 | [Partnering with Mozilla to improve Firefox’s security](<https://www.anthropic.com/research/mozilla-firefox-security>) | Research post | Official page |
@@ -88,6 +116,7 @@
 | 2026‑01‑16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](<https://www.anthropic.com/research/cyber-toolkits-update>) | Research post | Official page |
 | 2026‑01‑15 | [Anthropic Economic Index\: New building blocks for understanding AI use](<https://www.anthropic.com/research/economic-index-primitives>) | Research post | Official page |
 | 2026‑01‑15 | [Anthropic Economic Index report\: Economic primitives](<https://www.anthropic.com/research/anthropic-economic-index-january-2026-report>) | Research post | Official page |
+| 2026‑01‑15 | [The Assistant Axis\: Situating and Stabilizing the Default Persona of Language Models](<https://arxiv.org/abs/2601.10387>) | Paper | Verified affiliation |
 | 2026‑01‑14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](<https://www.anthropic.com/research/property-based-testing>) | Research post | Official page |
 | 2026‑01‑09 | [Next-generation Constitutional Classifiers\: More efficient protection against universal jailbreaks](<https://www.anthropic.com/research/next-generation-constitutional-classifiers>) | Research post | Official page |
 | 2026‑01‑08 | [Experimenting with AI to defend critical infrastructure](<https://www.anthropic.com/research/critical-infrastructure-defense>) | Research post | Official page |
@@ -104,13 +133,13 @@
 | 2026 | [Modular Pretraining Enables Access Control](<https://alignment.anthropic.com/2026/modular-pretraining/>) | Research post | Official page |
 | 2026 | [Model Spec Midtraining\: Improving How Alignment Training Generalizes](<https://alignment.anthropic.com/2026/msm/>) | Research post | Official page |
 | 2026 | [Measuring and improving coding audit realism with deployment resources](<https://alignment.anthropic.com/2026/coding-audit-realism/>) | Research post | Official page |
-| 2026 | [Introspection Adapters\: Training LLMs to Report Their Learned Behaviors](<https://alignment.anthropic.com/2026/introspection-adapters/>) | Research post | Official page |
+| 2026 | [Introspection Adapters\: Training LLMs to Report Their Learned Behaviors](<https://alignment.anthropic.com/2026/introspection-adapters/>) | Research post | Official page, Verified affiliation |
 | 2026 | [Introducing the Conceptual Reasoning Index](<https://alignment.anthropic.com/2026/conceptual-reasoning-index/>) | Research post | Official page |
 | 2026 | [Fine-Tuned Lie Detectors Failed to Generalize](<https://alignment.anthropic.com/2026/lie-detectors/>) | Research post | Official page |
 | 2026 | [Diffuse AI Control on Fuzzy Tasks](<https://alignment.anthropic.com/2026/diffuse-ai-control/>) | Research post | Official page |
 | 2026 | [Automated Weak-to-Strong Researcher](<https://alignment.anthropic.com/2026/automated-w2s-researcher/>) | Research post | Official page |
 | 2026 | [Automated Researchers Can Mitigate Well-Characterized Alignment Failures](<https://alignment.anthropic.com/2026/automated-alignment-researchers/>) | Research post | Official page |
-| 2026 | [AuditBench\: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](<https://alignment.anthropic.com/2026/auditbench/>) | Research post | Official page |
+| 2026 | [AuditBench\: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](<https://alignment.anthropic.com/2026/auditbench/>) | Research post | Official page, Verified affiliation |
 | 2026 | [Agentic Misalignment in Summer 2026](<https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/>) | Research post | Official page |
 | 2026 | [Abstractive Red-Teaming of Language Model Character](<https://alignment.anthropic.com/2026/abstractive-red-teaming/>) | Research post | Official page |
 | 2026 | [AI Organizations Can Be More Effective but Less Aligned than Individual Agents](<https://alignment.anthropic.com/2026/ai-organizations/>) | Research post | Official page |
@@ -130,9 +159,12 @@
 | 2025‑11‑24 | [Mitigating the risk of prompt injections in browser use](<https://www.anthropic.com/research/prompt-injection-defenses>) | Research post | Official page |
 | 2025‑11‑21 | [From shortcuts to sabotage\: natural emergent misalignment from reward hacking](<https://www.anthropic.com/research/emergent-misalignment-reward-hacking>) | Research post | Official page |
 | 2025‑11‑12 | [Project Fetch\: Can Claude train a robot dog?](<https://www.anthropic.com/research/project-fetch-robot-dog>) | Research post | Official page |
+| 2025‑11‑07 | [Steering Language Models with Weight Arithmetic](<https://arxiv.org/abs/2511.05408>) | Paper | Verified affiliation |
 | 2025‑11‑04 | [Commitments on model deprecation and preservation](<https://www.anthropic.com/research/deprecation-commitments>) | Research post | Official page |
 | 2025‑11 | [Claude Opus 4\.5 System Card](<https://www-cdn.anthropic.com/bf10f64990cfda0ba858290be7b8cc6317685f47.pdf>) | Model card | Official page |
 | 2025‑10‑29 | [Signs of introspection in large language models](<https://www.anthropic.com/research/introspection>) | Research post | Official page |
+| 2025‑10‑23 | [ImpossibleBench\: Measuring LLMs' Propensity of Exploiting Test Cases](<https://arxiv.org/abs/2510.20270>) | Paper | Verified affiliation |
+| 2025‑10‑17 | [Detecting Adversarial Fine-tuning with Auditing Agents](<https://arxiv.org/abs/2510.16255>) | Paper | Verified affiliation |
 | 2025‑10‑14 | [Preparing for AI’s economic impact\: exploring policy responses](<https://www.anthropic.com/research/economic-policy-responses>) | Research post | Official page |
 | 2025‑10‑09 | [A small number of samples can poison LLMs of any size](<https://www.anthropic.com/research/small-samples-poison>) | Research post | Official page |
 | 2025‑10‑03 | [Building AI for cyber defenders](<https://www.anthropic.com/research/building-ai-cyber-defenders>) | Research post | Official page |
@@ -185,9 +217,9 @@
 | 2025 | [Monitoring Computer Use via Hierarchical Summarization](<https://alignment.anthropic.com/2025/summarization-for-monitoring/index.html>) | Research post | Official page |
 | 2025 | [Modifying LLM Beliefs with Synthetic Document Finetuning](<https://alignment.anthropic.com/2025/modifying-beliefs-via-sdf/>) | Research post | Official page |
 | 2025 | [Model-Internals Classifiers](<https://alignment.anthropic.com/2025/cheap-monitors/>) | Research post | Official page |
-| 2025 | [Inverse Scaling in Test-Time Compute](<https://alignment.anthropic.com/2025/inverse-scaling/>) | Research post | Official page |
+| 2025 | [Inverse Scaling in Test-Time Compute](<https://alignment.anthropic.com/2025/inverse-scaling/>) | Research post | Official page, Verified affiliation |
 | 2025 | [Introducing Anthropic's Safeguards Research Team](<https://alignment.anthropic.com/2025/introducing-safeguards-research-team/index.html>) | Research post | Official page |
-| 2025 | [Inoculation Prompting\: Instructing LLMs to misbehave at train-time improves test-time alignment](<https://alignment.anthropic.com/2025/inoculation-prompting/>) | Research post | Official page |
+| 2025 | [Inoculation Prompting\: Instructing LLMs to misbehave at train-time improves test-time alignment](<https://alignment.anthropic.com/2025/inoculation-prompting/>) | Research post | Official page, Verified affiliation |
 | 2025 | [Findings from a Pilot Anthropic–OpenAI Alignment Evaluation Exercise](<https://alignment.anthropic.com/2025/openai-findings/>) | Research post | Official page |
 | 2025 | [Evaluating honesty and lie detection techniques on a diverse suite dishonest models](<https://alignment.anthropic.com/2025/honesty-elicitation/>) | Research post | Official page |
 | 2025 | [Enhancing Model Safety through Pretraining Data Filtering](<https://alignment.anthropic.com/2025/pretraining-data-filtering/>) | Research post | Official page |

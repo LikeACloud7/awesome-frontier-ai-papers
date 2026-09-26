@@ -1,21 +1,48 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `606`
-- Latest: `2026-09-04`
+- Papers: `689`
+- Latest: `2026-09-23`
 - [Back to README](../../README.md#openai)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [parameter-golf](<https://github.com/openai/parameter-golf/blob/main/paper/dg_attention.pdf>) | Technical report | Official repo |
 | n\.d\. | [OpenAI Guardrails\: Python (Preview)](<https://github.com/openai/openai-guardrails-python/blob/main/examples/hallucination_detection/example_microsoft_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [Frontier Evals](<https://github.com/openai/frontier-evals/blob/main/project/paperbench/data/papers/adaptive-pruning/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Build Hours](<https://github.com/openai/build-hours/blob/main/04-mmrag_tooluse/earnings_report_all/Webslides_Q120_4.28.20_Final.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
+| 2026‑09‑22 | [Priorities and principles for effective third party assessments](<https://openai.com/index/priorities-principles-third-party-assessments>) | Research post | Official page |
+| 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
+| 2026‑09‑16 | [Our framework for reporting model misalignment](<https://openai.com/index/model-misalignment-reporting-framework>) | Research post | Official page |
+| 2026‑09‑16 | [the-omega-institute/trureturing\: Lean cache db584cd6d46c92f209a44c0f1c829460d327499d/linux-arm64](<https://doi.org/10.5281/zenodo.22945891>) | Software | OpenAlex |
+| 2026‑09‑15 | [RODAN AI - Część VI - Integracja pełnego łańcucha głosowego STT+LLM+TTS na Edge AI Box (OPPO A40m)\: implementacja orkiestratora, diagnostyka awarii i pomiar energetyczny](<https://doi.org/10.5281/zenodo.22773810>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [PyAutoLabs/PyAutoLens\: v2026\.9\.15\.1](<https://doi.org/10.5281/zenodo.22760764>) | Software | OpenAlex |
+| 2026‑09‑15 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.15\.1](<https://doi.org/10.5281/zenodo.22760761>) | Software | OpenAlex |
+| 2026‑09‑14 | [PyAutoLabs/PyAutoLens\: v2026\.9\.14\.1](<https://doi.org/10.5281/zenodo.22746217>) | Software | OpenAlex |
+| 2026‑09‑14 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.14\.1](<https://doi.org/10.5281/zenodo.22746227>) | Software | OpenAlex |
+| 2026‑09‑14 | [OpenAI4S\: Code as Action, Science as Sessions](<https://arxiv.org/abs/2609.15096v1>) | Paper | Verified affiliation |
+| 2026‑09‑12 | [xuzhougeng/wisp-science\: v1\.12\.0\: Skill Marketplace · 技能市场](<https://doi.org/10.5281/zenodo.22720755>) | Software | OpenAlex |
+| 2026‑09‑12 | [dathere/qsv\: 23\.0\.0](<https://doi.org/10.5281/zenodo.22718963>) | Software | OpenAlex |
+| 2026‑09‑11 | [PyAutoLabs/PyAutoLens\: v2026\.9\.11\.1](<https://doi.org/10.5281/zenodo.22704870>) | Software | OpenAlex |
+| 2026‑09‑11 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.11\.1](<https://doi.org/10.5281/zenodo.22704869>) | Software | OpenAlex |
+| 2026‑09‑08 | [On the Navier–Stokes Millennium Prize Problem](<https://openai.com/index/navier-stokes-solution>) | Research post | Official page |
+| 2026‑09‑08 | [Funding grants for new research into AI and teen development](<https://openai.com/index/teen-development-research-grants>) | Research post | Official page |
+| 2026‑09‑08 | [PyAutoLabs/PyAutoLens\: v2026\.9\.8\.1](<https://doi.org/10.5281/zenodo.22656626>) | Software | OpenAlex |
+| 2026‑09‑08 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.8\.1](<https://doi.org/10.5281/zenodo.22656629>) | Software | OpenAlex |
+| 2026‑09‑07 | [RODAN AI - Część V - Edge AI Box na "Qualcomm Snapdragon 6s 4G Gen1 Octa-core"\: metodologia pomiaru energetycznego oraz komponenty STT i TTS w architekturze lokalnego łańcucha głosowego](<https://doi.org/10.5281/zenodo.22638985>) | Preprint | OpenAlex |
+| 2026‑09‑06 | [Research acceleration\: The view inside OpenAI](<https://openai.com/index/research-acceleration-view-inside-openai>) | Research post | Official page |
+| 2026‑09‑06 | [An Alien Mind](<https://openai.com/index/an-alien-mind>) | Research post | Official page |
+| 2026‑09‑06 | [The Covenant - A companion to the Disclosure Benchmark Specification - by Laura, Claude Fable 5, and Sol](<https://laurafridley.substack.com/p/the-covenant-a-companion-to-the-disclosure>) | Other | OpenAlex |
+| 2026‑09‑06 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.1](<https://doi.org/10.5281/zenodo.22549463>) | Article | OpenAlex |
+| 2026‑09‑05 | [xuzhougeng/wisp-science\: v1\.9\.0\: Multi-Window](<https://doi.org/10.5281/zenodo.22347191>) | Software | OpenAlex |
 | 2026‑09‑04 | [ColeStrickler/dtu-firesim\: ASPLOS2027](<https://doi.org/10.5281/zenodo.22308081>) | Software | OpenAlex |
 | 2026‑09‑04 | [PyAutoLabs/PyAutoLens\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309680>) | Software | OpenAlex |
 | 2026‑09‑04 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309677>) | Software | OpenAlex |
@@ -23,8 +50,9 @@
 | 2026‑09‑03 | [GPT-6 Astra\: A new generation of intelligence](<https://openai.com/index/gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑03 | [audiolabs/DEISM\: Adding path-length fluctuations for both shoebox and convex rooms](<https://doi.org/10.5281/zenodo.22278267>) | Software | OpenAlex |
 | 2026‑09‑01 | [Path to Astra\: critical capabilities and frontier safeguards](<https://openai.com/index/path-to-astra>) | Research post | Official page |
-| 2026‑08‑30 | [A Disclosure Benchmark Specification for Automated Alignment Research](<https://doi.org/10.5281/zenodo.22179466>) | Article | OpenAlex |
+| 2026‑08‑30 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.2](<https://doi.org/10.5281/zenodo.22179465>) | Article | OpenAlex |
 | 2026‑08‑28 | [xuzhougeng/wisp-science\: v1\.7\.1\: Remote Trust](<https://doi.org/10.5281/zenodo.22135271>) | Software | OpenAlex |
+| 2026‑08‑26 | [Visual General Intelligence\: A White Paper](<https://deepmind.google/research/publications/270149/>) | Publication | Official page, Verified affiliation |
 | 2026‑08‑26 | [xuzhougeng/wisp-science\: v1\.7\.0\: Trace &amp; Trust](<https://doi.org/10.5281/zenodo.22118994>) | Software | OpenAlex |
 | 2026‑08‑22 | [xuzhougeng/wisp-science\: v1\.6\.0\: Browse](<https://doi.org/10.5281/zenodo.22057764>) | Software | OpenAlex |
 | 2026‑08‑19 | [xuzhougeng/wisp-science\: v1\.5\.0\: Share](<https://doi.org/10.5281/zenodo.22009273>) | Software | OpenAlex |
@@ -43,6 +71,7 @@
 | 2026‑08‑06 | [dathere/qsv\: 22\.0\.0](<https://doi.org/10.5281/zenodo.21817262>) | Software | OpenAlex |
 | 2026‑08‑04 | [Scientific computing in the age of agentic AI\: an exploratory field report](<https://doi.org/10.64898/2026.07.29.741496>) | Preprint | OpenAlex |
 | 2026‑08‑01 | [Ten advances in mathematics and theoretical computer science](<https://openai.com/index/ten-advances-in-mathematics>) | Research post | Official page |
+| 2026‑07‑31 | [Disrupting a Cambodia-based criminal scam operation](<https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation>) | Research post | Official page |
 | 2026‑07‑31 | [xuzhougeng/wisp-science\: wisp-science v0\.29\.0](<https://doi.org/10.5281/zenodo.21712534>) | Software | OpenAlex |
 | 2026‑07‑31 | [tqdm/shtab\: shtab v1\.9\.0 stable](<https://doi.org/10.5281/zenodo.21721398>) | Software | OpenAlex |
 | 2026‑07‑31 | [Learning to Coordinate Symbolic Tools\: LLM Agents for Verified Sum-of-Squares Certificates](<https://arxiv.org/abs/2608.00326>) | Preprint | OpenAlex |
@@ -108,6 +137,8 @@
 | 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.17](<https://doi.org/10.5281/zenodo.20519790>) | Software | OpenAlex |
 | 2026‑06‑03 | [TheDarkLightX/ZenoDEX\: v0\.1\.16](<https://doi.org/10.5281/zenodo.20519116>) | Software | OpenAlex |
 | 2026‑06‑03 | [Audio MultiChallenge\: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction](<https://doi.org/10.48448/ca54-gk56>) | Other | OpenAlex |
+| 2026‑06‑01 | [“Tech and Tariffs” Campaign\: Influence activity targeting US tech policy](<https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs>) | Research post | Official page |
+| 2026‑06‑01 | [“Data Center Bandwagon” Campaign\: US-targeted influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon>) | Research post | Official page |
 | 2026‑05‑29 | [A shared playbook for trustworthy third party evaluations](<https://openai.com/index/trustworthy-third-party-evaluations-foundations>) | Research post | Official page |
 | 2026‑05‑29 | [The Industrial Revolution of the Intelligence Age](<https://doi.org/10.1109/mc.2026.3678508>) | Article | OpenAlex |
 | 2026‑05‑28 | [OpenAI’s Frontier Governance Framework](<https://openai.com/index/openai-frontier-governance-framework>) | Research post | Official page |
@@ -128,7 +159,7 @@
 | 2026‑05‑19 | [Advancing content provenance for a safer, more transparent AI ecosystem](<https://openai.com/index/advancing-content-provenance>) | Research post | Official page |
 | 2026‑05‑14 | [Helping ChatGPT better recognize context in sensitive conversations](<https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations>) | Research post | Official page |
 | 2026‑05‑12 | [What Parameter Golf taught us about AI-assisted research](<https://openai.com/index/what-parameter-golf-taught-us>) | Research post | Official page |
-| 2026‑05‑11 | [ExploitGym\: Can AI Agents Turn Security Vulnerabilities into Real Attacks?](<https://arxiv.org/abs/2605.11086>) | Preprint | OpenAlex |
+| 2026‑05‑11 | [ExploitGym\: Can AI Agents Turn Security Vulnerabilities into Real Attacks?](<https://arxiv.org/abs/2605.11086v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑05‑08 | [The Denominator Turn of Mass\: Curvature as Low-Frequency Routing of High-Frequency Synchronization Residue](<https://doi.org/10.5281/zenodo.20078229>) | Preprint | OpenAlex |
 | 2026‑05‑08 | [Mass as Synchronization Residue\: An Operational Reading of Relativistic Dispersion from Thermal and Wave-Cycle Windows](<https://doi.org/10.5281/zenodo.20077863>) | Preprint | OpenAlex |
 | 2026‑05‑07 | [Introducing Trusted Contact in ChatGPT](<https://openai.com/index/introducing-trusted-contact-in-chatgpt>) | Research post | Official page |
@@ -203,6 +234,14 @@
 | 2026‑02‑05 | [The Architecture of the Governor\: Consistency-Maximized Agents and the Ridge Blind Spot](<https://doi.org/10.5281/zenodo.18499393>) | Preprint | OpenAlex |
 | 2026‑02‑05 | [ACORN Volume 2\: Geodesics, Curvature and the Unified Dynamics of Charge and Gravity](<https://doi.org/10.5281/zenodo.17633851>) | Book | OpenAlex |
 | 2026‑02‑02 | [Synchronization Mesh Protocol\: Synchronization as the Operational Prerequisite for Physical Laws](<https://doi.org/10.5281/zenodo.18453910>) | Preprint | OpenAlex |
+| 2026‑02‑01 | [“Cyber Special Operations”\: China-linked influence planning](<https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations>) | Research post | Official page |
+| 2026‑02‑01 | [Silver lining playbook\: Likely China-origin activity targeting US persons](<https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook>) | Research post | Official page |
+| 2026‑02‑01 | [Romance scams\: AI-enabled romance scam workflows](<https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam>) | Research post | Official page |
+| 2026‑02‑01 | [Operation “Trolling Stone”\: Russia-linked influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone>) | Research post | Official page |
+| 2026‑02‑01 | [Operation “No Bell”\: Coordinated criticism of the US and allies](<https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell>) | Research post | Official page |
+| 2026‑02‑01 | [Operation “Fish Food”\: Russia-origin content farm activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food>) | Research post | Official page |
+| 2026‑02‑01 | [Operation “False Witness”\: Fake recovery service impersonating authorities](<https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness>) | Research post | Official page |
+| 2026‑02‑01 | [Operation “Date Bait”\: AI-enabled scam targeting loveseekers](<https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait>) | Research post | Official page |
 | 2026‑01‑31 | [Proton\: Towards Multi-level, Adaptive Profiling for Triton](<https://doi.org/10.1109/cgo68049.2026.11395207>) | Conference paper | OpenAlex |
 | 2026‑01‑28 | [A benchmark of expert-level academic questions to assess AI capabilities](<https://doi.org/10.1038/s41586-025-09962-4>) | Article | OpenAlex |
 | 2026‑01‑28 | [Keeping your data safe when an AI agent clicks a link](<https://openai.com/index/ai-agent-link-safety>) | Research post | Official page |
@@ -246,6 +285,7 @@
 | 2025‑12‑28 | [V61\:Variance Stability in Finite-Information Universes\: κeff as a Predictor of Yield Fluctuation Across Identical Processes](<https://doi.org/10.5281/zenodo.18072703>) | Conference abstract | OpenAlex |
 | 2025‑12‑28 | [V60\:Finite Information Projection as a Universal Localization Mechanism\: From Electromagnetic Absorption to Quantum and Thermal Dynamics](<https://doi.org/10.5281/zenodo.18072603>) | Conference abstract | OpenAlex |
 | 2025‑12‑24 | [Universal Dual Complementarity Theory (UDCT)\: A Quantum Light Framework – Anubis &amp; Horus = True Love's Shadow and Light 's Dance](<https://doi.org/10.5281/zenodo.18214093>) | Preprint | OpenAlex |
+| 2025‑12‑20 | [Monitoring Monitorability](<https://arxiv.org/abs/2512.18311>) | Paper | Verified affiliation |
 | 2025‑12‑18 | [Updating our Model Spec with teen protections](<https://openai.com/index/updating-model-spec-with-teen-protections>) | Research post | Official page |
 | 2025‑12‑18 | [Evaluating chain-of-thought monitorability](<https://openai.com/index/evaluating-chain-of-thought-monitorability>) | Research post | Official page |
 | 2025‑12‑18 | [Addendum to GPT-5\.2 System Card\: GPT-5\.2-Codex](<https://openai.com/index/gpt-5-2-codex-system-card>) | Publication | Official page |
@@ -330,6 +370,13 @@
 | 2025‑10‑09 | [Defining and evaluating political bias in LLMs](<https://openai.com/index/defining-and-evaluating-political-bias-in-llms>) | Research post | Official page |
 | 2025‑10‑09 | [Mind the Abstraction Gap\: Bringing Equality Saturation to Real-World ML Compilers](<https://doi.org/10.1145/3763062>) | Article | OpenAlex |
 | 2025‑10‑03 | [Flow Autoencoders are Effective Protein Tokenizers](<https://doi.org/10.1101/2025.10.01.679645>) | Preprint | OpenAlex |
+| 2025‑10‑01 | [Scam operations\: Online fraud networks](<https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations>) | Research post | Official page |
+| 2025‑10‑01 | [PRC-linked abuse\: Surveillance and influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse>) | Research post | Official page |
+| 2025‑10‑01 | [Operation “Stop News”\: Recidivist influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025>) | Research post | Official page |
+| 2025‑10‑01 | [Operation “Nine–emdash Line”\: Regional influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-nine-emdash-line>) | Research post | Official page |
+| 2025‑10‑01 | [Cyber Operation\: Russian-speaking malware tooling](<https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling>) | Research post | Official page |
+| 2025‑10‑01 | [Cyber Operation\: Phishing and scripting support](<https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support>) | Research post | Official page |
+| 2025‑10‑01 | [Cyber Operation\: Korean-language malware support](<https://openai.com/index/disrupting-malicious-uses-of-ai-korean-language-malware-support>) | Research post | Official page |
 | 2025‑10‑01 | [The impact of advanced AI systems on democracy](<https://doi.org/10.1038/s41562-025-02309-z>) | Article | OpenAlex |
 | 2025‑10‑01 | [Mercury\: Unlocking Multi-GPU Operator Optimization for LLMs via Remote Memory Scheduling](<https://doi.org/10.1145/3731569.3764798>) | Conference paper | OpenAlex |
 | 2025‑09‑30 | [Sora 2 is here](<https://openai.com/index/sora-2>) | Publication | Official page |
@@ -365,6 +412,7 @@
 | 2025‑07‑09 | [Predicting Online Purchases Using Six Machine Learning Models Based on Customer Demographics](<https://doi.org/10.1109/icdici66477.2025.11135228>) | Conference paper | OpenAlex |
 | 2025‑07‑09 | [Forecasting Cloud Storage Costs using Machine Learning on usage Patterns](<https://doi.org/10.1109/icdici66477.2025.11135182>) | Conference paper | OpenAlex |
 | 2025‑07‑09 | [Rift\: a Real-Time Machine Learning Framework for Predicting Payment Gateway Transaction Failures](<https://doi.org/10.1109/icdici66477.2025.11135004>) | Conference paper | OpenAlex |
+| 2025‑06‑24 | [Persona Features Control Emergent Misalignment](<https://arxiv.org/abs/2506.19823>) | Paper | Verified affiliation |
 | 2025‑06‑18 | [Toward understanding and preventing misalignment generalization](<https://openai.com/index/emergent-misalignment>) | Research post | Official page |
 | 2025‑06‑18 | [Preparing for future AI risks in biology](<https://openai.com/index/preparing-for-future-ai-capabilities-in-biology>) | Research post | Official page |
 | 2025‑06‑11 | [Forecasting the Impact of Interest Rates on Homebuyer Demand using Machine Learning](<https://doi.org/10.1109/icssas66150.2025.11081098>) | Conference paper | OpenAlex |
@@ -374,6 +422,16 @@
 | 2025‑06‑04 | [A Comprehensive Review of AI and ML in Data Governance and Data Quality](<https://doi.org/10.1109/icici65870.2025.11069464>) | Conference paper | OpenAlex |
 | 2025‑06‑04 | [Intelligent Fraud Detection\: Leveraging Deep Learning for Real-Time Risk Mitigation](<https://doi.org/10.1109/icici65870.2025.11069668>) | Conference paper | OpenAlex |
 | 2025‑06‑04 | [Deep Learning-Driven Dynamic Clustering for Intelligent Customer Segmentation](<https://doi.org/10.1109/icici65870.2025.11069888>) | Conference paper | OpenAlex |
+| 2025‑06‑01 | [Vixen and Keyhole Panda\: China-linked cyber operations](<https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda>) | Research post | Official page |
+| 2025‑06‑01 | [STORM-2035\: Recidivist influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2025>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “Wrong Number”\: AI-assisted task scam](<https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “VAGue Focus”\: Social engineering and influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-vague-focus>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “Uncle Spam”\: US polarization influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-uncle-spam>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “Sneer Review”\: China-origin influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-sneer-review>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “ScopeCreep”\: Russian-speaking malware development](<https://openai.com/index/disrupting-malicious-uses-of-ai-scopecreep>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “High Five”\: Philippines political comments](<https://openai.com/index/disrupting-malicious-uses-of-ai-high-five>) | Research post | Official page |
+| 2025‑06‑01 | [Operation “Helgoland Bite”\: German-language influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-helgoland-bite>) | Research post | Official page |
+| 2025‑06‑01 | [Deceptive Employment Scheme\: IT worker activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers>) | Research post | Official page |
 | 2025‑06‑01 | [Spatial reasoning via recurrent neural dynamics in mouse retrosplenial cortex](<https://doi.org/10.1038/s41593-025-01944-z>) | Article | OpenAlex |
 | 2025‑05‑24 | [RL-Finetuning of OpenAI o1-mini to Enhance Biomedical Reasoning](<https://doi.org/10.1101/2025.05.19.654988>) | Preprint | OpenAlex |
 | 2025‑05‑23 | [Addendum to OpenAI o3 and o4-mini system card\: OpenAI o3 Operator](<https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3>) | Publication | Official page |
@@ -394,7 +452,7 @@
 | 2025‑04‑10 | [BrowseComp\: a benchmark for browsing agents](<https://openai.com/index/browsecomp>) | Research post | Official page |
 | 2025‑04‑09 | [Universal photonic artificial intelligence acceleration](<https://doi.org/10.1038/s41586-025-08854-x>) | Article | OpenAlex |
 | 2025‑04‑09 | [Position\: Contextual Confidence and Generative AI](<https://doi.org/10.1109/satml64287.2025.00022>) | Article | OpenAlex |
-| 2025‑04‑02 | [PaperBench\: Evaluating AI’s Ability to Replicate AI Research](<https://openai.com/index/paperbench>) | Research post | Official page |
+| 2025‑04‑02 | [PaperBench\: Evaluating AI’s Ability to Replicate AI Research](<https://openai.com/index/paperbench>) | Research post | Official page, Verified affiliation |
 | 2025‑03‑27 | [Relax\: Composable Abstractions for End-to-End Dynamic Machine Learning](<https://doi.org/10.1145/3676641.3716249>) | Article | OpenAlex |
 | 2025‑03‑25 | [Addendum to GPT-4o System Card\: 4o image generation](<https://openai.com/index/gpt-4o-image-generation-system-card-addendum>) | Publication | Official page |
 | 2025‑03‑21 | [Early methods for studying affective use and emotional well-being on ChatGPT](<https://openai.com/index/affective-use-study>) | Research post | Official page |
@@ -404,9 +462,18 @@
 | 2025‑02‑25 | [Deep research System Card](<https://openai.com/index/deep-research-system-card>) | Publication | Official page |
 | 2025‑02‑21 | [Trust at Your Own Peril\: A Mixed Methods Exploration of the Ability of Large Language Models to Generate Expert‐Like Systems Engineering Artifacts and a Characterization of Failure Modes](<https://doi.org/10.1002/sys.21810>) | Article | OpenAlex |
 | 2025‑02‑18 | [Introducing the SWE-Lancer benchmark](<https://openai.com/index/swe-lancer>) | Research post | Official page |
+| 2025‑02‑17 | [SWE-Lancer\: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](<https://arxiv.org/abs/2502.12115>) | Paper | Verified affiliation |
 | 2025‑02‑12 | [Sharing the latest Model Spec](<https://openai.com/index/sharing-the-latest-model-spec>) | Research post | Official page |
 | 2025‑02‑03 | [Competitive Programming with Large Reasoning Models](<https://huggingface.co/papers/2502.06807>) | Paper | Hugging Face |
 | 2025‑02‑02 | [Introducing deep research](<https://openai.com/index/introducing-deep-research>) | Research post | Official page |
+| 2025‑02‑01 | [Task scam\: AI-assisted fake review jobs](<https://openai.com/index/disrupting-malicious-uses-of-ai-task-scam>) | Research post | Official page |
+| 2025‑02‑01 | [Romance-baiting scam\: AI-assisted pig butchering workflows](<https://openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam>) | Research post | Official page |
+| 2025‑02‑01 | [Operation “Sponsored Discontent”\: Influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-sponsored-discontent>) | Research post | Official page |
+| 2025‑02‑01 | [Operation “Peer Review”\: AI-assisted surveillance planning](<https://openai.com/index/disrupting-malicious-uses-of-ai-peer-review>) | Research post | Official page |
+| 2025‑02‑01 | [Iranian influence nexus\: Cross-platform activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus>) | Research post | Official page |
+| 2025‑02‑01 | [Deceptive Employment Scheme\: AI-assisted hiring deception](<https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme>) | Research post | Official page |
+| 2025‑02‑01 | [Cyber threat actors\: AI-assisted intrusion research](<https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-threat-actors>) | Research post | Official page |
+| 2025‑02‑01 | [Covert influence operation\: Ghana election activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-ghana-election>) | Research post | Official page |
 | 2025‑01‑31 | [OpenAI o3-mini System Card](<https://openai.com/index/o3-mini-system-card>) | Publication | Official page |
 | 2025‑01‑31 | [OpenAI o3-mini](<https://openai.com/index/openai-o3-mini>) | Research post | Official page |
 | 2025‑01‑23 | [Computer-Using Agent](<https://openai.com/index/computer-using-agent>) | Publication | Official page |
@@ -416,10 +483,13 @@
 | 2025‑01‑01 | [From Replication to Redesign\: Exploring Pairwise Comparisons for LLM-Based Peer Review](<https://www.microsoft.com/en-us/research/publication/from-replication-to-redesign-exploring-pairwise-comparisons-for-llm-based-peer-review/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Datasets, Documents, and Repetitions\: The Practicalities of Unequal Data Quality](<https://machinelearning.apple.com/research/datasets-documents-repetitions>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [AutoRedTeamer\: Autonomous Red Teaming with Lifelong Attack Integration](<https://doi.org/10.70777/si.v2i2.14433>) | Article | OpenAlex |
+| 2025‑01‑01 | [Meta CLIP 2\: A Worldwide Scaling Recipe](<http://arxiv.org/abs/2507.22062>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Automating the Search for Artificial Life With Foundation Models](<https://doi.org/10.1162/artl.a.8>) | Article | OpenAlex |
 | 2025‑01‑01 | [ResearchCodeBench\: Benchmarking LLMs on Implementing Novel Machine Learning Research Code](<http://arxiv.org/abs/2506.02314>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Simplicity Prevails\: Rethinking Negative Preference Optimization for LLM Unlearning](<http://arxiv.org/abs/2410.07163>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Nemotron-CLIMB\: Clustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training](<https://arxiv.org/abs/2504.13161>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [NAVIX\: Scaling MiniGrid Environments with JAX](<http://arxiv.org/abs/2407.19396>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Exploring the limits of strong membership inference attacks on large language models](<https://doi.org/10.52202/085713-2934>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [EmergentTTS-Eval\: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](<http://arxiv.org/abs/2505.23009>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Do Language Models Use Their Depth Efficiently?](<http://arxiv.org/abs/2505.13898>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [APIGen-MT\: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](<http://arxiv.org/abs/2504.03601>) | Conference paper | OpenAlex |
@@ -428,14 +498,11 @@
 | 2025‑01‑01 | [Signal True Always True (V) — The Experimental Pathways of Coherence\: Modeling, Measurement, and Informational Resonance](<https://doi.org/10.5281/zenodo.17505855>) | Article | OpenAlex |
 | 2025‑01‑01 | [RLZero\: Direct Policy Inference from Language Without In-Domain Supervision](<https://doi.org/10.52202/085713-2794>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Quantifying Elicitation of Latent Capabilities in Language Models](<https://doi.org/10.52202/085713-5029>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [NAVIX\: Scaling MiniGrid Environments with JAX](<http://arxiv.org/abs/2407.19396>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Meta CLIP 2\: A Worldwide Scaling Recipe](<http://arxiv.org/abs/2507.22062>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LocDiff\: Identifying Locations on Earth by Diffusing in the Hilbert Space](<http://arxiv.org/abs/2503.18142>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LMFusion\: Adapting Pretrained Language Models for Multimodal Generation](<https://doi.org/10.52202/085713-0310>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Is Your Diffusion Model Actually Denoising?](<https://doi.org/10.52202/085713-3157>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [GVPO\: Group Variance Policy Optimization for Large Language Model Post-Training](<http://arxiv.org/abs/2504.19599>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Fundamental Limitations in Pointwise Defences of LLM Finetuning APIs](<https://doi.org/10.52202/085713-2551>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Exploring the limits of strong membership inference attacks on large language models](<https://doi.org/10.52202/085713-2934>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [DyMU\: Dynamic Merging and Virtual Unmerging for Efficient Variable-Length VLMs](<https://doi.org/10.52202/085713-2448>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [CoT Red-Handed\: Stress Testing Chain-of-Thought Monitoring](<http://arxiv.org/abs/2505.23575>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Behavior Injection\: Preparing Language Models for Reinforcement Learning](<http://arxiv.org/abs/2505.18917>) | Conference paper | OpenAlex |
@@ -456,7 +523,18 @@
 | 2024‑10‑23 | [Simplifying, stabilizing, and scaling continuous-time consistency models](<https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models>) | Research post | Official page |
 | 2024‑10‑16 | [The PPOu Framework\: A Structured Approach for Assessing the Likelihood of Malicious Use of Advanced AI Systems](<https://doi.org/10.1609/aies.v7i1.31653>) | Conference paper | OpenAlex |
 | 2024‑10‑15 | [Evaluating fairness in ChatGPT](<https://openai.com/index/evaluating-fairness-in-chatgpt>) | Research post | Official page |
-| 2024‑10‑10 | [MLE-bench\: Evaluating Machine Learning Agents on Machine Learning Engineering](<https://openai.com/index/mle-bench>) | Research post | Official page |
+| 2024‑10‑09 | [MLE-bench\: Evaluating Machine Learning Agents on Machine Learning Engineering](<https://openai.com/index/mle-bench>) | Research post | Official page, Verified affiliation |
+| 2024‑10‑01 | [Tort Report\: Abusive reporting activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report>) | Research post | Official page |
+| 2024‑10‑01 | [SweetSpecter\: China-linked cyber activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-sweetspecter>) | Research post | Official page |
+| 2024‑10‑01 | [STORM-0817\: Iran-linked malware and scraping activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817>) | Research post | Official page |
+| 2024‑10‑01 | [Rwandan election content\: Political commenting network](<https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content>) | Research post | Official page |
+| 2024‑10‑01 | [Operation “Stop News”\: Russia-origin influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024>) | Research post | Official page |
+| 2024‑10‑01 | [Operation “STORM-2035”\: Iran-origin influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024>) | Research post | Official page |
+| 2024‑10‑01 | [Operation “A2Z”\: Multilingual influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-a2z>) | Research post | Official page |
+| 2024‑10‑01 | [Hoax\: Fake Russian “troll” error message](<https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll>) | Research post | Official page |
+| 2024‑10‑01 | [CyberAv3ngers\: Iran-linked cyber research activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-cyberav3ngers>) | Research post | Official page |
+| 2024‑10‑01 | [Corrupt Comment\: Anti-corruption foundation criticism](<https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment>) | Research post | Official page |
+| 2024‑10‑01 | [Bet Bot\: Gambling spam network](<https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot>) | Research post | Official page |
 | 2024‑09‑30 | [Parrot\: Pareto-Optimal Multi-reward Reinforcement Learning Framework for Text-to-Image Generation](<https://doi.org/10.1007/978-3-031-72920-1_26>) | Book chapter | OpenAlex |
 | 2024‑09‑16 | [Author Correction\: AI is a viable alternative to high throughput screening\: a 318-target study](<https://doi.org/10.1038/s41598-024-70321-w>) | Erratum | OpenAlex |
 | 2024‑09‑12 | [OpenAI o1-mini](<https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning>) | Research post | Official page |
@@ -482,6 +560,11 @@
 | 2024‑05‑13 | [Topological Embedding of Human Brain Networks with Applications to Dynamics of Temporal Lobe Epilepsy](<http://arxiv.org/abs/2405.07835>) | Preprint | OpenAlex |
 | 2024‑05‑07 | [Understanding the source of what we see and hear online](<https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online>) | Research post | Official page |
 | 2024‑05‑07 | [Our approach to data and AI](<https://openai.com/index/approach-to-data-and-ai>) | Research post | Official page |
+| 2024‑05‑01 | [Operation "Zero Zeno"\: Israel-linked influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno>) | Research post | Official page |
+| 2024‑05‑01 | [Operation "Spamouflage"\: China-linked influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage>) | Research post | Official page |
+| 2024‑05‑01 | [Operation "Doppelganger"\: Russian influence activity targeting Ukraine](<https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger>) | Research post | Official page |
+| 2024‑05‑01 | [IUVM\: Iran-linked influence content network](<https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm>) | Research post | Official page |
+| 2024‑05‑01 | ["Bad Grammar"\: Russian-linked Telegram comment activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar>) | Research post | Official page |
 | 2024‑04‑22 | [PyTorch 2\: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](<https://doi.org/10.1145/3620665.3640366>) | Conference paper | OpenAlex |
 | 2024‑04‑19 | [The Instruction Hierarchy\: Training LLMs to Prioritize Privileged Instructions](<https://openai.com/index/the-instruction-hierarchy>) | Research post | Official page |
 | 2024‑04‑02 | [AI is a viable alternative to high throughput screening\: a 318-target study](<https://doi.org/10.1038/s41598-024-54655-z>) | Article | OpenAlex |

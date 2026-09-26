@@ -1,25 +1,48 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `226`
-- Latest: `2026-09-02`
+- Papers: `262`
+- Latest: `2026-09-24`
 - [Back to README](../../README.md#bytedanceseed)
+
+## No date
+
+| Date | Paper | Type | Source |
+|---|---|---|---|
+| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [EvaLearn](<https://github.com/ByteDance-Seed/EvaLearn/blob/main/EvaLearn-paper.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑24 | [anitarau/SurgBenchKit\: Initial publication](<https://doi.org/10.5281/zenodo.22930099>) | Software | OpenAlex |
+| 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
+| 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |
+| 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |
+| 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
+| 2026‑09‑02 | [AnewDPSA\: Solvent-Conditioned Ensemble Representations for Regime-Aware Cyclic Peptide Permeability Prediction](<https://doi.org/10.5281/zenodo.22249743>) | Dataset | OpenAlex |
 | 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [OpenVid++\: A Large-scale High-quality Dataset for Text-to-video Generation](<https://doi.org/10.1007/s11263-026-02989-8>) | Article | OpenAlex |
+| 2026‑09‑01 | [Multiobjective Fluorescent Molecule Design with a Data-Physics Dual-Driven Generative Framework](<https://doi.org/10.1021/jacsau.6c00832>) | Article | OpenAlex |
+| 2026‑09‑01 | [GUI-ReWalk\: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](<https://doi.org/10.24963/ijcai.2026/27>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [SMELT\: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [HarnessDev\: Can LLMs Create and Evolve Their Own Agent Harness?](<https://arxiv.org/abs/2609.01437v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [From Language to Behavior\: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs](<https://arxiv.org/abs/2609.01240v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [SemanticIR\: A Semantic-Aware Transformer for High-Quality Medical Image Restoration](<https://doi.org/10.64187/bim.2026.v1.i1.007>) | Article | OpenAlex |
 | 2026‑08‑31 | [S3Gym\: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](<https://arxiv.org/abs/2608.31100v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [REER-PT\: Reverse-Engineered Reasoning for Perplexity-Guided Pre-training Data Augmentation](<https://arxiv.org/abs/2608.30627v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [Lucida\: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](<https://arxiv.org/abs/2608.30821v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [ByteX\: A Unified AI Search Engine at ByteDance](<https://arxiv.org/abs/2608.30607v2>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [Aspire\: Can Models Self-Evolve from Vague Goals?](<https://arxiv.org/abs/2608.31111v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [AgenticGen\: Reward-Guided Agentic Video Generation for Advertising](<https://arxiv.org/abs/2609.09187v1>) | Paper | Verified affiliation |
+| 2026‑08‑29 | [Cambricon-FlexLLM\: A Flexible Chiplet-Based Hybrid Architecture for On-Device 70B LLM Inference](<https://doi.org/10.1145/3844618>) | Article | OpenAlex |
 | 2026‑08‑27 | [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763v1>) | Paper | Verified affiliation |
 | 2026‑08‑26 | [Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training](<https://arxiv.org/abs/2608.25826v1>) | Paper | Verified affiliation |
 | 2026‑08‑22 | [Repo2Skill-Evo\: Repository Skills Go Stale in Silence](<https://arxiv.org/abs/2608.21964v1>) | Paper | Verified affiliation |
+| 2026‑08‑18 | [StartupBench\: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows](<https://arxiv.org/abs/2608.17800v1>) | Paper | Verified affiliation |
+| 2026‑08‑18 | [Chain-of-Experience for Continual LLM Improvement](<https://arxiv.org/abs/2608.18027v1>) | Paper | Verified affiliation |
+| 2026‑08‑12 | [Harness-IF\: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents](<https://arxiv.org/abs/2608.11727v1>) | Paper | Verified affiliation |
 | 2026‑08‑10 | [SWE-Bench ProMax\: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](<https://huggingface.co/papers/2608.09802>) | Paper | Hugging Face |
 | 2026‑08‑06 | [GST-Bench\: Can VLMs Develop Global Spatial Awareness from Video?](<https://huggingface.co/papers/2608.05747>) | Paper | Hugging Face |
 | 2026‑08‑03 | [Douyin Multimodal Embedding Model Technical Report](<https://huggingface.co/papers/2608.02148>) | Paper | Hugging Face |
@@ -55,6 +78,7 @@
 | 2026‑04‑10 | [Nexus\: Same Pretraining Loss, Better Downstream Generalization via Common Minima](<https://seed.bytedance.com/en/research/nexus-same-pretraining-loss-better-downstream-generalization-via-common-minima>) | Publication | Official page |
 | 2026‑04‑09 | [Topological invariant of periodic many body wavefunction from charge pumping simulation](<https://seed.bytedance.com/en/research/topological-invariant-of-periodic-many-body-wavefunction-from-charge-pumping-simulation>) | Publication | Official page |
 | 2026‑04‑08 | [Not all tokens contribute equally to diffusion learning](<https://seed.bytedance.com/en/research/not-all-tokens-contribute-equally-to-diffusion-learning>) | Publication | Official page |
+| 2026‑04‑07 | [In-Place Test-Time Training](<https://arxiv.org/abs/2604.06169>) | Paper | Verified affiliation |
 | 2026‑03‑26 | [Hessian-informed machine learning interatomic potential towards bridging theory and experiments](<https://seed.bytedance.com/en/research/hessian-informed-machine-learning-interatomic-potential-towards-bridging-theory-and-experiments>) | Publication | Official page |
 | 2026‑03‑26 | [Towards Generalizable Robotic Data Flywheel\: High-Dimensional Factorization and Composition](<https://seed.bytedance.com/en/research/towards-generalizable-robotic-data-flywheel-high-dimensional-factorization-and-composition>) | Publication | Official page |
 | 2026‑03‑25 | [TopoMesh\: High-Fidelity Mesh Autoencoding via Topological Unification](<https://seed.bytedance.com/en/research/topomesh-high-fidelity-mesh-autoencoding-via-topological-unification>) | Publication | Official page |
@@ -83,6 +107,7 @@
 | 2026‑02‑09 | [Protenix-v1\: Toward High-Accuracy Open-Source Biomolecular Structure Prediction](<https://seed.bytedance.com/en/research/protenix-v1-toward-high-accuracy-open-source-biomolecular-structure-prediction>) | Publication | Official page |
 | 2026‑02‑05 | [BABE\: Biology Arena BEnchmark](<https://seed.bytedance.com/en/research/babe-biology-arena-benchmark>) | Publication | Official page |
 | 2026‑02‑04 | [VTok\: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](<https://seed.bytedance.com/en/research/vtok-a-unified-video-tokenizer-with-decoupled-spatial-temporal-latents>) | Publication | Official page |
+| 2026‑02‑04 | [Protein Autoregressive Modeling via Multiscale Structure Generation](<https://arxiv.org/abs/2602.04883>) | Paper | Verified affiliation |
 | 2026‑02‑02 | [SPARKLING\: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](<https://seed.bytedance.com/en/research/sparkling-balancing-signal-preservation-and-symmetry-breaking-for-width-progressive-learning>) | Publication | Official page |
 | 2026‑01‑31 | [Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning](<https://seed.bytedance.com/en/research/adaptive-ability-decomposing-for-unlocking-large-reasoning-model-effective-reinforcement-learning>) | Publication | Official page |
 | 2026‑01‑29 | [Retrieval-Infused Reasoning Sandbox\: A Benchmark for Decoupling Retrieval and Reasoning Capabilities](<https://seed.bytedance.com/en/research/retrieval-infused-reasoning-sandbox-a-benchmark-for-decoupling-retrieval-and-reasoning-capabilities>) | Publication | Official page |
@@ -98,7 +123,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2025‑12‑19 | [Seed-Prover 1\.5\: Mastering Undergraduate-Level Theorem Proving via Learning from Experience](<https://arxiv.org/abs/2512.17260>) | Paper | Verified affiliation |
 | 2025‑12‑15 | [Seedance 1\.5 pro\: A Native Audio-Visual Joint Generation Foundation Model](<https://seed.bytedance.com/en/research/seedance-1-5-pro-a-native-audio-visual-joint-generation-foundation-model>) | Publication | Official page |
+| 2025‑12‑03 | [DAComp\: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](<https://arxiv.org/abs/2512.04324>) | Paper | Verified affiliation |
 | 2025‑12‑02 | [GR-RL\: Going Dexterous and Precise for Long-Horizon Robotic Manipulation](<https://seed.bytedance.com/en/research/gr-rl-going-dexterous-and-precise-for-long-horizon-robotic-manipulation>) | Publication | Official page |
 | 2025‑11‑27 | [Adversarial Flow Models](<https://arxiv.org/abs/2511.22475>) | Paper | Verified affiliation |
 | 2025‑10‑22 | [Seed3D 1\.0\: From Images to High-Fidelity Simulation-Ready 3D Assets](<https://seed.bytedance.com/en/research/seed3d-1-0-from-images-to-high-fidelity-simulation-ready-3d-assets>) | Publication | Official page |
@@ -110,16 +137,23 @@
 | 2025‑09‑22 | [MEF\: A Systematic Evaluation Framework for Text-to-Image Models](<https://seed.bytedance.com/en/research/mef-a-systematic-evaluation-framework-for-text-to-image-models>) | Publication | Official page |
 | 2025‑09‑22 | [ByteWrist\: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces](<https://seed.bytedance.com/en/research/bytewrist-a-parallel-robotic-wrist-enabling-flexible-and-anthropomorphic-motion-for-confined-spaces>) | Publication | Official page |
 | 2025‑09‑02 | [PXDesign\: Fast, Modular, and Accurate De Novo Design of Protein Binders](<https://seed.bytedance.com/en/research/pxdesign-fast-modular-and-accurate-de-novo-design-of-protein-binders>) | Publication | Official page |
+| 2025‑09‑02 | [UI-TARS-2 Technical Report\: Advancing GUI Agent with Multi-Turn Reinforcement Learning](<https://arxiv.org/abs/2509.02544>) | Paper | Verified affiliation |
 | 2025‑09‑01 | [Robix\: A Unified Model for Robot Interaction, Reasoning and Planning](<https://seed.bytedance.com/en/research/robix-a-unified-model-for-robot-interaction-reasoning-and-planning>) | Publication | Official page |
 | 2025‑08‑14 | [ReportBench\: Evaluating Deep Research Agents via Academic Survey Tasks](<https://huggingface.co/papers/2508.15804>) | Paper | Hugging Face |
+| 2025‑08‑14 | [Puppeteer\: Rig and Animate Your 3D Models](<https://arxiv.org/abs/2508.10898>) | Paper | Verified affiliation |
 | 2025‑08‑13 | [Seeing, Listening, Remembering, and Reasoning\: A Multimodal Agent with Long-Term Memory](<https://seed.bytedance.com/en/research/seeing-listening-remembering-and-reasoning-a-multimodal-agent-with-long-term-memory>) | Publication | Official page |
 | 2025‑08‑12 | [Bridging Quantum Mechanics to Liquid Properties via a Universal Organic Force Field](<https://arxiv.org/abs/2508.08575>) | Paper | Verified affiliation |
+| 2025‑08‑11 | [WideSearch\: Benchmarking Agentic Broad Info-Seeking](<https://arxiv.org/abs/2508.07999>) | Paper | Verified affiliation |
 | 2025‑08‑04 | [Seed Diffusion\: A Large-Scale Diffusion Language Model with High-Speed Inference](<https://seed.bytedance.com/en/research/seed-diffusion-a-large-scale-diffusion-language-model-with-high-speed-inference>) | Publication | Official page |
+| 2025‑08‑04 | [VeOmni\: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](<https://arxiv.org/abs/2508.02317>) | Paper | Verified affiliation |
 | 2025‑07‑31 | [Seed-Prover\: Deep and Broad Reasoning for Automated Theorem Proving](<https://seed.bytedance.com/en/research/seed-prover-deep-and-broad-reasoning-for-automated-theorem-proving>) | Publication | Official page |
 | 2025‑07‑24 | [Seed LiveInterpret 2\.0\: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](<https://seed.bytedance.com/en/research/seed-liveinterpret-2-0-end-to-end-simultaneous-speech-to-speech-translation-with-your-voice>) | Publication | Official page |
 | 2025‑07‑21 | [GR-3 Technical Report](<https://seed.bytedance.com/en/research/gr-3-technical-report>) | Publication | Official page |
+| 2025‑07‑21 | [Solving Formal Math Problems by Decomposition and Iterative Reflection](<https://arxiv.org/abs/2507.15225>) | Paper | Verified affiliation |
+| 2025‑07‑18 | [Seed-X\: Building Strong Multilingual Translation LLM with 7B Parameters](<https://arxiv.org/abs/2507.13618>) | Paper | Verified affiliation |
 | 2025‑07‑10 | [Understanding Chain-of-Thought in LLMs through Information Theory](<https://seed.bytedance.com/en/research/understanding-chain-of-thought-in-llms-through-information-theory>) | Publication | Official page |
 | 2025‑07‑04 | [Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting](<https://seed.bytedance.com/en/research/dexterous-teleoperation-of-20-dof-bytedexter-hand-via-human-motion-retargeting>) | Publication | Official page |
+| 2025‑06‑23 | [Vision as a Dialect\: Unifying Visual Understanding and Generation via Text-Aligned Representations](<https://arxiv.org/abs/2506.18898>) | Paper | Verified affiliation |
 | 2025‑06‑16 | [Robust Multi-bit Text Watermark with LLM-based Paraphrasers](<https://seed.bytedance.com/en/research/robust-multi-bit-text-watermark-with-llm-based-paraphrasers>) | Publication | Official page |
 | 2025‑06‑12 | [SwiftSpec\: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding](<https://seed.bytedance.com/en/research/swiftspec-ultra-low-latency-llm-decoding-by-scaling-asynchronous-speculative-decoding>) | Publication | Official page |
 | 2025‑06‑12 | [PAG\: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier](<https://seed.bytedance.com/en/research/pag-multi-turn-reinforced-llm-self-correction-with-policy-as-generative-verifier>) | Publication | Official page |
@@ -127,11 +161,14 @@
 | 2025‑06‑12 | [Elucidating the Design Space of Multimodal Protein Language Models](<https://seed.bytedance.com/en/research/elucidating-the-design-space-of-multimodal-protein-language-models>) | Publication | Official page |
 | 2025‑06‑12 | [VINCIE\: Unlocking In-context Image Editing from Video](<https://arxiv.org/abs/2506.10941>) | Paper | Verified affiliation |
 | 2025‑06‑11 | [Seedance 1\.0\: Exploring the Boundaries of Video Generation Models](<https://seed.bytedance.com/en/research/seedance-1-0-exploring-the-boundaries-of-video-generation-models>) | Publication | Official page |
+| 2025‑06‑11 | [Chain-of-Action\: Trajectory Autoregressive Modeling for Robotic Manipulation](<https://arxiv.org/abs/2506.09990>) | Paper | Verified affiliation |
 | 2025‑06‑06 | [BRiTE\: Bootstrapping Reinforced Thinking Process to Enhance Language Model Reasoning](<https://seed.bytedance.com/en/research/brite-bootstrapping-reinforced-thinking-process-to-enhance-language-model-reasoning>) | Publication | Official page |
 | 2025‑06‑06 | [Astra\: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning](<https://seed.bytedance.com/en/research/astra-toward-general-purpose-mobile-robots-via-hierarchical-multimodal-learning>) | Publication | Official page |
 | 2025‑06‑05 | [SeedEdit 3\.0\: Fast and High-Quality Generative Image Editing](<https://seed.bytedance.com/en/research/seededit-3-0-fast-and-high-quality-generative-image-editing>) | Publication | Official page |
+| 2025‑06‑05 | [SeedVR2\: One-Step Video Restoration via Diffusion Adversarial Post-Training](<https://arxiv.org/abs/2506.05301>) | Paper | Verified affiliation |
 | 2025‑06‑04 | [Sounding that Object\: Interactive Object-Aware Image to Audio Generation](<https://seed.bytedance.com/en/research/sounding-that-object-interactive-object-aware-image-to-audio-generation>) | Publication | Official page |
 | 2025‑06‑04 | [Seed-Coder\: Let the Code Model Curate Data for Itself](<https://huggingface.co/papers/2506.03524>) | Paper | Hugging Face |
+| 2025‑06‑03 | [ByteMorph\: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](<https://arxiv.org/abs/2506.03107>) | Paper | Verified affiliation |
 | 2025‑05‑31 | [An All-Atom Generative Model for Designing Protein Complexes](<https://seed.bytedance.com/en/research/an-all-atom-generative-model-for-designing-protein-complexes>) | Publication | Official page |
 | 2025‑05‑27 | [PaSa\: An LLM Agent for Comprehensive Academic Paper Search](<https://seed.bytedance.com/en/research/pasa-an-llm-agent-for-comprehensive-academic-paper-search>) | Publication | Official page |
 | 2025‑05‑27 | [Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling](<https://seed.bytedance.com/en/research/designing-cyclic-peptides-via-harmonic-sde-with-atom-bond-modeling>) | Publication | Official page |
@@ -139,13 +176,12 @@
 | 2025‑05‑23 | [Over-Tokenized Transformer\: Vocabulary is Generally Worth Scaling](<https://seed.bytedance.com/en/research/over-tokenized-transformer-vocabulary-is-generally-worth-scaling>) | Publication | Official page |
 | 2025‑05‑23 | [ConfRover\: Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression](<https://arxiv.org/abs/2505.17478>) | Paper | Verified affiliation |
 | 2025‑05‑21 | [MMaDA\: Multimodal Large Diffusion Language Models](<https://seed.bytedance.com/en/research/mmada-multimodal-large-diffusion-language-models>) | Publication | Official page |
-| 2025‑05‑20 | [DAPO\: An Open-Source LLM Reinforcement Learning System at Scale](<https://seed.bytedance.com/en/research/dapo-an-open-source-llm-reinforcement-learning-system-at-scale>) | Publication | Official page |
 | 2025‑05‑20 | [Emerging Properties in Unified Multimodal Pretraining](<https://seed.bytedance.com/en/research/emerging-properties-in-unified-multimodal-pretraining>) | Publication | Official page |
-| 2025‑05‑17 | [Model Merging in Pre-training of Large Language Models](<https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models>) | Publication | Official page |
-| 2025‑05‑13 | [Seed1\.5-VL Technical Report](<https://seed.bytedance.com/en/research/seed1-5-vl-technical-report>) | Publication | Official page |
+| 2025‑05‑13 | [Seed1\.5-VL Technical Report](<https://github.com/ByteDance-Seed/Seed1.5-VL/blob/main/Seed1.5-VL-Technical-Report.pdf>) | Technical report | Official page, Official repo |
 | 2025‑05‑09 | [Understanding Stragglers in Large Model Training Using What-if Analysis](<https://seed.bytedance.com/en/research/understanding-stragglers-in-large-model-training-using-what-if-analysis>) | Publication | Official page |
 | 2025‑05‑05 | [MxMoE\: Mixed-precision Quantization for MoE with Accuracy and Performance Co-Design](<https://seed.bytedance.com/en/research/mxmoe-mixed-precision-quantization-for-moe-with-accuracy-and-performance-co-design>) | Publication | Official page |
 | 2025‑05‑02 | [A Unified Predictive and Generative Solution for Liquid Electrolyte Formulation](<https://seed.bytedance.com/en/research/a-unified-predictive-and-generative-solution-for-liquid-electrolyte-formulation>) | Publication | Official page |
+| 2025‑04‑28 | [Triton-distributed\: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](<https://arxiv.org/abs/2504.19442>) | Paper | Verified affiliation |
 | 2025‑04‑25 | [ShadowKV\: KV Cache in Shadows for High-Throughput Long-Context LLM Inference](<https://seed.bytedance.com/en/research/shadowkv-kv-cache-in-shadows-for-high-throughput-long-context-llm-inference>) | Publication | Official page |
 | 2025‑04‑24 | [Let the Code LLM Edit Itself When You Edit the Code](<https://seed.bytedance.com/en/research/let-the-code-llm-edit-itself-when-you-edit-the-code>) | Publication | Official page |
 | 2025‑04‑22 | [Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation](<https://seed.bytedance.com/en/research/prompting-depth-anything-for-4k-resolution-accurate-metric-depth-estimation>) | Publication | Official page |
@@ -164,6 +200,7 @@
 | 2025‑03‑22 | [SeedVR\: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration](<https://seed.bytedance.com/en/research/seedvr-seeding-infinity-in-diffusion-transformer-towards-generic-video-restoration>) | Publication | Official page |
 | 2025‑03‑20 | [Multi-Reward as Condition for Instruction-based Image Editing](<https://seed.bytedance.com/en/research/multi-reward-as-condition-for-instruction-based-image-editing>) | Publication | Official page |
 | 2025‑03‑18 | [Hyper-Connections](<https://seed.bytedance.com/en/research/hyper-connections>) | Publication | Official page |
+| 2025‑03‑18 | [Deeply Supervised Flow-Based Generative Models](<https://arxiv.org/abs/2503.14494>) | Paper | Verified affiliation |
 | 2025‑03‑17 | [FlexWorld\: Progressively Expanding 3D Scenes for Flexiable-View Synthesis](<https://seed.bytedance.com/en/research/flexworld-progressively-expanding-3d-scenes-for-flexiable-view-synthesis>) | Publication | Official page |
 | 2025‑03‑14 | [ClassDiffusion\: More Aligned Personalization Tuning with Explicit Class Guidance](<https://seed.bytedance.com/en/research/classdiffusion-more-aligned-personalization-tuning-with-explicit-class-guidance>) | Publication | Official page |
 | 2025‑03‑14 | [Deep Learning Sheds Light on Integer and Fractional Topological Insulators](<https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators>) | Publication | Official page |
@@ -192,6 +229,8 @@
 | 2025‑01‑20 | [X-Dyna\: Expressive Dynamic Human Image Animation](<https://seed.bytedance.com/en/research/x-dyna-expressive-dynamic-human-image-animation>) | Publication | Official page |
 | 2025‑01‑16 | [VideoWorld\: Exploring Knowledge Learning from Unlabeled Videos](<https://seed.bytedance.com/en/research/videoworld-exploring-knowledge-learning-from-unlabeled-videos>) | Publication | Official page |
 | 2025‑01‑14 | [Diffusion Adversarial Post-Training for One-Step Video Generation](<https://seed.bytedance.com/en/research/diffusion-adversarial-post-training-for-one-step-video-generation>) | Publication | Official page |
+| 2025‑01‑01 | [DAPO\: An Open-Source LLM Reinforcement Learning System at Scale](<https://seed.bytedance.com/en/research/dapo-an-open-source-llm-reinforcement-learning-system-at-scale>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Model Merging in Pre-training of Large Language Models](<https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models>) | Publication | Official page, OpenAlex |
 
 ## 2024
 
@@ -211,6 +250,7 @@
 | 2024‑10‑27 | [AutoKaggle\: A Multi-Agent Framework for Autonomous Data Science Competitions](<https://seed.bytedance.com/en/research/autokaggle-a-multi-agent-framework-for-autonomous-data-science-competitions>) | Publication | Official page |
 | 2024‑10‑24 | [Why Does the Effective Context Length of LLMs Fall Short?](<https://seed.bytedance.com/en/research/why-does-the-effective-context-length-of-llms-fall-short>) | Publication | Official page |
 | 2024‑10‑22 | [Merging LoRAs like Playing LEGO\: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering](<https://seed.bytedance.com/en/research/merging-loras-like-playing-lego-pushing-the-modularity-of-lora-to-extremes-through-rank-wise-clustering>) | Publication | Official page |
+| 2024‑10‑20 | [SDP4Bit\: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training](<https://arxiv.org/abs/2410.15526>) | Paper | Verified affiliation |
 | 2024‑10‑11 | [CryoFM\: A Flow-based Foundation Model for Cryo-EM Densities](<https://arxiv.org/abs/2410.08631>) | Paper | Verified affiliation |
 | 2024‑10‑10 | [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](<https://seed.bytedance.com/en/research/reward-augmented-data-enhances-direct-preference-alignment-of-llms>) | Publication | Official page |
 | 2024‑10‑09 | [KOR-Bench\: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks](<https://seed.bytedance.com/en/research/kor-bench-benchmarking-language-models-on-knowledge-orthogonal-reasoning-tasks>) | Publication | Official page |
@@ -238,6 +278,7 @@
 | 2024‑05‑01 | [DINOISER\: Diffused Conditional Sequence Learning by Manipulating Noises](<https://seed.bytedance.com/en/research/dinoiser-diffused-conditional-sequence-learning-by-manipulating-noises>) | Publication | Official page |
 | 2024‑04‑29 | [PLLaVA \: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning](<https://seed.bytedance.com/en/research/pllava-parameter-free-llava-extension-from-images-to-videos-for-video-dense-captioning>) | Publication | Official page |
 | 2024‑04‑21 | [Hyper-SD\: Trajectory Segmented Consistency Model for Efficient Image Synthesis](<https://seed.bytedance.com/en/research/hyper-sd-trajectory-segmented-consistency-model-for-efficient-image-synthesis>) | Publication | Official page |
+| 2024‑04‑19 | [decoupleQ\: Towards 2-bit Post-Training Uniform Quantization via decoupling Parameters into Integer and Floating Points](<https://arxiv.org/abs/2404.12759>) | Paper | Verified affiliation |
 | 2024‑04‑15 | [HQ-Edit\: A High-Quality Dataset for Instruction-based Image Editing](<https://seed.bytedance.com/en/research/hq-edit-a-high-quality-dataset-for-instruction-based-image-editing>) | Publication | Official page |
 | 2024‑04‑09 | [Magic-Boost\: Boost 3D Generation with Mutli-View Conditioned Diffusion](<https://seed.bytedance.com/en/research/magic-boost-boost-3d-generation-with-mutli-view-conditioned-diffusion>) | Publication | Official page |
 | 2024‑03‑20 | [Magic-Me\: Identity-Specific Video Customized Diffusion](<https://seed.bytedance.com/en/research/magic-me-identity-specific-video-customized-diffusion>) | Publication | Official page |
