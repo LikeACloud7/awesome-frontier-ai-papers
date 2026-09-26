@@ -22,6 +22,7 @@ sys.path.insert(0, str(REPO_ROOT / "scripts"))
 
 from collection_status import collect_with_status, record_source_error, safe_message
 from publication_sources import enrich_publication
+from security import safe_link
 
 from fetch_papers import (  # noqa: E402
     date_in_range,
@@ -79,16 +80,25 @@ def clean_display_list(values: list[str], limit: int) -> list[str]:
     return [clean_display_text(value) for value in values[:limit] if clean_display_text(value)]
 
 
+def publishable_urls(values) -> list[str]:
+    """Deduplicated links that pass the same URL policy the publication validator enforces."""
+    return list(dict.fromkeys(url for url in ((value or "").strip() for value in values) if url and safe_link(url)))
+
+
 def normalize_paper(paper: dict) -> dict:
     companies = paper.get("matched_orgs") or paper.get("companies", [])
     company_groups = paper.get("company_groups", [])
     company_regions = paper.get("company_regions", [])
+    alternate_urls = paper.get("alternate_urls", [])
+    # Keep the primary link when it is publishable; otherwise fall back to the first safe alias.
+    primary_candidates = publishable_urls([paper.get("url", ""), paper.get("paper_url", ""), *alternate_urls,
+                                          paper.get("doi", ""), paper.get("openalex_id", "")])
     return {
         "id": get_paper_key(paper),
         "title": clean_display_text(paper.get("title", "")),
-        "url": (paper.get("url", "") or "").strip(),
-        "paper_url": (paper.get("paper_url", "") or "").strip(),
-        "alternate_urls": list(dict.fromkeys(url.strip() for url in paper.get("alternate_urls", []) if url.strip())),
+        "url": primary_candidates[0] if primary_candidates else "",
+        "paper_url": next(iter(publishable_urls([paper.get("paper_url", "")])), ""),
+        "alternate_urls": publishable_urls(alternate_urls),
         "alternate_titles": paper.get("alternate_titles", []),
         "published": paper.get("published", ""),
         "authors": clean_display_list(paper.get("authors", []), 1000),
@@ -295,10 +305,14 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
     fresh = enrich_papers(fresh, config, full_registry, allow_text_org_matches=False)
     # A since date bounds acquisition only. It must never delete existing records.
     merged = merge_paper_lists(copy.deepcopy(existing.get("papers", [])), fresh)
-    normalized = [normalize_paper(p) for p in merged if p.get("title") and p.get("url")
+    candidates = [normalize_paper(p) for p in merged if p.get("title") and p.get("url")
         and (p.get("matched_orgs") or p.get("companies"))
         and date_in_range(p.get("published", ""), "0000-01-01", today)
         and not is_excluded_company_paper(p, config)]
+    # A record whose every link fails the publication URL policy cannot be published; count it instead of
+    # letting one malformed upstream link block the whole archive.
+    normalized = [p for p in candidates if p["url"]]
+    unsafe_url_papers = len(candidates) - len(normalized)
     normalized.sort(key=lambda p: (p.get("published", ""), p.get("quality_score", 0), p.get("title", "")), reverse=True)
     if max_papers and len(normalized) > max_papers:
         raise ValueError(f"Archive has {len(normalized)} records; refusing to delete papers to satisfy --max-papers={max_papers}. Use 0 for unlimited.")
@@ -316,7 +330,7 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
             "status": "partial" if failed or partial or pending else "ok",
             "source_count": len(diagnostics), "failed_sources": len(failed), "partial_sources": len(partial),
             "error_sources": len(errored),
-            "pending_metadata": len(pending), "sources": diagnostics,
+            "pending_metadata": len(pending), "unsafe_url_papers": unsafe_url_papers, "sources": diagnostics,
             "historical_reconciliation": state, "comprehensive": comprehensive,
             "openalex_enabled": config["company_tracking"].get("openalex", {}).get("enabled", True),
             "arxiv_company_search_enabled": False},
@@ -352,7 +366,8 @@ def main():
         sources=set(args.sources.split(",")) if args.sources else None, reconcile=args.reconcile)
     health = archive["collection"]
     print(f"Wrote {archive['totals']['papers']} papers; collection={health['status']}, "
-          f"sources_with_errors={health['error_sources']}, failed={health['failed_sources']}, partial={health['partial_sources']}, pending_metadata={health['pending_metadata']}", file=sys.stderr)
+          f"sources_with_errors={health['error_sources']}, failed={health['failed_sources']}, partial={health['partial_sources']}, "
+          f"pending_metadata={health['pending_metadata']}, unsafe_url_papers={health['unsafe_url_papers']}", file=sys.stderr)
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as stream:
             stream.write(f"## Publication collection: {health['status']}\n\n"

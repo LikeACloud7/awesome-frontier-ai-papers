@@ -1,5 +1,6 @@
 import copy
 import json
+import re
 from pathlib import Path
 import sys
 import tempfile
@@ -12,6 +13,7 @@ import publication_sources as sources
 import update_company_papers as updater
 import affiliation_discovery as affiliations
 import repository_sources as repositories
+import validate_publication_artifact as artifact
 from collection_status import collect_with_status, record_source_error
 
 
@@ -180,6 +182,47 @@ class CollectionTests(unittest.TestCase):
                 self.assertEqual(state["next_lab"], 1)
                 updater.update_archive(output=destination, reconcile=True)
                 self.assertEqual(json.loads((Path(tmp)/"collection_state.json").read_text())["next_lab"], 2)
+
+    def test_openalex_falls_back_to_doi_when_landing_page_url_is_malformed(self):
+        # Real OpenAlex record W7134165640: the DOI suffix is glued into the port slot.
+        work = {"id": "https://openalex.org/W7134165640", "display_name": "Siete Segundos, Siete Siglos",
+                "publication_date": "2026-03-08",
+                "primary_location": {"landing_page_url": "https://works.hcommons.org:4myc6-jbr23", "pdf_url": None},
+                "locations": [{"landing_page_url": "https://works.hcommons.org:a50e9-f1h15", "pdf_url": None}],
+                "ids": {"doi": "https://doi.org/10.17613/4myc6-jbr23"}}
+        self.assertEqual(f.openalex_work_to_paper(work, self.org)["url"], "https://doi.org/10.17613/4myc6-jbr23")
+
+    def test_normalize_paper_keeps_only_publishable_urls(self):
+        shown = updater.normalize_paper(paper(url="https://works.hcommons.org:4myc6-jbr23",
+            paper_url="https://works.hcommons.org:a50e9-f1h15",
+            alternate_urls=["https://works.hcommons.org:4myc6-jbr23", "https://doi.org/10.17613/4myc6-jbr23"],
+            doi="https://doi.org/10.17613/4myc6-jbr23"))
+        self.assertEqual(shown["url"], "https://doi.org/10.17613/4myc6-jbr23")
+        self.assertEqual(shown["paper_url"], "")
+        self.assertEqual(shown["alternate_urls"], ["https://doi.org/10.17613/4myc6-jbr23"])
+
+    def test_archive_excludes_and_counts_papers_without_any_safe_url(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            destination = Path(tmp) / "company_papers.json"
+            destination.write_text('{"papers": []}')
+            fresh = [paper(), paper("Broken link paper", id="test:2", url="https://works.hcommons.org:4myc6-jbr23")]
+            with patch.object(updater, "collect_fresh_papers_by_source", return_value=fresh):
+                result = updater.update_archive(output=destination)
+            self.assertEqual([p["url"] for p in result["papers"]], ["https://example.org/paper"])
+            self.assertEqual(result["collection"]["unsafe_url_papers"], 1)
+            artifact.validate(Path(tmp))
+
+    def test_artifact_error_names_the_paper_and_its_unsafe_url(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            destination = Path(tmp) / "company_papers.json"
+            destination.write_text('{"papers": []}')
+            with patch.object(updater, "collect_fresh_papers_by_source", return_value=[paper()]):
+                updater.update_archive(output=destination)
+            data = json.loads(destination.read_text())
+            data["papers"][0]["url"] = "https://works.hcommons.org:4myc6-jbr23"
+            destination.write_text(json.dumps(data))
+            with self.assertRaisesRegex(ValueError, re.escape(data["papers"][0]["id"]) + ".*works\\.hcommons\\.org:4myc6-jbr23"):
+                artifact.validate(Path(tmp))
 
     def test_metadata_budget_preserves_unprocessed_candidates(self):
         config = copy.deepcopy(self.config)

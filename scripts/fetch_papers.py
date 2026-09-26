@@ -21,6 +21,7 @@ import unicodedata
 import feedparser
 import requests
 from collection_status import http_get, http_request, record_source_error, record_source_limit, safe_message
+from security import safe_link
 
 # Cache directory for source metadata.
 OUTPUT_DIR = Path(__file__).parent.parent / "output"
@@ -2294,16 +2295,14 @@ def best_openalex_url(work: dict) -> str:
     for location in locations:
         for key in ("landing_page_url", "pdf_url"):
             url = location.get(key)
-            if url and "arxiv.org" in url:
+            if url and "arxiv.org" in url and safe_link(url):
                 return url.replace("/pdf/", "/abs/").removesuffix(".pdf")
 
+    # OpenAlex landing pages are third-party data and can be malformed (e.g. a DOI suffix in the
+    # port slot). Only a link that passes the publication URL policy may become the paper URL.
     primary = work.get("primary_location") or {}
-    return (
-        primary.get("landing_page_url")
-        or work.get("ids", {}).get("doi")
-        or work.get("id")
-        or ""
-    )
+    candidates = [primary.get("landing_page_url"), work.get("ids", {}).get("doi"), work.get("id")]
+    return next((url for url in candidates if url and safe_link(url)), "")
 
 
 def openalex_work_to_paper(work: dict, org: dict) -> dict:

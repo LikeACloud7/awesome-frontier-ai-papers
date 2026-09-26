@@ -44,6 +44,7 @@ export type PaperDataset = {
     error_sources?: number;
     partial_sources: number;
     pending_metadata: number;
+    unsafe_url_papers?: number;
   };
   source_notes: string[];
   totals: {

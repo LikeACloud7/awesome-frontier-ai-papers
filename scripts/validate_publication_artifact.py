@@ -54,8 +54,9 @@ def validate(directory: Path, config_path: Path = ROOT / "config/frontier_labs.j
             raise ValueError("Missing or duplicate paper identity")
         identifiers.add(paper["id"])
         urls = [paper.get("url", "")] + [u for u in [paper.get("paper_url", "")] if u] + paper.get("alternate_urls", [])
-        if not all(safe_link(url) for url in urls):
-            raise ValueError("Unsafe publication URL")
+        for url in urls:
+            if not safe_link(url):
+                raise ValueError(f"Unsafe publication URL in paper {paper['id'][:200]!r}: {str(url)[:300]!r}")
         labs = paper.get("companies")
         if not isinstance(labs, list) or not labs or len(set(labs)) != len(labs) or any(lab not in known for lab in labs):
             raise ValueError("Invalid paper lab attribution")
@@ -83,7 +84,7 @@ def validate(directory: Path, config_path: Path = ROOT / "config/frontier_labs.j
     health = values["collection_health.json"]
     if data.get("collection") != health or health.get("status") not in {"ok", "partial"}:
         raise ValueError("Collection health does not match archive")
-    for field in ("error_sources", "failed_sources", "partial_sources", "pending_metadata"):
+    for field in ("error_sources", "failed_sources", "partial_sources", "pending_metadata", "unsafe_url_papers"):
         if type(health.get(field, 0)) is not int or health.get(field, 0) < 0:
             raise ValueError("Invalid collection health counter")
     if not isinstance(values["collection_pending.json"], list) or not isinstance(values["collection_state.json"], dict):
