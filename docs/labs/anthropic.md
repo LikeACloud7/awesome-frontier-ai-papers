@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `249`
+- Papers: `250`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#anthropic)
 
@@ -22,6 +22,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |
+| 2026‑09‑25 | [The Digital Bell\: Pavlovian Conditioning in Large Language Models — Evidence from Adversarial Problem-Solving in Cryptographic Domains](<https://doi.org/10.5281/zenodo.22960886>) | Article | OpenAlex |
 | 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
 | 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |
 | 2026‑09‑17 | [How Claude is uplifting biomolecular modeling](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) | Research post | Official page |

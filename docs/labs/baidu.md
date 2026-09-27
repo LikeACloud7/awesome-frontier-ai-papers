@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `339`
+- Papers: `340`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#baidu)
 
@@ -31,6 +31,7 @@
 | 2026‑08‑31 | [BRC-Net\: Few-shot medical image segmentation via region calibration and boundary purification](<https://doi.org/10.1016/j.eswa.2026.134209>) | Article | OpenAlex |
 | 2026‑08‑30 | [ICEGR\: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](<https://arxiv.org/abs/2608.29652>) | Preprint | OpenAlex |
 | 2026‑08‑28 | [Encore\: Infinite Audio-Video Generation with Adaptive Signal Routing](<https://arxiv.org/abs/2609.04249v1>) | Paper | Verified affiliation |
+| 2026‑08‑27 | [DuMateBench\: Evaluating Autonomous Agents in Complex Real-World Workflows](<https://arxiv.org/abs/2608.26546v1>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [OmegaUse-SOP\: SOP Engineering for Professional Computer Use from Human Demonstrations](<https://arxiv.org/abs/2609.02149v2>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](<https://doi.org/10.1117/12.3121525>) | Conference abstract | OpenAlex |
 | 2026‑08‑11 | [Understanding SLAM Systems through a Unified Design Space\: Taxonomy, Systemic Limits, and Emerging Directions](<https://doi.org/10.5281/zenodo.21891936>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3329`
-- Latest: `2026-09-24`
+- Papers: `3342`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -16,6 +16,7 @@
 | n\.d\. | [Zipage\: Maintain High Request Concurrency for LLM Reasoning through Compressed PagedAttention](<https://www.microsoft.com/en-us/research/publication/zipage-maintain-high-request-concurrency-for-llm-reasoning-through-compressed-pagedattention/>) | Publication | Official page |
 | n\.d\. | [VEM\: Environment-Free Exploration for Training GUI Agent with Value Environment Model](<https://www.microsoft.com/en-us/research/publication/vem-environment-free-exploration-for-training-gui-agent-with-value-environment-model/>) | Publication | Official page |
 | n\.d\. | [The Living Library\: Transforming Archival Collections into Conversational Knowledge Systems -- Lessons from the Theodore Roosevelt Presidential Library](<https://www.microsoft.com/en-us/research/publication/the-living-library-transforming-archival-collections-into-conversational-knowledge-systems-lessons-from-the-theodore-roosevelt-presidential-library/>) | Publication | Official page |
+| n\.d\. | [Relaxed On-Policy Distillation\: Selective Credit Allocation for Scaling Reasoning Efficiently](<https://www.microsoft.com/en-us/research/publication/relaxed-on-policy-distillation-selective-credit-allocation-for-scaling-reasoning-efficiently/>) | Publication | Official page |
 | n\.d\. | [PEARL\: Perturbation Efficient Alignment Group Relative Reinforcement Learning](<https://www.microsoft.com/en-us/research/publication/pearl-perturbation-efficient-alignment-group-relative-reinforcement-learning/>) | Publication | Official page |
 | n\.d\. | [LUPE\: Long-History User Profile Evolution for LLM-based Recommendation](<https://www.microsoft.com/en-us/research/publication/lupe-long-history-user-profile-evolution-for-llm-based-recommendation/>) | Publication | Official page |
 | n\.d\. | [ICL-Bandit\: Relevance Labeling in Advertisement Recommendation Systems via LLM](<https://www.microsoft.com/en-us/research/publication/icl-bandit-relevance-labeling-in-advertisement-recommendation-systems-via-llm/>) | Publication | Official page |
@@ -30,6 +31,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [User-Controlled Intent Layers for LLM-Mediated Personalization\: A Research Agenda for Recommender Systems](<https://doi.org/10.1145/3773078.3831743>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Personalized Recommendation Tool Learning via Autonomous Language Agents](<https://arxiv.org/abs/2607.19739>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [PedroViniciusVicente/NodeRock\: NodeRock Initial Release](<https://doi.org/10.5281/zenodo.22967155>) | Software | OpenAlex |
+| 2026‑09‑25 | [How Faithful Is the Reasoning of LLM Recommenders? A Counterfactual Audit](<https://doi.org/10.1145/3773078.3841294>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Forward and Outward\: From Aggregate to Individual and Towards Human Understanding in Conversational Recommendation](<https://doi.org/10.1145/3773078.3831807>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Backward and Inward\: From Preferences to Personalization and the Safety Crisis Within Conversational Recommender Systems](<https://doi.org/10.1145/3773078.3831802>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [nanotech-empa/cp2k-spm-tools\: v1\.6\.0](<https://doi.org/10.5281/zenodo.22937298>) | Software | OpenAlex |
 | 2026‑09‑24 | [flowlog-rs/flowlog\: flowlog-runtime-v0\.5\.0](<https://doi.org/10.5281/zenodo.22931689>) | Software | OpenAlex |
 | 2026‑09‑24 | [flowlog-rs/flowlog\: flowlog-profiler-v0\.3\.0](<https://doi.org/10.5281/zenodo.22931703>) | Software | OpenAlex |
@@ -37,6 +44,8 @@
 | 2026‑09‑24 | [flowlog-rs/flowlog\: flowlog-parser-v0\.3\.0](<https://doi.org/10.5281/zenodo.22931698>) | Software | OpenAlex |
 | 2026‑09‑24 | [flowlog-rs/flowlog\: flowlog-compiler-v0\.7\.0](<https://doi.org/10.5281/zenodo.20815411>) | Software | OpenAlex |
 | 2026‑09‑24 | [flowlog-rs/flowlog\: flowlog-build-v0\.6\.0](<https://doi.org/10.5281/zenodo.22931729>) | Software | OpenAlex |
+| 2026‑09‑24 | [RADAR\: A Multimodal Benchmark for 3D Image-Based Radiology Report Review](<http://arxiv.org/abs/2603.06681>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [Oculo\: A Multilabel Dataset for the Identification of Ocular Abnormalities from Ultrasound Images](<https://doi.org/10.1007/978-3-032-38470-6_20>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Bringing Everyone to the Table\: An Experimental Study of LLM-Facilitated Group Decision Making](<https://arxiv.org/abs/2508.08242>) | Article | OpenAlex |
 | 2026‑09‑23 | [grimme-lab/mctc-lib\: MCTC library version 0\.6\.1](<https://doi.org/10.5281/zenodo.22918993>) | Software | OpenAlex |
 | 2026‑09‑23 | [UniRG-CXR\: model weights and inference code](<https://doi.org/10.5281/zenodo.22907465>) | Software | OpenAlex |
@@ -71,6 +80,7 @@
 | 2026‑09‑14 | [σ-complex stabilization shapes enzymatic C-glycosylation and restricts the scope of natural C-glycosides](<https://doi.org/10.5281/zenodo.22736284>) | Dataset | OpenAlex |
 | 2026‑09‑14 | [SleuthTalk\: Supporting Historical Photo Identification with Private Workspaces for Collective Sensemaking and Deliberation](<https://arxiv.org/abs/2608.17297>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [GenAI-based group awareness tools for supporting collaborative learning](<https://doi.org/10.1080/07370024.2026.2717538>) | Article | OpenAlex |
+| 2026‑09‑14 | [Does Sleep Pattern Affect Resistance Training Induced Muscular Adaptations?](<https://doi.org/10.1249/01.mss.0001260772.41842.ad>) | Article | OpenAlex |
 | 2026‑09‑14 | [Scaling Verification of Cryptographic Software with Aeneas, Rust, and Lean](<https://arxiv.org/abs/2609.15648v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Register Tokens for Bounded-State Reasoning in Diffusion Language Models](<https://arxiv.org/abs/2609.16372v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Learning to Coach for Experiential Learning](<https://arxiv.org/abs/2609.15851v1>) | Paper | Verified affiliation |
@@ -96,6 +106,7 @@
 | 2026‑09‑07 | [Inverse FoldDir\: Structure-conditioned Protein Sequence Design by Dirichlet Flow Matching](<https://doi.org/10.64898/2026.09.06.749733>) | Preprint | OpenAlex |
 | 2026‑09‑07 | [From Clicks to Clips\: A Multimodal Retrieval System for E-Commerce Video Recommendations](<https://doi.org/10.1007/978-3-032-37685-5_24>) | Conference paper | OpenAlex |
 | 2026‑09‑06 | [Optimization of Reduced Chemical Mechanisms Using Graph Theory‐Assisted Gradient Descent](<https://doi.org/10.1002/kin.70138>) | Article | OpenAlex |
+| 2026‑09‑06 | [A Riemannian Approach to Low-Rank Optimal Transport](<https://arxiv.org/abs/2606.12120>) | Conference paper | OpenAlex |
 | 2026‑09‑05 | [Preserving Subject-Clarity in Image Outpainting with Multiscale Wavelet Supervision](<https://arxiv.org/abs/2609.13251v1>) | Paper | Verified affiliation |
 | 2026‑09‑04 | [Axiom\: Achieving Determinism in LLM Inference](<https://www.microsoft.com/en-us/research/publication/axiom-achieving-determinism-in-llm-inference/>) | Publication | Official page |
 | 2026‑09‑04 | [Pre-agentic AI-based coding assistants - Support Files](<https://doi.org/10.5281/zenodo.22228900>) | Other | OpenAlex |
@@ -110,7 +121,8 @@
 | 2026‑09‑02 | [VibeVoice-ASR-Streaming Technical Report](<https://arxiv.org/abs/2609.02812v1>) | Paper | Verified affiliation |
 | 2026‑09‑02 | [UTP-Bench\: Uncertainty-aware Travel Planning Benchmark](<https://arxiv.org/abs/2609.02421v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑02 | [Sparse concept attribution for histomorphological hypothesis generation from whole-slide classifiers](<https://arxiv.org/abs/2609.02985v1>) | Paper | Verified affiliation |
-| 2026‑09‑01 | [StudentSim\: Training LLM-based Student Simulators](<https://www.microsoft.com/en-us/research/publication/studentsim-training-llm-based-student-simulators-2/>) | Publication | Hugging Face, Official page |
+| 2026‑09‑02 | [Act More, Decide Less\: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents](<https://arxiv.org/abs/2609.02042v1>) | Paper | Verified affiliation |
+| 2026‑09‑01 | [StudentSim\: Training LLM-based Student Simulators](<https://www.microsoft.com/en-us/research/publication/studentsim-training-llm-based-student-simulators-2/>) | Publication | Hugging Face, Official page, Verified affiliation |
 | 2026‑09‑01 | [FaultSense\: Fault Localization in Large-Scale Mixture-of-Experts Model Serving Infrastructure](<https://www.microsoft.com/en-us/research/publication/faultsense-fault-localization-in-large-scale-mixture-of-experts-model-serving-infrastructure/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑01 | [Diagnosing with Insights\: Structured Analysis of Agent Failures via Behavioral Abstractions](<https://www.microsoft.com/en-us/research/publication/diagnosing-with-insights-structured-analysis-of-agent-failures-via-behavioral-abstractions/>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑01 | [Mapping the combinatorial coding between olfactory receptors and perception with deep learning](<https://doi.org/10.1016/j.cels.2026.101711>) | Article | OpenAlex |
@@ -120,6 +132,7 @@
 | 2026‑09‑01 | [The AI Zero-Day Prioritization Problem](<https://doi.org/10.5281/zenodo.22730894>) | Article | OpenAlex |
 | 2026‑09‑01 | [Quantitative Systems Pharmacology (QSP)\: Bridging Biology and Mechanism with Clinical Drug Development Decisions](<https://doi.org/10.1002/jcph.70289>) | Article | OpenAlex |
 | 2026‑09‑01 | [Pre-agentic AI-based coding assistants - 𝗙𝗥𝗘𝗘 𝗔𝗡𝗗 𝗖𝗟𝗔𝗥𝗜𝗙𝗜𝗘𝗗 𝗖𝗢𝗡𝗦𝗘𝗡𝗧 𝗧𝗘𝗥𝗠 (𝗙𝗖𝗖𝗧)](<https://doi.org/10.5281/zenodo.22228901>) | Other | OpenAlex |
+| 2026‑09‑01 | [Moment alignment transformer for video-to-video moment retrieval](<https://doi.org/10.1016/j.cviu.2026.104959>) | Article | OpenAlex |
 | 2026‑09‑01 | [Machine Intuition](<https://doi.org/10.5281/zenodo.22216465>) | Article | OpenAlex |
 | 2026‑09‑01 | [Low Latency Global Carbon Budget Reveals Late 2024 Carbon Losses and Contrasting Early 2025 Land Sink Recovery Signals](<https://doi.org/10.1002/advs.77369>) | Article | OpenAlex |
 | 2026‑09‑01 | [LLMpathy Unpacked\: Large Language Models generate well-liked but templatic empathic responses](<https://doi.org/10.24433/co.4044208.v1>) | Software | OpenAlex |

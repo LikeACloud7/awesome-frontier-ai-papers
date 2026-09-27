@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1016`
-- Latest: `2026-09-24`
+- Papers: `1023`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -22,12 +22,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [GRIP\: Generation and Reasoning for User Profile Completion](<https://doi.org/10.1145/3773078.3831924>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [CPAgents\: Agentic Composite Phenotype Generation for Cardiac Disease Association](<https://arxiv.org/abs/2606.28179>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [UpTCR\: a unified progressive knowledge transfer foundation model for robust T-cell receptor-antigen binding recognition](<https://doi.org/10.1038/s41467-026-78075-x>) | Article | OpenAlex |
+| 2026‑09‑24 | [Latent-CURE\: Interpretable Breast Cancer Diagnosis via Dual-Asymmetric Chain-of-Thought](<https://doi.org/10.1007/978-3-032-38098-2_35>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Human-In-The-Loop Multi-agent Ventilator Decision Support with Contextual Bandit Preference Learning](<https://arxiv.org/abs/2605.23320>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [Det-Y\: A Multi-center Dataset and Benchmark for Efficient Detection of Mycobacterium Tuberculosis in Sputum Smears](<https://doi.org/10.1007/978-3-032-38470-6_10>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [CW-B\: Class Weighted Boosting Framework for Imbalance Resilient Multi Class Cardiac Phenotyping](<https://arxiv.org/abs/2606.29907>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [IterSynth\: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis](<https://arxiv.org/abs/2609.29444v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [SLCA-GRPO\: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL](<https://huggingface.co/papers/2609.29050>) | Preprint | Official page |
 | 2026‑09‑23 | [ExplorationBench\: Measuring AI Systems' Exploration in Verifiable Alien Worlds](<https://huggingface.co/papers/2609.30199>) | Preprint | Official page |
 | 2026‑09‑22 | [Hunyuan-A13B Technical Report](<https://huggingface.co/papers/2609.27284>) | Preprint | Official page, Hugging Face, Verified affiliation |
+| 2026‑09‑22 | [GarmentX\: Autoregressive parametric representations for 3D garment generation](<https://doi.org/10.1016/j.patcog.2026.114937>) | Article | OpenAlex |
 | 2026‑09‑21 | [Med-CAP\: Counterfactual Evidence and Adaptive Prior Suppression for Robust Medical Visual Question Answering](<https://doi.org/10.1007/978-3-032-38059-3_30>) | Conference paper | OpenAlex |
 | 2026‑09‑20 | [GameHorizon Suite\: Multi-Horizon Data and Evaluation in Gameplay](<https://huggingface.co/papers/2609.25001>) | Preprint | Official page |
 | 2026‑09‑19 | [External validation of AI assisted colposcopy using WHO dataset for cervical precancer and cancer detection](<https://doi.org/10.1038/s41746-026-02961-3>) | Article | OpenAlex |

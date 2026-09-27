@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `262`
-- Latest: `2026-09-24`
+- Papers: `266`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,6 +16,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Supplementary Code for 'Spin-Adapted Neural Network Wavefunctions in Real Space'](<https://doi.org/10.24433/co.2856484.v1>) | Supplementary materials | OpenAlex |
+| 2026‑09‑25 | [SequenceO1\: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching](<https://arxiv.org/abs/2609.08443>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding](<https://arxiv.org/abs/2607.28659>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [A Self-Triggered Agentic Push Recommendation System](<https://arxiv.org/abs/2608.01949>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [anitarau/SurgBenchKit\: Initial publication](<https://doi.org/10.5281/zenodo.22930099>) | Software | OpenAlex |
 | 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |

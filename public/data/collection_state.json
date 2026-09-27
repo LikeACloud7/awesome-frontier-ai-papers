@@ -1,5 +1,5 @@
 {
-  "next_lab": 3,
+  "next_lab": 4,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -13,6 +13,11 @@
     },
     "Google/DeepMind": {
       "last_attempt": "2026-09-26",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Meta/FAIR": {
+      "last_attempt": "2026-09-27",
       "status": "partial",
       "since": "2024-01-01"
     }

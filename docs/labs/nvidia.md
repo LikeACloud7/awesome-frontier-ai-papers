@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `648`
-- Latest: `2026-09-24`
+- Papers: `660`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,8 +16,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement](<https://arxiv.org/abs/2604.17773>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [SAW\: Toward a Surgical Action World Model via Controllable and Scalable Video Generation](<http://arxiv.org/abs/2603.13024>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Performant Tridiagonal Factorization of Skew-Symmetric Matrices](<https://arxiv.org/abs/2411.09859>) | Article | OpenAlex |
+| 2026‑09‑25 | [EndoX\: A GPU-Accelerated Endoscopic Perception Simulation Framework](<https://doi.org/10.1007/978-3-032-38236-8_16>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [spacetelescope/drizzle\: Bug fixes and blot API changes](<https://doi.org/10.5281/zenodo.22929073>) | Software | OpenAlex |
+| 2026‑09‑24 | [Optimizing Bloom Filters on Modern GPUs\: Artifact](<https://doi.org/10.5281/zenodo.22948419>) | Software | OpenAlex |
 | 2026‑09‑24 | [Distilling Photon-Counting CT Into Routine Chest CT Through Clinically Validated Degradation Modeling](<http://arxiv.org/abs/2604.07329>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [CancerVerse\: A Fully Open Longitudinal and Multimodal Dataset for Multicancer Screening](<https://doi.org/10.1007/978-3-032-38470-6_8>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Accelerating Chemical Kinetics for Exoplanet Atmospheres Using Neural Networks](<https://arxiv.org/abs/2609.00428>) | Article | OpenAlex |
 | 2026‑09‑23 | [A multi-sensor and multi-temporal GeoAI framework for resolving ecological scale mismatch in Antarctica](<https://doi.org/10.1016/j.isprsjprs.2026.09.016>) | Article | OpenAlex |
 | 2026‑09‑23 | [X2Real\: an eXtensive simulation benchmark for real-world generalist policies](<https://arxiv.org/abs/2609.27449v1>) | Paper | Verified affiliation |
@@ -37,7 +43,9 @@
 | 2026‑09‑15 | [pyodide/pyodide\: 0\.29\.5](<https://doi.org/10.5281/zenodo.22780898>) | Software | OpenAlex |
 | 2026‑09‑15 | [Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](<https://arxiv.org/abs/2609.16686>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Design and implementation of a novel high-efficiency ultrasonic 3D synthetic data generation framework](<https://doi.org/10.1038/s44384-026-00075-4>) | Article | OpenAlex |
+| 2026‑09‑14 | [VC-Attention\: Value Smoothing and Softmax Casting for Low-bit Attention](<https://arxiv.org/abs/2609.15810v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [TwinICL\: Diagnosing Multimodal In-Context Learning through Paired Counterfactuals](<https://arxiv.org/abs/2609.15028v1>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [Enabling Streaming User Transcription in Full-Duplex Speech-to-Speech Models](<https://arxiv.org/abs/2609.15759v1>) | Paper | Verified affiliation |
 | 2026‑09‑13 | [From 2^N to N^2\: Tree-Free Scalable Sparse Symmetric Tucker Decomposition](<https://doi.org/10.1145/3832810.3832856>) | Conference paper | OpenAlex |
 | 2026‑09‑13 | [Lightning Weave\: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition](<https://arxiv.org/abs/2609.14708v2>) | Paper | Verified affiliation |
 | 2026‑09‑12 | [CliMA/ClimaTimeSteppers\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22730008>) | Software | OpenAlex |
@@ -220,6 +228,7 @@
 | 2026‑03‑10 | [Taming the Long-Tail\: Efficient Reasoning RL Training with Adaptive Drafter](<https://doi.org/10.1145/3779212.3790231>) | Article | OpenAlex |
 | 2026‑03 | [Inverse-Designed Etch-Stable Ring Modulators](<https://research.nvidia.com/publication/2026-03_inverse-designed-etch-stable-ring-modulators>) | Publication | Official page |
 | 2026‑03 | [CRoCoDiL\: Continuous and Robust Conditioned Diffusion for Language](<https://research.nvidia.com/publication/2026-03_crocodil-continuous-and-robust-conditioned-diffusion-language>) | Publication | Official page |
+| 2026‑03 | [Beyond Latency\: A System-Level Characterization of MPC and FHE for PPML](<https://research.nvidia.com/publication/2026-03_beyond-latency-system-level-characterization-mpc-and-fhe-ppml>) | Publication | Official page |
 | 2026‑03 | [Architecting Secure AI Agents\: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks](<https://research.nvidia.com/publication/2026-03_architecting-secure-ai-agents-perspectives-system-level-defenses-against>) | Publication | Official page |
 | 2026‑03 | [A 256 Gb/s DWDM Optical I/O in a 3D-stacked EIC/PIC Silicon Photonics Platform](<https://research.nvidia.com/publication/2026-03_256-gbs-dwdm-optical-io-3d-stacked-eicpic-silicon-photonics-platform>) | Publication | Official page |
 | 2026‑03 | [3D-GENERALIST\: Vision-Language-Action Models for Crafting 3D Worlds](<https://research.nvidia.com/publication/2026-03_3d-generalist-vision-language-action-models-crafting-3d-worlds>) | Publication | Official page |
@@ -405,7 +414,6 @@
 | 2025‑06 | [Robot policy evaluation for sim-to-real transfer\: A benchmarking perspective](<https://research.nvidia.com/publication/2025-06_robot-policy-evaluation-sim-real-transfer-benchmarking-perspective>) | Publication | Official page |
 | 2025‑06 | [RoboSpatial\: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](<https://research.nvidia.com/publication/2025-06_robospatial-teaching-spatial-understanding-2d-and-3d-vision-language-models>) | Publication | Official page |
 | 2025‑06 | [RL-RC-DoT\: A Block-level RL agent for Task-Aware Video Compression](<https://research.nvidia.com/publication/2025-06_rl-rc-dot-block-level-rl-agent-task-aware-video-compression>) | Publication | Official page |
-| 2025‑06 | [MambaVision\: A Hybrid Mamba-Transformer Vision Backbone](<https://research.nvidia.com/publication/2025-06_mambavision-hybrid-mamba-transformer-vision-backbone>) | Publication | Official page |
 | 2025‑06 | [Make It Count\: Text-to-Image Generation with an Accurate Number of Objects](<https://research.nvidia.com/publication/2025-06_make-it-count-text-image-generation-accurate-number-objects>) | Publication | Official page |
 | 2025‑06 | [GRS\: Generating robotic simulation tasks from real-world images](<https://research.nvidia.com/publication/2025-06_grs-generating-robotic-simulation-tasks-real-world-images-0>) | Publication | Official page |
 | 2025‑06 | [FoundationStereo\: Zero-Shot Stereo Matching](<https://research.nvidia.com/publication/2025-06_foundationstereo-zero-shot-stereo-matching>) | Publication | Official page |
@@ -432,6 +440,7 @@
 | 2025‑05 | [All-SMF Arrays for Co-Packaged Optics\: Optimizing Cost, Complexity and Performance](<https://research.nvidia.com/publication/2025-05_all-smf-arrays-co-packaged-optics-optimizing-cost-complexity-and-performance>) | Publication | Official page |
 | 2025‑05 | [AI 3D Selfie\: Real-Time Single-Image 3D Face Reconstruction for Light-Field Displays](<https://research.nvidia.com/publication/2025-05_ai-3d-selfie-real-time-single-image-3d-face-reconstruction-light-field-displays>) | Publication | Official page |
 | 2025‑04‑26 | [GenAI applications of vision-language models for semiconductor defect classification](<https://doi.org/10.1117/12.3064772>) | Article | OpenAlex |
+| 2025‑04‑22 | [Describe Anything\: Detailed Localized Image and Video Captioning](<https://arxiv.org/abs/2504.16072>) | Paper | Verified affiliation |
 | 2025‑04‑04 | [Nemotron-H\: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models](<https://huggingface.co/papers/2504.03624>) | Paper | Hugging Face |
 | 2025‑04‑04 | [SSE\: Multimodal Semantic Data Selection and Enrichment for Industrial-scale Data Assimilation](<https://doi.org/10.1145/3690624.3709417>) | Article | OpenAlex |
 | 2025‑04‑02 | [OpenCodeReasoning\: Advancing Data Distillation for Competitive Coding](<https://arxiv.org/abs/2504.01943>) | Paper | Verified affiliation |
@@ -460,6 +469,7 @@
 | 2025‑03‑06 | [HelpSteer3\: Human-Annotated Feedback and Edit Data to Empower Inference-Time Scaling in Open-Ended General-Domain Tasks](<https://arxiv.org/abs/2503.04378>) | Paper | Verified affiliation |
 | 2025‑03‑06 | [Audio Flamingo 2\: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](<https://arxiv.org/abs/2503.03983>) | Paper | Verified affiliation |
 | 2025‑03‑05 | [GEN3C\: 3D-Informed World-Consistent Video Generation with Precise Camera Control](<https://research.nvidia.com/publication/2025-08_gen3c-3d-informed-world-consistent-video-generation-precise-camera-control>) | Publication | Official page, Verified affiliation |
+| 2025‑03‑03 | [Direct Discriminative Optimization\: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator](<https://arxiv.org/abs/2503.01103>) | Paper | Verified affiliation |
 | 2025‑03‑03 | [Difix3D+\: Improving 3D Reconstructions with Single-Step Diffusion Models](<https://arxiv.org/abs/2503.01774>) | Paper | Verified affiliation |
 | 2025‑03‑01 | [Generative AI for Computer Graphics](<https://doi.org/10.1109/mcg.2025.3574915>) | Article | OpenAlex |
 | 2025‑03 | [Multi-student Diffusion Distillation for Better One-step Generators](<https://research.nvidia.com/publication/2025-03_multi-student-diffusion-distillation-better-one-step-generators>) | Publication | Official page |
@@ -502,7 +512,7 @@
 | 2025‑01 | [Towards large-scale quantum optimization solvers with few qubits](<https://research.nvidia.com/publication/2025-01_towards-large-scale-quantum-optimization-solvers-few-qubits>) | Publication | Official page |
 | 2025‑01 | [Expressive quantum perceptrons for quantum neuromorphic computing](<https://research.nvidia.com/publication/2025-01_expressive-quantum-perceptrons-quantum-neuromorphic-computing>) | Publication | Official page |
 | 2025‑01 | [Directed Graph Generation with Heat Kernels](<https://research.nvidia.com/publication/2025-01_directed-graph-generation-heat-kernels>) | Publication | Official page |
-| 2025‑01 | [Cosmos World Foundation Model Platform for Physical AI](<https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai>) | Publication | Official page |
+| 2025‑01 | [Cosmos World Foundation Model Platform for Physical AI](<https://research.nvidia.com/publication/2025-01_cosmos-world-foundation-model-platform-physical-ai>) | Publication | Official page, Verified affiliation |
 | 2025‑01 | [AI-RAN\: Transforming RAN with AI-driven Computing Infrastructure](<https://research.nvidia.com/publication/2025-01_ai-ran-transforming-ran-ai-driven-computing-infrastructure>) | Publication | Official page |
 
 ## 2024
@@ -593,6 +603,7 @@
 | 2024‑07‑19 | [Compact Language Models via Pruning and Knowledge Distillation](<https://arxiv.org/abs/2407.14679>) | Paper | Verified affiliation |
 | 2024‑07‑17 | [Learning together\: Towards foundation models for machine learning interatomic potentials with meta-learning](<https://doi.org/10.1038/s41524-024-01339-x>) | Article | OpenAlex |
 | 2024‑07‑10 | [Multimodal Representation and Retrieval \[MRR 2024\]](<https://doi.org/10.1145/3626772.3657987>) | Article | OpenAlex |
+| 2024‑07‑10 | [MambaVision\: A Hybrid Mamba-Transformer Vision Backbone](<https://research.nvidia.com/publication/2025-06_mambavision-hybrid-mamba-transformer-vision-backbone>) | Publication | Official page, Verified affiliation |
 | 2024‑07‑09 | [Predicting blood–brain barrier permeability of molecules with a large language model and machine learning](<https://doi.org/10.1038/s41598-024-66897-y>) | Article | OpenAlex |
 | 2024‑07‑04 | [Multi-modal conditioning for metal-organic frameworks generation using 3D modeling techniques](<https://doi.org/10.26434/chemrxiv-2024-w8fps>) | Preprint | OpenAlex |
 | 2024‑07 | [Real-Time Anomaly Detection and Reactive Planning with Large Language Models](<https://research.nvidia.com/publication/2024-07_real-time-anomaly-detection-and-reactive-planning-large-language-models>) | Publication | Official page |
@@ -637,6 +648,7 @@
 | 2024‑05‑27 | [NV-Embed\: Improved Techniques for Training LLMs as Generalist Embedding Models](<https://arxiv.org/abs/2405.17428>) | Paper | Verified affiliation |
 | 2024‑05‑15 | [An in-depth evaluation of federated learning on biomedical natural language processing for information extraction](<https://doi.org/10.1038/s41746-024-01126-4>) | Article | OpenAlex |
 | 2024‑05‑13 | [ZAPP! Zonotope Agreement of Prediction and Planning for Continuous-Time Collision Avoidance with Discrete-Time Dynamics](<https://doi.org/10.1109/icra57147.2024.10610953>) | Article | OpenAlex |
+| 2024‑05‑02 | [NeMo-Aligner\: Scalable Toolkit for Efficient Model Alignment](<https://arxiv.org/abs/2405.01481>) | Paper | Verified affiliation |
 | 2024‑05 | [Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](<https://research.nvidia.com/publication/2024-05_large-language-models-are-efficient-learners-noise-robust-speech-recognition>) | Publication | Official page |
 | 2024‑05 | [WildFusion\: Learning 3D-Aware Latent Diffusion Models in View Space](<https://research.nvidia.com/publication/2024-05_wildfusion-learning-3d-aware-latent-diffusion-models-view-space>) | Publication | Official page |
 | 2024‑05 | [It's Never Too Late\: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](<https://research.nvidia.com/publication/2024-05_it-s-never-too-late-fusing-acoustic-information-large-language-models-automatic>) | Publication | Official page |

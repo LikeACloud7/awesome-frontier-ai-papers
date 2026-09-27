@@ -76,13 +76,13 @@
 | 2026‑07‑20 | [LVSum\: A Benchmark for Timestamp-Aware Long Video Summarization](<https://machinelearning.apple.com/research/lvsum-video-summarization>) | Publication | Official page |
 | 2026‑07‑17 | [When Unlearning Is Free\: Leveraging Low Influence Points to Reduce Computational Costs](<https://machinelearning.apple.com/research/unlearning-low-influence-points>) | Publication | Official page |
 | 2026‑07‑17 | [Show Me Examples\: Inferring Visual Concepts from Image Sets](<https://machinelearning.apple.com/research/visual-concept-inference>) | Publication | Official page |
-| 2026‑07‑16 | [Personalizing Incremental Video Search with Hybrid Text and ID Embeddings](<https://machinelearning.apple.com/research/personalizing-incremental-video-search>) | Publication | Official page |
+| 2026‑07‑16 | [Personalizing Incremental Video Search with Hybrid Text and ID Embeddings](<https://machinelearning.apple.com/research/personalizing-incremental-video-search>) | Publication | Official page, OpenAlex |
 | 2026‑07‑16 | [Location-Invariant Properties of Functions Versus Properties of Distributions\: United in Testing but Separated in Verification](<https://machinelearning.apple.com/research/location-invariant-functions>) | Publication | Official page |
 | 2026‑07‑16 | [Interactive Proofs for General Distribution Properties](<https://machinelearning.apple.com/research/interactive-proofs-distribution-properties>) | Publication | Official page |
 | 2026‑07‑16 | [Doubly Sub-linear Interactive Proofs of Proximity](<https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs>) | Publication | Official page |
 | 2026‑07‑15 | [One Layer Is Enough\: Adapting Pretrained Visual Encoders for Image Generation](<https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders>) | Publication | Official page |
 | 2026‑07‑14 | [Proactive Agent Research Environment\: Simulating Active Users to Evaluate Proactive Assistants](<https://machinelearning.apple.com/research/proactive-agent-research-environment>) | Publication | Official page |
-| 2026‑07‑14 | [Multilingual Semantic Retrieval for Apple Music Search](<https://machinelearning.apple.com/research/multilingual-semantic-retrieval>) | Publication | Official page |
+| 2026‑07‑14 | [Multilingual Semantic Retrieval for Apple Music Search](<https://machinelearning.apple.com/research/multilingual-semantic-retrieval>) | Publication | Official page, OpenAlex |
 | 2026‑07‑10 | [Behavioral Privacy Leakage in Agentic Negotiation\: Formalizing and Mitigating Inference Attacks via Randomized Policies](<https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation>) | Publication | Official page, OpenAlex |
 | 2026‑07‑09 | [Unmasking On-Policy Distillation\: Where It Helps, Where It Hurts, and Why](<https://machinelearning.apple.com/research/unmasking-on-policy-distillation>) | Publication | Official page |
 | 2026‑07‑09 | [Recursive Language Models Meet Uncertainty\: The Surprising Effectiveness of Self-Reflective Program Search for Long Context](<https://machinelearning.apple.com/research/self-reflective-program-search>) | Publication | Official page |

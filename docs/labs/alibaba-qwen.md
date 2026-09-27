@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `698`
-- Latest: `2026-09-24`
+- Papers: `717`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,16 +19,33 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Towards Full Candidate Interaction\: A Comprehensive Comparison Network for Better Route Recommendation](<https://arxiv.org/abs/2508.08745>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [TSSR-Beta\: Enhancing Billion-Scale E-Commerce Semantic Retrieval via Representation-Level Interaction](<https://doi.org/10.1145/3773078.3831933>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [NextGen\: A Multi-Objective Generative Re-ranking Framework for Taobao Recommendation](<https://doi.org/10.1145/3773078.3831881>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [MDGR\: Masked Diffusion Generative Recommendation](<https://doi.org/10.1145/3773078.3831862>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [M2R\: End-to-End Implicit Scenario Discovery for Multi-Scenario and Multi-Crowd Ranking at Taobao](<https://doi.org/10.1145/3773078.3831882>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Guess Where You Go\: Generative Next Point-of-Interest Recommendation in Amap](<https://arxiv.org/abs/2607.26073>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Generative Spatiotemporal Intent Sequence Recommendation via Implicit Reasoning in Amap](<https://arxiv.org/abs/2605.28888>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [From Exploitation to Balance\: Efficient Retargeting Recommendation via DPO-Guided Slot Allocation](<https://doi.org/10.1145/3773078.3831888>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Covariance-Aware Newton-Schulz Orthogonalization for Noise-Robust Sequential Recommendation](<https://doi.org/10.1145/3773078.3831766>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [AtomiMed\: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation](<https://arxiv.org/abs/2606.31292>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [anitarau/SurgBenchKit\: Initial publication](<https://doi.org/10.5281/zenodo.22930099>) | Software | OpenAlex |
 | 2026‑09‑24 | [The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics](<https://doi.org/10.1038/s41556-026-02067-8>) | Article | OpenAlex |
 | 2026‑09‑24 | [Semantic-Aware Organ-Level Esophageal Tumor Synthesis via Latent Rectified Flow](<https://doi.org/10.1007/978-3-032-38189-7_46>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Qwen-Planner-Agent\: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](<https://huggingface.co/papers/2609.29892>) | Paper | Hugging Face |
+| 2026‑09‑24 | [MedEnv\: Scaling Multimodal Virtual Medical Environments for Long-Horizon Diagnosis](<https://doi.org/10.1007/978-3-032-38098-2_40>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [LongMedBench\: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](<https://arxiv.org/abs/2607.09322>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [Learning Dual Prior Presentation for Opportunistic Screening of Visceral Artery Aneurysms on Non-contrast CT](<https://doi.org/10.1007/978-3-032-38098-2_36>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [FSE-Reg\: Enhancing 3D Deformable Registration with Frozen Large-Scale Pre-trained Segmentation Encoders](<https://doi.org/10.1007/978-3-032-38186-6_9>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [EndoVLM\: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment](<https://arxiv.org/abs/2608.04472>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [Benchmarking Pathology Foundation Models for Spatial Domain Understanding](<https://arxiv.org/abs/2605.25764>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [KREX\: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity](<https://arxiv.org/abs/2609.30057v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [GHA-Agent\: A Multi-Agent Framework for GitHub Actions Log Parsing](<https://doi.org/10.1145/3849478>) | Article | OpenAlex |
 | 2026‑09‑23 | [Speculative Evaluation of Stochastic LLMs](<https://arxiv.org/abs/2609.28560v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint Instruction Following](<https://arxiv.org/abs/2609.27421v1>) | Paper | Verified affiliation |
 | 2026‑09‑22 | [Verifiable Hidden Dynamics Play\: Generating Agentic RL Environments from Solved Mechanisms](<https://huggingface.co/papers/2609.27321>) | Preprint | Official page |
 | 2026‑09‑22 | [Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence](<https://doi.org/10.1038/s41591-026-04656-4>) | Article | OpenAlex |
+| 2026‑09‑22 | [COPE\: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation](<https://arxiv.org/abs/2609.26853>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Qwen3\.8-Omni\: Towards Native Omni-Modal Agents](<https://arxiv.org/abs/2609.25611v1>) | Paper | Verified affiliation |
 | 2026‑09‑21 | [ProactiveAudioBench\: Evaluating Condition-Driven Responses in Audio Streams](<https://doi.org/10.5281/zenodo.22871963>) | Preprint | OpenAlex |
 | 2026‑09‑20 | [LAMAR-Bench\: Evaluating Long-Form and Multi-Audio Understanding and Reasoning](<https://doi.org/10.5281/zenodo.22857938>) | Preprint | OpenAlex |
@@ -43,7 +60,7 @@
 | 2026‑09‑16 | [A bearing fault diagnosis method across operating conditions based on Wavelet Packet Decomposition and impulse spatiotemporal modeling](<https://doi.org/10.1088/1361-6501/aea87f>) | Article | OpenAlex |
 | 2026‑09‑15 | [Turn-level Multiscale Density Ratio Estimation for LLM Agents](<https://arxiv.org/abs/2609.16760>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [LucaCell\: a sequence-centric foundation model for cross-species single-cell analysis](<https://doi.org/10.64898/2026.09.08.750024>) | Preprint | OpenAlex |
-| 2026‑09‑14 | [AgentPProf\: Semantic Profiler for Long Horizon AI Agents](<https://arxiv.org/abs/2609.20301>) | Preprint | OpenAlex |
+| 2026‑09‑14 | [AgentPProf\: Semantic Profiler for Long Horizon AI Agents](<https://arxiv.org/abs/2609.20301v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑14 | [A multimodal dataset of computed spectra for organic molecules with a chemistry-constrained agent interface](<https://doi.org/10.5281/zenodo.22827178>) | Dataset | OpenAlex |
 | 2026‑09‑11 | [SCOPE-OPSD\: Fisher-Conditioned Privileged Subspaces for On-Policy Self-Distillation](<https://arxiv.org/abs/2609.12579>) | Preprint | OpenAlex |
 | 2026‑09‑10 | [RecGPT\: A User Intent-Centric Next-Generation LLM-Powered Recommender System in Industrial Practice](<https://doi.org/10.1145/3846382>) | Article | OpenAlex |
@@ -53,6 +70,8 @@
 | 2026‑09‑07 | [UKB-KG\: Knowledge Graph for Integrating and Enhancing Biomedical Insights from the UK Biobank](<https://doi.org/10.64898/2026.09.02.26361902>) | Preprint | OpenAlex |
 | 2026‑09‑07 | [Qwen-Audio-3\.0-ASR Technical Report](<https://arxiv.org/abs/2609.07549v2>) | Paper | Verified affiliation |
 | 2026‑09‑06 | [HiWaveRec\: Hierarchical Wavelet Decoupling Framework with Adaptive Gating for Sequential Recommendation](<https://doi.org/10.1007/978-3-032-37670-1_12>) | Conference paper | OpenAlex |
+| 2026‑09‑05 | [UniRRM\: Unified Reasoning Reward Models Across Languages and Evaluation Paradigms](<https://arxiv.org/abs/2609.05910v1>) | Paper | Verified affiliation |
+| 2026‑09‑05 | [Neuron-Guided Fine-Tuning\: Unlocking Efficient Alignment Mechanisms for Large Language Models](<https://arxiv.org/abs/2609.05913v1>) | Paper | Verified affiliation |
 | 2026‑09‑05 | [Multiple Myeloma Lesion Segmentation on Whole-Body Diffusion-Weighted Imaging via Efficient Anatomical Anticipation and Multimodal Confirmation](<https://arxiv.org/abs/2609.06165v1>) | Paper | Verified affiliation |
 | 2026‑09‑04 | [ConsensusBench\: Benchmark of Consensus Nodes for LLM Reasoning via Outcome Reward Densifying](<https://arxiv.org/abs/2609.04648v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [CORE\: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation](<https://arxiv.org/abs/2609.04083v1>) | Paper | Verified affiliation |

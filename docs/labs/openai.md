@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `689`
-- Latest: `2026-09-23`
+- Papers: `694`
+- Latest: `2026-09-26`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -18,6 +18,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑26 | [xuzhougeng/wisp-science\: v1\.15\.0\: Portable Projects · 项目独立数据库](<https://doi.org/10.5281/zenodo.21193742>) | Software | OpenAlex |
+| 2026‑09‑25 | [coin-or/pulp\: 4\.0\.0a13](<https://doi.org/10.5281/zenodo.22954023>) | Software | OpenAlex |
+| 2026‑09‑25 | [coin-or/pulp\: 4\.0\.0](<https://doi.org/10.5281/zenodo.22956077>) | Software | OpenAlex |
+| 2026‑09‑25 | [TransAct V2\: Production System for Lifelong User Sequence Modeling at Scale](<https://doi.org/10.1145/3773078.3831868>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
 | 2026‑09‑22 | [Priorities and principles for effective third party assessments](<https://openai.com/index/priorities-principles-third-party-assessments>) | Research post | Official page |
 | 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |

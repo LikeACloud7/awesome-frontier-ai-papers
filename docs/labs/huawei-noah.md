@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `599`
-- Latest: `2026-09-24`
+- Papers: `607`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,12 +15,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [Zero-Observation User Reactivation with Gap-Driven Dimensional Gating](<https://arxiv.org/abs/2607.19802>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [AMAI\: Algebraic Modelling of AI](<https://doi.org/10.5281/zenodo.22895945>) | Software | OpenAlex |
 | 2026‑09‑24 | [Lattice Distortion‐Triggered Cu─O─Ce Synergistic Sites Coupled With Machine Learning for Intelligent Multi‐Pesticide Recognition](<https://doi.org/10.1002/adfm.78690>) | Article | OpenAlex |
+| 2026‑09‑24 | [Tag-Aware Structured Text Translation\: Towards a Systematic Understanding](<https://arxiv.org/abs/2609.29131v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [TFB-2\: benchmarking and automated ensemble for time series forecasting](<https://doi.org/10.1007/s00778-026-01007-0>) | Article | OpenAlex |
+| 2026‑09‑23 | [PhyMo\: A Physical-Field Modality for Multimodal AI4Physics](<https://arxiv.org/abs/2609.27554v1>) | Paper | OpenAlex, Verified affiliation |
+| 2026‑09‑23 | [DCRL\: Decoupling and Coupling Reinforcement Learning via Policy-Reward Manifold Alignment](<https://arxiv.org/abs/2609.27572v1>) | Paper | Verified affiliation |
 | 2026‑09‑22 | [Multi-Task Deep Recommender Systems\: A Survey](<https://arxiv.org/abs/2302.03525>) | Article | OpenAlex |
 | 2026‑09‑22 | [MQSim 2\.0\: A Framework for Realistic Studies of AI-Era SSDs and Disaggregated Storage](<https://doi.org/10.1145/3837053.3837342>) | Conference paper | OpenAlex |
-| 2026‑09‑22 | [GitScholar\: A Dataset for Predicting AI Research Impact from GitHub Engagement](<https://arxiv.org/abs/2609.26361v1>) | Paper | Verified affiliation |
+| 2026‑09‑22 | [GitScholar\: A Dataset for Predicting AI Research Impact from GitHub Engagement](<https://arxiv.org/abs/2609.26361v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑21 | [TTSE\: A Two-Track Online Self-Evolution Framework](<https://arxiv.org/abs/2609.24289v1>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [SafeStage\: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation](<https://arxiv.org/abs/2609.21223>) | Preprint | OpenAlex |
+| 2026‑09‑18 | [ASTRA\: Toward Agentic AI for Intelligent Device-Network-Cloud Synergy in Next-Generation Mobile Communication](<https://arxiv.org/abs/2609.21298v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Mobility Network Forecasting\: A Trajectory-based Contact Prediction Approach](<https://doi.org/10.1145/3848123>) | Article | OpenAlex |
 | 2026‑09‑15 | [VulWeaver \: Weaving Broken Semantics for Grounded Vulnerability Detection](<https://doi.org/10.1145/3846196>) | Article | OpenAlex |
 | 2026‑09‑15 | [The Reuse-and-Append Memory Principle\: Application to Latent Cause Inference](<https://doi.org/10.64898/2026.09.09.750332>) | Preprint | OpenAlex |
@@ -34,6 +41,7 @@
 | 2026‑09‑11 | [QN-MHPV2\: A Physiologically Grounded Cognitive Model of Takeover Time in Conditionally Automated Driving](<https://doi.org/10.1080/10447318.2026.2728522>) | Article | OpenAlex |
 | 2026‑09‑11 | [Feedback-Enhanced Closed-loop Decision Making for Autonomous Driving with Large Language Models](<https://doi.org/10.1007/s10846-026-02445-2>) | Article | OpenAlex |
 | 2026‑09‑11 | [Beyond ID Embeddings\: Process-Grounded Language Modeling for Cognitive Diagnosis](<https://arxiv.org/abs/2609.12403v1>) | Paper | Verified affiliation |
+| 2026‑09‑10 | [Refining Ground Truth Poses in Autonomous Driving Datasets via Neural Rendering](<https://doi.org/10.1109/lra.2026.3732898>) | Article | OpenAlex |
 | 2026‑09‑09 | [EFQ-Softmax\: Exp-Free Quantization for Softmax](<https://arxiv.org/abs/2609.09721>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Marigold V2\: Revisiting Diffusion Transformers for Monocular Depth Estimation](<https://arxiv.org/abs/2609.08084v1>) | Paper | Verified affiliation |
 | 2026‑09‑08 | [Less Is Personal\: Learning Minimal Sufficient User Profiles for Personalized Language Models](<https://arxiv.org/abs/2609.08180v1>) | Paper | Verified affiliation |

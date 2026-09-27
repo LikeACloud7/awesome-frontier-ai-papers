@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1563`
+- Papers: `1573`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#amazon)
 
@@ -17,8 +17,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑25 | [RecSys Challenge 2026\: Conversational Music Recommendation](<https://doi.org/10.1145/3773078.3841245>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Which LLM to Fine-Tune? Agent-Driven Model Selection at Scale](<https://doi.org/10.1145/3773078.3831880>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [The Third Workshop on Agentic and Generative AI for E-Commerce](<https://doi.org/10.1145/3773078.3831721>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Separating AI-assisted authoring from governed execution through specification-driven composition A design framework and industrial experience report for explainable automation in regulated data transformation](<https://doi.org/10.21203/rs.3.rs-10898472/v1>) | Preprint | OpenAlex |
+| 2026‑09‑25 | [MoR\: An Adaptive Retrieval Allocation Balancing Long-Term Interest and Short-Term Evidence](<https://doi.org/10.1145/3773078.3831920>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Composing Agents, Compounding Risks\: A Tutorial on Robustness and Alignment in Multi-Agent Recommender Systems](<https://doi.org/10.1145/3773078.3831750>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [CE-Agent\: a cloud-edge collaborative agent framework with dynamic offloading and synergistic distillation](<https://doi.org/10.1186/s13677-026-00984-5>) | Article | OpenAlex |
+| 2026‑09‑25 | [Advances In NLP-Driven Analytics for Automated Detection of Regulatory Liabilities in High-Volume Contracts](<https://doi.org/10.56201/rjpst.vol.8.no8.2025.pg142.212>) | Article | OpenAlex |
 | 2026‑09‑24 | [Representation Control for Large Language Models\: Survey and Research Challenges](<https://doi.org/10.1145/3846173>) | Article | OpenAlex |
+| 2026‑09‑24 | [PhysioSplat\: Physics-Informed Dynamic Gaussian Splatting for Surgical Scene Reconstruction](<https://doi.org/10.1007/978-3-032-38233-7_36>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Rufus-Air\: An Open LLM Post-Training Recipe](<https://arxiv.org/abs/2609.29421v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [An Empirical Study of VLM Pipelines for Long-Document QA](<https://arxiv.org/abs/2609.29933v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [Perception and Interaction Systems](<https://doi.org/10.1007/978-3-032-33669-9_3>) | Book chapter | OpenAlex |
@@ -49,6 +57,7 @@
 | 2026‑09‑15 | [AutoE2E\: Open-Loop Evaluation of a Map- and Oracle-Route-Conditioned Temporal BEV Planner](<https://doi.org/10.5281/zenodo.22764734>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Where Should a Document Live\: Context, Representations, or Parameters?](<https://arxiv.org/abs/2609.17346v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [CliMA/CloudMicrophysics\.jl\: v0\.40\.0](<https://doi.org/10.5281/zenodo.22755406>) | Software | OpenAlex |
+| 2026‑09‑14 | [EleutherAI/bergson\: v1\.1\.0](<https://doi.org/10.5281/zenodo.22746452>) | Software | OpenAlex |
 | 2026‑09‑14 | [EleutherAI/bergson\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22740623>) | Software | OpenAlex |
 | 2026‑09‑12 | [CliMA/ClimaTimeSteppers\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22730008>) | Software | OpenAlex |
 | 2026‑09‑12 | [CliMA/ClimaAtmos\.jl\: v0\.42\.10](<https://doi.org/10.5281/zenodo.22718255>) | Software | OpenAlex |
@@ -93,6 +102,7 @@
 | 2026‑09‑01 | [Data-Driven Persona-Conditioned Agents for A/B Test Simulation](<https://arxiv.org/abs/2609.01038v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [Belief-Calibrated Optimization\: An Explicit World Model for Agentic Optimization](<https://arxiv.org/abs/2609.01861v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators\: Lean 4 Proof Development](<https://doi.org/10.5281/zenodo.22212569>) | Software | OpenAlex |
+| 2026‑08‑31 | [Human-Anchored Factuality Evaluation with Strategic Annotation](<https://arxiv.org/abs/2609.00494v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [Group Adaptive Clipping Policy Optimization](<https://arxiv.org/abs/2609.00444v1>) | Paper | Verified affiliation |
 | 2026‑08‑29 | [CliMA/ClimaAtmos\.jl\: v0\.42\.8](<https://doi.org/10.5281/zenodo.22153928>) | Software | OpenAlex |
 | 2026‑08‑29 | [mallob\: Mallob Fork that supports UNSAT proof writting over multible preprocessing steps](<https://doi.org/10.5281/zenodo.22163524>) | Software | OpenAlex |
@@ -384,7 +394,7 @@
 | 2026 | [Testing GenAI models alongside model builds\: A case study of collaboration between Amazon Nova and Chatterbox](<https://www.amazon.science/publications/testing-genai-models-alongside-model-builds-a-case-study-of-collaboration-between-amazon-nova-and-chatterbox>) | Publication | Official page |
 | 2026 | [Temporal-consistent video restoration with pre-trained diffusion models](<https://www.amazon.science/publications/temporal-consistent-video-restoration-with-pre-trained-diffusion-models>) | Publication | Official page |
 | 2026 | [TaTToo\: Tool-augmented thinking PRM for tabular reasoning](<https://www.amazon.science/publications/tatto-tool-augmented-thinking-prm-for-tabular-reasoning>) | Publication | Official page |
-| 2026 | [TSMOO\: Solving multi-objective experimentation with constrained Thompson sampling](<https://www.amazon.science/publications/tsmoo-solving-multi-objective-experimentation-with-constrained-thompson-sampling>) | Publication | Official page |
+| 2026 | [TSMOO\: Solving multi-objective experimentation with constrained Thompson sampling](<https://www.amazon.science/publications/tsmoo-solving-multi-objective-experimentation-with-constrained-thompson-sampling>) | Publication | Official page, OpenAlex |
 | 2026 | [TRAJECT-Bench\: A trajectory-aware benchmark for evaluating agentic tool use](<https://www.amazon.science/publications/traject-bench-a-trajectory-aware-benchmark-for-evaluating-agentic-tool-use>) | Publication | Official page |
 | 2026 | [TRACE \: Traceable root-cause analysis with calibrated evidence-grounded agents](<https://www.amazon.science/publications/trace-traceable-root-cause-analysis-with-calibrated-evidence-grounded-agents>) | Publication | Official page |
 | 2026 | [T2PO\: Uncertainty-guided exploration control for stable multi-turn agentic reinforcement learning](<https://www.amazon.science/publications/t2po-uncertainty-guided-exploration-control-for-stable-multi-turn-agentic-reinforcement-learning>) | Publication | Official page |
@@ -437,7 +447,7 @@
 | 2026 | [Pattern discovery with wide-lens analysis and sharp-focus validation](<https://www.amazon.science/publications/pattern-discovery-with-wide-lens-analysis-and-sharp-focus-validation>) | Publication | Official page |
 | 2026 | [PatientAgentBench\: A benchmark framework for evaluating patient-facing health AI agents](<https://www.amazon.science/publications/patientagentbench-a-benchmark-framework-for-evaluating-patient-facing-health-ai-agents>) | Publication | Official page, Verified affiliation |
 | 2026 | [Parameter-efficient multi-task learning via progressive task-specific adaptation](<https://www.amazon.science/publications/parameter-efficient-multi-task-learning-via-progressive-task-specific-adaptation>) | Publication | Official page |
-| 2026 | [Pairwise ranking outperforms single-action RL for offline explanation selection\: A practical lesson](<https://www.amazon.science/publications/pairwise-ranking-outperforms-single-action-rl-for-offline-explanation-selection-a-practical-lesson>) | Publication | Official page, Verified affiliation |
+| 2026 | [Pairwise ranking outperforms single-action RL for offline explanation selection\: A practical lesson](<https://www.amazon.science/publications/pairwise-ranking-outperforms-single-action-rl-for-offline-explanation-selection-a-practical-lesson>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [PGGA\: A plan-grounded GUI agent for automated device support](<https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support>) | Publication | Official page |
 | 2026 | [PADAM\: Perceptual audio defect assessment model](<https://www.amazon.science/publications/padam-perceptual-audio-defect-assessment-model>) | Publication | Official page |
 | 2026 | [Optimal and scalable MAPF via multi-marginal optimal transport and schrödinger bridges](<https://www.amazon.science/publications/optimal-and-scalable-mapf-via-multi-marginal-optimal-transport-and-schrodinger-bridges>) | Publication | Official page |
@@ -453,7 +463,7 @@
 | 2026 | [Multi-objective reinforcement learning for large-scale tote allocation in human-robot collaborative fulfillment centers](<https://www.amazon.science/publications/multi-objective-reinforcement-learning-for-large-scale-tote-allocation-in-human-robot-collaborative-fulfillment-centers>) | Publication | Official page |
 | 2026 | [Multi-metric adaptive experimental design under a fixed budget with validation](<https://www.amazon.science/publications/multi-metric-adaptive-experimental-design-under-a-fixed-budget-with-validation>) | Publication | Official page |
 | 2026 | [Multi-domain marker aggregation for threat detection in cloud environments](<https://www.amazon.science/publications/multi-domain-marker-aggregation-for-threat-detection-in-cloud-environments>) | Publication | Official page |
-| 2026 | [Multi-Objective Ranking for Live-Streaming\: Balancing Fresh and Delayed Signals with Segment-Aware Targeting](<https://arxiv.org/abs/2608.04455>) | Preprint | Official page |
+| 2026 | [Multi-Objective Ranking for Live-Streaming\: Balancing Fresh and Delayed Signals with Segment-Aware Targeting](<https://arxiv.org/abs/2608.04455>) | Preprint | Official page, OpenAlex |
 | 2026 | [Memory tree guided key frame querying for efficient 3D question answering](<https://www.amazon.science/publications/memory-tree-guided-key-frame-querying-for-efficient-3d-question-answering>) | Publication | Official page, Verified affiliation |
 | 2026 | [MapScout\: An agentic harness for map editing and geospatial data labeling](<https://www.amazon.science/publications/mapscout-an-agentic-harness-for-map-editing-and-geospatial-data-labeling>) | Publication | Official page |
 | 2026 | [MakeupMirror\: Improving facial attribute preservation in diffusion models for makeup transfer](<https://www.amazon.science/publications/makeupmirror-improving-facial-attribute-preservation-in-diffusion-models-for-makeup-transfer>) | Publication | Official page |
@@ -494,7 +504,7 @@
 | 2026 | [GiVA\: Gradient-informed bases for vector-based adaptation](<https://www.amazon.science/publications/giva-gradient-informed-bases-for-vector-based-adaptation>) | Publication | Official page |
 | 2026 | [GeoGround\: Uncertainty-weighted multi-task learning for geo-alignment and address defect detection](<https://www.amazon.science/publications/geoground-uncertainty-weighted-multi-task-learning-for-geo-alignment-and-address-defect-detection>) | Publication | Official page |
 | 2026 | [Generative vs discriminative? Revisiting the shortcut learning debate in text classification](<https://www.amazon.science/publications/generative-vs-discriminative-revisiting-the-shortcut-learning-debate-in-text-classification>) | Publication | Official page |
-| 2026 | [Generalized position-based model\: Rethinking position weights in ranking off-policy evaluation](<https://www.amazon.science/publications/generalized-position-based-model-rethinking-position-weights-in-ranking-off-policy-evaluation>) | Publication | Official page |
+| 2026 | [Generalized position-based model\: Rethinking position weights in ranking off-policy evaluation](<https://www.amazon.science/publications/generalized-position-based-model-rethinking-position-weights-in-ranking-off-policy-evaluation>) | Publication | Official page, OpenAlex |
 | 2026 | [Generalizable dense reward for long-horizon robotic tasks](<https://www.amazon.science/publications/generalizable-dense-reward-for-long-horizon-robotic-tasks>) | Publication | Official page |
 | 2026 | [Gated KalmaNet\: A fading memory layer through test-time ridge regression](<https://www.amazon.science/publications/gated-kalmanet-a-fading-memory-layer-through-test-time-ridge-regression>) | Publication | Official page |
 | 2026 | [GRAFT\: Grounding cold-start nodes via factorized structural alignment](<https://www.amazon.science/publications/graft-grounding-cold-start-nodes-via-factorized-structural-alignment>) | Publication | Official page, OpenAlex |
@@ -597,7 +607,7 @@
 | 2026 | [BEAR\: BGP event analysis and reporting](<https://www.amazon.science/publications/bear-bgp-event-analysis-and-reporting>) | Publication | Official page |
 | 2026 | [AuthGuard\: Generalizable deepfake detection via language guidance](<https://www.amazon.science/publications/authguard-generalizable-deepfake-detection-via-language-guidance>) | Publication | Official page |
 | 2026 | [Attribute-aware controlled product generation with LLMs for e-commerce](<https://www.amazon.science/publications/attribute-aware-controlled-product-generation-with-llms-for-e-commerce>) | Publication | Official page |
-| 2026 | [Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](<https://arxiv.org/abs/2608.03272>) | Preprint | Official page |
+| 2026 | [Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](<https://arxiv.org/abs/2608.03272>) | Preprint | Official page, OpenAlex |
 | 2026 | [AsymLoc\: Towards asymmetric feature matching for efficient visual localization](<https://www.amazon.science/publications/asymloc-towards-asymmetric-feature-matching-for-efficient-visual-localization>) | Publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](<https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms>) | Publication | Official page |
 | 2026 | [Anchored FLoE\: A business-guardrailed ensemble framework of foundation and local-trained models for demand forecasting](<https://www.amazon.science/publications/anchored-floe-a-business-guardrailed-ensemble-framework-of-foundation-and-local-trained-models-for-demand-forecasting>) | Publication | Official page, OpenAlex |
