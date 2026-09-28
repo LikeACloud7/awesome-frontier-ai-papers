@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `363`
+- Papers: `364`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#metafair)
 
@@ -350,16 +350,17 @@
 | 2024‑04‑14 | [Multi-task Learning for Front-end Text Processing in TTS](<https://ai.meta.com/research/publications/multi-task-learning-for-front-end-text-processing-in-tts/>) | Publication | Official page |
 | 2024‑04‑13 | [CoLLD\: Contrastive Layer-to-Layer Distillation for Compressing Multilingual Pre-Trained Speech Encoders](<https://ai.meta.com/research/publications/colld-contrastive-layer-to-layer-distillation-for-compressing-multilingual-pre-trained-speech-encoders/>) | Publication | Official page |
 | 2024‑04‑05 | [MART\: Improving LLM Safety with Multi-round Automatic Red-Teaming](<https://ai.meta.com/research/publications/mart-improving-llm-safety-with-multi-round-automatic-red-teaming/>) | Publication | Official page |
-| 2024‑04‑04 | [DP-RDM\: Adapting Diffusion Models to Private Domains Without Fine-Tuning](<https://ai.meta.com/research/publications/dp-rdm-adapting-diffusion-models-to-private-domains-without-fine-tuning/>) | Publication | Official page |
 | 2024‑04‑03 | [Sieve\: Multimodal Dataset Pruning Using Image Captioning Models](<https://ai.meta.com/research/publications/sieve-multimodal-dataset-pruning-using-image-captioning-models/>) | Publication | Official page |
 | 2024‑04‑03 | [Better (pseudo-)labels for semi-supervised instance segmentation](<https://ai.meta.com/research/publications/better-pseudo-labels-for-semi-supervised-instance-segmentation/>) | Publication | Official page |
-| 2024‑04‑02 | [MoDem-V2\: Visuo-Motor World Models for Real-World Robot Manipulation](<https://ai.meta.com/research/publications/modem-v2-visuo-motor-world-models-for-real-world-robot-manipulation/>) | Publication | Official page |
+| 2024‑04‑02 | [MoDem-V2\: Visuo-Motor World Models for Real-World Robot Manipulation](<https://github.com/facebookresearch/modemv2/blob/main/modemv2/tasks/robohive/robohive/white_paper_2020.pdf>) | Technical report | Official page, Official repo |
 | 2024‑03‑29 | [G-HOP\: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis](<https://ai.meta.com/research/publications/g-hop-generative-hand-object-prior-for-interaction-reconstruction-and-grasp-synthesis/>) | Publication | Official page |
 | 2024‑03‑28 | [On the Identifiability of Quantized Factors](<https://ai.meta.com/research/publications/on-the-identifiability-of-quantized-factors/>) | Publication | Official page |
 | 2024‑03‑26 | [When should we prefer Decision Transformers for Offline Reinforcement Learning?](<https://ai.meta.com/research/publications/when-should-we-prefer-decision-transformers-for-offline-reinforcement-learning/>) | Publication | Official page |
 | 2024‑03‑24 | [Unsupervised Domain Adaptative Temporal Sentence Localization with Mutual Information Maximization](<https://doi.org/10.1609/aaai.v38i4.28145>) | Article | OpenAlex |
+| 2024‑03‑21 | [DP-RDM\: Adapting Diffusion Models to Private Domains Without Fine-Tuning](<https://ai.meta.com/research/publications/dp-rdm-adapting-diffusion-models-to-private-domains-without-fine-tuning/>) | Publication | Official page, Verified affiliation |
 | 2024‑03‑19 | [SceneScript\: Reconstructing Scenes With An Autoregressive Structured Language Model](<https://ai.meta.com/research/publications/scenescript-reconstructing-scenes-with-an-autoregressive-structured-language-model/>) | Publication | Official page |
 | 2024‑03‑18 | [LAVE\: LLM-Powered Agent Assistance and Language Augmentation for Video Editing](<http://arxiv.org/abs/2402.10294>) | Preprint | OpenAlex |
+| 2024‑03‑16 | [Forward Learning of Graph Neural Networks](<https://arxiv.org/abs/2403.11004>) | Paper | Verified affiliation |
 | 2024‑03‑14 | [Towards image compression with perfect realism at ultra-low bitrates](<https://ai.meta.com/research/publications/towards-image-compression-with-perfect-realism-at-ultra-low-bitrates/>) | Publication | Official page |
 | 2024‑03‑13 | [GaLore\: Memory-Efficient LLM Training by Gradient Low-Rank Projection](<https://ai.meta.com/research/publications/galore-memory-efficient-llm-training-by-gradient-low-rank-projection/>) | Publication | Official page |
 | 2024‑03‑12 | [Habitat 3\.0\: A Co-Habitat for Humans, Avatars and Robots](<https://ai.meta.com/research/publications/habitat-3-0-a-co-habitat-for-humans-avatars-and-robots/>) | Publication | Official page |

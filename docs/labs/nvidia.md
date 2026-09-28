@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `660`
-- Latest: `2026-09-25`
+- Papers: `670`
+- Latest: `2026-09-26`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑26 | [MRPT/mrpt\: Release of v3\.3\.0](<https://doi.org/10.5281/zenodo.22983042>) | Software | OpenAlex |
+| 2026‑09‑26 | [Covariance-Guided Activation Selection with Adaptive Compensation for Efficient Neural Network Pruning](<https://doi.org/10.5281/zenodo.22979838>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [Beyond Track and Intensity\: Scale-Dependent Diagnostics of a Tropical Cyclone Forecast by a Probabilistic AI Foundation Model, AERIS](<https://doi.org/10.22541/essoar.15009485/v1>) | Preprint | OpenAlex |
+| 2026‑09‑25 | [CliMA/ClimaAtmos\.jl\: v0\.42\.12](<https://doi.org/10.5281/zenodo.22969315>) | Software | OpenAlex |
+| 2026‑09‑25 | [bruno-egami/opencv\: V1\.0](<https://doi.org/10.5281/zenodo.20834979>) | Software | OpenAlex |
+| 2026‑09‑25 | [bruno-egami/opencv\: OpenCV para análise de CP´s impressos de argila](<https://doi.org/10.5281/zenodo.22949472>) | Software | OpenAlex |
 | 2026‑09‑25 | [Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement](<https://arxiv.org/abs/2604.17773>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [SAW\: Toward a Surgical Action World Model via Controllable and Scalable Video Generation](<http://arxiv.org/abs/2603.13024>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Performant Tridiagonal Factorization of Skew-Symmetric Matrices](<https://arxiv.org/abs/2411.09859>) | Article | OpenAlex |
@@ -41,15 +47,18 @@
 | 2026‑09‑16 | [CliMA/ClimaCore\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22800579>) | Software | OpenAlex |
 | 2026‑09‑16 | [pyodide/pyodide\: 0\.27\.8](<https://doi.org/10.5281/zenodo.22785982>) | Software | OpenAlex |
 | 2026‑09‑15 | [pyodide/pyodide\: 0\.29\.5](<https://doi.org/10.5281/zenodo.22780898>) | Software | OpenAlex |
+| 2026‑09‑15 | [clEsperanto/CLIc\: 0\.25\.0-rc1](<https://doi.org/10.5281/zenodo.22768146>) | Software | OpenAlex |
 | 2026‑09‑15 | [Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](<https://arxiv.org/abs/2609.16686>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Design and implementation of a novel high-efficiency ultrasonic 3D synthetic data generation framework](<https://doi.org/10.1038/s44384-026-00075-4>) | Article | OpenAlex |
 | 2026‑09‑14 | [VC-Attention\: Value Smoothing and Softmax Casting for Low-bit Attention](<https://arxiv.org/abs/2609.15810v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [TwinICL\: Diagnosing Multimodal In-Context Learning through Paired Counterfactuals](<https://arxiv.org/abs/2609.15028v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Enabling Streaming User Transcription in Full-Duplex Speech-to-Speech Models](<https://arxiv.org/abs/2609.15759v1>) | Paper | Verified affiliation |
+| 2026‑09‑13 | [ReLA\: Representation Learning and Aggregation for Scalable Job Scheduling with Reinforcement Learning](<https://doi.org/10.1145/3832810.3832899>) | Conference paper | OpenAlex |
 | 2026‑09‑13 | [From 2^N to N^2\: Tree-Free Scalable Sparse Symmetric Tucker Decomposition](<https://doi.org/10.1145/3832810.3832856>) | Conference paper | OpenAlex |
 | 2026‑09‑13 | [Lightning Weave\: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition](<https://arxiv.org/abs/2609.14708v2>) | Paper | Verified affiliation |
 | 2026‑09‑12 | [CliMA/ClimaTimeSteppers\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22730008>) | Software | OpenAlex |
 | 2026‑09‑12 | [CliMA/ClimaAtmos\.jl\: v0\.42\.10](<https://doi.org/10.5281/zenodo.22718255>) | Software | OpenAlex |
+| 2026‑09‑11 | [rjzamora/sc26-gpu-polars-artifact\: PDSW 2026 Artifact v1\.1](<https://doi.org/10.5281/zenodo.22710409>) | Software | OpenAlex |
 | 2026‑09‑11 | [DNT\: Diploid Genomic Foundation Model](<https://doi.org/10.64898/2026.09.05.749576>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [PiMiX 2\.02\: Toward AI-Driven Data Fusion in Radiographic Imaging and Tomography](<https://arxiv.org/abs/2609.13347v1>) | Paper | Verified affiliation |
 | 2026‑09‑11 | [4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling](<https://arxiv.org/abs/2609.12815v1>) | Paper | Verified affiliation |
@@ -619,6 +628,7 @@
 | 2024‑07 | [Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic](<https://research.nvidia.com/publication/2024-07_zero-and-finite-temperature-quantum-simulations-powered-quantum-magic>) | Publication | Official page |
 | 2024‑07 | [SuperPADL\: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](<https://research.nvidia.com/publication/2024-07_superpadl-scaling-language-directed-physics-based-control-progressive>) | Publication | Official page |
 | 2024‑07 | [Signatures Meet Dynamic Programming\: Generalizing Bellman Equations for Trajectory Following](<https://research.nvidia.com/publication/2024-07_signatures-meet-dynamic-programming-generalizing-bellman-equations-trajectory>) | Publication | Official page |
+| 2024‑06‑28 | [Less is More\: Accurate Speech Recognition &amp; Translation without Web-Scale Data](<https://arxiv.org/abs/2406.19674>) | Paper | Verified affiliation |
 | 2024‑06‑25 | [Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment](<https://arxiv.org/abs/2406.17957>) | Paper | OpenAlex, Verified affiliation |
 | 2024‑06‑23 | [RTLFixer\: Automatically Fixing RTL Syntax Errors with Large Language Model](<https://doi.org/10.1145/3649329.3657353>) | Article | OpenAlex |
 | 2024‑06‑17 | [Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation](<https://doi.org/10.1109/cvprw63382.2024.00197>) | Article | OpenAlex |

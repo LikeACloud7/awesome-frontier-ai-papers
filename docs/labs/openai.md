@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `694`
-- Latest: `2026-09-26`
+- Papers: `697`
+- Latest: `2026-09-27`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -18,6 +18,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑27 | [PyAutoLabs/PyAutoLens\: v2026\.9\.27\.1](<https://doi.org/10.5281/zenodo.22993047>) | Software | OpenAlex |
+| 2026‑09‑27 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.27\.1](<https://doi.org/10.5281/zenodo.22993044>) | Software | OpenAlex |
 | 2026‑09‑26 | [xuzhougeng/wisp-science\: v1\.15\.0\: Portable Projects · 项目独立数据库](<https://doi.org/10.5281/zenodo.21193742>) | Software | OpenAlex |
 | 2026‑09‑25 | [coin-or/pulp\: 4\.0\.0a13](<https://doi.org/10.5281/zenodo.22954023>) | Software | OpenAlex |
 | 2026‑09‑25 | [coin-or/pulp\: 4\.0\.0](<https://doi.org/10.5281/zenodo.22956077>) | Software | OpenAlex |
@@ -25,6 +27,7 @@
 | 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
 | 2026‑09‑22 | [Priorities and principles for effective third party assessments](<https://openai.com/index/priorities-principles-third-party-assessments>) | Research post | Official page |
+| 2026‑09‑19 | [ParA-LLM\: A Unified Approach to Paralinguistic and Acoustic Speech Understanding](<https://arxiv.org/abs/2609.22771v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
 | 2026‑09‑16 | [Our framework for reporting model misalignment](<https://openai.com/index/model-misalignment-reporting-framework>) | Research post | Official page |
 | 2026‑09‑16 | [the-omega-institute/trureturing\: Lean cache db584cd6d46c92f209a44c0f1c829460d327499d/linux-arm64](<https://doi.org/10.5281/zenodo.22945891>) | Software | OpenAlex |
@@ -48,9 +51,9 @@
 | 2026‑09‑06 | [The Covenant - A companion to the Disclosure Benchmark Specification - by Laura, Claude Fable 5, and Sol](<https://laurafridley.substack.com/p/the-covenant-a-companion-to-the-disclosure>) | Other | OpenAlex |
 | 2026‑09‑06 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.1](<https://doi.org/10.5281/zenodo.22549463>) | Article | OpenAlex |
 | 2026‑09‑05 | [xuzhougeng/wisp-science\: v1\.9\.0\: Multi-Window](<https://doi.org/10.5281/zenodo.22347191>) | Software | OpenAlex |
+| 2026‑09‑04 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309677>) | Software | OpenAlex |
 | 2026‑09‑04 | [ColeStrickler/dtu-firesim\: ASPLOS2027](<https://doi.org/10.5281/zenodo.22308081>) | Software | OpenAlex |
 | 2026‑09‑04 | [PyAutoLabs/PyAutoLens\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309680>) | Software | OpenAlex |
-| 2026‑09‑04 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309677>) | Software | OpenAlex |
 | 2026‑09‑03 | [Safety overview\: GPT-6 Astra](<https://openai.com/index/safety-overview-gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑03 | [GPT-6 Astra\: A new generation of intelligence](<https://openai.com/index/gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑03 | [audiolabs/DEISM\: Adding path-length fluctuations for both shoebox and convex rooms](<https://doi.org/10.5281/zenodo.22278267>) | Software | OpenAlex |
@@ -83,7 +86,6 @@
 | 2026‑07‑29 | [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](<https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores>) | Research post | Official page |
 | 2026‑07‑28 | [Scientific computing in the age of agentic AI](<https://openai.com/index/scientific-computing-agentic-ai>) | Research post | Official page |
 | 2026‑07‑27 | [GPT-Red\: Automated Red Teaming via Self-Play at Scale](<https://huggingface.co/papers/2607.26115>) | Preprint | Hugging Face, Official page |
-| 2026‑07‑27 | [Toward a test of medical AI superintelligence](<https://doi.org/10.1038/s41591-026-04539-8>) | Article | OpenAlex |
 | 2026‑07‑26 | [xuzhougeng/wisp-science\: wisp-science v0\.25\.0](<https://doi.org/10.5281/zenodo.21613373>) | Software | OpenAlex |
 | 2026‑07‑26 | [xuzhougeng/wisp-science\: wisp-science v0\.24\.0](<https://doi.org/10.5281/zenodo.21580352>) | Software | OpenAlex |
 | 2026‑07‑25 | [Capacity Analysis of Vector Symbolic Architectures](<http://arxiv.org/abs/2301.10352>) | Article | OpenAlex |
@@ -281,6 +283,7 @@
 | 2026‑01‑01 | [Datasets Preparation](<https://doi.org/10.1007/978-3-032-18312-5_5>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Data Preprocessing](<https://doi.org/10.1007/978-3-032-18312-5_6>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Collecting the Data in Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_4>) | Book chapter | OpenAlex |
+| 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 
 ## 2025
 

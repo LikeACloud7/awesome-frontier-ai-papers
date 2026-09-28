@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `1573`
-- Latest: `2026-09-25`
+- Papers: `1584`
+- Latest: `2026-09-27`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -17,10 +17,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑27 | [EleutherAI/bergson\: v2\.0\.3](<https://doi.org/10.5281/zenodo.23003908>) | Software | OpenAlex |
+| 2026‑09‑27 | [EleutherAI/bergson\: v2\.0\.2](<https://doi.org/10.5281/zenodo.23003145>) | Software | OpenAlex |
+| 2026‑09‑27 | [EleutherAI/bergson\: v2\.0\.1](<https://doi.org/10.5281/zenodo.23002500>) | Software | OpenAlex |
+| 2026‑09‑27 | [EleutherAI/bergson\: v2\.0\.0](<https://doi.org/10.5281/zenodo.22985416>) | Software | OpenAlex |
+| 2026‑09‑26 | [RDE-Seg\: Role-Disentangled Experts with Residual Routing and Anatomy Constraints for DSA Guidewire Segmentation](<https://doi.org/10.1007/978-3-032-38085-2_42>) | Conference paper | OpenAlex |
+| 2026‑09‑26 | [Graph Neural Network‐Based Reinforcement Learning for Decentralized Multi‐Robot Manipulation](<https://doi.org/10.1002/aisy.70562>) | Article | OpenAlex |
+| 2026‑09‑26 | [Bhygnn+\: unsupervised representation learning for heterophilic hypergraphs](<http://arxiv.org/abs/2602.14919>) | Article | OpenAlex |
 | 2026‑09‑25 | [RecSys Challenge 2026\: Conversational Music Recommendation](<https://doi.org/10.1145/3773078.3841245>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [CliMA/ClimaAtmos\.jl\: v0\.42\.12](<https://doi.org/10.5281/zenodo.22969315>) | Software | OpenAlex |
 | 2026‑09‑25 | [Which LLM to Fine-Tune? Agent-Driven Model Selection at Scale](<https://doi.org/10.1145/3773078.3831880>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [The Third Workshop on Agentic and Generative AI for E-Commerce](<https://doi.org/10.1145/3773078.3831721>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Separating AI-assisted authoring from governed execution through specification-driven composition A design framework and industrial experience report for explainable automation in regulated data transformation](<https://doi.org/10.21203/rs.3.rs-10898472/v1>) | Preprint | OpenAlex |
+| 2026‑09‑25 | [RecRec\: Latent Interests Recursive Reasoning for Sequential Recommendation](<https://arxiv.org/abs/2607.12945>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [MoR\: An Adaptive Retrieval Allocation Balancing Long-Term Interest and Short-Term Evidence](<https://doi.org/10.1145/3773078.3831920>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Composing Agents, Compounding Risks\: A Tutorial on Robustness and Alignment in Multi-Agent Recommender Systems](<https://doi.org/10.1145/3773078.3831750>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [CE-Agent\: a cloud-edge collaborative agent framework with dynamic offloading and synergistic distillation](<https://doi.org/10.1186/s13677-026-00984-5>) | Article | OpenAlex |
@@ -28,6 +37,7 @@
 | 2026‑09‑24 | [Representation Control for Large Language Models\: Survey and Research Challenges](<https://doi.org/10.1145/3846173>) | Article | OpenAlex |
 | 2026‑09‑24 | [PhysioSplat\: Physics-Informed Dynamic Gaussian Splatting for Surgical Scene Reconstruction](<https://doi.org/10.1007/978-3-032-38233-7_36>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Rufus-Air\: An Open LLM Post-Training Recipe](<https://arxiv.org/abs/2609.29421v1>) | Paper | Verified affiliation |
+| 2026‑09‑24 | [CounterRoute\: Self-Routed Reasoning via Hierarchical Counterfactual Credit Assignment](<https://arxiv.org/abs/2609.29109v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [An Empirical Study of VLM Pipelines for Long-Document QA](<https://arxiv.org/abs/2609.29933v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [Perception and Interaction Systems](<https://doi.org/10.1007/978-3-032-33669-9_3>) | Book chapter | OpenAlex |
 | 2026‑09‑23 | [Integration and Control Systems](<https://doi.org/10.1007/978-3-032-33669-9_5>) | Book chapter | OpenAlex |
@@ -92,6 +102,7 @@
 | 2026‑09‑04 | [DI-Bench\: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents](<https://arxiv.org/abs/2609.05776v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [SGD-KV\: Summarization Guided KV Cache Compression](<https://arxiv.org/abs/2609.03235v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [Mitra-v2 Technical Report](<https://arxiv.org/abs/2609.04540v1>) | Paper | Verified affiliation |
+| 2026‑09‑03 | [From Answers to Interpretations\: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs](<https://arxiv.org/abs/2609.04543v1>) | Paper | Verified affiliation |
 | 2026‑09‑02 | [CliMA/ClimaLand\.jl\: v1\.12\.0](<https://doi.org/10.5281/zenodo.22261751>) | Software | OpenAlex |
 | 2026‑09‑02 | [Multi Signer Spatio Temporal Framework for Isolated Sign Language Recognition](<https://doi.org/10.1007/978-3-032-30438-4_22>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [AI-enhanced adaptive virtual screening of large libraries for ligand discovery](<https://doi.org/10.1038/s41587-026-03217-x>) | Article | OpenAlex |

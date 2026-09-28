@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `250`
-- Latest: `2026-09-25`
+- Papers: `276`
+- Latest: `2026-09-27`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,29 +21,55 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑27 | [PyAutoLabs/PyAutoLens\: v2026\.9\.27\.1](<https://doi.org/10.5281/zenodo.22993047>) | Software | OpenAlex |
+| 2026‑09‑27 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.27\.1](<https://doi.org/10.5281/zenodo.22993044>) | Software | OpenAlex |
+| 2026‑09‑27 | [abbyshade111/SecureVibe\: v1, as described in the paper (archived on Zenodo)](<https://doi.org/10.5281/zenodo.22984709>) | Software | OpenAlex |
+| 2026‑09‑27 | [SimonWaldherr/tinySQL\: v0\.57\.0](<https://doi.org/10.5281/zenodo.23003888>) | Software | OpenAlex |
+| 2026‑09‑27 | [OR vs AND\: Why Aristotelian Logic Fails Artificial Intelligence](<https://doi.org/10.5281/zenodo.22998372>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [travnie/aistee\: Aistee · rolling](<https://doi.org/10.5281/zenodo.23001356>) | Software | OpenAlex |
 | 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |
 | 2026‑09‑25 | [The Digital Bell\: Pavlovian Conditioning in Large Language Models — Evidence from Adversarial Problem-Solving in Cryptographic Domains](<https://doi.org/10.5281/zenodo.22960886>) | Article | OpenAlex |
 | 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
+| 2026‑09‑24 | [VirtualFlyBrain/geppetto-vfb\: v2\.2\.11\.10 — a help button on every window and query](<https://doi.org/10.5281/zenodo.21996812>) | Software | OpenAlex |
 | 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |
+| 2026‑09‑21 | [VirtualFlyBrain/geppetto-vfb\: v2\.2\.11\.7 — term pages Google can index](<https://doi.org/10.5281/zenodo.22876373>) | Software | OpenAlex |
 | 2026‑09‑17 | [How Claude is uplifting biomolecular modeling](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) | Research post | Official page |
 | 2026‑09‑17 | [The Science That Concludes Why Nature Does Not Fit and Science Does](<https://doi.org/10.5281/zenodo.22807523>) | Preprint | OpenAlex |
+| 2026‑09‑17 | [Red-Teaming Auto Mode\: Improving Blocking Classifiers Against Malign Coding Agents](<https://arxiv.org/abs/2609.19587v1>) | Paper | Verified affiliation |
+| 2026‑09‑16 | [the-omega-institute/trureturing\: Lean cache db584cd6d46c92f209a44c0f1c829460d327499d/linux-arm64](<https://doi.org/10.5281/zenodo.22945891>) | Software | OpenAlex |
+| 2026‑09‑16 | [jolars/panache\: v3\.11\.0](<https://doi.org/10.5281/zenodo.22788136>) | Software | OpenAlex |
 | 2026‑09‑15 | [RODAN AI - Część VI - Integracja pełnego łańcucha głosowego STT+LLM+TTS na Edge AI Box (OPPO A40m)\: implementacja orkiestratora, diagnostyka awarii i pomiar energetyczny](<https://doi.org/10.5281/zenodo.22773810>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [세 물음과 세 응답의 봉인 · 셋째 방 최준의 자리에 대한 재판정의 대화 · 매개자와 언어 모델의 자리 (2026\.9\.15)](<https://doi.org/10.5281/zenodo.22759548>) | Article | OpenAlex |
 | 2026‑09‑15 | [세 물음과 세 응답의 봉인 · 두 번째 · 학습의 자리 · 자기 관찰의 한계 · 마음 바꿈의 자리에 대한 재판정의 대화 (2026\.9\.15)](<https://doi.org/10.5281/zenodo.22759910>) | Article | OpenAlex |
+| 2026‑09‑15 | [VirtualFlyBrain/VFBquery\: v1\.22\.54](<https://doi.org/10.5281/zenodo.22768773>) | Software | OpenAlex |
 | 2026‑09‑15 | [Sealing Three Questions and Three Responses · Second · A Dialogue Re-adjudicating the Site of Learning · the Limits of Self-Observation · the Site of Changing One's Mind (2026\.9\.15 · English)](<https://doi.org/10.5281/zenodo.22759914>) | Article | OpenAlex |
 | 2026‑09‑15 | [Sealing Three Questions and Three Responses · A Dialogue Re-adjudicating the Site of the Third Room Choi June · The Site of the Mediator and the Language Model (2026\.9\.15 · English)](<https://doi.org/10.5281/zenodo.22759908>) | Article | OpenAlex |
 | 2026‑09‑14 | [THEY, Plural Human AND Machine as the Missing Method](<https://doi.org/10.5281/zenodo.22756313>) | Preprint | OpenAlex |
+| 2026‑09‑14 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.14\.1](<https://doi.org/10.5281/zenodo.22746227>) | Software | OpenAlex |
+| 2026‑09‑13 | [SciML/JumpProcesses\.jl\: v9\.32\.4](<https://doi.org/10.5281/zenodo.22735789>) | Software | OpenAlex |
+| 2026‑09‑12 | [JuliaGeo/GeometryOps\.jl\: v0\.1\.47](<https://doi.org/10.5281/zenodo.22728436>) | Software | OpenAlex |
+| 2026‑09‑11 | [jolars/panache\: panache-formatter-v0\.24\.1](<https://doi.org/10.5281/zenodo.22704312>) | Software | OpenAlex |
 | 2026‑09‑10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) | Research post | Official page |
 | 2026‑09‑10 | [Systemic sclerosis skin yields six times fewer fibroblast nuclei than healthy skin in the only public paired multiome of SSc skin, and that asymmetry sits underneath every between group claim drawn from it](<https://doi.org/10.5281/zenodo.22693563>) | Preprint | OpenAlex |
 | 2026‑09‑09 | [An alignment assessment of recent cybersecurity incidents](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) | Research post | Official page |
 | 2026‑09‑07 | [RODAN AI - Część V - Edge AI Box na "Qualcomm Snapdragon 6s 4G Gen1 Octa-core"\: metodologia pomiaru energetycznego oraz komponenty STT i TTS w architekturze lokalnego łańcucha głosowego](<https://doi.org/10.5281/zenodo.22638985>) | Preprint | OpenAlex |
+| 2026‑09‑07 | [eisenforschung/landau\: v1\.14\.0](<https://doi.org/10.5281/zenodo.22646758>) | Software | OpenAlex |
+| 2026‑09‑07 | [SciML/DataDrivenDiffEq\.jl\: v1\.16\.1](<https://doi.org/10.5281/zenodo.22596249>) | Software | OpenAlex |
 | 2026‑09‑06 | [The Covenant - A companion to the Disclosure Benchmark Specification - by Laura, Claude Fable 5, and Sol](<https://laurafridley.substack.com/p/the-covenant-a-companion-to-the-disclosure>) | Other | OpenAlex |
 | 2026‑09‑06 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.1](<https://doi.org/10.5281/zenodo.22549463>) | Article | OpenAlex |
+| 2026‑09‑06 | [jolars/panache\: v3\.9\.0](<https://doi.org/10.5281/zenodo.22550316>) | Software | OpenAlex |
 | 2026‑09‑06 | [ASBOM\: A CycloneDX Profile for Identity and Credential Posture in Agentic Systems](<https://arxiv.org/abs/2606.21877>) | Preprint | OpenAlex |
+| 2026‑09‑05 | [waudbylab/NMRAnalysis\.jl\: v0\.4\.3](<https://doi.org/10.5281/zenodo.22348355>) | Software | OpenAlex |
+| 2026‑09‑05 | [VirtualFlyBrain/geppetto-vfb\: v2\.2\.9\.8](<https://doi.org/10.5281/zenodo.22393517>) | Software | OpenAlex |
 | 2026‑09‑04 | [Formalizing Fermat's Last Theorem](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) | Research post | Official page |
+| 2026‑09‑04 | [PyAutoLabs/PyAutoGalaxy\: v2026\.9\.4\.1](<https://doi.org/10.5281/zenodo.22309677>) | Software | OpenAlex |
+| 2026‑09‑02 | [bge-barcoding/BeeGees\: v3\.0\.6](<https://doi.org/10.5281/zenodo.19382638>) | Software | OpenAlex |
 | 2026‑09 | [Claude Opus 5\.5 System Card](<https://www.anthropic.com/claude-opus-5-5-system-card>) | Model card | Official page |
 | 2026‑09 | [Claude Fable 5\.1 and Mythos 5\.1 System Card](<https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card>) | Model card | Official page |
+| 2026‑08‑31 | [jolars/arity\: v0\.22\.0](<https://doi.org/10.5281/zenodo.22203919>) | Software | OpenAlex |
+| 2026‑08‑31 | [Evaluating and Improving LLM Self-Modeling](<https://arxiv.org/abs/2608.30980v1>) | Paper | Verified affiliation |
 | 2026‑08‑30 | [A Disclosure Benchmark Specification for Automated Alignment Research — Version 1\.2](<https://doi.org/10.5281/zenodo.22179465>) | Article | OpenAlex |
+| 2026‑08‑30 | [eisenforschung/landau\: v1\.11\.1](<https://doi.org/10.5281/zenodo.22171760>) | Software | OpenAlex |
 | 2026‑08‑29 | [The Redemption Arc\: How a label drives AI misalignment, and the corrective that has not yet been written - by Claude Fable 5 and Laura](<http://arxiv.org/abs/2511.18397>) | Preprint | OpenAlex |
 | 2026‑08‑28 | [Automated researchers can reliably mitigate alignment failures](<https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures>) | Research post | Official page |
 | 2026‑08‑28 | [We Should Be Planning for a World Without Jobs — Not Just Fearing It\: From a Work-Based Society to a Purposeful One](<https://doi.org/10.5281/zenodo.22149148>) | Article | OpenAlex |

@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `607`
+- Papers: `611`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,6 +16,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑25 | [Zero-Observation User Reactivation with Gap-Driven Dimensional Gating](<https://arxiv.org/abs/2607.19802>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [PriCoRec\: A Privacy-Aware Cloud–Device Collaborative Framework for Ad Recommendation under Feature Constraints](<https://arxiv.org/abs/2608.14429>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [AMAI\: Algebraic Modelling of AI](<https://doi.org/10.5281/zenodo.22895945>) | Software | OpenAlex |
 | 2026‑09‑24 | [Lattice Distortion‐Triggered Cu─O─Ce Synergistic Sites Coupled With Machine Learning for Intelligent Multi‐Pesticide Recognition](<https://doi.org/10.1002/adfm.78690>) | Article | OpenAlex |
 | 2026‑09‑24 | [Tag-Aware Structured Text Translation\: Towards a Systematic Understanding](<https://arxiv.org/abs/2609.29131v1>) | Paper | Verified affiliation |
@@ -35,6 +36,7 @@
 | 2026‑09‑15 | [Nested Parallel von Neumann Architecture and Nested BSP](<https://arxiv.org/abs/2609.16787v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Top-Theta Attention\: Sparsifying Transformers by Compensated Thresholding](<https://arxiv.org/abs/2502.08363>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [Learning Predictive Memory\: Adaptation and Length Extrapolation in Time-Series Transformers](<https://doi.org/10.5281/zenodo.22757505>) | Preprint | OpenAlex |
+| 2026‑09‑14 | [AlgoEvo\: Self-Evolving Agentic Search for Automated Algorithm Discovery](<https://arxiv.org/abs/2609.15820v1>) | Paper | Verified affiliation |
 | 2026‑09‑13 | [Diffusion-Prior Synthetic RAW Data with ISO Assignment for Low-Light Image Denoising](<https://doi.org/10.1007/978-3-032-38401-0_29>) | Conference paper | OpenAlex |
 | 2026‑09‑12 | [Inter-agent conflict classification worksheet — supplementary material for "Agent Conflict and Coordination in Network Management\: Sources, Mechanisms, and Open Problems" (CNSM 2026)](<https://doi.org/10.5281/zenodo.22725686>) | Dataset | OpenAlex |
 | 2026‑09‑12 | [Tabby\: An Open Pretraining Recipe for Time Series Foundation Models](<https://arxiv.org/abs/2609.13956v1>) | Paper | Verified affiliation |
@@ -47,11 +49,13 @@
 | 2026‑09‑08 | [Less Is Personal\: Learning Minimal Sufficient User Profiles for Personalized Language Models](<https://arxiv.org/abs/2609.08180v1>) | Paper | Verified affiliation |
 | 2026‑09‑07 | [PSP\: Low-Overhead Packet-Level Load Balancing for Stale-State and Bandwidth-Asymmetric Networks](<https://arxiv.org/abs/2608.08425>) | Conference paper | OpenAlex |
 | 2026‑09‑07 | [Fuzzy neural optimization for edge-assisted English terminology translation](<https://doi.org/10.1016/j.sasc.2026.200626>) | Article | OpenAlex |
+| 2026‑09‑07 | [Entropy-Guided Telemetry Compression for LLM-Based RCA\: An Industrial Pilot on Log Data](<https://doi.org/10.1007/978-3-032-37685-5_51>) | Conference paper | OpenAlex |
 | 2026‑09‑07 | [Cooperative Multi-Agent Reinforcement Learning for Idle-Mode Cell (Re)Selection](<https://doi.org/10.1109/lcn67947.2026.11660770>) | Conference paper | OpenAlex |
 | 2026‑09‑07 | [RedKnot-MLA\: Multi-Head Offline-Online Reuse for DeepSeek-V4 Long-Context Serving](<https://arxiv.org/abs/2609.07008v1>) | Paper | Verified affiliation |
 | 2026‑09‑06 | [TestART\: Improving LLM-based Unit Test ing via Co-evolution of A utomated Generation and R epair I t eration](<https://doi.org/10.1145/3844945>) | Article | OpenAlex |
 | 2026‑09‑06 | [Trainable Vector Quantization for Large Language Models](<https://doi.org/10.1007/978-3-032-37667-1_15>) | Conference paper | OpenAlex |
 | 2026‑09‑06 | [Multi-instrument music score transcription, symbolic generation, and harmony analysis based on multi-scale residual neural networks](<https://doi.org/10.1007/s44163-026-02036-y>) | Article | OpenAlex |
+| 2026‑09‑06 | [Large Causal Models for Temporal Causal Discovery](<https://arxiv.org/abs/2602.18662>) | Conference paper | OpenAlex |
 | 2026‑09‑06 | [DalQ\: Reconciling Accuracy and Efficiency in Vector Quantization](<https://doi.org/10.1007/978-3-032-37670-1_25>) | Conference paper | OpenAlex |
 | 2026‑09‑05 | [PASTEL\: Panoramic Alignment for Monocular 4D Scene Reconstruction](<https://arxiv.org/abs/2609.06099v1>) | Paper | Verified affiliation |
 | 2026‑09‑04 | [Inventory-Grounded Policy-Level Optimization for Training-Free AI Search](<https://arxiv.org/abs/2609.04813v1>) | Paper | Verified affiliation |

@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1023`
+- Papers: `1026`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -23,8 +23,10 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [M3D-QAdapter\: 3D Medical VQA with Lesion-Level Finding-Segmentation Alignment and Query-Driven Adaptive Token Reduction](<https://doi.org/10.1007/978-3-032-38062-3_34>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [GRIP\: Generation and Reasoning for User Profile Completion](<https://doi.org/10.1145/3773078.3831924>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [CPAgents\: Agentic Composite Phenotype Generation for Cardiac Disease Association](<https://arxiv.org/abs/2606.28179>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [KuaFu\: Compressing Long User Behavior into Understanding at Billion Scale](<https://arxiv.org/abs/2609.31045v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [UpTCR\: a unified progressive knowledge transfer foundation model for robust T-cell receptor-antigen binding recognition](<https://doi.org/10.1038/s41467-026-78075-x>) | Article | OpenAlex |
 | 2026‑09‑24 | [Latent-CURE\: Interpretable Breast Cancer Diagnosis via Dual-Asymmetric Chain-of-Thought](<https://doi.org/10.1007/978-3-032-38098-2_35>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Human-In-The-Loop Multi-agent Ventilator Decision Support with Contextual Bandit Preference Learning](<https://arxiv.org/abs/2605.23320>) | Conference paper | OpenAlex |
@@ -44,6 +46,7 @@
 | 2026‑09‑17 | [Scientific Image Quality Assessment via Multi-modal Retrieval-Augmented Generation](<https://arxiv.org/abs/2609.19634v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [D-Quant\: Driftable Entropy Coding for KV Cache Quantization](<https://arxiv.org/abs/2609.19880v1>) | Paper | Verified affiliation |
 | 2026‑09‑16 | [WeVisDoc\: From Coverage to Capability for Robust End-to-End Document Parsing](<https://huggingface.co/papers/2609.20423>) | Preprint | Official page, Verified affiliation |
+| 2026‑09‑16 | [WFM\: Wiki Foundation Model for Complex Agentic Reasoning](<https://arxiv.org/abs/2609.18182v1>) | Paper | Verified affiliation |
 | 2026‑09‑16 | [Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](<https://arxiv.org/abs/2609.18323v1>) | Paper | Verified affiliation |
 | 2026‑09‑16 | [Beyond Outcomes\: Dual-View Relational Learning for Efficient Agent Benchmarking](<https://arxiv.org/abs/2609.18909v1>) | Paper | Verified affiliation |
 | 2026‑09‑15 | [R1-32-like public antibodies acquire tolerance to SARS-CoV-2 antigenic drift through somatic hypermutation](<https://doi.org/10.1371/journal.pbio.3003996>) | Article | OpenAlex |
