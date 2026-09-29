@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `235`
-- Latest: `2026-09-25`
+- Papers: `236`
+- Latest: `2026-09-28`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑28 | [Steering Language Model Goals with Value Transplant](<https://arxiv.org/abs/2609.34056v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |
 | 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
 | 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |

@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `265`
+- Papers: `267`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -23,6 +23,8 @@
 | 2026‑09‑25 | [A Self-Triggered Agentic Push Recommendation System](<https://arxiv.org/abs/2608.01949>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |
+| 2026‑09‑19 | [NSP\: Accelerating Variable-Length LLM Training via Nested Sequence Parallelism](<https://arxiv.org/abs/2609.22755v1>) | Paper | Verified affiliation |
+| 2026‑09‑17 | [Paint-Anything\: Unified Any-Color Control for Image Generation and Editing](<https://arxiv.org/abs/2609.20816v2>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
 | 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |

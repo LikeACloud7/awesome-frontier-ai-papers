@@ -373,7 +373,6 @@
 | 2025‑10‑08 | [Reasoning-based Anomaly Detection Framework\: A Real-time, Scalable, and Automated Approach to Anomaly Detection Across Domains](<https://machinelearning.apple.com/research/reasoning-based-anomaly>) | Publication | Official page |
 | 2025‑10‑08 | [Towards achieving even distributions of participant skin tones when verifying pulse oximeter performance](<https://doi.org/10.21203/rs.3.rs-7112852/v1>) | Preprint | OpenAlex |
 | 2025‑10‑07 | [Stable Diffusion Models are Secretly Good at Visual In-Context Learning](<https://machinelearning.apple.com/research/stable-diffusion>) | Publication | Official page, OpenAlex |
-| 2025‑10‑07 | [Keyframer\: A Design Probe for Exploring LLM Assistance in 2D Animation Design](<https://doi.org/10.1109/vl-hcc65237.2025.00014>) | Conference paper | OpenAlex |
 | 2025‑10‑03 | [Assessing the Feasibility of Large-Scale Digital Sensing for Depression and Anxiety\: The Digital Mental Health Study](<https://machinelearning.apple.com/research/digital-mental-health>) | Publication | Official page, OpenAlex |
 | 2025‑10‑02 | [Hilbert\: Recursively Building Formal Proofs with Informal Reasoning](<https://machinelearning.apple.com/research/hilbert>) | Publication | Official page |
 | 2025‑10‑02 | [Barriers for Learning in an Evolving World\: Mathematical Understanding of Loss of Plasticity](<https://machinelearning.apple.com/research/barriers-for-learning>) | Publication | Official page |
@@ -702,6 +701,7 @@
 | 2025‑01‑01 | [COCONut-PanCap\: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation](<http://arxiv.org/abs/2502.02589>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [AdaPDTW\: An Efficient Abstract-Adaptive Piecewise Dynamic Time Warping for Time Series Classification](<https://doi.org/10.1109/access.2025.3568453>) | Article | OpenAlex |
 | 2025‑01‑01 | [A Theory for Worst-Case vs\. Average-Case Guarantees for LLMs](<https://doi.org/10.52202/085713-4901>) | Conference paper | OpenAlex |
+| 2025 | [QID\: Efficient query-informed ViTs in data-scarce regimes for OCR-free visual document understanding](<https://www.amazon.science/publications/qid-efficient-query-informed-vits-in-data-scarce-regimes-for-ocr-free-visual-document-understanding>) | Publication | OpenAlex, Official page |
 | 2025 | [Language Models Know More Than They Show\: Exploring Hallucinations From the Model's Viewpoint](<https://machinelearning.apple.com/research/exploring-hallucinations>) | Publication | Official page |
 | 2025 | [SIFT-50M\: A large-scale multilingual dataset for speech instruction fine-tuning](<https://www.amazon.science/publications/sift-50m-a-large-scale-multilingual-dataset-for-speech-instruction-fine-tuning>) | Publication | Official page, OpenAlex |
 
@@ -864,7 +864,6 @@
 | 2024‑06‑17 | [Synthetic Query Generation using Large Language Models for Virtual Assistants](<https://machinelearning.apple.com/research/synthetic-query-gen-llm>) | Publication | Official page, OpenAlex |
 | 2024‑06‑17 | [DataComp-LM\: In Search of the Next Generation of Training Sets for Language Models](<https://machinelearning.apple.com/research/datacomp-lm-search>) | Publication | Official page, Verified affiliation |
 | 2024‑06‑17 | [PQ-VAE\: Learning Hierarchical Discrete Representations with Progressive Quantization](<https://doi.org/10.1109/cvprw63382.2024.00750>) | Conference paper | OpenAlex |
-| 2024‑06‑16 | [Diffusion Models Without Attention](<https://doi.org/10.1109/cvpr52733.2024.00787>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Direct2\.5\: Diverse Text-to-3D Generation via Multi-view 2\.5D Diffusion](<https://doi.org/10.1109/cvpr52733.2024.00835>) | Conference paper | OpenAlex |
 | 2024‑06‑14 | [Time Sensitive Knowledge Editing through Efficient Finetuning](<https://machinelearning.apple.com/research/time-sensitive-finetuning>) | Publication | Official page |
 | 2024‑06‑14 | [Transformer-based Model for ASR N-Best Rescoring and Rewriting](<https://machinelearning.apple.com/research/asr-n-best-rescoring>) | Publication | Official page |
@@ -1016,6 +1015,7 @@
 | 2024‑01‑01 | [Dynamic Loss Function Tuning via Meta-Gradient Search](<https://doi.org/10.63282/3050-922x.ijeret-v5i2p103>) | Article | OpenAlex |
 | 2024‑01‑01 | [The Early Days of Prof\. Deog-Kyoon Jeong’s Lab\: Looking back at the 32-year journey with a visionary who reinvented display interfaces](<http://dx.doi.org/10.1109/mssc.2023.3334242>) | Article | OpenAlex |
 | 2024‑01‑01 | [Leader Selection and Follower Association for UE-Centric Distributed Learning in Future Wireless Networks](<https://doi.org/10.1109/access.2024.3482260>) | Article | OpenAlex |
+| 2024 | [Towards quantitative evaluation metrics for image editing approaches](<https://www.amazon.science/publications/towards-quantitative-evaluation-metrics-for-image-editing-approaches>) | Publication | OpenAlex, Official page |
 | 2024 | [Computational Methodologies for Understanding, Automating, and Evaluating User Interfaces](<https://research.google/pubs/computational-methodologies-for-understanding-automating-and-evaluating-user-interfaces/>) | Publication | Official page, OpenAlex |
 | 2024 | [In situ AI prototyping\: Infusing multimodal prompts into mobile settings with MobileMaker](<https://research.google/pubs/in-situ-ai-prototyping-infusing-multimodal-prompts-into-mobile-settings-with-mobilemaker/>) | Publication | OpenAlex, Official page |
 

@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `363`
+- Papers: `364`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#metafair)
 
@@ -23,6 +23,7 @@
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCS (Private Computation Solutions)](<https://github.com/facebookresearch/fbpcs/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E004159_DLOE_Report_2022-08-05_DLOE-Multi-Key-Private-ID.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCF (Private Computation Framework)](<https://github.com/facebookresearch/fbpcf/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E003028_DLOE_Report_2022-06-27_DLOE-ORAM.pdf>) | Technical report | Official repo |
+| n\.d\. | [MoCA\: Motion-Conditioned Image Animation for Video Editing](<https://github.com/facebookresearch/MoCA/blob/main/paper/MoCA.pdf>) | Technical report | Official repo |
 | n\.d\. | [Metaseq](<https://github.com/facebookresearch/metaseq/blob/main/projects/OPT-IML/optiml_paper_v1.pdf>) | Technical report | Official repo |
 | n\.d\. | [KernelBench-Verified\: Do LLM-Generated Kernels Actually Beat PyTorch?](<https://github.com/facebookresearch/kernel_bench_verified/blob/main/KernelBench_Verified_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [FaceMap](<https://github.com/facebookresearch/FaceMap/blob/main/paper/FaceMap__Distortion_Driven_Perceptual_Facial_Saliency_Maps.pdf>) | Technical report | Official repo |
@@ -164,7 +165,7 @@
 | 2025‑09‑18 | [Self-Improvement of Language Models by Post-Training on Multi-Agent Debate](<https://arxiv.org/abs/2509.15172>) | Paper | Verified affiliation |
 | 2025‑09‑15 | [CyberSOCEval\: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning](<https://ai.meta.com/research/publications/cybersoceval-benchmarking-llms-capabilities-for-malware-analysis-and-threat-intelligence-reasoning/>) | Publication | Official page |
 | 2025‑09‑08 | [Understanding Reinforcement Learning for Model Training, and future directions with GRAPE](<https://ai.meta.com/research/publications/understanding-reinforcement-learning-for-model-training-and-future-directions-with-grape/>) | Publication | Official page |
-| 2025‑09‑07 | [CP-Bench\: A PyTorch Test Suite to Detect AI Hardware Failure, Performance Degradation, and Silent Data Corruption](<https://doi.org/10.1109/itc58126.2025.00062>) | Article | OpenAlex |
+| 2025‑09‑07 | [From 2D to 3D\: How Discrete Dependencies Enable Cross-Dimensional Inference in Neural Networks in Defiance of Euclidean Geometry](<https://doi.org/10.1109/ism66958.2025.00062>) | Conference paper | OpenAlex |
 | 2025‑09‑06 | [RankGraph\: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation](<https://doi.org/10.1145/3705328.3748118>) | Article | OpenAlex |
 | 2025‑09‑06 | [Scaling Generative Recommendations with Context Parallelism on Hierarchical Sequential Transducers](<https://doi.org/10.1145/3705328.3748143>) | Article | OpenAlex |
 | 2025‑09‑02 | [Jointly Reinforcing Diversity and Quality in Language Model Generations](<https://ai.meta.com/research/publications/jointly-reinforcing-diversity-and-quality-in-language-model-generations/>) | Publication | Official page |

@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `602`
+- Papers: `607`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#nvidia)
 
@@ -28,9 +28,12 @@
 | 2026‑09‑22 | [PAKT\: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning](<https://arxiv.org/abs/2609.25630>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo](<https://arxiv.org/abs/2609.25451>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [Latent generative search unlocks de novo design of untapped biomolecular interactions at scale](<https://doi.org/10.64898/2026.09.12.751118>) | Preprint | OpenAlex |
+| 2026‑09‑18 | [PlaceReasoner-Beta\: Reasoning-Driven Macro Placement and Benchmarking](<https://arxiv.org/abs/2609.21263v1>) | Paper | Verified affiliation |
+| 2026‑09‑18 | [HAMMER\: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement](<https://arxiv.org/abs/2609.21171v2>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [A Scene Language Model for Open-Vocabulary Scene Mapping](<https://arxiv.org/abs/2609.21400v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Reinforcement learning for initializing genetic algorithms in vehicle routing](<https://doi.org/10.1038/s44488-026-00019-7>) | Article | OpenAlex |
 | 2026‑09‑17 | [Automatic segmentation and modeling of the aortic vessel tree\: Overview of the SEG\.A 2023 aorta segmentation challenge](<https://doi.org/10.1016/j.media.2026.104324>) | Article | OpenAlex |
+| 2026‑09‑17 | [OPTED\: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher](<https://arxiv.org/abs/2609.20756v1>) | Paper | Verified affiliation |
 | 2026‑09‑15 | [Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](<https://arxiv.org/abs/2609.16686>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Design and implementation of a novel high-efficiency ultrasonic 3D synthetic data generation framework](<https://doi.org/10.1038/s44384-026-00075-4>) | Article | OpenAlex |
 | 2026‑09‑14 | [VC-Attention\: Value Smoothing and Softmax Casting for Low-bit Attention](<https://arxiv.org/abs/2609.15810v1>) | Paper | Verified affiliation |
@@ -423,6 +426,7 @@
 | 2025‑02‑21 | [Die-to-prompt\: visual language model-based defect inspection and anomaly detection](<https://doi.org/10.1117/12.3052174>) | Article | OpenAlex |
 | 2025‑02‑13 | [Diffusion Model-Based Image Editing\: A Survey](<https://doi.org/10.1109/tpami.2025.3541625>) | Article | OpenAlex |
 | 2025‑02‑07 | [Koel-TTS\: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance](<https://arxiv.org/abs/2502.05236>) | Paper | OpenAlex, Verified affiliation |
+| 2025‑02‑07 | [QLIP\: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation](<https://arxiv.org/abs/2502.05178>) | Paper | Verified affiliation |
 | 2025‑02‑06 | [Factorized Implicit Global Convolution for Automotive Computational Fluid Dynamics Prediction](<https://arxiv.org/abs/2502.04317>) | Paper | Verified affiliation |
 | 2025‑02‑01 | [Intelligent seismic workflows\: The power of generative AI and language models](<https://doi.org/10.1190/tle44020142.1>) | Article | OpenAlex |
 | 2025‑02‑01 | [Introduction to this special section\: Generative and physics-informed AI](<https://doi.org/10.1190/tle44020078.1>) | Article | OpenAlex |
@@ -613,6 +617,7 @@
 | 2024‑03 | [GPU/ML-Enhanced Large Scale Global Routing Contest](<https://research.nvidia.com/publication/2024-03_gpuml-enhanced-large-scale-global-routing-contest>) | Publication | Official page |
 | 2024‑03 | [BoolGebra\: Attributed Graph-learning for Boolean Algebraic Manipulation](<https://research.nvidia.com/publication/2024-03_boolgebra-attributed-graph-learning-boolean-algebraic-manipulation>) | Publication | Official page |
 | 2024‑02‑26 | [Neural operators with localized integral and differential kernels](<https://research.nvidia.com/publication/2024-07_neural-operators-localized-integral-and-differential-kernels>) | Publication | Official page, Verified affiliation |
+| 2024‑02‑26 | [Nemotron-4 15B Technical Report](<https://arxiv.org/abs/2402.16819>) | Paper | Verified affiliation |
 | 2024‑02‑13 | [DoRA\: Weight-Decomposed Low-Rank Adaptation](<https://www.microsoft.com/en-us/research/publication/dora-weight-decomposed-low-rank-adaptation/>) | Publication | Official page |
 | 2024‑02‑02 | [Audio Flamingo\: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](<https://arxiv.org/abs/2402.01831>) | Paper | Verified affiliation |
 | 2024‑02 | [Consolidating Attention Features for Multi-view Image Editing](<https://research.nvidia.com/publication/2024-02_consolidating-attention-features-multi-view-image-editing>) | Publication | Official page |

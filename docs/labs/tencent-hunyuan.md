@@ -643,7 +643,7 @@
 | 2025‑09‑09 | [Parallel-R1\: Towards Parallel Thinking via Reinforcement Learning](<https://huggingface.co/papers/2509.07980>) | Technical report | Official page |
 | 2025‑09‑08 | [P3-SAM\: Native 3D Part Segmentation](<https://huggingface.co/papers/2509.06784>) | Technical report | Official page |
 | 2025‑09‑08 | [Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference](<https://arxiv.org/abs/2509.06942>) | Paper | Verified affiliation |
-| 2025‑09‑07 | [CP-Bench\: A PyTorch Test Suite to Detect AI Hardware Failure, Performance Degradation, and Silent Data Corruption](<https://doi.org/10.1109/itc58126.2025.00062>) | Article | OpenAlex |
+| 2025‑09‑07 | [From 2D to 3D\: How Discrete Dependencies Enable Cross-Dimensional Inference in Neural Networks in Defiance of Euclidean Geometry](<https://doi.org/10.1109/ism66958.2025.00062>) | Conference paper | OpenAlex |
 | 2025‑09‑05 | [Hunyuan-MT Technical Report](<https://huggingface.co/papers/2509.05209>) | Technical report | Official report |
 | 2025‑09‑04 | [PromptEnhancer\: A Simple Approach to Enhance Text-to-Image Models via Chain-of-Thought Prompt Rewriting](<https://arxiv.org/abs/2509.04545>) | Paper | Verified affiliation |
 | 2025‑09‑01 | [POINTS-Reader\: Distillation-Free Adaptation of Vision-Language Models for Document Conversion](<https://huggingface.co/papers/2509.01215>) | Technical report | Official page |
@@ -709,7 +709,6 @@
 | 2025‑06‑10 | [Insight-V\: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](<https://doi.org/10.1109/cvpr52734.2025.00847>) | Article | OpenAlex |
 | 2025‑06‑10 | [ATP-LLaVA\: Adaptive Token Pruning for Large Vision Language Models](<https://doi.org/10.1109/cvpr52734.2025.02325>) | Article | OpenAlex |
 | 2025‑06‑10 | [ReCapture\: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](<https://doi.org/10.1109/cvpr52734.2025.00197>) | Article | OpenAlex |
-| 2025‑06‑10 | [LSceneLLM\: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](<https://doi.org/10.1109/cvpr52734.2025.00356>) | Article | OpenAlex |
 | 2025‑06‑10 | [JarvisIR\: Elevating Autonomous Driving Perception with Intelligent Image Restoration](<https://doi.org/10.1109/cvpr52734.2025.02084>) | Article | OpenAlex |
 | 2025‑06‑10 | [VoCo-LLaMA\: Towards Vision Compression with Large Language Models](<https://doi.org/10.1109/cvpr52734.2025.02777>) | Article | OpenAlex |
 | 2025‑06‑10 | [Recognition-Synergistic Scene Text Editing](<https://doi.org/10.1109/cvpr52734.2025.01223>) | Article | OpenAlex |
@@ -834,6 +833,7 @@
 | 2025‑01‑01 | [DeepMIN\: Deep Multi-modal Interest Network with Cognitive Learning Modules](<https://doi.org/10.1007/978-981-97-5555-4_14>) | Book chapter | OpenAlex |
 | 2025‑01‑01 | [Conpet\: Efficiently Adapting Large Language Models for Continual Structured Knowledge Acquisition](<https://doi.org/10.2139/ssrn.5263765>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Concept-Edge Fusion\: Background Generation for Product Presentation Based on Text-to-Image Model](<https://doi.org/10.1007/978-981-96-5812-1_13>) | Book chapter | OpenAlex |
+| 2025 | [DreamBlend\: Advancing personalized fine-tuning of text-to-image diffusion models](<https://www.amazon.science/publications/dreamblend-advancing-personalized-fine-tuning-of-text-to-image-diffusion-models>) | Publication | OpenAlex, Official page |
 
 ## 2024
 
@@ -953,7 +953,6 @@
 | 2024‑05‑19 | [Calculating Color Differences of Images via Siamese Neural Network](<http://dx.doi.org/10.1109/iscas58744.2024.10558454>) | Article | OpenAlex |
 | 2024‑05‑17 | [Align vision-language semantics by multi-task learning for multi-modal summarization](<https://doi.org/10.1007/s00521-024-09908-3>) | Article | OpenAlex |
 | 2024‑05‑14 | [Hunyuan-DiT\: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding](<https://huggingface.co/papers/2405.08748>) | Technical report | Official report, Official repo |
-| 2024‑05‑13 | [Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation](<https://doi.org/10.1109/icde60146.2024.00118>) | Article | OpenAlex |
 | 2024‑05‑13 | [USP\: A Unified Sequence Parallelism Approach for Long Context Generative AI](<https://arxiv.org/abs/2405.07719>) | Paper | Verified affiliation |
 | 2024‑05‑09 | [Unraveling Complexity\: An Exploration Into Large-Scale Multimodal Signal Processing](<https://doi.org/10.1109/mis.2024.3398592>) | Article | OpenAlex |
 | 2024‑05‑08 | [GraphPro\: Graph Pre-training and Prompt Learning for Recommendation](<https://doi.org/10.1145/3589334.3645546>) | Article | OpenAlex |
@@ -1005,6 +1004,7 @@
 | 2024‑02‑14 | [Chinese Title Generation for Short Videos\: Dataset, Metric and Algorithm](<http://dx.doi.org/10.1109/tpami.2024.3365739>) | Article | OpenAlex |
 | 2024‑02‑05 | [Text2NeRF\: Text-Driven 3D Scene Generation With Neural Radiance Fields](<https://doi.org/10.1109/tvcg.2024.3361502>) | Article | OpenAlex |
 | 2024‑01‑23 | [Personalized Prompt for Sequential Recommendation](<https://doi.org/10.1109/tkde.2024.3357498>) | Article | OpenAlex |
+| 2024‑01‑03 | [Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation](<https://doi.org/10.1109/icde60146.2024.00118>) | Article | OpenAlex |
 | 2024‑01‑03 | [HD-Fusion\: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation](<https://doi.org/10.1109/wacv57701.2024.00317>) | Article | OpenAlex |
 | 2024‑01‑03 | [Disentangled Pre-training for Image Matting](<https://doi.org/10.1109/wacv57701.2024.00024>) | Article | OpenAlex |
 | 2024‑01‑01 | [Exploring Human-Like Translation Strategy with Large Language Models](<https://doi.org/10.1162/tacl_a_00642>) | Article | OpenAlex |

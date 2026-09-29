@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `715`
+- Papers: `717`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -90,8 +90,10 @@
 | 2026‑09‑01 | [MoUNets\: Static-Weighted Ensemble of UNet-Based Experts for Levator Hiatus Segmentation in Pelvic Floor Ultrasound](<https://doi.org/10.1016/j.ultrasmedbio.2026.08.018>) | Article | OpenAlex |
 | 2026‑09‑01 | [Exploring the System 1 Thinking Capability of Large Reasoning Models](<https://arxiv.org/abs/2504.10368>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [A Survey on 3D Skeleton Based Person Re-Identification\: Taxonomy, Advances, Challenges, and Interdisciplinary Prospects](<https://arxiv.org/abs/2401.15296>) | Conference paper | OpenAlex |
+| 2026‑09‑01 | [PCoMoE\: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition](<https://arxiv.org/abs/2609.01024v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [MemoryWalker\: Stop Training Agents on Contexts They Never Saw](<https://arxiv.org/abs/2609.00865v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [ARISE-RL\: Agentic Rubric-Grounded Iterative Self-Evolution with Reinforcement Learning](<https://arxiv.org/abs/2609.01058v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [PAC\: Progress-Augmented Advantage Curriculum for Multi-Task Reinforcement Learning of LLMs](<https://arxiv.org/abs/2608.30528v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [HF-SID\: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services](<https://arxiv.org/abs/2608.30479v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [DICS\: Exploring Data Intrinsic Consistency for Visual Instruction Selection](<https://arxiv.org/abs/2608.30209v3>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [CateKV\: On Sequential Consistency for Long-Context LLM Inference Acceleration](<https://arxiv.org/abs/2608.30295v1>) | Paper | Verified affiliation |
@@ -402,7 +404,6 @@
 | 2025‑11‑19 | [DyOrc\: Efficient Serving of Dynamic Machine Learning Workflows](<https://doi.org/10.1145/3772052.3772218>) | Article | OpenAlex |
 | 2025‑11‑19 | [Understanding Diffusion Model Serving in Production\: A Top-Down Analysis of Workload, Scheduling, and Resource Efficiency](<https://doi.org/10.1145/3772052.3772206>) | Article | OpenAlex |
 | 2025‑11‑17 | [SoMORE\: Social Context-Aware MLLM for Video Character Search](<https://doi.org/10.1007/978-981-95-3052-6_31>) | Book chapter | OpenAlex |
-| 2025‑11‑14 | [A Semantic-Aware Network Intelligence Framework for Anomaly Detection using Large Language Models](<https://doi.org/10.1109/trustcom66490.2025.00389>) | Article | OpenAlex |
 | 2025‑11‑08 | [Querier-Aware LLM\: Generating Personalized Responses to the Same Query from Different Queriers](<https://doi.org/10.1145/3746252.3761389>) | Article | OpenAlex |
 | 2025‑11‑08 | [MHSNet\: An MoE-based Hierarchical Semantic Representation Network for Accurate Duplicate Resume Detection with Large Language Model](<https://doi.org/10.1145/3746252.3761547>) | Article | OpenAlex |
 | 2025‑11‑08 | [Global-Distribution Aware Scenario-Specific Variational Representation Learning Framework](<http://arxiv.org/abs/2508.14493>) | Preprint | OpenAlex |
@@ -497,6 +498,7 @@
 | 2025‑06‑17 | [Revisiting Graph Analytics Benchmark](<https://doi.org/10.1145/3725345>) | Article | OpenAlex |
 | 2025‑06‑17 | [A &lt;scp&gt;ndromeda&lt;/scp&gt; \: Debugging Database Performance Issues with Retrieval-Augmented Large Language Models](<https://doi.org/10.1145/3722212.3725080>) | Article | OpenAlex |
 | 2025‑06‑17 | [DIGRA\: A Dynamic Graph Indexing for Approximate Nearest Neighbor Search with Range Filter](<https://doi.org/10.1145/3725399>) | Article | OpenAlex |
+| 2025‑06‑11 | [A Semantic-Aware Network Intelligence Framework for Anomaly Detection using Large Language Models](<https://doi.org/10.1109/trustcom66490.2025.00389>) | Article | OpenAlex |
 | 2025‑06‑10 | [LLMDet\: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models](<https://doi.org/10.1109/cvpr52734.2025.01396>) | Article | OpenAlex |
 | 2025‑06‑10 | [Forensics-Bench\: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models](<https://doi.org/10.1109/cvpr52734.2025.00400>) | Article | OpenAlex |
 | 2025‑06‑10 | [DocLayLLM\: An Efficient Multi-modal Extension of Large Language Models for Text-rich Document Understanding](<https://doi.org/10.1109/cvpr52734.2025.00382>) | Article | OpenAlex |
@@ -505,7 +507,6 @@
 | 2025‑06‑10 | [AniGS\: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction](<https://doi.org/10.1109/cvpr52734.2025.01970>) | Article | OpenAlex |
 | 2025‑06‑10 | [Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](<https://doi.org/10.1109/cvpr52734.2025.00883>) | Article | OpenAlex |
 | 2025‑06‑10 | [Decouple Distortion from Perception\: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression](<https://doi.org/10.1109/cvpr52734.2025.01682>) | Article | OpenAlex |
-| 2025‑06‑10 | [PointLoRA\: Low-Rank Adaptation with Token Selection for Point Cloud Learning](<https://doi.org/10.1109/cvpr52734.2025.00619>) | Article | OpenAlex |
 | 2025‑06‑10 | [Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models](<https://doi.org/10.1109/cvpr52734.2025.00801>) | Article | OpenAlex |
 | 2025‑06‑10 | [Advancing Myopia To Holism\: Fully Contrastive Language-Image Pre-training](<https://doi.org/10.1109/cvpr52734.2025.02773>) | Article | OpenAlex |
 | 2025‑06‑10 | [Incorporating Dense Knowledge Alignment into Unified Multimodal Representation Models](<https://doi.org/10.1109/cvpr52734.2025.02768>) | Article | OpenAlex |
@@ -561,6 +562,7 @@
 | 2025‑03‑06 | [QwQ-32B\: Embracing the Power of Reinforcement Learning](<https://qwenlm.github.io/blog/qwq-32b/>) | Technical report | Official page |
 | 2025‑03‑01 | [AICB\: A benchmark for evaluating the communication subsystem of LLM training clusters](<https://doi.org/10.1016/j.tbench.2025.100212>) | Article | OpenAlex |
 | 2025‑02‑28 | [Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection](<https://doi.org/10.1109/tcsvt.2025.3546766>) | Article | OpenAlex |
+| 2025‑02‑26 | [Information Extraction from Heterogeneous Documents Without Ground Truth Labels Using Synthetic Label Generation and Knowledge Distillation](<https://doi.org/10.1109/wacv61041.2025.00619>) | Conference paper | OpenAlex |
 | 2025‑02‑25 | [\.\.\. QwQ-Max-Preview](<https://qwenlm.github.io/blog/qwq-max-preview/>) | Technical report | Official page |
 | 2025‑02‑19 | [Qwen2\.5-VL Technical Report](<https://arxiv.org/abs/2502.13923>) | Paper | Verified affiliation |
 | 2025‑02‑18 | [LPM\: Efficient 3D Content Creation From Single Image by Large-Scale Partial 3D Modeling](<https://doi.org/10.1109/tcsvt.2025.3543384>) | Article | OpenAlex |
