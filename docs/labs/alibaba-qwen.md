@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `721`
-- Latest: `2026-09-25`
+- Papers: `715`
+- Latest: `2026-09-28`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑28 | [WorldAttention\: An Efficient Attention Architecture for Interactive Video World Models](<https://arxiv.org/abs/2609.34606v1>) | Paper | Verified affiliation |
+| 2026‑09‑26 | [QwenGyre\: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](<https://huggingface.co/papers/2609.33848>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑25 | [Towards Full Candidate Interaction\: A Comprehensive Comparison Network for Better Route Recommendation](<https://arxiv.org/abs/2508.08745>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [TSSR-Beta\: Enhancing Billion-Scale E-Commerce Semantic Retrieval via Representation-Level Interaction](<https://doi.org/10.1145/3773078.3831933>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [NextGen\: A Multi-Objective Generative Re-ranking Framework for Taobao Recommendation](<https://doi.org/10.1145/3773078.3831881>) | Conference paper | OpenAlex |
@@ -30,7 +32,7 @@
 | 2026‑09‑25 | [E-MRL\: Cross-View Aligned Evidence-Driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis](<https://arxiv.org/abs/2606.23888>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Covariance-Aware Newton-Schulz Orthogonalization for Noise-Robust Sequential Recommendation](<https://doi.org/10.1145/3773078.3831766>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [AtomiMed\: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation](<https://arxiv.org/abs/2606.31292>) | Conference paper | OpenAlex |
-| 2026‑09‑24 | [anitarau/SurgBenchKit\: Initial publication](<https://doi.org/10.5281/zenodo.22930099>) | Software | OpenAlex |
+| 2026‑09‑25 | [IndustryLLM\: Failure-Driven LLM Training for Industrial Procurement](<https://arxiv.org/abs/2609.31871v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [Qwen-Planner-Agent\: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](<https://huggingface.co/papers/2609.29892>) | Paper | Hugging Face |
 | 2026‑09‑24 | [The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics](<https://doi.org/10.1038/s41556-026-02067-8>) | Article | OpenAlex |
 | 2026‑09‑24 | [Semantic-Aware Organ-Level Esophageal Tumor Synthesis via Latent Rectified Flow](<https://doi.org/10.1007/978-3-032-38189-7_46>) | Conference paper | OpenAlex |
@@ -48,8 +50,7 @@
 | 2026‑09‑22 | [Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence](<https://doi.org/10.1038/s41591-026-04656-4>) | Article | OpenAlex |
 | 2026‑09‑22 | [COPE\: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation](<https://arxiv.org/abs/2609.26853>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Qwen3\.8-Omni\: Towards Native Omni-Modal Agents](<https://arxiv.org/abs/2609.25611v1>) | Paper | Verified affiliation |
-| 2026‑09‑21 | [ProactiveAudioBench\: Evaluating Condition-Driven Responses in Audio Streams](<https://doi.org/10.5281/zenodo.22871963>) | Preprint | OpenAlex |
-| 2026‑09‑20 | [LAMAR-Bench\: Evaluating Long-Form and Multi-Audio Understanding and Reasoning](<https://doi.org/10.5281/zenodo.22857938>) | Preprint | OpenAlex |
+| 2026‑09‑20 | [The Mediating Roles of Two Psychological Experience Pathways\: How Cross-Border Live Streaming Interactions Trigger Impulsive Purchases?—The Moderating Effect of AI Enablement](<https://doi.org/10.3390/bs16091693>) | Article | OpenAlex |
 | 2026‑09‑20 | [OmniEcho\: Audio-Visual Spatial Understanding for Omni-Modal Embodied Agents](<https://arxiv.org/abs/2609.23407v2>) | Paper | Verified affiliation |
 | 2026‑09‑20 | [Omni2Web\: Benchmarking Audiovisual Website Development](<https://arxiv.org/abs/2609.23417v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑18 | [CompAdapt\: Adaptable Composite Motion Modeling for Physics-Consistent Text-to-Video Generation](<https://arxiv.org/abs/2609.21455>) | Preprint | OpenAlex |
@@ -62,9 +63,7 @@
 | 2026‑09‑15 | [Turn-level Multiscale Density Ratio Estimation for LLM Agents](<https://arxiv.org/abs/2609.16760>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [LucaCell\: a sequence-centric foundation model for cross-species single-cell analysis](<https://doi.org/10.64898/2026.09.08.750024>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [AgentPProf\: Semantic Profiler for Long Horizon AI Agents](<https://arxiv.org/abs/2609.20301v1>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑09‑14 | [A multimodal dataset of computed spectra for organic molecules with a chemistry-constrained agent interface](<https://doi.org/10.5281/zenodo.22827178>) | Dataset | OpenAlex |
 | 2026‑09‑12 | [HarnessBandit\: Joint Learnability-Transferability Scheduling for Multi-Harness Agentic Reinforcement Learning](<https://arxiv.org/abs/2609.13739>) | Preprint | OpenAlex |
-| 2026‑09‑11 | [OrakulStudio/AI-Toolkit-Windows11\: v1\.0\.0 - Memory Module First Release](<https://doi.org/10.5281/zenodo.22700107>) | Software | OpenAlex |
 | 2026‑09‑11 | [SCOPE-OPSD\: Fisher-Conditioned Privileged Subspaces for On-Policy Self-Distillation](<https://arxiv.org/abs/2609.12579>) | Preprint | OpenAlex |
 | 2026‑09‑10 | [RecGPT\: A User Intent-Centric Next-Generation LLM-Powered Recommender System in Industrial Practice](<https://doi.org/10.1145/3846382>) | Article | OpenAlex |
 | 2026‑09‑10 | [Fusion-Enhanced Bidirectional Multimodal Entity Linking Model](<https://doi.org/10.1016/j.engappai.2026.116106>) | Article | OpenAlex |
@@ -101,7 +100,6 @@
 | 2026‑08‑30 | [On the Design of Qwen3\.8-Next Architecture\: Evaluation, Efficiency, and Training Stability](<https://huggingface.co/papers/2608.30320>) | Technical report | Official page, Hugging Face |
 | 2026‑08‑30 | [E-Commerce Bench\: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](<https://huggingface.co/papers/2608.30730>) | Technical report | Official page |
 | 2026‑08‑30 | [RegimeFormer\: A Large Protein Model of Global Perturbation Regimes](<https://arxiv.org/abs/2608.26586>) | Preprint | OpenAlex |
-| 2026‑08‑30 | [Brain-AVQA and the Platonic brain bridge\: data, model checkpoints and code](<https://doi.org/10.5281/zenodo.22209021>) | Dataset | OpenAlex |
 | 2026‑08‑29 | [Learning Simple Test-Time Environments for LLM Web Agents](<https://arxiv.org/abs/2608.29305v1>) | Paper | Verified affiliation |
 | 2026‑08‑29 | [ECHO\: Dyadic 3D Facial Motion Generation with Asymmetric Deterministic Articulation and Stochastic Reaction](<https://arxiv.org/abs/2609.05506v1>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [Building an Application Framework for Dynamic Smart City Governance\: A Case Study of a Four-Dimensional Spatial Intelligent Design](<https://doi.org/10.1007/978-3-032-28573-7_45>) | Conference paper | OpenAlex |
@@ -129,7 +127,6 @@
 | 2026‑08‑20 | [SOM-GAN\: A structure-preserving one-to-multiple generative adversarial network for unpaired medical image synthesis](<https://doi.org/10.1016/j.compmedimag.2026.102812>) | Article | OpenAlex |
 | 2026‑08‑19 | [Large-scale AI-guided liver malignancy diagnosis\: multicenter study and a single-arm trial](<https://doi.org/10.1038/s41591-026-04589-y>) | Article | OpenAlex |
 | 2026‑08‑19 | [DocClaw\: A Unified Agentic System for Intelligent Document Processing](<https://arxiv.org/abs/2608.18685v1>) | Paper | Verified affiliation |
-| 2026‑08‑18 | [MEMBRANE\: Homeostatic Relational Architecture – Phase 5\.6 Snapshot (State Vector and Anti-Instrumentalization Clauses)](<https://doi.org/10.5281/zenodo.21759967>) | Software | OpenAlex |
 | 2026‑08‑18 | [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](<https://arxiv.org/abs/2608.28649v1>) | Paper | Verified affiliation |
 | 2026‑08‑17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](<https://arxiv.org/abs/2601.21173>) | Data paper | OpenAlex |
 | 2026‑08‑17 | [Trans-Percept\: robust perceptive locomotion in the wild via spatiotemporal causal transformers](<https://doi.org/10.1038/s41598-026-62543-x>) | Article | OpenAlex |
@@ -142,7 +139,6 @@
 | 2026‑08‑13 | [Potential Applications of HBF in LLM Serving Systems](<https://arxiv.org/abs/2608.13127v2>) | Paper | Verified affiliation |
 | 2026‑08‑12 | [Ripple-Pivot Search\: Active Parallel Decoding for Diffusion Large Language Models](<https://arxiv.org/abs/2608.11742v1>) | Paper | Verified affiliation |
 | 2026‑08‑12 | [Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation](<https://arxiv.org/abs/2608.11732v1>) | Paper | Verified affiliation |
-| 2026‑08‑11 | [King-Rafat/Dynamic\_Streaming\_ASR\: Dynamic Block-Online Streaming ASR for Low-Resource Agglutinative Code-Switching Speech with Morphology-Aware Evaluation](<https://doi.org/10.5281/zenodo.21882286>) | Software | OpenAlex |
 | 2026‑08‑11 | [PReCCL\: Performant and Resilient Collective Communication via Integrated Inband Telemetry and Workload Reallocation](<https://doi.org/10.1145/3789240.3829133>) | Conference paper | OpenAlex |
 | 2026‑08‑11 | [Networked Agent Memory and Causality Representation\: Experiences towards Interpretable Cloud-Scale Root-Causing](<https://doi.org/10.1145/3789240.3829145>) | Conference paper | OpenAlex |
 | 2026‑08‑11 | [Evolution of AliYANG\: Model-driven and LLM-assisted Network Configuration Management](<https://doi.org/10.1145/3789240.3829193>) | Conference paper | OpenAlex |
@@ -438,8 +434,6 @@
 | 2025‑10‑16 | [Qwen3Guard Technical Report](<https://huggingface.co/papers/2510.14276>) | Technical report | Official page |
 | 2025‑10‑15 | [PlotCraft\: Pushing the Limits of LLMs for Complex and Interactive Data Visualization](<https://huggingface.co/papers/2511.00010>) | Technical report | Official page |
 | 2025‑10‑13 | [Next Interest Flow\: A Generative Pre-training Paradigm for Recommender Systems by Modeling All-domain Movelines](<https://arxiv.org/abs/2510.11317>) | Article | OpenAlex |
-| 2025‑10‑10 | [Multi-Value-Product Retrieval-Augmented Generation for Industrial Product Attribute Value Identification](<https://doi.org/10.48448/nb9h-t791>) | Other | OpenAlex |
-| 2025‑10‑10 | [GSID\: Generative Semantic Indexing for E-Commerce Product Understanding](<https://doi.org/10.48448/59sg-8a60>) | Other | OpenAlex |
 | 2025‑10‑05 | [On the Taxonomy, Tasks, and Open-Challenges for Multimodal Large Language Models](<https://doi.org/10.1109/smc58881.2025.11342688>) | Article | OpenAlex |
 | 2025‑09‑29 | [Scaling Generalist Data-Analytic Agents](<https://huggingface.co/papers/2509.25084>) | Technical report | Official page |
 | 2025‑09‑29 | [Socratic-Zero \: Bootstrapping Reasoning via Data-Free Agent Co-evolution](<https://huggingface.co/papers/2509.24726>) | Paper | Hugging Face |

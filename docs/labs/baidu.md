@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `341`
+- Papers: `313`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#baidu)
 
@@ -15,7 +15,6 @@
 | 2026‑09‑15 | [From Transient Prompts to Persistent Control\: Scientific Poster Generation via Recursive Semantic-Geometric Contracts](<https://arxiv.org/abs/2609.17326v1>) | Paper | Verified affiliation |
 | 2026‑09‑13 | [Tensos\: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers](<https://doi.org/10.1145/3832810.3832861>) | Conference paper | OpenAlex |
 | 2026‑09‑10 | [SWRouter\: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations](<https://arxiv.org/abs/2609.11414>) | Preprint | OpenAlex |
-| 2026‑09‑09 | [OCL-Detector\: Artifact for "One Click to Leak\: Characterizing the Real-World Usage and Threat Impact of MNO-based Single Sign-On Websites"](<https://doi.org/10.5281/zenodo.22669707>) | Software | OpenAlex |
 | 2026‑09‑08 | [DynaStyle\: Mitigating Content Leakage by Dynamic Layer Routing in Stylized Image Generation](<https://doi.org/10.1145/3842745>) | Article | OpenAlex |
 | 2026‑09‑06 | [Entity-Driven Knowledge Compression for Question Answering on Long Contexts](<https://doi.org/10.1007/978-3-032-37667-1_3>) | Conference paper | OpenAlex |
 | 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
@@ -35,7 +34,6 @@
 | 2026‑08‑27 | [DuMateBench\: Evaluating Autonomous Agents in Complex Real-World Workflows](<https://arxiv.org/abs/2608.26546v1>) | Paper | Verified affiliation |
 | 2026‑08‑20 | [OmegaUse-SOP\: SOP Engineering for Professional Computer Use from Human Demonstrations](<https://arxiv.org/abs/2609.02149v2>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑14 | [A recommendation method for dynamic employment scenarios based on LoRA fine-tuning and incremental learning](<https://doi.org/10.1117/12.3121525>) | Conference abstract | OpenAlex |
-| 2026‑08‑11 | [Understanding SLAM Systems through a Unified Design Space\: Taxonomy, Systemic Limits, and Emerging Directions](<https://doi.org/10.5281/zenodo.21891936>) | Preprint | OpenAlex |
 | 2026‑08‑10 | [Attention-constrained diffusion-prior super-resolution for scan-free terahertz focal-plane-array imaging](<https://doi.org/10.1364/oe.608298>) | Article | OpenAlex |
 | 2026‑08‑07 | [RELATE\: A Reinforcement-Learning-Enhanced LLM Framework for Advertising Text Generation](<https://doi.org/10.1145/3770855.3818469>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search](<https://arxiv.org/abs/2605.27066>) | Conference paper | OpenAlex |
@@ -121,9 +119,6 @@
 | 2026‑03‑14 | [Sortblock\: Similarity-Aware Feature Reuse for Diffusion Model](<https://doi.org/10.1609/aaai.v40i4.37276>) | Article | OpenAlex |
 | 2026‑03‑14 | [Beyond Passive Critical Thinking\: Fostering Proactive Questioning to Enhance Human-AI Collaboration](<https://doi.org/10.1609/aaai.v40i39.40621>) | Article | OpenAlex |
 | 2026‑03‑11 | [Qianfan-OCR\: A Unified End-to-End Model for Document Intelligence](<https://huggingface.co/papers/2603.13398>) | Technical report | Official page |
-| 2026‑03‑06 | [Adaptive Data Flywheel\: Applying MAPE Control Loops to AI Agent Improvement](<https://doi.org/10.48448/52z1-wf35>) | Other | OpenAlex |
-| 2026‑03‑06 | [SpARK\: An Embarrassingly Simple Sparse Watermarking in LLMs with Enhanced Text Quality](<https://doi.org/10.48448/fyt4-m230>) | Other | OpenAlex |
-| 2026‑03‑06 | [LM-Lexicon\: Improving Definition Modeling via Harmonizing Semantic Experts](<https://doi.org/10.48448/pqmm-j972>) | Other | OpenAlex |
 | 2026‑02‑27 | [Towards multi-language repository-level code generation\: From-scratch to guided tasks](<https://doi.org/10.1016/j.neucom.2026.133204>) | Article | OpenAlex |
 | 2026‑02‑23 | [Direct Retrieval-augmented Optimization\: Synergizing Knowledge Selection and Language Models](<https://doi.org/10.1145/3795527>) | Article | OpenAlex |
 | 2026‑02‑16 | [Towards Next-Generation Recommender Systems\: A Benchmark for Personalized Recommendation Assistant with LLMs](<http://arxiv.org/abs/2503.09382>) | Article | OpenAlex |
@@ -139,9 +134,6 @@
 | 2026‑01‑08 | [ERNIE-5\.0-Preview-1220 Becomes the Sole Chinese Model in LMArena Vision Top 10!](<https://ernie.baidu.com/blog/posts/ernie-5.0-preview-1220-release-on-lmarena/>) | Research post | Official page |
 | 2026‑01‑08 | [A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models](<http://arxiv.org/abs/2601.04696>) | Article | OpenAlex |
 | 2026‑01‑08 | [VideoAuto-R1\: Video Auto Reasoning via Thinking Once, Answering Twice](<https://huggingface.co/papers/2601.05175>) | Paper | Hugging Face |
-| 2026‑01‑07 | [Thinking Forward and Backward\: Multi-Objective Reinforcement Learning for Retrieval-Augmented Reasoning](<https://doi.org/10.48448/e77r-p351>) | Other | OpenAlex |
-| 2026‑01‑07 | [Pre-DPO\: Improving Data Utilization in Direct Preference Optimization Using a Guiding Reference Model](<https://doi.org/10.48448/vdev-dr35>) | Other | OpenAlex |
-| 2026‑01‑07 | [Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models](<https://doi.org/10.48448/9mgh-r642>) | Other | OpenAlex |
 | 2026‑01‑05 | [VDSAgents\: A PCS‐Guided Multi‐Agent System for Veridical Data Science Automation](<https://doi.org/10.1002/sta4.70126>) | Article | OpenAlex |
 | 2026‑01‑01 | [From Image to Pixels\: towards Fine-Grained Medical Vision-Language Models](<https://doi.org/10.1109/tpami.2026.3682684>) | Article | OpenAlex |
 | 2026‑01‑01 | [MTLM\: Incorporating Bidirectional Text Information to Enhance Language Model Training in Speech Recognition Systems](<https://doi.org/10.1007/978-3-032-13048-8_11>) | Book chapter | OpenAlex |
@@ -190,25 +182,6 @@
 | 2025‑10‑19 | [MMAT-1M\: A Large Reasoning Dataset for Multimodal Agent Tuning](<https://doi.org/10.1109/iccv51701.2025.00146>) | Article | OpenAlex |
 | 2025‑10‑19 | [GestureHYDRA\: Semantic Co-Speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](<https://doi.org/10.1109/iccv51701.2025.01172>) | Article | OpenAlex |
 | 2025‑10‑19 | [LIRA\: Reasoning Reconstruction via Multimodal Large Language Models](<https://doi.org/10.1109/iccv51701.2025.00172>) | Article | OpenAlex |
-| 2025‑10‑10 | [Igniting Creative Writing in Small Language Models\: LLM-as-a-Judge versus Multi-Agent Refined Rewards](<https://doi.org/10.48448/whbw-5y07>) | Other | OpenAlex |
-| 2025‑10‑10 | [TP-RAG\: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning](<https://doi.org/10.48448/7j32-p549>) | Other | OpenAlex |
-| 2025‑10‑10 | [CoRanking\: Collaborative Ranking with Small and Large Ranking Agents](<https://doi.org/10.48448/8rsb-a165>) | Other | OpenAlex |
-| 2025‑10‑10 | [Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation](<https://doi.org/10.48448/aqag-yk90>) | Other | OpenAlex |
-| 2025‑10‑10 | [RACQC\: Advanced Retrieval-Augmented Generation for Chinese Query Correction](<https://doi.org/10.48448/2kr6-dn42>) | Other | OpenAlex |
-| 2025‑10‑10 | [Language Model Based Text-to-Audio Generation\: Anti-Causally Aligned Collaborative Residual Transformers](<https://doi.org/10.48448/2qaz-cg28>) | Other | OpenAlex |
-| 2025‑10‑10 | [Answering Narrative-Driven Recommendation Queries via a Retrieve–Rank Paradigm and the OCG-Agent](<https://doi.org/10.48448/5cdv-nb11>) | Other | OpenAlex |
-| 2025‑10‑10 | [Understanding Subword Compositionality of Large Language Models](<https://doi.org/10.48448/eat4-p974>) | Other | OpenAlex |
-| 2025‑10‑10 | [Social Bias in Multilingual Language Models\: A Survey](<https://doi.org/10.48448/k6ax-dp64>) | Other | OpenAlex |
-| 2025‑10‑10 | [Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization](<https://doi.org/10.48448/1v4t-3s12>) | Other | OpenAlex |
-| 2025‑10‑10 | [Med-VRAgent\: A Framework for Medical Visual Reasoning-Enhanced Agents](<https://doi.org/10.48448/cyqj-d006>) | Other | OpenAlex |
-| 2025‑10‑10 | [Debiasing Multilingual LLMs in Cross-lingual Latent Space](<https://doi.org/10.48448/0n6h-d019>) | Other | OpenAlex |
-| 2025‑10‑10 | [DRBO\: Mitigating the Bottleneck Effect via Dynamic Reward Balancing in Multi-reward LLM Optimization](<https://doi.org/10.48448/hy3p-db21>) | Other | OpenAlex |
-| 2025‑10‑10 | [CTR-Guided Generative Query Suggestion in Conversational Search](<https://doi.org/10.48448/ze89-m287>) | Other | OpenAlex |
-| 2025‑10‑10 | [VIVA+\: Human-Centered Situational Decision-Making](<https://doi.org/10.48448/ac0n-ts80>) | Other | OpenAlex |
-| 2025‑10‑10 | [Reasoning-to-Defend\: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking](<https://doi.org/10.48448/svyq-mp35>) | Other | OpenAlex |
-| 2025‑10‑10 | [OpenRLHF\: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework](<https://doi.org/10.48448/p3yd-bv08>) | Other | OpenAlex |
-| 2025‑10‑10 | [CodeMixBench\: Evaluating Code-Mixing Capabilities of LLMs Across 18 Languages](<https://doi.org/10.48448/ar8t-kr64>) | Other | OpenAlex |
-| 2025‑10‑10 | [AlignX\: Advancing Multilingual Large Language Models with Multilingual Representation Alignment](<https://doi.org/10.48448/6ms1-w020>) | Other | OpenAlex |
 | 2025‑10‑01 | [Pre-trained molecular language models with random functional group masking](<https://doi.org/10.1038/s44387-025-00029-3>) | Article | OpenAlex |
 | 2025‑10‑01 | [Guiding Evolution of Artificial Life Using Vision-Language Models](<https://doi.org/10.1162/isal.a.850>) | Article | OpenAlex |
 | 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://arxiv.org/abs/2509.24945>) | Paper | Hugging Face, Verified affiliation |
@@ -226,7 +199,6 @@
 | 2025‑08‑03 | [Multi-Agent Proactive Information Seeking with Adaptive LLM Orchestration for Non-Factoid Question Answering](<https://doi.org/10.1145/3711896.3737249>) | Article | OpenAlex |
 | 2025‑08‑03 | [RankExpert\: A Mixture of Textual-and-Behavioral Experts for Multi-Objective Learning-to-Rank in Web Search](<https://doi.org/10.1145/3711896.3737258>) | Article | OpenAlex |
 | 2025‑08‑01 | [Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning](<https://doi.org/10.1109/tpami.2025.3594749>) | Article | OpenAlex |
-| 2025‑07‑24 | [Corrigendum to “MA-FSAR\: Multimodal Adaptation of CLIP for few-shot action recognition” \[Pattern Recognition 169 (2026) 111902\]](<https://doi.org/10.1016/j.patcog.2025.112160>) | Erratum | OpenAlex |
 | 2025‑07‑21 | [UniVoxel\: A Novel Framework for 3-D Object Detection in Autonomous Vehicles With Multimodal Voxel Representation](<https://doi.org/10.1109/jsen.2025.3589494>) | Article | OpenAlex |
 | 2025‑07‑18 | [Agent4Ranking\: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-Agent LLMs](<https://doi.org/10.1145/3749099>) | Article | OpenAlex |
 | 2025‑07‑13 | [Unveiling Knowledge Utilization Mechanisms in LLM-based Retrieval-Augmented Generation](<https://doi.org/10.1145/3726302.3730112>) | Article | OpenAlex |

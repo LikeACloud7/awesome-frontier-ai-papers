@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `611`
+- Papers: `603`
 - Latest: `2026-09-25`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -17,7 +17,6 @@
 |---|---|---|---|
 | 2026‑09‑25 | [Zero-Observation User Reactivation with Gap-Driven Dimensional Gating](<https://arxiv.org/abs/2607.19802>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [PriCoRec\: A Privacy-Aware Cloud–Device Collaborative Framework for Ad Recommendation under Feature Constraints](<https://arxiv.org/abs/2608.14429>) | Conference paper | OpenAlex |
-| 2026‑09‑25 | [AMAI\: Algebraic Modelling of AI](<https://doi.org/10.5281/zenodo.22895945>) | Software | OpenAlex |
 | 2026‑09‑24 | [Lattice Distortion‐Triggered Cu─O─Ce Synergistic Sites Coupled With Machine Learning for Intelligent Multi‐Pesticide Recognition](<https://doi.org/10.1002/adfm.78690>) | Article | OpenAlex |
 | 2026‑09‑24 | [Tag-Aware Structured Text Translation\: Towards a Systematic Understanding](<https://arxiv.org/abs/2609.29131v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [TFB-2\: benchmarking and automated ensemble for time series forecasting](<https://doi.org/10.1007/s00778-026-01007-0>) | Article | OpenAlex |
@@ -35,10 +34,8 @@
 | 2026‑09‑15 | [Scalable and Adaptive Log-based Anomaly Detection\: A Synergistic Approach](<https://doi.org/10.1145/3846182>) | Article | OpenAlex |
 | 2026‑09‑15 | [Nested Parallel von Neumann Architecture and Nested BSP](<https://arxiv.org/abs/2609.16787v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Top-Theta Attention\: Sparsifying Transformers by Compensated Thresholding](<https://arxiv.org/abs/2502.08363>) | Conference paper | OpenAlex |
-| 2026‑09‑14 | [Learning Predictive Memory\: Adaptation and Length Extrapolation in Time-Series Transformers](<https://doi.org/10.5281/zenodo.22757505>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [AlgoEvo\: Self-Evolving Agentic Search for Automated Algorithm Discovery](<https://arxiv.org/abs/2609.15820v1>) | Paper | Verified affiliation |
 | 2026‑09‑13 | [Diffusion-Prior Synthetic RAW Data with ISO Assignment for Low-Light Image Denoising](<https://doi.org/10.1007/978-3-032-38401-0_29>) | Conference paper | OpenAlex |
-| 2026‑09‑12 | [Inter-agent conflict classification worksheet — supplementary material for "Agent Conflict and Coordination in Network Management\: Sources, Mechanisms, and Open Problems" (CNSM 2026)](<https://doi.org/10.5281/zenodo.22725686>) | Dataset | OpenAlex |
 | 2026‑09‑12 | [Tabby\: An Open Pretraining Recipe for Time Series Foundation Models](<https://arxiv.org/abs/2609.13956v1>) | Paper | Verified affiliation |
 | 2026‑09‑11 | [QN-MHPV2\: A Physiologically Grounded Cognitive Model of Takeover Time in Conditionally Automated Driving](<https://doi.org/10.1080/10447318.2026.2728522>) | Article | OpenAlex |
 | 2026‑09‑11 | [Feedback-Enhanced Closed-loop Decision Making for Autonomous Driving with Large Language Models](<https://doi.org/10.1007/s10846-026-02445-2>) | Article | OpenAlex |
@@ -60,11 +57,11 @@
 | 2026‑09‑05 | [PASTEL\: Panoramic Alignment for Monocular 4D Scene Reconstruction](<https://arxiv.org/abs/2609.06099v1>) | Paper | Verified affiliation |
 | 2026‑09‑04 | [Inventory-Grounded Policy-Level Optimization for Training-Free AI Search](<https://arxiv.org/abs/2609.04813v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment](<https://arxiv.org/abs/2609.03906v1>) | Paper | Verified affiliation |
-| 2026‑09‑02 | [lifs-tools/lipidspace\: Release 1\.2\.2](<https://doi.org/10.5281/zenodo.22249057>) | Software | OpenAlex |
 | 2026‑09‑02 | [Deeply Interleaved Text-Image Contexts for Multimodal LLMs Assessment](<https://arxiv.org/abs/2609.02573v2>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment](<https://arxiv.org/abs/2511.10670>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Support-guided multi-view feature fusion for transductive few-shot learning](<https://doi.org/10.1016/j.knosys.2026.116888>) | Article | OpenAlex |
 | 2026‑09‑01 | [Structured entropy quantification for uncertainty-aware graph learning](<https://doi.org/10.1016/j.patcog.2026.114794>) | Article | OpenAlex |
+| 2026‑09‑01 | [Representation-Aware Modularity\: Efficient Cross-Task Generalization for LLMs](<https://doi.org/10.24963/ijcai.2026/638>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Mitigating Tool Overuse for LLMs via Active Knowledge Boundary Probing](<https://doi.org/10.24963/ijcai.2026/670>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [HarnessEvolve\: Learning from Reference Trajectories for Reliable Agent Self-Evolution](<https://arxiv.org/abs/2609.00829v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [An Emerging NVM-Based On-Chip Training Architecture with Non-Ideality Mitigation Through Bipolar Weight Distributions](<https://arxiv.org/abs/2609.01948v1>) | Paper | Verified affiliation |
@@ -101,7 +98,6 @@
 | 2026‑08‑13 | [Diagnosing JEPA World Models with Action-Conditioned Predictive Consistency](<https://arxiv.org/abs/2608.12939v1>) | Paper | Verified affiliation |
 | 2026‑08‑12 | [RealisticTritonBench\: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks](<https://arxiv.org/abs/2608.12004v1>) | Paper | Verified affiliation |
 | 2026‑08‑12 | [Learning from Unreachable Rewards\: Hint-Conditioned Reinforcement Learning for Generative Recommendation](<https://arxiv.org/abs/2608.11980v2>) | Paper | Verified affiliation |
-| 2026‑08‑11 | [librosa](<https://doi.org/10.5281/zenodo.21891531>) | Software | OpenAlex |
 | 2026‑08‑11 | [UBEP\: Re-architecting Expert Parallelism Communication Library for Production Superpods](<https://arxiv.org/abs/2607.06202>) | Conference paper | OpenAlex |
 | 2026‑08‑11 | [Sloshing suppression with a controlled elastic baffle via deep reinforcement learning and SPH simulation](<https://doi.org/10.1016/j.apor.2026.105203>) | Article | OpenAlex |
 | 2026‑08‑11 | [POSTER\: Beyond Probabilistic Data Structures for AI/ML Workload Monitoring](<https://doi.org/10.1145/3789240.3830277>) | Conference paper | OpenAlex |
@@ -251,7 +247,6 @@
 | 2026‑01‑12 | [Beyond Entangled Planning\: Task-Decoupled Planning for Long-Horizon Agents](<https://huggingface.co/papers/2601.07577>) | Paper | Hugging Face |
 | 2026‑01‑08 | [Learning from Mistakes\: Negative Reasoning Samples Enhance Out-of-Domain Generalization](<https://huggingface.co/papers/2601.04992>) | Paper | Hugging Face |
 | 2026‑01‑07 | [HiViTrack\: Hierarchical vision transformer with efficient target-prompt update for visual object tracking](<https://doi.org/10.1016/j.patcog.2025.112992>) | Article | OpenAlex |
-| 2026‑01‑07 | [VP-Bench\: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models](<https://doi.org/10.48448/wpfz-ht59>) | Other | OpenAlex |
 | 2026‑01‑01 | [Scaling Up, Speeding Up\: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling](<https://www.noahlab.com.hk/en/scientific_research/scaling-up-speeding-up-a-benchmark-of-speculative-decoding-for-efficient-llm-test-time-scaling>) | Publication | Official page |
 | 2026‑01‑01 | [PASER \: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery](<https://www.noahlab.com.hk/en/scientific_research/paser-post-training-data-selection-for-efficient-pruned-large-language-model-recovery>) | Publication | Official page |
 | 2026‑01‑01 | [MOSS\: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling](<https://www.noahlab.com.hk/en/scientific_research/moss-efficient-and-accurate-fp8-llm-training-with-microscaling-and-automatic-scaling>) | Publication | Official page |
@@ -335,9 +330,6 @@
 | 2025‑10‑17 | [Latent Reasoning in LLMs as a Vocabulary-Space Superposition](<https://huggingface.co/papers/2510.15522>) | Paper | Hugging Face |
 | 2025‑10‑13 | [ChipGPT\: How far are we from natural language hardware design](<https://huggingface.co/papers/2305.14019>) | Paper | Hugging Face |
 | 2025‑10‑13 | [GeoVLMath\: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation](<https://huggingface.co/papers/2510.11020>) | Paper | Hugging Face |
-| 2025‑10‑10 | [KG-RAG\: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation](<https://doi.org/10.48448/z7gd-g387>) | Other | OpenAlex |
-| 2025‑10‑10 | [M-Ped\: Multi-Prompt Ensemble Decoding for Large Language Models](<https://doi.org/10.48448/zex8-0p42>) | Other | OpenAlex |
-| 2025‑10‑10 | [AesBiasBench\: Evaluating Bias and Alignment in Multimodal Language Models for Personalized Image Aesthetic Assessment](<https://doi.org/10.48448/v8xt-qe70>) | Other | OpenAlex |
 | 2025‑10‑10 | [LogEval\: A comprehensive benchmark suite for LLMs in log analysis](<https://doi.org/10.1007/s10664-025-10701-6>) | Article | OpenAlex |
 | 2025‑10‑09 | [PReMM\: LLM-Based Program Repair for Multi-method Bugs via Divide and Conquer](<https://doi.org/10.1145/3763097>) | Article | OpenAlex |
 | 2025‑10‑09 | [CG-Bench\: Can Language Models Assist Call Graph Construction in the Real World?](<https://doi.org/10.1145/3759425.3763379>) | Article | OpenAlex |

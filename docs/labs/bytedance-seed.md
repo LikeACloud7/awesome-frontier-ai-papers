@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `266`
-- Latest: `2026-09-25`
+- Papers: `265`
+- Latest: `2026-09-28`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,16 +16,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑09‑25 | [Supplementary Code for 'Spin-Adapted Neural Network Wavefunctions in Real Space'](<https://doi.org/10.24433/co.2856484.v1>) | Supplementary materials | OpenAlex |
+| 2026‑09‑28 | [From Noisy Telemetry to Actionable Warnings\: GPU Failure Prediction in Industrial Clusters](<https://arxiv.org/abs/2609.34473v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [SequenceO1\: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching](<https://arxiv.org/abs/2609.08443>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [FLUID\: From Ephemeral IDs to Multimodal Semantic Codes for Billion-Scale Livestreaming Recommendation](<https://doi.org/10.1145/3773078.3831918>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding](<https://arxiv.org/abs/2607.28659>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [A Self-Triggered Agentic Push Recommendation System](<https://arxiv.org/abs/2608.01949>) | Conference paper | OpenAlex |
-| 2026‑09‑24 | [anitarau/SurgBenchKit\: Initial publication](<https://doi.org/10.5281/zenodo.22930099>) | Software | OpenAlex |
 | 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
-| 2026‑09‑02 | [AnewDPSA\: Solvent-Conditioned Ensemble Representations for Regime-Aware Cyclic Peptide Permeability Prediction](<https://doi.org/10.5281/zenodo.22249743>) | Dataset | OpenAlex |
 | 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [OpenVid++\: A Large-scale High-quality Dataset for Text-to-video Generation](<https://doi.org/10.1007/s11263-026-02989-8>) | Article | OpenAlex |
 | 2026‑09‑01 | [Multiobjective Fluorescent Molecule Design with a Data-Physics Dual-Driven Generative Framework](<https://doi.org/10.1021/jacsau.6c00832>) | Article | OpenAlex |
@@ -157,7 +156,6 @@
 | 2025‑07‑18 | [Seed-X\: Building Strong Multilingual Translation LLM with 7B Parameters](<https://arxiv.org/abs/2507.13618>) | Paper | Verified affiliation |
 | 2025‑07‑10 | [Understanding Chain-of-Thought in LLMs through Information Theory](<https://seed.bytedance.com/en/research/understanding-chain-of-thought-in-llms-through-information-theory>) | Publication | Official page |
 | 2025‑07‑04 | [Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting](<https://seed.bytedance.com/en/research/dexterous-teleoperation-of-20-dof-bytedexter-hand-via-human-motion-retargeting>) | Publication | Official page |
-| 2025‑06‑23 | [Vision as a Dialect\: Unifying Visual Understanding and Generation via Text-Aligned Representations](<https://arxiv.org/abs/2506.18898>) | Paper | Verified affiliation |
 | 2025‑06‑16 | [Robust Multi-bit Text Watermark with LLM-based Paraphrasers](<https://seed.bytedance.com/en/research/robust-multi-bit-text-watermark-with-llm-based-paraphrasers>) | Publication | Official page |
 | 2025‑06‑12 | [SwiftSpec\: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding](<https://seed.bytedance.com/en/research/swiftspec-ultra-low-latency-llm-decoding-by-scaling-asynchronous-speculative-decoding>) | Publication | Official page |
 | 2025‑06‑12 | [PAG\: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier](<https://seed.bytedance.com/en/research/pag-multi-turn-reinforced-llm-self-correction-with-policy-as-generative-verifier>) | Publication | Official page |
@@ -208,14 +206,12 @@
 | 2025‑03‑17 | [FlexWorld\: Progressively Expanding 3D Scenes for Flexiable-View Synthesis](<https://seed.bytedance.com/en/research/flexworld-progressively-expanding-3d-scenes-for-flexiable-view-synthesis>) | Publication | Official page |
 | 2025‑03‑14 | [ClassDiffusion\: More Aligned Personalization Tuning with Explicit Class Guidance](<https://seed.bytedance.com/en/research/classdiffusion-more-aligned-personalization-tuning-with-explicit-class-guidance>) | Publication | Official page |
 | 2025‑03‑14 | [Deep Learning Sheds Light on Integer and Fractional Topological Insulators](<https://seed.bytedance.com/en/research/deep-learning-sheds-light-on-integer-and-fractional-topological-insulators>) | Publication | Official page |
-| 2025‑03‑13 | [UVE\: Are MLLMs Unified Evaluators for AI-Generated Videos?](<https://huggingface.co/papers/2503.09949>) | Paper | Hugging Face |
 | 2025‑03‑10 | [Seedream 2\.0\: A Native Chinese-English Bilingual Image Generation Foundation Model](<https://seed.bytedance.com/en/research/seedream-2-0-a-native-chinese-english-bilingual-image-generation-foundation-model>) | Publication | Official page |
 | 2025‑03‑04 | [LLaVA-Critic\: Learning to Evaluate Multimodal Models](<https://seed.bytedance.com/en/research/llava-critic-learning-to-evaluate-multimodal-models>) | Publication | Official page |
 | 2025‑03‑03 | [The Rise and Down of Babel Tower\: Investigating the Evolution Process of Multilingual Code Large Language Model](<https://seed.bytedance.com/en/research/the-rise-and-down-of-babel-tower-investigating-the-evolution-process-of-multilingual-code-large-language-model>) | Publication | Official page |
 | 2025‑03‑01 | [TC-MoE\: Augmenting Mixture of Experts with Ternary Expert Choice](<https://seed.bytedance.com/en/research/tc-moe-augmenting-mixture-of-experts-with-ternary-expert-choice>) | Publication | Official page |
 | 2025‑02‑28 | [FlexPrefill\: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference](<https://seed.bytedance.com/en/research/flexprefill-a-context-aware-sparse-attention-mechanism-for-efficient-long-sequence-inference>) | Publication | Official page |
 | 2025‑02‑27 | [Comet\: Fine-grained Computation-communication Overlapping for Mixture-of-Experts](<https://seed.bytedance.com/en/research/comet-fine-grained-computation-communication-overlapping-for-mixture-of-experts>) | Publication | Official page |
-| 2025‑02‑27 | [SuperGPQA\: Scaling LLM Evaluation across 285 Graduate Disciplines](<https://seed.bytedance.com/en/research/supergpqa-scaling-llm-evaluation-across-285-graduate-disciplines>) | Publication | Official page |
 | 2025‑02‑26 | [Towards Semantic Equivalence of Tokenization in Multimodal LLM](<https://seed.bytedance.com/en/research/towards-semantic-equivalence-of-tokenization-in-multimodal-llm>) | Publication | Official page |
 | 2025‑02‑25 | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](<https://seed.bytedance.com/en/research/improving-zero-shot-adversarial-robustness-in-vision-language-models-by-closed-form-alignment-of-adversarial-path-simplices>) | Publication | Official page |
 | 2025‑02‑25 | [You Only Sample Once\: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs](<https://seed.bytedance.com/en/research/you-only-sample-once-taming-one-step-text-to-image-synthesis-by-self-cooperative-diffusion-gans>) | Publication | Official page |
@@ -235,6 +231,9 @@
 | 2025‑01‑14 | [Diffusion Adversarial Post-Training for One-Step Video Generation](<https://seed.bytedance.com/en/research/diffusion-adversarial-post-training-for-one-step-video-generation>) | Publication | Official page |
 | 2025‑01‑01 | [DAPO\: An Open-Source LLM Reinforcement Learning System at Scale](<https://seed.bytedance.com/en/research/dapo-an-open-source-llm-reinforcement-learning-system-at-scale>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Model Merging in Pre-training of Large Language Models](<https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [SuperGPQA\: Scaling LLM Evaluation across 285 Graduate Disciplines](<https://seed.bytedance.com/en/research/supergpqa-scaling-llm-evaluation-across-285-graduate-disciplines>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Vision as a Dialect\: Unifying Visual Understanding and Generation via Text-Aligned Representations](<https://arxiv.org/abs/2506.18898>) | Paper | Verified affiliation, OpenAlex |
+| 2025‑01‑01 | [UVE\: Are MLLMs Unified Evaluators for AI-Generated Videos?](<https://huggingface.co/papers/2503.09949>) | Paper | Hugging Face, OpenAlex |
 
 ## 2024
 

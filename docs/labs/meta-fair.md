@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `364`
+- Papers: `363`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#metafair)
 
@@ -149,7 +149,6 @@
 | 2025‑10‑18 | [Controlling Multimodal LLMs via Reward-guided Decoding](<https://ai.meta.com/research/publications/controlling-multimodal-llms-via-reward-guided-decoding/>) | Publication | Official page |
 | 2025‑10‑14 | [Federated Adaptation of Language Models for On-Device Speech Recognition using Confidence-Aware Training](<https://doi.org/10.1109/flta67013.2025.11336736>) | Article | OpenAlex |
 | 2025‑10‑13 | [SPG\: Sandwiched Policy Gradient for Masked Diffusion Language Models](<https://ai.meta.com/research/publications/spg-sandwiched-policy-gradient-for-masked-diffusion-language-models/>) | Publication | Official page |
-| 2025‑10‑10 | [Mind the Inclusivity Gap\: Multilingual Gender-Neutral Translation Evaluation with mGeNTE](<https://doi.org/10.48448/tvfs-y244>) | Other | OpenAlex |
 | 2025‑10‑03 | [OneFlow\: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows](<https://huggingface.co/papers/2510.03506>) | Paper | Hugging Face |
 | 2025‑09‑30 | [TruthRL\: Incentivizing Truthful LLMs via Reinforcement Learning](<https://huggingface.co/papers/2509.25760>) | Paper | Hugging Face |
 | 2025‑09‑30 | [CWM\: An Open-Weights LLM for Research on Code Generation with World Models](<https://huggingface.co/papers/2510.02387>) | Paper | Hugging Face |

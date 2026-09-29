@@ -17,6 +17,7 @@
 |---|---|---|---|
 | 2026‑09‑17 | [Automated Evaluation Methods for Open-Ended Question in Hydropower Domain Based on Large Language Models](<https://doi.org/10.1007/978-3-032-32237-1_22>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation |
+| 2026‑09‑06 | [Grounding large language models in hydrologic modelling](<https://doi.org/10.1016/j.jhydrol.2026.136358>) | Article | OpenAlex |
 | 2026‑07‑07 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](<https://huggingface.co/papers/2607.07508>) | Preprint | Official page |
 | 2026‑06‑08 | [SCAIL-2\: Unifying Controlled Character Animation with End-to-end In-Context Conditioning](<https://huggingface.co/papers/2606.10804>) | Technical report | Official page |
 | 2026‑05 | [LongTraceRL\: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](<https://huggingface.co/papers/2605.31584>) | Technical report | Official page |
@@ -45,7 +46,6 @@
 | 2025‑08‑08 | [GLM-4\.5\: Agentic, Reasoning, and Coding (ARC) Foundation Models](<https://huggingface.co/papers/2508.06471>) | Paper | Hugging Face |
 | 2025‑08‑03 | [&lt;scp&gt;AtomR\:&lt;/scp&gt; Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](<https://doi.org/10.1145/3711896.3736849>) | Article | OpenAlex |
 | 2025‑07‑01 | [GLM-4\.5V and GLM-4\.1V-Thinking\: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](<https://arxiv.org/abs/2507.01006>) | Paper | Verified affiliation |
-| 2025‑06‑18 | [CoRe\: Cognitive Reasoning Framework for Zero-Shot Table Understanding and Reasoning](<https://doi.org/10.48448/xy3g-n136>) | Other | OpenAlex |
 | 2025‑06‑10 | [ICT\: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models](<https://doi.org/10.1109/cvpr52734.2025.00398>) | Article | OpenAlex |
 | 2025‑06‑09 | [SWE-Dev\: Building Software Engineering Agents with Training and Inference Scaling](<https://arxiv.org/abs/2506.07636>) | Paper | Verified affiliation |
 | 2025‑06‑01 | [A review on synergizing knowledge graphs and large language models](<https://doi.org/10.1007/s00607-025-01499-8>) | Review | OpenAlex |

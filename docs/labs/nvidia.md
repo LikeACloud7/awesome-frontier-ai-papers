@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `670`
-- Latest: `2026-09-26`
+- Papers: `602`
+- Latest: `2026-09-25`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,38 +16,21 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑09‑26 | [MRPT/mrpt\: Release of v3\.3\.0](<https://doi.org/10.5281/zenodo.22983042>) | Software | OpenAlex |
-| 2026‑09‑26 | [Covariance-Guided Activation Selection with Adaptive Compensation for Efficient Neural Network Pruning](<https://doi.org/10.5281/zenodo.22979838>) | Preprint | OpenAlex |
-| 2026‑09‑26 | [Beyond Track and Intensity\: Scale-Dependent Diagnostics of a Tropical Cyclone Forecast by a Probabilistic AI Foundation Model, AERIS](<https://doi.org/10.22541/essoar.15009485/v1>) | Preprint | OpenAlex |
-| 2026‑09‑25 | [CliMA/ClimaAtmos\.jl\: v0\.42\.12](<https://doi.org/10.5281/zenodo.22969315>) | Software | OpenAlex |
-| 2026‑09‑25 | [bruno-egami/opencv\: V1\.0](<https://doi.org/10.5281/zenodo.20834979>) | Software | OpenAlex |
-| 2026‑09‑25 | [bruno-egami/opencv\: OpenCV para análise de CP´s impressos de argila](<https://doi.org/10.5281/zenodo.22949472>) | Software | OpenAlex |
 | 2026‑09‑25 | [Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement](<https://arxiv.org/abs/2604.17773>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [SAW\: Toward a Surgical Action World Model via Controllable and Scalable Video Generation](<http://arxiv.org/abs/2603.13024>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Performant Tridiagonal Factorization of Skew-Symmetric Matrices](<https://arxiv.org/abs/2411.09859>) | Article | OpenAlex |
 | 2026‑09‑25 | [EndoX\: A GPU-Accelerated Endoscopic Perception Simulation Framework](<https://doi.org/10.1007/978-3-032-38236-8_16>) | Conference paper | OpenAlex |
-| 2026‑09‑24 | [spacetelescope/drizzle\: Bug fixes and blot API changes](<https://doi.org/10.5281/zenodo.22929073>) | Software | OpenAlex |
-| 2026‑09‑24 | [Optimizing Bloom Filters on Modern GPUs\: Artifact](<https://doi.org/10.5281/zenodo.22948419>) | Software | OpenAlex |
 | 2026‑09‑24 | [Distilling Photon-Counting CT Into Routine Chest CT Through Clinically Validated Degradation Modeling](<http://arxiv.org/abs/2604.07329>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [CancerVerse\: A Fully Open Longitudinal and Multimodal Dataset for Multicancer Screening](<https://doi.org/10.1007/978-3-032-38470-6_8>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Accelerating Chemical Kinetics for Exoplanet Atmospheres Using Neural Networks](<https://arxiv.org/abs/2609.00428>) | Article | OpenAlex |
 | 2026‑09‑23 | [A multi-sensor and multi-temporal GeoAI framework for resolving ecological scale mismatch in Antarctica](<https://doi.org/10.1016/j.isprsjprs.2026.09.016>) | Article | OpenAlex |
 | 2026‑09‑23 | [X2Real\: an eXtensive simulation benchmark for real-world generalist policies](<https://arxiv.org/abs/2609.27449v1>) | Paper | Verified affiliation |
+| 2026‑09‑22 | [PAKT\: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning](<https://arxiv.org/abs/2609.25630>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo](<https://arxiv.org/abs/2609.25451>) | Preprint | OpenAlex |
-| 2026‑09‑20 | [Context-Conditioned Option Selection\: A Black-Box Investigation of Jev and the Evolution of a Similarity-Based Decision Model](<https://doi.org/10.5281/zenodo.22864019>) | Article | OpenAlex |
-| 2026‑09‑19 | [MakieOrg/Makie\.jl\: v0\.24\.15](<https://doi.org/10.5281/zenodo.22845144>) | Software | OpenAlex |
-| 2026‑09‑18 | [CliMA/ClimaAtmos\.jl\: v0\.42\.11](<https://doi.org/10.5281/zenodo.22836577>) | Software | OpenAlex |
 | 2026‑09‑18 | [Latent generative search unlocks de novo design of untapped biomolecular interactions at scale](<https://doi.org/10.64898/2026.09.12.751118>) | Preprint | OpenAlex |
-| 2026‑09‑17 | [CliMA/ClimaLand\.jl\: v1\.12\.2](<https://doi.org/10.5281/zenodo.22816316>) | Software | OpenAlex |
+| 2026‑09‑18 | [A Scene Language Model for Open-Vocabulary Scene Mapping](<https://arxiv.org/abs/2609.21400v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Reinforcement learning for initializing genetic algorithms in vehicle routing](<https://doi.org/10.1038/s44488-026-00019-7>) | Article | OpenAlex |
-| 2026‑09‑17 | [JuliaDatabases/SQLite\.jl\: v1\.8\.3](<https://doi.org/10.5281/zenodo.22817581>) | Software | OpenAlex |
 | 2026‑09‑17 | [Automatic segmentation and modeling of the aortic vessel tree\: Overview of the SEG\.A 2023 aorta segmentation challenge](<https://doi.org/10.1016/j.media.2026.104324>) | Article | OpenAlex |
-| 2026‑09‑17 | [AERIS 50-member 90-day global ensemble forecast initialized 1800 UTC 21 August 2020\: 10-m winds and mean sea level pressure](<https://doi.org/10.5281/zenodo.22710578>) | Dataset | OpenAlex |
-| 2026‑09‑16 | [JuliaGPU/GPUCompiler\.jl\: v2\.8\.1](<https://doi.org/10.5281/zenodo.22786751>) | Software | OpenAlex |
-| 2026‑09‑16 | [CliMA/ClimaCore\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22800579>) | Software | OpenAlex |
-| 2026‑09‑16 | [pyodide/pyodide\: 0\.27\.8](<https://doi.org/10.5281/zenodo.22785982>) | Software | OpenAlex |
-| 2026‑09‑15 | [pyodide/pyodide\: 0\.29\.5](<https://doi.org/10.5281/zenodo.22780898>) | Software | OpenAlex |
-| 2026‑09‑15 | [clEsperanto/CLIc\: 0\.25\.0-rc1](<https://doi.org/10.5281/zenodo.22768146>) | Software | OpenAlex |
 | 2026‑09‑15 | [Differentiable Mesh State Estimation via Factor Graph Inference for Deformable Object Reconstruction](<https://arxiv.org/abs/2609.16686>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Design and implementation of a novel high-efficiency ultrasonic 3D synthetic data generation framework](<https://doi.org/10.1038/s44384-026-00075-4>) | Article | OpenAlex |
 | 2026‑09‑14 | [VC-Attention\: Value Smoothing and Softmax Casting for Low-bit Attention](<https://arxiv.org/abs/2609.15810v1>) | Paper | Verified affiliation |
@@ -56,36 +39,20 @@
 | 2026‑09‑13 | [ReLA\: Representation Learning and Aggregation for Scalable Job Scheduling with Reinforcement Learning](<https://doi.org/10.1145/3832810.3832899>) | Conference paper | OpenAlex |
 | 2026‑09‑13 | [From 2^N to N^2\: Tree-Free Scalable Sparse Symmetric Tucker Decomposition](<https://doi.org/10.1145/3832810.3832856>) | Conference paper | OpenAlex |
 | 2026‑09‑13 | [Lightning Weave\: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition](<https://arxiv.org/abs/2609.14708v2>) | Paper | Verified affiliation |
-| 2026‑09‑12 | [CliMA/ClimaTimeSteppers\.jl\: v1\.0\.0](<https://doi.org/10.5281/zenodo.22730008>) | Software | OpenAlex |
-| 2026‑09‑12 | [CliMA/ClimaAtmos\.jl\: v0\.42\.10](<https://doi.org/10.5281/zenodo.22718255>) | Software | OpenAlex |
-| 2026‑09‑11 | [rjzamora/sc26-gpu-polars-artifact\: PDSW 2026 Artifact v1\.1](<https://doi.org/10.5281/zenodo.22710409>) | Software | OpenAlex |
 | 2026‑09‑11 | [DNT\: Diploid Genomic Foundation Model](<https://doi.org/10.64898/2026.09.05.749576>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [PiMiX 2\.02\: Toward AI-Driven Data Fusion in Radiographic Imaging and Tomography](<https://arxiv.org/abs/2609.13347v1>) | Paper | Verified affiliation |
 | 2026‑09‑11 | [4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling](<https://arxiv.org/abs/2609.12815v1>) | Paper | Verified affiliation |
-| 2026‑09‑10 | [JuliaGPU/GPUCompiler\.jl\: v2\.7\.0](<https://doi.org/10.5281/zenodo.22689809>) | Software | OpenAlex |
-| 2026‑09‑09 | [The Age of Automation\: Is Humanity Handing Its Most Important Jobs to Artificial Intelligence?](<https://doi.org/10.5281/zenodo.22682132>) | Article | OpenAlex |
 | 2026‑09‑09 | [De novo Rubisco design with protein language models](<https://doi.org/10.64898/2026.09.04.749267>) | Preprint | OpenAlex |
-| 2026‑09‑09 | [Can a Machine Choose Who Lives? Artificial Intelligence and the Limits of Moral Understanding](<https://doi.org/10.5281/zenodo.22682033>) | Article | OpenAlex |
-| 2026‑09‑09 | [Artifact for MICRO 2026 Paper\: ShareMMU Secure Translation Sharing across Untrusted Accelerators](<https://doi.org/10.5281/zenodo.21543532>) | Software | OpenAlex |
-| 2026‑09‑08 | [JuliaGPU/GPUCompiler\.jl\: v2\.6\.0](<https://doi.org/10.5281/zenodo.22662586>) | Software | OpenAlex |
+| 2026‑09‑08 | [Towards Standardized Evaluation of GPU Memory Safety with GMSBench](<https://arxiv.org/abs/2609.08871>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Photonic Quantum-Enhanced Knowledge Distillation](<http://arxiv.org/abs/2603.14898>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [VANTAGE-Bench\: Evaluating the Infrastructure AI Gap in Vision-Language Models](<https://arxiv.org/abs/2609.09396v1>) | Paper | Verified affiliation |
 | 2026‑09‑07 | [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](<https://arxiv.org/abs/2609.07108v1>) | Paper | Verified affiliation |
 | 2026‑09‑07 | [Large Discrete Policy\: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](<https://arxiv.org/abs/2609.07049v1>) | Paper | Verified affiliation |
 | 2026‑09‑07 | [CASCADE\: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving](<https://arxiv.org/abs/2609.07094v1>) | Paper | Verified affiliation |
-| 2026‑09‑06 | [Bidirectional human-AI collaboration in brain tumour assessment improves both expert human and AI agent performance\: analysis code and source data](<https://doi.org/10.5281/zenodo.22517093>) | Software | OpenAlex |
 | 2026‑09‑06 | [Shortcutting the Fix\: Identifying and Categorizing Agentic Exploits in Software Engineering Benchmarks](<https://arxiv.org/abs/2609.06780v1>) | Paper | Verified affiliation |
-| 2026‑09‑05 | [JuliaGPU/GPUCompiler\.jl\: v2\.5\.3](<https://doi.org/10.5281/zenodo.22398094>) | Software | OpenAlex |
 | 2026‑09‑05 | [Edit-Distance Links\: A Hypertextual Reading of Conditional-Tokenization World Models](<https://doi.org/10.1145/3800935.3830861>) | Conference paper | OpenAlex |
 | 2026‑09‑05 | [Beyond the Blue Link\: Empirical Evaluation of Generative Engine Optimization in Stochastic Retrieval Systems](<https://doi.org/10.1145/3800935.3830864>) | Conference paper | OpenAlex |
 | 2026‑09‑05 | [AutoUVM\: Automated Prefetching Framework for LLMs under UVM Oversubscription](<https://arxiv.org/abs/2609.06172v1>) | Paper | Verified affiliation |
-| 2026‑09‑04 | [JuliaGPU/GPUCompiler\.jl\: v2\.5\.2](<https://doi.org/10.5281/zenodo.22308616>) | Software | OpenAlex |
-| 2026‑09‑04 | [JuliaGPU/GPUCompiler\.jl\: v2\.5\.1](<https://doi.org/10.5281/zenodo.22298663>) | Software | OpenAlex |
-| 2026‑09‑04 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.7](<https://doi.org/10.5281/zenodo.18475447>) | Software | OpenAlex |
-| 2026‑09‑04 | [CliMA/ClimaLand\.jl\: v1\.12\.1](<https://doi.org/10.5281/zenodo.22311300>) | Software | OpenAlex |
-| 2026‑09‑04 | [CliMA/ClimaAtmos\.jl\: v0\.42\.9](<https://doi.org/10.5281/zenodo.22313026>) | Software | OpenAlex |
-| 2026‑09‑03 | [MakieOrg/Makie\.jl\: v0\.24\.14](<https://doi.org/10.5281/zenodo.22281085>) | Software | OpenAlex |
-| 2026‑09‑02 | [CliMA/ClimaLand\.jl\: v1\.12\.0](<https://doi.org/10.5281/zenodo.22261751>) | Software | OpenAlex |
 | 2026‑09‑02 | [When and How Severely\: Scenario-Specific Safety Envelopes for Driving VLAs](<https://doi.org/10.1007/978-3-032-35506-5_51>) | Conference paper | OpenAlex |
 | 2026‑09‑02 | [Output Type Before Quality\: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](<https://doi.org/10.1007/978-3-032-35506-5_38>) | Conference paper | OpenAlex |
 | 2026‑09‑02 | [SolarWM\: Open Data and Scalable Training for Long-Horizon Video World Models](<https://arxiv.org/abs/2609.02886v1>) | Paper | Verified affiliation |
@@ -96,61 +63,29 @@
 | 2026‑09‑01 | [Introduction to this special section\: Machine learning](<https://doi.org/10.1190/tle-4509-ss09b>) | Article | OpenAlex |
 | 2026‑09 | [Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding](<https://research.nvidia.com/publication/2026-09_why-and-when-visual-token-pruning-fails-study-relevant-visual-information-shift>) | Publication | Official page |
 | 2026‑09 | [GenRecal\: Generation after Recalibration from Large to Small Vision-Language Models](<https://research.nvidia.com/publication/2026-09_genrecal-generation-after-recalibration-large-small-vision-language-models>) | Publication | Official page |
-| 2026‑08‑29 | [JuliaGPU/GPUCompiler\.jl\: v2\.5\.0](<https://doi.org/10.5281/zenodo.22165278>) | Software | OpenAlex |
-| 2026‑08‑29 | [CliMA/ClimaAtmos\.jl\: v0\.42\.8](<https://doi.org/10.5281/zenodo.22153928>) | Software | OpenAlex |
-| 2026‑08‑28 | [CliMA/EnsembleKalmanProcesses\.jl\: v2\.7\.3](<https://doi.org/10.5281/zenodo.22148855>) | Software | OpenAlex |
-| 2026‑08‑28 | [feder-observatory/stellarphot\: 2\.2\.0b2](<https://doi.org/10.5281/zenodo.22136243>) | Software | OpenAlex |
-| 2026‑08‑27 | [JuliaGPU/GPUCompiler\.jl\: v2\.4\.2](<https://doi.org/10.5281/zenodo.22121917>) | Software | OpenAlex |
+| 2026‑08‑30 | [MoSeS Enables Autonomous Chromatography Operation through Programmable Analytical Expertise](<https://doi.org/10.26434/chemrxiv.15008042/v1>) | Preprint | OpenAlex |
 | 2026‑08‑27 | [24 Human-AI collaboration in brain tumour assessments improves both human and AI agent performance](<https://doi.org/10.1093/neuonc/noag172.002>) | Article | OpenAlex |
-| 2026‑08‑26 | [JuliaGPU/GPUCompiler\.jl\: v2\.4\.1](<https://doi.org/10.5281/zenodo.22117439>) | Software | OpenAlex |
-| 2026‑08‑26 | [Reproducibility package for "GPU Faults Across Cloud Providers\: Characterization and Operational Insights at Scale" (SC26 2026)](<https://doi.org/10.5281/zenodo.22104096>) | Dataset | OpenAlex |
 | 2026‑08‑25 | [NVIDIA Cosmos-H-Dreams\: Real-Time Generative Physics Simulation for Surgical Robotics](<https://arxiv.org/abs/2608.24199v2>) | Paper | Verified affiliation |
-| 2026‑08‑24 | [JuliaGPU/GPUCompiler\.jl\: v2\.3\.0](<https://doi.org/10.5281/zenodo.22083573>) | Software | OpenAlex |
-| 2026‑08‑21 | [JuliaGPU/GPUCompiler\.jl\: v2\.2\.2](<https://doi.org/10.5281/zenodo.22042090>) | Software | OpenAlex |
-| 2026‑08‑21 | [CliMA/ClimaAtmos\.jl\: v0\.42\.7](<https://doi.org/10.5281/zenodo.22036913>) | Software | OpenAlex |
 | 2026‑08‑20 | [Evaluating Skills, Not Just Agents\: Agentic Continuous Evaluation of Skills](<https://arxiv.org/abs/2608.20614v1>) | Paper | Verified affiliation |
-| 2026‑08‑19 | [bilke/binder-ogs-requirements\: OpenGeoSys 6\.5\.8 with OGSTools 0\.8\.1](<https://doi.org/10.5281/zenodo.22011466>) | Software | OpenAlex |
-| 2026‑08‑18 | [CliMA/ClimaCore\.jl\: v0\.15\.3](<https://doi.org/10.5281/zenodo.21987213>) | Software | OpenAlex |
 | 2026‑08‑18 | [Personal Behavior-Robust and Interpretable Multimodal Sentiment Analysis](<https://doi.org/10.1145/3829080>) | Article | OpenAlex |
 | 2026‑08‑18 | [Experimental Evaluation of Cooling Loop Configurations for Server-Level Direct-to-Chip Liquid Cooling Systems](<https://doi.org/10.1115/1.4072567>) | Article | OpenAlex |
 | 2026‑08‑18 | [Hydra-0\: Action Flow for Generalist World Modeling and Control](<https://arxiv.org/abs/2608.18077v1>) | Paper | Verified affiliation |
-| 2026‑08‑17 | [JuliaNLSolvers/NLsolve\.jl\: v5\.0\.0](<https://doi.org/10.5281/zenodo.21985203>) | Software | OpenAlex |
-| 2026‑08‑17 | [JuliaGPU/GPUCompiler\.jl\: v2\.2\.1](<https://doi.org/10.5281/zenodo.21983960>) | Software | OpenAlex |
-| 2026‑08‑17 | [JuliaGPU/GPUCompiler\.jl\: v2\.2\.0](<https://doi.org/10.5281/zenodo.21977956>) | Software | OpenAlex |
-| 2026‑08‑17 | [pyodide/pyodide\: 314\.0\.5](<https://doi.org/10.5281/zenodo.21975172>) | Software | OpenAlex |
 | 2026‑08‑17 | [Suburbanisation effects on light pollution in Warsaw’s natural areas assessed using drone imagery and machine learning](<https://doi.org/10.1038/s41598-026-66556-4>) | Article | OpenAlex |
-| 2026‑08‑15 | [CliMA/ClimaLand\.jl\: v1\.11\.2](<https://doi.org/10.5281/zenodo.21959653>) | Software | OpenAlex |
-| 2026‑08‑15 | [CliMA/ClimaCore\.jl\: v0\.15\.2](<https://doi.org/10.5281/zenodo.21940833>) | Software | OpenAlex |
 | 2026‑08‑14 | [Towards general auditory intelligence for machine listening and speaking](<https://doi.org/10.1038/s42256-026-01281-1>) | Article | OpenAlex |
-| 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.6](<https://doi.org/10.5281/zenodo.21940590>) | Software | OpenAlex |
-| 2026‑08‑14 | [CliMA/ClimaAtmos\.jl\: v0\.42\.5](<https://doi.org/10.5281/zenodo.21930837>) | Software | OpenAlex |
-| 2026‑08‑14 | [pySTEPS/pysteps\: pysteps v1\.21\.5](<https://research.wur.nl/en/publications/pystepspysteps>) | Other | OpenAlex |
 | 2026‑08‑13 | [Closed-form solutions for rigid transformations between heterogeneous groups of noisy geometric primitives](<https://doi.org/10.1098/rsta.2025.0110>) | Article | OpenAlex |
 | 2026‑08‑13 | [NeuralFVM\: Neural-physics-based finite volume method for turbulent flows using the k-ω model](<https://doi.org/10.1016/j.aitf.2026.100049>) | Article | OpenAlex |
 | 2026‑08‑13 | [Context-Matched Distillation\: Teacher Causality for Autoregressive Video Distillation](<https://arxiv.org/abs/2608.13391>) | Paper | Verified affiliation |
 | 2026‑08‑12 | [SONIC\: Supersizing motion tracking for natural humanoid whole-body control](<https://doi.org/10.1126/scirobotics.aed4592>) | Article | OpenAlex |
 | 2026‑08‑12 | [CAKE\: Compiler-Agent Co-Design for Frontier Kernel Evolution](<https://arxiv.org/abs/2608.12629v1>) | Paper | Verified affiliation |
-| 2026‑08‑11 | [King-Rafat/Dynamic\_Streaming\_ASR\: Dynamic Block-Online Streaming ASR for Low-Resource Agglutinative Code-Switching Speech with Morphology-Aware Evaluation](<https://doi.org/10.5281/zenodo.21882286>) | Software | OpenAlex |
-| 2026‑08‑11 | [CliMA/ClimaLand\.jl\: v1\.11\.1](<https://doi.org/10.5281/zenodo.21880666>) | Software | OpenAlex |
-| 2026‑08‑11 | [ilovevideoeditor/ai-video-agent-guides\: AI Video Agent Guides v1\.0\.0](<https://doi.org/10.5281/zenodo.21891453>) | Software | OpenAlex |
-| 2026‑08‑11 | [MRPT/mrpt\: Release of v2\.15\.21](<https://doi.org/10.5281/zenodo.21895028>) | Software | OpenAlex |
 | 2026‑08‑11 | [ALF\: Open-Source Active Learning Framework for Atomistic Modeling](<https://doi.org/10.1021/acs.jctc.6c01122>) | Article | OpenAlex |
-| 2026‑08‑10 | [CliMA/EnsembleKalmanProcesses\.jl\: v2\.7\.2](<https://doi.org/10.5281/zenodo.21878399>) | Software | OpenAlex |
-| 2026‑08‑10 | [scverse/spatialdata-plot\: v0\.4\.1](<https://doi.org/10.5281/zenodo.21876186>) | Software | OpenAlex |
-| 2026‑08‑10 | [pySTEPS/pysteps\: pysteps v1\.21\.4](<https://doi.org/10.5281/zenodo.21874747>) | Software | OpenAlex |
-| 2026‑08‑10 | [Trained Model Weights and Dataset-Provenance Metadata for "Accelerating Chemical Kinetics for Exoplanet Atmospheres using Neural Networks"](<https://doi.org/10.5281/zenodo.21864117>) | Dataset | OpenAlex |
 | 2026‑08‑10 | [Improving the performance of radiology report de-identification with large-scale training and benchmarking against cloud vendor methods](<http://arxiv.org/abs/2511.04079>) | Article | OpenAlex |
 | 2026‑08‑10 | [From Detection to Understanding\: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning](<https://arxiv.org/abs/2608.10317v1>) | Paper | Verified affiliation |
-| 2026‑08‑09 | [CliMA/ClimaTimeSteppers\.jl\: v0\.10\.6](<https://doi.org/10.5281/zenodo.21856115>) | Software | OpenAlex |
-| 2026‑08‑09 | [Training Dataset and Trained Model Weights for "Accelerating Chemical Kinetics for Exoplanet Atmospheres using Neural Networks"](<https://doi.org/10.5281/zenodo.21865963>) | Dataset | OpenAlex |
 | 2026‑08‑07 | [Enterprise AI Agents\: From Prototypes to Production](<https://doi.org/10.1145/3770855.3818266>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [HiSparse\: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management](<https://arxiv.org/abs/2608.07009>) | Preprint | OpenAlex |
-| 2026‑08‑07 | [CliMA/ClimaAtmos\.jl\: v0\.42\.4](<https://doi.org/10.5281/zenodo.21844739>) | Software | OpenAlex |
 | 2026‑08‑06 | [Cascade\: Exploiting SLO-Aware latency budget for fair and high goodput LLM inference serving](<https://arxiv.org/abs/2608.06557>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [VLMs for Videogame Data Annotation](<https://arxiv.org/abs/2608.05949>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](<https://arxiv.org/abs/2608.05954>) | Preprint | OpenAlex |
 | 2026‑08‑06 | [MicroEvo\: Knowledge-Guided LLM Sampling for Efficient Microarchitecture Design Space Exploration](<https://arxiv.org/abs/2608.06183>) | Preprint | OpenAlex |
-| 2026‑08‑06 | [0\.0625° Resolution IMD Gridded Precipitation Data generated by Diffusion based DL framework\.](<https://doi.org/10.5281/zenodo.21819376>) | Dataset | OpenAlex |
 | 2026‑08 | [Addressable Memory for Video World Models](<https://research.nvidia.com/publication/2026-08_addressable-memory-video-world-models>) | Publication | Official page, OpenAlex, Hugging Face |
 | 2026‑08 | [HorizonRelight\: Relighting Long-horizon Videos Consistently via Diffusion Transformers](<https://research.nvidia.com/publication/2026-08_horizonrelight-relighting-long-horizon-videos-consistently-diffusion>) | Publication | Official page |
 | 2026‑08 | [FusionRelight\: Relighting Portraits in Real Time via Hybrid Domain Knowledge Fusion](<https://research.nvidia.com/publication/2026-08_fusionrelight-relighting-portraits-real-time-hybrid-domain-knowledge-fusion>) | Publication | Official page |
@@ -309,8 +244,6 @@
 | 2025‑11‑25 | [Optimizing Federated Learning in the Era of LLMs\: Message Quantization and Streaming](<https://doi.org/10.1109/fllm67465.2025.11390924>) | Article | OpenAlex |
 | 2025‑11‑25 | [PixelDiT\: Pixel Diffusion Transformers for Image Generation](<https://arxiv.org/abs/2511.20645>) | Paper | Verified affiliation |
 | 2025‑11‑25 | [NVIDIA Nemotron Parse 1\.1](<https://arxiv.org/abs/2511.20478>) | Paper | Verified affiliation |
-| 2025‑11‑20 | [firedrakeproject/firedrake\: Firedrake\: an automated finite element system](<https://doi.org/10.5281/zenodo.21932028>) | Software | OpenAlex |
-| 2025‑11‑20 | [firedrakeproject/fiat\: FIAT\: the Finite Element Automated Tabulator](<https://doi.org/10.5281/zenodo.21932036>) | Software | OpenAlex |
 | 2025‑11‑14 | [Scaling Conditional Autoencoders for Portfolio Optimization via Uncertainty-Aware Factor Selection](<http://arxiv.org/abs/2511.17462>) | Article | OpenAlex |
 | 2025‑11‑13 | [A Survey on Deep Generative Models for Robot Learning From Multimodal Demonstrations](<https://doi.org/10.1109/tro.2025.3631816>) | Article | OpenAlex |
 | 2025‑11‑13 | [Music Flamingo\: Scaling Music Understanding in Audio Language Models](<https://arxiv.org/abs/2511.10289>) | Paper | Verified affiliation |
@@ -334,7 +267,6 @@
 | 2025‑10‑16 | [DLER\: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning](<https://arxiv.org/abs/2510.15110>) | Paper | Verified affiliation |
 | 2025‑10‑14 | [Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction](<https://arxiv.org/abs/2510.12719>) | Paper | Verified affiliation |
 | 2025‑10‑11 | [From image to report\: automating lung cancer screening interpretation and reporting with vision-language models](<https://doi.org/10.1016/j.jbi.2025.104931>) | Article | OpenAlex |
-| 2025‑10‑10 | [Meta-Rewarding Language Models\: Self-Improving Alignment with LLM-as-a-Meta-Judge](<https://doi.org/10.48448/0vxw-q060>) | Other | OpenAlex |
 | 2025‑10‑09 | [The Continuous Tensor Abstraction\: Where Indices Are Real](<https://doi.org/10.1145/3763146>) | Article | OpenAlex |
 | 2025‑10‑05 | [ChronoEdit\: Towards Temporal Reasoning for Image Editing and World Simulation](<https://huggingface.co/papers/2510.04290>) | Paper | Hugging Face |
 | 2025‑10‑03 | [Omni-Embed-Nemotron\: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](<https://arxiv.org/abs/2510.03458>) | Paper | Verified affiliation |
