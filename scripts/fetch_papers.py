@@ -416,6 +416,37 @@ def is_excluded_company_paper(paper: dict, config: dict) -> bool:
     return any(pattern.lower() in text for pattern in patterns)
 
 
+# Assistant models that people list as co-authors on their own uploads. Lab and team names
+# ("Gemini Team", "DeepSeek-AI") are real corporate authors and must not match.
+AI_MODEL_AUTHOR = re.compile(
+    r"gemini|chat\s?gpt|\bgpt\b|gpt-?\d|copilot|\bgrok\b|notebooklm"
+    r"|^(?:c\.?\s+)?claude(?:,?\s+c\.?)?$|\bclaude\s*(?:ai|opus|sonnet|haiku|code|fable|mythos|\d|\()", re.I)
+
+
+def openalex_only_rejection(paper: dict, config: dict) -> str:
+    """Why a record known only through OpenAlex is not a lab publication; empty when it may be archived.
+
+    OpenAlex attributes a work to a lab whenever any listed author resolves to that institution,
+    including an AI model named as a co-author of a self-published upload. Records that another
+    source also reports are never judged here.
+    """
+    if (paper.get("sources") or [paper.get("source")]) != ["openalex"]:
+        return ""
+    rules = config.get("company_tracking", {}).get("openalex", {})
+    links = [paper.get("doi", ""), paper.get("url", ""), paper.get("paper_url", ""), *paper.get("alternate_urls", [])]
+    for prefix in re.findall(r"\b(10\.\d{4,9})/", " ".join(link or "" for link in links)):
+        repository = rules.get("self_publishing_doi_prefixes", {}).get(prefix)
+        if repository:
+            return f"self-published repository upload ({repository})"
+    if paper.get("work_type") in rules.get("non_publication_work_types", []):
+        return f"not a publication type ({paper['work_type']})"
+    for author in paper.get("authors", []):
+        name = (author or "").strip()
+        if AI_MODEL_AUTHOR.search(name) and not re.search(r"\bteam\b", name, re.I):
+            return "AI model listed as an author"
+    return ""
+
+
 def date_in_range(published: str, start_date: str, end_date: str) -> bool:
     if not published:
         return True

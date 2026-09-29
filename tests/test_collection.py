@@ -224,6 +224,64 @@ class CollectionTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, re.escape(data["papers"][0]["id"]) + ".*works\\.hcommons\\.org:4myc6-jbr23"):
                 artifact.validate(Path(tmp))
 
+    def openalex_record(self, **overrides):
+        return paper(**{"title": "Learning correlation structures for vision transformers", "id": "openalex:W1",
+            "source": "openalex", "sources": ["openalex"], "work_type": "conference-paper",
+            "url": "https://doi.org/10.1109/cvpr.2024.001", "doi": "https://doi.org/10.1109/cvpr.2024.001", **overrides})
+
+    def test_openalex_only_publication_is_kept(self):
+        self.assertEqual(f.openalex_only_rejection(self.openalex_record(), self.config), "")
+
+    def test_openalex_only_self_published_upload_is_rejected(self):
+        podcast = self.openalex_record(title="Ep. 2811: From CDN to Cloud Platform", work_type="article",
+            url="https://doi.org/10.5281/zenodo.20183966", doi="https://doi.org/10.5281/zenodo.20183966")
+        self.assertIn("self-published", f.openalex_only_rejection(podcast, self.config))
+
+    def test_openalex_only_non_publication_types_are_rejected(self):
+        for work_type in ("software", "dataset", "peer-review", "other"):
+            with self.subTest(work_type=work_type):
+                self.assertIn("publication type", f.openalex_only_rejection(self.openalex_record(work_type=work_type), self.config))
+
+    def test_ai_model_listed_as_author_is_rejected_but_people_and_teams_are_kept(self):
+        for authors in (["Simon Waldherr", "Claude"], ["Daniel Rosehill", "Gemini 3.1 (Flash)"], ["A. ChatGPT"], ["Claude Opus 4.7"]):
+            with self.subTest(authors=authors):
+                self.assertIn("AI model", f.openalex_only_rejection(self.openalex_record(authors=authors), self.config))
+        for authors in (["Claude Paroz"], ["Gemini Team"], ["DeepSeek-AI"], ["Qwen Team"]):
+            with self.subTest(authors=authors):
+                self.assertEqual(f.openalex_only_rejection(self.openalex_record(authors=authors), self.config), "")
+
+    def test_records_with_official_provenance_are_never_rejected_by_openalex_rules(self):
+        card = self.openalex_record(sources=["official_publication_page", "openalex"], work_type="other",
+            url="https://doi.org/10.5281/zenodo.1", authors=["Claude"])
+        self.assertEqual(f.openalex_only_rejection(card, self.config), "")
+
+    def test_archive_run_removes_existing_openalex_only_uploads_and_counts_them(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            destination = Path(tmp) / "company_papers.json"
+            upload = self.openalex_record(title="owner/repo: v1.2.3 language model tools", id="openalex:W2", work_type="software",
+                url="https://doi.org/10.5281/zenodo.22993047", doi="https://doi.org/10.5281/zenodo.22993047")
+            destination.write_text(json.dumps({"papers": [upload, self.openalex_record()]}))
+            with patch.object(updater, "collect_fresh_papers_by_source", return_value=[paper()]):
+                result = updater.update_archive(output=destination)
+            self.assertEqual(sorted(p["url"] for p in result["papers"]),
+                             ["https://doi.org/10.1109/cvpr.2024.001", "https://example.org/paper"])
+            self.assertEqual(result["collection"]["openalex_only_excluded"], 1)
+            artifact.validate(Path(tmp))
+
+    def test_rejected_openalex_uploads_do_not_consume_metadata_checks_or_wait_in_pending(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            destination = Path(tmp) / "company_papers.json"
+            destination.write_text('{"papers": []}')
+            upload = self.openalex_record(title="Opaque upload", abstract="", work_type="other",
+                url="https://doi.org/10.5281/zenodo.20183966", doi="https://doi.org/10.5281/zenodo.20183966")
+            (Path(tmp) / "collection_pending.json").write_text(json.dumps([{"paper": upload, "reason": "queued"}]))
+            with patch.object(updater, "collect_fresh_papers_by_source", return_value=[upload]), \
+                 patch.object(updater, "enrich_publication") as enrich:
+                result = updater.update_archive(output=destination)
+            enrich.assert_not_called()
+            self.assertEqual(result["papers"], [])
+            self.assertEqual(json.loads((Path(tmp) / "collection_pending.json").read_text()), [])
+
     def test_metadata_budget_preserves_unprocessed_candidates(self):
         config = copy.deepcopy(self.config)
         config["company_tracking"]["metadata_checks_per_run"] = 1

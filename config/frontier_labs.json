@@ -20,7 +20,31 @@
         "https://openalex.org/C34413123",
         "https://openalex.org/C124101348"
       ],
-      "mailto": ""
+      "mailto": "",
+      "self_publishing_doi_prefixes": {
+        "10.5281": "Zenodo",
+        "10.6084": "figshare",
+        "10.31219": "OSF",
+        "10.17605": "OSF",
+        "10.17613": "Humanities Commons",
+        "10.13140": "ResearchGate",
+        "10.22541": "Authorea"
+      },
+      "non_publication_work_types": [
+        "other",
+        "software",
+        "dataset",
+        "reference-entry",
+        "peer-review",
+        "erratum",
+        "editorial",
+        "paratext",
+        "supplementary-materials",
+        "standard",
+        "grant",
+        "libguides",
+        "retraction"
+      ]
     },
     "arxiv_company_search": {
       "enabled": false,

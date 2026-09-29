@@ -84,7 +84,8 @@ def validate(directory: Path, config_path: Path = ROOT / "config/frontier_labs.j
     health = values["collection_health.json"]
     if data.get("collection") != health or health.get("status") not in {"ok", "partial"}:
         raise ValueError("Collection health does not match archive")
-    for field in ("error_sources", "failed_sources", "partial_sources", "pending_metadata", "unsafe_url_papers"):
+    for field in ("error_sources", "failed_sources", "partial_sources", "pending_metadata", "unsafe_url_papers",
+                  "openalex_only_excluded"):
         if type(health.get(field, 0)) is not int or health.get(field, 0) < 0:
             raise ValueError("Invalid collection health counter")
     if not isinstance(values["collection_pending.json"], list) or not isinstance(values["collection_state.json"], dict):

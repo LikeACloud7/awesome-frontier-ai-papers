@@ -40,6 +40,7 @@ from fetch_papers import (  # noqa: E402
     is_frontier_ai_relevant_paper,
     load_config,
     merge_paper_lists,
+    openalex_only_rejection,
     repair_text_encoding,
 )
 
@@ -205,6 +206,7 @@ def source_notes_for_config(config: dict) -> list[str]:
         "Tracks AI research authored by the configured US and Chinese frontier labs, including papers, technical reports and research posts.",
         "Official publication catalogues are paginated; sparse records are checked against abstracts and research metadata before AI filtering.",
         "Affiliation evidence is required for search results; a third-party paper mentioning a lab's model does not establish authorship.",
+        "Records known only through OpenAlex must be publications: self-published repository uploads, software, datasets, review replies and records listing an AI model as an author are excluded.",
         "Daily recent collection is supplemented by an automatic rotating historical reconciliation; backfills merge with the existing archive.",
         "Per-source failures, unresolved metadata and historical reconciliation status are recorded separately from archive totals.",
         "No public index guarantees every publication. Missing affiliations, unavailable sources and pending scans remain explicit coverage limits.",
@@ -299,12 +301,19 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
     old_pending = json.loads(pending_file.read_text()) if pending_file.exists() else []
     # Retry metadata failures automatically. Carry the rest forward, never silently drop them.
     retry_limit = 200
+    # OpenAlex also attributes uploads to a lab when an AI model is named as co-author. Drop those before
+    # they consume metadata checks, and purge the ones an earlier run already queued or archived.
+    old_pending = [x for x in old_pending if not openalex_only_rejection(x["paper"], config)]
     fresh = merge_paper_lists([x["paper"] for x in old_pending[:retry_limit]], fresh)
     pending = list(old_pending[retry_limit:])
-    fresh = filter_new_papers(fresh, config, diagnostics, pending)
+    publishable = [p for p in fresh if not openalex_only_rejection(p, config)]
+    openalex_only_excluded = len(fresh) - len(publishable)
+    fresh = filter_new_papers(publishable, config, diagnostics, pending)
     fresh = enrich_papers(fresh, config, full_registry, allow_text_org_matches=False)
     # A since date bounds acquisition only. It must never delete existing records.
-    merged = merge_paper_lists(copy.deepcopy(existing.get("papers", [])), fresh)
+    combined = merge_paper_lists(copy.deepcopy(existing.get("papers", [])), fresh)
+    merged = [p for p in combined if not openalex_only_rejection(p, config)]
+    openalex_only_excluded += len(combined) - len(merged)
     candidates = [normalize_paper(p) for p in merged if p.get("title") and p.get("url")
         and (p.get("matched_orgs") or p.get("companies"))
         and date_in_range(p.get("published", ""), "0000-01-01", today)
@@ -330,7 +339,8 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
             "status": "partial" if failed or partial or pending else "ok",
             "source_count": len(diagnostics), "failed_sources": len(failed), "partial_sources": len(partial),
             "error_sources": len(errored),
-            "pending_metadata": len(pending), "unsafe_url_papers": unsafe_url_papers, "sources": diagnostics,
+            "pending_metadata": len(pending), "unsafe_url_papers": unsafe_url_papers,
+            "openalex_only_excluded": openalex_only_excluded, "sources": diagnostics,
             "historical_reconciliation": state, "comprehensive": comprehensive,
             "openalex_enabled": config["company_tracking"].get("openalex", {}).get("enabled", True),
             "arxiv_company_search_enabled": False},
@@ -367,7 +377,8 @@ def main():
     health = archive["collection"]
     print(f"Wrote {archive['totals']['papers']} papers; collection={health['status']}, "
           f"sources_with_errors={health['error_sources']}, failed={health['failed_sources']}, partial={health['partial_sources']}, "
-          f"pending_metadata={health['pending_metadata']}, unsafe_url_papers={health['unsafe_url_papers']}", file=sys.stderr)
+          f"pending_metadata={health['pending_metadata']}, unsafe_url_papers={health['unsafe_url_papers']}, "
+          f"openalex_only_excluded={health['openalex_only_excluded']}", file=sys.stderr)
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as stream:
             stream.write(f"## Publication collection: {health['status']}\n\n"

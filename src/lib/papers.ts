@@ -45,6 +45,7 @@ export type PaperDataset = {
     partial_sources: number;
     pending_metadata: number;
     unsafe_url_papers?: number;
+    openalex_only_excluded?: number;
   };
   source_notes: string[];
   totals: {
