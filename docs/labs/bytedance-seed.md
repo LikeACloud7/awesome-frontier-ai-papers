@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `267`
+- Papers: `266`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -29,7 +29,6 @@
 | 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
 | 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [OpenVid++\: A Large-scale High-quality Dataset for Text-to-video Generation](<https://doi.org/10.1007/s11263-026-02989-8>) | Article | OpenAlex |
-| 2026‑09‑01 | [Multiobjective Fluorescent Molecule Design with a Data-Physics Dual-Driven Generative Framework](<https://doi.org/10.1021/jacsau.6c00832>) | Article | OpenAlex |
 | 2026‑09‑01 | [GUI-ReWalk\: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](<https://doi.org/10.24963/ijcai.2026/27>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [SMELT\: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [HarnessDev\: Can LLMs Create and Evolve Their Own Agent Harness?](<https://arxiv.org/abs/2609.01437v1>) | Paper | Verified affiliation |
@@ -122,7 +121,7 @@
 | 2026‑01‑22 | [Stable-DiffCoder\: Pushing the Frontier of Code Diffusion Large Language Model](<https://seed.bytedance.com/en/research/stable-diffcoder-pushing-the-frontier-of-code-diffusion-large-language-model>) | Publication | Official page |
 | 2026‑01‑22 | [SAMTok\: Representing Any Mask with Two Words](<https://huggingface.co/papers/2601.16093>) | Paper | Hugging Face |
 | 2026‑01‑21 | [Rethinking Video Generation Model for the Embodied World](<https://huggingface.co/papers/2601.15282>) | Paper | Hugging Face |
-| 2026‑01‑20 | [Multi-objective fluorescent molecule design with a data-physics dual-driven generative framework](<https://seed.bytedance.com/en/research/multi-objective-fluorescent-molecule-design-with-a-data-physics-dual-driven-generative-framework>) | Publication | Official page |
+| 2026‑01‑20 | [Multi-objective fluorescent molecule design with a data-physics dual-driven generative framework](<https://seed.bytedance.com/en/research/multi-objective-fluorescent-molecule-design-with-a-data-physics-dual-driven-generative-framework>) | Publication | OpenAlex, Official page |
 
 ## 2025
 

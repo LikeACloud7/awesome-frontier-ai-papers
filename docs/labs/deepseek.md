@@ -1,8 +1,8 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `41`
-- Latest: `2026-09-19`
+- Papers: `42`
+- Latest: `2026-09-29`
 - [Back to README](../../README.md#deepseek)
 
 ## No date
@@ -18,6 +18,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑29 | [Self-Evolving Defense\: Continual Security Policy Learning for LLM Agents](<https://arxiv.org/abs/2609.36603v1>) | Paper | Verified affiliation |
 | 2026‑09‑19 | [DeepSeek Elastic Compute (DSec)\: A Sandbox Infrastructure for Effective Agentic Training at Scale](<https://arxiv.org/abs/2609.22978v1>) | Paper | Verified affiliation |
 | 2026‑09‑16 | [DeepSeek-V4\.1-Flash\: Pushing the Limits of KV Cache Compression](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf>) | Technical report | Official page, Official repo, Hugging Face, Verified affiliation |
 | 2026‑08‑31 | [Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening](<https://arxiv.org/abs/2608.30877v1>) | Paper | Verified affiliation |

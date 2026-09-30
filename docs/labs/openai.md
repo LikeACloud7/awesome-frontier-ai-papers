@@ -220,8 +220,8 @@
 | 2025‑06‑18 | [Toward understanding and preventing misalignment generalization](<https://openai.com/index/emergent-misalignment>) | Research post | Official page |
 | 2025‑06‑18 | [Preparing for future AI risks in biology](<https://openai.com/index/preparing-for-future-ai-capabilities-in-biology>) | Research post | Official page |
 | 2025‑06‑11 | [Forecasting the Impact of Interest Rates on Homebuyer Demand using Machine Learning](<https://doi.org/10.1109/icssas66150.2025.11081098>) | Conference paper | OpenAlex |
-| 2025‑06‑10 | [Vision-Language Models Do Not Understand Negation](<https://doi.org/10.1109/cvpr52734.2025.02757>) | Article | OpenAlex |
 | 2025‑06‑10 | [Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing](<https://doi.org/10.1109/cvpr52734.2025.01946>) | Conference paper | OpenAlex |
+| 2025‑06‑10 | [Vision-Language Models Do Not Understand Negation](<https://doi.org/10.1109/cvpr52734.2025.02757>) | Article | OpenAlex |
 | 2025‑06‑05 | [Force-Field Optimization by End-to-End Differentiable Atomistic Simulation](<https://doi.org/10.1021/acs.jctc.4c01784>) | Article | OpenAlex |
 | 2025‑06‑04 | [A Comprehensive Review of AI and ML in Data Governance and Data Quality](<https://doi.org/10.1109/icici65870.2025.11069464>) | Conference paper | OpenAlex |
 | 2025‑06‑04 | [Intelligent Fraud Detection\: Leveraging Deep Learning for Real-Time Risk Mitigation](<https://doi.org/10.1109/icici65870.2025.11069668>) | Conference paper | OpenAlex |
@@ -283,6 +283,7 @@
 | 2025‑01‑01 | [Datasets, Documents, and Repetitions\: The Practicalities of Unequal Data Quality](<https://machinelearning.apple.com/research/datasets-documents-repetitions>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [AutoRedTeamer\: Autonomous Red Teaming with Lifelong Attack Integration](<https://doi.org/10.70777/si.v2i2.14433>) | Article | OpenAlex |
 | 2025‑01‑01 | [Meta CLIP 2\: A Worldwide Scaling Recipe](<http://arxiv.org/abs/2507.22062>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Test-Time Scaling of Diffusion Models via Noise Trajectory Search](<http://arxiv.org/abs/2506.03164>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Automating the Search for Artificial Life With Foundation Models](<https://doi.org/10.1162/artl.a.8>) | Article | OpenAlex |
 | 2025‑01‑01 | [ResearchCodeBench\: Benchmarking LLMs on Implementing Novel Machine Learning Research Code](<http://arxiv.org/abs/2506.02314>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Simplicity Prevails\: Rethinking Negative Preference Optimization for LLM Unlearning](<http://arxiv.org/abs/2410.07163>) | Conference paper | OpenAlex |
@@ -293,7 +294,6 @@
 | 2025‑01‑01 | [Do Language Models Use Their Depth Efficiently?](<http://arxiv.org/abs/2505.13898>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [APIGen-MT\: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay](<http://arxiv.org/abs/2504.03601>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [X-Scene\: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability](<http://arxiv.org/abs/2506.13558>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Test-Time Scaling of Diffusion Models via Noise Trajectory Search](<http://arxiv.org/abs/2506.03164>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [RLZero\: Direct Policy Inference from Language Without In-Domain Supervision](<https://doi.org/10.52202/085713-2794>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Quantifying Elicitation of Latent Capabilities in Language Models](<https://doi.org/10.52202/085713-5029>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LocDiff\: Identifying Locations on Earth by Diffusing in the Hilbert Space](<http://arxiv.org/abs/2503.18142>) | Conference paper | OpenAlex |

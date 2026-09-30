@@ -13,8 +13,8 @@
 | 2026‑09‑26 | [KV-Lingo\: Learning KV-Cache Translators with Distillation](<https://arxiv.org/abs/2609.32610v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [A Practical Recipe for Semi-Supervised Federated ASR\: Online Pseudo-Labels with Server Update Stabilization](<https://machinelearning.apple.com/research/practical-recipe-federated-asr>) | Publication | Official page |
 | 2026‑09‑23 | [How to Guide Your Language Flow](<https://machinelearning.apple.com/research/guide-language-flow>) | Publication | Official page |
+| 2026‑09‑18 | [The Communication Bottleneck\: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models](<https://machinelearning.apple.com/research/communication-bottleneck-serialization>) | Publication | Verified affiliation, Official page |
 | 2026‑09‑18 | [Dynamically Scaled Activation Steering](<https://machinelearning.apple.com/research/dynamically-scaled-activation-steering>) | Publication | Official page |
-| 2026‑09‑18 | [The Communication Bottleneck\: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models](<https://arxiv.org/abs/2609.21509v2>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [REVERSAL-BENCH\: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff](<https://machinelearning.apple.com/research/reversal-bench-rl-cliff>) | Publication | Official page |
 | 2026‑09‑16 | [Trajectory as the Teacher\: Few-Step Discrete Flow Matching via Energy-Navigated Distillation](<https://machinelearning.apple.com/research/trajectory-teacher-flow-matching>) | Publication | Official page |
 | 2026‑09‑16 | [Shared Selective Persistent Memory for Agentic LLM Systems](<https://machinelearning.apple.com/research/shared-selective-persistent-memory>) | Publication | Official page |
@@ -58,7 +58,6 @@
 | 2026‑08‑06 | [Retrofitting Linear Attention into Diffusion Language Models](<https://arxiv.org/abs/2608.06628>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Taming Outlier Tokens in Diffusion Transformers](<https://machinelearning.apple.com/research/taming-outlier-tokens>) | Publication | Official page |
 | 2026‑08‑03 | [Understanding Alignment in Multimodal LLMs\: A Comprehensive Study](<https://machinelearning.apple.com/research/alignment-multimodal-llms>) | Publication | Official page |
-| 2026‑08‑01 | [Evaluating Self-Supervised Pretraining for Wrist-Worn Physiological Signals in Cardiac Estimation and Gesture Recognition](<https://doi.org/10.1109/chase69719.2026.00038>) | Conference paper | OpenAlex |
 | 2026‑07‑31 | [AI-Driven Cloud-Enabled Cybersecurity Framework for Intelligent IoT Intrusion Detection](<https://doi.org/10.4018/979-8-3373-9053-6.ch008>) | Book chapter | OpenAlex |
 | 2026‑07‑30 | [MoMo\: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization](<https://machinelearning.apple.com/research/momo-motion-mode-manipulation>) | Publication | Official page |
 | 2026‑07‑30 | [Dimensionality Reduction Meets Network Science\: Sensemaking on UMAP’s kNN Graph](<https://machinelearning.apple.com/research/umap-knn-graph-sensemaking>) | Publication | Official page |
@@ -131,6 +130,7 @@
 | 2026‑05‑28 | [Secure Cloud–IoT Ecosystems\: A Hybrid AI and Signal Processing Architecture for Intelligent Robotic Threat Mitigation](<https://doi.org/10.1109/icssas68835.2026.11559354>) | Conference paper | OpenAlex |
 | 2026‑05‑22 | [VSAS-Bench\: Real-Time Evaluation of Visual Streaming Assistant Models](<https://machinelearning.apple.com/research/vsas-bench-streaming-assistant>) | Publication | Official page |
 | 2026‑05‑20 | [Investigating the Robustness of Machine Learning Models Against Data Poisoning in Industrial Control Systems](<https://doi.org/10.1109/icicv68925.2026.11554655>) | Conference paper | OpenAlex |
+| 2026‑05‑13 | [Evaluating Self-Supervised Pretraining for Wrist-Worn Physiological Signals in Cardiac Estimation and Gesture Recognition](<https://doi.org/10.1109/chase69719.2026.00038>) | Conference paper | OpenAlex |
 | 2026‑05‑11 | [BalCapRL\: A Balanced Framework for RL-Based MLLM Image Captioning](<https://machinelearning.apple.com/research/balcaprl-mllm-image-captioning>) | Publication | Official page |
 | 2026‑05‑08 | [Velox\: Learning Representations of 4D Geometry and Appearance](<https://machinelearning.apple.com/research/velox>) | Publication | Official page |
 | 2026‑05‑08 | [RVPO\: Risk-Sensitive Alignment via Variance Regularization](<https://machinelearning.apple.com/research/rvpo-risk-sensitive-alignment>) | Publication | Official page |

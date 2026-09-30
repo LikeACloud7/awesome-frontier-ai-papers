@@ -227,14 +227,14 @@
 | 2025‑02‑06 | [Meta Audiobox Aesthetics\: Unified Automatic Quality Assessment for Speech, Music, and Sound](<https://ai.meta.com/research/publications/meta-audiobox-aesthetics-unified-automatic-quality-assessment-for-speech-music-and-sound/>) | Publication | Official page |
 | 2025‑02‑06 | [From Thought to Action\: How a Hierarchy of Neural Dynamics Supports Language Production](<https://ai.meta.com/research/publications/from-thought-to-action-how-a-hierarchy-of-neural-dynamics-supports-language-production/>) | Publication | Official page |
 | 2025‑02‑06 | [Brain-to-Text Decoding\: A Non-invasive Approach via Typing](<https://ai.meta.com/research/publications/brain-to-text-decoding-a-non-invasive-approach-via-typing/>) | Publication | Official page |
-| 2025‑02‑04 | [ParetoQ\: Improving Scaling Laws in Extremely Low-bit LLM Quantization](<https://arxiv.org/abs/2502.02631>) | Paper | Verified affiliation |
-| 2025‑02‑03 | [Grounding Image Understanding to Oil and Gas Product Manuals\: Refining LLaVA through Contextual Instruction Tuning](<https://doi.org/10.1109/aixmm62960.2025.00018>) | Article | OpenAlex |
+| 2025‑02‑03 | [Enhancing the Performance and Speed of Quantum Support Vector Classifier via Neural Quantum Embedding and Tensor Network](<https://doi.org/10.1109/aixmhc65380.2025.00018>) | Conference paper | OpenAlex |
 | 2025‑01‑30 | [LLMs can see and hear without any training](<https://arxiv.org/abs/2501.18096>) | Paper | Verified affiliation |
 | 2025‑01‑13 | [UnCommon Objects in 3D](<https://arxiv.org/abs/2501.07574>) | Paper | Verified affiliation |
 | 2025‑01‑04 | [Transformers are Multi-State RNNs](<https://ai.meta.com/research/publications/transformers-are-multi-state-rnns/>) | Publication | Official page |
 | 2025‑01‑02 | [A Structure-Aware Framework for Learning Device Placements on Computation Graphs](<https://ai.meta.com/research/publications/a-structure-aware-framework-for-learning-device-placements-on-computation-graphs/>) | Publication | Official page |
 | 2025‑01‑01 | [PerceptionLM\: Open-Access Data and Models for Detailed Visual Understanding](<https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [SwiftKV\: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation](<https://doi.org/10.18653/v1/2025.emnlp-main.1306>) | Article | OpenAlex |
+| 2025‑01‑01 | [ParetoQ\: Improving Scaling Laws in Extremely Low-bit LLM Quantization](<https://arxiv.org/abs/2502.02631>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [Physics of Language Models\: Part 1, Learning Hierarchical Language Structures](<https://doi.org/10.2139/ssrn.5250639>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Geometric Optimal Transport for Cross-Modal Medical Manifold Alignment\: A Differential Approach to Multimodal Diagnosis](<https://doi.org/10.1109/access.2025.3587298>) | Article | OpenAlex |
 

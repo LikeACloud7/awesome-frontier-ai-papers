@@ -1,14 +1,16 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `314`
-- Latest: `2026-09-24`
+- Papers: `317`
+- Latest: `2026-09-28`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
+| 2026‑09‑25 | [Highlight-Then-Summarize\: Learning to Compress Evidence for Long-Context Understanding](<https://doi.org/10.48550/arxiv.2609.31382>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [A Survey on Parallel Reasoning](<http://arxiv.org/abs/2510.12164>) | Article | OpenAlex |
 | 2026‑09‑22 | [Coupled characteristics and operational optimization of a high-pressure hydrogen cascade fast refueling system](<https://doi.org/10.1016/j.ijhydene.2026.157608>) | Article | OpenAlex |
 | 2026‑09‑20 | [MuSeR\: Scalable Long-sequence Recommendation with Multi-interest Modeling](<https://arxiv.org/abs/2609.23677v1>) | Paper | Verified affiliation |
@@ -16,6 +18,7 @@
 | 2026‑09‑14 | [Navigating Sparse Evidence\: Agentic Visual RAG via Explicit Context Selection and Consolidation](<https://arxiv.org/abs/2609.15800v1>) | Paper | Verified affiliation |
 | 2026‑09‑13 | [Tensos\: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers](<https://doi.org/10.1145/3832810.3832861>) | Conference paper | OpenAlex |
 | 2026‑09‑10 | [SWRouter\: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations](<https://arxiv.org/abs/2609.11414>) | Preprint | OpenAlex |
+| 2026‑09‑09 | [BRACE\: Anchored Bellman-Residual Correction for Stale Critics in Asynchronous RL](<https://arxiv.org/abs/2609.09783v2>) | Paper | Verified affiliation |
 | 2026‑09‑08 | [DynaStyle\: Mitigating Content Leakage by Dynamic Layer Routing in Stylized Image Generation](<https://doi.org/10.1145/3842745>) | Article | OpenAlex |
 | 2026‑09‑06 | [Entity-Driven Knowledge Compression for Question Answering on Long Contexts](<https://doi.org/10.1007/978-3-032-37667-1_3>) | Conference paper | OpenAlex |
 | 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
@@ -187,7 +190,6 @@
 | 2025‑10‑01 | [Guiding Evolution of Artificial Life Using Vision-Language Models](<https://doi.org/10.1162/isal.a.850>) | Article | OpenAlex |
 | 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://arxiv.org/abs/2509.24945>) | Paper | Hugging Face, Verified affiliation |
 | 2025‑09‑28 | [Knowledge-Level Consistency Reinforcement Learning\: Dual-Fact Alignment for Long-Form Factuality](<https://huggingface.co/papers/2509.23765>) | Technical report | Official page |
-| 2025‑09‑27 | [Design of Intelligent Report Automatic Generation System and Optimization of Generative Algorithm in Power Business Scenarios](<https://doi.org/10.1109/actce66599.2025.00036>) | Article | OpenAlex |
 | 2025‑09‑19 | [Qianfan-VL\: Domain-Enhanced Universal Vision-Language Models](<https://arxiv.org/abs/2509.18189>) | Paper | Verified affiliation |
 | 2025‑09‑12 | [ERNIE 4\.5 Gets a Major Inference Speed Boost](<https://ernie.baidu.com/blog/posts/plas/>) | Technical report | Official page |
 | 2025‑09‑01 | [Endogenous Recovery via Within-modality Prototypes for Incomplete Multimodal Hashing](<https://doi.org/10.24963/ijcai.2025/281>) | Article | OpenAlex |
@@ -216,7 +218,6 @@
 | 2025‑06‑12 | [Unsupervised Pre-Training With Language-Vision Prompts for Low-Data Instance Segmentation](<https://doi.org/10.1109/tpami.2025.3579469>) | Article | OpenAlex |
 | 2025‑06‑10 | [Recognition-Synergistic Scene Text Editing](<https://doi.org/10.1109/cvpr52734.2025.01223>) | Article | OpenAlex |
 | 2025‑06‑10 | [Hallo3\: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](<https://doi.org/10.1109/cvpr52734.2025.01964>) | Article | OpenAlex |
-| 2025‑06‑10 | [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](<https://doi.org/10.1109/cvpr52734.2025.00880>) | Article | OpenAlex |
 | 2025‑06‑10 | [TexGarment\: Consistent Garment UV Texture Generation via Efficient 3D Structure-Guided Diffusion Transformer](<https://doi.org/10.1109/cvpr52734.2025.02474>) | Article | OpenAlex |
 | 2025‑06‑10 | [Re-HOLD\: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model](<https://doi.org/10.1109/cvpr52734.2025.01635>) | Article | OpenAlex |
 | 2025‑06‑10 | [OpenHumanVid\: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation](<https://doi.org/10.1109/cvpr52734.2025.00726>) | Article | OpenAlex |
@@ -247,11 +248,13 @@
 | 2025‑04‑04 | [LLM-Eraser\: Optimizing Large Language Model Unlearning through Selective Pruning](<https://doi.org/10.1145/3690624.3709312>) | Article | OpenAlex |
 | 2025‑04‑04 | [RankElectra\: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search](<https://doi.org/10.1145/3690624.3709395>) | Article | OpenAlex |
 | 2025‑04‑04 | [Large Vison-Language Foundation Model in Baidu AIGC Image Advertising](<https://doi.org/10.1145/3690624.3709401>) | Article | OpenAlex |
+| 2025‑03‑25 | [Design of Intelligent Report Automatic Generation System and Optimization of Generative Algorithm in Power Business Scenarios](<https://doi.org/10.1109/actce66599.2025.00036>) | Article | OpenAlex |
 | 2025‑03‑12 | [SPT\: Sequence Prompt Transformer for Interactive Image Segmentation](<https://doi.org/10.1109/icassp49660.2025.10888197>) | Article | OpenAlex |
 | 2025‑03‑01 | [A Diffusion Model for Traffic Data Imputation](<https://doi.org/10.1109/jas.2024.124611>) | Article | OpenAlex |
 | 2025‑02‑26 | [SGD\: Street View Synthesis with Gaussian Splatting and Diffusion Prior](<https://doi.org/10.1109/wacv61041.2025.00375>) | Article | OpenAlex |
 | 2025‑02‑21 | [Research on Distributed Training Architecture for Large Scale Models for Natural Language Processing](<https://doi.org/10.1145/3728725.3728812>) | Article | OpenAlex |
 | 2025‑02‑15 | [Fusion4DAL\: Offline Multi-modal 3D Object Detection for 4D Auto-labeling](<https://doi.org/10.1007/s11263-025-02370-1>) | Article | OpenAlex |
+| 2025‑02 | [Spatio-Temporal Context Prompting for Zero-Shot Action Detection](<https://research.nvidia.com/publication/2025-02_spatio-temporal-context-prompting-zero-shot-action-detection>) | Publication | OpenAlex, Official page |
 | 2025‑01‑28 | [Contrastive Modality-Disentangled Learning for Multimodal Recommendation](<https://doi.org/10.1145/3715876>) | Article | OpenAlex |
 | 2025‑01‑13 | [Tool learning with large language models\: a survey](<https://doi.org/10.1007/s11704-024-40678-2>) | Article | OpenAlex |
 | 2025‑01‑01 | [Diffusion Model is Secretly a Training-Free Open Vocabulary Semantic Segmenter](<https://doi.org/10.1109/tip.2025.3551648>) | Article | OpenAlex |

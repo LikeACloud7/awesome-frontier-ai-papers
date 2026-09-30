@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1005`
+- Papers: `1006`
 - Latest: `2026-09-27`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -25,6 +25,7 @@
 | 2026‑09‑27 | [Just MLPs\: Efficient Visual State Reconstruction for Multimodal Language Models](<https://huggingface.co/papers/2609.34972>) | Preprint | Official page |
 | 2026‑09‑27 | [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](<https://huggingface.co/papers/2609.35457>) | Preprint | Official page |
 | 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page |
+| 2026‑09‑27 | [Empirical 5/3 Spectral Scaling in Contextual Representations of Language](<https://doi.org/10.3390/e28101063>) | Article | OpenAlex |
 | 2026‑09‑25 | [AdaTutoRank\: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](<https://huggingface.co/papers/2609.32472>) | Preprint | Official page |
 | 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [M3D-QAdapter\: 3D Medical VQA with Lesion-Level Finding-Segmentation Alignment and Query-Driven Adaptive Token Reduction](<https://doi.org/10.1007/978-3-032-38062-3_34>) | Conference paper | OpenAlex |
@@ -551,7 +552,6 @@
 | 2025‑11‑19 | [GeoVista\: Web-Augmented Agentic Visual Reasoning for Geolocalization](<https://huggingface.co/papers/2511.15705>) | Technical report | Official page |
 | 2025‑11‑18 | [TTA\: Transcribe, Translate and Alignment for Cross-lingual Speech Representation](<http://arxiv.org/abs/2511.14410>) | Article | OpenAlex |
 | 2025‑11‑17 | [Part-X-MLLM\: Part-aware 3D Multimodal Large Language Model](<https://huggingface.co/papers/2511.13647>) | Technical report | Official page |
-| 2025‑11‑16 | [AlertGuardian\: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems](<https://doi.org/10.1109/ase63991.2025.00009>) | Article | OpenAlex |
 | 2025‑11‑16 | [IRSC\: A Zero-Shot Evaluation Benchmark for Information Retrieval Based on Semantic Comprehension in Retrieval-Augmented Generation Scenarios](<https://doi.org/10.1007/978-981-95-3352-7_20>) | Book chapter | OpenAlex |
 | 2025‑11‑16 | [Data Dependency-Aware Code Generation from Enhanced UML Sequence Diagrams](<https://doi.org/10.1109/ase63991.2025.00282>) | Article | OpenAlex |
 | 2025‑11‑16 | [Automated Prompt Generation for Code Intelligence\: An Empirical study and Experience in WeChat](<https://doi.org/10.1109/ase63991.2025.00285>) | Article | OpenAlex |
@@ -730,7 +730,6 @@
 | 2025‑06‑10 | [PhD\: A ChatGPT-Prompted Visual hallucination Evaluation Dataset](<https://doi.org/10.1109/cvpr52734.2025.01849>) | Article | OpenAlex |
 | 2025‑06‑10 | [MMAR\: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling](<https://doi.org/10.1109/cvpr52734.2025.00747>) | Article | OpenAlex |
 | 2025‑06‑10 | [GroundingFace\: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model](<https://doi.org/10.1109/cvpr52734.2025.00373>) | Article | OpenAlex |
-| 2025‑06‑10 | [Unveiling the Ignorance of MLLMs\: Seeing Clearly, Answering Incorrectly](<https://doi.org/10.1109/cvpr52734.2025.00849>) | Article | OpenAlex |
 | 2025‑06‑10 | [Real-IAD D&lt;sup&gt;3&lt;/sup&gt;\: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection](<https://doi.org/10.1109/cvpr52734.2025.01417>) | Article | OpenAlex |
 | 2025‑06‑10 | [Scene Splatter\: Momentum 3D Scene Generation from Single Image with Video Diffusion Model](<https://doi.org/10.1109/cvpr52734.2025.00571>) | Article | OpenAlex |
 | 2025‑06‑10 | [DyFo\: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding](<https://doi.org/10.1109/cvpr52734.2025.00850>) | Article | OpenAlex |
@@ -738,6 +737,7 @@
 | 2025‑06‑03 | [MMoFusion\: Multi-modal co-speech motion generation with diffusion model](<https://doi.org/10.1016/j.patcog.2025.111774>) | Article | OpenAlex |
 | 2025‑06‑02 | [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](<https://huggingface.co/papers/2506.01413>) | Technical report | Official page |
 | 2025‑06‑02 | [OmniV2V\: Versatile Video Generation and Editing via Dynamic Content Manipulation](<https://arxiv.org/abs/2506.01801>) | Paper | Verified affiliation |
+| 2025‑06 | [AssertionForge\: Enhancing Formal Verification Assertion Generation with Structured Representation of Specifications and RTL](<https://research.nvidia.com/publication/2025-06_assertionforge-enhancing-formal-verification-assertion-generation-structured>) | Publication | OpenAlex, Official page |
 | 2025‑05‑26 | [HunyuanVideo-Avatar\: High-Fidelity Audio-Driven Human Animation for Multiple Characters](<https://arxiv.org/abs/2505.20156>) | Paper | Verified affiliation |
 | 2025‑05‑24 | [$C^3$-Bench\: The Things Real Disturbing LLM based Agent in Multi-Tasking](<https://arxiv.org/abs/2505.18746>) | Paper | Verified affiliation |
 | 2025‑05‑21 | [Touch100k\: A large-scale touch-language-vision dataset for touch-centric multimodal representation](<https://doi.org/10.1016/j.inffus.2025.103305>) | Article | OpenAlex |
@@ -811,6 +811,7 @@
 | 2025‑02‑07 | [Genetic-to-Chemical Perturbation Transfer Learning Through Unified Multimodal Molecular Representations](<https://doi.org/10.1101/2025.02.02.635055>) | Preprint | OpenAlex |
 | 2025‑02‑06 | [A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis](<https://doi.org/10.1038/s41746-024-01339-7>) | Article | OpenAlex |
 | 2025‑02‑03 | [EARBench\: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents](<https://doi.org/10.21203/rs.3.rs-5540665/v1>) | Preprint | OpenAlex |
+| 2025‑02 | [Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation](<https://research.nvidia.com/publication/2025-02_semantic-prompt-learning-weakly-supervised-semantic-segmentation>) | Publication | OpenAlex, Official page |
 | 2025‑01‑27 | [Aligning, Autoencoding and Prompting Large Language Models for Novel Disease Reporting](<https://doi.org/10.1109/tpami.2025.3534586>) | Article | OpenAlex |
 | 2025‑01‑21 | [Hunyuan3D 2\.0\: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](<https://huggingface.co/papers/2501.12202>) | Technical report | Official report |
 | 2025‑01‑18 | [Hypnos\: A domain-specific large language model for anesthesiology](<https://doi.org/10.1016/j.neucom.2025.129389>) | Article | OpenAlex |
@@ -926,7 +927,6 @@
 | 2024‑06‑16 | [SmartEdit\: Exploring Complex Instruction-Based Image Editing with Multimodal Large Language Models](<https://doi.org/10.1109/cvpr52733.2024.00799>) | Article | OpenAlex |
 | 2024‑06‑16 | [Scaling Up to Excellence\: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild](<https://doi.org/10.1109/cvpr52733.2024.02425>) | Article | OpenAlex |
 | 2024‑06‑16 | [LL3DA\: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning](<https://doi.org/10.1109/cvpr52733.2024.02496>) | Article | OpenAlex |
-| 2024‑06‑16 | [DreamAvatar\: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](<https://doi.org/10.1109/cvpr52733.2024.00097>) | Article | OpenAlex |
 | 2024‑06‑16 | [DiffEditor\: Boosting Accuracy and Flexibility on Diffusion-Based Image Editing](<https://doi.org/10.1109/cvpr52733.2024.00811>) | Article | OpenAlex |
 | 2024‑06‑16 | [LaRE&lt;sup&gt;2&lt;/sup&gt;\: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection](<https://doi.org/10.1109/cvpr52733.2024.01609>) | Article | OpenAlex |
 | 2024‑06‑16 | [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](<http://arxiv.org/abs/2402.19014>) | Article | OpenAlex |
@@ -987,6 +987,7 @@
 | 2024‑03‑24 | [A Label Disambiguation-Based Multimodal Massive Multiple Instance Learning Approach for Immune Repertoire Classification](<http://dx.doi.org/10.1609/aaai.v38i14.29547>) | Article | OpenAlex |
 | 2024‑03‑20 | [Turning a CLIP Model Into a Scene Text Spotter](<https://doi.org/10.1109/tpami.2024.3379828>) | Article | OpenAlex |
 | 2024‑03‑20 | [Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model](<http://dx.doi.org/10.21203/rs.3.rs-3845824/v1>) | Preprint | OpenAlex |
+| 2024‑03‑18 | [Objects With Lighting\: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting](<https://doi.org/10.1109/3dv62453.2024.00097>) | Conference paper | OpenAlex |
 | 2024‑03‑18 | [Music Understanding LLaMA\: Advancing Text-to-Music Generation with Question Answering and Captioning](<https://doi.org/10.1109/icassp48485.2024.10447027>) | Article | OpenAlex |
 | 2024‑03‑18 | [Dynamic Data Sampler for Cross-Language Transfer Learning in Large Language Models](<https://doi.org/10.1109/icassp48485.2024.10446640>) | Article | OpenAlex |
 | 2024‑03‑18 | [AutoPrep\: An Automatic Preprocessing Framework for In-The-Wild Speech Data](<https://doi.org/10.1109/icassp48485.2024.10447759>) | Article | OpenAlex |
