@@ -282,6 +282,15 @@ class CollectionTests(unittest.TestCase):
             self.assertEqual(result["papers"], [])
             self.assertEqual(json.loads((Path(tmp) / "collection_pending.json").read_text()), [])
 
+    def test_meta_resolves_to_configured_openalex_institutions_without_name_search(self):
+        # OpenAlex names the entities "Meta (United States)" etc., which never match the
+        # "Meta AI" / "Facebook AI Research" search terms, so the ids must be configured.
+        meta = next(o for o in self.registry if o["name"] == "Meta/FAIR")
+        with patch.object(f, "openalex_get", side_effect=AssertionError("name search must not run")):
+            ids = f.resolve_openalex_institutions(meta, self.config, cache={})
+        self.assertEqual(set(ids), {"https://openalex.org/I4210114444", "https://openalex.org/I4210111288",
+                                    "https://openalex.org/I2252078561"})
+
     def test_metadata_budget_preserves_unprocessed_candidates(self):
         config = copy.deepcopy(self.config)
         config["company_tracking"]["metadata_checks_per_run"] = 1

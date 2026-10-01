@@ -392,6 +392,11 @@
             "country_code": "US",
             "aliases": ["Meta", "Meta AI", "FAIR", "Facebook AI"],
             "openalex_search_terms": ["Meta AI", "Meta Platforms", "Facebook AI Research"],
+            "openalex_ids": [
+              "https://openalex.org/I4210114444",
+              "https://openalex.org/I4210111288",
+              "https://openalex.org/I2252078561"
+            ],
             "huggingface_search_terms": ["Meta AI", "FAIR", "Llama"],
             "arxiv_search_terms": ["Meta AI", "FAIR", "Facebook AI"],
             "official_publication_pages": [
