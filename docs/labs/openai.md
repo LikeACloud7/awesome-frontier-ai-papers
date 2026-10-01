@@ -1,7 +1,7 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `483`
+- Papers: `484`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#openai)
 
@@ -23,9 +23,10 @@
 | 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
 | 2026‑09‑22 | [Priorities and principles for effective third party assessments](<https://openai.com/index/priorities-principles-third-party-assessments>) | Research post | Official page |
-| 2026‑09‑19 | [ParA-LLM\: A Unified Approach to Paralinguistic and Acoustic Speech Understanding](<https://arxiv.org/abs/2609.22771v1>) | Paper | Verified affiliation |
+| 2026‑09‑19 | [ParA-LLM\: A Unified Approach to Paralinguistic and Acoustic Speech Understanding](<https://arxiv.org/abs/2609.22771v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
 | 2026‑09‑16 | [Our framework for reporting model misalignment](<https://openai.com/index/model-misalignment-reporting-framework>) | Research post | Official page |
+| 2026‑09‑14 | [Inoculation Midtraining with Learned Neologisms](<https://arxiv.org/abs/2609.15886>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [OpenAI4S\: Code as Action, Science as Sessions](<https://arxiv.org/abs/2609.15096v1>) | Paper | Verified affiliation |
 | 2026‑09‑08 | [On the Navier–Stokes Millennium Prize Problem](<https://openai.com/index/navier-stokes-solution>) | Research post | Official page |
 | 2026‑09‑08 | [Funding grants for new research into AI and teen development](<https://openai.com/index/teen-development-research-grants>) | Research post | Official page |

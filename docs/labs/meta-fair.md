@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `364`
+- Papers: `366`
 - Latest: `2026-09-24`
 - [Back to README](../../README.md#metafair)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | n\.d\. | [metapaired](<https://github.com/facebookresearch/metapaired/blob/main/tex/paper.pdf>) | Technical report | Official repo |
+| n\.d\. | [latticer](<https://github.com/facebookresearch/latticer/blob/main/tex/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [hcrbounds](<https://github.com/facebookresearch/hcrbounds/blob/main/tex/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [fbcdgraph](<https://github.com/facebookresearch/fbcdgraph/blob/main/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [fbcddisgraph](<https://github.com/facebookresearch/fbcddisgraph/blob/main/tex/paper.pdf>) | Technical report | Official repo |
@@ -21,6 +22,7 @@
 | n\.d\. | [Unbiased Prevalence Estimation with Multicalibrated LLMs](<https://github.com/facebookresearch/multicalibrated_llm_measurement/blob/main/paper/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tutorial on Amortized Optimization](<https://github.com/facebookresearch/amortized-optimization-tutorial/blob/main/paper/fig/control-model-based-iter.pdf>) | Technical report | Official repo |
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
+| n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCS (Private Computation Solutions)](<https://github.com/facebookresearch/fbpcs/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E004159_DLOE_Report_2022-08-05_DLOE-Multi-Key-Private-ID.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCF (Private Computation Framework)](<https://github.com/facebookresearch/fbpcf/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E003028_DLOE_Report_2022-06-27_DLOE-ORAM.pdf>) | Technical report | Official repo |
 | n\.d\. | [MoCA\: Motion-Conditioned Image Animation for Video Editing](<https://github.com/facebookresearch/MoCA/blob/main/paper/MoCA.pdf>) | Technical report | Official repo |
@@ -204,7 +206,6 @@
 | 2025‑04‑28 | [LlamaFirewall\: An open source guardrail system for building secure AI agents](<https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/>) | Publication | Official page |
 | 2025‑04‑25 | [ReasonIR\: Training Retrievers for Reasoning Tasks](<https://ai.meta.com/research/publications/reasonir-training-retrievers-for-reasoning-tasks/>) | Publication | Official page |
 | 2025‑04‑17 | [Collaborative Reasoner\: Self-improving Social Agents with Synthetic Conversations](<https://ai.meta.com/research/publications/collaborative-reasoner-self-improving-social-agents-with-synthetic-conversations/>) | Publication | Official page |
-| 2025‑04‑17 | [Perception Encoder\: The best visual embeddings are not at the output of the network](<https://ai.meta.com/research/publications/perception-encoder-the-best-visual-embeddings-are-not-at-the-output-of-the-network/>) | Publication | Official page |
 | 2025‑04‑16 | [Locate 3D\: Real-World Object Localization via Self-Supervised Learning in 3D](<https://ai.meta.com/research/publications/locate-3d-real-world-object-localization-via-self-supervised-learning-in-3d/>) | Publication | Official page |
 | 2025‑04‑14 | [Autoregressive Distillation of Diffusion Transformers](<https://ai.meta.com/research/publications/autoregressive-distillation-of-diffusion-transformers/>) | Publication | Official page |
 | 2025‑04‑11 | [MultiBooth\: Towards Generating All Your Concepts in an Image from Text](<https://doi.org/10.1609/aaai.v39i10.33187>) | Article | OpenAlex |
@@ -233,6 +234,7 @@
 | 2025‑01‑04 | [Transformers are Multi-State RNNs](<https://ai.meta.com/research/publications/transformers-are-multi-state-rnns/>) | Publication | Official page |
 | 2025‑01‑02 | [A Structure-Aware Framework for Learning Device Placements on Computation Graphs](<https://ai.meta.com/research/publications/a-structure-aware-framework-for-learning-device-placements-on-computation-graphs/>) | Publication | Official page |
 | 2025‑01‑01 | [PerceptionLM\: Open-Access Data and Models for Detailed Visual Understanding](<https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Perception Encoder\: The best visual embeddings are not at the output of the network](<https://ai.meta.com/research/publications/perception-encoder-the-best-visual-embeddings-are-not-at-the-output-of-the-network/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [SwiftKV\: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation](<https://doi.org/10.18653/v1/2025.emnlp-main.1306>) | Article | OpenAlex |
 | 2025‑01‑01 | [ParetoQ\: Improving Scaling Laws in Extremely Low-bit LLM Quantization](<https://arxiv.org/abs/2502.02631>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [Physics of Language Models\: Part 1, Learning Hierarchical Language Structures](<https://doi.org/10.2139/ssrn.5250639>) | Preprint | OpenAlex |

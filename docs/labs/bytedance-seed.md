@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `266`
-- Latest: `2026-09-28`
+- Papers: `280`
+- Latest: `2026-09-29`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑29 | [Spectral graph filter bank fusion for multimodal rumor cascade representation and detection](<https://doi.org/10.1016/j.ipm.2026.105194>) | Article | OpenAlex |
+| 2026‑09‑28 | [TensorHub\: Scalable and Elastic Weight Transfer for LLM RL Training](<https://arxiv.org/abs/2604.09107>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [From Noisy Telemetry to Actionable Warnings\: GPU Failure Prediction in Industrial Clusters](<https://arxiv.org/abs/2609.34473v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [SequenceO1\: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching](<https://arxiv.org/abs/2609.08443>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [FLUID\: From Ephemeral IDs to Multimodal Semantic Codes for Billion-Scale Livestreaming Recommendation](<https://doi.org/10.1145/3773078.3831918>) | Conference paper | OpenAlex |
@@ -23,12 +25,24 @@
 | 2026‑09‑25 | [A Self-Triggered Agentic Push Recommendation System](<https://arxiv.org/abs/2608.01949>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |
+| 2026‑09‑19 | [Towards Full Pipeline FP8 Reinforcement Learning for LLMs](<https://arxiv.org/abs/2609.22870>) | Preprint | OpenAlex |
 | 2026‑09‑19 | [NSP\: Accelerating Variable-Length LLM Training via Nested Sequence Parallelism](<https://arxiv.org/abs/2609.22755v1>) | Paper | Verified affiliation |
+| 2026‑09‑17 | [SIMLIFE\: Pattern Understanding for Long-Horizon Human-Agent Partnership](<https://arxiv.org/abs/2609.19610>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Paint-Anything\: Unified Any-Color Control for Image Generation and Editing](<https://arxiv.org/abs/2609.20816v2>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [Principal-timestep Restricted Init via Sparse Matrix-decomposition in Flow-matching](<https://arxiv.org/abs/2609.15643>) | Preprint | OpenAlex |
+| 2026‑09‑14 | [VisInteract\: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries](<https://arxiv.org/abs/2609.15182>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |
+| 2026‑09‑11 | [UFO\: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation](<https://arxiv.org/abs/2609.12397>) | Preprint | OpenAlex |
+| 2026‑09‑10 | [The Last AI Built by Humans\: Toward Genuine Recursive Self-Improvement](<https://arxiv.org/abs/2609.11873>) | Preprint | OpenAlex |
+| 2026‑09‑04 | [First Things First\: Teaching LLM-Based Agents to Prioritize Must-Haves before Nice-to-Haves](<https://arxiv.org/abs/2609.05224>) | Preprint | OpenAlex |
+| 2026‑09‑04 | [CoSkill\: Joint Reinforcement Learning of Reasoning and Meta-Skill Agents for Hierarchical Skill Evolution](<https://arxiv.org/abs/2609.04865>) | Preprint | OpenAlex |
+| 2026‑09‑03 | [DoPR\: Reusable Compressed Document Prefixes for Efficient LLM Reranking](<https://arxiv.org/abs/2609.03311>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
-| 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation |
+| 2026‑09‑02 | [PRISM\: Precise region-aware instance style manipulation via text-guided test-time optimization](<https://doi.org/10.1016/j.patcog.2026.114779>) | Article | OpenAlex |
+| 2026‑09‑02 | [SelfLift\: Accelerating Few-Step Diffusion via Self-Recovering Resolution Transition](<https://arxiv.org/abs/2609.02036>) | Preprint | OpenAlex |
+| 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑01 | [OpenVid++\: A Large-scale High-quality Dataset for Text-to-video Generation](<https://doi.org/10.1007/s11263-026-02989-8>) | Article | OpenAlex |
+| 2026‑09‑01 | [World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation](<https://arxiv.org/abs/2609.01067>) | Preprint | OpenAlex |
 | 2026‑09‑01 | [GUI-ReWalk\: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](<https://doi.org/10.24963/ijcai.2026/27>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [SMELT\: Scaling Laws for Compute-Matched MoE Looped Transformers](<https://arxiv.org/abs/2609.01343v1>) | Paper | Verified affiliation |
 | 2026‑09‑01 | [HarnessDev\: Can LLMs Create and Evolve Their Own Agent Harness?](<https://arxiv.org/abs/2609.01437v1>) | Paper | Verified affiliation |

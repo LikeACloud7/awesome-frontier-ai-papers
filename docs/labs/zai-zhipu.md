@@ -17,7 +17,7 @@
 |---|---|---|---|
 | 2026‑09‑26 | [ScopeIF\: Improving Scope-Aware Precise Instruction-Following in Large Language Models via Graded Reward Modeling](<https://arxiv.org/abs/2609.32189v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Automated Evaluation Methods for Open-Ended Question in Hydropower Domain Based on Large Language Models](<https://doi.org/10.1007/978-3-032-32237-1_22>) | Conference paper | OpenAlex |
-| 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑06 | [Grounding large language models in hydrologic modelling](<https://doi.org/10.1016/j.jhydrol.2026.136358>) | Article | OpenAlex |
 | 2026‑07‑07 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](<https://huggingface.co/papers/2607.07508>) | Preprint | Official page |
 | 2026‑06‑08 | [SCAIL-2\: Unifying Controlled Character Animation with End-to-end In-Context Conditioning](<https://huggingface.co/papers/2606.10804>) | Technical report | Official page |

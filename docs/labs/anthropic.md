@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `238`
-- Latest: `2026-09-29`
+- Papers: `239`
+- Latest: `2026-09-30`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
 | 2026‑09‑28 | [Steering Language Model Goals with Value Transplant](<https://arxiv.org/abs/2609.34056v1>) | Paper | Verified affiliation |

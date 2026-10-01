@@ -1,8 +1,8 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `50`
-- Latest: `2026-09-20`
+- Papers: `52`
+- Latest: `2026-09-23`
 - [Back to README](../../README.md#stepfun)
 
 ## No date
@@ -17,7 +17,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑23 | [KITE\: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](<https://arxiv.org/abs/2609.27294v1>) | Paper | Verified affiliation |
 | 2026‑09‑20 | [onPanda\: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](<https://huggingface.co/papers/2609.24983>) | Preprint | Official page |
+| 2026‑09‑18 | [ConsistWorld\: Evidence Routing for Consistent Multi-Agent World Models](<https://arxiv.org/abs/2609.22641>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [StepAudio 3 Realtime Technical Report](<https://huggingface.co/papers/2609.14005>) | Preprint | Official page |
 | 2026‑09‑10 | [StepAudio 3 Music Technical Report](<https://huggingface.co/papers/2609.16034>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑08 | [Φ-Bench\: Can Large Language Models Engineer the Infrastructure That Powers Them?](<https://huggingface.co/papers/2609.10226>) | Preprint | Official page |

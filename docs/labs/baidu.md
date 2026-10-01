@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `317`
+- Papers: `331`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#baidu)
 
@@ -12,17 +12,31 @@
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
 | 2026‑09‑25 | [Highlight-Then-Summarize\: Learning to Compress Evidence for Long-Context Understanding](<https://doi.org/10.48550/arxiv.2609.31382>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [A Survey on Parallel Reasoning](<http://arxiv.org/abs/2510.12164>) | Article | OpenAlex |
+| 2026‑09‑23 | [ZO-COSMO\: Index-Free One-Hop Mixing for Decentralized Zeroth-Order Optimization](<https://arxiv.org/abs/2609.27199>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Coupled characteristics and operational optimization of a high-pressure hydrogen cascade fast refueling system](<https://doi.org/10.1016/j.ijhydene.2026.157608>) | Article | OpenAlex |
-| 2026‑09‑20 | [MuSeR\: Scalable Long-sequence Recommendation with Multi-interest Modeling](<https://arxiv.org/abs/2609.23677v1>) | Paper | Verified affiliation |
+| 2026‑09‑21 | [Adapting Tree-Structured Speculative Decoding to DeepSeek-V4 for Efficient Inference](<https://arxiv.org/abs/2609.24698>) | Preprint | OpenAlex |
+| 2026‑09‑20 | [RLVR$^{2}$\: Reinforcement Learning with Verifiable Rubric-based Ranking](<https://arxiv.org/abs/2609.23457>) | Preprint | OpenAlex |
+| 2026‑09‑20 | [From Ranked Documents to Reliable Contexts\: An Answer-Oriented Context Construct Framework for AI Search](<https://arxiv.org/abs/2609.23354>) | Preprint | OpenAlex |
+| 2026‑09‑20 | [MuSeR\: Scalable Long-sequence Recommendation with Multi-interest Modeling](<https://arxiv.org/abs/2609.23677v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑17 | [F$^{2}$DR\: A Fine-Grained Full-Pipeline Reward Framework for DeepSearch Workflows](<https://arxiv.org/abs/2609.19827>) | Preprint | OpenAlex |
+| 2026‑09‑17 | [Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data](<https://arxiv.org/abs/2609.19805>) | Preprint | OpenAlex |
+| 2026‑09‑16 | [PersonaPath\: Towards Knowledge-Centric Personalized Learning Path Planning](<https://arxiv.org/abs/2609.18861>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [From Transient Prompts to Persistent Control\: Scientific Poster Generation via Recursive Semantic-Geometric Contracts](<https://arxiv.org/abs/2609.17326v1>) | Paper | Verified affiliation |
-| 2026‑09‑14 | [Navigating Sparse Evidence\: Agentic Visual RAG via Explicit Context Selection and Consolidation](<https://arxiv.org/abs/2609.15800v1>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [Generate to Explore, Select to Exploit\: Aligning LLM-based Headline Generation with Personalized Recommendation](<https://arxiv.org/abs/2609.15094>) | Preprint | OpenAlex |
+| 2026‑09‑14 | [Navigating Sparse Evidence\: Agentic Visual RAG via Explicit Context Selection and Consolidation](<https://arxiv.org/abs/2609.15800v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑13 | [Tensos\: Fast and Accurate Federated GBDT Training via Tentative Feature Shrinking on Stragglers](<https://doi.org/10.1145/3832810.3832861>) | Conference paper | OpenAlex |
+| 2026‑09‑13 | [Beyond Natural Images\: Rethinking AI-Generated Image Detection in Documents](<https://arxiv.org/abs/2609.14352>) | Preprint | OpenAlex |
+| 2026‑09‑11 | [Online Video Agent Harness for Long Video Understanding](<https://arxiv.org/abs/2609.12818>) | Preprint | OpenAlex |
+| 2026‑09‑11 | [LifeMem\: Enabling Lifelong Experience Reuse for LLM Agents](<https://arxiv.org/abs/2609.12655>) | Preprint | OpenAlex |
 | 2026‑09‑10 | [SWRouter\: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations](<https://arxiv.org/abs/2609.11414>) | Preprint | OpenAlex |
-| 2026‑09‑09 | [BRACE\: Anchored Bellman-Residual Correction for Stale Critics in Asynchronous RL](<https://arxiv.org/abs/2609.09783v2>) | Paper | Verified affiliation |
+| 2026‑09‑10 | [Debate-to-Skill\: Capability-Bound Process Supervision for Industrial Query-to-Agent Annotation](<https://arxiv.org/abs/2609.11176>) | Preprint | OpenAlex |
+| 2026‑09‑09 | [JarvisGUI\: Towards Cross-Device GUI Agents with Dynamic Task Composition](<https://arxiv.org/abs/2609.10451>) | Preprint | OpenAlex |
+| 2026‑09‑09 | [BRACE\: Anchored Bellman-Residual Correction for Stale Critics in Asynchronous RL](<https://arxiv.org/abs/2609.09783v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑08 | [DynaStyle\: Mitigating Content Leakage by Dynamic Layer Routing in Stylized Image Generation](<https://doi.org/10.1145/3842745>) | Article | OpenAlex |
 | 2026‑09‑06 | [Entity-Driven Knowledge Compression for Question Answering on Long Contexts](<https://doi.org/10.1007/978-3-032-37667-1_3>) | Conference paper | OpenAlex |
+| 2026‑09‑02 | [Rendering-in-the-Loop\: An Execution-Driven Agent for Interactive Web Development](<https://arxiv.org/abs/2609.02088>) | Preprint | OpenAlex |
 | 2026‑09‑02 | [NLCC\: A Node-Level Congestion Control Framework for CDN Services](<https://doi.org/10.1145/3830391>) | Article | OpenAlex |
-| 2026‑09‑02 | [NE-R1\: Enhancing Named Entity Recognition Model via Reinforcement Learning](<https://arxiv.org/abs/2609.02366v1>) | Paper | Verified affiliation |
+| 2026‑09‑02 | [NE-R1\: Enhancing Named Entity Recognition Model via Reinforcement Learning](<https://arxiv.org/abs/2609.02366v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑01 | [Virtual ta’lim muhiti asosida ispan tilini o‘qitishning innovatsion modellari](<https://doi.org/10.67895/9t6y9z11>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Stay in Character, Stay Safe\: Dual-Cycle Adversarial Self-Evolution for Role-Playing Agents](<https://doi.org/10.24963/ijcai.2026/24>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [O‘zbek tilini ikkinchi til sifatida o‘qitishda milliy realiyalarning lingvodidaktik imkoniyatlari](<https://doi.org/10.67895/mxqc5r91>) | Conference paper | OpenAlex |
