@@ -49,4 +49,4 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2024‑06‑23 | [Mooncake\: A KVCache-centric Disaggregated Architecture for LLM Serving](<https://huggingface.co/papers/2407.00079>) | Technical report | Official page |
+| 2024‑06‑23 | [Mooncake\: A KVCache-centric Disaggregated Architecture for LLM Serving](<https://huggingface.co/papers/2407.00079>) | Technical report | Official page, OpenAlex |

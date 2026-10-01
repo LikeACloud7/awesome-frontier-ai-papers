@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1459`
+- Papers: `1460`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#apple)
 
@@ -10,11 +10,12 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
+| 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [SCLATE\: A Substrate for Continual-Learning Agent Training and Evaluation](<https://machinelearning.apple.com/research/sclate-agent-training-evaluation>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑26 | [KV-Lingo\: Learning KV-Cache Translators with Distillation](<https://arxiv.org/abs/2609.32610v1>) | Paper | Verified affiliation |
-| 2026‑09‑24 | [A Practical Recipe for Semi-Supervised Federated ASR\: Online Pseudo-Labels with Server Update Stabilization](<https://machinelearning.apple.com/research/practical-recipe-federated-asr>) | Publication | Official page |
 | 2026‑09‑23 | [How to Guide Your Language Flow](<https://machinelearning.apple.com/research/guide-language-flow>) | Publication | Official page |
+| 2026‑09‑21 | [A Practical Recipe for Semi-Supervised Federated ASR\: Online Pseudo-Labels with Server Update Stabilization](<https://machinelearning.apple.com/research/practical-recipe-federated-asr>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑21 | [Structured Decomposition for Reliable LLM-Generated Access Control Policies](<https://arxiv.org/abs/2609.24036>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [The Communication Bottleneck\: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models](<https://machinelearning.apple.com/research/communication-bottleneck-serialization>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026‑09‑18 | [Dynamically Scaled Activation Steering](<https://machinelearning.apple.com/research/dynamically-scaled-activation-steering>) | Publication | Official page |
@@ -512,7 +513,6 @@
 | 2025‑05‑27 | [MakeWay\: Object-Aware Costmaps for Proactive Indoor Navigation Using LiDAR](<https://doi.org/10.21428/d82e957c.1aaaa47c>) | Conference paper | OpenAlex |
 | 2025‑05‑23 | [Towards a Better Evaluation of 3D CVML Algorithms\: Immersive Debugging of a Localization Model](<https://machinelearning.apple.com/research/immersive-debugging>) | Publication | Official page, OpenAlex |
 | 2025‑05‑22 | [SPD\: Sync-Point Drop for Efficient Tensor Parallelism of Large Language Models](<https://machinelearning.apple.com/research/sync-point-drop>) | Publication | Official page |
-| 2025‑05‑22 | [What Makes for a Good Stereoscopic Image?](<https://machinelearning.apple.com/research/good-stereoscopic>) | Publication | Official page, OpenAlex |
 | 2025‑05‑21 | [Cubify Anything\: Scaling Indoor 3D Object Detection](<https://machinelearning.apple.com/research/cubify-anything>) | Publication | Official page, OpenAlex |
 | 2025‑05‑21 | [Humanoid Policy ~ Human Policy](<https://machinelearning.apple.com/research/humanoid-policy>) | Publication | Official page |
 | 2025‑05‑19 | [Local Policies Enable Zero-Shot Long-Horizon Manipulation](<https://doi.org/10.1109/icra55743.2025.11128407>) | Conference paper | OpenAlex |
@@ -554,7 +554,6 @@
 | 2025‑04‑10 | [Do LLMs Know Internally When They Follow Instructions?](<https://machinelearning.apple.com/research/do-llms-know-internally>) | Publication | Official page |
 | 2025‑04‑10 | [Adaptive Batch Size for Privately Finding Second-order Stationary Points](<https://machinelearning.apple.com/research/adaptive-batch-size>) | Publication | Official page |
 | 2025‑04‑10 | [A Formal Framework for Understanding Length Generalization in Transformers](<https://machinelearning.apple.com/research/length-generalization-transformers>) | Publication | Official page |
-| 2025‑04‑09 | [Private Selection with Heterogeneous Sensitivities](<https://machinelearning.apple.com/research/private-selection>) | Publication | Official page, OpenAlex |
 | 2025‑04‑08 | [Revisit Large-Scale Image–Caption Data in Pre-training Multimodal Foundation Models](<https://machinelearning.apple.com/research/large-scale-image-caption>) | Publication | Official page |
 | 2025‑04‑08 | [HRA-Secure Homomorphic Lattice-Based Proxy Re-Encryption with Tight Security](<https://doi.org/10.62056/ab0l5wol7>) | Article | OpenAlex |
 | 2025‑04‑07 | [Step-by-Step Diffusion\: An Elementary Tutorial](<https://machinelearning.apple.com/research/diffusion-elementary-tutorial>) | Publication | Official page, OpenAlex |
@@ -578,6 +577,7 @@
 | 2025‑03‑19 | [ILuvUI\: Instruction-Tuned Language-Vision Modeling of UIs from Machine Conversations](<https://machinelearning.apple.com/research/iluvui-instruction-tuned>) | Publication | Official page, OpenAlex |
 | 2025‑03‑19 | [VibE\: A Visual Analytics Workflow for Semantic Error Analysis of CVML Models at Subgroup Level](<https://machinelearning.apple.com/research/vibe-visual-analytics-workflow>) | Publication | Official page, OpenAlex |
 | 2025‑03‑19 | [From Interaction to Impact\: Towards Safer AI Agent Through Understanding and Evaluating Mobile UI Operation Impacts](<https://doi.org/10.1145/3708359.3712153>) | Conference paper | OpenAlex |
+| 2025‑03‑18 | [Private Selection with Heterogeneous Sensitivities](<https://machinelearning.apple.com/research/private-selection>) | Publication | Official page, OpenAlex |
 | 2025‑03‑12 | [Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models](<https://machinelearning.apple.com/research/exploring-prediction-targets>) | Publication | Official page, OpenAlex |
 | 2025‑03‑11 | [An Efficient and Streaming Audio Visual Active Speaker Detection System](<https://machinelearning.apple.com/research/efficient-streaming-audio-visual>) | Publication | Official page, OpenAlex |
 | 2025‑03‑07 | [Towards AI-Driven Sign Language Generation with Non-Manual Markers](<https://machinelearning.apple.com/research/ai-sign-language-generation>) | Publication | Official page, OpenAlex |
@@ -632,6 +632,7 @@
 | 2025‑01‑13 | [Exploring the role of cardiac activity in forecasting cognitive fatigue with machine learning](<https://doi.org/10.1080/24725579.2024.2449422>) | Article | OpenAlex |
 | 2025‑01‑10 | [Fingerprinting Codes Meet Geometry\: Improved Lower Bounds for Private Query Release and Adaptive Data Analysis](<https://machinelearning.apple.com/research/fingerprinting-codes>) | Publication | Official page, OpenAlex |
 | 2025‑01‑09 | [SLiCK\: Exploiting Subsequences for Length-Constrained Keyword Spotting](<https://machinelearning.apple.com/research/slick-exploiting-subsequences>) | Publication | Official page, OpenAlex |
+| 2025‑01‑08 | [What Makes for a Good Stereoscopic Image?](<https://machinelearning.apple.com/research/good-stereoscopic>) | Publication | Official page, OpenAlex |
 | 2025‑01‑06 | [3D Shape Tokenization](<https://machinelearning.apple.com/research/3d-shape-tokenization>) | Publication | Official page |
 | 2025‑01‑01 | [The Illusion of Thinking\: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](<https://machinelearning.apple.com/research/illusion-of-thinking>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Chain-of-Model Learning for Language Model](<https://www.microsoft.com/en-us/research/publication/chain-of-model-learning-for-language-model/>) | Publication | Official page, OpenAlex |

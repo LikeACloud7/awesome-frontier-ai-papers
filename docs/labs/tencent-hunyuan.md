@@ -968,7 +968,6 @@
 | 2024‑06‑16 | [Not All Prompts Are Secure\: A Switchable Backdoor Attack Against Pre-trained Vision Transfomers](<https://doi.org/10.1109/cvpr52733.2024.02306>) | Article | OpenAlex |
 | 2024‑06‑16 | [No Time to Train\: Empowering Non-Parametric Networks for Few-Shot 3D Scene Segmentation](<https://doi.org/10.1109/cvpr52733.2024.00368>) | Article | OpenAlex |
 | 2024‑06‑16 | [HRVDA\: High-Resolution Visual Document Assistant](<https://doi.org/10.1109/cvpr52733.2024.01471>) | Article | OpenAlex |
-| 2024‑06‑16 | [Eclipse\: Disambiguating Illumination and Materials Using Unintended Shadows](<https://doi.org/10.1109/cvpr52733.2024.00016>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [GenesisTex\: Adapting Image Denoising Diffusion to Texture Space](<https://doi.org/10.1109/cvpr52733.2024.00442>) | Article | OpenAlex |
 | 2024‑06‑16 | [Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs](<https://doi.org/10.1109/cvpr52733.2024.01306>) | Article | OpenAlex |
 | 2024‑06‑16 | [FreeMan\: Towards Benchmarking 3D Human Pose Estimation Under Real-World Conditions](<https://doi.org/10.1109/cvpr52733.2024.02075>) | Article | OpenAlex |
@@ -1016,6 +1015,7 @@
 | 2024‑03‑24 | [A Label Disambiguation-Based Multimodal Massive Multiple Instance Learning Approach for Immune Repertoire Classification](<http://dx.doi.org/10.1609/aaai.v38i14.29547>) | Article | OpenAlex |
 | 2024‑03‑20 | [Turning a CLIP Model Into a Scene Text Spotter](<https://doi.org/10.1109/tpami.2024.3379828>) | Article | OpenAlex |
 | 2024‑03‑20 | [Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model](<http://dx.doi.org/10.21203/rs.3.rs-3845824/v1>) | Preprint | OpenAlex |
+| 2024‑03‑19 | [An Improvement to Subblock-based Temporal Motion Vector Prediction Beyond VVC](<http://dx.doi.org/10.1109/dcc58796.2024.00016>) | Conference paper | OpenAlex |
 | 2024‑03‑18 | [Objects With Lighting\: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting](<https://doi.org/10.1109/3dv62453.2024.00097>) | Conference paper | OpenAlex |
 | 2024‑03‑18 | [Music Understanding LLaMA\: Advancing Text-to-Music Generation with Question Answering and Captioning](<https://doi.org/10.1109/icassp48485.2024.10447027>) | Article | OpenAlex |
 | 2024‑03‑18 | [Dynamic Data Sampler for Cross-Language Transfer Learning in Large Language Models](<https://doi.org/10.1109/icassp48485.2024.10446640>) | Article | OpenAlex |

@@ -19,8 +19,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑28 | [Towards safety cases for frontier AI training](<https://openai.com/index/towards-safety-cases-for-frontier-ai-training>) | Research post | Official page |
-| 2026‑09‑25 | [TransAct V2\: Production System for Lifelong User Sequence Modeling at Scale](<https://doi.org/10.1145/3773078.3831868>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [TransAct V2\: Production System for Lifelong User Sequence Modeling at Scale](<https://doi.org/10.1145/3773078.3831868>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
 | 2026‑09‑22 | [Priorities and principles for effective third party assessments](<https://openai.com/index/priorities-principles-third-party-assessments>) | Research post | Official page |
 | 2026‑09‑19 | [ParA-LLM\: A Unified Approach to Paralinguistic and Acoustic Speech Understanding](<https://arxiv.org/abs/2609.22771v1>) | Paper | Verified affiliation, OpenAlex |
@@ -253,7 +253,7 @@
 | 2025‑04‑11 | [SEAL\: Systematic Error Analysis for Value ALignment](<https://doi.org/10.1609/aaai.v39i26.34973>) | Conference paper | OpenAlex |
 | 2025‑04‑10 | [BrowseComp\: a benchmark for browsing agents](<https://openai.com/index/browsecomp>) | Research post | Official page |
 | 2025‑04‑09 | [Universal photonic artificial intelligence acceleration](<https://doi.org/10.1038/s41586-025-08854-x>) | Article | OpenAlex |
-| 2025‑04‑09 | [Position\: Contextual Confidence and Generative AI](<https://doi.org/10.1109/satml64287.2025.00022>) | Article | OpenAlex |
+| 2025‑04‑09 | [HyperCRX 2\.0\: A Comprehensive and Automated Tool for Empowering GitHub Insights](<https://doi.org/10.1109/icse-companion66252.2025.00022>) | Conference paper | OpenAlex |
 | 2025‑04‑02 | [PaperBench\: Evaluating AI’s Ability to Replicate AI Research](<https://openai.com/index/paperbench>) | Research post | Official page, Verified affiliation |
 | 2025‑03‑27 | [Relax\: Composable Abstractions for End-to-End Dynamic Machine Learning](<https://doi.org/10.1145/3676641.3716249>) | Article | OpenAlex |
 | 2025‑03‑25 | [Addendum to GPT-4o System Card\: 4o image generation](<https://openai.com/index/gpt-4o-image-generation-system-card-addendum>) | Publication | Official page |

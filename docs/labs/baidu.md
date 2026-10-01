@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `331`
-- Latest: `2026-09-28`
+- Papers: `332`
+- Latest: `2026-09-30`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
 | 2026‑09‑25 | [Highlight-Then-Summarize\: Learning to Compress Evidence for Long-Context Understanding](<https://doi.org/10.48550/arxiv.2609.31382>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [A Survey on Parallel Reasoning](<http://arxiv.org/abs/2510.12164>) | Article | OpenAlex |
@@ -70,7 +71,7 @@
 | 2026‑08‑05 | [Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection](<https://arxiv.org/abs/2608.04935>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [TurnSight\: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](<https://arxiv.org/abs/2608.04007>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [DocTrace\: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning](<https://arxiv.org/abs/2608.03292>) | Preprint | OpenAlex |
-| 2026‑08‑04 | [DiffImaginE\: Imagine to Verify Entity Types with Diffusio](<https://arxiv.org/abs/2608.03025>) | Preprint | OpenAlex |
+| 2026‑08‑04 | [DiffImaginE\: Imagine to Verify Entity Types with Diffusion](<https://arxiv.org/abs/2608.03025>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [Can Text-to-Image Models Draw from the Right Frame of Reference?](<https://arxiv.org/abs/2608.03357>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [CVPO\: Enhancing LLM Reinforcement Learning Reasoning via Value-Variance Adaptation and Dynamic Curriculum Learning](<https://arxiv.org/abs/2608.03068>) | Preprint | OpenAlex |
 | 2026‑08‑03 | [CRISP\: Critical Step Perception for Training Efficient Deep Search Agents](<https://arxiv.org/abs/2608.01867>) | Preprint | OpenAlex |
@@ -242,11 +243,11 @@
 | 2025‑05‑30 | [A Joint Learning of Force Feedback of Robotic Manipulation and Textual Cues for Granular Materials Classification](<https://doi.org/10.1109/lra.2025.3575322>) | Article | OpenAlex |
 | 2025‑05‑19 | [ARAG\: Analysis and Retrieval Augmented Generation for Comprehensive Reasoning over Socioeconomic Data](<https://doi.org/10.1109/icde65448.2025.00368>) | Article | OpenAlex |
 | 2025‑05‑19 | [M&lt;sup&gt;2&lt;/sup&gt;oERank\: Multi-Objective Mixture-of-Experts Enhanced Ranking for Satisfaction-Oriented Web Search](<https://doi.org/10.1109/icde65448.2025.00333>) | Article | OpenAlex |
-| 2025‑05‑19 | [DaRec\: A Disentangled Alignment Framework for Large Language Model and Recommender System](<https://doi.org/10.1109/icde65448.2025.00073>) | Article | OpenAlex |
 | 2025‑05‑19 | [Training Data Distribution Estimation for Optimized Pre-training Data Management](<https://doi.org/10.1109/icde65448.2025.00372>) | Article | OpenAlex |
 | 2025‑05‑08 | [Large Language Model for E-Commerce Workshop](<https://doi.org/10.1145/3701716.3717864>) | Article | OpenAlex |
 | 2025‑05‑06 | [Graph Machine Learning in the Era of Large Language Models (LLMs)](<https://doi.org/10.1145/3732786>) | Article | OpenAlex |
 | 2025‑05‑01 | [Constraining multimodal distribution for domain adaptation in stereo matching](<https://doi.org/10.1016/j.patcog.2025.111727>) | Article | OpenAlex |
+| 2025‑04‑26 | [DaRec\: A Disentangled Alignment Framework for Large Language Model and Recommender System](<https://doi.org/10.1109/icde65448.2025.00073>) | Article | OpenAlex |
 | 2025‑04‑22 | [Tool Learning in the Wild\: Empowering Language Models as Automatic Tool Agents](<https://doi.org/10.1145/3696410.3714825>) | Article | OpenAlex |
 | 2025‑04‑22 | [Self-Calibrated Listwise Reranking with Large Language Models](<https://doi.org/10.1145/3696410.3714658>) | Article | OpenAlex |
 | 2025‑04‑22 | [&lt;i&gt;ImageScope\:&lt;/i&gt; Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning](<https://doi.org/10.1145/3696410.3714777>) | Article | OpenAlex |

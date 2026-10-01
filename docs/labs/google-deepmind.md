@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `4545`
+- Papers: `4550`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -15,9 +15,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [Function-preserving watermarking of AI-generated proteins](<https://doi.org/10.1038/s41586-026-10965-y>) | Article | OpenAlex |
 | 2026‑09‑30 | [PCCR$$^+$$\: Leveraging Pupil Dynamics for Correcting PCCR Slippage Error](<https://doi.org/10.1007/978-3-032-39382-1_46>) | Conference paper | OpenAlex |
+| 2026‑09‑30 | [NETs\: Networked Stretchable and Scalable Sensing System for Multimodal Wearables and Interactive Surfaces](<https://doi.org/10.1145/3832015>) | Article | OpenAlex |
 | 2026‑09‑30 | [Mathematical discovery and exploration can be done at scale](<https://doi.org/10.1073/pnas.2536158123>) | Article | OpenAlex |
+| 2026‑09‑30 | [AI manipulation is context-dependent](<https://doi.org/10.21203/rs.3.rs-11011902/v1>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [AI and Agency\: Benefiting Users by Understanding and Serving Explicit Aspirations](<https://doi.org/10.54501/jots.v3i4.352>) | Article | OpenAlex |
+| 2026‑09‑28 | [The Signed Geometry of One-Shot Recourse\: On-Path Validity and the Signed-Curvature Criterion](<https://doi.org/10.48550/arxiv.2609.36252>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [StreamEP\: Straggler-Tolerant MoE Decoding without Communication Barriers](<https://doi.org/10.1145/3830418.3843869>) | Conference paper | OpenAlex |
 | 2026‑09‑27 | [Generalization Dynamics of LM Pre-training](<https://doi.org/10.48550/arxiv.2609.33150>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Protection by Entanglement\: Inseparable Design-Embedded Watermarks for Manufacturing-as-a-Service (MaaS)](<https://doi.org/10.1007/978-3-032-38695-3_21>) | Conference paper | OpenAlex |
@@ -67,6 +71,7 @@
 | 2026‑09‑17 | [The Stochastic Shift\: A New Evaluation Paradigm for Text-to-SQL with AI Operators](<https://arxiv.org/abs/2609.21133v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [Harnessing Generative UI for Education\: Tailored Learning Interactives](<https://arxiv.org/abs/2609.20738v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [DLB\: Distributed Load Balancing at Scale for Generative AI Inference](<https://arxiv.org/abs/2609.21079v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑16 | [Use and Effects of LLMs in Peer Review\: A Randomized Experiment and Survey at ICML 2026](<https://arxiv.org/abs/2609.19420v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑16 | [Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics](<https://arxiv.org/abs/2609.19453>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [Decodability is Not Causality\: Dissociating Probe Readouts from Behavioral Drivers via SAE Decomposition](<https://arxiv.org/abs/2609.18080>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [DualSQL\: Text-to-SQL with Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2609.18135v1>) | Paper | Verified affiliation, OpenAlex |
@@ -411,7 +416,6 @@
 | 2026‑05‑19 | [FullFlow\: Upgrading Text-to-Image Flow Matching Models for Bidirectional Vision--Language Generation](<https://arxiv.org/abs/2605.20316v1>) | Paper | Verified affiliation |
 | 2026‑05‑18 | [Taming the Variants Multi-Architecture Continuous Testing at Google](<https://doi.org/10.1109/icst69053.2026.00082>) | Conference paper | OpenAlex |
 | 2026‑05‑18 | [Probabilistic Greens\: Enabling High Frequency Releases at Google](<https://doi.org/10.1109/icstw72326.2026.00023>) | Conference paper | OpenAlex |
-| 2026‑05‑18 | [InsPIRe\: Communication-Efficient PIR with Server-Side Preprocessing](<https://doi.org/10.1109/sp63933.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑05‑18 | [Going PLACES\: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South](<https://doi.org/10.1145/3805689.3812296>) | Conference paper | OpenAlex |
 | 2026‑05‑18 | [Echoes of Citations\: Automated Extraction of Claims from Full Scientific Papers](<https://doi.org/10.1609/aaaiss.v8i1.42589>) | Conference paper | OpenAlex |
 | 2026‑05‑18 | [Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction](<http://arxiv.org/abs/2409.09978>) | Article | OpenAlex |
@@ -464,6 +468,7 @@
 | 2026‑05‑01 | [Challenges and Research Directions for Large Language Model Inference Hardware](<http://arxiv.org/abs/2601.05047>) | Article | OpenAlex |
 | 2026‑05‑01 | [Identification of camera trap images by artificial intelligence and human experts produces similar multi‐species occupancy models](<https://doi.org/10.1111/1365-2664.70370>) | Article | OpenAlex |
 | 2026‑05‑01 | [A Unified Metric Architecture for AI Infrastructure\: A Cross-Layer Taxonomy Integrating Performance, Efficiency, and Cost](<https://doi.org/10.3390/info17050432>) | Article | OpenAlex |
+| 2026‑05‑01 | [TemplateQO\: Template-Aware and Scalable Query Optimization with Data-Efficient Learning](<https://doi.org/10.1109/icde65706.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑05‑01 | [Revealing time-sensitive latent public health and emotional distress topics in Reddit discourse during the 2025 Southern California wildfires](<https://doi.org/10.1016/j.ijdrr.2026.106167>) | Article | OpenAlex |
 | 2026‑05‑01 | [Reducing Noise\: Hybrid Static Application Security Testing–Large Language Model Pipeline for Code Security](<https://doi.org/10.1109/msec.2026.3675646>) | Article | OpenAlex |
 | 2026‑05‑01 | [Prompting Approaches to Abbreviation Expansion](<https://doi.org/10.63317/5gvgu73r79p6>) | Conference paper | OpenAlex |
@@ -1222,7 +1227,6 @@
 | 2025‑12‑15 | [Advancing evaluation of AI systems when humans make the decisions](<https://doi.org/10.1073/pnas.2523997122>) | Article | OpenAlex |
 | 2025‑12‑15 | [Recurrent Video Masked Autoencoders](<https://arxiv.org/abs/2512.13684>) | Paper | Verified affiliation |
 | 2025‑12‑15 | [Image Diffusion Preview with Consistency Solver](<https://arxiv.org/abs/2512.13592v2>) | Paper | Verified affiliation |
-| 2025‑12‑14 | [Theoretical limitations of multi-layer Transformer](<https://doi.org/10.1109/focs63196.2025.00136>) | Conference paper | OpenAlex |
 | 2025‑12‑13 | [Maturity Metrics for Engineering Teams in AI-First Application-Development Projects](<https://ijcjournal.org/InternationalJournalOfComputer/article/view/2467>) | Article | OpenAlex |
 | 2025‑12‑11 | [Scikit-bio\: a fundamental Python library for biological omic data analysis](<https://doi.org/10.1038/s41592-025-02981-z>) | Article | OpenAlex |
 | 2025‑12‑11 | [Evaluating Gemini Robotics Policies in a Veo World Simulator](<https://huggingface.co/papers/2512.10675>) | Paper | Hugging Face |
@@ -1710,7 +1714,6 @@
 | 2025‑06‑19 | [Toward responsible AI governance\: Balancing multi-stakeholder perspectives on AI in healthcare](<https://doi.org/10.1016/j.ijmedinf.2025.106015>) | Article | OpenAlex |
 | 2025‑06‑18 | [Understanding, detecting, and removing perceptual banding artifacts in compressed videos](<https://doi.org/10.1016/j.image.2025.117372>) | Article | OpenAlex |
 | 2025‑06‑18 | [Representation Is All We Need\: Performance and Fairness of Google X-ray Foundation Model Representations – A Preliminary Study](<https://doi.org/10.1109/ichi64645.2025.00102>) | Article | OpenAlex |
-| 2025‑06‑18 | [Intelligent Perfect Pose and Health Analysis in Sports and Fitness](<https://doi.org/10.1109/ichi64645.2025.00095>) | Conference paper | OpenAlex |
 | 2025‑06‑17 | [ShieldGemma 2 Model Card](<https://ai.google.dev/gemma/docs/shieldgemma/model_card_2>) | Model card | Official page |
 | 2025‑06‑17 | [Gemma 3n Model Card](<https://ai.google.dev/gemma/docs/gemma-3n/model_card>) | Model card | Official page |
 | 2025‑06‑16 | [Collective cooperative intelligence](<https://doi.org/10.1073/pnas.2319948121>) | Article | OpenAlex |
@@ -1762,7 +1765,7 @@
 | 2025‑06‑10 | [Gaussian Eigen Models for Human Heads](<https://doi.org/10.1109/cvpr52734.2025.01485>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [MP-SfM\: Monocular Surface Priors for Robust Structure-From-Motion](<https://doi.org/10.1109/cvpr52734.2025.02039>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [DynamicScaler\: Seamless and Scalable Video Generation for Panoramic Scenes](<https://doi.org/10.1109/cvpr52734.2025.00576>) | Article | OpenAlex |
-| 2025‑06‑10 | [Ego4o\: Egocentric Human Motion Capture and Understanding from Multi-Modal Input](<https://doi.org/10.1109/cvpr52734.2025.02111>) | Article | OpenAlex |
+| 2025‑06‑10 | [Bridging Local Inductive Bias and Long-Range Dependencies With Pixel-Mamba for End-To-End Whole Slide Image Analysis](<https://doi.org/10.1109/iccv51701.2025.02111>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Tuning the Frequencies\: Robust Training for Sinusoidal Neural Networks](<https://doi.org/10.1109/cvpr52734.2025.00292>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [SEAL\: SEmantic Attention Learning for Long Video Representation](<https://doi.org/10.1109/cvpr52734.2025.02439>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Good, Cheap, and Fast\: Overfitted Image Compression with Wasserstein Distortion](<https://doi.org/10.1109/cvpr52734.2025.02166>) | Conference paper | OpenAlex |
@@ -1771,17 +1774,17 @@
 | 2025‑06‑10 | [Calibrated Multi-Preference Optimization for Aligning Diffusion Models](<https://doi.org/10.1109/cvpr52734.2025.01721>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [AdaHuman\: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion](<https://doi.org/10.1109/iccv51701.2025.01257>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Visual Lexicon\: Rich Image Features in Language Space](<https://doi.org/10.1109/cvpr52734.2025.01838>) | Article | OpenAlex |
+| 2025‑06‑10 | [ViSpeak\: Visual Instruction Feedback in Streaming Videos](<https://doi.org/10.1109/iccv51701.2025.02022>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [SceneCrafter\: Controllable Multi-View Driving Scene Editing](<https://doi.org/10.1109/cvpr52734.2025.00639>) | Conference paper | OpenAlex |
-| 2025‑06‑10 | [RelationField\: Relate Anything in Radiance Fields](<https://doi.org/10.1109/cvpr52734.2025.02022>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](<https://doi.org/10.1109/iccv51701.2025.02338>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Token Cropr\: Faster ViTs for Quite a Few Tasks](<https://doi.org/10.1109/cvpr52734.2025.00910>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Generative Omnimatte\: Learning to Decompose Video into Layers](<https://doi.org/10.1109/cvpr52734.2025.01168>) | Article | OpenAlex |
 | 2025‑06‑10 | [FALCON\: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding](<https://doi.org/10.1109/cvpr52734.2025.01403>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Can Generative Video Models Help Pose Estimation?](<https://doi.org/10.1109/cvpr52734.2025.01562>) | Conference paper | OpenAlex |
+| 2025‑06‑10 | [TextMaster\: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control](<https://doi.org/10.1109/iccv51701.2025.01495>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [OFER\: Occluded Face Expression Reconstruction](<https://doi.org/10.1109/cvpr52734.2025.02513>) | Article | OpenAlex |
 | 2025‑06‑10 | [Learning from Streaming Video with Orthogonal Gradients](<https://doi.org/10.1109/cvpr52734.2025.01274>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Learning Visual Composition through Improved Semantic Guidance](<https://doi.org/10.1109/cvpr52734.2025.00354>) | Conference paper | OpenAlex |
-| 2025‑06‑10 | [GroomLight\: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling](<https://doi.org/10.1109/cvpr52734.2025.01495>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Handling the Selection Monad](<https://doi.org/10.1145/3729321>) | Article | OpenAlex |
 | 2025‑06‑10 | [FRAME\: Floor-aligned Representation for Avatar Motion from Egocentric Video](<https://doi.org/10.1109/cvpr52734.2025.01630>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Context-Aware Multimodal Pretraining](<https://doi.org/10.1109/cvpr52734.2025.00403>) | Article | OpenAlex |
@@ -1848,6 +1851,7 @@
 | 2025‑05‑12 | [SoK\: Watermarking for AI-Generated Content](<https://doi.org/10.1109/sp61157.2025.00178>) | Article | OpenAlex |
 | 2025‑05‑12 | [Supporting Human Raters with the Detection of Harmful Content Using Large Language Models](<https://doi.org/10.1109/sp61157.2025.00082>) | Article | OpenAlex |
 | 2025‑05‑12 | [Research on Autonomous Navigation and Dynamic Path Planning Control System for Robots in Unknown Environments](<https://doi.org/10.1109/icicr65456.2025.00175>) | Conference paper | OpenAlex |
+| 2025‑05‑12 | [PFortifier\: Mitigating PHP Object Injection Through Automatic Patch Generation](<https://doi.org/10.1109/sp61157.2025.00136>) | Conference paper | OpenAlex |
 | 2025‑05‑09 | [Integrating Blockchain Technology with Artificial Intelligence to Create Scalable, Reliable, and Open Decision Support Systems](<https://doi.org/10.1109/ginotech63460.2025.11076782>) | Conference paper | OpenAlex |
 | 2025‑05‑08 | [Global drivers of forest loss at 1 km resolution](<https://doi.org/10.1088/1748-9326/add606>) | Article | OpenAlex |
 | 2025‑05‑08 | [User-LLM\: Efficient LLM Contextualization with User Embeddings](<https://doi.org/10.1145/3701716.3715463>) | Conference paper | OpenAlex |
@@ -2036,6 +2040,7 @@
 | 2025‑03‑03 | [Medical Hallucination in Foundation Models and Their Impact on Healthcare](<https://doi.org/10.1101/2025.02.28.25323115>) | Preprint | OpenAlex |
 | 2025‑03‑01 | [MLPerf Power\: Benchmarking the Energy Efficiency of Machine Learning Systems from μWatts to MWatts for Sustainable AI](<https://doi.org/10.1109/hpca61900.2025.00092>) | Conference paper | OpenAlex |
 | 2025‑03‑01 | [Engineering highly active nuclease enzymes with machine learning and high-throughput screening](<https://doi.org/10.1016/j.cels.2025.101236>) | Article | OpenAlex |
+| 2025‑03‑01 | [Enhancing Large-Scale AI Training Efficiency\: The C4 Solution for Real-Time Anomaly Detection and Communication Optimization](<https://doi.org/10.1109/hpca61900.2025.00095>) | Conference paper | OpenAlex |
 | 2025‑03‑01 | [Learning Generative Factors via Causal Representation Learning\: A Score-Based Perspective](<https://doi.org/10.1109/mbits.2026.3661916>) | Article | OpenAlex |
 | 2025‑02‑28 | [View-to-label\: Multi-view consistency for self-supervised monocular 3D object detection](<https://doi.org/10.1016/j.cviu.2025.104320>) | Article | OpenAlex |
 | 2025‑02‑28 | [The Surprise of Multiple Dependency Graphs](<https://doi.org/10.1145/3723000>) | Article | OpenAlex |
@@ -2180,13 +2185,13 @@
 | 2025‑01‑01 | [Force Prompting\: Video Generation Models Can Learn And Generalize Physics-based Control Signals](<http://arxiv.org/abs/2505.19386>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Confidence Improves Self-Consistency in LLMs](<https://doi.org/10.18653/v1/2025.findings-acl.1030>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Seg4Diff\: Unveiling Open-Vocabulary Semantic Segmentation in Text-to-Image Diffusion Transformers](<https://doi.org/10.52202/085713-2408>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Absolute Zero\: Reinforced Self-play Reasoning with Zero Data](<http://arxiv.org/abs/2505.03335>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Nested Learning\: The Illusion of Deep Learning Architectures](<https://doi.org/10.52202/085713-1565>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MiniMax-Remover\: Taming Bad Noise Helps Video Object Removal](<http://arxiv.org/abs/2505.24873>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Measuring what Matters\: Construct Validity in Large Language Model Benchmarks](<http://arxiv.org/abs/2511.04703>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?](<https://doi.org/10.18653/v1/2025.naacl-long.114>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [DEEP LEARNING FOR FINANCIAL STRESS TESTING\: A DATA-DRIVEN APPROACH TO RISK MANAGEMENT](<https://doi.org/10.2139/ssrn.5146509>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [AfriMed-QA\: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset](<https://doi.org/10.18653/v1/2025.acl-long.96>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Absolute Zero\: Reinforced Self-play Reasoning with Zero Data](<http://arxiv.org/abs/2505.03335>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [The Blessing of Reasoning\: LLM-Based Contrastive Explanations in Black-Box Recommender Systems](<https://doi.org/10.2139/ssrn.5099067>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [QuArch\: A Question-Answering Dataset for AI Agents in Computer Architecture](<https://doi.org/10.1109/lca.2025.3541961>) | Article | OpenAlex |
 | 2025‑01‑01 | [OpenVLThinker\: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles](<http://arxiv.org/abs/2503.17352>) | Conference paper | OpenAlex |
@@ -3429,7 +3434,6 @@
 | 2024‑06‑16 | [WonderJourney\: Going from Anywhere to Everywhere](<https://doi.org/10.1109/cvpr52733.2024.00636>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Visual Program Distillation\: Distilling Tools and Programmatic Reasoning into Vision-Language Models](<https://doi.org/10.1109/cvpr52733.2024.00916>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Video Interpolation with Diffusion Models](<https://doi.org/10.1109/cvpr52733.2024.00701>) | Conference paper | OpenAlex |
-| 2024‑06‑16 | [Unified Collective Communication (UCC)\: An Unified Library for CPU, GPU, and DPU Collectives](<https://doi.org/10.1109/hoti63208.2024.00018>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Style Aligned Image Generation via Shared Attention](<https://doi.org/10.1109/cvpr52733.2024.00457>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Streaming Dense Video Captioning](<https://doi.org/10.1109/cvpr52733.2024.01727>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [SpatialVLM\: Endowing Vision-Language Models with Spatial Reasoning Capabilities](<https://doi.org/10.1109/cvpr52733.2024.01370>) | Conference paper | OpenAlex |
@@ -3473,7 +3477,6 @@
 | 2024‑06‑16 | [One-Shot Open Affordance Learning with Foundation Models](<https://doi.org/10.1109/cvpr52733.2024.00298>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [CoDi\: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation](<https://doi.org/10.1109/cvpr52733.2024.00864>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Readout Guidance\: Learning Control from Diffusion Features](<https://doi.org/10.1109/cvpr52733.2024.00785>) | Conference paper | OpenAlex |
-| 2024‑06‑16 | [Eclipse\: Disambiguating Illumination and Materials Using Unintended Shadows](<https://doi.org/10.1109/cvpr52733.2024.00016>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [SHINOBI\: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild](<https://doi.org/10.1109/cvpr52733.2024.01857>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [PRDP\: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models](<https://doi.org/10.1109/cvpr52733.2024.00709>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [Image Neural Field Diffusion Models](<https://doi.org/10.1109/cvpr52733.2024.00765>) | Conference paper | OpenAlex |
@@ -3809,9 +3812,11 @@
 | 2024‑03‑20 | [Global prediction of extreme floods in ungauged watersheds](<https://doi.org/10.1038/s41586-024-07145-1>) | Article | OpenAlex |
 | 2024‑03‑20 | [Discovery of Stable Surfaces with Extreme Work Functions by High‐Throughput Density Functional Theory and Machine Learning](<https://doi.org/10.1002/adfm.202401764>) | Article | OpenAlex |
 | 2024‑03‑20 | [How Toddlers Use Core and Fringe Vocabulary\: What's in an Utterance?](<https://doi.org/10.1044/2024_ajslp-23-00366>) | Article | OpenAlex |
+| 2024‑03‑19 | [Unified Collective Communication (UCC)\: An Unified Library for CPU, GPU, and DPU Collectives](<https://doi.org/10.1109/hoti63208.2024.00018>) | Conference paper | OpenAlex |
 | 2024‑03‑19 | [TacticAI\: an AI assistant for football tactics](<https://doi.org/10.1038/s41467-024-45965-x>) | Article | OpenAlex |
 | 2024‑03‑19 | [STELA\: a community-centred approach to norm elicitation for AI alignment](<https://doi.org/10.1038/s41598-024-56648-4>) | Article | OpenAlex |
 | 2024‑03‑19 | [DiPaCo\: Distributed Path Composition](<https://deepmind.google/research/publications/84915/>) | Publication | Official page |
+| 2024‑03‑19 | [An Improvement to Subblock-based Temporal Motion Vector Prediction Beyond VVC](<http://dx.doi.org/10.1109/dcc58796.2024.00016>) | Conference paper | OpenAlex |
 | 2024‑03‑19 | [Clinical Focus\: The Development and Description of a Palette of Transmasculine Voices](<https://doi.org/10.1044/2024_ajslp-23-00398>) | Article | OpenAlex |
 | 2024‑03‑19 | [The Recommender System Paradox\: Autonomy in the Age of AI Recommendations](<https://doi.org/10.1109/jcice61382.2024.00037>) | Conference paper | OpenAlex |
 | 2024‑03‑19 | [HITSnDIFFs\: From Truth Discovery to Ability Discovery by Recovering Matrices with the Consecutive Ones Property](<http://dx.doi.org/10.1109/icde60146.2024.00025>) | Conference paper | OpenAlex |
@@ -4068,14 +4073,14 @@
 | 2024‑01‑03 | [Boosting Earth System Model Outputs And Saving PetaBytes in Their Storage Using Exascale Climate Emulators](<https://doi.org/10.1109/sc41406.2024.00008>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval](<https://doi.org/10.1109/wacv57701.2024.00555>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [JDEC\: JPEG Decoding via Enhanced Continuous Cosine Coefficients](<https://doi.org/10.1109/cvpr52733.2024.00269>) | Conference paper | OpenAlex |
-| 2024‑01‑03 | [Location-Aware Self-Supervised Transformers for Semantic Segmentation](<https://doi.org/10.1109/wacv57701.2024.00019>) | Conference paper | OpenAlex |
+| 2024‑01‑03 | [Securing Smart Cities\: AI-Driven Video Injection Attack Detection for Enhanced Urban Surveillance](<https://doi.org/10.1109/sasi-ite58663.2024.00014>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [Handformer2T\: A Lightweight Regression-based Model for Interacting Hands Pose Estimation from A Single RGB Image](<https://doi.org/10.1109/wacv57701.2024.00613>) | Conference paper | OpenAlex |
+| 2024‑01‑03 | [Enabling Translatability of Generative Face Video Coding\: A Unified Face Feature Transcoding Framework](<https://doi.org/10.1109/dcc58796.2024.00019>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [Edge Inference with Fully Differentiable Quantized Mixed Precision Neural Networks](<https://doi.org/10.1109/wacv57701.2024.00827>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [MaskConver\: Revisiting Pure Convolution Model for Panoptic Segmentation](<https://doi.org/10.1109/wacv57701.2024.00090>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [PoseDiff\: Pose-conditioned Multimodal Diffusion Model for Unbounded Scene Synthesis from Sparse Inputs](<https://doi.org/10.1109/wacv57701.2024.00494>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [TEGLO\: High Fidelity Canonical Texture Mapping from Single-View Images](<http://dx.doi.org/10.1109/wacv57701.2024.00355>) | Conference paper | OpenAlex |
 | 2024‑01‑03 | [Diverse Imagenet Models Transfer Better](<https://doi.org/10.1109/wacv57701.2024.00192>) | Conference paper | OpenAlex |
-| 2024‑01‑03 | [Securing Smart Cities\: AI-Driven Video Injection Attack Detection for Enhanced Urban Surveillance](<https://doi.org/10.1109/sasi-ite58663.2024.00014>) | Conference paper | OpenAlex |
 | 2024‑01‑02 | [DC-programming for neural network optimizations](<https://doi.org/10.1007/s10898-023-01344-2>) | Article | OpenAlex |
 | 2024‑01‑01 | [Overview of the Ninth Dialog System Technology Challenge\: DSTC9](<http://dx.doi.org/10.1109/taslp.2024.3426331>) | Article | OpenAlex |
 | 2024‑01‑01 | [Benchmarking Vision Language Models for Cultural Understanding](<https://research.google/pubs/benchmarking-vision-language-models-for-cultural-understanding/>) | Publication | Official page, OpenAlex |

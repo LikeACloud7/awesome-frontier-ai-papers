@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `280`
+- Papers: `281`
 - Latest: `2026-09-29`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -40,6 +40,7 @@
 | 2026‑09‑03 | [Collaborative Knowledge Distillation and Reinforcement Learning for Automated Ticket Triage in Large-Scale Production Systems](<https://doi.org/10.1145/3820774>) | Article | OpenAlex |
 | 2026‑09‑02 | [PRISM\: Precise region-aware instance style manipulation via text-guided test-time optimization](<https://doi.org/10.1016/j.patcog.2026.114779>) | Article | OpenAlex |
 | 2026‑09‑02 | [SelfLift\: Accelerating Few-Step Diffusion via Self-Recovering Resolution Transition](<https://arxiv.org/abs/2609.02036>) | Preprint | OpenAlex |
+| 2026‑09‑02 | [Fine-Grained Anomaly Perception in Wild UGC-Enhanced Images\: A Comprehensive Dataset and Difference-Fusion Framework](<https://arxiv.org/abs/2609.02529>) | Preprint | OpenAlex |
 | 2026‑09‑02 | [APEx\: Distillation of Agent Procedural Experience for Adaptive Deep Research Question Answering](<https://arxiv.org/abs/2609.02253v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑01 | [OpenVid++\: A Large-scale High-quality Dataset for Text-to-video Generation](<https://doi.org/10.1007/s11263-026-02989-8>) | Article | OpenAlex |
 | 2026‑09‑01 | [World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation](<https://arxiv.org/abs/2609.01067>) | Preprint | OpenAlex |
@@ -208,8 +209,6 @@
 | 2025‑04‑10 | [Seed-Thinking-v1\.5\: Advancing Superb Reasoning Models with Reinforcement Learning](<https://seed.bytedance.com/en/research/seed-thinking-v1-5-advancing-superb-reasoning-models-with-reinforcement-learning>) | Publication | Official page |
 | 2025‑04‑10 | [Seed1\.5-Thinking\: Advancing Superb Reasoning Models with Reinforcement Learning](<https://huggingface.co/papers/2504.13914>) | Paper | Hugging Face |
 | 2025‑04‑03 | [ViCaS\: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation](<https://seed.bytedance.com/en/research/vicas-a-dataset-for-combining-holistic-and-pixel-level-video-understanding-using-captions-with-grounded-segmentation>) | Publication | Official page |
-| 2025‑04‑03 | [Multi-SWE-bench\: A Multilingual Benchmark for Issue Resolving](<https://seed.bytedance.com/en/research/multi-swe-bench-a-multilingual-benchmark-for-issue-resolving>) | Publication | Official page |
-| 2025‑04‑02 | [Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback](<https://seed.bytedance.com/en/research/exploring-data-scaling-trends-and-effects-in-reinforcement-learning-from-human-feedback>) | Publication | Official page |
 | 2025‑04‑01 | [Recitation over Reasoning\: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?](<https://seed.bytedance.com/en/research/recitation-over-reasoning-how-cutting-edge-language-models-can-fail-on-elementary-school-level-reasoning-problems>) | Publication | Official page |
 | 2025‑04‑01 | [A predictive machine learning force-field framework for liquid electrolyte development](<https://seed.bytedance.com/en/research/a-predictive-machine-learning-force-field-framework-for-liquid-electrolyte-development>) | Publication | Official page |
 | 2025‑03‑25 | [RayFlow\: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories](<https://seed.bytedance.com/en/research/rayflow-instance-aware-diffusion-acceleration-via-adaptive-flow-trajectories>) | Publication | Official page |
@@ -245,7 +244,9 @@
 | 2025‑01‑16 | [VideoWorld\: Exploring Knowledge Learning from Unlabeled Videos](<https://seed.bytedance.com/en/research/videoworld-exploring-knowledge-learning-from-unlabeled-videos>) | Publication | Official page |
 | 2025‑01‑14 | [Diffusion Adversarial Post-Training for One-Step Video Generation](<https://seed.bytedance.com/en/research/diffusion-adversarial-post-training-for-one-step-video-generation>) | Publication | Official page |
 | 2025‑01‑01 | [DAPO\: An Open-Source LLM Reinforcement Learning System at Scale](<https://seed.bytedance.com/en/research/dapo-an-open-source-llm-reinforcement-learning-system-at-scale>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Multi-SWE-bench\: A Multilingual Benchmark for Issue Resolving](<https://seed.bytedance.com/en/research/multi-swe-bench-a-multilingual-benchmark-for-issue-resolving>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Model Merging in Pre-training of Large Language Models](<https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback](<https://seed.bytedance.com/en/research/exploring-data-scaling-trends-and-effects-in-reinforcement-learning-from-human-feedback>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [SuperGPQA\: Scaling LLM Evaluation across 285 Graduate Disciplines](<https://seed.bytedance.com/en/research/supergpqa-scaling-llm-evaluation-across-285-graduate-disciplines>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Vision as a Dialect\: Unifying Visual Understanding and Generation via Text-Aligned Representations](<https://arxiv.org/abs/2506.18898>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [UVE\: Are MLLMs Unified Evaluators for AI-Generated Videos?](<https://huggingface.co/papers/2503.09949>) | Paper | Hugging Face, OpenAlex |
@@ -285,7 +286,7 @@
 | 2024‑07‑10 | [LLaVA-NeXT-Interleave\: Tackling Multi-image, Video, and 3D in Large Multimodal Models](<https://seed.bytedance.com/en/research/llava-next-interleave-tackling-multi-image-video-and-3d-in-large-multimodal-models>) | Publication | Official page |
 | 2024‑06‑19 | [SD-Eval\: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words](<https://seed.bytedance.com/en/research/sd-eval-a-benchmark-dataset-for-spoken-dialogue-understanding-beyond-words>) | Publication | Official page |
 | 2024‑06‑13 | [Depth Anything V2](<https://seed.bytedance.com/en/research/depth-anything-v2>) | Publication | Official page |
-| 2024‑06‑11 | [Autoregressive Pretraining with Mamba in Vision](<https://seed.bytedance.com/en/research/autoregressive-pretraining-with-mamba-in-vision>) | Publication | Official page |
+| 2024‑06‑11 | [Autoregressive Pretraining with Mamba in Vision](<https://seed.bytedance.com/en/research/autoregressive-pretraining-with-mamba-in-vision>) | Publication | Official page, OpenAlex |
 | 2024‑06‑11 | [An Image is Worth 32 Tokens for Reconstruction and Generation](<https://seed.bytedance.com/en/research/an-image-is-worth-32-tokens-for-reconstruction-and-generation>) | Publication | Official page |
 | 2024‑06‑04 | [Seed-TTS\: A Family of High-Quality Versatile Speech Generation Models](<https://seed.bytedance.com/en/research/seed-tts-a-family-of-high-quality-versatile-speech-generation-models>) | Publication | Official page |
 | 2024‑05‑29 | [PeRFlow\: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator](<https://seed.bytedance.com/en/research/perflow-piecewise-rectified-flow-as-universal-plug-and-play-accelerator>) | Publication | Official page |
