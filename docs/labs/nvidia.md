@@ -71,7 +71,7 @@
 | 2026‑09‑10 | [AccelForge\: Comprehensive Modeling and Co-Design Framework for AI Accelerators](<https://arxiv.org/abs/2609.11906>) | Preprint | OpenAlex |
 | 2026‑09‑09 | [Pushing the Boundaries of Streaming Multi-Speaker ASR\: A Systematic Study of Architectural Trade-offs](<https://arxiv.org/abs/2609.10265>) | Preprint | OpenAlex |
 | 2026‑09‑09 | [De novo Rubisco design with protein language models](<https://doi.org/10.64898/2026.09.04.749267>) | Preprint | OpenAlex |
-| 2026‑09‑08 | [Towards Standardized Evaluation of GPU Memory Safety with GMSBench](<https://arxiv.org/abs/2609.08871>) | Preprint | OpenAlex |
+| 2026‑09‑08 | [Towards Standardized Evaluation of GPU Memory Safety with GMSBench](<https://www.microsoft.com/en-us/research/publication/towards-standardized-evaluation-of-gpu-memory-safety-with-gmsbench/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑08 | [TASTE2\: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction](<https://arxiv.org/abs/2609.08956>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Photonic Quantum-Enhanced Knowledge Distillation](<http://arxiv.org/abs/2603.14898>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [VANTAGE-Bench\: Evaluating the Infrastructure AI Gap in Vision-Language Models](<https://arxiv.org/abs/2609.09396v1>) | Paper | Verified affiliation |

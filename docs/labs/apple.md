@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1460`
-- Latest: `2026-09-30`
+- Papers: `1462`
+- Latest: `2026-10-01`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
+| 2026‑10‑01 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page |
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |

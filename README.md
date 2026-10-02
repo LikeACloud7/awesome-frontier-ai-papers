@@ -26,12 +26,12 @@
 
 | Publications in the index | Tracked labs | Archive window | Latest snapshot |
 |:---:|:---:|:---:|:---:|
-| **22,158** | **19** · 9 US / 10 China | **2024 → present** | **2026-10-01** |
+| **22,220** | **19** · 9 US / 10 China | **2024 → present** | **2026-10-02** |
 
 AI research by the tracked labs, with links back to the source. Publication counts include papers, research posts, technical reports, and model or system cards.
 
 > [!NOTE]
-> **Collection is still catching up.** 24 sources need attention and 1105 records await metadata. [View collection status](public/data/collection_health.json).
+> **Collection is still catching up.** 26 sources need attention and 999 records await metadata. [View collection status](public/data/collection_health.json).
 
 ## Latest Across Labs
 
@@ -39,7 +39,11 @@ The 20 newest entries. Use the [web explorer](https://likeacloud7.github.io/awes
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026‑10‑01 | Anthropic | [Claude-shaped science](<https://www.anthropic.com/research/claude-shaped-science>) | Research post | Official page |
+| 2026‑10‑01 | Apple | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
+| 2026‑10‑01 | Apple | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page |
 | 2026‑09‑30 | Anthropic | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |
+| 2026‑09‑30 | Tencent/Hunyuan | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page |
 | 2026‑09‑30 | Apple | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
 | 2026‑09‑30 | Google/DeepMind | [Function-preserving watermarking of AI-generated proteins](<https://doi.org/10.1038/s41586-026-10965-y>) | Article | OpenAlex |
 | 2026‑09‑30 | Amazon | [Vision\: HomeLM for Ambient Intelligence in the Smart Home](<https://doi.org/10.1145/3842436.3843789>) | Conference paper | OpenAlex |
@@ -55,10 +59,6 @@ The 20 newest entries. Use the [web explorer](https://likeacloud7.github.io/awes
 | 2026‑09‑30 | Apple | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | NVIDIA | [AI-Driven Super-Resolution Enhancement of Scanning Electron Microscopy Images for Semiconductor Failure Analysis](<https://doi.org/10.31399/asm.cp.istfa2026p0616>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | Google/DeepMind | [AI manipulation is context-dependent](<https://doi.org/10.21203/rs.3.rs-11011902/v1>) | Preprint | OpenAlex |
-| 2026‑09‑30 | Google/DeepMind | [AI and Agency\: Benefiting Users by Understanding and Serving Explicit Aspirations](<https://doi.org/10.54501/jots.v3i4.352>) | Article | OpenAlex |
-| 2026‑09‑30 | Amazon | [A Fine-Grained Benchmark for Ophthalmic Foundation Models with Point-Based Classification and Retrieval](<https://doi.org/10.21203/rs.3.rs-10817915/v1>) | Preprint | OpenAlex |
-| 2026‑09‑30 | Alibaba/Qwen | [The Evolution of Attention in Large Language Models\: Mechanisms, Trade-offs, and Emerging Trends](<https://arxiv.org/abs/2609.39661v1>) | Paper | Verified affiliation |
-| 2026‑09‑30 | Tencent/Hunyuan | [NarrativeSteward\: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](<https://arxiv.org/abs/2609.39333v1>) | Paper | Verified affiliation |
 
 ## Labs
 
@@ -68,12 +68,12 @@ Jump to a lab’s recent work, or open its complete archive.
 
 | Lab | Publications | Latest | Archive |
 |:---|---:|:---|:---|
-| [Amazon](#amazon) | **3,491** | 2026-09-30 | [Full list →](docs/labs/amazon.md) |
-| [Anthropic](#anthropic) | **239** | 2026-09-30 | [Full list →](docs/labs/anthropic.md) |
-| [Apple](#apple) | **1,460** | 2026-09-30 | [Full list →](docs/labs/apple.md) |
+| [Amazon](#amazon) | **3,520** | 2026-09-30 | [Full list →](docs/labs/amazon.md) |
+| [Anthropic](#anthropic) | **240** | 2026-10-01 | [Full list →](docs/labs/anthropic.md) |
+| [Apple](#apple) | **1,462** | 2026-10-01 | [Full list →](docs/labs/apple.md) |
 | [Google/DeepMind](#googledeepmind) | **4,550** | 2026-09-30 | [Full list →](docs/labs/google-deepmind.md) |
 | [Meta/FAIR](#metafair) | **401** | 2026-09-29 | [Full list →](docs/labs/meta-fair.md) |
-| [Microsoft](#microsoft) | **3,829** | 2026-09-30 | [Full list →](docs/labs/microsoft.md) |
+| [Microsoft](#microsoft) | **3,835** | 2026-09-30 | [Full list →](docs/labs/microsoft.md) |
 | [NVIDIA](#nvidia) | **1,983** | 2026-09-30 | [Full list →](docs/labs/nvidia.md) |
 | [OpenAI](#openai) | **484** | 2026-09-28 | [Full list →](docs/labs/openai.md) |
 | [xAI](#xai) | **12** | 2026-06-04 | [Full list →](docs/labs/xai.md) |
@@ -88,9 +88,9 @@ Jump to a lab’s recent work, or open its complete archive.
 | [DeepSeek](#deepseek) | **42** | 2026-09-29 | [Full list →](docs/labs/deepseek.md) |
 | [Huawei/Noah](#huaweinoah) | **645** | 2026-09-30 | [Full list →](docs/labs/huawei-noah.md) |
 | [MiniMax](#minimax) | **13** | 2026-07 | [Full list →](docs/labs/minimax.md) |
-| [Moonshot/Kimi](#moonshotkimi) | **26** | 2026-07-27 | [Full list →](docs/labs/moonshot-kimi.md) |
+| [Moonshot/Kimi](#moonshotkimi) | **49** | 2026-07-27 | [Full list →](docs/labs/moonshot-kimi.md) |
 | [StepFun](#stepfun) | **52** | 2026-09-23 | [Full list →](docs/labs/stepfun.md) |
-| [Tencent/Hunyuan](#tencenthunyuan) | **1,035** | 2026-09-30 | [Full list →](docs/labs/tencent-hunyuan.md) |
+| [Tencent/Hunyuan](#tencenthunyuan) | **1,038** | 2026-09-30 | [Full list →](docs/labs/tencent-hunyuan.md) |
 | [Z\.ai/Zhipu](#zaizhipu) | **51** | 2026-09-26 | [Full list →](docs/labs/zai-zhipu.md) |
 
 ## Papers by Lab
@@ -99,7 +99,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Amazon
 
-🇺🇸 **3,491 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/amazon.md)
+🇺🇸 **3,520 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -112,14 +112,15 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑09‑28 | [Rethinking Latent Visual Reasoning\: Grounding Latent Reasoning in Visual Evidence](<https://arxiv.org/abs/2609.34563v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [RDE-Seg\: Role-Disentangled Experts with Residual Routing and Anatomy Constraints for DSA Guidewire Segmentation](<https://doi.org/10.1007/978-3-032-38085-2_42>) | Conference paper | OpenAlex |
 
-[All 3,491 entries →](docs/labs/amazon.md) · [Back to labs ↑](#labs)
+[All 3,520 entries →](docs/labs/amazon.md) · [Back to labs ↑](#labs)
 
 ### Anthropic
 
-🇺🇸 **239 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/anthropic.md)
+🇺🇸 **240 publications** · Latest `2026-10-01` · [Full archive →](docs/labs/anthropic.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [Claude-shaped science](<https://www.anthropic.com/research/claude-shaped-science>) | Research post | Official page |
 | 2026‑09‑30 | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
@@ -127,26 +128,25 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |
 | 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
 | 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |
-| 2026‑09‑17 | [How Claude is uplifting biomolecular modeling](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) | Research post | Official page |
 
-[All 239 entries →](docs/labs/anthropic.md) · [Back to labs ↑](#labs)
+[All 240 entries →](docs/labs/anthropic.md) · [Back to labs ↑](#labs)
 
 ### Apple
 
-🇺🇸 **1,460 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/apple.md)
+🇺🇸 **1,462 publications** · Latest `2026-10-01` · [Full archive →](docs/labs/apple.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
+| 2026‑10‑01 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page |
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [SCLATE\: A Substrate for Continual-Learning Agent Training and Evaluation](<https://machinelearning.apple.com/research/sclate-agent-training-evaluation>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑26 | [KV-Lingo\: Learning KV-Cache Translators with Distillation](<https://arxiv.org/abs/2609.32610v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [How to Guide Your Language Flow](<https://machinelearning.apple.com/research/guide-language-flow>) | Publication | Official page |
-| 2026‑09‑21 | [A Practical Recipe for Semi-Supervised Federated ASR\: Online Pseudo-Labels with Server Update Stabilization](<https://machinelearning.apple.com/research/practical-recipe-federated-asr>) | Publication | Official page, Verified affiliation |
-| 2026‑09‑21 | [Structured Decomposition for Reliable LLM-Generated Access Control Policies](<https://arxiv.org/abs/2609.24036>) | Preprint | OpenAlex |
 
-[All 1,460 entries →](docs/labs/apple.md) · [Back to labs ↑](#labs)
+[All 1,462 entries →](docs/labs/apple.md) · [Back to labs ↑](#labs)
 
 ### Google/DeepMind
 
@@ -184,7 +184,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Microsoft
 
-🇺🇸 **3,829 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/microsoft.md)
+🇺🇸 **3,835 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -197,7 +197,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑09‑28 | [MeshRT\: Compile-Time Governed Wafer-Scale Runtime for Low-Latency High-Throughput Inference](<https://www.microsoft.com/en-us/research/publication/meshrt-compile-time-governed-wafer-scale-runtime-for-low-latency-high-throughput-inference/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑28 | [Explainability-Guided Multimodal Optimization for Arabic Music Genre Classification](<https://doi.org/10.3390/app16199613>) | Article | OpenAlex |
 
-[All 3,829 entries →](docs/labs/microsoft.md) · [Back to labs ↑](#labs)
+[All 3,835 entries →](docs/labs/microsoft.md) · [Back to labs ↑](#labs)
 
 ### NVIDIA
 
@@ -354,20 +354,20 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Moonshot/Kimi
 
-🇨🇳 **26 publications** · Latest `2026-07-27` · [Full archive →](docs/labs/moonshot-kimi.md)
+🇨🇳 **49 publications** · Latest `2026-07-27` · [Full archive →](docs/labs/moonshot-kimi.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑07‑27 | [the assistant should mention 215 and 222 that appear in the prior reasoning content](<https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf>) | Technical report | Official repo |
+| 2026‑07‑26 | [Kimi K3\: Open Frontier Intelligence](<https://huggingface.co/papers/2607.24653>) | Technical report | Official page, Hugging Face |
 | 2026‑07‑26 | [PerceptionBench\: Evaluating Atomic Visual Perception in Multimodal Large Language Models](<https://huggingface.co/papers/2607.24957>) | Technical report | Official page |
-| 2026‑07‑26 | [Kimi K3\: Open Frontier Intelligence](<https://huggingface.co/papers/2607.24653>) | Technical report | Official page |
 | 2026‑07‑23 | [PerceptionBench](<https://github.com/MoonshotAI/PerceptionBench/blob/master/paper/PerceptionBench.pdf>) | Technical report | Official repo |
-| 2026‑03‑16 | [Attention Residuals](<https://huggingface.co/papers/2603.15031>) | Technical report | Official page |
-| 2026‑02‑02 | [Kimi K2\.5\: Visual Agentic Intelligence](<https://huggingface.co/papers/2602.02276>) | Technical report | Official page |
-| 2026‑01‑28 | [WorldVQA\: Measuring Atomic World Knowledge in Multimodal Large Language Models](<https://huggingface.co/papers/2602.02537>) | Technical report | Official page |
-| 2026‑01‑27 | [Towards Pixel-Level VLM Perception via Simple Points Prediction](<https://huggingface.co/papers/2601.19228>) | Technical report | Official page |
+| 2026‑04‑01 | [TENT\: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving](<https://arxiv.org/abs/2604.00368>) | Preprint | OpenAlex |
+| 2026‑03‑16 | [Attention Residuals](<https://huggingface.co/papers/2603.15031>) | Technical report | Official page, Hugging Face |
+| 2026‑03‑14 | [ExtendAttack\: Attacking Servers of LRMs via Extending Reasoning](<https://doi.org/10.1609/aaai.v40i41.40833>) | Conference paper | OpenAlex |
+| 2026‑02‑17 | [GlobeDiff\: State Diffusion Process for Partial Observability in Multi-Agent Systems](<http://arxiv.org/abs/2602.15776>) | Preprint | OpenAlex |
 
-[All 26 entries →](docs/labs/moonshot-kimi.md) · [Back to labs ↑](#labs)
+[All 49 entries →](docs/labs/moonshot-kimi.md) · [Back to labs ↑](#labs)
 
 ### StepFun
 
@@ -388,20 +388,20 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Tencent/Hunyuan
 
-🇨🇳 **1,035 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/tencent-hunyuan.md)
+🇨🇳 **1,038 publications** · Latest `2026-09-30` · [Full archive →](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page |
 | 2026‑09‑30 | [NarrativeSteward\: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](<https://arxiv.org/abs/2609.39333v1>) | Paper | Verified affiliation |
+| 2026‑09‑28 | [Adaptive Reward Routing\: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](<https://huggingface.co/papers/2609.37200>) | Preprint | Official page |
 | 2026‑09‑28 | [G$^3$-LoRA\: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA](<https://doi.org/10.48550/arxiv.2609.35189>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Just MLPs\: Efficient Visual State Reconstruction for Multimodal Language Models](<https://huggingface.co/papers/2609.34972>) | Preprint | Official page |
 | 2026‑09‑27 | [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](<https://huggingface.co/papers/2609.35457>) | Preprint | Official page |
 | 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page |
-| 2026‑09‑27 | [Empirical 5/3 Spectral Scaling in Contextual Representations of Language](<https://doi.org/10.3390/e28101063>) | Article | OpenAlex |
-| 2026‑09‑25 | [AdaTutoRank\: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](<https://huggingface.co/papers/2609.32472>) | Preprint | Official page |
-| 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
+| 2026‑09‑27 | [Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?](<https://huggingface.co/papers/2609.34621>) | Preprint | Official page |
 
-[All 1,035 entries →](docs/labs/tencent-hunyuan.md) · [Back to labs ↑](#labs)
+[All 1,038 entries →](docs/labs/tencent-hunyuan.md) · [Back to labs ↑](#labs)
 
 ### Z\.ai/Zhipu
 

@@ -1,5 +1,5 @@
 {
-  "next_lab": 10,
+  "next_lab": 11,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -48,6 +48,11 @@
     },
     "Alibaba/Qwen": {
       "last_attempt": "2026-10-01",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Moonshot/Kimi": {
+      "last_attempt": "2026-10-02",
       "status": "partial",
       "since": "2024-01-01"
     }

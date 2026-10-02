@@ -3091,7 +3091,7 @@
 | 2024‑06‑25 | [MoE-CT\: A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting](<http://arxiv.org/abs/2407.00875>) | Preprint | OpenAlex |
 | 2024‑06‑24 | [KEHRL\: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning](<http://arxiv.org/abs/2406.16374>) | Preprint | OpenAlex |
 | 2024‑06‑24 | [UniPSDA\: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding](<http://arxiv.org/abs/2406.16372>) | Preprint | OpenAlex |
-| 2024‑06‑23 | [Mooncake\: A KVCache-centric Disaggregated Architecture for LLM Serving](<https://huggingface.co/papers/2407.00079>) | Technical report | Official page, OpenAlex |
+| 2024‑06‑23 | [Mooncake\: A KVCache-centric Disaggregated Architecture for LLM Serving](<https://huggingface.co/papers/2407.00079>) | Technical report | Official page, OpenAlex, Hugging Face |
 | 2024‑06‑23 | [TSAcc\: An Efficient \\underline{T}empo-\\underline{S}patial Similarity Aware \\underline{Acc}elerator for Attention Acceleration](<https://doi.org/10.1145/3649329.3655982>) | Conference paper | OpenAlex |
 | 2024‑06‑23 | [A High-Throughput Private Inference Engine Based on 3D Stacked Memory](<https://doi.org/10.1145/3649329.3657375>) | Conference paper | OpenAlex |
 | 2024‑06‑23 | [Auto-ISP\: An Efficient Real-Time Automatic Hyperparameter Optimization Framework for ISP Hardware System](<https://doi.org/10.1145/3649329.3655952>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1035`
+- Papers: `1038`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -22,11 +22,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page |
 | 2026‑09‑30 | [NarrativeSteward\: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](<https://arxiv.org/abs/2609.39333v1>) | Paper | Verified affiliation |
+| 2026‑09‑28 | [Adaptive Reward Routing\: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](<https://huggingface.co/papers/2609.37200>) | Preprint | Official page |
 | 2026‑09‑28 | [G$^3$-LoRA\: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA](<https://doi.org/10.48550/arxiv.2609.35189>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Just MLPs\: Efficient Visual State Reconstruction for Multimodal Language Models](<https://huggingface.co/papers/2609.34972>) | Preprint | Official page |
 | 2026‑09‑27 | [How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](<https://huggingface.co/papers/2609.35457>) | Preprint | Official page |
 | 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page |
+| 2026‑09‑27 | [Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?](<https://huggingface.co/papers/2609.34621>) | Preprint | Official page |
 | 2026‑09‑27 | [Empirical 5/3 Spectral Scaling in Contextual Representations of Language](<https://doi.org/10.3390/e28101063>) | Article | OpenAlex |
 | 2026‑09‑25 | [AdaTutoRank\: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](<https://huggingface.co/papers/2609.32472>) | Preprint | Official page |
 | 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
