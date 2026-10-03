@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `401`
-- Latest: `2026-09-29`
+- Papers: `409`
+- Latest: `2026-10-02`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -21,6 +21,7 @@
 | n\.d\. | [VIP\: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training (ICLR 2023, Spotlight)](<https://github.com/facebookresearch/vip/blob/main/evaluation/mj_envs/mj_envs/white_paper_2020.pdf>) | Technical report | Official repo |
 | n\.d\. | [Unbiased Prevalence Estimation with Multicalibrated LLMs](<https://github.com/facebookresearch/multicalibrated_llm_measurement/blob/main/paper/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tutorial on Amortized Optimization](<https://github.com/facebookresearch/amortized-optimization-tutorial/blob/main/paper/fig/control-model-based-iter.pdf>) | Technical report | Official repo |
+| n\.d\. | [TextVQA Website](<https://github.com/facebookresearch/TextVQA/blob/main/frontend/public/assets/paper/TextVQA.pdf>) | Technical report | Official repo |
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
 | n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCS (Private Computation Solutions)](<https://github.com/facebookresearch/fbpcs/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E004159_DLOE_Report_2022-08-05_DLOE-Multi-Key-Private-ID.pdf>) | Technical report | Official repo |
@@ -35,6 +36,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
+| 2026‑10‑02 | [The Strict Threshold for Gaussian Ellipsoid Fitting](<https://ai.meta.com/research/publications/the-strict-threshold-for-gaussian-ellipsoid-fitting/>) | Publication | Official page |
+| 2026‑10‑02 | [String Two-Point Function = Height Function on a Curve](<https://ai.meta.com/research/publications/string-two-point-function-height-function-on-a-curve/>) | Publication | Official page |
+| 2026‑10‑02 | [Semiabelian Groups Need Not Be Monomial](<https://ai.meta.com/research/publications/semiabelian-groups-need-not-be-monomial/>) | Publication | Official page |
+| 2026‑10‑02 | [On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez](<https://ai.meta.com/research/publications/on-solvable-evolution-algebras-and-a-conjecture-by-garcia-martinez-and-perez-rodriguez/>) | Publication | Official page |
+| 2026‑10‑02 | [Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation](<https://ai.meta.com/research/publications/finite-time-blow-up-of-radial-negative-energy-solutions-for-the-mass-critical-biharmonic-nonlinear-schrodinger-equation/>) | Publication | Official page |
+| 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [The Third Workshop on Agentic and Generative AI for E-Commerce](<https://doi.org/10.1145/3773078.3831721>) | Conference paper | OpenAlex |

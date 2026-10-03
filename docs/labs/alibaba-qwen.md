@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3738`
+- Papers: `3739`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -33,6 +33,7 @@
 | 2026‑09‑28 | [See it, Say it, Sorted\: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs](<https://arxiv.org/abs/2609.34970v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [SPIDER\: Multi-Layer Semantic Token Pruning and Adaptive Sub-Layer Skipping in Multimodal Large Language Models](<https://arxiv.org/abs/2609.34977v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Dynamic Flow, Static Graph\: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs](<https://arxiv.org/abs/2609.34727v1>) | Paper | Verified affiliation |
+| 2026‑09‑28 | [Dr\.Credit\: Rubric-Grounded Process Credit Assignment for Deep Research Agents](<https://arxiv.org/abs/2609.34296v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [QwenGyre\: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](<https://huggingface.co/papers/2609.33848>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑25 | [Towards Full Candidate Interaction\: A Comprehensive Comparison Network for Better Route Recommendation](<https://arxiv.org/abs/2508.08745>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [TSSR-Beta\: Enhancing Billion-Scale E-Commerce Semantic Retrieval via Representation-Level Interaction](<https://doi.org/10.1145/3773078.3831933>) | Conference paper | OpenAlex |

@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3835`
-- Latest: `2026-09-30`
+- Papers: `3845`
+- Latest: `2026-10-01`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -24,6 +24,7 @@
 | n\.d\. | [Self-Improvement in Language Models\: The Sharpening Mechanism](<https://www.microsoft.com/en-us/research/publication/self-improvement-in-language-models-the-sharpening-mechanism/>) | Publication | Official page |
 | n\.d\. | [Retrieval Needs Multivectors\: An Exponential Separation](<https://www.microsoft.com/en-us/research/publication/retrieval-needs-multivectors-an-exponential-separation/>) | Publication | Official page |
 | n\.d\. | [Relaxed On-Policy Distillation\: Selective Credit Allocation for Scaling Reasoning Efficiently](<https://www.microsoft.com/en-us/research/publication/relaxed-on-policy-distillation-selective-credit-allocation-for-scaling-reasoning-efficiently/>) | Publication | Official page |
+| n\.d\. | [Referential Uncertainty in Human-AI Collaboration](<https://www.microsoft.com/en-us/research/publication/referential-uncertainty-in-human-ai-collaboration/>) | Publication | Official page |
 | n\.d\. | [Position\: We Need An Algorithmic Understanding of Generative AI](<https://www.microsoft.com/en-us/research/publication/position-we-need-an-algorithmic-understanding-of-generative-ai/>) | Publication | Official page |
 | n\.d\. | [PRISM\: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology](<https://www.microsoft.com/en-us/research/publication/prism-a-multi-modal-generative-foundation-model-for-slide-level-histopathology/>) | Publication | Official page |
 | n\.d\. | [PRISM2\: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](<https://www.microsoft.com/en-us/research/publication/prism2-unlocking-multi-modal-general-pathology-ai-with-clinical-dialogue/>) | Publication | Official page |
@@ -68,6 +69,7 @@
 | n\.d\. | [AlignDiff\: Exploiting Model-Intrinsic Information for Better Preference Data Selection](<https://www.microsoft.com/en-us/research/publication/aligndiff-exploiting-model-intrinsic-information-for-better-preference-data-selection/>) | Publication | Official page |
 | n\.d\. | [Algorithmic Grammar of Flexible Cognition\: A Walk through Latent Operations](<https://www.microsoft.com/en-us/research/publication/algorithmic-grammar-of-flexible-cognition-a-walk-through-latent-operations/>) | Publication | Official page |
 | n\.d\. | [After Organizational AI Acceptance, AI Bias Fades but a Junior Penalty Persists in Code Review](<https://www.microsoft.com/en-us/research/publication/after-organizational-ai-acceptance-ai-bias-fades-but-a-junior-penalty-persists-in-code-review/>) | Publication | Official page |
+| n\.d\. | [AIM\: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems](<https://www.microsoft.com/en-us/research/publication/aim-a-privacy-aware-interoperable-memory-framework-for-multi-agent-multi-user-llm-systems/>) | Publication | Official page |
 | n\.d\. | [AI-assisted facial analysis in healthcare\: From disease detection to comprehensive management](<https://www.microsoft.com/en-us/research/publication/ai-assisted-facial-analysis-in-healthcare-from-disease-detection-to-comprehensive-management/>) | Publication | Official page |
 | n\.d\. | [A Unifying View of Coverage in Linear Off-Policy Evaluation](<https://www.microsoft.com/en-us/research/publication/a-unifying-view-of-coverage-in-linear-off-policy-evaluation/>) | Publication | Official page |
 
@@ -75,8 +77,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [Equivalence Checking of ML GPU Kernels](<https://arxiv.org/abs/2511.12638>) | Article | OpenAlex |
+| 2026‑10‑01 | [Tracking Borrows with Regular Expressions](<https://doi.org/10.1145/3839521>) | Article | OpenAlex |
+| 2026‑10‑01 | [The Conversation We’re Not Having about AI in Peer Review](<https://doi.org/10.1145/3840586.3843746>) | Conference paper | OpenAlex |
+| 2026‑10‑01 | [Replanning human–robot collaborative tasks with vision–language models via semantic and physical dual–correction](<https://arxiv.org/abs/2602.14551>) | Article | OpenAlex |
+| 2026‑10‑01 | [How Does Killing Surviving Mutants Help Detect Real Bugs with Assertion Generation? A Controlled Experiment](<https://doi.org/10.1145/3832232>) | Article | OpenAlex |
+| 2026‑10‑01 | [Agents as Software\: A Programming Languages Agenda for Agent Reliability](<https://arxiv.org/abs/2609.32198>) | Conference paper | OpenAlex |
+| 2026‑09‑30 | [Transforming Illness to Wellness\: AI, Sensors, and Care on Demand](<https://doi.org/10.30953/thmt.v11.768>) | Article | OpenAlex |
 | 2026‑09‑30 | [The Three Bodies Framework\: A Hands-On Method for Gesture Analysis in HCI](<https://doi.org/10.1145/3821402.3830223>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [IMoKGNN\: Dual-Stream Fusion of Generic and Task-Specific Language Model Features for Graph Neural Networks](<https://doi.org/10.1145/3848635>) | Article | OpenAlex |
+| 2026‑09‑30 | [From Images to Tasks\: Characterizing Multimodal LLM Interactions in the Wild](<https://arxiv.org/abs/2610.00701v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [OrchAlign\: Orchestrated Multimodal Alignment for Gene Expression Prediction](<https://doi.org/10.1093/bioinformatics/btag711>) | Article | OpenAlex |
 | 2026‑09‑29 | [VideoLoop\: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents](<https://arxiv.org/abs/2609.38119v2>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [CounterSteer\: Suppressing Indirect Prompt Injection with Activation Steering](<https://arxiv.org/abs/2609.36570v1>) | Paper | Verified affiliation |
@@ -143,10 +153,10 @@
 | 2026‑09‑17 | [RAFT\: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](<https://arxiv.org/abs/2609.20754v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [Not All AI Agents Are Equal\: Characterizing Resource and Performance Dynamics](<https://arxiv.org/abs/2609.19947v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑16 | [Do AI Agents Understand Computer Architecture?](<https://www.microsoft.com/en-us/research/publication/do-ai-agents-understand-computer-architecture/>) | Publication | Official page, OpenAlex |
+| 2026‑09‑16 | [Building a Cultural Perspective on Doctor-Patient Conversations](<https://www.microsoft.com/en-us/research/publication/building-a-cultural-perspective-on-doctor-patient-conversations/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑16 | [Use and Effects of LLMs in Peer Review\: A Randomized Experiment and Survey at ICML 2026](<https://arxiv.org/abs/2609.19420v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑16 | [SLIP\: Securing LLM’s IP Using Weights Decomposition](<http://arxiv.org/abs/2407.10886>) | Conference paper | OpenAlex |
 | 2026‑09‑16 | [Decaf\: A privacy preserving speech codec using speaker disentanglement and canonical voice conversion](<https://arxiv.org/abs/2609.19304>) | Preprint | OpenAlex |
-| 2026‑09‑16 | [Building a Cultural Perspective on Doctor-Patient Conversations](<https://arxiv.org/abs/2609.18390>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [Binary Deletion Channel Capacity to Within One Hundredth of a Bit](<https://arxiv.org/abs/2609.19412>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [An Iterative, Pathologist-in-the-Loop Workflow for Generation of Clinical-Grade Synthetic Pathology Images in a Diverse Cohort of Pancreatic Tumors](<https://doi.org/10.3390/cancers18183004>) | Article | OpenAlex |
 | 2026‑09‑16 | [QuanText\: Protecting Dataset-Level Secrets in Textual Data Sharing](<https://arxiv.org/abs/2609.17995v2>) | Paper | Verified affiliation, OpenAlex |
@@ -170,13 +180,13 @@
 | 2026‑09‑13 | [RapidGEMM\: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training](<https://doi.org/10.1145/3832810.3832915>) | Conference paper | OpenAlex |
 | 2026‑09‑12 | [JumpStart Your Policy Learning with Lessons from 160,000 Training Runs](<https://arxiv.org/abs/2609.13730>) | Preprint | OpenAlex |
 | 2026‑09‑12 | [What Makes a Great Co-Worker in an AI-Native Workplace?](<https://arxiv.org/abs/2609.13786v1>) | Paper | Verified affiliation |
+| 2026‑09‑11 | [AutoTailor\: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](<https://www.microsoft.com/en-us/research/publication/autotailor-automatic-user-aligned-capability-selection-and-adaptation-for-web-agents/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑11 | [Multimodal Floorplan Encoding\: Learning Dense Modality-Invariant Representations](<https://arxiv.org/abs/2609.12723>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [How User-AI Mistreatment Occurs and Matters in Conversational Systems?](<https://arxiv.org/abs/2609.13579>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [Confidence-Gated Transductive Test Generation for Code Reranking](<https://arxiv.org/abs/2609.12489>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [RoofLang\: Enabling AI-Driven Architecting of LLM Inference Systems](<https://arxiv.org/abs/2609.12551v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑11 | [From Review to Reuse\: How Post-Task Workflow Can Support Human-AI Agent Interaction](<https://arxiv.org/abs/2609.13136v1>) | Paper | Verified affiliation |
 | 2026‑09‑11 | [Expert-Space Exploration in MoE Reinforcement Learning](<https://arxiv.org/abs/2609.13058v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑11 | [AutoTailor\: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](<https://arxiv.org/abs/2609.13548v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑10 | [SpecGuard\: Inference-Time Backdoor Detection For Free](<https://www.microsoft.com/en-us/research/publication/specguard-inference-time-backdoor-detection-for-free/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑10 | [On the Impact of Anonymization on the Performance of Large Language Models](<https://www.microsoft.com/en-us/research/publication/on-the-impact-of-anonymization-on-the-performance-of-large-language-models/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑10 | [WinSyn\: An Automated Pipeline for Realistic Enterprise Question-Answering Evaluation](<https://arxiv.org/abs/2609.12171>) | Preprint | OpenAlex |
@@ -853,7 +863,7 @@
 | 2026‑05‑10 | [Security Risks in Tool-Enabled AI Agents\: A Systematic Analysis of Privileged Execution Environments](<https://www.microsoft.com/en-us/research/publication/security-risks-in-tool-enabled-ai-agents-a-systematic-analysis-of-privileged-execution-environments/>) | Publication | Official page |
 | 2026‑05‑10 | [Oracle Poisoning\: Corrupting Knowledge Graphs to Weaponise AI Agent Reasoning](<https://www.microsoft.com/en-us/research/publication/oracle-poisoning-corrupting-knowledge-graphs-to-weaponise-ai-agent-reasoning/>) | Publication | Official page |
 | 2026‑05‑10 | [Position\: Avoid Overstretching LLMs for every Enterprise Task](<https://www.microsoft.com/en-us/research/publication/position-avoid-overstretching-llms-for-every-enterprise-task/>) | Publication | Official page |
-| 2026‑05‑09 | [EvidenT\: An Evidence-Preserving Framework for Iterative System-Level Package Repair](<https://www.microsoft.com/en-us/research/publication/evident-an-evidence-preserving-framework-for-iterative-system-level-package-repair/>) | Publication | Official page |
+| 2026‑05‑09 | [EvidenT\: An Evidence-Preserving Framework for Iterative System-Level Package Repair](<https://www.microsoft.com/en-us/research/publication/evident-an-evidence-preserving-framework-for-iterative-system-level-package-repair/>) | Publication | Official page, OpenAlex |
 | 2026‑05‑09 | [Generating Leakage-Free Benchmarks for Robust RAG Evaluation](<https://www.microsoft.com/en-us/research/publication/generating-leakage-free-benchmarks-for-robust-rag-evaluation/>) | Publication | Official page |
 | 2026‑05‑09 | [From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation](<https://www.microsoft.com/en-us/research/publication/from-articulated-kinematics-to-routed-visual-control-for-action-conditioned-surgical-video-generation/>) | Publication | Official page |
 | 2026‑05‑09 | [SkillGen\: Verified Inference-Time Agent Skill Synthesis](<https://www.microsoft.com/en-us/research/publication/skillgen-verified-inference-time-agent-skill-synthesis/>) | Publication | Official page |
@@ -3206,7 +3216,7 @@
 | 2024‑08‑15 | [LLexus\: an AI agent system for incident management](<https://www.microsoft.com/en-us/research/publication/llexus-an-ai-agent-system-for-incident-management/>) | Publication | Official page |
 | 2024‑08‑15 | [A Methodology for Using Large Language Models to Create User-Friendly Applications for Medicaid Redetermination and Other Social Services](<https://www.microsoft.com/en-us/research/publication/a-methodology-for-using-large-language-models-to-create-user-friendly-applications-for-medicaid-redetermination-and-other-social-services/>) | Publication | Official page |
 | 2024‑08‑15 | [Personhood credentials\: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online](<https://www.microsoft.com/en-us/research/publication/personhood-credentials-artificial-intelligence-and-the-value-of-privacy-preserving-tools-to-distinguish-who-is-real-online/>) | Publication | Official page |
-| 2024‑08‑14 | [DeepSeek-Prover-V1\.5\: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](<https://github.com/deepseek-ai/DeepSeek-Prover-V1.5/blob/main/paper.pdf>) | Technical report | Official page, Official repo |
+| 2024‑08‑14 | [DeepSeek-Prover-V1\.5\: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](<https://github.com/deepseek-ai/DeepSeek-Prover-V1.5/blob/main/paper.pdf>) | Technical report | Official page, Official repo, Hugging Face |
 | 2024‑08‑14 | [Towards Flexible Visual Relationship Segmentation](<https://www.microsoft.com/en-us/research/publication/towards-flexible-visual-relationship-segmentation/>) | Publication | Official page |
 | 2024‑08‑14 | [Does Reasoning Emerge? Examining the Probabilities of Causation in Large Language Models](<https://www.microsoft.com/en-us/research/publication/does-reasoning-emerge-examining-the-probabilities-of-causation-in-large-language-models/>) | Publication | Official page |
 | 2024‑08‑14 | [Anatomizing Deep Learning Inference in Web Browsers](<https://www.microsoft.com/en-us/research/publication/anatomizing-deep-learning-inference-in-web-browsers/>) | Publication | Official page |

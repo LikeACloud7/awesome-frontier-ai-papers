@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `645`
-- Latest: `2026-09-30`
+- Papers: `649`
+- Latest: `2026-10-01`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,7 +15,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [XSearch\: Explainable Code Search via Concept-to-Code Alignment](<https://arxiv.org/abs/2605.16046>) | Article | OpenAlex |
+| 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
+| 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
 | 2026‑09‑30 | [Distill the Visual Evidence, Not Just the Answer\: Cross-World On-Policy Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.38777v1>) | Paper | Verified affiliation |
+| 2026‑09‑28 | [Tail-Influence Sampling for CVaR Policy Evaluation](<https://huggingface.co/papers/2609.38096>) | Preprint | Official page |
 | 2026‑09‑28 | [MARS 2\.0\: A Toolchain for Designing Safety-Critical Cyber-Physical Systems](<https://doi.org/10.1145/3849090>) | Article | OpenAlex |
 | 2026‑09‑27 | [Supervision Recovery for Time Series Anomaly Detection via Context-Anchored Pairing](<https://arxiv.org/abs/2609.33610v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [CUE-Mem\: Benchmarking Long-Term User Memory via Implicit Cues in Multimodal Conversations](<https://arxiv.org/abs/2609.32574v1>) | Paper | Verified affiliation |
@@ -113,7 +117,7 @@
 | 2026‑08‑27 | [What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents](<https://arxiv.org/abs/2608.27260v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [SWE-Prime\: Fewer Trajectories, Better Performance](<https://arxiv.org/abs/2608.27449v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [HUG-VIS\: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence](<https://arxiv.org/abs/2608.26517v1>) | Paper | Verified affiliation |
-| 2026‑08‑27 | [From Static to Dynamic\: Benchmarking Real-World Code Review with MCR-Bench](<https://arxiv.org/abs/2608.27442v1>) | Paper | Verified affiliation |
+| 2026‑08‑27 | [From Static to Dynamic\: Benchmarking Real-World Code Review with MCR-Bench](<https://arxiv.org/abs/2608.27442v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑08‑27 | [DEEPCHART\: How Far are LLMs from Faithful Data-Science Chart Generation?](<https://arxiv.org/abs/2608.26757v1>) | Paper | Verified affiliation |
 | 2026‑08‑26 | [Semantic Layer-Enabled AI](<https://doi.org/10.1109/mc.2026.3708637>) | Article | OpenAlex |
 | 2026‑08‑26 | [Beyond Scaling\: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory](<https://arxiv.org/abs/2608.25570>) | Preprint | OpenAlex |

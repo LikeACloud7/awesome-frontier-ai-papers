@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1038`
+- Papers: `1040`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -23,6 +23,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑30 | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page |
+| 2026‑09‑30 | [VR-JEPA\: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning](<https://arxiv.org/abs/2609.40129v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [NarrativeSteward\: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](<https://arxiv.org/abs/2609.39333v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Adaptive Reward Routing\: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](<https://huggingface.co/papers/2609.37200>) | Preprint | Official page |
 | 2026‑09‑28 | [G$^3$-LoRA\: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA](<https://doi.org/10.48550/arxiv.2609.35189>) | Preprint | OpenAlex |
@@ -60,6 +61,7 @@
 | 2026‑09‑21 | [All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](<https://arxiv.org/abs/2609.24058>) | Preprint | OpenAlex |
 | 2026‑09‑20 | [GameHorizon Suite\: Multi-Horizon Data and Evaluation in Gameplay](<https://huggingface.co/papers/2609.25001>) | Preprint | Official page |
 | 2026‑09‑20 | [Distill What You Trust\: Reliability-Aware Multi-Teacher On-Policy Distillation](<https://arxiv.org/abs/2609.23697>) | Preprint | OpenAlex |
+| 2026‑09‑19 | [Transferring the Intelligence of VLMs to Robotic Control](<https://arxiv.org/abs/2609.22966>) | Preprint | OpenAlex |
 | 2026‑09‑19 | [External validation of AI assisted colposcopy using WHO dataset for cervical precancer and cancer detection](<https://doi.org/10.1038/s41746-026-02961-3>) | Article | OpenAlex |
 | 2026‑09‑18 | [RewardVerse\: Rubric-Guided Policy Optimization for Video Reward Modeling](<https://huggingface.co/papers/2609.22947>) | Preprint | Official page, OpenAlex |
 | 2026‑09‑18 | [An Artificial Intelligence Model for Longitudinal Assessment of TCR Repertoires in SARS-CoV-2 Vaccine Recipients](<https://doi.org/10.64898/2026.09.16.752071>) | Preprint | OpenAlex |

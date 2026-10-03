@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `1983`
-- Latest: `2026-09-30`
+- Papers: `1988`
+- Latest: `2026-10-01`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [Automatically Generating ML Compiler Backends from Tensor Accelerator ISA Descriptions](<https://arxiv.org/abs/2510.09932>) | Article | OpenAlex |
 | 2026‑09‑30 | [Vision wearables with artificial intelligence to close the sensory gap in patient characterization](<https://doi.org/10.1038/s41746-026-03156-6>) | Article | OpenAlex |
 | 2026‑09‑30 | [ML-Predicted EOTPR Reference Waveforms from CAD with Layout-Aware Correlation for Efficient Fault Isolation in Advanced Packages](<https://doi.org/10.31399/asm.cp.istfa2026p0038>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [AI-Driven Super-Resolution Enhancement of Scanning Electron Microscopy Images for Semiconductor Failure Analysis](<https://doi.org/10.31399/asm.cp.istfa2026p0616>) | Conference paper | OpenAlex |
@@ -45,6 +46,7 @@
 | 2026‑09‑18 | [The Weight Is Over - Interactive Diffusion on Consumer GPUs](<https://arxiv.org/abs/2609.21849>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [EnterpriseVal\: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise](<https://arxiv.org/abs/2609.21841>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [PlaceReasoner-Beta\: Reasoning-Driven Macro Placement and Benchmarking](<https://arxiv.org/abs/2609.21263v1>) | Paper | Verified affiliation |
+| 2026‑09‑18 | [NemotronLabs VoiceChat\: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities](<https://arxiv.org/abs/2609.21967>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [HAMMER\: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement](<https://arxiv.org/abs/2609.21171v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑18 | [A Scene Language Model for Open-Vocabulary Scene Mapping](<https://arxiv.org/abs/2609.21400v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Reinforcement learning for initializing genetic algorithms in vehicle routing](<https://doi.org/10.1038/s44488-026-00019-7>) | Article | OpenAlex |
@@ -647,6 +649,7 @@
 | 2025‑11‑24 | [HeaRT\: A Hierarchical Circuit Reasoning Tree-Based Agentic Framework for AMS Design Optimization](<http://arxiv.org/abs/2511.19669>) | Preprint | OpenAlex |
 | 2025‑11‑24 | [( Invited ) Accelerated Quantum Supercomputer for Battery Materials Discovery](<https://doi.org/10.1149/ma2025-023475mtgabs>) | Conference abstract | OpenAlex |
 | 2025‑11‑23 | [DOCA UROM\: A Vehicle for Offloading HPC and AI to DPUs](<https://doi.org/10.1007/978-3-032-07612-0_31>) | Conference paper | OpenAlex |
+| 2025‑11‑23 | [The Future of Benchmarks in Supercomputing](<https://doi.org/10.1007/978-3-032-07612-0_53>) | Conference paper | OpenAlex |
 | 2025‑11‑20 | [GSCache\: Real-Time Radiance Caching for Volume Path Tracing Using 3D Gaussian Splatting](<https://doi.org/10.1109/tvcg.2025.3634634>) | Article | OpenAlex |
 | 2025‑11‑19 | [GPU-Initiated Networking for NCCL](<http://arxiv.org/abs/2511.15076>) | Preprint | OpenAlex |
 | 2025‑11‑19 | [DCC\: Data-Centric Compilation of Machine Learning Kernels for Processing-In-Memory Architectures](<https://arxiv.org/abs/2511.15503>) | Preprint | OpenAlex |
@@ -663,6 +666,7 @@
 | 2025‑11‑12 | [MXBLAS\: Accelerating 8-bit Deep Learning with a Unified Micro-Scaled GEMM Library](<https://doi.org/10.1145/3712285.3759809>) | Conference paper | OpenAlex |
 | 2025‑11‑12 | [Financial Info AI Agent\: Building a High-Accuracy Agentic Workflow for Investor Relations Analytics](<https://doi.org/10.1109/wintechcon66724.2025.11429706>) | Conference paper | OpenAlex |
 | 2025‑11‑09 | [RESHORING GPU PRODUCTION\: TESTING STRATEGY ADAPTATIONS FOR U\.S\.-BASED FACTORIES](<https://doi.org/10.12732/ijam.v38i10s.1134>) | Article | OpenAlex |
+| 2025‑11‑07 | [Integrating silicon photonics with complementary metal–oxide–semiconductor technologies](<https://doi.org/10.1038/s44287-025-00223-0>) | Review | OpenAlex |
 | 2025‑11‑07 | [The AI revolution\: how multimodal intelligence will reshape the oncology ecosystem](<https://doi.org/10.1038/s44387-025-00044-4>) | Article | OpenAlex |
 | 2025‑11‑07 | [Improving Text Embedding Models with Positive-aware Hard-negative Mining](<https://doi.org/10.1145/3746252.3761254>) | Conference paper | OpenAlex |
 | 2025‑11‑07 | [Img2ST-Net\: efficient high-resolution spatial omics prediction from whole-slide histology images via fully convolutional image-to-image learning](<https://doi.org/10.1117/1.jmi.12.6.061410>) | Article | OpenAlex |
@@ -858,11 +862,11 @@
 | 2025‑08‑01 | [Unsupervised discovery of extreme weather events using universal representations of emergent organization](<https://doi.org/10.1063/5.0267915>) | Article | OpenAlex |
 | 2025‑08‑01 | [The Affine Heat Method](<https://doi.org/10.1111/cgf.70205>) | Article | OpenAlex |
 | 2025‑08 | [MAISI-v2\: Accelerated 3D High-Resolution Medical Image Synthesis with Rectified Flow and Region-specific Contrastive Loss](<https://research.nvidia.com/publication/2025-08_maisi-v2-accelerated-3d-high-resolution-medical-image-synthesis-rectified-flow>) | Publication | Official page, Verified affiliation, OpenAlex |
-| 2025‑08 | [GAIA\: Generative Animatable Interactive Avatars with Expression-conditioned Gaussians](<https://research.nvidia.com/publication/2025-08_gaia-generative-animatable-interactive-avatars-expression-conditioned-gaussians>) | Publication | Official page |
 | 2025‑08 | [Esports Rendering\: Industry and Player Perspectives](<https://research.nvidia.com/publication/2025-08_esports-rendering-industry-and-player-perspectives>) | Publication | Official page |
 | 2025‑08 | [Fly, Fail, Fix\: Iterative Game Repair with Reinforcement Learning and Large Multimodal Models](<https://research.nvidia.com/publication/2025-08_fly-fail-fix-iterative-game-repair-reinforcement-learning-and-large-multimodal>) | Publication | Official page |
 | 2025‑08 | [ATLAS\: AI-Native Receiver Test-and-Measurement by Leveraging AI-Guided Search](<https://research.nvidia.com/publication/2025-08_atlas-ai-native-receiver-test-and-measurement-leveraging-ai-guided-search>) | Publication | Official page, OpenAlex |
 | 2025‑07‑31 | [Replay Master\: Automatic Sample Selection and Effective Memory Utilization for Continual Semantic Segmentation](<https://doi.org/10.1109/tpami.2025.3594040>) | Article | OpenAlex |
+| 2025‑07‑30 | [Tensor networks for quantum computing](<http://arxiv.org/abs/2503.08626>) | Review | OpenAlex |
 | 2025‑07‑30 | [The grand challenges of learning medical robot autonomy](<https://doi.org/10.1126/scirobotics.adz8279>) | Article | OpenAlex |
 | 2025‑07‑29 | [Tackling Gaussian Splats, Physics Simulation and Visualization with NVIDIA Kaolin and Warp Libraries](<https://doi.org/10.1145/3721251.3736529>) | Conference paper | OpenAlex |
 | 2025‑07‑29 | [Learn OpenUSD\: Robotics Best Practices](<https://doi.org/10.1145/3721251.3736528>) | Conference paper | OpenAlex |
@@ -877,6 +881,7 @@
 | 2025‑07‑27 | [Putting Rigid Bodies to Rest](<https://doi.org/10.1145/3731203>) | Article | OpenAlex |
 | 2025‑07‑26 | [Drone hyperspectral imaging and artificial intelligence for monitoring moss and lichen in Antarctica](<https://doi.org/10.1038/s41598-025-11535-4>) | Article | OpenAlex |
 | 2025‑07‑26 | [Proxy-Based Thermal and Acoustic Evaluation of Cloud GPUs for AI Training Workloads](<https://doi.org/10.37547/tajas/volume07issue07-12>) | Article | OpenAlex |
+| 2025‑07‑23 | [GAIA\: Generative Animatable Interactive Avatars with Expression-conditioned Gaussians](<https://research.nvidia.com/publication/2025-08_gaia-generative-animatable-interactive-avatars-expression-conditioned-gaussians>) | Publication | Official page, OpenAlex |
 | 2025‑07‑23 | [Reservoir Splatting for Temporal Path Resampling and Motion Blur](<https://doi.org/10.1145/3721238.3730646>) | Conference paper | OpenAlex |
 | 2025‑07‑21 | [Artificial intelligence for science in quantum, atomistic, and continuum systems](<http://arxiv.org/abs/2307.08423>) | Article | OpenAlex |
 | 2025‑07‑20 | [Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models\: A Case Study with MACE](<https://doi.org/10.1145/3731545.3731594>) | Article | OpenAlex |
@@ -916,10 +921,10 @@
 | 2025‑07 | [Helix Parallelism\: Rethinking Sharding Strategies for Interactive Multi-Million-Token LLM Decoding](<https://research.nvidia.com/publication/2025-07_helix-parallelism-rethinking-sharding-strategies-interactive-multi-million>) | Publication | Official page |
 | 2025‑07 | [GenMol\: A Drug Discovery Generalist with Discrete Diffusion](<https://research.nvidia.com/publication/2025-07_genmol-drug-discovery-generalist-discrete-diffusion>) | Publication | Official page |
 | 2025‑07 | [Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow](<https://research.nvidia.com/publication/2025-07_efficient-molecular-conformer-generation-so3-averaged-flow-matching-and-reflow>) | Publication | Official page |
+| 2025‑07 | [Carrier Photogeneration Impact on Ring Dynamics](<https://research.nvidia.com/publication/2025-07_carrier-photogeneration-impact-ring-dynamics>) | Publication | Official page, OpenAlex |
 | 2025‑07 | [Score-based Diffusion Models in Function Space](<https://research.nvidia.com/publication/2025-07_score-based-diffusion-models-function-space>) | Publication | Official page |
 | 2025‑07 | [Identity-Motion Trade-offs in Text-to-Video Generation](<https://research.nvidia.com/publication/2025-07_identity-motion-trade-offs-text-video-generation>) | Publication | Official page |
 | 2025‑07 | [FourCastNet 3\: A geometric approach to probabilistic machine-learning weather forecasting at scale](<https://research.nvidia.com/publication/2025-07_fourcastnet-3-geometric-approach-probabilistic-machine-learning-weather>) | Publication | Official page, Verified affiliation |
-| 2025‑07 | [Carrier Photogeneration Impact on Ring Dynamics](<https://research.nvidia.com/publication/2025-07_carrier-photogeneration-impact-ring-dynamics>) | Publication | Official page |
 | 2025‑07 | [A Roadmap Toward Sub 1pJ/b Optical Interconnect](<https://research.nvidia.com/publication/2025-07_roadmap-toward-sub-1pjb-optical-interconnect>) | Publication | Official page |
 | 2025‑06‑30 | [Machine Learning Emulation of Precipitation from km-scale Regional Climate Simulations using a Diffusion Model](<https://doi.org/10.5194/ems2025-71>) | Conference abstract | OpenAlex |
 | 2025‑06‑30 | [TEVLA\: Text-oriented Enhancement for Vision-Language Alignment in Relation Extraction](<https://doi.org/10.1109/icme59968.2025.11209197>) | Conference paper | OpenAlex |
@@ -1004,7 +1009,6 @@
 | 2025‑06‑02 | [GPU Accelerated High Capacity, AI-Ready 5G/6G Reference Design and Verification Methodology](<https://research.nvidia.com/publication/2025-12_gpu-accelerated-high-capacity-ai-ready-5g6g-reference-design-and-verification>) | Publication | Official page, OpenAlex |
 | 2025‑06‑02 | [Detection and mapping of Antarctic lichen using drones, multispectral cameras, and supervised deep learning](<https://doi.org/10.1016/j.jag.2025.104577>) | Article | OpenAlex |
 | 2025‑06 | [RoboSpatial\: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](<https://research.nvidia.com/publication/2025-06_robospatial-teaching-spatial-understanding-2d-and-3d-vision-language-models>) | Publication | Official page, OpenAlex |
-| 2025‑06 | [FoundationStereo\: Zero-Shot Stereo Matching](<https://research.nvidia.com/publication/2025-06_foundationstereo-zero-shot-stereo-matching>) | Publication | Official page, OpenAlex |
 | 2025‑06 | [VILA-M3\: Enhancing Vision-Language Models with Medical Expert Knowledge](<https://research.nvidia.com/publication/2025-06_vila-m3-enhancing-vision-language-models-medical-expert-knowledge>) | Publication | Official page, OpenAlex |
 | 2025‑06 | [SLIM\: One-shot Quantization and Sparsity with Low-rank Approximation for LLM Weight Compression](<https://research.nvidia.com/publication/2025-06_slim-one-shot-quantization-and-sparsity-low-rank-approximation-llm-weight>) | Publication | Official page |
 | 2025‑06 | [AssertionForge\: Enhancing Formal Verification Assertion Generation with Structured Representation of Specifications and RTL](<https://research.nvidia.com/publication/2025-06_assertionforge-enhancing-formal-verification-assertion-generation-structured>) | Publication | OpenAlex, Official page |
@@ -1244,6 +1248,7 @@
 | 2025‑01‑20 | [HybrIK-X\: Hybrid Analytical-Neural Inverse Kinematics for Whole-Body Mesh Recovery](<https://doi.org/10.1109/tpami.2025.3528979>) | Article | OpenAlex |
 | 2025‑01‑20 | [DEMOTIC\: A Differentiable Sampler for Multi-Level Digital Circuits](<http://arxiv.org/abs/2502.08086>) | Conference paper | OpenAlex |
 | 2025‑01‑19 | [Analysis of Transformer Decoder Architecture and KV Cache Behavior During LLM Inference](<https://doi.org/10.1109/iceic64972.2025.10879650>) | Conference paper | OpenAlex |
+| 2025‑01‑17 | [FoundationStereo\: Zero-Shot Stereo Matching](<https://research.nvidia.com/publication/2025-06_foundationstereo-zero-shot-stereo-matching>) | Publication | Official page, OpenAlex, Verified affiliation |
 | 2025‑01‑15 | [SPICED+\: Syntactical Bug Pattern Identification and Correction of Trojans in A/MS Circuits Using LLM-Enhanced Detection](<https://doi.org/10.1109/tvlsi.2025.3527382>) | Article | OpenAlex |
 | 2025‑01‑15 | [Summon a demon and bind it\: A grounded theory of LLM red teaming](<https://doi.org/10.1371/journal.pone.0314658>) | Article | OpenAlex |
 | 2025‑01‑11 | [Extending Whisper for Korean-English Code-switching Speech Recognition](<https://doi.org/10.1109/icce63647.2025.10929894>) | Conference paper | OpenAlex |
@@ -1518,7 +1523,6 @@
 | 2024‑11 | [NOD-TAMP\: Generalizable Long-Horizon Planning with Neural Object Descriptors](<https://research.nvidia.com/publication/2024-11_nod-tamp-generalizable-long-horizon-planning-neural-object-descriptors>) | Publication | Official page |
 | 2024‑11 | [HAMSTER\: Hierarchical Action Models for Open-World Robot Manipulation](<https://research.nvidia.com/publication/2024-11_hamster-hierarchical-action-models-open-world-robot-manipulation>) | Publication | Official page |
 | 2024‑11 | [Differentiable GPU-Parallelized Task and Motion Planning](<https://research.nvidia.com/publication/2024-11_differentiable-gpu-parallelized-task-and-motion-planning>) | Publication | Official page |
-| 2024‑11 | [Constructability-driven design of frame structures with state-space search methods](<https://research.nvidia.com/publication/2024-11_constructability-driven-design-frame-structures-state-space-search-methods>) | Publication | Official page |
 | 2024‑11 | [Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities](<https://research.nvidia.com/publication/2024-11_bayesian-example-selection-improves-context-learning-speech-text-and-visual>) | Publication | Official page |
 | 2024‑10‑31 | [Protecting NeRFs’ Copyright via Plug-And-Play Watermarking Base Model](<https://doi.org/10.1007/978-3-031-73247-8_4>) | Conference paper | OpenAlex |
 | 2024‑10‑31 | [Accelerating Online Mapping and Behavior Prediction via Direct BEV Feature Attention](<https://doi.org/10.1007/978-3-031-73004-7_24>) | Conference paper | OpenAlex |
@@ -1616,6 +1620,7 @@
 | 2024‑09 | [Conformer without Convolutions](<https://research.nvidia.com/publication/2024-09_conformer-without-convolutions>) | Publication | Official page |
 | 2024‑08‑31 | [Speed-Aware Audio-Driven Speech Animation using Adaptive Windows](<https://doi.org/10.1145/3691341>) | Article | OpenAlex |
 | 2024‑08‑31 | [MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI](<http://arxiv.org/abs/2411.09618>) | Article | OpenAlex |
+| 2024‑08‑26 | [Constructability-driven design of frame structures with state-space search methods](<https://research.nvidia.com/publication/2024-11_constructability-driven-design-frame-structures-state-space-search-methods>) | Publication | Official page, OpenAlex |
 | 2024‑08‑25 | [NVIDIA Blackwell Platform\: Advancing Generative AI and Accelerated Computing](<https://doi.org/10.1109/hcs61935.2024.10665247>) | Conference paper | OpenAlex |
 | 2024‑08‑24 | [3rd Workshop on End-End Customer Journey Optimization](<https://doi.org/10.1145/3637528.3671500>) | Conference paper | OpenAlex |
 | 2024‑08‑23 | [Pushing the frontiers in climate modelling and analysis with machine learning](<https://doi.org/10.1038/s41558-024-02095-y>) | Article | OpenAlex |
@@ -1767,7 +1772,7 @@
 | 2024‑06 | [Outdoor Scene Extrapolation with Hierarchical Generative Cellular Automata](<https://research.nvidia.com/publication/2024-06_outdoor-scene-extrapolation-hierarchical-generative-cellular-automata>) | Publication | Official page, OpenAlex |
 | 2024‑06 | [Motion-I2V\: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling](<https://research.nvidia.com/publication/2024-06_motion-i2v-consistent-and-controllable-image-video-generation-explicit-motion>) | Publication | Official page |
 | 2024‑06 | [Dream-in-4D\: A Unified Approach for Text- and Image-guided 4D Scene Generation](<https://research.nvidia.com/publication/2024-06_dream-4d-unified-approach-text-and-image-guided-4d-scene-generation>) | Publication | Official page |
-| 2024‑06 | [Improving Hyperparameter Optimization with Checkpointed Model Weights](<https://research.nvidia.com/publication/2024-06_improving-hyperparameter-optimization-checkpointed-model-weights>) | Publication | Official page |
+| 2024‑06 | [Improving Hyperparameter Optimization with Checkpointed Model Weights](<https://research.nvidia.com/publication/2024-06_improving-hyperparameter-optimization-checkpointed-model-weights>) | Publication | Official page, OpenAlex |
 | 2024‑06 | [GL0AM\: GPU Accelerated Gate Level Logic Simulator](<https://research.nvidia.com/publication/2024-06_gl0am-gpu-accelerated-gate-level-logic-simulator>) | Publication | Official page |
 | 2024‑06 | [An Empirical Study of Mamba-based Language Models](<https://research.nvidia.com/publication/2024-06_empirical-study-mamba-based-language-models>) | Publication | Official page, Verified affiliation |
 | 2024‑05‑30 | [ResNet and Asymmetric ResNet Weights, for "The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof"](<http://arxiv.org/abs/2405.20231>) | Preprint | OpenAlex |
