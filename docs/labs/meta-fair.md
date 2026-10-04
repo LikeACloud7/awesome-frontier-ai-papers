@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `409`
+- Papers: `412`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#metafair)
 
@@ -42,9 +42,11 @@
 | 2026‑10‑02 | [Semiabelian Groups Need Not Be Monomial](<https://ai.meta.com/research/publications/semiabelian-groups-need-not-be-monomial/>) | Publication | Official page |
 | 2026‑10‑02 | [On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez](<https://ai.meta.com/research/publications/on-solvable-evolution-algebras-and-a-conjecture-by-garcia-martinez-and-perez-rodriguez/>) | Publication | Official page |
 | 2026‑10‑02 | [Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation](<https://ai.meta.com/research/publications/finite-time-blow-up-of-radial-negative-energy-solutions-for-the-mass-critical-biharmonic-nonlinear-schrodinger-equation/>) | Publication | Official page |
+| 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
+| 2026‑09‑28 | [RoPE is Dead, Long Live RoPE\: Towards Scalable Data-aware Positional Encodings](<https://arxiv.org/abs/2609.34556v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [The Third Workshop on Agentic and Generative AI for E-Commerce](<https://doi.org/10.1145/3773078.3831721>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [WHALE\: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture](<https://arxiv.org/abs/2607.17017>) | Conference paper | OpenAlex |
@@ -67,6 +69,7 @@
 | 2026‑09‑18 | [I'll Keep an Ear Out\: Teaching AudioLLMs Proactive Audio Assistance](<https://arxiv.org/abs/2609.21183>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [DRT\: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](<https://arxiv.org/abs/2609.21675>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [CIBuzzBench\: A Benchmark for Cross-Lingual Understanding of Chinese Internet Buzzwords](<https://arxiv.org/abs/2609.21722>) | Preprint | OpenAlex |
+| 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
 | 2026‑09‑16 | [LIGE-GR\: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](<https://arxiv.org/abs/2609.18148>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [PCap\: Personalized Retrieval-Stage Diversity Capping in Facebook Marketplace](<https://arxiv.org/abs/2609.16452>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Collaborative Memory for Multi-Agent VLM Systems](<https://arxiv.org/abs/2609.17921>) | Preprint | OpenAlex |

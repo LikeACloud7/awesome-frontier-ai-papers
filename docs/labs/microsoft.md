@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3845`
-- Latest: `2026-10-01`
+- Papers: `3848`
+- Latest: `2026-10-02`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -77,6 +77,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑02 | [The Recognition-Consequence Gap\: How Gesture Recognition Misses Human Action](<https://doi.org/10.1145/3776574.3830076>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [Intent Formalization\: Assessing the Quality of AI-Generated Formal Program Specifications (Keynote)](<https://doi.org/10.1145/3842652.3850232>) | Conference abstract | OpenAlex |
+| 2026‑10‑02 | ["Great! The Next Step Is\.\.\."\: In Pursuit of Proactive Assistance with Multimodal Foundation Models](<https://doi.org/10.1145/3776574.3831228>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Equivalence Checking of ML GPU Kernels](<https://arxiv.org/abs/2511.12638>) | Article | OpenAlex |
 | 2026‑10‑01 | [Tracking Borrows with Regular Expressions](<https://doi.org/10.1145/3839521>) | Article | OpenAlex |
 | 2026‑10‑01 | [The Conversation We’re Not Having about AI in Peer Review](<https://doi.org/10.1145/3840586.3843746>) | Conference paper | OpenAlex |
@@ -399,7 +402,7 @@
 | 2026‑07‑27 | [Distinct Transcriptomic Profiles in ART-Treated People with HIV Are Associated with NF-κB–regulated Gene Expression and Inflammatory Cytokine Signatures](<https://doi.org/10.1097/qai.0000000000003929>) | Article | OpenAlex |
 | 2026‑07‑26 | [Training Language Models to Cooperate with Inference-Time Controllers](<https://www.microsoft.com/en-us/research/publication/training-language-models-to-cooperate-with-inference-time-controllers/>) | Publication | Official page |
 | 2026‑07‑26 | [A Few Words Go a Long Way\: Language Guided Robot Policy Synthesis](<https://www.microsoft.com/en-us/research/publication/a-few-words-go-a-long-way-language-guided-robot-policy-synthesis/>) | Publication | Official page |
-| 2026‑07‑26 | [ERR\@HRI 3\.0 Challenge\: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](<https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/>) | Publication | Official page |
+| 2026‑07‑26 | [ERR\@HRI 3\.0 Challenge\: Multimodal Detection of Errors and Anticipation in Human-Robot Interactions](<https://www.microsoft.com/en-us/research/publication/errhri-3-0-challenge-multimodal-detection-of-errors-and-anticipation-in-human-robot-interactions/>) | Publication | Official page, OpenAlex |
 | 2026‑07‑24 | [CP2K\: An electronic structure and molecular dynamics software package - Dynamics, Transport, and Spectroscopic Response](<https://www.microsoft.com/en-us/research/publication/cp2k-an-electronic-structure-and-molecular-dynamics-software-package-dynamics-transport-and-spectroscopic-response/>) | Publication | Official page |
 | 2026‑07‑24 | [Dementia Etiology Diagnosis via Collaborative Meta Knowledge Enhancement](<https://www.microsoft.com/en-us/research/publication/dementia-etiology-diagnosis-via-collaborative-meta-knowledge-enhancement/>) | Publication | Official page |
 | 2026‑07‑24 | [Generative Video Compression with Adaptive Score Distillation](<https://www.microsoft.com/en-us/research/publication/generative-video-compression-with-adaptive-score-distillation/>) | Publication | Official page |

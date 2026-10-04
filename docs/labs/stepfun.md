@@ -1,8 +1,8 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `52`
-- Latest: `2026-09-23`
+- Papers: `54`
+- Latest: `2026-09-29`
 - [Back to README](../../README.md#stepfun)
 
 ## No date
@@ -17,6 +17,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑29 | [Reshaping Rollout Workloads for Asynchronous RL Post-Training on Heterogeneous Accelerators](<https://arxiv.org/abs/2609.36899>) | Preprint | OpenAlex |
+| 2026‑09‑28 | [Precise Editing and Flexible Referencing for Interactable Worlds](<https://arxiv.org/abs/2609.34470>) | Preprint | OpenAlex |
 | 2026‑09‑23 | [KITE\: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](<https://arxiv.org/abs/2609.27294v1>) | Paper | Verified affiliation |
 | 2026‑09‑20 | [onPanda\: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](<https://huggingface.co/papers/2609.24983>) | Preprint | Official page |
 | 2026‑09‑18 | [ConsistWorld\: Evidence Routing for Consistent Multi-Agent World Models](<https://arxiv.org/abs/2609.22641>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `1040`
-- Latest: `2026-09-30`
+- Papers: `1046`
+- Latest: `2026-10-01`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -22,9 +22,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑01 | [Asynchronous multi-agent reinforcement learning for network-wide traffic signal control via stackelberg game prioritization](<https://doi.org/10.1016/j.asoc.2026.116565>) | Article | OpenAlex |
 | 2026‑09‑30 | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page |
 | 2026‑09‑30 | [VR-JEPA\: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning](<https://arxiv.org/abs/2609.40129v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [NarrativeSteward\: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](<https://arxiv.org/abs/2609.39333v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [XRepoSkill\: Learning Transferable Skills for Software Engineering Agents](<https://arxiv.org/abs/2609.36807>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [Thinking in Depth, Speaking Directly\: Recurrent Latent Reasoning for Paralinguistically Grounded Spoken Dialogue](<https://arxiv.org/abs/2609.37818>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [Group-Marginalized Self-Rewarding RL Drives Zero-Label Self-Evolving](<https://arxiv.org/abs/2609.36750>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Adaptive Reward Routing\: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](<https://huggingface.co/papers/2609.37200>) | Preprint | Official page |
 | 2026‑09‑28 | [G$^3$-LoRA\: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA](<https://doi.org/10.48550/arxiv.2609.35189>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Just MLPs\: Efficient Visual State Reconstruction for Multimodal Language Models](<https://huggingface.co/papers/2609.34972>) | Preprint | Official page |
@@ -32,6 +36,8 @@
 | 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page |
 | 2026‑09‑27 | [Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?](<https://huggingface.co/papers/2609.34621>) | Preprint | Official page |
 | 2026‑09‑27 | [Empirical 5/3 Spectral Scaling in Contextual Representations of Language](<https://doi.org/10.3390/e28101063>) | Article | OpenAlex |
+| 2026‑09‑26 | [What Should Data Teach? Moving Bottlenecks Across Circuit, Store, and Use](<https://arxiv.org/abs/2609.32991>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [Function Over Form\: Distributional Orthogonalization in Mixture-of-Experts with Replica Expert Mechanism](<https://arxiv.org/abs/2609.32398>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [AdaTutoRank\: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research](<https://huggingface.co/papers/2609.32472>) | Preprint | Official page |
 | 2026‑09‑25 | [UniTraj\: Cross-Domain Long-Sequence Modeling for Commercial Recommendation](<https://doi.org/10.1145/3773078.3831825>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [M3D-QAdapter\: 3D Medical VQA with Lesion-Level Finding-Segmentation Alignment and Query-Driven Adaptive Token Reduction](<https://doi.org/10.1007/978-3-032-38062-3_34>) | Conference paper | OpenAlex |
@@ -65,7 +71,7 @@
 | 2026‑09‑19 | [External validation of AI assisted colposcopy using WHO dataset for cervical precancer and cancer detection](<https://doi.org/10.1038/s41746-026-02961-3>) | Article | OpenAlex |
 | 2026‑09‑18 | [RewardVerse\: Rubric-Guided Policy Optimization for Video Reward Modeling](<https://huggingface.co/papers/2609.22947>) | Preprint | Official page, OpenAlex |
 | 2026‑09‑18 | [An Artificial Intelligence Model for Longitudinal Assessment of TCR Repertoires in SARS-CoV-2 Vaccine Recipients](<https://doi.org/10.64898/2026.09.16.752071>) | Preprint | OpenAlex |
-| 2026‑09‑17 | [OmniVBench\: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation](<https://huggingface.co/papers/2609.22069>) | Preprint | Official page, Verified affiliation |
+| 2026‑09‑17 | [OmniVBench\: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation](<https://huggingface.co/papers/2609.22069>) | Preprint | Official page, Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [PART\: Learning 3D Part Assembly and Retrieval with Transformers](<https://arxiv.org/abs/2609.19872>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [AdaRepair-Mem\: Adaptive Experience Orchestration for Repository-Level Program Repair](<https://arxiv.org/abs/2609.20130>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Scientific Image Quality Assessment via Multi-modal Retrieval-Augmented Generation](<https://arxiv.org/abs/2609.19634v1>) | Paper | Verified affiliation |

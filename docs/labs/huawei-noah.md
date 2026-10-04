@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `649`
+- Papers: `653`
 - Latest: `2026-10-01`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -19,9 +19,13 @@
 | 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
 | 2026‑09‑30 | [Distill the Visual Evidence, Not Just the Answer\: Cross-World On-Policy Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.38777v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [Beam Search as Test-Time Self-Distillation via Counterfactual Contexts](<https://arxiv.org/abs/2609.37041>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Tail-Influence Sampling for CVaR Policy Evaluation](<https://huggingface.co/papers/2609.38096>) | Preprint | Official page |
 | 2026‑09‑28 | [MARS 2\.0\: A Toolchain for Designing Safety-Critical Cyber-Physical Systems](<https://doi.org/10.1145/3849090>) | Article | OpenAlex |
+| 2026‑09‑28 | [EviSplat\: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation](<https://arxiv.org/abs/2609.34853>) | Preprint | OpenAlex |
+| 2026‑09‑27 | [CodeSkill\: Latent Skill Abstraction for Long-Horizon Code Agents](<https://arxiv.org/abs/2609.33243>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Supervision Recovery for Time Series Anomaly Detection via Context-Anchored Pairing](<https://arxiv.org/abs/2609.33610v1>) | Paper | Verified affiliation |
+| 2026‑09‑26 | [SkillVine\: Agent Skill Evolution via Branching Exploration](<https://arxiv.org/abs/2609.32731>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [CUE-Mem\: Benchmarking Long-Term User Memory via Implicit Cues in Multimodal Conversations](<https://arxiv.org/abs/2609.32574v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [Zero-Observation User Reactivation with Gap-Driven Dimensional Gating](<https://arxiv.org/abs/2607.19802>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [PriCoRec\: A Privacy-Aware Cloud–Device Collaborative Framework for Ad Recommendation under Feature Constraints](<https://arxiv.org/abs/2608.14429>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3739`
+- Papers: `3745`
 - Latest: `2026-09-30`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -23,8 +23,10 @@
 | 2026‑09‑30 | [ID Balancing\: Stable Training of Extremely Sparse MoE via PID-Based Load Control](<https://arxiv.org/abs/2609.39137v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Grounding with Confidence\: Controllable Generative Video Temporal Grounding](<https://arxiv.org/abs/2609.39883v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [From Given to Gathered Evidence\: Agentic Learning for Longitudinal Medical Reasoning](<https://arxiv.org/abs/2609.39566v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [RoboChrono\: A Real Robot Benchmark for Streaming Task Understanding](<https://arxiv.org/abs/2609.36605>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Fine-Tuning on Self-Generated and Reward-Weighted Data\: Learning Dynamics, Convergence Rates, and Benefits of Off-Policyness](<https://arxiv.org/abs/2609.36945v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [D i F low \: A System for Micro-Serving Text-to-image Di ffusion Work flows](<https://doi.org/10.1145/3830418.3843880>) | Conference paper | OpenAlex |
+| 2026‑09‑28 | [Beyond Verbalized Confidence\: Calibrating Reasoners with Differentiable Readouts](<https://arxiv.org/abs/2609.34857>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Batched in Back\: Characterizing and Optimizing Offline LLM Inference in Production with ACDC](<https://doi.org/10.1145/3830418.3843877>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [A Few GPUs, A Whole Lotta Scale\: Faithful LLM Training Emulation with CrystalLLM](<https://doi.org/10.1145/3830418.3843852>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [WorldAttention\: An Efficient Attention Architecture for Interactive Video World Models](<https://arxiv.org/abs/2609.34606v1>) | Paper | Verified affiliation |
@@ -34,6 +36,7 @@
 | 2026‑09‑28 | [SPIDER\: Multi-Layer Semantic Token Pruning and Adaptive Sub-Layer Skipping in Multimodal Large Language Models](<https://arxiv.org/abs/2609.34977v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Dynamic Flow, Static Graph\: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs](<https://arxiv.org/abs/2609.34727v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Dr\.Credit\: Rubric-Grounded Process Credit Assignment for Deep Research Agents](<https://arxiv.org/abs/2609.34296v1>) | Paper | Verified affiliation |
+| 2026‑09‑27 | [From Distributions to Stochastic Processes\: Neural Approximation of Measure-Valued Maps](<https://arxiv.org/abs/2609.33649>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [QwenGyre\: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](<https://huggingface.co/papers/2609.33848>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑25 | [Towards Full Candidate Interaction\: A Comprehensive Comparison Network for Better Route Recommendation](<https://arxiv.org/abs/2508.08745>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [TSSR-Beta\: Enhancing Billion-Scale E-Commerce Semantic Retrieval via Representation-Level Interaction](<https://doi.org/10.1145/3773078.3831933>) | Conference paper | OpenAlex |
@@ -46,6 +49,7 @@
 | 2026‑09‑25 | [E-MRL\: Cross-View Aligned Evidence-Driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis](<https://arxiv.org/abs/2606.23888>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Covariance-Aware Newton-Schulz Orthogonalization for Noise-Robust Sequential Recommendation](<https://doi.org/10.1145/3773078.3831766>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [AtomiMed\: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation](<https://arxiv.org/abs/2606.31292>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [MOPD-Router\: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation](<https://arxiv.org/abs/2609.30837v2>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [IndustryLLM\: Failure-Driven LLM Training for Industrial Procurement](<https://arxiv.org/abs/2609.31871v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [Qwen-Planner-Agent\: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](<https://huggingface.co/papers/2609.29892>) | Paper | Hugging Face |
 | 2026‑09‑24 | [The dual-enhanced graph learning framework DePass allows paired data integration in single-cell and spatial multiomics](<https://doi.org/10.1038/s41556-026-02067-8>) | Article | OpenAlex |
@@ -53,6 +57,7 @@
 | 2026‑09‑24 | [WanPE\: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](<https://arxiv.org/abs/2609.30221>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [Semantic-Aware Organ-Level Esophageal Tumor Synthesis via Latent Rectified Flow](<https://doi.org/10.1007/978-3-032-38189-7_46>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [MedEnv\: Scaling Multimodal Virtual Medical Environments for Long-Horizon Diagnosis](<https://doi.org/10.1007/978-3-032-38098-2_40>) | Conference paper | OpenAlex |
+| 2026‑09‑24 | [MVAgent\: Multi-Agent Video Generation via Consistent Condition Construction and Shot-Level Policy Optimization](<https://arxiv.org/abs/2609.30609>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [LongMedBench\: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making](<https://arxiv.org/abs/2607.09322>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [Learning Dual Prior Presentation for Opportunistic Screening of Visceral Artery Aneurysms on Non-contrast CT](<https://doi.org/10.1007/978-3-032-38098-2_36>) | Conference paper | OpenAlex |
 | 2026‑09‑24 | [From Scattered Gaussians to Structured Maps\: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting](<https://arxiv.org/abs/2609.29041>) | Preprint | OpenAlex |
@@ -94,6 +99,7 @@
 | 2026‑09‑17 | [RecreationWorld\: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](<https://huggingface.co/papers/2609.22000>) | Preprint | Official page, Verified affiliation |
 | 2026‑09‑17 | [OmniVChat\: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue](<https://huggingface.co/papers/2609.21465>) | Preprint | Official page, Verified affiliation |
 | 2026‑09‑17 | [RetireOPD\: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](<https://arxiv.org/abs/2609.20784>) | Preprint | OpenAlex |
+| 2026‑09‑17 | [Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis](<https://arxiv.org/abs/2609.20124>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Customizable and Jointly Optimized Route Planning\: A Deep Architecture Enabling Differentiable Shortest-Path Search](<https://arxiv.org/abs/2609.19996>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [An expert-level generalist AI for abdominal CT diagnosis](<https://doi.org/10.1126/science.aec6129>) | Article | OpenAlex |
 | 2026‑09‑16 | [Rollback the World, Keep the Reflection\: Rollback-Induced Reflection for Long-Horizon LLM Agents](<https://arxiv.org/abs/2609.18304>) | Preprint | OpenAlex |

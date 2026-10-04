@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `284`
+- Papers: `285`
 - Latest: `2026-10-01`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -37,6 +37,7 @@
 | 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [UFO\: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation](<https://arxiv.org/abs/2609.12397>) | Preprint | OpenAlex |
 | 2026‑09‑10 | [The Last AI Built by Humans\: Toward Genuine Recursive Self-Improvement](<https://arxiv.org/abs/2609.11873>) | Preprint | OpenAlex |
+| 2026‑09‑05 | [CyberDQFormer\: A Knowledge Graph-Enhanced Transformer Framework for Security-Aware Data Quality Anomaly Detection and Autonomous Repair Against Network Attacks](<https://doi.org/10.66238/fsrma128>) | Article | OpenAlex |
 | 2026‑09‑04 | [First Things First\: Teaching LLM-Based Agents to Prioritize Must-Haves before Nice-to-Haves](<https://arxiv.org/abs/2609.05224>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [CoSkill\: Joint Reinforcement Learning of Reasoning and Meta-Skill Agents for Hierarchical Skill Evolution](<https://arxiv.org/abs/2609.04865>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [DoPR\: Reusable Compressed Document Prefixes for Efficient LLM Reranking](<https://arxiv.org/abs/2609.03311>) | Preprint | OpenAlex |

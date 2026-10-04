@@ -1,5 +1,5 @@
 {
-  "next_lab": 12,
+  "next_lab": 13,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -58,6 +58,11 @@
     },
     "DeepSeek": {
       "last_attempt": "2026-10-03",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Z.ai/Zhipu": {
+      "last_attempt": "2026-10-04",
       "status": "partial",
       "since": "2024-01-01"
     }

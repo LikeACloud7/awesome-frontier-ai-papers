@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3527`
-- Latest: `2026-10-01`
+- Papers: `3538`
+- Latest: `2026-10-02`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,16 +16,24 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑02 | [TNG-CLIP\:Training-Time Negation Data Generation for Negation Awareness of CLIP](<http://arxiv.org/abs/2505.18434>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing](<https://doi.org/10.1145/3843750.3843845>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [Bridging Requirements and Assurance\: Neurosymbolic Autoformalization for C++ Verification and Requirements-Coverage Testing (Keynote)](<https://doi.org/10.1145/3842652.3850233>) | Conference abstract | OpenAlex |
 | 2026‑10‑01 | [NSync\: Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](<https://doi.org/10.1145/3832121>) | Article | OpenAlex |
 | 2026‑10‑01 | [LLMutantKiller\: Using Large Language Models to Generate Tests That Kill Mutants](<https://doi.org/10.1145/3832098>) | Article | OpenAlex |
 | 2026‑10‑01 | [Incremental Program Synthesis from Event Logs](<https://doi.org/10.1145/3839460>) | Article | OpenAlex |
+| 2026‑10‑01 | [Generalized robust adaptive-bandwidth MultiView manifold learning in high dimensions with noise](<http://arxiv.org/abs/2602.10530>) | Article | OpenAlex |
 | 2026‑09‑30 | [Vision\: HomeLM for Ambient Intelligence in the Smart Home](<https://doi.org/10.1145/3842436.3843789>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [HeadSense\: Head Orientation Tracking for AI Wearables using Ultra-Wideband Ranging](<https://doi.org/10.1145/3842436.3843787>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [A Fine-Grained Benchmark for Ophthalmic Foundation Models with Point-Based Classification and Retrieval](<https://doi.org/10.21203/rs.3.rs-10817915/v1>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [Training LLM Judges from Language Feedback via Position-Selective Self-Distillation](<https://arxiv.org/abs/2609.38792v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [CRJudgeBench\: Can AI Detect Plausible but Invalid Code Reviews?](<https://arxiv.org/abs/2609.37216>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Taming Inference Workloads at Global Scale\: Foundation Model Serving in Amazon Bedrock](<https://doi.org/10.1145/3830418.3843855>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [StructRL\: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks](<https://arxiv.org/abs/2609.36352v1>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑09‑28 | [TCSAlgBench\: Benchmarking Automated Proving for Research-Level Theoretical Computer Science](<https://arxiv.org/abs/2609.35606v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Rethinking Latent Visual Reasoning\: Grounding Latent Reasoning in Visual Evidence](<https://arxiv.org/abs/2609.34563v1>) | Paper | Verified affiliation |
+| 2026‑09‑27 | [Teach Yourself Where to Look\: On-Policy Attention Self-Distillation for Reasoning](<https://arxiv.org/abs/2609.33200>) | Preprint | OpenAlex |
+| 2026‑09‑27 | [HyperMCTS\: Hypergraph-Augmented MCTS for Long-Horizon LLM Agents](<https://arxiv.org/abs/2609.33920>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [RDE-Seg\: Role-Disentangled Experts with Residual Routing and Anatomy Constraints for DSA Guidewire Segmentation](<https://doi.org/10.1007/978-3-032-38085-2_42>) | Conference paper | OpenAlex |
 | 2026‑09‑26 | [HyperLabel\: Multi-Label Classification via Hypergraph-Based Label Correlation Modeling](<https://doi.org/10.48550/arxiv.2609.32276>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Graph Neural Network‐Based Reinforcement Learning for Decentralized Multi‐Robot Manipulation](<https://doi.org/10.1002/aisy.70562>) | Article | OpenAlex |
@@ -63,6 +71,7 @@
 | 2026‑09‑21 | [Human-LLM Deliberation as Interactive Proof\: Conditions for Verifiability Without Transparency](<https://arxiv.org/abs/2609.24895>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Augmented Hypothesis Testing with Persona-Based LLM Simulations](<https://arxiv.org/abs/2609.24629>) | Preprint | OpenAlex |
 | 2026‑09‑20 | [Hamm-Grams\: An Algorithm for Mining Regular Expressions of Bytes](<https://arxiv.org/abs/2607.01445>) | Book chapter | OpenAlex |
+| 2026‑09‑19 | [Proximal Residual Value Functions for Consistent Planning and Real-Time Execution](<https://arxiv.org/abs/2609.23242v1>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [The ecological collapse of color\: photoreceptor number buys a geometric hue manifold that natural spectra never fill](<https://arxiv.org/abs/2609.21965>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [The Impact of Artificial Intelligence on Labor, Employment Contracts, and Professional Identity](<https://doi.org/10.4018/979-8-3373-4642-7.ch006>) | Book chapter | OpenAlex |
 | 2026‑09‑18 | [Secure and scalable IoT device management with blockchain, K-anonymity, and deep reinforcement learning](<https://doi.org/10.1080/23737484.2026.2730611>) | Article | OpenAlex |
@@ -81,6 +90,7 @@
 | 2026‑09‑15 | [What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](<https://arxiv.org/abs/2609.17515>) | Preprint | OpenAlex |
 | 2026‑09‑15 | [Comparative evaluation of large language models for patient-facing information in clear aligner therapy](<https://doi.org/10.25259/apos_146_2026>) | Article | OpenAlex |
 | 2026‑09‑15 | [Where Should a Document Live\: Context, Representations, or Parameters?](<https://arxiv.org/abs/2609.17346v1>) | Paper | Verified affiliation |
+| 2026‑09‑14 | [StalePO\: Anchored Token-Level Preference Optimization using Legacy Post-Edits in Machine Translation](<https://arxiv.org/abs/2609.16340v1>) | Paper | Verified affiliation |
 | 2026‑09‑12 | [Portfolio Optimization with Covariance from News-Derived Information Networks](<https://doi.org/10.3905/jfds.2026.019>) | Article | OpenAlex |
 | 2026‑09‑12 | [Canadian Inflation Dynamics\: A Comparative Forecasting and Structural Identification Analysis (1995–2026)](<https://doi.org/10.38124/ijisrt/26sep083>) | Article | OpenAlex |
 | 2026‑09‑11 | [LLM-Enhanced Dual-Branch Learning for Large-Scale Multi-Label Text Classification](<https://arxiv.org/abs/2609.12915>) | Preprint | OpenAlex |
@@ -558,6 +568,7 @@
 | 2026‑01‑20 | [Foundations of Global Consistency Checking with Noisy LLM Oracles](<http://arxiv.org/abs/2601.13600>) | Article | OpenAlex |
 | 2026‑01‑20 | [iOS App Start-Time Performance\: A Comprehensive Analysis and Optimization Framework](<https://doi.org/10.5120/ijca2026926188>) | Article | OpenAlex |
 | 2026‑01‑19 | [Graph neural network and SVM-based approach for output prediction of three-phase matrix converter](<https://doi.org/10.26634/jdp.13.2.22342>) | Article | OpenAlex |
+| 2026‑01‑17 | [ATOD\: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems](<https://arxiv.org/abs/2601.11854>) | Paper | Verified affiliation |
 | 2026‑01‑16 | [ImitateCholec\: A Multimodal Dataset for Long-Horizon Imitation Learning in Robotic Cholecystectomy](<https://doi.org/10.1038/s41597-025-06526-z>) | Data paper | OpenAlex |
 | 2026‑01‑16 | [From “Everything is a File” to “Files Are All You Need”](<https://doi.org/10.31224/6289>) | Preprint | OpenAlex |
 | 2026‑01‑15 | [Bridging Temporal Dynamics and Nonlinear Patterns inMacroeconomic Forecasting\: A Hybrid Statistical Learning Approach](<https://doi.org/10.14419/3e55tj72>) | Article | OpenAlex |

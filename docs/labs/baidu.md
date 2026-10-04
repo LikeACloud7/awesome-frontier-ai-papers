@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `336`
-- Latest: `2026-09-30`
+- Papers: `337`
+- Latest: `2026-10-02`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑02 | [Controllable Orthogonalization for Stabilizing Neural Network Training in Deep Reinforcement Learning](<https://doi.org/10.3390/informatics13100162>) | Article | OpenAlex |
 | 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
 | 2026‑09‑30 | [RESUME\: Recurrent State Updates from Motion and Residual Signals for Efficient Video Language Modeling](<https://arxiv.org/abs/2609.39563v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Hiding in Plain Sight\: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents](<https://arxiv.org/abs/2609.39352v1>) | Paper | Verified affiliation |
