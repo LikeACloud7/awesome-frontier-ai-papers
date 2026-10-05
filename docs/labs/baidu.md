@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `337`
+- Papers: `345`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#baidu)
 
@@ -11,12 +11,20 @@
 |---|---|---|---|
 | 2026‑10‑02 | [Controllable Orthogonalization for Stabilizing Neural Network Training in Deep Reinforcement Learning](<https://doi.org/10.3390/informatics13100162>) | Article | OpenAlex |
 | 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
-| 2026‑09‑30 | [RESUME\: Recurrent State Updates from Motion and Residual Signals for Efficient Video Language Modeling](<https://arxiv.org/abs/2609.39563v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [Experimental Experience Modeling for Autonomous Research](<https://arxiv.org/abs/2609.39392>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [RESUME\: Recurrent State Updates from Motion and Residual Signals for Efficient Video Language Modeling](<https://arxiv.org/abs/2609.39563v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑30 | [Hiding in Plain Sight\: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents](<https://arxiv.org/abs/2609.39352v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [CoVisco\: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding](<https://arxiv.org/abs/2609.39924v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [CypherTurn\: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence](<https://arxiv.org/abs/2609.36987>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VidHarness\: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding](<https://arxiv.org/abs/2609.38413v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
+| 2026‑09‑27 | [TTRSD\: Test-Time Reinforcement Learning with Self-Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.33414>) | Preprint | OpenAlex |
+| 2026‑09‑27 | [Positions Are Not Facts\: The Mismatch Between KV Caches and Memory](<https://arxiv.org/abs/2609.33759>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [REFINE\: A Resilient Evolution Framework for Intelligent Enterprise Alert Triage in Security Operations Centers](<https://arxiv.org/abs/2609.32516>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [Progressive-View On-Policy Distillation for Regional-to-Global Transfer in Multimodal LLMs](<https://arxiv.org/abs/2609.32333>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [ALLOT\: Budgeted Hybrid-Memory Routing for Knowledge Updates in LLMs](<https://arxiv.org/abs/2609.32344>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [Highlight-Then-Summarize\: Learning to Compress Evidence for Long-Context Understanding](<https://doi.org/10.48550/arxiv.2609.31382>) | Preprint | OpenAlex |
+| 2026‑09‑25 | [Causal Retention in Interactive Agents\: Interface Factorization and Selective Adaptation](<https://arxiv.org/abs/2609.30650>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [A Survey on Parallel Reasoning](<http://arxiv.org/abs/2510.12164>) | Article | OpenAlex |
 | 2026‑09‑23 | [ZO-COSMO\: Index-Free One-Hop Mixing for Decentralized Zeroth-Order Optimization](<https://arxiv.org/abs/2609.27199>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Coupled characteristics and operational optimization of a high-pressure hydrogen cascade fast refueling system](<https://doi.org/10.1016/j.ijhydene.2026.157608>) | Article | OpenAlex |

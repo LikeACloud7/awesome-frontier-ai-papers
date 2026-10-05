@@ -66,10 +66,10 @@
 | 2025‑05‑30 | [ViStoryBench\: Comprehensive Benchmark Suite for Story Visualization](<https://huggingface.co/papers/2505.24862>) | Technical report | Official page |
 | 2025‑05‑12 | [Step1X-3D\: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](<https://arxiv.org/abs/2505.07747>) | Paper | Verified affiliation |
 | 2025‑04‑24 | [Step1X-Edit\: A Practical Framework for General Image Editing](<https://arxiv.org/abs/2504.17761>) | Paper | Verified affiliation |
-| 2025‑04‑08 | [OmniSVG\: A Unified Scalable Vector Graphics Generation Model](<https://huggingface.co/papers/2504.06263>) | Technical report | Official page |
 | 2025‑04 | [StyleMe3D\: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians](<https://huggingface.co/papers/2504.15281>) | Technical report | Official page |
 | 2025‑03‑19 | [FAVOR-Bench\: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding](<https://huggingface.co/papers/2503.14935>) | Technical report | Official page |
 | 2025‑03‑14 | [Step-Video-TI2V Technical Report\: A State-of-the-Art Text-Driven Image-to-Video Generation Model](<https://arxiv.org/abs/2503.11251>) | Paper | Verified affiliation |
 | 2025‑02‑17 | [Step-Audio\: Unified Understanding and Generation in Intelligent Speech Interaction](<https://arxiv.org/abs/2502.11946>) | Paper | Verified affiliation |
 | 2025‑02‑14 | [Step-Video-T2V Technical Report\: The Practice, Challenges, and Future of Video Foundation Model](<https://arxiv.org/abs/2502.10248>) | Paper | Verified affiliation |
 | 2025‑02‑06 | [InfiniteHBD\: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers](<https://arxiv.org/abs/2502.03885>) | Paper | Verified affiliation |
+| 2025‑01‑01 | [OmniSVG\: A Unified Scalable Vector Graphics Generation Model](<https://huggingface.co/papers/2504.06263>) | Technical report | Official page, OpenAlex |

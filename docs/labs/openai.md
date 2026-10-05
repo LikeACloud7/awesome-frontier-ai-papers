@@ -1,7 +1,7 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `484`
+- Papers: `485`
 - Latest: `2026-09-28`
 - [Back to README](../../README.md#openai)
 
@@ -19,6 +19,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑09‑28 | [Towards safety cases for frontier AI training](<https://openai.com/index/towards-safety-cases-for-frontier-ai-training>) | Research post | Official page |
+| 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑25 | [Multi-Probe Zero Collision Hash (MPZCH)\: Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](<https://arxiv.org/abs/2602.17050>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [TransAct V2\: Production System for Lifelong User Sequence Modeling at Scale](<https://doi.org/10.1145/3773078.3831868>) | Conference paper | OpenAlex |
 | 2026‑09‑23 | [Introducing MentalHealthBench](<https://openai.com/index/introducing-mentalhealthbench>) | Research post | Official page |
@@ -351,7 +352,6 @@
 | 2024‑06‑10 | [Calibrated Language Models Must Hallucinate](<https://doi.org/10.1145/3618260.3649777>) | Article | OpenAlex |
 | 2024‑06‑06 | [Extracting Concepts from GPT-4](<https://openai.com/index/extracting-concepts-from-gpt-4>) | Research post | Official page |
 | 2024‑06‑03 | [Generalized People Diversity\: Learning a Human Perception-Aligned Diversity Representation for People Images](<https://doi.org/10.1145/3630106.3658940>) | Conference paper | OpenAlex |
-| 2024‑05‑27 | [Block-based GPU Programming with Triton](<http://dx.doi.org/10.1109/ipdpsw63119.2024.00068>) | Conference abstract | OpenAlex |
 | 2024‑05‑13 | [Hello GPT-4o](<https://openai.com/index/hello-gpt-4o>) | Research post | Official page |
 | 2024‑05‑13 | [Topological Embedding of Human Brain Networks with Applications to Dynamics of Temporal Lobe Epilepsy](<http://arxiv.org/abs/2405.07835>) | Preprint | OpenAlex |
 | 2024‑05‑07 | [Understanding the source of what we see and hear online](<https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online>) | Research post | Official page |
@@ -364,6 +364,7 @@
 | 2024‑04‑22 | [PyTorch 2\: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation](<https://doi.org/10.1145/3620665.3640366>) | Conference paper | OpenAlex |
 | 2024‑04‑19 | [The Instruction Hierarchy\: Training LLMs to Prioritize Privileged Instructions](<https://openai.com/index/the-instruction-hierarchy>) | Research post | Official page |
 | 2024‑04‑02 | [AI is a viable alternative to high throughput screening\: a 318-target study](<https://doi.org/10.1038/s41598-024-54655-z>) | Article | OpenAlex |
+| 2024‑03‑19 | [Inter Cross-Component Prediction Merge Mode for Video Coding beyond VVC](<http://dx.doi.org/10.1109/dcc58796.2024.00068>) | Conference paper | OpenAlex |
 | 2024‑03‑08 | [Validation of the Openwater wearable optical system\: cerebral hemodynamic monitoring during a breath-hold maneuver](<https://doi.org/10.1117/1.nph.11.1.015008>) | Article | OpenAlex |
 | 2024‑02‑15 | [Video generation models as world simulators](<https://openai.com/index/video-generation-models-as-world-simulators>) | Publication | Official page |
 | 2024‑02‑14 | [Disrupting malicious uses of AI by state-affiliated threat actors](<https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors>) | Research post | Official page |

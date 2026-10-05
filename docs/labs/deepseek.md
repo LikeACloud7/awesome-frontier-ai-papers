@@ -63,10 +63,10 @@
 | 2024‑12‑13 | [DeepSeek-VL2\: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](<https://huggingface.co/papers/2412.10302>) | Technical report | Official page, Hugging Face |
 | 2024‑11‑12 | [JanusFlow\: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](<https://arxiv.org/abs/2411.07975>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑10‑17 | [Janus\: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](<https://huggingface.co/papers/2410.13848>) | Technical report | Official page, OpenAlex |
-| 2024‑08‑26 | [Fire-Flyer AI-HPC\: A Cost-Effective Software-Hardware Co-Design for Deep Learning](<https://arxiv.org/abs/2408.14158>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑08‑14 | [DeepSeek-Prover-V1\.5\: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](<https://github.com/deepseek-ai/DeepSeek-Prover-V1.5/blob/main/paper.pdf>) | Technical report | Official page, Official repo, Hugging Face |
 | 2024‑07‑01 | [Let the Expert Stick to His Last\: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models](<https://huggingface.co/papers/2407.01906>) | Technical report | Official page |
 | 2024‑06‑17 | [DeepSeek-Coder-V2\: Breaking the Barrier of Closed-Source Models in Code Intelligence](<https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf>) | Technical report | Official page, Official repo, Hugging Face |
+| 2024‑06‑16 | [Fire-Flyer AI-HPC\: A Cost-Effective Software-Hardware Co-Design for Deep Learning](<https://arxiv.org/abs/2408.14158>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑05‑23 | [DeepSeek-Prover\: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data](<https://huggingface.co/papers/2405.14333>) | Technical report | Official page, Hugging Face |
 | 2024‑05‑07 | [DeepSeek-V2\: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](<https://github.com/deepseek-ai/DeepSeek-V2/blob/main/deepseek-v2-tech-report.pdf>) | Technical report | Official page, Official repo, Hugging Face |
 | 2024‑03‑08 | [DeepSeek-VL\: Towards Real-World Vision-Language Understanding](<https://huggingface.co/papers/2403.05525>) | Technical report | Official page, OpenAlex, Hugging Face |
