@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `345`
+- Papers: `346`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#baidu)
 
@@ -13,8 +13,9 @@
 | 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
 | 2026‑09‑30 | [Experimental Experience Modeling for Autonomous Research](<https://arxiv.org/abs/2609.39392>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [RESUME\: Recurrent State Updates from Motion and Residual Signals for Efficient Video Language Modeling](<https://arxiv.org/abs/2609.39563v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑30 | [Hiding in Plain Sight\: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents](<https://arxiv.org/abs/2609.39352v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [Hiding in Plain Sight\: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents](<https://arxiv.org/abs/2609.39352v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑30 | [CoVisco\: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding](<https://arxiv.org/abs/2609.39924v1>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [Restoring without Forgetting\: Filter-Level Continual Image Restoration via Parameter-Space Integrated Gradients](<https://arxiv.org/abs/2609.38591>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [CypherTurn\: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence](<https://arxiv.org/abs/2609.36987>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VidHarness\: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding](<https://arxiv.org/abs/2609.38413v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |

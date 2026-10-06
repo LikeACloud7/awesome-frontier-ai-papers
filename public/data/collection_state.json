@@ -1,5 +1,5 @@
 {
-  "next_lab": 14,
+  "next_lab": 15,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -68,6 +68,11 @@
     },
     "ByteDance/Seed": {
       "last_attempt": "2026-10-05",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Tencent/Hunyuan": {
+      "last_attempt": "2026-10-06",
       "status": "partial",
       "since": "2024-01-01"
     }

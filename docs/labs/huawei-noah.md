@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `686`
-- Latest: `2026-10-01`
+- Papers: `689`
+- Latest: `2026-10-05`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,15 +15,18 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [XSearch\: Explainable Code Search via Concept-to-Code Alignment](<https://arxiv.org/abs/2605.16046>) | Article | OpenAlex |
 | 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
+| 2026‑09‑30 | [Self-Evolving Algorithm-Design Agents\: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization](<https://arxiv.org/abs/2609.38757>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [LampAttention\: Look-Ahead Mixed-Precision FlashAttention for Dedicated Accelerators](<https://arxiv.org/abs/2609.39361>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Distill the Visual Evidence, Not Just the Answer\: Cross-World On-Policy Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.38777v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [VidAct\: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness](<https://arxiv.org/abs/2609.36870>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VACE\: Validation-Gated Alternating Co-Evolution of Agent Models and Harnesses](<https://arxiv.org/abs/2609.37105>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [ReCAP\: Retrieval-Guided Capability Reuse for Multimodal Continual Instruction Tuning](<https://arxiv.org/abs/2609.37889>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [NetLexicon\: Learning Discrete Behavioral Representations for Encrypted Web Traffic Analysis](<https://arxiv.org/abs/2609.37672>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [How Should Diffusion Language Models Edit Code?](<https://arxiv.org/abs/2609.38257>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [FineSID\: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](<https://arxiv.org/abs/2609.36670>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [FairDiff\: Mitigating the Self-Reinforcing Matthew Effect in Diffusion Recommender Models](<https://arxiv.org/abs/2609.36671>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents](<https://arxiv.org/abs/2609.38536>) | Preprint | OpenAlex |
@@ -380,7 +383,7 @@
 | 2025‑11‑18 | [MS-VLMDet\: Multi-Scale Feature Enhanced Vision-Language Model for Pedestrian Detection](<https://doi.org/10.1109/itsc60802.2025.11423248>) | Article | OpenAlex |
 | 2025‑11‑15 | [Improving LLM-Based Document-Level MT with Multi-Knowledge Fusion](<https://doi.org/10.1007/978-981-95-3349-7_14>) | Book chapter | OpenAlex |
 | 2025‑11‑14 | [Leveraging large language models for SQL behavior-based database intrusion detection](<https://doi.org/10.1109/trustcom66490.2025.00035>) | Article | OpenAlex |
-| 2025‑11‑12 | [OTTER\: Open-Tagging via Text-Image Representation for Multi-Modal Understanding](<https://doi.org/10.1109/icdmw69685.2025.00054>) | Article | OpenAlex |
+| 2025‑11‑12 | [Beyond the Pre-Service Horizon\: Infusing In-Service Behavior for Improved Financial Risk Forecasting](<https://doi.org/10.1109/icdm65498.2025.00054>) | Conference paper | OpenAlex |
 | 2025‑11‑10 | [Unseen From Seen\: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation](<http://arxiv.org/abs/2503.18065>) | Article | OpenAlex |
 | 2025‑11‑08 | [STARec\: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning](<http://arxiv.org/abs/2508.18812>) | Article | OpenAlex |
 | 2025‑11‑08 | [Prompt Tuning as User Inherent Profile Inference Machine](<https://doi.org/10.1145/3746252.3761574>) | Article | OpenAlex |
@@ -543,7 +546,7 @@
 | 2025‑02‑26 | [Unifying Bias and Unfairness in Information Retrieval\: New Challenges in the LLM Era](<https://doi.org/10.1145/3701551.3703478>) | Article | OpenAlex |
 | 2025‑02‑26 | [Explainable CTR Prediction via LLM Reasoning](<https://doi.org/10.1145/3701551.3703551>) | Article | OpenAlex |
 | 2025‑02‑26 | [Improving Retrieval-Augmented Deep Assertion Generation via Joint Training](<https://doi.org/10.1109/tse.2025.3545970>) | Article | OpenAlex |
-| 2025‑02‑26 | [Boosting Accuracy and Efficiency for Vector Retrieval with Local Scaling Graph](<https://doi.org/10.1109/icde65448.2025.00032>) | Article | OpenAlex |
+| 2025‑02‑26 | [DEPHP\: A Source Code Recovery Method for PHP Bytecode with Improved Structural Analysis](<https://doi.org/10.1109/raid67961.2025.00032>) | Conference paper | OpenAlex |
 | 2025‑02‑24 | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](<https://seed.bytedance.com/en/research/improving-zero-shot-adversarial-robustness-in-vision-language-models-by-closed-form-alignment-of-adversarial-path-simplices>) | Publication | Official page |
 | 2025‑02‑24 | [Uncover the balanced geometry in long-tailed contrastive language-image pretraining](<https://doi.org/10.1007/s10994-025-06745-w>) | Article | OpenAlex |
 | 2025‑02‑18 | [UniGuardian\: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models](<https://huggingface.co/papers/2502.13141>) | Paper | Hugging Face |
@@ -598,7 +601,6 @@
 | 2024‑11‑08 | [A Brief Survey on Temporal Reasoning Based on Large Language Models](<https://doi.org/10.1109/acait63902.2024.11021814>) | Article | OpenAlex |
 | 2024‑11‑02 | [PQ-SAM\: Post-training Quantization for Segment Anything Model](<https://doi.org/10.1007/978-3-031-72684-2_24>) | Book chapter | OpenAlex |
 | 2024‑10‑31 | [Object-Oriented Anchoring and Modal Alignment in Multimodal Learning](<https://doi.org/10.1007/978-3-031-72973-7_11>) | Book chapter | OpenAlex |
-| 2024‑10‑28 | [World Models\: The Safety Perspective](<https://doi.org/10.1109/issrew63542.2024.00104>) | Article | OpenAlex |
 | 2024‑10‑28 | [Following the Compass\: LLM-Empowered Intent Translation with Manual Guidance](<https://doi.org/10.1109/icnp61940.2024.10858507>) | Article | OpenAlex |
 | 2024‑10‑26 | [A Method for Efficient Structured Data Generation with Large Language Models](<https://doi.org/10.1145/3688866.3689127>) | Article | OpenAlex |
 | 2024‑10‑26 | [EvilEdit\: Backdooring Text-to-Image Diffusion Models in One Second](<https://doi.org/10.1145/3664647.3680689>) | Article | OpenAlex |
@@ -649,6 +651,7 @@
 | 2024‑06‑30 | [From Handcrafted Features to LLMs\: A Brief Survey for Machine Translation Quality Estimation](<https://doi.org/10.1109/ijcnn60899.2024.10650457>) | Article | OpenAlex |
 | 2024‑06‑20 | [Lifelong 3D Mapping Framework for Hand-Held &amp; Robot-Mounted LiDAR Mapping Systems](<http://arxiv.org/abs/2501.18110>) | Article | OpenAlex |
 | 2024‑06‑17 | [Understanding the Collapse of LLMs in Model Editing](<https://huggingface.co/papers/2406.11263>) | Paper | Hugging Face |
+| 2024‑06‑16 | [Rethinking Generalizable Face Anti-Spoofing via Hierarchical Prototype-Guided Distribution Refinement in Hyperbolic Space](<https://doi.org/10.1109/cvpr52733.2024.00104>) | Conference paper | OpenAlex |
 | 2024‑06‑16 | [MIGC\: Multi-Instance Generation Controller for Text-to-Image Synthesis](<https://doi.org/10.1109/cvpr52733.2024.00651>) | Article | OpenAlex |
 | 2024‑06‑16 | [Generate Subgoal Images Before Act\: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts](<https://doi.org/10.1109/cvpr52733.2024.01327>) | Article | OpenAlex |
 | 2024‑06‑13 | [Efficient Depth-Guided Urban View Synthesis](<https://www.noahlab.com.hk/en/scientific_research/efficient-depth-guided-urban-view-synthesis>) | Publication | Official page |

@@ -1,18 +1,21 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1467`
-- Latest: `2026-10-02`
+- Papers: `1470`
+- Latest: `2026-10-05`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
 | 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
 | 2026‑10‑01 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page |
+| 2026‑10‑01 | [RISED\: RubrIcs for agentic multi-environment Selection and sElf-Distillation](<https://arxiv.org/abs/2610.00979>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
+| 2026‑09‑30 | [Visualizing Distribution Coverage in Generative Diffusion Models](<https://arxiv.org/abs/2609.38853>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://arxiv.org/abs/2609.36678>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |
@@ -404,7 +407,6 @@
 | 2025‑09‑24 | [SimpleFold\: Folding Proteins is Simpler than You Think](<https://machinelearning.apple.com/research/simplefold>) | Publication | Official page |
 | 2025‑09‑23 | [The Illusion of Thinking](<https://doi.org/10.70777/si.v2i6.15919>) | Article | OpenAlex |
 | 2025‑09‑23 | [EpiCache\: Episodic KV Cache Management for Long-Term Conversation on Resource-Constrained Environments](<https://machinelearning.apple.com/research/epicache>) | Publication | Official page |
-| 2025‑09‑23 | [MM-Spatial\: Exploring 3D Spatial Understanding in Multimodal LLMs](<https://machinelearning.apple.com/research/mm-spatial>) | Publication | Official page, OpenAlex |
 | 2025‑09‑23 | [Adversarial Distilled Retrieval-Augmented Guarding Model for Online Malicious Intent Detection](<https://machinelearning.apple.com/research/adversarial-distilled>) | Publication | Official page |
 | 2025‑09‑23 | [RATTENTION\: Towards the Minimal Sliding Window Size in Local-Global Attention Models](<https://machinelearning.apple.com/research/rattention>) | Publication | Official page |
 | 2025‑09‑23 | [Identifiable Multi-View Causal Discovery Without Non-Gaussianity](<https://machinelearning.apple.com/research/non-gaussianity>) | Publication | Official page |
@@ -542,7 +544,6 @@
 | 2025‑04‑23 | [Speech AI for All\: Promoting Accessibility, Fairness, Inclusivity, and Equity](<https://doi.org/10.1145/3706599.3706746>) | Conference paper | OpenAlex |
 | 2025‑04‑17 | [Disentangled Representational Learning with the Gromov-Monge Gap](<https://machinelearning.apple.com/research/disentangled-representational-learning-gromov>) | Publication | Official page |
 | 2025‑04‑16 | [Scaling Laws for Native Multimodal Models](<https://machinelearning.apple.com/research/scaling-laws-native-multimodal-models>) | Publication | Official page, OpenAlex |
-| 2025‑04‑16 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](<https://machinelearning.apple.com/research/scaling-diffusion-language-models>) | Publication | Official page |
 | 2025‑04‑16 | [DART\: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation](<https://machinelearning.apple.com/research/dart-denoising-autoregressive-transformer>) | Publication | Official page |
 | 2025‑04‑15 | [TIS-DPO\: Token-level Importance Sampling for Direct Preference Optimization](<https://machinelearning.apple.com/research/tis-dpo-importance-sampling>) | Publication | Official page |
 | 2025‑04‑15 | [EC-DIT\: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing](<https://machinelearning.apple.com/research/ec-dit>) | Publication | Official page |
@@ -641,6 +642,7 @@
 | 2025‑01‑09 | [SLiCK\: Exploiting Subsequences for Length-Constrained Keyword Spotting](<https://machinelearning.apple.com/research/slick-exploiting-subsequences>) | Publication | Official page, OpenAlex |
 | 2025‑01‑08 | [What Makes for a Good Stereoscopic Image?](<https://machinelearning.apple.com/research/good-stereoscopic>) | Publication | Official page, OpenAlex |
 | 2025‑01‑06 | [3D Shape Tokenization](<https://machinelearning.apple.com/research/3d-shape-tokenization>) | Publication | Official page |
+| 2025‑01‑02 | [MM-Spatial\: Exploring 3D Spatial Understanding in Multimodal LLMs](<https://machinelearning.apple.com/research/mm-spatial>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [The Illusion of Thinking\: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](<https://machinelearning.apple.com/research/illusion-of-thinking>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Chain-of-Model Learning for Language Model](<https://www.microsoft.com/en-us/research/publication/chain-of-model-learning-for-language-model/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [UniGen\: Enhanced Training &amp; Test-Time Strategies for Unified Multimodal Understanding and Generation](<https://machinelearning.apple.com/research/unigen-enhanced-training>) | Publication | Official page, OpenAlex |
@@ -787,6 +789,7 @@
 | 2024‑10‑27 | [Interactive Proofs for General Distribution Properties](<https://machinelearning.apple.com/research/interactive-proofs-distribution-properties>) | Publication | Official page, OpenAlex |
 | 2024‑10‑26 | [PAIR\: Pre-denosing Augmented Image Retrieval Model for Defending Adversarial Patches](<https://doi.org/10.1145/3664647.3681398>) | Conference paper | OpenAlex |
 | 2024‑10‑25 | [GRiT\: A Generative Region-to-Text Transformer for Object Understanding](<https://doi.org/10.1007/978-3-031-72989-8_12>) | Conference paper | OpenAlex |
+| 2024‑10‑23 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](<https://machinelearning.apple.com/research/scaling-diffusion-language-models>) | Publication | Official page, OpenAlex |
 | 2024‑10‑23 | [Towards Data-Centric RLHF\: Simple Metrics for Preference Dataset Comparison](<https://machinelearning.apple.com/research/data-centric-rlhf>) | Publication | Official page |
 | 2024‑10‑22 | [Privacy-Computation Trade-offs in Private Repetition and Metaselection](<https://machinelearning.apple.com/research/privacy-computation-trade-offs>) | Publication | Official page, OpenAlex |
 | 2024‑10‑21 | [Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement](<https://machinelearning.apple.com/research/subspace-disentanglement>) | Publication | Official page |

@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `419`
+- Papers: `421`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#metafair)
 
@@ -26,6 +26,8 @@
 | n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCS (Private Computation Solutions)](<https://github.com/facebookresearch/fbpcs/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E004159_DLOE_Report_2022-08-05_DLOE-Multi-Key-Private-ID.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCF (Private Computation Framework)](<https://github.com/facebookresearch/fbpcf/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E003028_DLOE_Report_2022-06-27_DLOE-ORAM.pdf>) | Technical report | Official repo |
+| n\.d\. | [Narwhal and Tusk](<https://github.com/facebookresearch/narwhal/blob/main/benchmark/data/paper-data/committee-latency-faults.pdf>) | Technical report | Official repo |
+| n\.d\. | [MoDem\: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](<https://github.com/facebookresearch/modem/blob/main/tasks/mj_envs/mj_envs/white_paper_2020.pdf>) | Technical report | Official repo |
 | n\.d\. | [MoCA\: Motion-Conditioned Image Animation for Video Editing](<https://github.com/facebookresearch/MoCA/blob/main/paper/MoCA.pdf>) | Technical report | Official repo |
 | n\.d\. | [Metaseq](<https://github.com/facebookresearch/metaseq/blob/main/projects/OPT-IML/optiml_paper_v1.pdf>) | Technical report | Official repo |
 | n\.d\. | [KernelBench-Verified\: Do LLM-Generated Kernels Actually Beat PyTorch?](<https://github.com/facebookresearch/kernel_bench_verified/blob/main/KernelBench_Verified_Report.pdf>) | Technical report | Official repo |
@@ -162,7 +164,7 @@
 | 2026‑02‑05 | [Multimodal Generative AI for Next-Generation Healthcare Diagnostics and Predictive Analytics](<https://doi.org/10.1109/acdsa67686.2026.11468232>) | Article | OpenAlex |
 | 2026‑02‑04 | [CoWTracker\: Tracking by Warping instead of Correlation](<https://arxiv.org/abs/2602.04877>) | Paper | Verified affiliation |
 | 2026‑01‑24 | [Real-Time Trend Prediction via Continually-Aligned LLM Query Generation](<https://arxiv.org/abs/2601.17567v1>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑01‑02 | [PhyGDPO\: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation](<https://ai.meta.com/research/publications/phygdpo-physics-aware-groupwise-direct-preference-optimization-for-physically-consistent-text-to-video-generation/>) | Publication | Official page |
+| 2026‑01‑01 | [PhyGDPO\: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation](<https://ai.meta.com/research/publications/phygdpo-physics-aware-groupwise-direct-preference-optimization-for-physically-consistent-text-to-video-generation/>) | Publication | Official page, OpenAlex |
 | 2026‑01‑01 | [Integrating AI and Large Language Models for Automated Data Quality Enhancement in Data Integration Systems](<https://doi.org/10.1109/ojcs.2026.3666345>) | Article | OpenAlex |
 | 2026‑01‑01 | [&lt;i&gt;HoloQA&lt;/i&gt; \: Full Reference Video Quality Assessor of Rendered Human Avatars in Virtual Reality](<https://doi.org/10.1109/tip.2026.3663930>) | Article | OpenAlex |
 | 2026‑01‑01 | [Real-Time Human and Generative AI Interaction\: Network Challenges and Opportunities](<https://doi.org/10.1109/mnet.2026.3656136>) | Article | OpenAlex |

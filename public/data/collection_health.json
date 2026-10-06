@@ -7,11 +7,11 @@
   "status": "partial",
   "source_count": 110,
   "failed_sources": 2,
-  "partial_sources": 36,
-  "error_sources": 26,
-  "pending_metadata": 920,
+  "partial_sources": 37,
+  "error_sources": 27,
+  "pending_metadata": 982,
   "unsafe_url_papers": 2,
-  "openalex_only_excluded": 679,
+  "openalex_only_excluded": 736,
   "sources": [
     {
       "lab": "OpenAI",
@@ -21,33 +21,33 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:25+00:00",
-      "elapsed_seconds": 0.52,
-      "last_success": "2026-10-05T10:33:25+00:00"
+      "checked_at": "2026-10-06T10:25:32+00:00",
+      "elapsed_seconds": 0.6,
+      "last_success": "2026-10-06T10:25:32+00:00"
     },
     {
       "lab": "OpenAI",
       "source": "official:rss:https://openai.com/news/rss.xml",
       "status": "ok",
-      "collected": 335,
+      "collected": 336,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:25+00:00",
-      "elapsed_seconds": 0.63,
-      "last_success": "2026-10-05T10:33:25+00:00"
+      "checked_at": "2026-10-06T10:25:32+00:00",
+      "elapsed_seconds": 0.69,
+      "last_success": "2026-10-06T10:25:32+00:00"
     },
     {
       "lab": "OpenAI",
       "source": "openalex",
       "status": "ok",
-      "collected": 197,
-      "requests": 1,
+      "collected": 231,
+      "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:25+00:00",
-      "elapsed_seconds": 1.15,
-      "last_success": "2026-10-05T10:33:25+00:00"
+      "checked_at": "2026-10-06T10:25:32+00:00",
+      "elapsed_seconds": 1.63,
+      "last_success": "2026-10-06T10:25:32+00:00"
     },
     {
       "lab": "Anthropic",
@@ -57,9 +57,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:26+00:00",
-      "elapsed_seconds": 0.22,
-      "last_success": "2026-10-05T10:33:26+00:00"
+      "checked_at": "2026-10-06T10:25:34+00:00",
+      "elapsed_seconds": 0.19,
+      "last_success": "2026-10-06T10:25:34+00:00"
     },
     {
       "lab": "Anthropic",
@@ -69,9 +69,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:26+00:00",
-      "elapsed_seconds": 0.17,
-      "last_success": "2026-10-05T10:33:26+00:00"
+      "checked_at": "2026-10-06T10:25:34+00:00",
+      "elapsed_seconds": 0.15,
+      "last_success": "2026-10-06T10:25:34+00:00"
     },
     {
       "lab": "Anthropic",
@@ -81,9 +81,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:27+00:00",
-      "elapsed_seconds": 0.2,
-      "last_success": "2026-10-05T10:33:27+00:00"
+      "checked_at": "2026-10-06T10:25:34+00:00",
+      "elapsed_seconds": 0.17,
+      "last_success": "2026-10-06T10:25:34+00:00"
     },
     {
       "lab": "OpenAI",
@@ -95,21 +95,21 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:33:26+00:00",
-      "elapsed_seconds": 3.78,
+      "checked_at": "2026-10-06T10:25:33+00:00",
+      "elapsed_seconds": 3.81,
       "last_success": null
     },
     {
       "lab": "Anthropic",
       "source": "openalex",
       "status": "ok",
-      "collected": 583,
-      "requests": 3,
+      "collected": 615,
+      "requests": 4,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:29+00:00",
-      "elapsed_seconds": 2.96,
-      "last_success": "2026-10-05T10:33:29+00:00"
+      "checked_at": "2026-10-06T10:25:37+00:00",
+      "elapsed_seconds": 4.02,
+      "last_success": "2026-10-06T10:25:37+00:00"
     },
     {
       "lab": "Anthropic",
@@ -121,57 +121,16 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:33:32+00:00",
-      "elapsed_seconds": 1.48,
+      "checked_at": "2026-10-06T10:25:41+00:00",
+      "elapsed_seconds": 1.42,
       "last_success": null
-    },
-    {
-      "lab": "Anthropic",
-      "source": "repositories",
-      "status": "partial",
-      "collected": 11,
-      "requests": 25,
-      "errors": [
-        "409 Client Error: Conflict for url: https://api.github.com/repos/anthropics/homebrew-claude/git/trees/main?recursive=1",
-        "Repository scan incomplete: anthropics/homebrew-claude; retained for retry"
-      ],
-      "limits": [
-        "1 official repositories remain in the persistent scan queue"
-      ],
-      "checked_at": "2026-10-05T10:33:27+00:00",
-      "elapsed_seconds": 11.13,
-      "last_success": null
-    },
-    {
-      "lab": "Google/DeepMind",
-      "source": "official:deepmind_publication_list:https://deepmind.google/research/publications/",
-      "status": "ok",
-      "collected": 1,
-      "requests": 9,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:33:38+00:00",
-      "elapsed_seconds": 5.99,
-      "last_success": "2026-10-05T10:33:38+00:00"
-    },
-    {
-      "lab": "Google/DeepMind",
-      "source": "official:deepmind_model_cards:https://deepmind.google/models/model-cards/",
-      "status": "ok",
-      "collected": 47,
-      "requests": 1,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:33:44+00:00",
-      "elapsed_seconds": 0.45,
-      "last_success": "2026-10-05T10:33:44+00:00"
     },
     {
       "lab": "Anthropic",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 18,
-      "requests": 25,
+      "requests": 19,
       "errors": [
         "Cannot isolate arXiv author affiliation block for 2609.22882",
         "Cannot isolate arXiv author affiliation block for 2609.10285",
@@ -181,47 +140,76 @@
       ],
       "limits": [
         "5 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 301 known authors per run"
+        "Author discovery rotates 9 of 309 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:33:34+00:00",
-      "elapsed_seconds": 19.92,
+      "checked_at": "2026-10-06T10:25:42+00:00",
+      "elapsed_seconds": 21.54,
       "last_success": null
+    },
+    {
+      "lab": "Anthropic",
+      "source": "repositories",
+      "status": "partial",
+      "collected": 11,
+      "requests": 57,
+      "errors": [
+        "409 Client Error: Conflict for url: https://api.github.com/repos/anthropics/homebrew-claude/git/trees/main?recursive=1",
+        "Repository scan incomplete: anthropics/homebrew-claude; retained for retry"
+      ],
+      "limits": [
+        "1 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:25:34+00:00",
+      "elapsed_seconds": 36.44,
+      "last_success": null
+    },
+    {
+      "lab": "Google/DeepMind",
+      "source": "official:deepmind_model_cards:https://deepmind.google/models/model-cards/",
+      "status": "ok",
+      "collected": 47,
+      "requests": 1,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:26:11+00:00",
+      "elapsed_seconds": 0.3,
+      "last_success": "2026-10-06T10:26:11+00:00"
+    },
+    {
+      "lab": "Google/DeepMind",
+      "source": "official:deepmind_publication_list:https://deepmind.google/research/publications/",
+      "status": "ok",
+      "collected": 1,
+      "requests": 9,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:26:04+00:00",
+      "elapsed_seconds": 7.8,
+      "last_success": "2026-10-06T10:26:04+00:00"
     },
     {
       "lab": "OpenAI",
       "source": "repositories",
       "status": "ok",
       "collected": 48,
-      "requests": 60,
+      "requests": 84,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:25+00:00",
-      "elapsed_seconds": 31.77,
-      "last_success": "2026-10-05T10:33:25+00:00"
+      "checked_at": "2026-10-06T10:25:32+00:00",
+      "elapsed_seconds": 60.21,
+      "last_success": "2026-10-06T10:25:32+00:00"
     },
     {
       "lab": "Google/DeepMind",
       "source": "openalex",
       "status": "ok",
-      "collected": 321,
+      "collected": 332,
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:33:57+00:00",
-      "elapsed_seconds": 2.02,
-      "last_success": "2026-10-05T10:33:57+00:00"
-    },
-    {
-      "lab": "Google/DeepMind",
-      "source": "official:google_research_publications:https://research.google/pubs/",
-      "status": "ok",
-      "collected": 238,
-      "requests": 27,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:33:44+00:00",
-      "elapsed_seconds": 15.65,
-      "last_success": "2026-10-05T10:33:44+00:00"
+      "checked_at": "2026-10-06T10:26:32+00:00",
+      "elapsed_seconds": 2.54,
+      "last_success": "2026-10-06T10:26:32+00:00"
     },
     {
       "lab": "Google/DeepMind",
@@ -233,9 +221,21 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:33:59+00:00",
-      "elapsed_seconds": 8.45,
+      "checked_at": "2026-10-06T10:26:35+00:00",
+      "elapsed_seconds": 6.21,
       "last_success": null
+    },
+    {
+      "lab": "Google/DeepMind",
+      "source": "official:google_research_publications:https://research.google/pubs/",
+      "status": "ok",
+      "collected": 239,
+      "requests": 28,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:26:11+00:00",
+      "elapsed_seconds": 67.95,
+      "last_success": "2026-10-06T10:26:11+00:00"
     },
     {
       "lab": "Meta/FAIR",
@@ -245,24 +245,25 @@
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:34:07+00:00",
-      "elapsed_seconds": 8.36,
-      "last_success": "2026-10-05T10:34:07+00:00"
+      "checked_at": "2026-10-06T10:27:19+00:00",
+      "elapsed_seconds": 6.86,
+      "last_success": "2026-10-06T10:27:19+00:00"
     },
     {
       "lab": "OpenAI",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 9,
-      "requests": 122,
+      "requests": 172,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.35799",
+        "Cannot isolate arXiv author affiliation block for 2610.03160",
         "Cannot isolate arXiv author affiliation block for 2609.24934",
         "Cannot isolate arXiv author affiliation block for 2609.22882",
         "Cannot isolate arXiv author affiliation block for 2609.28591",
         "Cannot isolate arXiv author affiliation block for 2610.00956",
         "Cannot isolate arXiv author affiliation block for 2609.39986",
         "Cannot isolate arXiv author affiliation block for 2609.39828",
-        "Cannot isolate arXiv author affiliation block for 2609.35799",
         "Cannot isolate arXiv author affiliation block for 2609.10285",
         "Cannot isolate arXiv author affiliation block for 2609.17135",
         "Cannot isolate arXiv author affiliation block for 2608.09408",
@@ -305,17 +306,15 @@
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.10725",
         "Cannot isolate arXiv author affiliation block for 2608.23340",
         "Cannot isolate arXiv author affiliation block for 2609.06952",
-        "Cannot isolate arXiv author affiliation block for 2608.25131",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.24516",
-        "Cannot isolate arXiv author affiliation block for 2609.20154"
+        "Cannot isolate arXiv author affiliation block for 2608.25131"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "52 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 2393 known authors per run"
+        "53 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 2418 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:33:26+00:00",
-      "elapsed_seconds": 71.33,
+      "checked_at": "2026-10-06T10:25:33+00:00",
+      "elapsed_seconds": 124.22,
       "last_success": null
     },
     {
@@ -326,9 +325,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:34:37+00:00",
-      "elapsed_seconds": 0.55,
-      "last_success": "2026-10-05T10:34:37+00:00"
+      "checked_at": "2026-10-06T10:27:37+00:00",
+      "elapsed_seconds": 0.77,
+      "last_success": "2026-10-06T10:27:37+00:00"
     },
     {
       "lab": "Meta/FAIR",
@@ -340,22 +339,52 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:34:38+00:00",
-      "elapsed_seconds": 6.98,
+      "checked_at": "2026-10-06T10:27:38+00:00",
+      "elapsed_seconds": 5.62,
       "last_success": null
     },
     {
-      "lab": "Meta/FAIR",
+      "lab": "Google/DeepMind",
       "source": "repositories",
-      "status": "partial",
-      "collected": 58,
-      "requests": 136,
-      "errors": [],
-      "limits": [
-        "603 official repositories remain in the persistent scan queue"
+      "status": "failed",
+      "collected": 0,
+      "requests": 108,
+      "errors": [
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-mix-224/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-mix-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-mix-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-mix-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-mix-224-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-mix-224/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma-3b-pt-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma-3b-pt-224-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-pt-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-ft-docci-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-ft-docci-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-ft-docci-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-ft-docci-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-896-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-224-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-896-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-224-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-pt-896-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-pt-448-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-pt-224-jax/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-896/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-pt-224/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-896/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-448/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-pt-224/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-3b-pt-896/raw/main/README.md"
       ],
-      "checked_at": "2026-10-05T10:34:16+00:00",
-      "elapsed_seconds": 68.9,
+      "limits": [
+        "406 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:26:11+00:00",
+      "elapsed_seconds": 117.7,
       "last_success": null
     },
     {
@@ -366,17 +395,159 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:35:25+00:00",
-      "elapsed_seconds": 7.06,
-      "last_success": "2026-10-05T10:35:25+00:00"
+      "checked_at": "2026-10-06T10:28:09+00:00",
+      "elapsed_seconds": 6.81,
+      "last_success": "2026-10-06T10:28:09+00:00"
+    },
+    {
+      "lab": "Microsoft",
+      "source": "repositories",
+      "status": "partial",
+      "collected": 1,
+      "requests": 18,
+      "errors": [
+        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/radedit/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/BiomedParse/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/maira-2/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/GELab-Zero-4B-preview-Sico-Evolution/raw/main/README.md"
+      ],
+      "limits": [
+        "4 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:28:16+00:00",
+      "elapsed_seconds": 17.18,
+      "last_success": null
+    },
+    {
+      "lab": "Microsoft",
+      "source": "openalex",
+      "status": "ok",
+      "collected": 247,
+      "requests": 2,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:28:33+00:00",
+      "elapsed_seconds": 3.01,
+      "last_success": "2026-10-06T10:28:33+00:00"
+    },
+    {
+      "lab": "Microsoft",
+      "source": "huggingface_search",
+      "status": "partial",
+      "collected": 1,
+      "requests": 3,
+      "errors": [],
+      "limits": [
+        "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
+      ],
+      "checked_at": "2026-10-06T10:28:36+00:00",
+      "elapsed_seconds": 3.36,
+      "last_success": null
+    },
+    {
+      "lab": "Meta/FAIR",
+      "source": "repositories",
+      "status": "partial",
+      "collected": 71,
+      "requests": 136,
+      "errors": [],
+      "limits": [
+        "578 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:27:26+00:00",
+      "elapsed_seconds": 98.61,
+      "last_success": null
+    },
+    {
+      "lab": "Apple",
+      "source": "official:apple_next_data:https://machinelearning.apple.com/research",
+      "status": "ok",
+      "collected": 1173,
+      "requests": 1,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:29:04+00:00",
+      "elapsed_seconds": 0.56,
+      "last_success": "2026-10-06T10:29:04+00:00"
+    },
+    {
+      "lab": "Apple",
+      "source": "official:rss:https://machinelearning.apple.com/rss.xml",
+      "status": "ok",
+      "collected": 10,
+      "requests": 1,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:29:05+00:00",
+      "elapsed_seconds": 0.05,
+      "last_success": "2026-10-06T10:29:05+00:00"
+    },
+    {
+      "lab": "Apple",
+      "source": "repositories",
+      "status": "ok",
+      "collected": 0,
+      "requests": 2,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:29:05+00:00",
+      "elapsed_seconds": 1.1,
+      "last_success": "2026-10-06T10:29:05+00:00"
+    },
+    {
+      "lab": "Apple",
+      "source": "openalex",
+      "status": "ok",
+      "collected": 21,
+      "requests": 1,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:29:06+00:00",
+      "elapsed_seconds": 0.55,
+      "last_success": "2026-10-06T10:29:06+00:00"
+    },
+    {
+      "lab": "Apple",
+      "source": "huggingface_search",
+      "status": "partial",
+      "collected": 0,
+      "requests": 2,
+      "errors": [],
+      "limits": [
+        "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
+      ],
+      "checked_at": "2026-10-06T10:29:07+00:00",
+      "elapsed_seconds": 2.49,
+      "last_success": null
     },
     {
       "lab": "Google/DeepMind",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 350,
-      "requests": 195,
+      "collected": 356,
+      "requests": 179,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.25384",
+        "Cannot isolate arXiv author affiliation block for 2609.21120",
+        "Cannot isolate arXiv author affiliation block for 2512.11905",
+        "Cannot isolate arXiv author affiliation block for 2609.21947",
+        "Cannot isolate arXiv author affiliation block for 2609.03159",
+        "Cannot isolate arXiv author affiliation block for 2608.24967",
+        "Cannot isolate arXiv author affiliation block for 2608.26325",
+        "Cannot isolate arXiv author affiliation block for 2608.17271",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
+        "Cannot isolate arXiv author affiliation block for 2608.29370",
+        "Cannot isolate arXiv author affiliation block for 2608.07543",
+        "Cannot isolate arXiv author affiliation block for 2609.29105",
+        "Cannot isolate arXiv author affiliation block for 2609.28921",
+        "Cannot isolate arXiv author affiliation block for 2608.28804",
+        "Cannot isolate arXiv author affiliation block for 2608.27033",
+        "Cannot isolate arXiv author affiliation block for 2607.27217",
+        "Cannot isolate arXiv author affiliation block for 2606.26794",
+        "Cannot isolate arXiv author affiliation block for 2608.07538",
+        "Cannot isolate arXiv author affiliation block for 2607.22777",
+        "Cannot isolate arXiv author affiliation block for 2607.21507",
+        "Cannot isolate arXiv author affiliation block for 2608.14351",
         "Cannot isolate arXiv author affiliation block for 2609.16057",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
         "Cannot isolate arXiv author affiliation block for 2609.15655",
@@ -392,11 +563,11 @@
         "Cannot isolate arXiv author affiliation block for 2605.16428",
         "Cannot isolate arXiv author affiliation block for 2609.02838",
         "Cannot isolate arXiv author affiliation block for 2608.17347",
-        "Cannot isolate arXiv author affiliation block for 2608.13505",
         "Cannot isolate arXiv author affiliation block for 2608.27912",
+        "Cannot isolate arXiv author affiliation block for 2608.13505",
         "Cannot isolate arXiv author affiliation block for 2606.09686",
-        "Cannot isolate arXiv author affiliation block for 2606.00136",
         "Cannot isolate arXiv author affiliation block for 2605.29120",
+        "Cannot isolate arXiv author affiliation block for 2606.00136",
         "Cannot isolate arXiv author affiliation block for 2604.21269",
         "Cannot isolate arXiv author affiliation block for 2608.28820",
         "Cannot isolate arXiv author affiliation block for 2608.21006",
@@ -419,79 +590,26 @@
         "Cannot isolate arXiv author affiliation block for 2510.15358",
         "Cannot isolate arXiv author affiliation block for 2609.15818",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.17584",
-        "Cannot isolate arXiv author affiliation block for 2510.14706",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2510.13756",
-        "Cannot isolate arXiv author affiliation block for 2609.16697",
-        "Cannot isolate arXiv author affiliation block for 2609.14533",
-        "Cannot isolate arXiv author affiliation block for 2512.18047",
-        "Cannot isolate arXiv author affiliation block for 2609.11243",
-        "Cannot isolate arXiv author affiliation block for 2512.13404",
-        "Cannot isolate arXiv author affiliation block for 2512.17932",
-        "Cannot isolate arXiv author affiliation block for 2510.04033",
-        "Cannot isolate arXiv author affiliation block for 2603.27751",
-        "Cannot isolate arXiv author affiliation block for 2512.08226",
-        "Cannot isolate arXiv author affiliation block for 2512.03988",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2510.26472",
-        "Cannot isolate arXiv author affiliation block for 2510.19794",
-        "Cannot isolate arXiv author affiliation block for 2603.27450",
-        "Cannot isolate arXiv author affiliation block for 2603.22723",
-        "Cannot isolate arXiv author affiliation block for 2609.25384",
-        "Cannot isolate arXiv author affiliation block for 2609.26375",
-        "Cannot isolate arXiv author affiliation block for 2603.22344",
-        "Cannot isolate arXiv author affiliation block for 2603.20321",
-        "Cannot isolate arXiv author affiliation block for 2603.13718",
-        "Cannot isolate arXiv author affiliation block for 2603.09130",
-        "Cannot isolate arXiv author affiliation block for 2603.12382",
-        "Cannot isolate arXiv author affiliation block for 2609.25732",
-        "Cannot isolate arXiv author affiliation block for 2603.01955",
-        "Cannot isolate arXiv author affiliation block for 2608.23009",
-        "Cannot isolate arXiv author affiliation block for 2602.20507",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2602.12643",
-        "Cannot isolate arXiv author affiliation block for 2602.13339",
-        "Cannot isolate arXiv author affiliation block for 2602.11434",
-        "Cannot isolate arXiv author affiliation block for 2511.22205",
-        "Cannot isolate arXiv author affiliation block for 2601.07268",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2511.12090",
-        "Cannot isolate arXiv author affiliation block for 2609.14415",
-        "Cannot isolate arXiv author affiliation block for 2601.04949",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2511.06247",
-        "Cannot isolate arXiv author affiliation block for 2511.05908",
-        "Cannot isolate arXiv author affiliation block for 2511.05390",
-        "Cannot isolate arXiv author affiliation block for 2608.03908",
-        "Cannot isolate arXiv author affiliation block for 2609.03387",
-        "Cannot isolate arXiv author affiliation block for 2602.02223",
-        "Cannot isolate arXiv author affiliation block for 2601.22540",
-        "Cannot isolate arXiv author affiliation block for 2602.02517",
-        "Cannot isolate arXiv author affiliation block for 2601.17109",
-        "Cannot isolate arXiv author affiliation block for 2601.15977"
+        "Cannot isolate arXiv author affiliation block for 2510.14706"
       ],
       "limits": [
-        "106 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 25462 known authors per run"
+        "arXiv discovery continues from its saved result offset on the next run",
+        "107 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 25625 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:34:00+00:00",
-      "elapsed_seconds": 111.2,
+      "checked_at": "2026-10-06T10:26:41+00:00",
+      "elapsed_seconds": 208.11,
       "last_success": null
-    },
-    {
-      "lab": "Microsoft",
-      "source": "openalex",
-      "status": "ok",
-      "collected": 235,
-      "requests": 2,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:35:51+00:00",
-      "elapsed_seconds": 2.09,
-      "last_success": "2026-10-05T10:35:51+00:00"
     },
     {
       "lab": "Meta/FAIR",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 57,
-      "requests": 117,
+      "requests": 146,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2610.05676",
+        "Cannot isolate arXiv author affiliation block for 2610.05261",
         "Cannot isolate arXiv author affiliation block for 2609.30322",
         "Cannot isolate arXiv author affiliation block for 2609.11391",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
@@ -502,18 +620,18 @@
         "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.20154",
         "Cannot isolate arXiv author affiliation block for 2609.26538",
-        "Cannot isolate arXiv author affiliation block for 2609.25158",
         "Cannot isolate arXiv author affiliation block for 2609.30489",
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
         "Cannot isolate arXiv author affiliation block for 2609.24057",
         "Cannot isolate arXiv author affiliation block for 2609.02584",
-        "Cannot isolate arXiv author affiliation block for 2609.02886",
         "Cannot isolate arXiv author affiliation block for 2609.04010",
+        "Cannot isolate arXiv author affiliation block for 2609.02886",
         "Cannot isolate arXiv author affiliation block for 2608.24295",
         "Cannot isolate arXiv author affiliation block for 2608.23058",
         "Cannot isolate arXiv author affiliation block for 2601.05972",
         "Cannot isolate arXiv author affiliation block for 2609.03387",
-        "Cannot isolate arXiv author affiliation block for 2609.03325",
         "Cannot isolate arXiv author affiliation block for 2608.13505",
+        "Cannot isolate arXiv author affiliation block for 2609.03325",
         "Cannot isolate arXiv author affiliation block for 2608.31075",
         "Cannot isolate arXiv author affiliation block for 2608.21677",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.16419",
@@ -522,10 +640,9 @@
         "Cannot isolate arXiv author affiliation block for 2606.12429",
         "Cannot isolate arXiv author affiliation block for 2509.08004",
         "Cannot isolate arXiv author affiliation block for 2507.21059",
-        "Cannot isolate arXiv author affiliation block for 2607.26170",
         "Cannot isolate arXiv author affiliation block for 2609.23240",
         "Cannot isolate arXiv author affiliation block for 2609.22946",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.29203",
+        "Cannot isolate arXiv author affiliation block for 2607.26170",
         "Cannot isolate arXiv author affiliation block for 2607.19331",
         "Cannot isolate arXiv author affiliation block for 2608.27064",
         "Cannot isolate arXiv author affiliation block for 2608.24956",
@@ -534,150 +651,12 @@
         "Cannot isolate arXiv author affiliation block for 2609.12886"
       ],
       "limits": [
-        "40 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 2660 known authors per run"
+        "arXiv discovery continues from its saved result offset on the next run",
+        "41 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 2706 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:34:45+00:00",
-      "elapsed_seconds": 73.29,
-      "last_success": null
-    },
-    {
-      "lab": "Microsoft",
-      "source": "huggingface_search",
-      "status": "partial",
-      "collected": 1,
-      "requests": 3,
-      "errors": [],
-      "limits": [
-        "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
-      ],
-      "checked_at": "2026-10-05T10:35:53+00:00",
-      "elapsed_seconds": 8.18,
-      "last_success": null
-    },
-    {
-      "lab": "Apple",
-      "source": "official:apple_next_data:https://machinelearning.apple.com/research",
-      "status": "ok",
-      "collected": 1172,
-      "requests": 1,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:36:01+00:00",
-      "elapsed_seconds": 1.55,
-      "last_success": "2026-10-05T10:36:01+00:00"
-    },
-    {
-      "lab": "Apple",
-      "source": "official:rss:https://machinelearning.apple.com/rss.xml",
-      "status": "ok",
-      "collected": 10,
-      "requests": 1,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:36:03+00:00",
-      "elapsed_seconds": 0.17,
-      "last_success": "2026-10-05T10:36:03+00:00"
-    },
-    {
-      "lab": "Apple",
-      "source": "repositories",
-      "status": "ok",
-      "collected": 0,
-      "requests": 2,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:36:03+00:00",
-      "elapsed_seconds": 5.28,
-      "last_success": "2026-10-05T10:36:03+00:00"
-    },
-    {
-      "lab": "Apple",
-      "source": "openalex",
-      "status": "ok",
-      "collected": 19,
-      "requests": 1,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:36:08+00:00",
-      "elapsed_seconds": 0.54,
-      "last_success": "2026-10-05T10:36:08+00:00"
-    },
-    {
-      "lab": "Microsoft",
-      "source": "repositories",
-      "status": "partial",
-      "collected": 1,
-      "requests": 18,
-      "errors": [
-        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/radedit/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/BiomedParse/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/maira-2/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/microsoft/GELab-Zero-4B-preview-Sico-Evolution/raw/main/README.md"
-      ],
-      "limits": [
-        "4 official repositories remain in the persistent scan queue"
-      ],
-      "checked_at": "2026-10-05T10:35:32+00:00",
-      "elapsed_seconds": 40.76,
-      "last_success": null
-    },
-    {
-      "lab": "Apple",
-      "source": "huggingface_search",
-      "status": "partial",
-      "collected": 0,
-      "requests": 2,
-      "errors": [],
-      "limits": [
-        "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
-      ],
-      "checked_at": "2026-10-05T10:36:09+00:00",
-      "elapsed_seconds": 5.58,
-      "last_success": null
-    },
-    {
-      "lab": "Google/DeepMind",
-      "source": "repositories",
-      "status": "failed",
-      "collected": 0,
-      "requests": 107,
-      "errors": [
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-4b-it-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-1b-it-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/txgemma-27b-predict/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/txgemma-27b-chat/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/txgemma-9b-predict/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/txgemma-9b-chat/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/txgemma-2b-predict/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/shieldgemma-2-4b-it/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-1b-it/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-27b-pt-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-12b-pt-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-1b-pt-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-4b-pt-qat-q4_0-gguf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/derm-foundation/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-27b-it/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-12b-it/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-4b-it/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-27b-pt/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-1b-pt/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-4b-pt/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/gemma-3-12b-pt/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/cxr-foundation/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/path-foundation/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-mix-448-jax/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-mix-448/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-mix-224-jax/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-28b-mix-224/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-mix-224-jax/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/google/paligemma2-10b-mix-448/raw/main/README.md"
-      ],
-      "limits": [
-        "401 official repositories remain in the persistent scan queue"
-      ],
-      "checked_at": "2026-10-05T10:33:54+00:00",
-      "elapsed_seconds": 142.54,
+      "checked_at": "2026-10-06T10:27:43+00:00",
+      "elapsed_seconds": 152.41,
       "last_success": null
     },
     {
@@ -685,24 +664,24 @@
       "source": "repositories",
       "status": "ok",
       "collected": 65,
-      "requests": 7,
+      "requests": 27,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:36:16+00:00",
-      "elapsed_seconds": 15.57,
-      "last_success": "2026-10-05T10:36:16+00:00"
+      "checked_at": "2026-10-06T10:30:16+00:00",
+      "elapsed_seconds": 21.81,
+      "last_success": "2026-10-06T10:30:16+00:00"
     },
     {
       "lab": "Amazon",
       "source": "openalex",
       "status": "ok",
-      "collected": 244,
+      "collected": 248,
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:36:32+00:00",
-      "elapsed_seconds": 3.42,
-      "last_success": "2026-10-05T10:36:32+00:00"
+      "checked_at": "2026-10-06T10:30:38+00:00",
+      "elapsed_seconds": 4.3,
+      "last_success": "2026-10-06T10:30:38+00:00"
     },
     {
       "lab": "Amazon",
@@ -714,8 +693,8 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:36:35+00:00",
-      "elapsed_seconds": 3.4,
+      "checked_at": "2026-10-06T10:30:42+00:00",
+      "elapsed_seconds": 2.95,
       "last_success": null
     },
     {
@@ -726,41 +705,44 @@
       "requests": 29,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:36:15+00:00",
-      "elapsed_seconds": 35.19,
-      "last_success": "2026-10-05T10:36:15+00:00"
+      "checked_at": "2026-10-06T10:30:09+00:00",
+      "elapsed_seconds": 36.68,
+      "last_success": "2026-10-06T10:30:09+00:00"
     },
     {
       "lab": "NVIDIA",
       "source": "official:nvidia_publication_list:https://research.nvidia.com/publications",
       "status": "ok",
-      "collected": 89,
+      "collected": 90,
       "requests": 4,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:36:50+00:00",
-      "elapsed_seconds": 4.15,
-      "last_success": "2026-10-05T10:36:50+00:00"
+      "checked_at": "2026-10-06T10:30:46+00:00",
+      "elapsed_seconds": 4.01,
+      "last_success": "2026-10-06T10:30:46+00:00"
     },
     {
       "lab": "Apple",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 31,
-      "requests": 87,
+      "requests": 147,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2610.00910",
+        "Cannot isolate arXiv author affiliation block for 2609.30489",
+        "Cannot isolate arXiv author affiliation block for 2609.30208",
+        "Cannot isolate arXiv author affiliation block for 2609.30001",
         "Cannot isolate arXiv author affiliation block for 2609.27200",
         "Cannot isolate arXiv author affiliation block for 2609.27059",
         "Cannot isolate arXiv author affiliation block for 2609.26920",
         "Cannot isolate arXiv author affiliation block for 2609.25774",
-        "Cannot isolate arXiv author affiliation block for 2610.00910",
         "Cannot isolate arXiv author affiliation block for 2609.20564",
         "Cannot isolate arXiv author affiliation block for 2609.25118",
         "Cannot isolate arXiv author affiliation block for 2609.25732",
         "Cannot isolate arXiv author affiliation block for 2609.15655",
         "Cannot isolate arXiv author affiliation block for 2609.15342",
-        "Cannot isolate arXiv author affiliation block for 2609.15695",
         "Cannot isolate arXiv author affiliation block for 2609.13049",
+        "Cannot isolate arXiv author affiliation block for 2609.15695",
         "Cannot isolate arXiv author affiliation block for 2609.15053",
         "Cannot isolate arXiv author affiliation block for 2609.16597",
         "Cannot isolate arXiv author affiliation block for 2609.15108",
@@ -779,31 +761,31 @@
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.06914",
         "Cannot isolate arXiv author affiliation block for 2609.11243",
         "Cannot isolate arXiv author affiliation block for 2609.04034",
-        "Cannot isolate arXiv author affiliation block for 2609.11114",
         "Cannot isolate arXiv author affiliation block for 2609.04010",
+        "Cannot isolate arXiv author affiliation block for 2609.11114",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
         "Cannot isolate arXiv author affiliation block for 2609.02886"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "34 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 5001 known authors per run"
+        "37 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 5042 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:36:12+00:00",
-      "elapsed_seconds": 64.5,
+      "checked_at": "2026-10-06T10:29:09+00:00",
+      "elapsed_seconds": 146.5,
       "last_success": null
     },
     {
       "lab": "NVIDIA",
       "source": "openalex",
       "status": "ok",
-      "collected": 203,
+      "collected": 209,
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:37:17+00:00",
-      "elapsed_seconds": 2.03,
-      "last_success": "2026-10-05T10:37:17+00:00"
+      "checked_at": "2026-10-06T10:31:36+00:00",
+      "elapsed_seconds": 1.86,
+      "last_success": "2026-10-06T10:31:36+00:00"
     },
     {
       "lab": "NVIDIA",
@@ -815,90 +797,22 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:37:19+00:00",
-      "elapsed_seconds": 4.13,
+      "checked_at": "2026-10-06T10:31:38+00:00",
+      "elapsed_seconds": 4.0,
       "last_success": null
-    },
-    {
-      "lab": "Amazon",
-      "source": "arxiv_affiliations",
-      "status": "partial",
-      "collected": 183,
-      "requests": 94,
-      "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.30208",
-        "Cannot isolate arXiv author affiliation block for 2609.30001",
-        "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2609.02584",
-        "Cannot isolate arXiv author affiliation block for 2609.09598",
-        "Cannot isolate arXiv author affiliation block for 2609.08266",
-        "Cannot isolate arXiv author affiliation block for 2609.05829",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
-        "Cannot isolate arXiv author affiliation block for 2609.15655",
-        "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.16597",
-        "Cannot isolate arXiv author affiliation block for 2609.15818",
-        "Cannot isolate arXiv author affiliation block for 2609.10346",
-        "Cannot isolate arXiv author affiliation block for 2609.20154",
-        "Cannot isolate arXiv author affiliation block for 2609.24381",
-        "Cannot isolate arXiv author affiliation block for 2609.28987",
-        "Cannot isolate arXiv author affiliation block for 2609.23989",
-        "Cannot isolate arXiv author affiliation block for 2609.20519",
-        "Cannot isolate arXiv author affiliation block for 2609.26781",
-        "Cannot isolate arXiv author affiliation block for 2609.34226",
-        "Cannot isolate arXiv author affiliation block for 2609.28793",
-        "Cannot isolate arXiv author affiliation block for 2609.01347",
-        "Cannot isolate arXiv author affiliation block for 2609.23739",
-        "Cannot isolate arXiv author affiliation block for 2608.30887",
-        "Cannot isolate arXiv author affiliation block for 2609.04799",
-        "Cannot isolate arXiv author affiliation block for 2609.11147",
-        "Cannot isolate arXiv author affiliation block for 2609.02295",
-        "Cannot isolate arXiv author affiliation block for 2609.29833",
-        "Cannot isolate arXiv author affiliation block for 2609.04034",
-        "Cannot isolate arXiv author affiliation block for 2608.27012",
-        "Cannot isolate arXiv author affiliation block for 2608.23061",
-        "Cannot isolate arXiv author affiliation block for 2609.17895",
-        "Cannot isolate arXiv author affiliation block for 2609.10055",
-        "Cannot isolate arXiv author affiliation block for 2609.03880",
-        "Cannot isolate arXiv author affiliation block for 2609.07454",
-        "Cannot isolate arXiv author affiliation block for 2608.24684",
-        "Cannot isolate arXiv author affiliation block for 2608.21006",
-        "Cannot isolate arXiv author affiliation block for 2608.27033",
-        "Cannot isolate arXiv author affiliation block for 2608.21753",
-        "Cannot isolate arXiv author affiliation block for 2608.27961",
-        "Cannot isolate arXiv author affiliation block for 2609.00092",
-        "Cannot isolate arXiv author affiliation block for 2608.30145",
-        "Cannot isolate arXiv author affiliation block for 2608.27912",
-        "Cannot isolate arXiv author affiliation block for 2608.08766",
-        "Cannot isolate arXiv author affiliation block for 2608.25336"
-      ],
-      "limits": [
-        "45 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 14307 known authors per run"
-      ],
-      "checked_at": "2026-10-05T10:36:39+00:00",
-      "elapsed_seconds": 70.62,
-      "last_success": null
-    },
-    {
-      "lab": "xAI",
-      "source": "official:huggingface_org_papers:xai-org",
-      "status": "ok",
-      "collected": 0,
-      "requests": 1,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:37:49+00:00",
-      "elapsed_seconds": 1.89,
-      "last_success": "2026-10-05T10:37:49+00:00"
     },
     {
       "lab": "Microsoft",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 193,
-      "requests": 157,
+      "collected": 196,
+      "requests": 160,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
+        "Cannot isolate arXiv author affiliation block for 2609.23739",
+        "Cannot isolate arXiv author affiliation block for 2609.21947",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2606.20785",
         "Cannot isolate arXiv author affiliation block for 2610.02274",
         "Cannot isolate arXiv author affiliation block for 2609.36927",
         "Cannot isolate arXiv author affiliation block for 2609.16679",
@@ -916,9 +830,9 @@
         "Cannot isolate arXiv author affiliation block for 2609.26375",
         "Cannot isolate arXiv author affiliation block for 2609.01025",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.04865",
-        "Cannot isolate arXiv author affiliation block for 2609.28921",
         "Cannot isolate arXiv author affiliation block for 2609.04658",
         "Cannot isolate arXiv author affiliation block for 2609.24381",
+        "Cannot isolate arXiv author affiliation block for 2609.28921",
         "Cannot isolate arXiv author affiliation block for 2609.16697",
         "Cannot isolate arXiv author affiliation block for 2609.16597",
         "Cannot isolate arXiv author affiliation block for 2609.10346",
@@ -930,8 +844,8 @@
         "Cannot isolate arXiv author affiliation block for 2608.31075",
         "Cannot isolate arXiv author affiliation block for 2609.02886",
         "Cannot isolate arXiv author affiliation block for 2608.14290",
-        "Cannot isolate arXiv author affiliation block for 2609.02044",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.13935",
+        "Cannot isolate arXiv author affiliation block for 2609.02044",
         "Cannot isolate arXiv author affiliation block for 2608.23867",
         "Cannot isolate arXiv author affiliation block for 2609.14415",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2608.24516",
@@ -950,12 +864,36 @@
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "49 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 17990 known authors per run"
+        "53 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 18116 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:35:58+00:00",
-      "elapsed_seconds": 116.12,
+      "checked_at": "2026-10-06T10:28:39+00:00",
+      "elapsed_seconds": 187.24,
       "last_success": null
+    },
+    {
+      "lab": "xAI",
+      "source": "official:huggingface_org_papers:xai-org",
+      "status": "ok",
+      "collected": 0,
+      "requests": 1,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:31:47+00:00",
+      "elapsed_seconds": 1.46,
+      "last_success": "2026-10-06T10:31:47+00:00"
+    },
+    {
+      "lab": "xAI",
+      "source": "repositories",
+      "status": "ok",
+      "collected": 3,
+      "requests": 18,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:31:48+00:00",
+      "elapsed_seconds": 11.63,
+      "last_success": "2026-10-06T10:31:48+00:00"
     },
     {
       "lab": "xAI",
@@ -965,21 +903,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:37:54+00:00",
-      "elapsed_seconds": 0.18,
-      "last_success": "2026-10-05T10:37:54+00:00"
-    },
-    {
-      "lab": "xAI",
-      "source": "repositories",
-      "status": "ok",
-      "collected": 3,
-      "requests": 6,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:37:51+00:00",
-      "elapsed_seconds": 3.82,
-      "last_success": "2026-10-05T10:37:51+00:00"
+      "checked_at": "2026-10-06T10:32:00+00:00",
+      "elapsed_seconds": 0.32,
+      "last_success": "2026-10-06T10:32:00+00:00"
     },
     {
       "lab": "xAI",
@@ -989,9 +915,70 @@
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:37:54+00:00",
-      "elapsed_seconds": 4.17,
-      "last_success": "2026-10-05T10:37:54+00:00"
+      "checked_at": "2026-10-06T10:32:00+00:00",
+      "elapsed_seconds": 3.63,
+      "last_success": "2026-10-06T10:32:00+00:00"
+    },
+    {
+      "lab": "Amazon",
+      "source": "arxiv_affiliations",
+      "status": "partial",
+      "collected": 186,
+      "requests": 135,
+      "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.30208",
+        "Cannot isolate arXiv author affiliation block for 2609.30001",
+        "Cannot isolate arXiv author affiliation block for 2609.03462",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
+        "Cannot isolate arXiv author affiliation block for 2609.09598",
+        "Cannot isolate arXiv author affiliation block for 2609.08266",
+        "Cannot isolate arXiv author affiliation block for 2609.05829",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.15655",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.16597",
+        "Cannot isolate arXiv author affiliation block for 2609.15818",
+        "Cannot isolate arXiv author affiliation block for 2609.10346",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2609.28987",
+        "Cannot isolate arXiv author affiliation block for 2609.24381",
+        "Cannot isolate arXiv author affiliation block for 2609.23989",
+        "Cannot isolate arXiv author affiliation block for 2609.20519",
+        "Cannot isolate arXiv author affiliation block for 2609.26781",
+        "Cannot isolate arXiv author affiliation block for 2609.34226",
+        "Cannot isolate arXiv author affiliation block for 2609.28793",
+        "Cannot isolate arXiv author affiliation block for 2609.01347",
+        "Cannot isolate arXiv author affiliation block for 2609.23739",
+        "Cannot isolate arXiv author affiliation block for 2608.30887",
+        "Cannot isolate arXiv author affiliation block for 2609.04799",
+        "Cannot isolate arXiv author affiliation block for 2609.02295",
+        "Cannot isolate arXiv author affiliation block for 2609.11147",
+        "Cannot isolate arXiv author affiliation block for 2609.29833",
+        "Cannot isolate arXiv author affiliation block for 2608.27012",
+        "Cannot isolate arXiv author affiliation block for 2609.04034",
+        "Cannot isolate arXiv author affiliation block for 2608.23061",
+        "Cannot isolate arXiv author affiliation block for 2609.10055",
+        "Cannot isolate arXiv author affiliation block for 2609.17895",
+        "Cannot isolate arXiv author affiliation block for 2609.03880",
+        "Cannot isolate arXiv author affiliation block for 2609.07454",
+        "Cannot isolate arXiv author affiliation block for 2608.24684",
+        "Cannot isolate arXiv author affiliation block for 2608.21006",
+        "Cannot isolate arXiv author affiliation block for 2608.27033",
+        "Cannot isolate arXiv author affiliation block for 2608.21753",
+        "Cannot isolate arXiv author affiliation block for 2608.27961",
+        "Cannot isolate arXiv author affiliation block for 2609.00092",
+        "Cannot isolate arXiv author affiliation block for 2608.30145",
+        "Cannot isolate arXiv author affiliation block for 2608.27912",
+        "Cannot isolate arXiv author affiliation block for 2608.08766",
+        "Cannot isolate arXiv author affiliation block for 2608.25336"
+      ],
+      "limits": [
+        "45 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 14386 known authors per run"
+      ],
+      "checked_at": "2026-10-06T10:30:45+00:00",
+      "elapsed_seconds": 103.19,
+      "last_success": null
     },
     {
       "lab": "Alibaba/Qwen",
@@ -1001,45 +988,76 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:37:58+00:00",
-      "elapsed_seconds": 0.28,
-      "last_success": "2026-10-05T10:37:58+00:00"
+      "checked_at": "2026-10-06T10:32:28+00:00",
+      "elapsed_seconds": 1.04,
+      "last_success": "2026-10-06T10:32:28+00:00"
     },
     {
       "lab": "Alibaba/Qwen",
       "source": "official:huggingface_org_papers:Qwen",
       "status": "ok",
-      "collected": 4,
+      "collected": 5,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:37:59+00:00",
-      "elapsed_seconds": 2.28,
-      "last_success": "2026-10-05T10:37:59+00:00"
+      "checked_at": "2026-10-06T10:32:29+00:00",
+      "elapsed_seconds": 1.36,
+      "last_success": "2026-10-06T10:32:29+00:00"
     },
     {
-      "lab": "Alibaba/Qwen",
+      "lab": "NVIDIA",
       "source": "repositories",
-      "status": "ok",
-      "collected": 7,
-      "requests": 14,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:38:01+00:00",
-      "elapsed_seconds": 13.75,
-      "last_success": "2026-10-05T10:38:01+00:00"
+      "status": "partial",
+      "collected": 2,
+      "requests": 100,
+      "errors": [
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Ising-Decoder-ColorCode-1-Fast/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Ising-Decoder-SurfaceCode-1-Fast/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Ising-Decoder-SurfaceCode-1-Accurate/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/CWIP-1.0/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2.5-2B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Transfer2.5-2B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/omni-dreams-models/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Nemotron-Elastic-12B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Reason2-8B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Reason2-2B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Kimodo-SMPLX-RP-v1/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Audio2Emotion-v2.2/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Audio2Emotion-v3.0/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/personaplex-7b-v1/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Llama-4-Scout-17B-16E-Instruct-NVFP4/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Llama-4-Scout-17B-16E-Instruct-FP8/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/COMPASS/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Eagle2.5-8B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Transfer1-7B/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Llama-4-Maverick-17B-128E-Eagle3/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-0.6B-Text2Image/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Llama-4-Maverick-17B-128E-Instruct-FP8/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-14B-Video2World/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-2B-Video2World/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-2B-Sample-Action-Conditioned/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-14B-Sample-GR00T-Dreams-DROID/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-14B-Sample-GR00T-Dreams-GR1/raw/main/README.md",
+        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict2-14B-Text2Image/raw/main/README.md"
+      ],
+      "limits": [
+        "70 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:30:50+00:00",
+      "elapsed_seconds": 111.22,
+      "last_success": null
     },
     {
       "lab": "Alibaba/Qwen",
       "source": "openalex",
       "status": "ok",
-      "collected": 145,
+      "collected": 146,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:15+00:00",
-      "elapsed_seconds": 1.25,
-      "last_success": "2026-10-05T10:38:15+00:00"
+      "checked_at": "2026-10-06T10:32:41+00:00",
+      "elapsed_seconds": 2.01,
+      "last_success": "2026-10-06T10:32:41+00:00"
     },
     {
       "lab": "Alibaba/Qwen",
@@ -1049,53 +1067,21 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:16+00:00",
-      "elapsed_seconds": 5.27,
-      "last_success": "2026-10-05T10:38:16+00:00"
+      "checked_at": "2026-10-06T10:32:43+00:00",
+      "elapsed_seconds": 2.16,
+      "last_success": "2026-10-06T10:32:43+00:00"
     },
     {
-      "lab": "NVIDIA",
+      "lab": "Alibaba/Qwen",
       "source": "repositories",
-      "status": "partial",
-      "collected": 2,
-      "requests": 98,
-      "errors": [
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-14B-Text2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-13B-Video2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-12B/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-7B-Video2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-7B-Text2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-5B-Video2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Predict1-4B/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Guardrail1/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-Transfer1-7B-4KUpscaler/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/X-Mobility/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Autoregressive-12B/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Autoregressive-4B/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Autoregressive-13B-Video2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Autoregressive-5B-Video2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Tokenizer-DV8x16x16/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Prompt-Upsampler-12B-Text2World/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/Cosmos-1.0-Diffusion-7B-Decoder-DV8x16x16ToCV8x8x8/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/NV-Embed-v1/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/NV-Retriever-v1/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/nemotron-3-8b-base-4k/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/nemotron-3-8b-chat-4k-rlhf/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/nemotron-3-8b-chat-4k-sft/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/nemotron-3-8b-chat-4k-steerlm/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/nemotron-3-8b-qa-4k/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/cari4d_commercial/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/RT-DETR-Hand-Detector-v1/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/nvidia/EgoHand-v1/raw/main/README.md",
-        "401 Client Error: Unauthorized for url: https://huggingface.co/api/models/nvidia/Nemotron-3-Diarization-preview",
-        "Repository scan incomplete: nvidia/Nemotron-3-Diarization-preview; retained for retry"
-      ],
-      "limits": [
-        "70 official repositories remain in the persistent scan queue"
-      ],
-      "checked_at": "2026-10-05T10:36:54+00:00",
-      "elapsed_seconds": 112.18,
-      "last_success": null
+      "status": "ok",
+      "collected": 7,
+      "requests": 10,
+      "errors": [],
+      "limits": [],
+      "checked_at": "2026-10-06T10:32:30+00:00",
+      "elapsed_seconds": 14.92,
+      "last_success": "2026-10-06T10:32:30+00:00"
     },
     {
       "lab": "Moonshot/Kimi",
@@ -1105,9 +1091,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:46+00:00",
-      "elapsed_seconds": 1.71,
-      "last_success": "2026-10-05T10:38:46+00:00"
+      "checked_at": "2026-10-06T10:32:45+00:00",
+      "elapsed_seconds": 0.97,
+      "last_success": "2026-10-06T10:32:45+00:00"
     },
     {
       "lab": "Moonshot/Kimi",
@@ -1117,9 +1103,9 @@
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:48+00:00",
-      "elapsed_seconds": 1.73,
-      "last_success": "2026-10-05T10:38:48+00:00"
+      "checked_at": "2026-10-06T10:32:46+00:00",
+      "elapsed_seconds": 2.3,
+      "last_success": "2026-10-06T10:32:46+00:00"
     },
     {
       "lab": "Moonshot/Kimi",
@@ -1129,9 +1115,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:50+00:00",
-      "elapsed_seconds": 0.91,
-      "last_success": "2026-10-05T10:38:50+00:00"
+      "checked_at": "2026-10-06T10:32:49+00:00",
+      "elapsed_seconds": 0.35,
+      "last_success": "2026-10-06T10:32:49+00:00"
     },
     {
       "lab": "Moonshot/Kimi",
@@ -1141,20 +1127,28 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:38:50+00:00",
-      "elapsed_seconds": 4.12,
-      "last_success": "2026-10-05T10:38:50+00:00"
+      "checked_at": "2026-10-06T10:32:49+00:00",
+      "elapsed_seconds": 3.33,
+      "last_success": "2026-10-06T10:32:49+00:00"
     },
     {
       "lab": "xAI",
       "source": "arxiv_affiliations",
       "status": "failed",
       "collected": 0,
-      "requests": 84,
+      "requests": 83,
       "errors": [
         "Cannot isolate arXiv author affiliation block for 2609.15638",
         "Cannot isolate arXiv author affiliation block for 2609.18212",
         "Cannot isolate arXiv author affiliation block for 2609.31736",
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2609.17821",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.15655",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.12199",
+        "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.32580",
         "Cannot isolate arXiv author affiliation block for 2609.05694",
         "Cannot isolate arXiv author affiliation block for 2609.15818",
@@ -1164,12 +1158,11 @@
         "Cannot isolate arXiv author affiliation block for 2609.27525"
       ],
       "limits": [
-        "arXiv discovery continues from its saved result offset on the next run",
-        "10 affiliation candidates queued for the next run",
+        "18 affiliation candidates queued for the next run",
         "Author discovery rotates 43 of 103 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:37:55+00:00",
-      "elapsed_seconds": 65.17,
+      "checked_at": "2026-10-06T10:32:04+00:00",
+      "elapsed_seconds": 79.87,
       "last_success": null
     },
     {
@@ -1180,9 +1173,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:00+00:00",
-      "elapsed_seconds": 0.3,
-      "last_success": "2026-10-05T10:39:00+00:00"
+      "checked_at": "2026-10-06T10:33:24+00:00",
+      "elapsed_seconds": 0.42,
+      "last_success": "2026-10-06T10:33:24+00:00"
     },
     {
       "lab": "DeepSeek",
@@ -1192,9 +1185,9 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:00+00:00",
-      "elapsed_seconds": 2.9,
-      "last_success": "2026-10-05T10:39:00+00:00"
+      "checked_at": "2026-10-06T10:33:24+00:00",
+      "elapsed_seconds": 2.83,
+      "last_success": "2026-10-06T10:33:24+00:00"
     },
     {
       "lab": "DeepSeek",
@@ -1204,9 +1197,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:03+00:00",
-      "elapsed_seconds": 0.63,
-      "last_success": "2026-10-05T10:39:03+00:00"
+      "checked_at": "2026-10-06T10:33:27+00:00",
+      "elapsed_seconds": 0.5,
+      "last_success": "2026-10-06T10:33:27+00:00"
     },
     {
       "lab": "DeepSeek",
@@ -1218,70 +1211,30 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:39:04+00:00",
-      "elapsed_seconds": 5.16,
+      "checked_at": "2026-10-06T10:33:27+00:00",
+      "elapsed_seconds": 6.65,
       "last_success": null
     },
     {
-      "lab": "NVIDIA",
+      "lab": "Moonshot/Kimi",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 180,
-      "requests": 131,
+      "collected": 1,
+      "requests": 58,
       "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.35110",
-        "Cannot isolate arXiv author affiliation block for 2609.27200",
-        "Cannot isolate arXiv author affiliation block for 2609.27464",
-        "Cannot isolate arXiv author affiliation block for 2609.17638",
-        "Cannot isolate arXiv author affiliation block for 2609.27059",
-        "Cannot isolate arXiv author affiliation block for 2609.26920",
-        "Cannot isolate arXiv author affiliation block for 2609.20744",
-        "Cannot isolate arXiv author affiliation block for 2609.25732",
-        "Cannot isolate arXiv author affiliation block for 2609.15695",
-        "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.15108",
-        "Cannot isolate arXiv author affiliation block for 2609.06952",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.06914",
-        "Cannot isolate arXiv author affiliation block for 2609.25774",
-        "Cannot isolate arXiv author affiliation block for 2609.04034",
-        "Cannot isolate arXiv author affiliation block for 2609.04010",
-        "Cannot isolate arXiv author affiliation block for 2609.16697",
-        "Cannot isolate arXiv author affiliation block for 2609.16597",
-        "Cannot isolate arXiv author affiliation block for 2412.07679",
-        "Cannot isolate arXiv author affiliation block for 2609.02584",
-        "Cannot isolate arXiv author affiliation block for 2609.02575",
-        "Cannot isolate arXiv author affiliation block for 2601.17237",
-        "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2512.14067",
-        "Cannot isolate arXiv author affiliation block for 2609.11243",
-        "Cannot isolate arXiv author affiliation block for 2608.22108",
-        "Cannot isolate arXiv author affiliation block for 2609.11114",
-        "Cannot isolate arXiv author affiliation block for 2609.02995",
-        "Cannot isolate arXiv author affiliation block for 2609.13049",
-        "Cannot isolate arXiv author affiliation block for 2609.17895",
-        "Cannot isolate arXiv author affiliation block for 2609.17369",
-        "Cannot isolate arXiv author affiliation block for 2606.26493",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
-        "Cannot isolate arXiv author affiliation block for 2508.10925",
-        "Cannot isolate arXiv author affiliation block for 2609.12822",
-        "Cannot isolate arXiv author affiliation block for 2511.18890",
-        "Cannot isolate arXiv author affiliation block for 2609.13814",
-        "Cannot isolate arXiv author affiliation block for 2510.12798",
-        "Cannot isolate arXiv author affiliation block for 2609.38123",
-        "Cannot isolate arXiv author affiliation block for 2609.04105",
-        "Cannot isolate arXiv author affiliation block for 2609.01657",
-        "Cannot isolate arXiv author affiliation block for 2609.25118",
-        "Cannot isolate arXiv author affiliation block for 2609.15655",
-        "Cannot isolate arXiv author affiliation block for 2609.15342",
-        "Cannot isolate arXiv author affiliation block for 2609.15818"
+        "Cannot isolate arXiv author affiliation block for 2609.36962",
+        "Cannot isolate arXiv author affiliation block for 2609.15818",
+        "Cannot isolate arXiv author affiliation block for 2609.02209",
+        "Cannot isolate arXiv author affiliation block for 2608.14391",
+        "Cannot isolate arXiv author affiliation block for 2608.11755"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "45 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 12653 known authors per run"
+        "5 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 794 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:37:23+00:00",
-      "elapsed_seconds": 108.01,
+      "checked_at": "2026-10-06T10:32:52+00:00",
+      "elapsed_seconds": 64.3,
       "last_success": null
     },
     {
@@ -1292,9 +1245,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:11+00:00",
-      "elapsed_seconds": 0.66,
-      "last_success": "2026-10-05T10:39:11+00:00"
+      "checked_at": "2026-10-06T10:33:57+00:00",
+      "elapsed_seconds": 0.36,
+      "last_success": "2026-10-06T10:33:57+00:00"
     },
     {
       "lab": "Z.ai/Zhipu",
@@ -1304,21 +1257,21 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:12+00:00",
-      "elapsed_seconds": 3.44,
-      "last_success": "2026-10-05T10:39:12+00:00"
+      "checked_at": "2026-10-06T10:33:57+00:00",
+      "elapsed_seconds": 3.11,
+      "last_success": "2026-10-06T10:33:57+00:00"
     },
     {
       "lab": "Z.ai/Zhipu",
       "source": "openalex",
       "status": "ok",
-      "collected": 6,
+      "collected": 7,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:15+00:00",
-      "elapsed_seconds": 0.39,
-      "last_success": "2026-10-05T10:39:15+00:00"
+      "checked_at": "2026-10-06T10:34:00+00:00",
+      "elapsed_seconds": 1.45,
+      "last_success": "2026-10-06T10:34:00+00:00"
     },
     {
       "lab": "Z.ai/Zhipu",
@@ -1328,16 +1281,16 @@
       "requests": 4,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:39:16+00:00",
-      "elapsed_seconds": 4.11,
-      "last_success": "2026-10-05T10:39:16+00:00"
+      "checked_at": "2026-10-06T10:34:02+00:00",
+      "elapsed_seconds": 3.97,
+      "last_success": "2026-10-06T10:34:02+00:00"
     },
     {
       "lab": "Alibaba/Qwen",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 119,
-      "requests": 119,
+      "requests": 93,
       "errors": [
         "Cannot isolate arXiv author affiliation block for 2609.30001",
         "Cannot isolate arXiv author affiliation block for 2609.29389",
@@ -1371,8 +1324,8 @@
         "Cannot isolate arXiv author affiliation block for 2609.02584",
         "Cannot isolate arXiv author affiliation block for 2609.11459",
         "Cannot isolate arXiv author affiliation block for 2609.11230",
-        "Cannot isolate arXiv author affiliation block for 2609.03387",
         "Cannot isolate arXiv author affiliation block for 2608.27064",
+        "Cannot isolate arXiv author affiliation block for 2609.03387",
         "Cannot isolate arXiv author affiliation block for 2609.03176",
         "Cannot isolate arXiv author affiliation block for 2609.02209",
         "Cannot isolate arXiv author affiliation block for 2609.05829",
@@ -1385,10 +1338,10 @@
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
         "42 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 13997 known authors per run"
+        "Author discovery rotates 60 of 14103 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:38:21+00:00",
-      "elapsed_seconds": 116.15,
+      "checked_at": "2026-10-06T10:32:45+00:00",
+      "elapsed_seconds": 89.26,
       "last_success": null
     },
     {
@@ -1399,9 +1352,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:17+00:00",
-      "elapsed_seconds": 1.26,
-      "last_success": "2026-10-05T10:40:17+00:00"
+      "checked_at": "2026-10-06T10:34:15+00:00",
+      "elapsed_seconds": 1.83,
+      "last_success": "2026-10-06T10:34:15+00:00"
     },
     {
       "lab": "ByteDance/Seed",
@@ -1411,43 +1364,21 @@
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:19+00:00",
-      "elapsed_seconds": 1.85,
-      "last_success": "2026-10-05T10:40:19+00:00"
-    },
-    {
-      "lab": "Moonshot/Kimi",
-      "source": "arxiv_affiliations",
-      "status": "partial",
-      "collected": 1,
-      "requests": 80,
-      "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.36962",
-        "Cannot isolate arXiv author affiliation block for 2609.15818",
-        "Cannot isolate arXiv author affiliation block for 2609.02209",
-        "Cannot isolate arXiv author affiliation block for 2608.14391",
-        "Cannot isolate arXiv author affiliation block for 2608.11755"
-      ],
-      "limits": [
-        "arXiv discovery continues from its saved result offset on the next run",
-        "5 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 794 known authors per run"
-      ],
-      "checked_at": "2026-10-05T10:38:55+00:00",
-      "elapsed_seconds": 86.03,
-      "last_success": null
+      "checked_at": "2026-10-06T10:34:16+00:00",
+      "elapsed_seconds": 1.46,
+      "last_success": "2026-10-06T10:34:16+00:00"
     },
     {
       "lab": "ByteDance/Seed",
       "source": "openalex",
       "status": "ok",
-      "collected": 32,
+      "collected": 33,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:20+00:00",
-      "elapsed_seconds": 0.9,
-      "last_success": "2026-10-05T10:40:20+00:00"
+      "checked_at": "2026-10-06T10:34:18+00:00",
+      "elapsed_seconds": 1.44,
+      "last_success": "2026-10-06T10:34:18+00:00"
     },
     {
       "lab": "ByteDance/Seed",
@@ -1457,49 +1388,107 @@
       "requests": 4,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:21+00:00",
-      "elapsed_seconds": 3.91,
-      "last_success": "2026-10-05T10:40:21+00:00"
+      "checked_at": "2026-10-06T10:34:19+00:00",
+      "elapsed_seconds": 4.37,
+      "last_success": "2026-10-06T10:34:19+00:00"
+    },
+    {
+      "lab": "NVIDIA",
+      "source": "arxiv_affiliations",
+      "status": "partial",
+      "collected": 181,
+      "requests": 168,
+      "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.35110",
+        "Cannot isolate arXiv author affiliation block for 2609.30489",
+        "Cannot isolate arXiv author affiliation block for 2609.30208",
+        "Cannot isolate arXiv author affiliation block for 2609.27200",
+        "Cannot isolate arXiv author affiliation block for 2609.27464",
+        "Cannot isolate arXiv author affiliation block for 2609.17638",
+        "Cannot isolate arXiv author affiliation block for 2609.27059",
+        "Cannot isolate arXiv author affiliation block for 2609.26920",
+        "Cannot isolate arXiv author affiliation block for 2609.20744",
+        "Cannot isolate arXiv author affiliation block for 2609.25732",
+        "Cannot isolate arXiv author affiliation block for 2609.15695",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.06952",
+        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.06914",
+        "Cannot isolate arXiv author affiliation block for 2609.15108",
+        "Cannot isolate arXiv author affiliation block for 2609.25774",
+        "Cannot isolate arXiv author affiliation block for 2609.04034",
+        "Cannot isolate arXiv author affiliation block for 2609.04010",
+        "Cannot isolate arXiv author affiliation block for 2609.16697",
+        "Cannot isolate arXiv author affiliation block for 2609.16597",
+        "Cannot isolate arXiv author affiliation block for 2412.07679",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
+        "Cannot isolate arXiv author affiliation block for 2609.02575",
+        "Cannot isolate arXiv author affiliation block for 2601.17237",
+        "Cannot isolate arXiv author affiliation block for 2609.03462",
+        "Cannot isolate arXiv author affiliation block for 2512.14067",
+        "Cannot isolate arXiv author affiliation block for 2609.11243",
+        "Cannot isolate arXiv author affiliation block for 2608.22108",
+        "Cannot isolate arXiv author affiliation block for 2609.11114",
+        "Cannot isolate arXiv author affiliation block for 2609.02995",
+        "Cannot isolate arXiv author affiliation block for 2609.13049",
+        "Cannot isolate arXiv author affiliation block for 2609.17895",
+        "Cannot isolate arXiv author affiliation block for 2609.17369",
+        "Cannot isolate arXiv author affiliation block for 2606.26493",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2508.10925",
+        "Cannot isolate arXiv author affiliation block for 2609.12822",
+        "Cannot isolate arXiv author affiliation block for 2511.18890",
+        "Cannot isolate arXiv author affiliation block for 2609.13814",
+        "Cannot isolate arXiv author affiliation block for 2510.12798",
+        "Cannot isolate arXiv author affiliation block for 2609.38123"
+      ],
+      "limits": [
+        "arXiv discovery continues from its saved result offset on the next run",
+        "47 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 12765 known authors per run"
+      ],
+      "checked_at": "2026-10-06T10:31:42+00:00",
+      "elapsed_seconds": 163.66,
+      "last_success": null
     },
     {
       "lab": "Tencent/Hunyuan",
       "source": "official:huggingface_org_papers:tencent,Tencent-Hunyuan",
       "status": "ok",
-      "collected": 19,
+      "collected": 21,
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:25+00:00",
-      "elapsed_seconds": 2.5,
-      "last_success": "2026-10-05T10:40:25+00:00"
+      "checked_at": "2026-10-06T10:34:25+00:00",
+      "elapsed_seconds": 1.41,
+      "last_success": "2026-10-06T10:34:25+00:00"
     },
     {
       "lab": "Tencent/Hunyuan",
       "source": "repositories",
       "status": "partial",
       "collected": 28,
-      "requests": 11,
+      "requests": 15,
       "errors": [
         "401 Client Error: Unauthorized for url: https://huggingface.co/tencent/Ex-Omni/raw/main/README.md"
       ],
       "limits": [
         "1 official repositories remain in the persistent scan queue"
       ],
-      "checked_at": "2026-10-05T10:40:27+00:00",
-      "elapsed_seconds": 8.36,
+      "checked_at": "2026-10-06T10:34:27+00:00",
+      "elapsed_seconds": 14.85,
       "last_success": null
     },
     {
       "lab": "Tencent/Hunyuan",
       "source": "openalex",
       "status": "ok",
-      "collected": 119,
+      "collected": 121,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:35+00:00",
-      "elapsed_seconds": 0.91,
-      "last_success": "2026-10-05T10:40:35+00:00"
+      "checked_at": "2026-10-06T10:34:41+00:00",
+      "elapsed_seconds": 2.67,
+      "last_success": "2026-10-06T10:34:41+00:00"
     },
     {
       "lab": "Tencent/Hunyuan",
@@ -1509,17 +1498,21 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:40:36+00:00",
-      "elapsed_seconds": 3.28,
-      "last_success": "2026-10-05T10:40:36+00:00"
+      "checked_at": "2026-10-06T10:34:44+00:00",
+      "elapsed_seconds": 3.43,
+      "last_success": "2026-10-06T10:34:44+00:00"
     },
     {
       "lab": "Z.ai/Zhipu",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 31,
-      "requests": 97,
+      "collected": 32,
+      "requests": 104,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.26688",
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
+        "Cannot isolate arXiv author affiliation block for 2609.26538",
+        "Cannot isolate arXiv author affiliation block for 2609.25732",
         "Cannot isolate arXiv author affiliation block for 2610.03682",
         "Cannot isolate arXiv author affiliation block for 2609.39828",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
@@ -1535,7 +1528,6 @@
         "Cannot isolate arXiv author affiliation block for 2609.12036",
         "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.04499",
-        "Cannot isolate arXiv author affiliation block for 2609.25158",
         "Cannot isolate arXiv author affiliation block for 2609.29433",
         "Cannot isolate arXiv author affiliation block for 2609.05673",
         "Cannot isolate arXiv author affiliation block for 2609.30322",
@@ -1544,7 +1536,6 @@
         "Cannot isolate arXiv author affiliation block for 2609.13759",
         "Cannot isolate arXiv author affiliation block for 2608.22720",
         "Cannot isolate arXiv author affiliation block for 2609.15818",
-        "Cannot isolate arXiv author affiliation block for 2609.26688",
         "Cannot isolate arXiv author affiliation block for 2608.21006",
         "Cannot isolate arXiv author affiliation block for 2608.30887",
         "Cannot isolate arXiv author affiliation block for 2608.25336",
@@ -1562,11 +1553,11 @@
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "39 affiliation candidates queued for the next run",
+        "41 affiliation candidates queued for the next run",
         "Author discovery rotates 60 of 895 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:39:20+00:00",
-      "elapsed_seconds": 102.62,
+      "checked_at": "2026-10-06T10:34:06+00:00",
+      "elapsed_seconds": 122.25,
       "last_success": null
     },
     {
@@ -1577,9 +1568,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:02+00:00",
-      "elapsed_seconds": 2.79,
-      "last_success": "2026-10-05T10:41:02+00:00"
+      "checked_at": "2026-10-06T10:36:08+00:00",
+      "elapsed_seconds": 3.08,
+      "last_success": "2026-10-06T10:36:08+00:00"
     },
     {
       "lab": "Baidu",
@@ -1589,9 +1580,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:05+00:00",
-      "elapsed_seconds": 2.91,
-      "last_success": "2026-10-05T10:41:05+00:00"
+      "checked_at": "2026-10-06T10:36:11+00:00",
+      "elapsed_seconds": 0.97,
+      "last_success": "2026-10-06T10:36:11+00:00"
     },
     {
       "lab": "Baidu",
@@ -1601,9 +1592,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:08+00:00",
-      "elapsed_seconds": 0.88,
-      "last_success": "2026-10-05T10:41:08+00:00"
+      "checked_at": "2026-10-06T10:36:12+00:00",
+      "elapsed_seconds": 0.23,
+      "last_success": "2026-10-06T10:36:12+00:00"
     },
     {
       "lab": "Baidu",
@@ -1613,21 +1604,21 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:09+00:00",
-      "elapsed_seconds": 0.49,
-      "last_success": "2026-10-05T10:41:09+00:00"
+      "checked_at": "2026-10-06T10:36:12+00:00",
+      "elapsed_seconds": 1.48,
+      "last_success": "2026-10-06T10:36:12+00:00"
     },
     {
       "lab": "Baidu",
       "source": "openalex",
       "status": "ok",
-      "collected": 42,
+      "collected": 44,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:09+00:00",
-      "elapsed_seconds": 0.74,
-      "last_success": "2026-10-05T10:41:09+00:00"
+      "checked_at": "2026-10-06T10:36:14+00:00",
+      "elapsed_seconds": 1.05,
+      "last_success": "2026-10-06T10:36:14+00:00"
     },
     {
       "lab": "Baidu",
@@ -1637,26 +1628,27 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:10+00:00",
-      "elapsed_seconds": 3.52,
-      "last_success": "2026-10-05T10:41:10+00:00"
+      "checked_at": "2026-10-06T10:36:15+00:00",
+      "elapsed_seconds": 3.53,
+      "last_success": "2026-10-06T10:36:15+00:00"
     },
     {
       "lab": "DeepSeek",
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 7,
-      "requests": 136,
+      "requests": 143,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.08266",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.15655",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.15818",
         "Cannot isolate arXiv author affiliation block for 2609.10057",
         "Cannot isolate arXiv author affiliation block for 2609.20154",
         "Cannot isolate arXiv author affiliation block for 2609.25158",
         "Cannot isolate arXiv author affiliation block for 2609.39828",
-        "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.05829",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
-        "Cannot isolate arXiv author affiliation block for 2609.15655",
-        "Cannot isolate arXiv author affiliation block for 2609.15053",
         "Cannot isolate arXiv author affiliation block for 2609.25327",
         "Cannot isolate arXiv author affiliation block for 2609.16692",
         "Cannot isolate arXiv author affiliation block for 2609.16679",
@@ -1691,11 +1683,11 @@
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "40 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 1003 known authors per run"
+        "41 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 1010 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:39:09+00:00",
-      "elapsed_seconds": 156.18,
+      "checked_at": "2026-10-06T10:33:34+00:00",
+      "elapsed_seconds": 169.72,
       "last_success": null
     },
     {
@@ -1706,9 +1698,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:45+00:00",
-      "elapsed_seconds": 0.48,
-      "last_success": "2026-10-05T10:41:45+00:00"
+      "checked_at": "2026-10-06T10:36:24+00:00",
+      "elapsed_seconds": 0.3,
+      "last_success": "2026-10-06T10:36:24+00:00"
     },
     {
       "lab": "Huawei/Noah",
@@ -1718,9 +1710,9 @@
       "requests": 5,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:46+00:00",
-      "elapsed_seconds": 7.15,
-      "last_success": "2026-10-05T10:41:46+00:00"
+      "checked_at": "2026-10-06T10:36:24+00:00",
+      "elapsed_seconds": 7.45,
+      "last_success": "2026-10-06T10:36:24+00:00"
     },
     {
       "lab": "Huawei/Noah",
@@ -1730,21 +1722,21 @@
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:53+00:00",
-      "elapsed_seconds": 1.37,
-      "last_success": "2026-10-05T10:41:53+00:00"
+      "checked_at": "2026-10-06T10:36:31+00:00",
+      "elapsed_seconds": 1.0,
+      "last_success": "2026-10-06T10:36:31+00:00"
     },
     {
       "lab": "Huawei/Noah",
       "source": "openalex",
       "status": "ok",
-      "collected": 114,
+      "collected": 116,
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:54+00:00",
-      "elapsed_seconds": 2.86,
-      "last_success": "2026-10-05T10:41:54+00:00"
+      "checked_at": "2026-10-06T10:36:32+00:00",
+      "elapsed_seconds": 1.24,
+      "last_success": "2026-10-06T10:36:32+00:00"
     },
     {
       "lab": "Huawei/Noah",
@@ -1754,36 +1746,24 @@
       "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:41:57+00:00",
-      "elapsed_seconds": 4.51,
-      "last_success": "2026-10-05T10:41:57+00:00"
+      "checked_at": "2026-10-06T10:36:34+00:00",
+      "elapsed_seconds": 4.4,
+      "last_success": "2026-10-06T10:36:34+00:00"
     },
     {
       "lab": "ByteDance/Seed",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 47,
-      "requests": 142,
+      "collected": 74,
+      "requests": 148,
       "errors": [
-        "Cannot isolate arXiv author affiliation block for 2610.02755",
-        "Cannot isolate arXiv author affiliation block for 2610.02185",
-        "Cannot isolate arXiv author affiliation block for 2610.02054",
-        "Cannot isolate arXiv author affiliation block for 2610.01923",
-        "Cannot isolate arXiv author affiliation block for 2609.04034",
-        "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2609.04799",
-        "Cannot isolate arXiv author affiliation block for 2609.03880",
-        "Cannot isolate arXiv author affiliation block for 2609.08266",
-        "Cannot isolate arXiv author affiliation block for 2609.05829",
-        "Cannot isolate arXiv author affiliation block for 2609.15655",
-        "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.11230",
-        "Cannot isolate arXiv author affiliation block for 2609.20154",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2610.05426",
+        "Cannot isolate arXiv author affiliation block for 2610.05261",
         "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.02118",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
         "Cannot isolate arXiv author affiliation block for 2609.30489",
-        "Cannot isolate arXiv author affiliation block for 2609.29433",
         "Cannot isolate arXiv author affiliation block for 2608.28835",
+        "Cannot isolate arXiv author affiliation block for 2609.29433",
         "Cannot isolate arXiv author affiliation block for 2609.29381",
         "Cannot isolate arXiv author affiliation block for 2609.28987",
         "Cannot isolate arXiv author affiliation block for 2609.28921",
@@ -1792,8 +1772,8 @@
         "Cannot isolate arXiv author affiliation block for 2608.09142",
         "Cannot isolate arXiv author affiliation block for 2609.00092",
         "Cannot isolate arXiv author affiliation block for 2609.04924",
-        "Cannot isolate arXiv author affiliation block for 2609.02584",
         "Cannot isolate arXiv author affiliation block for 2609.06740",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
         "Cannot isolate arXiv author affiliation block for 2609.06737",
         "Cannot isolate arXiv author affiliation block for 2609.04658",
         "Cannot isolate arXiv author affiliation block for 2609.00887",
@@ -1802,15 +1782,30 @@
         "Cannot isolate arXiv author affiliation block for 2608.27033",
         "Cannot isolate arXiv author affiliation block for 2608.23061",
         "Cannot isolate arXiv author affiliation block for 2608.15745",
-        "Cannot isolate arXiv author affiliation block for 2608.14351"
+        "Cannot isolate arXiv author affiliation block for 2608.14351",
+        "Cannot isolate arXiv author affiliation block for 2609.39340",
+        "Cannot isolate arXiv author affiliation block for 2610.02185",
+        "Cannot isolate arXiv author affiliation block for 2610.02755",
+        "Cannot isolate arXiv author affiliation block for 2610.02054",
+        "Cannot isolate arXiv author affiliation block for 2609.04034",
+        "Cannot isolate arXiv author affiliation block for 2610.01923",
+        "Cannot isolate arXiv author affiliation block for 2609.03462",
+        "Cannot isolate arXiv author affiliation block for 2609.04799",
+        "Cannot isolate arXiv author affiliation block for 2609.03880",
+        "Cannot isolate arXiv author affiliation block for 2609.08266",
+        "Cannot isolate arXiv author affiliation block for 2609.05829",
+        "Cannot isolate arXiv author affiliation block for 2609.15655",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.11230",
+        "Cannot isolate arXiv author affiliation block for 2609.20154"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "38 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 2239 known authors per run"
+        "41 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 9219 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:40:21+00:00",
-      "elapsed_seconds": 132.41,
+      "checked_at": "2026-10-06T10:34:24+00:00",
+      "elapsed_seconds": 156.8,
       "last_success": null
     },
     {
@@ -1821,21 +1816,21 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:42:34+00:00",
-      "elapsed_seconds": 0.4,
-      "last_success": "2026-10-05T10:42:34+00:00"
+      "checked_at": "2026-10-06T10:37:00+00:00",
+      "elapsed_seconds": 1.08,
+      "last_success": "2026-10-06T10:37:00+00:00"
     },
     {
       "lab": "MiniMax",
       "source": "repositories",
       "status": "ok",
       "collected": 6,
-      "requests": 6,
+      "requests": 10,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:42:34+00:00",
-      "elapsed_seconds": 5.55,
-      "last_success": "2026-10-05T10:42:34+00:00"
+      "checked_at": "2026-10-06T10:37:02+00:00",
+      "elapsed_seconds": 7.29,
+      "last_success": "2026-10-06T10:37:02+00:00"
     },
     {
       "lab": "MiniMax",
@@ -1845,9 +1840,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:42:40+00:00",
-      "elapsed_seconds": 0.3,
-      "last_success": "2026-10-05T10:42:40+00:00"
+      "checked_at": "2026-10-06T10:37:09+00:00",
+      "elapsed_seconds": 0.32,
+      "last_success": "2026-10-06T10:37:09+00:00"
     },
     {
       "lab": "MiniMax",
@@ -1859,8 +1854,8 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:42:40+00:00",
-      "elapsed_seconds": 1.92,
+      "checked_at": "2026-10-06T10:37:09+00:00",
+      "elapsed_seconds": 1.89,
       "last_success": null
     },
     {
@@ -1868,8 +1863,9 @@
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 119,
-      "requests": 147,
+      "requests": 153,
       "errors": [
+        "Cannot isolate arXiv author affiliation block for 2610.03160",
         "Cannot isolate arXiv author affiliation block for 2610.00956",
         "Cannot isolate arXiv author affiliation block for 2609.39986",
         "Cannot isolate arXiv author affiliation block for 2609.39828",
@@ -1912,11 +1908,11 @@
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "39 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 4657 known authors per run"
+        "40 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 4821 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:40:40+00:00",
-      "elapsed_seconds": 148.11,
+      "checked_at": "2026-10-06T10:34:48+00:00",
+      "elapsed_seconds": 159.26,
       "last_success": null
     },
     {
@@ -1927,9 +1923,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:43:08+00:00",
-      "elapsed_seconds": 0.44,
-      "last_success": "2026-10-05T10:43:08+00:00"
+      "checked_at": "2026-10-06T10:37:27+00:00",
+      "elapsed_seconds": 0.24,
+      "last_success": "2026-10-06T10:37:27+00:00"
     },
     {
       "lab": "StepFun",
@@ -1943,8 +1939,8 @@
       "limits": [
         "1 official repositories remain in the persistent scan queue"
       ],
-      "checked_at": "2026-10-05T10:43:08+00:00",
-      "elapsed_seconds": 3.87,
+      "checked_at": "2026-10-06T10:37:27+00:00",
+      "elapsed_seconds": 4.83,
       "last_success": null
     },
     {
@@ -1955,9 +1951,9 @@
       "requests": 1,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:43:12+00:00",
-      "elapsed_seconds": 0.42,
-      "last_success": "2026-10-05T10:43:12+00:00"
+      "checked_at": "2026-10-06T10:37:32+00:00",
+      "elapsed_seconds": 0.35,
+      "last_success": "2026-10-06T10:37:32+00:00"
     },
     {
       "lab": "StepFun",
@@ -1969,66 +1965,16 @@
       "limits": [
         "Hugging Face search returned a bounded result set; organization catalogues and affiliation discovery supply additional coverage"
       ],
-      "checked_at": "2026-10-05T10:43:12+00:00",
-      "elapsed_seconds": 4.22,
-      "last_success": null
-    },
-    {
-      "lab": "Baidu",
-      "source": "arxiv_affiliations",
-      "status": "partial",
-      "collected": 16,
-      "requests": 124,
-      "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.35110",
-        "Cannot isolate arXiv author affiliation block for 2609.33791",
-        "Cannot isolate arXiv author affiliation block for 2609.37969",
-        "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2609.02584",
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.02118",
-        "Cannot isolate arXiv author affiliation block for 2609.08266",
-        "Cannot isolate arXiv author affiliation block for 2609.07454",
-        "Cannot isolate arXiv author affiliation block for 2609.11147",
-        "Cannot isolate arXiv author affiliation block for 2609.05829",
-        "Cannot isolate arXiv author affiliation block for 2609.09598",
-        "Cannot isolate arXiv author affiliation block for 2609.04799",
-        "Cannot isolate arXiv author affiliation block for 2609.15818",
-        "Cannot isolate arXiv author affiliation block for 2609.15655",
-        "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.29433",
-        "Cannot isolate arXiv author affiliation block for 2609.28987",
-        "Cannot isolate arXiv author affiliation block for 2609.20154",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
-        "Cannot isolate arXiv author affiliation block for 2608.27033",
-        "Cannot isolate arXiv author affiliation block for 2609.26375",
-        "Cannot isolate arXiv author affiliation block for 2609.25670",
-        "Cannot isolate arXiv author affiliation block for 2608.28810",
-        "Cannot isolate arXiv author affiliation block for 2608.26954",
-        "Cannot isolate arXiv author affiliation block for 2608.28781",
-        "Cannot isolate arXiv author affiliation block for 2609.04034",
-        "Cannot isolate arXiv author affiliation block for 2608.30344",
-        "Cannot isolate arXiv author affiliation block for 2608.31075",
-        "Cannot isolate arXiv author affiliation block for 2609.03880",
-        "Cannot isolate arXiv author affiliation block for 2609.03176",
-        "Cannot isolate arXiv author affiliation block for 2608.30938",
-        "Cannot isolate arXiv author affiliation block for 2609.02886",
-        "Cannot isolate arXiv author affiliation block for 2609.02875"
-      ],
-      "limits": [
-        "arXiv discovery continues from its saved result offset on the next run",
-        "33 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 1612 known authors per run"
-      ],
-      "checked_at": "2026-10-05T10:41:14+00:00",
-      "elapsed_seconds": 128.14,
+      "checked_at": "2026-10-06T10:37:32+00:00",
+      "elapsed_seconds": 5.25,
       "last_success": null
     },
     {
       "lab": "Huawei/Noah",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 58,
-      "requests": 114,
+      "collected": 59,
+      "requests": 75,
       "errors": [
         "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.05829",
@@ -2067,56 +2013,63 @@
         "Cannot isolate arXiv author affiliation block for 2609.07454"
       ],
       "limits": [
-        "arXiv discovery continues from its saved result offset on the next run",
         "35 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 3274 known authors per run"
+        "Author discovery rotates 60 of 3455 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:42:02+00:00",
-      "elapsed_seconds": 88.86,
+      "checked_at": "2026-10-06T10:36:38+00:00",
+      "elapsed_seconds": 65.93,
       "last_success": null
     },
     {
-      "lab": "MiniMax",
+      "lab": "Baidu",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 2,
-      "requests": 90,
+      "collected": 16,
+      "requests": 113,
       "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.14091",
+        "Cannot isolate arXiv author affiliation block for 2609.25706",
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
+        "Cannot isolate arXiv author affiliation block for 2609.35110",
+        "Cannot isolate arXiv author affiliation block for 2609.33791",
+        "Cannot isolate arXiv author affiliation block for 2609.37969",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2609.11243",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
+        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.02118",
+        "Cannot isolate arXiv author affiliation block for 2609.08266",
+        "Cannot isolate arXiv author affiliation block for 2609.07454",
         "Cannot isolate arXiv author affiliation block for 2609.11147",
-        "Cannot isolate arXiv author affiliation block for 2609.20154",
-        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.05829",
+        "Cannot isolate arXiv author affiliation block for 2609.09598",
+        "Cannot isolate arXiv author affiliation block for 2609.04799",
         "Cannot isolate arXiv author affiliation block for 2609.15818",
         "Cannot isolate arXiv author affiliation block for 2609.15655",
         "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.20744",
-        "Cannot isolate arXiv author affiliation block for 2609.26781",
-        "Cannot isolate arXiv author affiliation block for 2609.24044",
-        "Cannot isolate arXiv author affiliation block for 2609.30971",
-        "Cannot isolate arXiv author affiliation block for 2608.25468",
-        "Cannot isolate arXiv author affiliation block for 2608.21006",
-        "Cannot isolate arXiv author affiliation block for 2608.16214",
-        "Cannot isolate arXiv author affiliation block for 2608.12793",
-        "Cannot isolate arXiv author affiliation block for 2608.14290",
-        "Cannot isolate arXiv author affiliation block for 2607.26004",
-        "Cannot isolate arXiv author affiliation block for 2608.13937",
-        "Cannot isolate arXiv author affiliation block for 2608.09508",
-        "Cannot isolate arXiv author affiliation block for 2505.18129",
-        "Cannot isolate arXiv author affiliation block for 2608.11755",
-        "Cannot isolate arXiv author affiliation block for 2608.08582",
-        "Cannot isolate arXiv author affiliation block for 2609.35110",
-        "Cannot isolate arXiv author affiliation block for 2609.32990",
+        "Cannot isolate arXiv author affiliation block for 2609.29433",
+        "Cannot isolate arXiv author affiliation block for 2609.28987",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2608.27033",
+        "Cannot isolate arXiv author affiliation block for 2609.26375",
+        "Cannot isolate arXiv author affiliation block for 2608.28810",
+        "Cannot isolate arXiv author affiliation block for 2609.25670",
+        "Cannot isolate arXiv author affiliation block for 2608.28781",
+        "Cannot isolate arXiv author affiliation block for 2608.26954",
+        "Cannot isolate arXiv author affiliation block for 2609.04034",
+        "Cannot isolate arXiv author affiliation block for 2608.30344",
+        "Cannot isolate arXiv author affiliation block for 2608.31075",
+        "Cannot isolate arXiv author affiliation block for 2609.03880",
+        "Cannot isolate arXiv author affiliation block for 2609.03176",
+        "Cannot isolate arXiv author affiliation block for 2608.30938",
         "Cannot isolate arXiv author affiliation block for 2609.02886",
-        "Cannot isolate arXiv author affiliation block for 2609.02584"
+        "Cannot isolate arXiv author affiliation block for 2609.02875"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "28 affiliation candidates queued for the next run"
+        "35 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 1645 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:42:42+00:00",
-      "elapsed_seconds": 75.71,
+      "checked_at": "2026-10-06T10:36:18+00:00",
+      "elapsed_seconds": 109.23,
       "last_success": null
     },
     {
@@ -2124,10 +2077,15 @@
       "source": "arxiv_affiliations",
       "status": "partial",
       "collected": 19,
-      "requests": 121,
+      "requests": 149,
       "errors": [
-        "Cannot isolate arXiv author affiliation block for 2609.25581",
+        "Cannot isolate arXiv author affiliation block for 2609.30001",
+        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.29751",
+        "Cannot isolate arXiv author affiliation block for 2609.29381",
+        "Cannot isolate arXiv author affiliation block for 2609.29220",
+        "Cannot isolate arXiv author affiliation block for 2609.29105",
         "Cannot isolate arXiv author affiliation block for 2609.25141",
+        "Cannot isolate arXiv author affiliation block for 2609.25581",
         "Cannot isolate arXiv author affiliation block for 2609.26375",
         "Cannot isolate arXiv author affiliation block for 2609.25899",
         "Cannot isolate arXiv author affiliation block for 2609.25732",
@@ -2165,107 +2123,179 @@
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
-        "36 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 365 known authors per run"
+        "41 affiliation candidates queued for the next run",
+        "Author discovery rotates 60 of 372 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:43:17+00:00",
-      "elapsed_seconds": 64.28,
+      "checked_at": "2026-10-06T10:37:38+00:00",
+      "elapsed_seconds": 158.63,
       "last_success": null
     },
     {
-      "lab": "ByteDance/Seed",
-      "source": "repositories",
+      "lab": "MiniMax",
+      "source": "arxiv_affiliations",
+      "status": "partial",
+      "collected": 2,
+      "requests": 136,
+      "errors": [
+        "Cannot isolate arXiv author affiliation block for 2609.30971",
+        "Cannot isolate arXiv author affiliation block for 2610.05735",
+        "Cannot isolate arXiv author affiliation block for 2610.05659",
+        "Cannot isolate arXiv author affiliation block for 2610.04376",
+        "Cannot isolate arXiv author affiliation block for 2609.14091",
+        "Cannot isolate arXiv author affiliation block for 2609.03462",
+        "Cannot isolate arXiv author affiliation block for 2609.11243",
+        "Cannot isolate arXiv author affiliation block for 2609.11147",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.15818",
+        "Cannot isolate arXiv author affiliation block for 2609.15655",
+        "Cannot isolate arXiv author affiliation block for 2609.15053",
+        "Cannot isolate arXiv author affiliation block for 2609.20744",
+        "Cannot isolate arXiv author affiliation block for 2609.26781",
+        "Cannot isolate arXiv author affiliation block for 2609.24044",
+        "Cannot isolate arXiv author affiliation block for 2608.25468",
+        "Cannot isolate arXiv author affiliation block for 2608.21006",
+        "Cannot isolate arXiv author affiliation block for 2608.16214",
+        "Cannot isolate arXiv author affiliation block for 2608.12793",
+        "Cannot isolate arXiv author affiliation block for 2608.14290",
+        "Cannot isolate arXiv author affiliation block for 2607.26004",
+        "Cannot isolate arXiv author affiliation block for 2608.13937",
+        "Cannot isolate arXiv author affiliation block for 2608.09508",
+        "Cannot isolate arXiv author affiliation block for 2505.18129",
+        "Cannot isolate arXiv author affiliation block for 2608.11755",
+        "Cannot isolate arXiv author affiliation block for 2608.08582",
+        "Cannot isolate arXiv author affiliation block for 2609.35110",
+        "Cannot isolate arXiv author affiliation block for 2609.32990",
+        "Cannot isolate arXiv author affiliation block for 2609.02886",
+        "Cannot isolate arXiv author affiliation block for 2609.02584"
+      ],
+      "limits": [
+        "arXiv discovery continues from its saved result offset on the next run",
+        "31 affiliation candidates queued for the next run"
+      ],
+      "checked_at": "2026-10-06T10:37:11+00:00",
+      "elapsed_seconds": 185.44,
+      "last_success": null
+    },
+    {
+      "lab": "Tencent/Hunyuan",
+      "source": "official:huggingface_org_papers:tencent,Tencent-Hunyuan",
       "status": "ok",
-      "collected": 4,
+      "collected": 215,
       "requests": 2,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:44:21+00:00",
-      "elapsed_seconds": 2.22,
+      "checked_at": "2026-10-06T10:40:18+00:00",
+      "elapsed_seconds": 3.28,
       "mode": "historical",
       "since": "2024-01-01",
-      "last_success": "2026-10-05T10:44:21+00:00"
+      "last_success": "2026-10-06T10:40:18+00:00"
     },
     {
-      "lab": "ByteDance/Seed",
+      "lab": "Tencent/Hunyuan",
       "source": "huggingface_search",
       "status": "ok",
-      "collected": 46,
-      "requests": 4,
+      "collected": 51,
+      "requests": 3,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:44:21+00:00",
-      "elapsed_seconds": 5.01,
+      "checked_at": "2026-10-06T10:40:18+00:00",
+      "elapsed_seconds": 7.41,
       "mode": "historical",
       "since": "2024-01-01",
-      "last_success": "2026-10-05T10:44:21+00:00"
+      "last_success": "2026-10-06T10:40:18+00:00"
     },
     {
-      "lab": "ByteDance/Seed",
-      "source": "official:bytedance_seed_publication_api:https://seed.bytedance.com/api/get_article_list_v2",
-      "status": "ok",
-      "collected": 209,
-      "requests": 13,
-      "errors": [],
-      "limits": [],
-      "checked_at": "2026-10-05T10:44:21+00:00",
-      "elapsed_seconds": 7.62,
+      "lab": "Tencent/Hunyuan",
+      "source": "repositories",
+      "status": "partial",
+      "collected": 28,
+      "requests": 7,
+      "errors": [
+        "401 Client Error: Unauthorized for url: https://huggingface.co/tencent/Ex-Omni/raw/main/README.md"
+      ],
+      "limits": [
+        "1 official repositories remain in the persistent scan queue"
+      ],
+      "checked_at": "2026-10-06T10:40:18+00:00",
+      "elapsed_seconds": 10.83,
       "mode": "historical",
       "since": "2024-01-01",
-      "last_success": "2026-10-05T10:44:21+00:00"
+      "last_success": null
     },
     {
-      "lab": "ByteDance/Seed",
+      "lab": "Tencent/Hunyuan",
       "source": "openalex",
       "status": "ok",
-      "collected": 2103,
-      "requests": 11,
+      "collected": 4577,
+      "requests": 23,
       "errors": [],
       "limits": [],
-      "checked_at": "2026-10-05T10:44:21+00:00",
-      "elapsed_seconds": 10.82,
+      "checked_at": "2026-10-06T10:40:18+00:00",
+      "elapsed_seconds": 35.19,
       "mode": "historical",
       "since": "2024-01-01",
-      "last_success": "2026-10-05T10:44:21+00:00"
+      "last_success": "2026-10-06T10:40:18+00:00"
     },
     {
-      "lab": "ByteDance/Seed",
+      "lab": "Tencent/Hunyuan",
       "source": "arxiv_affiliations",
       "status": "partial",
-      "collected": 74,
-      "requests": 136,
+      "collected": 132,
+      "requests": 156,
       "errors": [
-        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2607.19338",
-        "Cannot isolate arXiv author affiliation block for 2609.39340",
-        "Cannot isolate arXiv author affiliation block for 2610.02755",
-        "Cannot isolate arXiv author affiliation block for 2610.02185",
-        "Cannot isolate arXiv author affiliation block for 2610.02054",
-        "Cannot isolate arXiv author affiliation block for 2610.01923",
-        "Cannot isolate arXiv author affiliation block for 2609.04034",
+        "Cannot isolate arXiv author affiliation block for 2609.00986",
+        "Cannot isolate arXiv author affiliation block for 2610.03160",
+        "Cannot isolate arXiv author affiliation block for 2610.00956",
+        "Cannot isolate arXiv author affiliation block for 2609.39986",
+        "Cannot isolate arXiv author affiliation block for 2609.39828",
+        "Cannot isolate arXiv author affiliation block for 2609.25118",
+        "Cannot isolate arXiv author affiliation block for 2609.38123",
+        "Cannot isolate arXiv author affiliation block for 2609.13746",
+        "Cannot isolate arXiv author affiliation block for 2609.06567",
+        "Cannot isolate arXiv author affiliation block for 2609.37969",
         "Cannot isolate arXiv author affiliation block for 2609.03462",
-        "Cannot isolate arXiv author affiliation block for 2609.04799",
-        "Cannot isolate arXiv author affiliation block for 2609.03880",
+        "Cannot isolate arXiv author affiliation block for 2609.02584",
+        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.02118",
+        "Cannot isolate arXiv author affiliation block for 2608.29814",
+        "Cannot isolate arXiv author affiliation block for 2609.10804",
+        "404 Client Error: Not Found for url: https://arxiv.org/pdf/2609.10387",
         "Cannot isolate arXiv author affiliation block for 2609.08266",
         "Cannot isolate arXiv author affiliation block for 2609.05829",
+        "Cannot isolate arXiv author affiliation block for 2609.04868",
+        "Cannot isolate arXiv author affiliation block for 2609.17135",
+        "Cannot isolate arXiv author affiliation block for 2609.15818",
         "Cannot isolate arXiv author affiliation block for 2609.15655",
         "Cannot isolate arXiv author affiliation block for 2609.15053",
-        "Cannot isolate arXiv author affiliation block for 2609.11230",
-        "Cannot isolate arXiv author affiliation block for 2609.20154"
+        "Cannot isolate arXiv author affiliation block for 2608.23058",
+        "Cannot isolate arXiv author affiliation block for 2609.14533",
+        "Cannot isolate arXiv author affiliation block for 2608.25331",
+        "Cannot isolate arXiv author affiliation block for 2608.27912",
+        "Cannot isolate arXiv author affiliation block for 2609.25158",
+        "Cannot isolate arXiv author affiliation block for 2609.20154",
+        "Cannot isolate arXiv author affiliation block for 2608.28139",
+        "Cannot isolate arXiv author affiliation block for 2609.17821",
+        "Cannot isolate arXiv author affiliation block for 2608.18467",
+        "Cannot isolate arXiv author affiliation block for 2609.00028",
+        "Cannot isolate arXiv author affiliation block for 2609.16679",
+        "Cannot isolate arXiv author affiliation block for 2609.13814",
+        "Cannot isolate arXiv author affiliation block for 2608.14290",
+        "Cannot isolate arXiv author affiliation block for 2608.24295"
       ],
       "limits": [
         "arXiv discovery continues from its saved result offset on the next run",
         "40 affiliation candidates queued for the next run",
-        "Author discovery rotates 60 of 2239 known authors per run"
+        "Author discovery rotates 60 of 4821 known authors per run"
       ],
-      "checked_at": "2026-10-05T10:44:24+00:00",
-      "elapsed_seconds": 62.48,
+      "checked_at": "2026-10-06T10:40:21+00:00",
+      "elapsed_seconds": 96.67,
       "mode": "historical",
       "since": "2024-01-01",
       "last_success": null
     }
   ],
   "historical_reconciliation": {
-    "next_lab": 14,
+    "next_lab": 15,
     "labs": {
       "OpenAI": {
         "last_attempt": "2026-09-05",
@@ -2334,6 +2364,11 @@
       },
       "ByteDance/Seed": {
         "last_attempt": "2026-10-05",
+        "status": "partial",
+        "since": "2024-01-01"
+      },
+      "Tencent/Hunyuan": {
+        "last_attempt": "2026-10-06",
         "status": "partial",
         "since": "2024-01-01"
       }

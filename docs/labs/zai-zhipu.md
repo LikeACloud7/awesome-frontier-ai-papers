@@ -1,8 +1,8 @@
 # Z\.ai/Zhipu Papers
 
 - Region: `China`
-- Papers: `136`
-- Latest: `2026-09-26`
+- Papers: `138`
+- Latest: `2026-09-30`
 - [Back to README](../../README.md#zaizhipu)
 
 ## No date
@@ -15,8 +15,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑09‑30 | [GFD-OPD\: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales](<https://arxiv.org/abs/2609.39692>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [ScopeIF\: Improving Scope-Aware Precise Instruction-Following in Large Language Models via Graded Reward Modeling](<https://arxiv.org/abs/2609.32189v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑26 | [From Anomalies to Failures\: Constructing Causal Error Graphs for Agentic Trace Diagnosis](<https://arxiv.org/abs/2609.32514v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑25 | [Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling](<https://arxiv.org/abs/2609.31207v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Automated Evaluation Methods for Open-Ended Question in Hydropower Domain Based on Large Language Models](<https://doi.org/10.1007/978-3-032-32237-1_22>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑06 | [Grounding large language models in hydrologic modelling](<https://doi.org/10.1016/j.jhydrol.2026.136358>) | Article | OpenAlex |
