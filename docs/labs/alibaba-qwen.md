@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3773`
-- Latest: `2026-10-03`
+- Papers: `3777`
+- Latest: `2026-10-05`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,13 +19,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑05 | [TRACE\: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](<https://huggingface.co/papers/2610.07767>) | Preprint | Official page |
 | 2026‑10‑03 | [The GPU Resilience Lottery\: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure](<https://doi.org/10.1145/3849815>) | Article | OpenAlex |
+| 2026‑09‑30 | [StateTree\: Enhancing Long-Term Dialogue Reasoning via Reinforcement Learning](<https://arxiv.org/abs/2609.38809>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [MatrixReward\: Reward from Rubric Matrix for Open-Ended Generation](<https://arxiv.org/abs/2610.00389>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [Herschel\: Continuous Optimization of Production LLM Inference through On-Demand Profiling](<https://arxiv.org/abs/2609.40247>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Capture the lifecycle\: KV Cache management in ReAct Agents with KVTether](<https://arxiv.org/abs/2609.39819>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [The Evolution of Attention in Large Language Models\: Mechanisms, Trade-offs, and Emerging Trends](<https://arxiv.org/abs/2609.39661v1>) | Paper | Verified affiliation |
-| 2026‑09‑30 | [ID Balancing\: Stable Training of Extremely Sparse MoE via PID-Based Load Control](<https://arxiv.org/abs/2609.39137v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [ID Balancing\: Stable Training of Extremely Sparse MoE via PID-Based Load Control](<https://arxiv.org/abs/2609.39137v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑30 | [Grounding with Confidence\: Controllable Generative Video Temporal Grounding](<https://arxiv.org/abs/2609.39883v1>) | Paper | Verified affiliation |
-| 2026‑09‑30 | [From Given to Gathered Evidence\: Agentic Learning for Longitudinal Medical Reasoning](<https://arxiv.org/abs/2609.39566v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [From Given to Gathered Evidence\: Agentic Learning for Longitudinal Medical Reasoning](<https://arxiv.org/abs/2609.39566v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑29 | [OmniReasoning\: Pushing the Limits of Audio-Visual Joint Reasoning](<https://huggingface.co/papers/2609.39490>) | Preprint | Official page |
 | 2026‑09‑29 | [When Upstream Messages Override Correct Answers\: A Controlled Study of Multi-Agent LLM Collaboration](<https://arxiv.org/abs/2609.36855>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [RoboChrono\: A Real Robot Benchmark for Streaming Task Understanding](<https://arxiv.org/abs/2609.36605>) | Preprint | OpenAlex |
@@ -100,6 +103,7 @@
 | 2026‑09‑22 | [Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence](<https://doi.org/10.1038/s41591-026-04656-4>) | Article | OpenAlex |
 | 2026‑09‑22 | [COPE\: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation](<https://arxiv.org/abs/2609.26853>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Qwen3\.8-Omni\: Towards Native Omni-Modal Agents](<https://arxiv.org/abs/2609.25611v1>) | Paper | Verified affiliation |
+| 2026‑09‑22 | [From Experts to Sub-experts\: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs](<https://arxiv.org/abs/2609.25655v1>) | Paper | Verified affiliation |
 | 2026‑09‑21 | [MemCalib\: Benchmarking and Optimizing Memory Use in LLM Agents](<https://arxiv.org/abs/2609.24259>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [CLOOPD\: Closing the Learner Loop in On-Policy Distillation](<https://arxiv.org/abs/2609.24141>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Beyond Endpoint Performance\: Process-Level Evaluation of Self-Evolving Agents](<https://arxiv.org/abs/2609.24663>) | Preprint | OpenAlex |

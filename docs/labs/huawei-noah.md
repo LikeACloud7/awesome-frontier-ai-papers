@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `689`
+- Papers: `694`
 - Latest: `2026-10-05`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -15,12 +15,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑05 | [LIBER\: Lifelong User Behavior Modeling Based on Large Language Models](<https://doi.org/10.1007/978-3-032-37682-4_24>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
+| 2026‑10‑03 | [DriftSR\: One-Step Real-World Image Super-Resolution via Distribution Drifting](<https://arxiv.org/abs/2610.04819v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [XSearch\: Explainable Code Search via Concept-to-Code Alignment](<https://arxiv.org/abs/2605.16046>) | Article | OpenAlex |
 | 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
 | 2026‑09‑30 | [Self-Evolving Algorithm-Design Agents\: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization](<https://arxiv.org/abs/2609.38757>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [RefCon\: Iterative Refinement and Contrastive Memory Extraction for Context-Evolving Agent](<https://arxiv.org/abs/2609.39143>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [Pretext\: Defeating Malicious Skill Detection Frameworks for AI Agents](<https://arxiv.org/abs/2609.39607>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [LampAttention\: Look-Ahead Mixed-Precision FlashAttention for Dedicated Accelerators](<https://arxiv.org/abs/2609.39361>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [Disentangling Self-Distillation\: Measuring and Modeling Acquisition and Retention](<https://arxiv.org/abs/2609.39494>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Distill the Visual Evidence, Not Just the Answer\: Cross-World On-Policy Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.38777v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [VidAct\: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness](<https://arxiv.org/abs/2609.36870>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VACE\: Validation-Gated Alternating Co-Evolution of Agent Models and Harnesses](<https://arxiv.org/abs/2609.37105>) | Preprint | OpenAlex |

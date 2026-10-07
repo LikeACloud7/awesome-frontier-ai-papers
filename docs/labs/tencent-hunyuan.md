@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3692`
+- Papers: `3693`
 - Latest: `2026-10-04`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -23,6 +23,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑04 | [Robotic Hand‐Arm Coordinated Skill Learning for Tool Manipulation Tasks](<https://doi.org/10.1049/cit2.70185>) | Article | OpenAlex |
+| 2026‑10‑04 | [TrajLong\: Co-Designing Agentic and Long-Context Supervision for Mid-Training](<https://arxiv.org/abs/2610.04973v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [Rewrite What Matters\: Adaptive Multilingual Query Rewriting for Reasoning via Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.04899v1>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [Prism\: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](<https://huggingface.co/papers/2610.05416>) | Preprint | Official page |
 | 2026‑10‑01 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](<https://huggingface.co/papers/2610.02826>) | Preprint | Official page |

@@ -12,9 +12,9 @@
 | 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
 | 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
-| 2026‑10‑01 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page |
-| 2026‑10‑01 | [RISED\: RubrIcs for agentic multi-environment Selection and sElf-Distillation](<https://arxiv.org/abs/2610.00979>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [RISED\: Rubrics for Agentic Multi-Environment Selection and Self-Distillation](<https://machinelearning.apple.com/research/rised-multi-environment-selection>) | Publication | OpenAlex, Official page |
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
+| 2026‑09‑30 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page, OpenAlex |
 | 2026‑09‑30 | [Visualizing Distribution Coverage in Generative Diffusion Models](<https://arxiv.org/abs/2609.38853>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://arxiv.org/abs/2609.36678>) | Preprint | OpenAlex |

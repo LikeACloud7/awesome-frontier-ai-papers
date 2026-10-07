@@ -1,7 +1,7 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `54`
+- Papers: `55`
 - Latest: `2026-09-29`
 - [Back to README](../../README.md#stepfun)
 
@@ -25,6 +25,7 @@
 | 2026‑09‑11 | [StepAudio 3 Realtime Technical Report](<https://huggingface.co/papers/2609.14005>) | Preprint | Official page |
 | 2026‑09‑10 | [StepAudio 3 Music Technical Report](<https://huggingface.co/papers/2609.16034>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑08 | [Φ-Bench\: Can Large Language Models Engineer the Infrastructure That Powers Them?](<https://huggingface.co/papers/2609.10226>) | Preprint | Official page |
+| 2026‑09‑07 | [HyperTransfer\: Understanding the Equivalence between Base Optimizer and Hyperball](<https://arxiv.org/abs/2609.07017>) | Preprint | OpenAlex |
 | 2026‑08‑28 | [Chat-Edit-3D++\: Interactive 3D and 4D Scene Editing via Large Language Models](<https://huggingface.co/papers/2608.29137>) | Technical report | Official page |
 | 2026‑08‑27 | [Aphanta\: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning](<https://arxiv.org/abs/2608.26993v1>) | Paper | Verified affiliation |
 | 2026‑08‑11 | [Scheduling Mixed RL Rollouts Beyond Prefix Locality](<https://arxiv.org/abs/2608.11152v1>) | Paper | Verified affiliation |

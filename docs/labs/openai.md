@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `486`
-- Latest: `2026-10-05`
+- Papers: `489`
+- Latest: `2026-10-06`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | n\.d\. | [parameter-golf](<https://github.com/openai/parameter-golf/blob/main/paper/dg_attention.pdf>) | Technical report | Official repo |
+| n\.d\. | [Readme](<https://github.com/openai/math/blob/main/preprints/the-additive-indecomposability-of-the-primes-September-24-2026/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [OpenAI Guardrails\: Python (Preview)](<https://github.com/openai/openai-guardrails-python/blob/main/examples/hallucination_detection/example_microsoft_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Frontier Evals](<https://github.com/openai/frontier-evals/blob/main/project/paperbench/data/papers/adaptive-pruning/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Build Hours](<https://github.com/openai/build-hours/blob/main/04-mmrag_tooluse/earnings_report_all/Webslides_Q120_4.28.20_Final.pdf>) | Technical report | Official repo |
@@ -18,6 +19,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑06 | [Sharing AI progress in mathematics](<https://openai.com/index/sharing-ai-progress-in-mathematics>) | Research post | Official page |
+| 2026‑10‑06 | [Advancing computer use with Ironclad](<https://openai.com/index/advancing-computer-use-with-ironclad>) | Research post | Official page |
 | 2026‑10‑05 | [Our approach to EU text provenance rules](<https://openai.com/index/eu-text-provenance>) | Research post | Official page |
 | 2026‑09‑28 | [Towards safety cases for frontier AI training](<https://openai.com/index/towards-safety-cases-for-frontier-ai-training>) | Research post | Official page |
 | 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |

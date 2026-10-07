@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2021`
+- Papers: `2022`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#nvidia)
 
@@ -25,6 +25,7 @@
 | 2026‑10‑01 | [Automatically Generating ML Compiler Backends from Tensor Accelerator ISA Descriptions](<https://arxiv.org/abs/2510.09932>) | Article | OpenAlex |
 | 2026‑10‑01 | [Physical AI Smart Spaces\: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](<https://arxiv.org/abs/2610.02580v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Vision wearables with artificial intelligence to close the sensory gap in patient characterization](<https://doi.org/10.1038/s41746-026-03156-6>) | Article | OpenAlex |
+| 2026‑09‑30 | [PivotOPD\: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents](<https://arxiv.org/abs/2609.40285>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [ML-Predicted EOTPR Reference Waveforms from CAD with Layout-Aware Correlation for Efficient Fault Isolation in Advanced Packages](<https://doi.org/10.31399/asm.cp.istfa2026p0038>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Game-Guided Skill Discovery through Self-Play for Playable Agent Control](<https://arxiv.org/abs/2609.40137>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Covert Assistance\: Helpful LLM Agents Evade Oversight in Multi-Agent Systems](<https://arxiv.org/abs/2609.39050>) | Preprint | OpenAlex |
@@ -762,9 +763,9 @@
 | 2025‑10‑19 | [Enhancing Autonomous Driving Safety with Collision Scenario Integration](<https://doi.org/10.1109/iros60139.2025.11246713>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [Diving into the Fusion of Monocular Priors for Generalized Stereo Matching](<http://arxiv.org/abs/2505.14414>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [DC-AE 1\.5\: Accelerating Diffusion Model Convergence with Structured Latent Space](<http://arxiv.org/abs/2508.00413>) | Conference paper | OpenAlex |
+| 2025‑10‑19 | [TrafficVILA\: Scaling Vision-Language Models to High-Resolution Video Understanding for Traffic Safety Analysis](<https://doi.org/10.1109/iccvw69036.2025.00560>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [Token-Efficient VLM\: High-Resolution Image Understanding Via Dynamic Region Proposal](<https://doi.org/10.1109/iccv51701.2025.02238>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [HERMES\: Temporal-Coherent Long-form Understanding with Episodes and Semantics](<http://arxiv.org/abs/2408.17443>) | Conference paper | OpenAlex |
-| 2025‑10‑19 | [TrafficVILA\: Scaling Vision-Language Models to High-Resolution Video Understanding for Traffic Safety Analysis](<https://doi.org/10.1109/iccvw69036.2025.00560>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [STORM\: Token-Efficient Long Video Understanding for Multimodal LLMs](<https://doi.org/10.1109/iccvw69036.2025.00614>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [HumanOLAT\: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis](<https://doi.org/10.1109/iccv51701.2025.02705>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [DIVE\: Taming DINO for Subject-Driven Video Editing](<http://arxiv.org/abs/2412.03347>) | Conference paper | OpenAlex |
@@ -1103,7 +1104,6 @@
 | 2025‑04‑28 | [Revisiting Microelectronics Resilience and Reliability in the Era of AI](<https://doi.org/10.1109/vts65138.2025.11022801>) | Conference abstract | OpenAlex |
 | 2025‑04‑28 | [Innovation Practices Track\: Industry RAS/SDC Innovative Practices - from Silicon to Mega Fleets](<https://doi.org/10.1109/vts65138.2025.11022776>) | Conference abstract | OpenAlex |
 | 2025‑04‑27 | [Sem-MASt3R\: Semantically Guided Feature Matching with MASt3R](<https://doi.org/10.1109/iccvw69036.2025.00020>) | Conference paper | OpenAlex |
-| 2025‑04‑26 | [FedCAPR\:Federated Camera-Aware Unsupervised Person Re-Identification with Identity-Distributed Equalization for Decentralized Data Clustering](<https://doi.org/10.1109/cvprw67362.2025.00166>) | Conference paper | OpenAlex |
 | 2025‑04‑26 | [GenAI applications of vision-language models for semiconductor defect classification](<https://doi.org/10.1117/12.3064772>) | Article | OpenAlex |
 | 2025‑04‑23 | [VARS-fUSI\: Variable Sampling for Fast and Efficient Functional Ultrasound Imaging using Neural Operators](<https://doi.org/10.1101/2025.04.16.649237>) | Preprint | OpenAlex |
 | 2025‑04‑22 | [Describe Anything\: Detailed Localized Image and Video Captioning](<https://arxiv.org/abs/2504.16072>) | Paper | Verified affiliation, OpenAlex |
@@ -1631,6 +1631,7 @@
 | 2024‑09‑16 | [Leadership\: A Different Approach From a Different Perspective](<https://doi.org/10.1016/j.jacr.2024.08.028>) | Article | OpenAlex |
 | 2024‑09‑15 | [Who you lookin' at? Perception of gaze direction in group settings depends on naturalness of gaze behavior and clutter](<http://dx.doi.org/10.1167/jov.24.10.1295>) | Article | OpenAlex |
 | 2024‑09‑14 | [A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds](<https://doi.org/10.1101/2024.09.11.612340>) | Preprint | OpenAlex |
+| 2024‑09‑13 | [FedCAPR\:Federated Camera-Aware Unsupervised Person Re-Identification with Identity-Distributed Equalization for Decentralized Data Clustering](<https://doi.org/10.1109/cvprw67362.2025.00166>) | Conference paper | OpenAlex |
 | 2024‑09‑13 | [MAISI\: Medical AI for Synthetic Imaging](<https://arxiv.org/abs/2409.11169>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑09‑10 | [Sortformer\: A Novel Approach for Permutation-Resolved Speaker Supervision in Speech-to-Text Systems](<https://arxiv.org/abs/2409.06656>) | Paper | Verified affiliation |
 | 2024‑09‑09 | [Review on synergizing the Metaverse and AI-driven synthetic data\: enhancing virtual realms and activity recognition in computer vision](<https://doi.org/10.1007/s44267-024-00059-6>) | Article | OpenAlex |

@@ -1,5 +1,5 @@
 {
-  "next_lab": 15,
+  "next_lab": 16,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -73,6 +73,11 @@
     },
     "Tencent/Hunyuan": {
       "last_attempt": "2026-10-06",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Baidu": {
+      "last_attempt": "2026-10-07",
       "status": "partial",
       "since": "2024-01-01"
     }

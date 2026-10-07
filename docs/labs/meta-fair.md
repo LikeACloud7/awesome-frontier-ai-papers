@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `421`
+- Papers: `422`
 - Latest: `2026-10-02`
 - [Back to README](../../README.md#metafair)
 
@@ -89,6 +89,7 @@
 | 2026‑09‑11 | [AI in medical imaging for developing countries\: Challenges and opportunities](<https://doi.org/10.1016/b978-0-443-44915-4.00015-0>) | Book chapter | OpenAlex |
 | 2026‑09‑10 | [Taming Bitwise Behavior in GPU Kernels with Tensor Core\: Black-Box Reconstruction, Compiler Enforcement, and Static Verification](<https://arxiv.org/abs/2609.11356>) | Preprint | OpenAlex |
 | 2026‑09‑10 | [Harnessing Trust in Directed Graphs\: Redefining Robustness of Graph Learning](<https://doi.org/10.1145/3843766>) | Article | OpenAlex |
+| 2026‑09‑08 | [Academia x Industry\: The Role of Fundamentals for Silicon in an AI Native Era](<https://arxiv.org/abs/2609.09344>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Agentic ML Exploration (A-MLE) for Ads Ranking](<https://arxiv.org/abs/2609.08248v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑07 | [Repeat-After-Me\: Black-Box Adaptive Visual Prompt Injection](<https://ai.meta.com/research/publications/repeat-after-me-black-box-adaptive-visual-prompt-injection/>) | Publication | Official page |
 | 2026‑09‑06 | [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](<https://ai.meta.com/research/publications/alignment-free-text-audiobox-for-voice-dubbing-and-full-duplex-dialogue-synthesis/>) | Publication | Official page |
@@ -193,7 +194,6 @@
 | 2025‑11‑18 | [Souper-Model\: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](<https://ai.meta.com/research/publications/souper-model-how-simple-arithmetic-unlocks-state-of-the-art-llm-performance/>) | Publication | Official page |
 | 2025‑11‑13 | [A Survey on Deep Generative Models for Robot Learning From Multimodal Demonstrations](<https://doi.org/10.1109/tro.2025.3631816>) | Article | OpenAlex |
 | 2025‑11‑12 | [Efficient Sequential Recommendation for Long Term User Interest Via Personalization](<https://doi.org/10.1109/icdm65498.2025.00099>) | Article | OpenAlex |
-| 2025‑11‑11 | [CATransformers\: Carbon Aware Transformers Through Joint Model-Hardware Optimization](<https://ai.meta.com/research/publications/catransformers-carbon-aware-transformers-through-joint-model-hardware-optimization/>) | Publication | Official page |
 | 2025‑11‑10 | [Omnilingual ASR\: Open-Source Multilingual Speech Recognition for 1600+ Languages](<https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/>) | Publication | Official page |
 | 2025‑11‑08 | [GSTBench\: A Benchmark Study on the Transferability of Graph Self-Supervised Learning](<https://doi.org/10.1145/3746252.3761422>) | Article | OpenAlex |
 | 2025‑11‑07 | [V-RAG\: Competitive Tree Reranking and Static Distillation for Answer-Source Alignment](<https://doi.org/10.1109/ic-nidc67200.2025.11390266>) | Article | OpenAlex |
@@ -288,6 +288,7 @@
 | 2025‑01‑13 | [UnCommon Objects in 3D](<https://arxiv.org/abs/2501.07574>) | Paper | Verified affiliation |
 | 2025‑01‑04 | [Transformers are Multi-State RNNs](<https://ai.meta.com/research/publications/transformers-are-multi-state-rnns/>) | Publication | Official page |
 | 2025‑01‑02 | [A Structure-Aware Framework for Learning Device Placements on Computation Graphs](<https://ai.meta.com/research/publications/a-structure-aware-framework-for-learning-device-placements-on-computation-graphs/>) | Publication | Official page |
+| 2025‑01‑01 | [CATransformers\: Carbon Aware Transformers Through Joint Model-Hardware Optimization](<https://ai.meta.com/research/publications/catransformers-carbon-aware-transformers-through-joint-model-hardware-optimization/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [PerceptionLM\: Open-Access Data and Models for Detailed Visual Understanding](<https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Perception Encoder\: The best visual embeddings are not at the output of the network](<https://ai.meta.com/research/publications/perception-encoder-the-best-visual-embeddings-are-not-at-the-output-of-the-network/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [SwiftKV\: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation](<https://doi.org/10.18653/v1/2025.emnlp-main.1306>) | Article | OpenAlex |
