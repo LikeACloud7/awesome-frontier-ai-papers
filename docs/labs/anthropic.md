@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `243`
-- Latest: `2026-10-01`
+- Papers: `244`
+- Latest: `2026-10-03`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑03 | [A Bird's-Eye View of Iterative Reward Design](<https://arxiv.org/abs/2610.04364>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Claude-shaped science](<https://www.anthropic.com/research/claude-shaped-science>) | Research post | Official page |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |

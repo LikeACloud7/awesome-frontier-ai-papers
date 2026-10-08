@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1470`
+- Papers: `1471`
 - Latest: `2026-10-05`
 - [Back to README](../../README.md#apple)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
+| 2026‑10‑05 | [Stepped MoE\: Segment-Level Routing with Configurable Inference Complexity](<https://arxiv.org/abs/2610.07348v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
 | 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
 | 2026‑10‑01 | [RISED\: Rubrics for Agentic Multi-Environment Selection and Self-Distillation](<https://machinelearning.apple.com/research/rised-multi-environment-selection>) | Publication | OpenAlex, Official page |
@@ -621,7 +622,6 @@
 | 2025‑02‑07 | [Software Innovations in Ultra-Wideband Technology\: From Algorithms to Applications](<https://doi.org/10.32628/cseit251112187>) | Article | OpenAlex |
 | 2025‑02‑05 | [Reinforcement Learning for Long-Horizon Interactive LLM Agents](<https://machinelearning.apple.com/research/reinforcement-learning-long-horizon>) | Publication | Official page |
 | 2025‑02‑04 | [Adaptive Training Distributions with Scalable Online Bilevel Optimization](<https://machinelearning.apple.com/research/adaptive-training>) | Publication | Official page |
-| 2025‑02‑01 | [Use Cases for Terahertz Communications\: An Industrial Perspective](<https://doi.org/10.1109/mwc.001.2400060>) | Article | OpenAlex |
 | 2025‑02‑01 | [Diffusion Models for 3D Generation\: A Survey](<https://doi.org/10.26599/cvm.2025.9450452>) | Article | OpenAlex |
 | 2025‑02‑01 | [Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo](<https://machinelearning.apple.com/research/step-by-step-reasoning>) | Publication | Official page |
 | 2025‑01‑30 | [Compact Neural TTS Voices for Accessibility](<https://machinelearning.apple.com/research/compact-neural-tts>) | Publication | Official page, OpenAlex |
@@ -641,6 +641,7 @@
 | 2025‑01‑10 | [Fingerprinting Codes Meet Geometry\: Improved Lower Bounds for Private Query Release and Adaptive Data Analysis](<https://machinelearning.apple.com/research/fingerprinting-codes>) | Publication | Official page, OpenAlex |
 | 2025‑01‑09 | [SLiCK\: Exploiting Subsequences for Length-Constrained Keyword Spotting](<https://machinelearning.apple.com/research/slick-exploiting-subsequences>) | Publication | Official page, OpenAlex |
 | 2025‑01‑08 | [What Makes for a Good Stereoscopic Image?](<https://machinelearning.apple.com/research/good-stereoscopic>) | Publication | Official page, OpenAlex |
+| 2025‑01‑07 | [Use Cases for Terahertz Communications\: An Industrial Perspective](<https://doi.org/10.1109/mwc.001.2400060>) | Article | OpenAlex |
 | 2025‑01‑06 | [3D Shape Tokenization](<https://machinelearning.apple.com/research/3d-shape-tokenization>) | Publication | Official page |
 | 2025‑01‑02 | [MM-Spatial\: Exploring 3D Spatial Understanding in Multimodal LLMs](<https://machinelearning.apple.com/research/mm-spatial>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [The Illusion of Thinking\: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](<https://machinelearning.apple.com/research/illusion-of-thinking>) | Publication | Official page, OpenAlex |
@@ -720,7 +721,6 @@
 | 2025‑01‑01 | [COCONut-PanCap\: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation](<http://arxiv.org/abs/2502.02589>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [AdaPDTW\: An Efficient Abstract-Adaptive Piecewise Dynamic Time Warping for Time Series Classification](<https://doi.org/10.1109/access.2025.3568453>) | Article | OpenAlex |
 | 2025‑01‑01 | [A Theory for Worst-Case vs\. Average-Case Guarantees for LLMs](<https://doi.org/10.52202/085713-4901>) | Conference paper | OpenAlex |
-| 2025 | [QID\: Efficient query-informed ViTs in data-scarce regimes for OCR-free visual document understanding](<https://www.amazon.science/publications/qid-efficient-query-informed-vits-in-data-scarce-regimes-for-ocr-free-visual-document-understanding>) | Publication | OpenAlex, Official page |
 | 2025 | [Language Models Know More Than They Show\: Exploring Hallucinations From the Model's Viewpoint](<https://machinelearning.apple.com/research/exploring-hallucinations>) | Publication | Official page |
 | 2025 | [SIFT-50M\: A large-scale multilingual dataset for speech instruction fine-tuning](<https://www.amazon.science/publications/sift-50m-a-large-scale-multilingual-dataset-for-speech-instruction-fine-tuning>) | Publication | Official page, OpenAlex |
 
@@ -786,7 +786,6 @@
 | 2024‑10‑29 | [Computational Bottlenecks of Training Small-Scale Large Language Models](<https://machinelearning.apple.com/research/computational-bottlenecks>) | Publication | Official page |
 | 2024‑10‑28 | [Smart Audit System Empowered by LLM](<https://machinelearning.apple.com/research/smart-audit>) | Publication | Official page |
 | 2024‑10‑28 | [Promoting Cross-Modal Representations to Improve Multimodal Foundation Models for Physiological Signals](<https://machinelearning.apple.com/research/modal-representations>) | Publication | Official page |
-| 2024‑10‑27 | [Interactive Proofs for General Distribution Properties](<https://machinelearning.apple.com/research/interactive-proofs-distribution-properties>) | Publication | Official page, OpenAlex |
 | 2024‑10‑26 | [PAIR\: Pre-denosing Augmented Image Retrieval Model for Defending Adversarial Patches](<https://doi.org/10.1145/3664647.3681398>) | Conference paper | OpenAlex |
 | 2024‑10‑25 | [GRiT\: A Generative Region-to-Text Transformer for Object Understanding](<https://doi.org/10.1007/978-3-031-72989-8_12>) | Conference paper | OpenAlex |
 | 2024‑10‑23 | [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](<https://machinelearning.apple.com/research/scaling-diffusion-language-models>) | Publication | Official page, OpenAlex |
@@ -839,6 +838,7 @@
 | 2024‑08‑01 | [MutationGuard\: A Graph and Temporal-Spatial Neural Method for Detecting Mutation Telecommunication Fraud](<https://doi.org/10.24963/ijcai.2025/1061>) | Conference paper | OpenAlex |
 | 2024‑07‑31 | [1‐Lipschitz Neural Distance Fields](<https://doi.org/10.1111/cgf.15128>) | Article | OpenAlex |
 | 2024‑07‑29 | [Apple Intelligence Foundation Language Models](<https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models>) | Publication | Official page |
+| 2024‑07‑28 | [QID\: Efficient query-informed ViTs in data-scarce regimes for OCR-free visual document understanding](<https://www.amazon.science/publications/qid-efficient-query-informed-vits-in-data-scarce-regimes-for-ocr-free-visual-document-understanding>) | Publication | OpenAlex, Official page |
 | 2024‑07‑25 | [LazyLLM\: Dynamic Token Pruning for Efficient Long Context LLM Inference](<https://machinelearning.apple.com/research/dynamic-token-pruning>) | Publication | Official page |
 | 2024‑07‑25 | [Pre-Trained Foundation Model Representations to Uncover Breathing Patterns in Speech](<https://machinelearning.apple.com/research/pretrained-foundation-model>) | Publication | Official page |
 | 2024‑07‑25 | [Instruction-Following Speech Recognition](<https://machinelearning.apple.com/research/instruction-following-speech>) | Publication | Official page |
@@ -914,6 +914,7 @@
 | 2024‑05‑20 | [Automatic Creative Selection with Cross-Modal Matching](<https://machinelearning.apple.com/research/automatic-creative-selection>) | Publication | Official page |
 | 2024‑05‑14 | [KV-Runahead\: Scalable Causal LLM Inference by Parallel Key-Value Cache Generation](<https://machinelearning.apple.com/research/kv-runahead>) | Publication | Official page |
 | 2024‑05‑14 | [pfl-research\: Simulation Framework for Accelerating Research in Private Federated Learning](<https://machinelearning.apple.com/research/pfl-research>) | Publication | Official page |
+| 2024‑05‑13 | [Interactive Proofs for General Distribution Properties](<https://machinelearning.apple.com/research/interactive-proofs-distribution-properties>) | Publication | Official page, OpenAlex |
 | 2024‑05‑13 | [BIM\: Improving Graph Neural Networks with Balanced Influence Maximization](<https://doi.org/10.1109/icde60146.2024.00228>) | Conference paper | OpenAlex |
 | 2024‑05‑08 | [Generative Modeling with Phase Stochastic Bridges](<https://machinelearning.apple.com/research/generative-modeling>) | Publication | Official page |
 | 2024‑05‑07 | [Rephrasing the Web\: A Recipe for Compute and Data-Efficient Language Modeling](<https://machinelearning.apple.com/research/recipe-for-compute>) | Publication | Official page |

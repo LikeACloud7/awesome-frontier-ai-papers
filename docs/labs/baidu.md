@@ -1,14 +1,15 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1084`
-- Latest: `2026-10-02`
+- Papers: `1085`
+- Latest: `2026-10-06`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑06 | [Detecting Adversarial Illicit Promotional Images via Threat-Driven Multimodal Analysis](<https://doi.org/10.1007/978-3-032-38702-8_14>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Controllable Orthogonalization for Stabilizing Neural Network Training in Deep Reinforcement Learning](<https://doi.org/10.3390/informatics13100162>) | Article | OpenAlex |
 | 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
 | 2026‑09‑30 | [Experimental Experience Modeling for Autonomous Research](<https://arxiv.org/abs/2609.39392>) | Preprint | OpenAlex |
@@ -486,7 +487,6 @@
 | 2025‑08‑14 | [FastDeploy 2\.0\: A Large-Scale Model Inference and Deployment Toolkit with Native Support for ERNIE 4\.5](<https://ernie.baidu.com/blog/posts/fastdeploy2.0/>) | Technical report | Official page |
 | 2025‑08‑14 | [Surfel-Based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction From Monocular Videos](<https://doi.org/10.1109/tpami.2025.3599415>) | Article | OpenAlex |
 | 2025‑08‑06 | [TURA\: Tool-Augmented Unified Retrieval Agent for AI Search](<https://huggingface.co/papers/2508.04604>) | Technical report | Official page |
-| 2025‑08‑06 | [Self-Disentangling Domain-Specific and Domain-Agnostic Representations Across Multiple Sources for Data-To-Text Generation](<https://doi.org/10.1109/ickg66886.2025.00016>) | Article | OpenAlex |
 | 2025‑08‑03 | [Multi-Agent Proactive Information Seeking with Adaptive LLM Orchestration for Non-Factoid Question Answering](<https://doi.org/10.1145/3711896.3737249>) | Article | OpenAlex |
 | 2025‑08‑03 | [RankExpert\: A Mixture of Textual-and-Behavioral Experts for Multi-Objective Learning-to-Rank in Web Search](<https://doi.org/10.1145/3711896.3737258>) | Article | OpenAlex |
 | 2025‑08‑03 | [FULTR\: A Large-Scale Fusion Learning to Rank Dataset and Its Application for Satisfaction-Oriented Ranking](<https://doi.org/10.1145/3711896.3737443>) | Conference paper | OpenAlex |
@@ -566,6 +566,7 @@
 | 2025‑05‑06 | [MultiPerG\: Multiple Periodic Geography convolution for next POI recommendation](<https://doi.org/10.1007/s44336-025-00012-1>) | Article | OpenAlex |
 | 2025‑05‑05 | [A Novel AI-Empowered, Student-Centered Teaching Strategy for Large Classes in Higher Education](<https://doi.org/10.1007/s10763-025-10573-8>) | Article | OpenAlex |
 | 2025‑05‑05 | [No Other Representation Component Is Needed\: Diffusion Transformers Can Provide Representation Guidance by Themselves](<http://arxiv.org/abs/2505.02831>) | Preprint | OpenAlex |
+| 2025‑05‑03 | [Self-Disentangling Domain-Specific and Domain-Agnostic Representations Across Multiple Sources for Data-To-Text Generation](<https://doi.org/10.1109/ickg66886.2025.00016>) | Article | OpenAlex |
 | 2025‑05‑02 | [DeePMD-kit v3\: A Multiple-Backend Framework for Machine Learning Potentials](<http://arxiv.org/abs/2502.19161>) | Article | OpenAlex |
 | 2025‑05‑01 | [Constraining multimodal distribution for domain adaptation in stereo matching](<https://doi.org/10.1016/j.patcog.2025.111727>) | Article | OpenAlex |
 | 2025‑04‑30 | [CMD\: Constraining Multimodal Distribution for Domain Adaptation in Stereo Matching](<http://arxiv.org/abs/2504.21302>) | Preprint | OpenAlex |

@@ -1,5 +1,5 @@
 {
-  "next_lab": 16,
+  "next_lab": 17,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-09-05",
@@ -78,6 +78,11 @@
     },
     "Baidu": {
       "last_attempt": "2026-10-07",
+      "status": "partial",
+      "since": "2024-01-01"
+    },
+    "Huawei/Noah": {
+      "last_attempt": "2026-10-08",
       "status": "partial",
       "since": "2024-01-01"
     }

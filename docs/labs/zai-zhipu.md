@@ -76,7 +76,6 @@
 | 2025‑10‑25 | [JPS\: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering](<http://arxiv.org/abs/2508.05087>) | Conference paper | OpenAlex |
 | 2025‑10‑21 | [Kaleido\: Open-Sourced Multi-Subject Reference Video Generation Model](<https://arxiv.org/abs/2510.18573>) | Paper | Verified affiliation |
 | 2025‑10‑20 | [Glyph\: Scaling Context Windows via Visual-Text Compression](<https://arxiv.org/abs/2510.17800>) | Paper | Verified affiliation, OpenAlex |
-| 2025‑10‑19 | [Concat-ID\: Towards Universal Identity-Preserving Video Synthesis](<https://doi.org/10.1109/iccvw69036.2025.00202>) | Article | OpenAlex |
 | 2025‑10‑19 | [OmniCache\: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models](<https://doi.org/10.1109/iccv51701.2025.01513>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [VPO\: Aligning Text-to-Video Generation Models with Prompt Optimization](<http://arxiv.org/abs/2503.20491>) | Conference paper | OpenAlex |
 | 2025‑10‑13 | [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](<https://huggingface.co/papers/2510.11683>) | Technical report | Official page |
@@ -91,6 +90,7 @@
 | 2025‑07‑01 | [GLM-4\.5V and GLM-4\.1V-Thinking\: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](<https://arxiv.org/abs/2507.01006>) | Paper | Verified affiliation |
 | 2025‑06‑30 | [GuidedLatent\: Defending VAEs against Membership Inference Attacks via Distribution-Guided Privacy](<https://doi.org/10.1109/ijcnn64981.2025.11227775>) | Conference paper | OpenAlex |
 | 2025‑06‑18 | [CoRe\: Cognitive Reasoning Framework for Zero-Shot Table Understanding and Reasoning](<https://escholarship.org/uc/item/6696229n>) | Article | OpenAlex |
+| 2025‑06‑10 | [EDEN\: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation](<https://doi.org/10.1109/cvpr52734.2025.00202>) | Conference paper | OpenAlex |
 | 2025‑06‑09 | [SWE-Dev\: Building Software Engineering Agents with Training and Inference Scaling](<https://arxiv.org/abs/2506.07636>) | Paper | Verified affiliation |
 | 2025‑06‑01 | [A review on synergizing knowledge graphs and large language models](<https://doi.org/10.1007/s00607-025-01499-8>) | Review | OpenAlex |
 | 2025‑05‑22 | [AGENTIF\: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](<http://arxiv.org/abs/2505.16944>) | Preprint | OpenAlex |

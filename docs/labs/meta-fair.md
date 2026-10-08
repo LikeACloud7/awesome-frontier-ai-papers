@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `422`
-- Latest: `2026-10-02`
+- Papers: `424`
+- Latest: `2026-10-06`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -38,6 +38,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑06 | [PEG for Information Flow\: Analysis and Incremental Reasoning](<https://doi.org/10.1007/978-3-032-40374-2_10>) | Conference paper | OpenAlex |
+| 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
 | 2026‑10‑02 | [The Strict Threshold for Gaussian Ellipsoid Fitting](<https://ai.meta.com/research/publications/the-strict-threshold-for-gaussian-ellipsoid-fitting/>) | Publication | Official page |
 | 2026‑10‑02 | [String Two-Point Function = Height Function on a Curve](<https://ai.meta.com/research/publications/string-two-point-function-height-function-on-a-curve/>) | Publication | Official page |
@@ -232,7 +234,6 @@
 | 2025‑08‑13 | [Disentangling the Factors of Convergence between Brains and Computer Vision Models](<https://ai.meta.com/research/publications/disentangling-the-factors-of-convergence-between-brains-and-computer-vision-models/>) | Publication | Official page |
 | 2025‑08‑12 | [Efficient Speculative Decoding for Llama at Scale\: Challenges and Solutions](<https://ai.meta.com/research/publications/efficient-speculative-decoding-for-llama-at-scale-challenges-and-solutions/>) | Publication | Official page |
 | 2025‑08‑08 | [Characterizing and Efficiently Accelerating Multimodal Generation Model Inference](<https://doi.org/10.1109/mm.2025.3596539>) | Article | OpenAlex |
-| 2025‑08‑06 | [Self-Disentangling Domain-Specific and Domain-Agnostic Representations Across Multiple Sources for Data-To-Text Generation](<https://doi.org/10.1109/ickg66886.2025.00016>) | Article | OpenAlex |
 | 2025‑08‑05 | [Open Molecular Crystals 2025 (OMC25) Dataset and Models](<https://ai.meta.com/research/publications/open-molecular-crystals-2025-omc25-dataset-and-models/>) | Publication | Official page |
 | 2025‑08‑05 | [FastCSP\: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms](<https://ai.meta.com/research/publications/fastcsp-accelerated-molecular-crystal-structure-prediction-with-universal-model-for-atoms/>) | Publication | Official page |
 | 2025‑08‑04 | [The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture](<https://ai.meta.com/research/publications/the-open-dac-2025-dataset-for-sorbent-discovery-in-direct-air-capture/>) | Publication | Official page |
@@ -258,6 +259,7 @@
 | 2025‑05‑13 | [Emergence of Language in the Developing Brain](<https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/>) | Publication | Official page |
 | 2025‑05‑13 | [Dynadiff\: Single-stage Decoding of Images from Continuously Evolving fMRI](<https://ai.meta.com/research/publications/dynadiff-single-stage-decoding-of-images-from-continuously-evolving-fmri/>) | Publication | Official page |
 | 2025‑05‑04 | [mmET\: mmWave Radar-Based Eye Tracking on Smart Glasses](<https://doi.org/10.1145/3715014.3722050>) | Article | OpenAlex |
+| 2025‑05‑03 | [Self-Disentangling Domain-Specific and Domain-Agnostic Representations Across Multiple Sources for Data-To-Text Generation](<https://doi.org/10.1109/ickg66886.2025.00016>) | Article | OpenAlex |
 | 2025‑04‑28 | [LlamaFirewall\: An open source guardrail system for building secure AI agents](<https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/>) | Publication | Official page |
 | 2025‑04‑25 | [ReasonIR\: Training Retrievers for Reasoning Tasks](<https://ai.meta.com/research/publications/reasonir-training-retrievers-for-reasoning-tasks/>) | Publication | Official page |
 | 2025‑04‑17 | [Collaborative Reasoner\: Self-improving Social Agents with Synthetic Conversations](<https://ai.meta.com/research/publications/collaborative-reasoner-self-improving-social-agents-with-synthetic-conversations/>) | Publication | Official page |
@@ -283,9 +285,9 @@
 | 2025‑02‑06 | [Meta Audiobox Aesthetics\: Unified Automatic Quality Assessment for Speech, Music, and Sound](<https://ai.meta.com/research/publications/meta-audiobox-aesthetics-unified-automatic-quality-assessment-for-speech-music-and-sound/>) | Publication | Official page |
 | 2025‑02‑06 | [From Thought to Action\: How a Hierarchy of Neural Dynamics Supports Language Production](<https://ai.meta.com/research/publications/from-thought-to-action-how-a-hierarchy-of-neural-dynamics-supports-language-production/>) | Publication | Official page |
 | 2025‑02‑06 | [Brain-to-Text Decoding\: A Non-invasive Approach via Typing](<https://ai.meta.com/research/publications/brain-to-text-decoding-a-non-invasive-approach-via-typing/>) | Publication | Official page |
-| 2025‑02‑03 | [Enhancing the Performance and Speed of Quantum Support Vector Classifier via Neural Quantum Embedding and Tensor Network](<https://doi.org/10.1109/aixmhc65380.2025.00018>) | Conference paper | OpenAlex |
 | 2025‑01‑30 | [LLMs can see and hear without any training](<https://arxiv.org/abs/2501.18096>) | Paper | Verified affiliation |
 | 2025‑01‑13 | [UnCommon Objects in 3D](<https://arxiv.org/abs/2501.07574>) | Paper | Verified affiliation |
+| 2025‑01‑10 | [Enhancing the Performance and Speed of Quantum Support Vector Classifier via Neural Quantum Embedding and Tensor Network](<https://doi.org/10.1109/aixmhc65380.2025.00018>) | Conference paper | OpenAlex |
 | 2025‑01‑04 | [Transformers are Multi-State RNNs](<https://ai.meta.com/research/publications/transformers-are-multi-state-rnns/>) | Publication | Official page |
 | 2025‑01‑02 | [A Structure-Aware Framework for Learning Device Placements on Computation Graphs](<https://ai.meta.com/research/publications/a-structure-aware-framework-for-learning-device-placements-on-computation-graphs/>) | Publication | Official page |
 | 2025‑01‑01 | [CATransformers\: Carbon Aware Transformers Through Joint Model-Hardware Optimization](<https://ai.meta.com/research/publications/catransformers-carbon-aware-transformers-through-joint-model-hardware-optimization/>) | Publication | Official page, OpenAlex |
