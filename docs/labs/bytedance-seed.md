@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1809`
-- Latest: `2026-10-01`
+- Papers: `1815`
+- Latest: `2026-10-07`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,9 +16,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑07 | [Expanding Guard Reach\: Online Learning-Driven Incremental Kernel Panic Diagnosis](<https://doi.org/10.1145/3832783.3834474>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [AlarmClaw\: Context-Enriched Alarm Management with Category-/Severity-Aware Incident Graphs](<https://doi.org/10.1145/3832783.3834524>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [RESTOR\: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning](<https://arxiv.org/abs/2607.23963>) | Article | OpenAlex |
 | 2026‑10‑01 | [FastCI\: Efficient GPU-Intensive CI for LLM Training Frameworks](<https://arxiv.org/abs/2610.01967v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [T2SPO\: Trajectory-to-Step Policy Optimization for Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.00388>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Scoring Higher, Answering Worse\: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](<https://arxiv.org/abs/2609.38847>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [PhysVista\: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop](<https://arxiv.org/abs/2610.00559>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Spectral graph filter bank fusion for multimodal rumor cascade representation and detection](<https://doi.org/10.1016/j.ipm.2026.105194>) | Article | OpenAlex |
 | 2026‑09‑29 | [MotionInsight\: Diagnosing Object Motion Deficiencies in Generated Videos](<https://arxiv.org/abs/2609.37030>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Learning from Think-Mode Advantage via On-Policy Distillation](<https://arxiv.org/abs/2609.37044>) | Preprint | OpenAlex |
@@ -533,6 +537,7 @@
 | 2026‑01‑01 | [FDGReID\: Federated Domain Generalization for Person Re-identification](<https://doi.org/10.1007/s10994-025-06974-z>) | Article | OpenAlex |
 | 2026‑01‑01 | [When Cache Poisoning Meets LLM Systems\: Semantic Cache Poisoning and Its Countermeasures](<https://doi.org/10.14722/ndss.2026.240200>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Unison\: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation](<https://arxiv.org/abs/2605.08729>) | Conference paper | OpenAlex |
+| 2026‑01‑01 | [UI-Most\: Leveraging Multi-agent Systems for One-Shot Automatic GUI Testing](<https://doi.org/10.1007/978-981-95-7084-3_10>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Towards Fair and Efficient Congestion Control Through Multi-Agent Deep Reinforcement Learning](<https://doi.org/10.1109/ton.2026.3653773>) | Article | OpenAlex |
 | 2026‑01‑01 | [SelfBudgeter\: Adaptive Token Allocation for Efficient LLM Reasoning](<https://arxiv.org/abs/2505.11274>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [SDAR-VL\: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding](<http://arxiv.org/abs/2512.14068>) | Conference paper | OpenAlex |
@@ -1380,6 +1385,7 @@
 | 2024‑12‑02 | [Query Performance Explanation through Large Language Model for HTAP Systems](<http://arxiv.org/abs/2412.01709>) | Preprint | OpenAlex |
 | 2024‑12‑02 | [I Can See Your Secrets, A Way to Recognize User Pin Codes by Surveillance Camera](<https://doi.org/10.1109/swc62898.2024.00358>) | Conference paper | OpenAlex |
 | 2024‑12‑01 | [DocPedia\: unleashing the power of large multimodal model in the frequency domain for versatile document understanding](<https://doi.org/10.1007/s11432-024-4250-y>) | Article | OpenAlex |
+| 2024‑12‑01 | [MuxFlow\: efficient GPU sharing in production-level clusters with more than 10000 GPUs](<https://doi.org/10.1007/s11432-024-4227-2>) | Article | OpenAlex |
 | 2024‑12‑01 | [ROSE\: A Reward-Oriented Data Selection Framework for LLM Task-Specific Instruction Tuning](<http://arxiv.org/abs/2412.00631>) | Preprint | OpenAlex |
 | 2024‑11‑27 | [SALMONN-omni\: A Codec-free LLM for Full-duplex Speech Understanding and Generation](<http://arxiv.org/abs/2411.18138>) | Preprint | OpenAlex |
 | 2024‑11‑27 | [A Real-World Benchmark for Evaluating Fine-Grained Issue Solving Capabilities of Large Language Models](<http://arxiv.org/abs/2411.18019>) | Preprint | OpenAlex |

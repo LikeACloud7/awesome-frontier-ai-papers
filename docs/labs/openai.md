@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `489`
-- Latest: `2026-10-06`
+- Papers: `491`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [Disrupting AI-enabled “false front” operations](<https://openai.com/index/disrupting-ai-enabled-false-front-operations>) | Research post | Official page |
 | 2026‑10‑06 | [Sharing AI progress in mathematics](<https://openai.com/index/sharing-ai-progress-in-mathematics>) | Research post | Official page |
 | 2026‑10‑06 | [Advancing computer use with Ironclad](<https://openai.com/index/advancing-computer-use-with-ironclad>) | Research post | Official page |
 | 2026‑10‑05 | [Our approach to EU text provenance rules](<https://openai.com/index/eu-text-provenance>) | Research post | Official page |
@@ -41,6 +42,7 @@
 | 2026‑09‑03 | [GPT-6 Astra\: A new generation of intelligence](<https://openai.com/index/gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑01 | [Path to Astra\: critical capabilities and frontier safeguards](<https://openai.com/index/path-to-astra>) | Research post | Official page |
 | 2026‑08‑26 | [Visual General Intelligence\: A White Paper](<https://deepmind.google/research/publications/270149/>) | Publication | Official page, Verified affiliation |
+| 2026‑08‑25 | [Disrupting a new covert influence campaign from Russia](<https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia>) | Research post | Official page |
 | 2026‑08‑18 | [LifeSciBench\: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences](<https://doi.org/10.64898/2026.08.13.744657>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [Scientific computing in the age of agentic AI\: an exploratory field report](<https://doi.org/10.64898/2026.07.29.741496>) | Preprint | OpenAlex |
 | 2026‑08‑01 | [Ten advances in mathematics and theoretical computer science](<https://openai.com/index/ten-advances-in-mathematics>) | Research post | Official page |

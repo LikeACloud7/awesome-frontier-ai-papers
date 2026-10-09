@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2023`
+- Papers: `2032`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#nvidia)
 
@@ -16,23 +16,32 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑06 | [PLUTO\: An Agentic AI Tool for Interactive Spacecraft Rendezvous Trajectory Design](<https://doi.org/10.48550/arxiv.2610.07573>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Evaluating Safety Embedding Prefiltering for Analyzing Millions of LLM Agent Social Network Messages for Security and Safety Harms](<https://doi.org/10.3390/ai7100409>) | Article | OpenAlex |
+| 2026‑10‑06 | [NeMo-DCR\: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](<https://arxiv.org/abs/2610.08430v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [Beyond Semantic Similarity\: Performance and Costs of Agentic Retrieval for Complex Tasks](<https://arxiv.org/abs/2610.05750v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [PIGNN3D\: an accelerated physics-informed graph neural network for 3D thermal field simulation in data centers](<https://doi.org/10.1007/s44267-026-00131-3>) | Article | OpenAlex |
 | 2026‑10‑01 | [VETO\: Video Efficient Token Optimization for Vision Language Models](<https://arxiv.org/abs/2610.01785>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Unitary fault-tolerant encoding of Pauli states in surface codes](<http://arxiv.org/abs/2601.05113>) | Article | OpenAlex |
+| 2026‑10‑01 | [Serving a Revisable World\: Versioned Execution for Interruptible Agents](<https://arxiv.org/abs/2610.01160>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Recova\: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](<https://arxiv.org/abs/2610.01178>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [RMS-AQA\: A Two-Stage Spatial Audio Question Answering Benchmark for Real-World Domestic Environments](<https://arxiv.org/abs/2610.00935>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [OrbitTAMP\: Grounding Language Models for Task and Motion Planning in Spacecraft Rendezvous](<https://arxiv.org/abs/2610.01093>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Fewer Tokens, Better Action\: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens](<https://arxiv.org/abs/2610.01939>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [CrossGMN\: Graph Metanetworks for Cross-Architecture Weight-Space Transformations](<https://arxiv.org/abs/2610.01649>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Automatically Generating ML Compiler Backends from Tensor Accelerator ISA Descriptions](<https://arxiv.org/abs/2510.09932>) | Article | OpenAlex |
-| 2026‑10‑01 | [Physical AI Smart Spaces\: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](<https://arxiv.org/abs/2610.02580v1>) | Paper | Verified affiliation |
+| 2026‑10‑01 | [A-GHOST\: High-rate streaming of trigger-level data to programmable GPU inference](<https://arxiv.org/abs/2610.01761>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [Physical AI Smart Spaces\: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](<https://arxiv.org/abs/2610.02580v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑30 | [Vision wearables with artificial intelligence to close the sensory gap in patient characterization](<https://doi.org/10.1038/s41746-026-03156-6>) | Article | OpenAlex |
+| 2026‑09‑30 | [VANDAM\: Viewing a nucleotide sequence with DNA molecular priors](<https://arxiv.org/abs/2610.00411>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [PivotOPD\: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents](<https://arxiv.org/abs/2609.40285>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [ML-Predicted EOTPR Reference Waveforms from CAD with Layout-Aware Correlation for Efficient Fault Isolation in Advanced Packages](<https://doi.org/10.31399/asm.cp.istfa2026p0038>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Game-Guided Skill Discovery through Self-Play for Playable Agent Control](<https://arxiv.org/abs/2609.40137>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Covert Assistance\: Helpful LLM Agents Evade Oversight in Multi-Agent Systems](<https://arxiv.org/abs/2609.39050>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [Counterfactual Predictions in Scientific Emulators Without Controlled Experiments](<https://arxiv.org/abs/2610.02252>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [AI-Driven Super-Resolution Enhancement of Scanning Electron Microscopy Images for Semiconductor Failure Analysis](<https://doi.org/10.31399/asm.cp.istfa2026p0616>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [A library for differentiable signal processing and machine learning on the sphere](<https://arxiv.org/abs/2609.39737>) | Preprint | OpenAlex |
-| 2026‑09‑30 | [MegaFlux\: Skew-Resilient MoE Megakernels via Pipelined Expert Replication](<https://arxiv.org/abs/2610.00671v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [MegaFlux\: Skew-Resilient MoE Megakernels via Pipelined Expert Replication](<https://arxiv.org/abs/2610.00671v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑29 | [Purlin\: Separating Orchestration from the Datapath of Collectives](<https://arxiv.org/abs/2609.36954>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Cross-Entropy Guided Routing in Mixture-of-Experts Large Language Models](<https://arxiv.org/abs/2609.37751>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [SoL-Refiner\: Speed-of-Light One-Step Refinement for High-Resolution Video](<https://arxiv.org/abs/2609.37969v1>) | Paper | Verified affiliation |
@@ -248,7 +257,7 @@
 | 2026‑06‑14 | [Enabling the Robotic Revolution\: Bridging Performance Gap Between Present and Future](<https://doi.org/10.1109/vlsitechnologyandcir65830.2026.11577440>) | Conference paper | OpenAlex |
 | 2026‑06‑12 | [Nemotron 3 Ultra\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](<https://huggingface.co/papers/2606.15007>) | Paper | Hugging Face |
 | 2026‑06‑12 | [Rethinking the use of deep learning methods for photovoltaic power forecasting](<https://doi.org/10.1038/s41467-026-73817-3>) | Article | OpenAlex |
-| 2026‑06‑10 | [MiniMax Sparse Attention](<https://huggingface.co/papers/2606.13392>) | Technical report | Official page, Verified affiliation |
+| 2026‑06‑10 | [MiniMax Sparse Attention](<https://huggingface.co/papers/2606.13392>) | Technical report | Official page, Verified affiliation, Hugging Face |
 | 2026‑06‑10 | [Explainability Under Risk\: A Decision-Centric Framework for Critical AI Systems](<https://doi.org/10.1109/icici68773.2026.11581130>) | Conference paper | OpenAlex |
 | 2026‑06‑09 | [Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction](<https://arxiv.org/abs/2606.11508>) | Article | OpenAlex |
 | 2026‑06‑08 | [scFAIR Consortium\: a decentralized hub for single-cell RNA-Seq data standardization and unification](<https://doi.org/10.64898/2026.06.05.730084>) | Preprint | OpenAlex |

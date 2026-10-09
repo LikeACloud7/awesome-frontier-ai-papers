@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `244`
-- Latest: `2026-10-03`
+- Papers: `248`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,9 +21,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [The missing map of the sky](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) | Research post | Official page |
+| 2026‑10‑08 | [Launching an opt-in vulnerability-finding service for open-source software](<https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source>) | Research post | Official page |
 | 2026‑10‑03 | [A Bird's-Eye View of Iterative Reward Design](<https://arxiv.org/abs/2610.04364>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Claude-shaped science](<https://www.anthropic.com/research/claude-shaped-science>) | Research post | Official page |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
+| 2026‑10 | [Claude Haiku 5\.5 System Card](<https://www.anthropic.com/claude-haiku-5-5-system-card>) | Model card | Official page |
 | 2026‑09‑30 | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
@@ -38,6 +41,7 @@
 | 2026‑09‑10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) | Research post | Official page |
 | 2026‑09‑09 | [An alignment assessment of recent cybersecurity incidents](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) | Research post | Official page |
 | 2026‑09‑04 | [Formalizing Fermat's Last Theorem](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) | Research post | Official page |
+| 2026‑09 | [Claude Sonnet 5\.5 System Card](<https://www.anthropic.com/claude-sonnet-5-5-system-card>) | Model card | Official page |
 | 2026‑09 | [Claude Opus 5\.5 System Card](<https://www.anthropic.com/claude-opus-5-5-system-card>) | Model card | Official page |
 | 2026‑09 | [Claude Fable 5\.1 and Mythos 5\.1 System Card](<https://www.anthropic.com/claude-fable-5-1-mythos-5-1-system-card>) | Model card | Official page |
 | 2026‑08‑31 | [Evaluating and Improving LLM Self-Modeling](<https://arxiv.org/abs/2608.30980v1>) | Paper | Verified affiliation |

@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3561`
-- Latest: `2026-10-06`
+- Papers: `3569`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,19 +16,26 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [Cybersecurity Challenges and Solutions in Digital Supply Chain Networks](<https://doi.org/10.4018/979-8-3373-3740-1.ch008>) | Book chapter | OpenAlex |
+| 2026‑10‑07 | [ReCodeAgent\: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories](<https://doi.org/10.1145/3832783.3837486>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Conflict Extraction in Probabilistic Datalog Analyses](<https://doi.org/10.1145/3832783.3834404>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Uncovering the Limits of Proof Sharing for Neural Networks](<https://arxiv.org/abs/2608.19351>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [Reviewing Legal Privilege and Confidentiality Challenges in Enterprise Deployment of Large Language Models](<https://doi.org/10.56201/jlgp.vol.10.no3.2025.pg150.176>) | Article | OpenAlex |
 | 2026‑10‑05 | [Application of LLM Agents for Long-Form Question Answering in Systems Biology](<https://doi.org/10.1007/978-3-032-37682-4_19>) | Conference paper | OpenAlex |
+| 2026‑10‑03 | [ALoDLM\: Adaptively Looped Diffusion Language Models](<https://arxiv.org/abs/2610.04198>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [TNG-CLIP\:Training-Time Negation Data Generation for Negation Awareness of CLIP](<http://arxiv.org/abs/2505.18434>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [Learning Query Encoders Can Be Hard Even When Vector Retrieval Is Geometrically Easy](<https://arxiv.org/abs/2610.02749>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Detecting Database Migration Non-equivalence through LLM-Assisted Mutation-Score-Guided Testing](<https://doi.org/10.1145/3843750.3843845>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Bridging Requirements and Assurance\: Neurosymbolic Autoformalization for C++ Verification and Requirements-Coverage Testing (Keynote)](<https://doi.org/10.1145/3842652.3850233>) | Conference abstract | OpenAlex |
 | 2026‑10‑01 | [Generalized robust adaptive-bandwidth MultiView manifold learning in high dimensions with noise](<http://arxiv.org/abs/2602.10530>) | Article | OpenAlex |
 | 2026‑10‑01 | [NSync\: Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](<https://doi.org/10.1145/3832121>) | Article | OpenAlex |
 | 2026‑10‑01 | [LLMutantKiller\: Using Large Language Models to Generate Tests That Kill Mutants](<https://doi.org/10.1145/3832098>) | Article | OpenAlex |
 | 2026‑10‑01 | [Incremental Program Synthesis from Event Logs](<https://doi.org/10.1145/3839460>) | Article | OpenAlex |
+| 2026‑10‑01 | [Hierarchical Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.02193>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Improving Math Reasoning through Value-guided Informative Search](<https://arxiv.org/abs/2610.01080v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Vision\: HomeLM for Ambient Intelligence in the Smart Home](<https://doi.org/10.1145/3842436.3843789>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Multi-LLM Collaborative Alignment via Stackelberg Games](<https://arxiv.org/abs/2609.39076>) | Preprint | OpenAlex |
+| 2026‑09‑30 | [MANTA\: Machine Learning Augmented Tiering Advisor](<https://arxiv.org/abs/2610.00714>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [HeadSense\: Head Orientation Tracking for AI Wearables using Ultra-Wideband Ranging](<https://doi.org/10.1145/3842436.3843787>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [A Fine-Grained Benchmark for Ophthalmic Foundation Models with Point-Based Classification and Retrieval](<https://doi.org/10.21203/rs.3.rs-10817915/v1>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Training LLM Judges from Language Feedback via Position-Selective Self-Distillation](<https://arxiv.org/abs/2609.38792v1>) | Paper | Verified affiliation, OpenAlex |
@@ -38,6 +45,7 @@
 | 2026‑09‑29 | [Hermes\: Learning Contextual Reasoning Unlocks Test-Time Scaling](<https://arxiv.org/abs/2609.38332>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Demographic Pluralism\: Inference-Time Modeling of Pluralistic Human Preference Distributions](<https://arxiv.org/abs/2609.38555>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [CRJudgeBench\: Can AI Detect Plausible but Invalid Code Reviews?](<https://arxiv.org/abs/2609.37216>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [Breaking Babel\: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation](<https://arxiv.org/abs/2609.38660>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Beyond the Timeline\: Augmenting Long-Video Memory with Grounded Entity Biographies](<https://arxiv.org/abs/2609.38155>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [LIFT\: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation](<https://arxiv.org/abs/2609.38146v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [DEdit\: Iterative Draft Editing for Speculative Decoding](<https://arxiv.org/abs/2609.38510v1>) | Paper | OpenAlex, Verified affiliation |
@@ -1017,7 +1025,7 @@
 | 2026 | [Diagnostic knowledge graphs\: Automated benchmark construction and deterministic evaluation for multi-step reasoning agents](<https://www.amazon.science/publications/diagnostic-knowledge-graphs-automated-benchmark-construction-and-deterministic-evaluation-for-multi-step-reasoning-agents>) | Publication | Official page |
 | 2026 | [DiTailed\: Ensuring visual object consistency in text-image-to-image flow matching models](<https://www.amazon.science/publications/ditailed-ensuring-visual-object-consistency-in-text-image-to-image-flow-matching-models>) | Publication | Official page, OpenAlex |
 | 2026 | [Detecting hallucinations in SpeechLLMs at inference time using attention maps](<https://www.amazon.science/publications/detecting-hallucinations-in-speechllms-at-inference-time-using-attention-maps>) | Publication | Official page |
-| 2026 | [Deployment risk assessment using diff-aware features\: A case study at Prime Video](<https://www.amazon.science/publications/deployment-risk-assessment-using-diff-aware-features-a-case-study-at-prime-video>) | Publication | Official page |
+| 2026 | [Deployment risk assessment using diff-aware features\: A case study at Prime Video](<https://www.amazon.science/publications/deployment-risk-assessment-using-diff-aware-features-a-case-study-at-prime-video>) | Publication | Official page, OpenAlex |
 | 2026 | [Deploying programmatic tool calling with pre-execution validation for production agentic systems](<https://www.amazon.science/publications/deploying-programmatic-tool-calling-with-pre-execution-validation-for-production-agentic-systems>) | Publication | Official page |
 | 2026 | [Dependence-aware label aggregation for LLM-as-a-judge via Ising models](<https://www.amazon.science/publications/dependence-aware-label-aggregation-for-llm-as-a-judge-via-ising-models>) | Publication | Official page |
 | 2026 | [Delta debugging for LLM-integrated systems](<https://www.amazon.science/publications/delta-debugging-for-llm-integrated-systems>) | Publication | Official page, OpenAlex |

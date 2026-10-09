@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3906`
-- Latest: `2026-10-06`
+- Papers: `3917`
+- Latest: `2026-10-07`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -87,16 +87,26 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑07 | [eARCO\: Efficient Automated Root Cause Analysis with Prompt Optimization](<http://arxiv.org/abs/2504.11505>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [When Does AI Actually Help in Incident Response? Identifying Good First Messages in Cloud Service Incidents](<https://doi.org/10.1145/3832783.3837473>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](<http://arxiv.org/abs/2602.03181>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Debug2Fix\: Can Interactive Debugging Help Coding Agents Fix More Bugs?](<https://arxiv.org/abs/2602.18571>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Learning the electronic health record at the minute-scale](<https://doi.org/10.64898/2026.10.04.26364562>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://arxiv.org/abs/2610.09085v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [RESOLVE\: Language-Agnostic Validation of GPU Kernels Through Testing, Reduction, and Proof](<https://arxiv.org/abs/2610.05683v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [TeleTune\: Evolving Agent Skills From Offline Telemetry](<https://arxiv.org/abs/2610.05437v1>) | Paper | Verified affiliation |
+| 2026‑10‑02 | [Understanding Enrichment in Reinforcement Learning](<https://arxiv.org/abs/2610.02846>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [The Recognition-Consequence Gap\: How Gesture Recognition Misses Human Action](<https://doi.org/10.1145/3776574.3830076>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Intent Formalization\: Assessing the Quality of AI-Generated Formal Program Specifications (Keynote)](<https://doi.org/10.1145/3842652.3850232>) | Conference abstract | OpenAlex |
+| 2026‑10‑02 | [Dynamic Expert Pruning for Multi-Agent Systems](<https://arxiv.org/abs/2610.02951>) | Preprint | OpenAlex |
 | 2026‑10‑02 | ["Great! The Next Step Is\.\.\."\: In Pursuit of Proactive Assistance with Multimodal Foundation Models](<https://doi.org/10.1145/3776574.3831228>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Equivalence Checking of ML GPU Kernels](<https://arxiv.org/abs/2511.12638>) | Article | OpenAlex |
 | 2026‑10‑01 | [Tracking Borrows with Regular Expressions](<https://doi.org/10.1145/3839521>) | Article | OpenAlex |
 | 2026‑10‑01 | [The Conversation We’re Not Having about AI in Peer Review](<https://doi.org/10.1145/3840586.3843746>) | Conference paper | OpenAlex |
+| 2026‑10‑01 | [Teaching LLMs to Hear Who Spoke What\: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs](<https://arxiv.org/abs/2610.01695>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Replanning human–robot collaborative tasks with vision–language models via semantic and physical dual–correction](<https://arxiv.org/abs/2602.14551>) | Article | OpenAlex |
+| 2026‑10‑01 | [Old Ideas, Novel Problems\: The Instability of LLM-Based Novelty Evaluation](<https://arxiv.org/abs/2610.02022>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [Knockoff-Guided Compressive Sensing\: A Statistical Machine Learning Framework for Support-Assured Signal Recovery](<http://arxiv.org/abs/2505.24727>) | Article | OpenAlex |
 | 2026‑10‑01 | [How Does Killing Surviving Mutants Help Detect Real Bugs with Assertion Generation? A Controlled Experiment](<https://doi.org/10.1145/3832232>) | Article | OpenAlex |
 | 2026‑10‑01 | [Fixed-point neural samplers on discrete spaces](<https://arxiv.org/abs/2610.01739>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Agents as Software\: A Programming Languages Agenda for Agent Reliability](<https://arxiv.org/abs/2609.32198>) | Conference paper | OpenAlex |
@@ -107,6 +117,7 @@
 | 2026‑09‑30 | [Where's Waldo? Query-language Preference under Cross-lingual Knowledge Disparities](<https://arxiv.org/abs/2610.00606>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Transforming Illness to Wellness\: AI, Sensors, and Care on Demand](<https://doi.org/10.30953/thmt.v11.768>) | Article | OpenAlex |
 | 2026‑09‑30 | [The Three Bodies Framework\: A Hands-On Method for Gesture Analysis in HCI](<https://doi.org/10.1145/3821402.3830223>) | Conference paper | OpenAlex |
+| 2026‑09‑30 | [Mixture of Decoders for Diverse Dialog Response Generation](<https://arxiv.org/abs/2610.00621>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [IMoKGNN\: Dual-Stream Fusion of Generic and Task-Specific Language Model Features for Graph Neural Networks](<https://doi.org/10.1145/3848635>) | Article | OpenAlex |
 | 2026‑09‑30 | [A strategic roadmap for an atomistic machine-learning ecosystem](<https://arxiv.org/abs/2609.39090>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](<https://arxiv.org/abs/2609.40118v1>) | Paper | Verified affiliation, OpenAlex |
@@ -1234,7 +1245,7 @@
 | 2026‑04‑03 | [The Tool Illusion\: Rethinking Tool Use in Web Agents](<https://www.microsoft.com/en-us/research/publication/the-tool-illusion-rethinking-tool-use-in-web-agents/>) | Publication | Official page |
 | 2026‑04‑03 | [Learning Additively Compositional Latent Actions for Embodied AI](<https://www.microsoft.com/en-us/research/publication/learning-additively-compositional-latent-actions-for-embodied-ai/>) | Publication | Official page |
 | 2026‑04‑03 | [A Discussion on “The ICML 2023 Ranking Experiment\: Examining Author Self-Assessment in ML/AI Peer Review”](<https://doi.org/10.1080/01621459.2025.2549338>) | Article | OpenAlex |
-| 2026‑04‑02 | [CORAL\: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](<https://www.microsoft.com/en-us/research/publication/coral-towards-autonomous-multi-agent-evolution-for-open-ended-discovery/>) | Publication | Official page |
+| 2026‑04‑02 | [CORAL\: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](<https://www.microsoft.com/en-us/research/publication/coral-towards-autonomous-multi-agent-evolution-for-open-ended-discovery/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑02 | [GeoAI Agency Primitives](<https://www.microsoft.com/en-us/research/publication/geoai-agency-primitives/>) | Publication | Official page |
 | 2026‑04‑02 | [STRIVE\: Structured Spatiotemporal Exploration for Reinforcement Learning in Video Question Answering](<https://www.microsoft.com/en-us/research/publication/strive-structured-spatiotemporal-exploration-for-reinforcement-learning-in-video-question-answering/>) | Publication | Official page |
 | 2026‑04‑02 | [Magic, Madness, Heaven, Sin\: LLM Output Diversity is Everything, Everywhere, All at Once](<https://www.microsoft.com/en-us/research/publication/magic-madness-heaven-sin-llm-output-diversity-is-everything-everywhere-all-at-once/>) | Publication | Official page |

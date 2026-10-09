@@ -1,19 +1,21 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1471`
-- Latest: `2026-10-05`
+- Papers: `1473`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [Normalizing Trajectory Models](<https://machinelearning.apple.com/research/normalizing-trajectory-models>) | Publication | Official page |
 | 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
 | 2026‑10‑05 | [Stepped MoE\: Segment-Level Routing with Configurable Inference Complexity](<https://arxiv.org/abs/2610.07348v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
 | 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
 | 2026‑10‑01 | [RISED\: Rubrics for Agentic Multi-Environment Selection and Self-Distillation](<https://machinelearning.apple.com/research/rised-multi-environment-selection>) | Publication | OpenAlex, Official page |
+| 2026‑10‑01 | [DeReAct\: Decomposed Reasoning and Acting for Reliable AI Agents](<https://arxiv.org/abs/2610.02351>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [On the Effectiveness-Fluency Trade-Off in LLM Conditioning\: A Systematic Study](<https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning>) | Publication | Official page |
 | 2026‑09‑30 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page, OpenAlex |
 | 2026‑09‑30 | [Visualizing Distribution Coverage in Generative Diffusion Models](<https://arxiv.org/abs/2609.38853>) | Preprint | OpenAlex |

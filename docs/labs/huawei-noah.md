@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `3977`
-- Latest: `2026-10-07`
+- Papers: `3991`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,14 +15,27 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [From C to Idiomatic Rust\: A Ship-of-Theseus Agentic Translation](<https://arxiv.org/abs/2607.28835>) | Conference paper | OpenAlex |
+| 2026‑10‑08 | [Factors Influencing User Satisfaction with Artificial Intelligence Applications\: An Integrated Approach of Semantic Network and BP Neural Network](<https://doi.org/10.54097/z6caqg52>) | Article | OpenAlex |
 | 2026‑10‑07 | [ns3-agent\: Fostering Integrated Perception-Communication-Computing Research for Agentic AI Services via Cross-Platform Co-Simulations](<https://doi.org/10.1145/3837358.3837360>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [When Elo Lies\: Hidden Biases in Codeforces-Based Evaluation of Large Language Models in Practice](<https://doi.org/10.1145/3832783.3834458>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Smart Brain\: Semantic Anomaly Detection for Operational Time Series in Large Scale Service Systems](<https://doi.org/10.1145/3832783.3837436>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Revisiting LLMs on New Feature Implementation in Real-World Software Development Practices](<https://doi.org/10.1145/3832783.3837511>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [No Isolated Evolution, No Blind Search\: Memory-Guided Prompt Co-evolution for Industrial Multi-agent Vulnerability Detection](<https://doi.org/10.1145/3832783.3834522>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Multimodal semantic communications](<https://doi.org/10.1038/s44287-026-00336-0>) | Review | OpenAlex |
+| 2026‑10‑07 | [LLM-Assisted Joint Ticket and Log Analysis for Incident Triage in Intelligent and Connected Vehicles](<https://doi.org/10.1145/3832783.3834521>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Every Scenario Matters\: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs](<https://doi.org/10.1145/3832783.3834381>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [0-RTT Integrated in SPDM for Large-Scale AI Super-Clusters](<https://doi.org/10.1007/978-3-032-38692-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [A Safe Action Is Not Enough\: Feasible-Future Decoding for Vision-Language-Action Policies](<https://huggingface.co/papers/2610.05166>) | Preprint | Official page |
 | 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [Rethinking Tool Design for Agentic RCA\: A Controlled Empirical Study](<https://arxiv.org/abs/2610.05009v1>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [DriftSR\: One-Step Real-World Image Super-Resolution via Distribution Drifting](<https://arxiv.org/abs/2610.04819v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [XSearch\: Explainable Code Search via Concept-to-Code Alignment](<https://arxiv.org/abs/2605.16046>) | Article | OpenAlex |
 | 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
+| 2026‑10‑01 | [SEDIMA\: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents](<https://arxiv.org/abs/2610.02361>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [MoE-CORE\: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](<https://arxiv.org/abs/2610.01950>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
+| 2026‑10‑01 | [CC-VLA\: Learning Control-Aware Compliance VLA Model for Robust Contact-Rich Robotic Manipulation](<https://doi.org/10.1109/lra.2026.3739025>) | Article | OpenAlex |
 | 2026‑10‑01 | [Advancing 3D Gaussian Splatting in inverse rendering through flashlight augmentation](<https://doi.org/10.1016/j.jvcir.2026.104996>) | Article | OpenAlex |
 | 2026‑09‑30 | [Self-Evolving Algorithm-Design Agents\: Escaping In-Context Evolutionary Stagnation via Population-Curated Policy Optimization](<https://arxiv.org/abs/2609.38757>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [RefCon\: Iterative Refinement and Contrastive Memory Extraction for Context-Evolving Agent](<https://arxiv.org/abs/2609.39143>) | Preprint | OpenAlex |
@@ -33,6 +46,7 @@
 | 2026‑09‑30 | [Distill the Visual Evidence, Not Just the Answer\: Cross-World On-Policy Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.38777v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [VidAct\: Learning Manipulation from In-the-Wild Videos with Object-Centric 3D Awareness](<https://arxiv.org/abs/2609.36870>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VACE\: Validation-Gated Alternating Co-Evolution of Agent Models and Harnesses](<https://arxiv.org/abs/2609.37105>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [The Weakest Link\: Distilling LLM Reasoning with Worst-Case Constrained Reinforcement Learning](<https://arxiv.org/abs/2610.00332>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [ReCAP\: Retrieval-Guided Capability Reuse for Multimodal Continual Instruction Tuning](<https://arxiv.org/abs/2609.37889>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [NetLexicon\: Learning Discrete Behavioral Representations for Encrypted Web Traffic Analysis](<https://arxiv.org/abs/2609.37672>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [How Should Diffusion Language Models Edit Code?](<https://arxiv.org/abs/2609.38257>) | Preprint | OpenAlex |

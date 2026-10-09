@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3780`
-- Latest: `2026-10-06`
+- Papers: `3791`
+- Latest: `2026-10-07`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,9 +19,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑07 | [Regression Accumulation in Multi-turn LLM Programming Conversations](<https://doi.org/10.1145/3832783.3834357>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [ReVerTree\: Recursive Verification Tree for Self-checking Mathematical Reasoning](<https://doi.org/10.1007/978-981-92-5696-9_14>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [AlphaVibe\: An LLM-Powered In-Context Adaptation Framework for Alpha Generation](<https://doi.org/10.1007/978-981-92-5696-9_26>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [ABACI\: Automated Downstream Bug Resolution via Semantic-Aware Bisection and Convergent Backporting](<https://doi.org/10.1145/3832783.3834466>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [SE-Former\: Skeleton-Enhanced Learning Framework for 3D Human Motion Prediction](<https://doi.org/10.1145/3856803>) | Article | OpenAlex |
 | 2026‑10‑05 | [TRACE\: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](<https://huggingface.co/papers/2610.07767>) | Preprint | Official page |
 | 2026‑10‑03 | [The GPU Resilience Lottery\: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure](<https://doi.org/10.1145/3849815>) | Article | OpenAlex |
+| 2026‑10‑02 | [Learning to Revise Reasoning with Segment-wise On-Policy Distillation](<https://arxiv.org/abs/2610.02703>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [HyperBrowseComp\: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](<https://arxiv.org/abs/2610.03574>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [OverAct\: Measuring and Mitigating Proactive Over-Authorization in LLM Tool-Calling Agents](<https://arxiv.org/abs/2610.01508>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [My FAULT\: Self-Diagnosis as Credit Assignment in Self-Evolving Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.01161>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [MoLE\: Mixture of Latent Experts for Complementary Visual Reasoning](<https://arxiv.org/abs/2610.01917>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [DeFA\: Dependency-Guided Failure Attribution for LLM Agents](<https://arxiv.org/abs/2610.01256>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [StateTree\: Enhancing Long-Term Dialogue Reasoning via Reinforcement Learning](<https://arxiv.org/abs/2609.38809>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [SCIC\: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS](<https://arxiv.org/abs/2609.39088>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [MatrixReward\: Reward from Rubric Matrix for Open-Ended Generation](<https://arxiv.org/abs/2610.00389>) | Preprint | OpenAlex |
@@ -63,6 +73,7 @@
 | 2026‑09‑26 | [QwenGyre\: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](<https://huggingface.co/papers/2609.33848>) | Preprint | Official page, Hugging Face, OpenAlex |
 | 2026‑09‑26 | [Representation Editing for Multimodal Test-Time Adaptation](<https://arxiv.org/abs/2609.32263>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [MM-OPD\: Towards One More Bottleneck Between Perception and Reasoning](<https://arxiv.org/abs/2609.32690>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [Certainty Is Not Just Correctness\: Rethinking Token-Level Certainty in LLM Reasoning](<https://arxiv.org/abs/2610.00296>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [Towards Full Candidate Interaction\: A Comprehensive Comparison Network for Better Route Recommendation](<https://arxiv.org/abs/2508.08745>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [TSSR-Beta\: Enhancing Billion-Scale E-Commerce Semantic Retrieval via Representation-Level Interaction](<https://doi.org/10.1145/3773078.3831933>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [NextGen\: A Multi-Objective Generative Re-ranking Framework for Taobao Recommendation](<https://doi.org/10.1145/3773078.3831881>) | Conference paper | OpenAlex |

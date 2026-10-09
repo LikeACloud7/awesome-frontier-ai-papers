@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `424`
-- Latest: `2026-10-06`
+- Papers: `431`
+- Latest: `2026-10-08`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -21,6 +21,7 @@
 | n\.d\. | [VIP\: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training (ICLR 2023, Spotlight)](<https://github.com/facebookresearch/vip/blob/main/evaluation/mj_envs/mj_envs/white_paper_2020.pdf>) | Technical report | Official repo |
 | n\.d\. | [Unbiased Prevalence Estimation with Multicalibrated LLMs](<https://github.com/facebookresearch/multicalibrated_llm_measurement/blob/main/paper/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tutorial on Amortized Optimization](<https://github.com/facebookresearch/amortized-optimization-tutorial/blob/main/paper/fig/control-model-based-iter.pdf>) | Technical report | Official repo |
+| n\.d\. | [This repo is deprecated\.](<https://github.com/facebookresearch/dynabench/blob/main/frontends/web/public/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [TextVQA Website](<https://github.com/facebookresearch/TextVQA/blob/main/frontend/public/assets/paper/TextVQA.pdf>) | Technical report | Official repo |
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
 | n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
@@ -32,12 +33,16 @@
 | n\.d\. | [Metaseq](<https://github.com/facebookresearch/metaseq/blob/main/projects/OPT-IML/optiml_paper_v1.pdf>) | Technical report | Official repo |
 | n\.d\. | [KernelBench-Verified\: Do LLM-Generated Kernels Actually Beat PyTorch?](<https://github.com/facebookresearch/kernel_bench_verified/blob/main/KernelBench_Verified_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [FaceMap](<https://github.com/facebookresearch/FaceMap/blob/main/paper/FaceMap__Distortion_Driven_Perceptual_Facial_Saliency_Maps.pdf>) | Technical report | Official repo |
+| n\.d\. | [Explaining Mispredictions of Machine Learning Models using Rule Induction](<https://github.com/facebookresearch/mmd/blob/main/paper/FSE21-ML-Misprediction-Preprint.pdf>) | Technical report | Official repo |
 | n\.d\. | [Env variables](<https://github.com/facebookresearch/MLGym/blob/main/assets/mlgym_paper_diagram.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
+| 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [PEG for Information Flow\: Analysis and Incremental Reasoning](<https://doi.org/10.1007/978-3-032-40374-2_10>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
@@ -46,6 +51,7 @@
 | 2026‑10‑02 | [Semiabelian Groups Need Not Be Monomial](<https://ai.meta.com/research/publications/semiabelian-groups-need-not-be-monomial/>) | Publication | Official page |
 | 2026‑10‑02 | [On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez](<https://ai.meta.com/research/publications/on-solvable-evolution-algebras-and-a-conjecture-by-garcia-martinez-and-perez-rodriguez/>) | Publication | Official page |
 | 2026‑10‑02 | [Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation](<https://ai.meta.com/research/publications/finite-time-blow-up-of-radial-negative-energy-solutions-for-the-mass-critical-biharmonic-nonlinear-schrodinger-equation/>) | Publication | Official page |
+| 2026‑10‑02 | [RaBitQ-SSD\: Split Codes and Pipelined I/O for SSD-Resident Vector Search](<https://arxiv.org/abs/2610.02652>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |
@@ -141,6 +147,7 @@
 | 2026‑05‑19 | [EgoBabyVLM\: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data](<https://ai.meta.com/research/publications/egobabyvlm-benchmarking-cross-modal-learning-from-naturalistic-egocentric-video-data/>) | Publication | Official page |
 | 2026‑05‑18 | [WavFlow\: Audio Generation in Waveform Space](<https://arxiv.org/abs/2605.18749>) | Paper | Verified affiliation |
 | 2026‑05‑17 | [GIM\: Evaluating models via tasks that integrate multiple cognitive domains](<https://ai.meta.com/research/publications/gim-evaluating-models-via-tasks-that-integrate-multiple-cognitive-domains/>) | Publication | Official page |
+| 2026‑05‑15 | [Customizing an LLM for Enterprise Software Engineering](<https://arxiv.org/abs/2605.16517v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑05‑14 | [The 99% Success Paradox\: When Near-Perfect Retrieval Equals Random Selection](<https://arxiv.org/abs/2605.18857>) | Article | OpenAlex |
 | 2026‑05‑12 | [NeuralSet\: A High-Performing Python Package for Neuro-AI](<https://ai.meta.com/research/publications/neuralset-a-high-performing-python-package-for-neuro-ai/>) | Publication | Official page |
 | 2026‑05‑11 | [DANCE\: Detect and Classify Events in EEG](<https://arxiv.org/abs/2605.10688>) | Paper | Verified affiliation |

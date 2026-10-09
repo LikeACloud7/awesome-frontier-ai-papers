@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1085`
+- Papers: `1087`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#baidu)
 
@@ -11,6 +11,8 @@
 |---|---|---|---|
 | 2026‑10‑06 | [Detecting Adversarial Illicit Promotional Images via Threat-Driven Multimodal Analysis](<https://doi.org/10.1007/978-3-032-38702-8_14>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Controllable Orthogonalization for Stabilizing Neural Network Training in Deep Reinforcement Learning](<https://doi.org/10.3390/informatics13100162>) | Article | OpenAlex |
+| 2026‑10‑01 | [Resilience-based critical link ranking and combination identification in urban road networks across multi-scale disruption scenarios](<https://doi.org/10.1016/j.physa.2026.132132>) | Article | OpenAlex |
+| 2026‑10‑01 | [CriticHack\: Evaluating Visual Rewards Under Robot Policy Optimization](<https://arxiv.org/abs/2610.02527>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Towards rapid and reliable GNSS ambiguity resolution using residual-based machine learning in challenging environments](<https://doi.org/10.1186/s43020-026-00216-w>) | Article | OpenAlex |
 | 2026‑09‑30 | [Experimental Experience Modeling for Autonomous Research](<https://arxiv.org/abs/2609.39392>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [RESUME\: Recurrent State Updates from Motion and Residual Signals for Efficient Video Language Modeling](<https://arxiv.org/abs/2609.39563v1>) | Paper | Verified affiliation, OpenAlex |
