@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3705`
+- Papers: `3710`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -23,12 +23,14 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑08 | [Product evolution model (PEM)\: a functional semantic knowledge-driven framework for product technology landscape construction](<https://doi.org/10.1108/jedt-05-2026-0291>) | Article | OpenAlex |
+| 2026‑10‑08 | [EVIE\: Evidence-Vector-Informed Embeddings for Visual Document Retrieval](<https://arxiv.org/abs/2610.11553>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [OmniCapBench\: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning](<https://huggingface.co/papers/2610.12458>) | Preprint | Official page |
 | 2026‑10‑07 | [Maintaining Control States for Initialization-Aware GRPO in Industrial LLM Workflows](<https://doi.org/10.1145/3832783.3834459>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Fuzz4DB\: A Practice of LLM-Agent-Guided Fuzzing for Database Feature-Level Delta Testing](<https://doi.org/10.1145/3832783.3834498>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Plug-and-Play Dramaturge\: A Divide-and-Conquer Approach for Iterative Narrative Script Refinement via Collaborative LLM Agents](<https://arxiv.org/abs/2510.05188>) | Article | OpenAlex |
 | 2026‑10‑05 | [You Changed Your Mind, The Model Didn't\: Demystifying Intent in Multi-Turn Dialogue](<https://arxiv.org/abs/2610.06496v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [Programmatic Search Agents\: Extending Agentic Search Beyond Query Reformulation](<https://arxiv.org/abs/2610.06689v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [From Papers to Mechanisms\: An Evidence-Grounded Knowledge Substrate for Scientific Language Models](<https://arxiv.org/abs/2610.06248v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [MC-Sparse\: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](<https://huggingface.co/papers/2610.06801>) | Preprint | Official page, Verified affiliation |
 | 2026‑10‑04 | [Robotic Hand‐Arm Coordinated Skill Learning for Tool Manipulation Tasks](<https://doi.org/10.1049/cit2.70185>) | Article | OpenAlex |
 | 2026‑10‑04 | [TrajLong\: Co-Designing Agentic and Long-Context Supervision for Mid-Training](<https://arxiv.org/abs/2610.04973v1>) | Paper | Verified affiliation |
@@ -494,6 +496,7 @@
 | 2026‑06‑23 | [Practical Occluder Generation for Mobile Games](<https://doi.org/10.1109/tvcg.2026.3691828>) | Article | OpenAlex |
 | 2026‑06‑23 | [ForensicsTok\: Forensics-Guided Tokenized Modeling for Image Tampering Localization](<https://arxiv.org/abs/2606.24538>) | Preprint | OpenAlex |
 | 2026‑06‑23 | [Chorus II\: Cross-Request Sparsity Reuse for Efficient Image-to-Video Generation](<https://arxiv.org/abs/2606.25040>) | Preprint | OpenAlex |
+| 2026‑06‑22 | [Is your prompt poisoning code? Defect induction rates and security mitigation strategies](<https://doi.org/10.1007/s10664-026-10866-8>) | Article | OpenAlex |
 | 2026‑06‑22 | [Audio Editing in the Era of Foundation Models\: A Survey](<https://arxiv.org/abs/2606.23139>) | Preprint | OpenAlex |
 | 2026‑06‑22 | [A Stackelberg Framework for Resource-Aware LLM Agents\: Learning, Repair, and Conditional Guarantees](<https://arxiv.org/abs/2606.23026>) | Preprint | OpenAlex |
 | 2026‑06‑21 | [VeriEvol\: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](<https://huggingface.co/papers/2606.23543>) | Technical report | Official page, OpenAlex |
@@ -1279,6 +1282,7 @@
 | 2025‑12‑26 | [Research on a Mental Health Service System Based on an Improved RAG Algorithm](<https://doi.org/10.1109/iceace67491.2025.11439659>) | Article | OpenAlex |
 | 2025‑12‑24 | [X-ray Insights Unleashed\: Pioneering the Enhancement of Multi-Label Long-Tail Data](<http://arxiv.org/abs/2512.20980>) | Preprint | OpenAlex |
 | 2025‑12‑24 | [Streaming Video Instruction Tuning](<https://arxiv.org/abs/2512.21334>) | Preprint | OpenAlex |
+| 2025‑12‑22 | [Supply-demand dynamics and allocation equity in charging infrastructure\: a user-centered approach](<https://doi.org/10.1007/s11116-025-10712-8>) | Article | OpenAlex |
 | 2025‑12‑22 | [D²Pruner\: Debiased Importance and Structural Diversity for MLLM Token Pruning](<https://doi.org/10.1609/aaai.v40i15.38234>) | Article | OpenAlex |
 | 2025‑12‑22 | [Structural determinants of IGHV1-69 public antibodies conferring resilience to SARS-CoV-2 antigenic escape](<https://doi.org/10.64898/2025.12.19.695307>) | Preprint | OpenAlex |
 | 2025‑12‑22 | [EO-EPTC\: End-to-End Original Traffic-Based Encrypted Proxy Traffic Classification Framework](<https://doi.org/10.1109/tifs.2025.3646874>) | Article | OpenAlex |
@@ -1539,6 +1543,7 @@
 | 2025‑10‑01 | [CLUE\: Non-parametric Verification from Experience via Hidden-State Clustering](<https://huggingface.co/papers/2510.01591>) | Technical report | Official page, Hugging Face, OpenAlex |
 | 2025‑10‑01 | [VOGUE\: Guiding Exploration with Visual Uncertainty Improves Multimodal Reasoning](<https://huggingface.co/papers/2510.01444>) | Technical report | Official page, Hugging Face, OpenAlex |
 | 2025‑10‑01 | [LLaVA-KD\: A Framework of Distilling Multimodal Large Language Models](<http://arxiv.org/abs/2410.16236>) | Conference paper | OpenAlex |
+| 2025‑10‑01 | [An adaptive autoregressive diffusion approach to design active humanized antibodies and nanobodies](<https://doi.org/10.1038/s42256-025-01120-9>) | Article | OpenAlex |
 | 2025‑10‑01 | [Unleashing High-Quality Image Generation in Diffusion Sampling Using Second-Order Levenberg-Marquardt-Langevin](<http://arxiv.org/abs/2505.24222>) | Conference paper | OpenAlex |
 | 2025‑10‑01 | [Social Welfare Function Leaderboard\: When LLM Agents Allocate Social Welfare](<http://arxiv.org/abs/2510.01164>) | Preprint | OpenAlex |
 | 2025‑10‑01 | [ReSeek\: A Self-Correcting Framework for Search Agents with Instructive Rewards](<https://arxiv.org/abs/2510.00568>) | Preprint | OpenAlex |

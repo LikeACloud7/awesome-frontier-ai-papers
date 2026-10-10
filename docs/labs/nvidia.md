@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2032`
+- Papers: `2034`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#nvidia)
 
@@ -55,6 +55,7 @@
 | 2026‑09‑27 | [dKFD\: Phase-Structured Evidence Allocation for Fixed-Budget Localized Event Understanding](<https://arxiv.org/abs/2609.33083>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry](<https://arxiv.org/abs/2609.33999>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Finite Probes Suffice\: Identifiability and Universality for Weight-Space Learning](<https://arxiv.org/abs/2609.33901>) | Preprint | OpenAlex |
+| 2026‑09‑27 | [TT-VidT\: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](<https://arxiv.org/abs/2609.33419v2>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [TriDrive\: Joint Driver, Vehicle, and Road Modeling for Forecasting and Driver Monitoring](<https://arxiv.org/abs/2609.33000>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [TRAP\: Understanding and Mitigating Privacy Memorization in Language Models](<https://arxiv.org/abs/2609.32293>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Permutation-Equivariant Flow Matching for Alignment-Free Neural Weight Generation](<https://arxiv.org/abs/2609.32833>) | Preprint | OpenAlex |
@@ -75,6 +76,7 @@
 | 2026‑09‑23 | [A multi-sensor and multi-temporal GeoAI framework for resolving ecological scale mismatch in Antarctica](<https://doi.org/10.1016/j.isprsjprs.2026.09.016>) | Article | OpenAlex |
 | 2026‑09‑23 | [X2Real\: an eXtensive simulation benchmark for real-world generalist policies](<https://arxiv.org/abs/2609.27449v1>) | Paper | Verified affiliation |
 | 2026‑09‑22 | [PAKT\: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning](<https://arxiv.org/abs/2609.25630>) | Preprint | OpenAlex |
+| 2026‑09‑22 | [Investigating Western North America Atmospheric Rivers with Machine Learning-Based Detection](<https://doi.org/10.1088/3049-4753/aeaae7>) | Article | OpenAlex |
 | 2026‑09‑21 | [Listen, Critique, and Refine\: RL-Based Self-Refinement for Instruction-Following Speech Synthesis](<https://arxiv.org/abs/2609.24163>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Fast Recovery for LLM Serving via Decoupled Device Memory Lifetime in Dynamo](<https://arxiv.org/abs/2609.25451>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [OSWorld-Pro\: Process-based Evaluation for Computer Use Agents](<https://arxiv.org/abs/2609.24890v1>) | Paper | Verified affiliation |

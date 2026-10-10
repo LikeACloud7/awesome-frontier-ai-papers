@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3791`
+- Papers: `3792`
 - Latest: `2026-10-07`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -24,6 +24,7 @@
 | 2026‑10‑07 | [AlphaVibe\: An LLM-Powered In-Context Adaptation Framework for Alpha Generation](<https://doi.org/10.1007/978-981-92-5696-9_26>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [ABACI\: Automated Downstream Bug Resolution via Semantic-Aware Bisection and Convergent Backporting](<https://doi.org/10.1145/3832783.3834466>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [SE-Former\: Skeleton-Enhanced Learning Framework for 3D Human Motion Prediction](<https://doi.org/10.1145/3856803>) | Article | OpenAlex |
+| 2026‑10‑05 | [VisionWeave\: Weaving Elastic Visual Representations as a Native Capability of MLLMs](<https://huggingface.co/papers/2610.07987>) | Preprint | Official page |
 | 2026‑10‑05 | [TRACE\: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](<https://huggingface.co/papers/2610.07767>) | Preprint | Official page |
 | 2026‑10‑03 | [The GPU Resilience Lottery\: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure](<https://doi.org/10.1145/3849815>) | Article | OpenAlex |
 | 2026‑10‑02 | [Learning to Revise Reasoning with Segment-wise On-Policy Distillation](<https://arxiv.org/abs/2610.02703>) | Preprint | OpenAlex |

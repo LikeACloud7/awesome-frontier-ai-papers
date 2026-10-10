@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `3991`
+- Papers: `3992`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -96,15 +96,16 @@
 | 2026‑09‑22 | [Multi-Task Deep Recommender Systems\: A Survey](<https://arxiv.org/abs/2302.03525>) | Article | OpenAlex |
 | 2026‑09‑22 | [MQSim 2\.0\: A Framework for Realistic Studies of AI-Era SSDs and Disaggregated Storage](<https://doi.org/10.1145/3837053.3837342>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [GitScholar\: A Dataset for Predicting AI Research Impact from GitHub Engagement](<https://arxiv.org/abs/2609.26361v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑21 | [Beyond Predictable Paths\: Redefining AI Security Incident Reporting for Agents](<https://arxiv.org/abs/2609.24515v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑21 | [Rollout Efficiency in Reinforcement Learning for Reasoning Large Language Models\: A Taxonomy and Future Directions](<https://arxiv.org/abs/2609.25463>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Less Uniform Discrete Diffusion is More Powerful and Scalable](<https://arxiv.org/abs/2609.35817>) | Preprint | OpenAlex |
-| 2026‑09‑21 | [Beyond Predictable Paths\: Redefining AI Security Incident Reporting for Agents](<https://arxiv.org/abs/2609.24515>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [TTSE\: A Two-Track Online Self-Evolution Framework](<https://arxiv.org/abs/2609.24289v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑20 | [PrimeSeeker\: Capability-Oriented Supervision for Deep Search Agents](<https://arxiv.org/abs/2609.35816>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [SafeStage\: Evaluating Safety Before, During, and After Vision-Language-Conditioned Robot Manipulation](<https://arxiv.org/abs/2609.21223>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [PrismAlign\: Prior-Steered Multi-View VLM Alignment for Hallucination-Robust Table OCR](<https://arxiv.org/abs/2609.21351>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [LLM-Generated Feature Pools for Time Series Anomaly Detection](<https://arxiv.org/abs/2609.21801>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [GenTraceBench\: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages](<https://arxiv.org/abs/2609.21738>) | Preprint | OpenAlex |
+| 2026‑09‑18 | [HyperParallel-FSDP\: Topology-Aware Fully Sharded Training with Layout-Driven Muon on Ascend SuperPods](<https://arxiv.org/abs/2609.21594v1>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [ASTRA\: Toward Agentic AI for Intelligent Device-Network-Cloud Synergy in Next-Generation Mobile Communication](<https://arxiv.org/abs/2609.21298v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [StageGuard\: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation](<https://arxiv.org/abs/2609.20791>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Mobility Network Forecasting\: A Trajectory-based Contact Prediction Approach](<https://doi.org/10.1145/3848123>) | Article | OpenAlex |
