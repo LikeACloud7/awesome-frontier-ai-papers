@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `431`
-- Latest: `2026-10-08`
+- Papers: `434`
+- Latest: `2026-10-09`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -40,11 +40,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑09 | [Huni\: A Networked Testbed for Real-time Human and Generative AI Interaction](<https://doi.org/10.1145/3842656.3843820>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [PEG for Information Flow\: Analysis and Incremental Reasoning](<https://doi.org/10.1007/978-3-032-40374-2_10>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
+| 2026‑10‑03 | [Rethinking Long-Video Efficiency\: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](<https://arxiv.org/abs/2610.04318>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
 | 2026‑10‑02 | [The Strict Threshold for Gaussian Ellipsoid Fitting](<https://ai.meta.com/research/publications/the-strict-threshold-for-gaussian-ellipsoid-fitting/>) | Publication | Official page |
 | 2026‑10‑02 | [String Two-Point Function = Height Function on a Curve](<https://ai.meta.com/research/publications/string-two-point-function-height-function-on-a-curve/>) | Publication | Official page |
@@ -54,9 +56,9 @@
 | 2026‑10‑02 | [RaBitQ-SSD\: Split Codes and Pipelined I/O for SSD-Resident Vector Search](<https://arxiv.org/abs/2610.02652>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
+| 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
-| 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [Beyond One Epoch\: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models](<https://arxiv.org/abs/2609.34083>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RoPE is Dead, Long Live RoPE\: Towards Scalable Data-aware Positional Encodings](<https://arxiv.org/abs/2609.34556v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [On the Token Value Inequality in Efficient Reasoning](<https://arxiv.org/abs/2609.33970>) | Preprint | OpenAlex |
@@ -79,6 +81,7 @@
 | 2026‑09‑24 | [MaD-RL\: Matching Distributions for Calibrating LLMs with Reinforcement Learning](<https://ai.meta.com/research/publications/mad-rl-matching-distributions-for-calibrating-llms-with-reinforcement-learning/>) | Publication | Official page |
 | 2026‑09‑24 | [SCOUT\: Coupling-Free Bounds for Trillion-Scale Top-k Retrieval in Sparse Tensor Factorization](<https://doi.org/10.1145/3837123>) | Article | OpenAlex |
 | 2026‑09‑23 | [Xtrace\: High-Fidelity GPU Intra-Kernel Tracing via Binary-Level Instruction Splicing](<https://arxiv.org/abs/2609.28769>) | Preprint | OpenAlex |
+| 2026‑09‑22 | [CHiME-9 ECHI\: A Machine Learning Challenge for Enhancing Conversations to Address Hearing Impairment](<https://arxiv.org/abs/2609.26306>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [From Offline Proxies to Online Decisions\: A Layered Engagement Evaluation Framework for Conversational AI](<https://arxiv.org/abs/2609.25408>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Artificial intelligence data centers could reach one percent of global electricity demand by 2030](<https://doi.org/10.1038/s44458-026-00152-5>) | Article | OpenAlex |
 | 2026‑09‑19 | [LD-RSVIS\: A Large-Scale and Diverse Benchmark for Referring Surgical Video Instrument Segmentation](<https://arxiv.org/abs/2609.23067>) | Preprint | OpenAlex |

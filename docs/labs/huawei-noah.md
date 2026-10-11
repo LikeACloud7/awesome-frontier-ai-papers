@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `3992`
+- Papers: `4001`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -18,22 +18,31 @@
 | 2026‑10‑08 | [From C to Idiomatic Rust\: A Ship-of-Theseus Agentic Translation](<https://arxiv.org/abs/2607.28835>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Factors Influencing User Satisfaction with Artificial Intelligence Applications\: An Integrated Approach of Semantic Network and BP Neural Network](<https://doi.org/10.54097/z6caqg52>) | Article | OpenAlex |
 | 2026‑10‑07 | [ns3-agent\: Fostering Integrated Perception-Communication-Computing Research for Agentic AI Services via Cross-Platform Co-Simulations](<https://doi.org/10.1145/3837358.3837360>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [WiseSword\: An Automated Computation Graph Partitioning Tool for Industrial DLRM Deployment on Ascend NPUs](<https://doi.org/10.1145/3832783.3834464>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [When Elo Lies\: Hidden Biases in Codeforces-Based Evaluation of Large Language Models in Practice](<https://doi.org/10.1145/3832783.3834458>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Smart Brain\: Semantic Anomaly Detection for Operational Time Series in Large Scale Service Systems](<https://doi.org/10.1145/3832783.3837436>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Revisiting LLMs on New Feature Implementation in Real-World Software Development Practices](<https://doi.org/10.1145/3832783.3837511>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [OpsLens\: Runbook-Free Root Cause Analysis via Multi-agent Collaboration and Tool Management](<https://doi.org/10.1145/3832783.3834501>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [No Isolated Evolution, No Blind Search\: Memory-Guided Prompt Co-evolution for Industrial Multi-agent Vulnerability Detection](<https://doi.org/10.1145/3832783.3834522>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Multimodal semantic communications](<https://doi.org/10.1038/s44287-026-00336-0>) | Review | OpenAlex |
 | 2026‑10‑07 | [LLM-Assisted Joint Ticket and Log Analysis for Incident Triage in Intelligent and Connected Vehicles](<https://doi.org/10.1145/3832783.3834521>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Every Scenario Matters\: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs](<https://doi.org/10.1145/3832783.3834381>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [0-RTT Integrated in SPDM for Large-Scale AI Super-Clusters](<https://doi.org/10.1007/978-3-032-38692-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [A Safe Action Is Not Enough\: Feasible-Future Decoding for Vision-Language-Action Policies](<https://huggingface.co/papers/2610.05166>) | Preprint | Official page |
+| 2026‑10‑05 | [Anlu\: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision](<https://arxiv.org/abs/2610.06180>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
+| 2026‑10‑04 | [Fusion is the New Mutation\: Bandit-Guided Evolution on Workflow Graphs](<https://arxiv.org/abs/2610.05284>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Rethinking Tool Design for Agentic RCA\: A Controlled Empirical Study](<https://arxiv.org/abs/2610.05009v1>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [DriftSR\: One-Step Real-World Image Super-Resolution via Distribution Drifting](<https://arxiv.org/abs/2610.04819v1>) | Paper | Verified affiliation |
+| 2026‑10‑02 | [Test-time Calibration Learning for Large Language Model Reasoning](<https://arxiv.org/abs/2610.02695>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [Lightweight, Rubric-Guided Trajectory Evaluation for Production AI Agents](<https://arxiv.org/abs/2610.03315>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [HARPO\: Hallucination-Aware Reinforcement Learning for Faithful and Creative Language Generation](<https://arxiv.org/abs/2610.03063>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [Credit Where It Matters\: Dependency-Aware Policy Optimization for Terminal Agents](<https://arxiv.org/abs/2610.03634>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [XSearch\: Explainable Code Search via Concept-to-Code Alignment](<https://arxiv.org/abs/2605.16046>) | Article | OpenAlex |
 | 2026‑10‑01 | [Lingxi\: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](<http://arxiv.org/abs/2510.11838>) | Article | OpenAlex |
 | 2026‑10‑01 | [SEDIMA\: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents](<https://arxiv.org/abs/2610.02361>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [MoE-CORE\: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](<https://arxiv.org/abs/2610.01950>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [Dynamic risk assessment and emergency response effectiveness analysis for hazardous chemicals explosion based on dynamic Bayesian network and cloud model](<https://doi.org/10.1016/j.ress.2026.113633>) | Article | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
 | 2026‑10‑01 | [CC-VLA\: Learning Control-Aware Compliance VLA Model for Robust Contact-Rich Robotic Manipulation](<https://doi.org/10.1109/lra.2026.3739025>) | Article | OpenAlex |
 | 2026‑10‑01 | [Advancing 3D Gaussian Splatting in inverse rendering through flashlight augmentation](<https://doi.org/10.1016/j.jvcir.2026.104996>) | Article | OpenAlex |

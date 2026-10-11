@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1087`
+- Papers: `1090`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#baidu)
 
@@ -633,6 +633,7 @@
 | 2025‑01‑20 | [Towards Predicting Urban Land Use Changes\: A Dynamic Graph Alignment Perspective](<https://doi.org/10.1145/3712702>) | Article | OpenAlex |
 | 2025‑01‑20 | [Curiosity-Driven Reinforcement Learning from Human Feedback](<http://arxiv.org/abs/2501.11463>) | Preprint | OpenAlex |
 | 2025‑01‑19 | [Generative Retrieval for Book Search](<https://doi.org/10.1145/3690624.3709435>) | Conference paper | OpenAlex |
+| 2025‑01‑17 | [Towards few-shot mixed-type dialogue generation](<https://doi.org/10.1007/s11432-023-4069-x>) | Article | OpenAlex |
 | 2025‑01‑14 | [COTR\: Efficient Job Task Recognition for Occupational Information Systems with Class-Incremental Learning](<https://doi.org/10.1145/3712306>) | Article | OpenAlex |
 | 2025‑01‑14 | [Examination Process Modeling for Intelligent Patent Management\: A Multi-aspect Neural Sequential Approach](<https://doi.org/10.1145/3712309>) | Article | OpenAlex |
 | 2025‑01‑12 | [Tool learning with large language models\: a survey](<https://doi.org/10.1007/s11704-024-40678-2>) | Article | OpenAlex |
@@ -689,6 +690,7 @@
 | 2025‑01‑01 | [Select to Know\: An Internal-External Knowledge Self-Selection Framework for Domain-Specific Question Answering](<http://arxiv.org/abs/2508.15213>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Residual Stream Analysis of Overfitting And Structural Disruptions](<https://doi.org/10.52202/085713-1676>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [RepoDebug\: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models](<https://doi.org/10.18653/v1/2025.findings-emnlp.1294>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Optimization Mathematical Models for Agricultural Economics Based on Nonlinear Dynamic Analysis](<https://doi.org/10.1007/978-3-031-99477-7_66>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MonoLift\: Learning 3D Manipulation Policies from Monocular RGB via Distillation](<https://doi.org/10.52202/085713-0181>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MADS\: Multi-Agent Dialogue Simulation for Diverse Persuasion Data Generation](<https://arxiv.org/abs/2510.05124>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Instance-Level 3D Model Reassembling from CLuttered Fragments](<https://doi.org/10.1007/978-981-96-2882-7_22>) | Conference paper | OpenAlex |
@@ -876,6 +878,7 @@
 | 2024‑07‑12 | [Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX](<http://arxiv.org/abs/2407.09274>) | Preprint | OpenAlex |
 | 2024‑07‑11 | [De-confounding representation learning for counterfactual inference on continuous treatment via generative adversarial network](<http://arxiv.org/abs/2307.12625>) | Article | OpenAlex |
 | 2024‑07‑10 | [GraphGPT\: Graph Instruction Tuning for Large Language Models](<https://doi.org/10.1145/3626772.3657775>) | Article | OpenAlex |
+| 2024‑07‑10 | [SoccerNet 2023 challenges results](<https://doi.org/10.1007/s12283-024-00466-4>) | Article | OpenAlex |
 | 2024‑07‑10 | [Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback](<https://doi.org/10.1145/3626772.3657689>) | Article | OpenAlex |
 | 2024‑07‑10 | [Enhancing Baidu Multimodal Advertisement with Chinese Text-to-Image Generation via Bilingual Alignment and Caption Synthesis](<https://doi.org/10.1145/3626772.3661350>) | Article | OpenAlex |
 | 2024‑07‑10 | [AgentIR\: 1st Workshop on Agent-based Information Retrieval](<https://doi.org/10.1145/3626772.3657989>) | Conference paper | OpenAlex |

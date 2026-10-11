@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2034`
+- Papers: `2040`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#nvidia)
 
@@ -20,7 +20,12 @@
 | 2026‑10‑06 | [Evaluating Safety Embedding Prefiltering for Analyzing Millions of LLM Agent Social Network Messages for Security and Safety Harms](<https://doi.org/10.3390/ai7100409>) | Article | OpenAlex |
 | 2026‑10‑06 | [NeMo-DCR\: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](<https://arxiv.org/abs/2610.08430v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [Beyond Semantic Similarity\: Performance and Costs of Agentic Retrieval for Complex Tasks](<https://arxiv.org/abs/2610.05750v1>) | Paper | Verified affiliation |
+| 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
+| 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
+| 2026‑10‑03 | [Self-Reflection Fine-Tuning\: Enhancing Agent Security against Prompt Injection Attacks from Failure Experience](<https://arxiv.org/abs/2610.04269>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [ULTRADISCOVERY\: Abductive Exploration in an Interconnected, Epistemically Open Universe](<https://arxiv.org/abs/2610.03092>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [PIGNN3D\: an accelerated physics-informed graph neural network for 3D thermal field simulation in data centers](<https://doi.org/10.1007/s44267-026-00131-3>) | Article | OpenAlex |
+| 2026‑10‑02 | [Fed-ADApt\: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation](<https://arxiv.org/abs/2610.03474>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [VETO\: Video Efficient Token Optimization for Vision Language Models](<https://arxiv.org/abs/2610.01785>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Unitary fault-tolerant encoding of Pauli states in surface codes](<http://arxiv.org/abs/2601.05113>) | Article | OpenAlex |
 | 2026‑10‑01 | [Serving a Revisable World\: Versioned Execution for Interruptible Agents](<https://arxiv.org/abs/2610.01160>) | Preprint | OpenAlex |
@@ -175,6 +180,7 @@
 | 2026‑07‑31 | [Chelatron\: Charting Chemical Space with Agentic AI for Metal-Ligand Discovery](<https://doi.org/10.26434/chemrxiv.15006844/v1>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [Robotic ultrasound scanning platform with autonomous control, multimodal human–machine interface and real-time image analysis](<https://doi.org/10.1007/s11548-026-03763-4>) | Article | OpenAlex |
 | 2026‑07‑30 | [Human neuron activity during an 83-minute movie from 2,286 neurons and 29 patients](<https://doi.org/10.1038/s41597-026-07955-0>) | Data paper | OpenAlex |
+| 2026‑07‑29 | ["Nobody Did This"\: Contribution, Originality, and Accountability in Agent-Mediated Collaboration](<https://www.microsoft.com/en-us/research/publication/nobody-did-this-contribution-originality-and-accountability-in-agent-mediated-collaboration/>) | Publication | Official page, OpenAlex |
 | 2026‑07‑27 | [Scalable joint X-ray nano-holotomography reconstruction with the bilinear Hessian method](<https://doi.org/10.1364/optica.603920>) | Article | OpenAlex |
 | 2026‑07‑27 | [Interpretable gene networks from single-cell foundation models reveal conserved neurogenic dysfunction in Parkinson’s disease](<https://doi.org/10.64898/2026.07.26.740813>) | Preprint | OpenAlex |
 | 2026‑07‑24 | [Anomalous Diffusion of Tropical Cyclones Observed in Huge Ensembles of Hindcasts](<https://arxiv.org/abs/2607.21954>) | Preprint | OpenAlex |
