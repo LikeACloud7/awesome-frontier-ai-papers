@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1474`
-- Latest: `2026-10-08`
+- Papers: `1475`
+- Latest: `2026-10-09`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑09 | [Minions\: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](<https://arxiv.org/abs/2610.12970v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [Normalizing Trajectory Models](<https://machinelearning.apple.com/research/normalizing-trajectory-models>) | Publication | Official page |
 | 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
 | 2026‑10‑05 | [Stepped MoE\: Segment-Level Routing with Configurable Inference Complexity](<https://arxiv.org/abs/2610.07348v1>) | Paper | Verified affiliation |
@@ -910,7 +911,7 @@
 | 2024‑05‑28 | [Efficient Diffusion Models without Attention](<https://machinelearning.apple.com/research/efficient-diffusion-models>) | Publication | Official page |
 | 2024‑05‑24 | [Swallowing the Bitter Pill\: Simplified Scalable Conformer Generation](<https://machinelearning.apple.com/research/swallowing-the-bitter-pill>) | Publication | Official page |
 | 2024‑05‑23 | [Apache Arrow DataFusion\: A Fast, Embeddable, Modular Analytic Query Engine](<https://doi.org/10.1145/3626246.3653368>) | Conference paper | OpenAlex |
-| 2024‑05‑21 | [Dataset Decomposition\: Faster LLM Training with Variable Sequence Length Curriculum](<https://machinelearning.apple.com/research/dataset-decomposition>) | Publication | Official page, Verified affiliation |
+| 2024‑05‑21 | [Dataset Decomposition\: Faster LLM Training with Variable Sequence Length Curriculum](<https://machinelearning.apple.com/research/dataset-decomposition>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2024‑05‑21 | [A Single-Stage, Capacitively-Coupled Instrumentation Amplifier With Complementary Transimpedance Boosting](<https://doi.org/10.1109/tcsi.2024.3391169>) | Article | OpenAlex |
 | 2024‑05‑21 | [EQZ-LDO\: A Secure Digital Low Dropout Regulator Armed With Detection-Driven Protection Against Correlation Power Analysis](<https://doi.org/10.1109/jssc.2024.3400621>) | Article | OpenAlex |
 | 2024‑05‑20 | [ContextQ\: Generated Questions to Support Meaningful Parent-Child Dialogue While Co-Reading](<https://machinelearning.apple.com/research/contextq>) | Publication | Official page, OpenAlex |

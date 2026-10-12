@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3579`
+- Papers: `3583`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#amazon)
 
@@ -24,8 +24,12 @@
 | 2026‑10‑05 | [SimpleMark\: Fast Multi-Bit Text Watermarking under f -Divergence Constraints](<https://arxiv.org/abs/2610.05712>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Reviewing Legal Privilege and Confidentiality Challenges in Enterprise Deployment of Large Language Models](<https://doi.org/10.56201/jlgp.vol.10.no3.2025.pg150.176>) | Article | OpenAlex |
 | 2026‑10‑05 | [Application of LLM Agents for Long-Form Question Answering in Systems Biology](<https://doi.org/10.1007/978-3-032-37682-4_19>) | Conference paper | OpenAlex |
+| 2026‑10‑05 | [AECP\: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation](<https://arxiv.org/abs/2610.06481>) | Preprint | OpenAlex |
+| 2026‑10‑04 | [VERA\: Verdict-Conditioned Reliability for Adaptive LLM Judges](<https://arxiv.org/abs/2610.05452>) | Preprint | OpenAlex |
+| 2026‑10‑04 | [Kapture\: Capturing Cardiac Dynamics with Koopman-Governed Learning for Efficient Radar-Based Electrocardiogram Recovery](<https://arxiv.org/abs/2610.04955>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ALoDLM\: Adaptively Looped Diffusion Language Models](<https://arxiv.org/abs/2610.04198>) | Paper | Verified affiliation |
+| 2026‑10‑02 | [UniBRep\: Learning Unified Geometry and Topology for Image-conditioned B-Rep Generation](<https://arxiv.org/abs/2610.04092>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Teaching Agents to Code Reliably](<https://arxiv.org/abs/2610.03984>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [TNG-CLIP\:Training-Time Negation Data Generation for Negation Awareness of CLIP](<http://arxiv.org/abs/2505.18434>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Learning Query Encoders Can Be Hard Even When Vector Retrieval Is Geometrically Easy](<https://arxiv.org/abs/2610.02749>) | Preprint | OpenAlex |

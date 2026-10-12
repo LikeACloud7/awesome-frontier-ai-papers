@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3719`
+- Papers: `3721`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -30,14 +30,16 @@
 | 2026‑10‑07 | [HERO\: Hypothesis-Centered Root-Cause Analysis for Microservice Incidents](<https://doi.org/10.1145/3832783.3837509>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Fuzz4DB\: A Practice of LLM-Agent-Guided Fuzzing for Database Feature-Level Delta Testing](<https://doi.org/10.1145/3832783.3834498>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Plug-and-Play Dramaturge\: A Divide-and-Conquer Approach for Iterative Narrative Script Refinement via Collaborative LLM Agents](<https://arxiv.org/abs/2510.05188>) | Article | OpenAlex |
+| 2026‑10‑05 | [CVIF\: A Criticality-Driven Visual Intervention Framework for Geometric Diagram Understanding in MLLMs](<https://arxiv.org/abs/2610.06399>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [You Changed Your Mind, The Model Didn't\: Demystifying Intent in Multi-Turn Dialogue](<https://arxiv.org/abs/2610.06496v1>) | Paper | Verified affiliation |
-| 2026‑10‑05 | [Programmatic Search Agents\: Extending Agentic Search Beyond Query Reformulation](<https://arxiv.org/abs/2610.06689v1>) | Paper | Verified affiliation |
-| 2026‑10‑05 | [From Papers to Mechanisms\: An Evidence-Grounded Knowledge Substrate for Scientific Language Models](<https://arxiv.org/abs/2610.06248v1>) | Paper | Verified affiliation |
-| 2026‑10‑04 | [MC-Sparse\: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](<https://huggingface.co/papers/2610.06801>) | Preprint | Official page, Verified affiliation |
+| 2026‑10‑05 | [Programmatic Search Agents\: Extending Agentic Search Beyond Query Reformulation](<https://arxiv.org/abs/2610.06689v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑05 | [From Papers to Mechanisms\: An Evidence-Grounded Knowledge Substrate for Scientific Language Models](<https://arxiv.org/abs/2610.06248v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [MC-Sparse\: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](<https://huggingface.co/papers/2610.06801>) | Preprint | Official page, Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [Scaling Verifiable Environments for Long-horizon Work Agents](<https://arxiv.org/abs/2610.04906>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Robotic Hand‐Arm Coordinated Skill Learning for Tool Manipulation Tasks](<https://doi.org/10.1049/cit2.70185>) | Article | OpenAlex |
 | 2026‑10‑04 | [TrajLong\: Co-Designing Agentic and Long-Context Supervision for Mid-Training](<https://arxiv.org/abs/2610.04973v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑04 | [Rewrite What Matters\: Adaptive Multilingual Query Rewriting for Reasoning via Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.04899v1>) | Paper | Verified affiliation |
-| 2026‑10‑04 | [PharmAgent\: Constraint-Aware Search with Frozen Language Models for Molecular Optimization](<https://arxiv.org/abs/2610.05431v1>) | Paper | Verified affiliation |
+| 2026‑10‑04 | [Rewrite What Matters\: Adaptive Multilingual Query Rewriting for Reasoning via Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.04899v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [PharmAgent\: Constraint-Aware Search with Frozen Language Models for Molecular Optimization](<https://arxiv.org/abs/2610.05431v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑04 | [EnGRICH\: Enhancing Generative Reward Modeling with Critiques from Humans](<https://arxiv.org/abs/2610.05370v2>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [Prism\: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](<https://huggingface.co/papers/2610.05416>) | Preprint | Official page |
 | 2026‑10‑02 | [Gated Slot Attention-2\: Two-Sided Associative Memory Correction in Linear Attention](<https://arxiv.org/abs/2610.02816>) | Preprint | OpenAlex |

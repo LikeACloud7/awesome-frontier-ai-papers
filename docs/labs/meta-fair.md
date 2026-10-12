@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `434`
+- Papers: `439`
 - Latest: `2026-10-09`
 - [Back to README](../../README.md#metafair)
 
@@ -40,7 +40,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
+| 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |
+| 2026‑10‑09 | [Optimizing UVQ for scaling video quality assessment](<https://doi.org/10.1117/12.3112825>) | Conference abstract | OpenAlex |
+| 2026‑10‑09 | [Integrating AI into optical engineering\: experiences in workflow transformation](<https://doi.org/10.1117/12.3111609>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Huni\: A Networked Testbed for Real-time Human and Generative AI Interaction](<https://doi.org/10.1145/3842656.3843820>) | Conference paper | OpenAlex |
+| 2026‑10‑09 | [AI-driven scalable metrology solutions for smart glasses and AR wearables](<https://doi.org/10.1117/12.3114946>) | Conference abstract | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
@@ -225,13 +230,13 @@
 | 2025‑09‑29 | [The Era of Real-World Human Interaction\: RL from User Conversations](<https://huggingface.co/papers/2509.25137>) | Paper | Hugging Face |
 | 2025‑09‑29 | [DepthLM\: Metric Depth From Vision Language Models](<https://huggingface.co/papers/2509.25413>) | Paper | Hugging Face |
 | 2025‑09‑29 | [MobileLLM-R1\: Exploring the Limits of Sub-Billion Language Model Reasoners with Open Training Recipes](<https://arxiv.org/abs/2509.24945>) | Paper | Hugging Face, Verified affiliation |
-| 2025‑09‑24 | [Compute as Teacher\: Turning Inference Compute Into Reference-Free Supervision](<https://ai.meta.com/research/publications/compute-as-teacher-turning-inference-compute-into-reference-free-supervision/>) | Publication | Official page |
 | 2025‑09‑24 | [CWM\: An Open-Weights LLM for Research on CodeGeneration with World Models](<https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models/>) | Publication | Official page |
 | 2025‑09‑24 | [MCGrad\: Multicalibration at Web Scale](<https://arxiv.org/abs/2509.19884>) | Paper | Verified affiliation |
 | 2025‑09‑23 | [MetaEmbed\: Scaling Multimodal Retrieval at Test-Time with Flexible Late Interactions](<https://ai.meta.com/research/publications/metaembed-scaling-multimodal-retrieval-at-test-time-with-flexible-late-interactions/>) | Publication | Official page |
 | 2025‑09‑23 | [Code World Model Preparedness Report](<https://ai.meta.com/research/publications/code-world-model-preparedness-report/>) | Publication | Official page |
 | 2025‑09‑22 | [ARE\: scaling up agent environments and evaluations](<https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/>) | Publication | Official page |
 | 2025‑09‑18 | [Self-Improvement of Language Models by Post-Training on Multi-Agent Debate](<https://arxiv.org/abs/2509.15172>) | Paper | Verified affiliation |
+| 2025‑09‑17 | [Compute as Teacher\: Turning Inference Compute Into Reference-Free Supervision](<https://ai.meta.com/research/publications/compute-as-teacher-turning-inference-compute-into-reference-free-supervision/>) | Publication | Official page, OpenAlex |
 | 2025‑09‑15 | [CyberSOCEval\: Benchmarking LLMs Capabilities for Malware Analysis and Threat Intelligence Reasoning](<https://ai.meta.com/research/publications/cybersoceval-benchmarking-llms-capabilities-for-malware-analysis-and-threat-intelligence-reasoning/>) | Publication | Official page |
 | 2025‑09‑08 | [Understanding Reinforcement Learning for Model Training, and future directions with GRAPE](<https://ai.meta.com/research/publications/understanding-reinforcement-learning-for-model-training-and-future-directions-with-grape/>) | Publication | Official page |
 | 2025‑09‑07 | [From 2D to 3D\: How Discrete Dependencies Enable Cross-Dimensional Inference in Neural Networks in Defiance of Euclidean Geometry](<https://doi.org/10.1109/ism66958.2025.00062>) | Conference paper | OpenAlex |

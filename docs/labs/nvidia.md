@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2040`
-- Latest: `2026-10-06`
+- Papers: `2043`
+- Latest: `2026-10-09`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,16 +16,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑09 | [Toward fabrication-robust photonic inverse design\: from AI-assisted inverse lithography to yield-driven device optimization](<https://doi.org/10.1117/12.3114569>) | Conference abstract | OpenAlex |
 | 2026‑10‑06 | [PLUTO\: An Agentic AI Tool for Interactive Spacecraft Rendezvous Trajectory Design](<https://doi.org/10.48550/arxiv.2610.07573>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Evaluating Safety Embedding Prefiltering for Analyzing Millions of LLM Agent Social Network Messages for Security and Safety Harms](<https://doi.org/10.3390/ai7100409>) | Article | OpenAlex |
 | 2026‑10‑06 | [NeMo-DCR\: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](<https://arxiv.org/abs/2610.08430v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [Beyond Semantic Similarity\: Performance and Costs of Agentic Retrieval for Complex Tasks](<https://arxiv.org/abs/2610.05750v1>) | Paper | Verified affiliation |
+| 2026‑10‑04 | [Look Where You Say You're Looking\: Self-Grounded Attention for Visual Reasoning](<https://arxiv.org/abs/2610.05023>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Self-Reflection Fine-Tuning\: Enhancing Agent Security against Prompt Injection Attacks from Failure Experience](<https://arxiv.org/abs/2610.04269>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [ULTRADISCOVERY\: Abductive Exploration in an Interconnected, Epistemically Open Universe](<https://arxiv.org/abs/2610.03092>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [PIGNN3D\: an accelerated physics-informed graph neural network for 3D thermal field simulation in data centers](<https://doi.org/10.1007/s44267-026-00131-3>) | Article | OpenAlex |
 | 2026‑10‑02 | [Fed-ADApt\: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation](<https://arxiv.org/abs/2610.03474>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [From Roadmap to Response\: A Community Assessment of Autonomous Science](<https://doi.org/10.2172/17197394>) | Report | OpenAlex |
 | 2026‑10‑01 | [VETO\: Video Efficient Token Optimization for Vision Language Models](<https://arxiv.org/abs/2610.01785>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Unitary fault-tolerant encoding of Pauli states in surface codes](<http://arxiv.org/abs/2601.05113>) | Article | OpenAlex |
 | 2026‑10‑01 | [Serving a Revisable World\: Versioned Execution for Interruptible Agents](<https://arxiv.org/abs/2610.01160>) | Preprint | OpenAlex |

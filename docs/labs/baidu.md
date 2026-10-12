@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1090`
+- Papers: `1092`
 - Latest: `2026-10-06`
 - [Back to README](../../README.md#baidu)
 
@@ -760,6 +760,7 @@
 | 2024‑11‑16 | [ReSyncer\: Rewiring Style-Based Generator for Unified Audio-Visually Synced Facial Performer](<https://doi.org/10.1007/978-3-031-72940-9_20>) | Conference paper | OpenAlex |
 | 2024‑11‑12 | [RSANet\: Relationship-Aware Symmetric Alignment Network for Fine-Grained Video-Text Retrieval](<https://doi.org/10.1007/978-981-96-0125-7_16>) | Conference paper | OpenAlex |
 | 2024‑11‑07 | [Self-Calibrated Listwise Reranking with Large Language Models](<https://doi.org/10.1145/3696410.3714658>) | Article | OpenAlex |
+| 2024‑11‑07 | [3D-Aware Text-Driven Talking Avatar Generation](<https://doi.org/10.1007/978-3-031-73223-2_23>) | Conference paper | OpenAlex |
 | 2024‑11‑04 | [DSDC-GCN\: Decoupled Static-Dynamic Co-Occurrence Graph Convolutional Networks for Skeleton-Based Action Recognition](<https://doi.org/10.1109/tcsvt.2024.3491133>) | Article | OpenAlex |
 | 2024‑11‑04 | [OffsetNet\: Towards Efficient Multiple Object Tracking, Detection, and Segmentation](<https://doi.org/10.1109/tpami.2024.3485644>) | Article | OpenAlex |
 | 2024‑11‑03 | [Pre-trained molecular language models with random functional group masking](<https://doi.org/10.1038/s44387-025-00029-3>) | Article | OpenAlex |
@@ -1095,6 +1096,7 @@
 | 2024‑01‑01 | [Hierarchical Cross-Level Graph Contrastive Learning for Drug-Drug Interaction Prediction](<https://doi.org/10.1007/978-981-97-5575-2_16>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Self-Evaluation of Large Language Model based on Glass-box Features](<http://arxiv.org/abs/2403.04222>) | Preprint | OpenAlex |
 | 2024‑01‑01 | [Prior Bilinear-Based Models for Knowledge Graph Completion](<https://doi.org/10.1007/978-3-031-70352-2_19>) | Conference paper | OpenAlex |
+| 2024‑01‑01 | [HetCAN\: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness](<https://doi.org/10.1007/978-3-031-70365-2_4>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Weakly-Supervised Grounding for VQA with Dual Visual-Linguistic Interaction](<https://doi.org/10.1007/978-981-99-8850-1_13>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Leveraging Web-Crawled Data for High-Quality Fine-Tuning](<http://arxiv.org/abs/2408.08003>) | Preprint | OpenAlex |
 | 2024‑01‑01 | [LEMON\: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion](<https://doi.org/10.18653/v1/2024.acl-long.434>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `4635`
+- Papers: `4640`
 - Latest: `2026-10-09`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -25,17 +25,22 @@
 | 2026‑10‑06 | [Nano Banana 2\.1 Model Card](<https://deepmind.google/models/model-cards/nano-banana-2-1/>) | Model card | Official page |
 | 2026‑10‑06 | [EmbeddingGemma 2 Model Card](<https://ai.google.dev/gemma/docs/embeddinggemma/model_card_2?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content>) | Model card | Official page |
 | 2026‑10‑06 | [An open vision-language model for diverse medical applications](<https://doi.org/10.1038/s41591-026-04626-w>) | Article | OpenAlex |
+| 2026‑10‑05 | [IdeaLens\: Detecting AI Ideas in Long-form Writing](<https://arxiv.org/abs/2610.06778>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Crossing Realities Has a Cost\: Evaluating AR Second Screens for AI-Assisted Desktop Authoring](<https://doi.org/10.1145/3822518.3830046>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [Planetary Geospatial Foundation Models\: A New Paradigm for Global Public Health](<https://arxiv.org/abs/2610.05699v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑05 | [Golod--Shafarevich for arithmetic surfaces](<https://arxiv.org/abs/2610.06461v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [Golod--Shafarevich for arithmetic surfaces](<https://arxiv.org/abs/2610.06461v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑05 | [Catching Developers in the Flow\: Low-Latency Agentic Program Repair at Google Scale](<https://arxiv.org/abs/2610.07289v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [Cut Binary Cross Entropy\: Efficient Large-Vocabulary Loss and Gradient Kernels for Sequential Recommendation](<https://arxiv.org/abs/2610.05559>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
+| 2026‑10‑03 | [TimeNet\: An Extensible Unified Data Infrastructure for Next-Generation Temporal Foundation Models](<https://arxiv.org/abs/2610.04407>) | Preprint | OpenAlex |
+| 2026‑10‑03 | [Improving score-based sampling via affine post-processing](<https://arxiv.org/abs/2610.04773>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks](<https://huggingface.co/papers/2610.03858>) | Paper | Hugging Face, OpenAlex |
 | 2026‑10‑02 | [Unlocking Safe Agentic Autonomy through Verification (Keynote)](<https://doi.org/10.1145/3842652.3850234>) | Conference abstract | OpenAlex |
 | 2026‑10‑02 | [The female larval fly CNS connectome\: first draft](<https://doi.org/10.64898/2026.09.28.754924>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [SEER\: Self-Evolving Event Reasoning and Retrieval for Time Series Forecasting](<https://arxiv.org/abs/2610.04109>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Making Videos Accessible for Blind and Low Vision Users Using a Multimodal Agent Video Player](<https://doi.org/10.1145/3776591.3833853>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Inclusive AI\: Rethinking AI-based Multimodal Interaction for Diverse and Underrepresented Users](<https://doi.org/10.1145/3776574.3834740>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [Generalization Bounds for Flow-matching Generative Models for Intrinsically Low-dimensional Data](<https://doi.org/10.48550/arxiv.2610.02663>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [MLCommons Jailbreak Benchmark v1\.0](<https://arxiv.org/abs/2610.02827v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑02 | [Evolutionary Computation for Trustworthy AI\: From Attacks and Defenses to Self-Evolving Era](<https://arxiv.org/abs/2610.02996v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
@@ -2288,6 +2293,7 @@
 | 2025‑01‑01 | [Video World Models with Long-term Spatial Memory](<http://arxiv.org/abs/2506.05284>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Temporal Chain of Thought\: Long-Video Understanding by Thinking in Frames](<https://doi.org/10.52202/085713-4788>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SpermDet\: Structure-Aware Network With Local Context Enhancement and Dual-Path Fusion for Object Detection in Sperm Images](<https://doi.org/10.1109/tim.2025.3544697>) | Article | OpenAlex |
+| 2025‑01‑01 | [Scaling Laws For Scalable Oversight](<http://arxiv.org/abs/2504.18530>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Reinforcement Learning with Backtracking Feedback](<https://arxiv.org/abs/2602.08377>) | Article | OpenAlex |
 | 2025‑01‑01 | [Quartic Quantum Speedups for Planted Inference](<http://arxiv.org/abs/2406.19378>) | Article | OpenAlex |
 | 2025‑01‑01 | [MoLA\: MoE LoRA with Layer-wise Expert Allocation](<https://doi.org/10.18653/v1/2025.findings-naacl.284>) | Conference paper | OpenAlex |
@@ -2302,7 +2308,6 @@
 | 2025‑01‑01 | [The Evolution of Geospatial Artificial Intelligence](<https://doi.org/10.1007/978-3-031-87421-5_2>) | Book chapter | OpenAlex |
 | 2025‑01‑01 | [Struct2D\: A Perception-Guided Framework for Spatial Reasoning in MLLMs](<http://arxiv.org/abs/2506.04220>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Scaling RL to Long Videos](<http://arxiv.org/abs/2507.07966>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Scaling Laws For Scalable Oversight](<http://arxiv.org/abs/2504.18530>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [REAL\: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites](<http://arxiv.org/abs/2504.11543>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Physics of Language Models\: Part 2\.2, How to Learn From Mistakes on Grade-School Math Problems](<https://doi.org/10.2139/ssrn.5250631>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Physics of Language Models\: Part 2\.1, Grade-School Math and the Hidden Reasoning Process](<https://doi.org/10.2139/ssrn.5250629>) | Preprint | OpenAlex |

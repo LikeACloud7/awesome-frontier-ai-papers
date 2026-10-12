@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4001`
+- Papers: `4005`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -29,9 +29,13 @@
 | 2026‑10‑07 | [Every Scenario Matters\: Scenario-Guided White-Box Testing for Static Code Checkers Powered by LLMs](<https://doi.org/10.1145/3832783.3834381>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [0-RTT Integrated in SPDM for Large-Scale AI Super-Clusters](<https://doi.org/10.1007/978-3-032-38692-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑05 | [A Safe Action Is Not Enough\: Feasible-Future Decoding for Vision-Language-Action Policies](<https://huggingface.co/papers/2610.05166>) | Preprint | Official page |
+| 2026‑10‑05 | [Trajectory-Guided Tokenization of Complex CSI for Wi-Fi Sensing](<https://arxiv.org/abs/2610.06288>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [Efficient Secure Federated Learning via Information-Theoretically Secure Key Distribution\: A Medical Imaging Case Study](<https://arxiv.org/abs/2610.06420>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Anlu\: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision](<https://arxiv.org/abs/2610.06180>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
+| 2026‑10‑04 | [Outcome-Guided On-Policy Self-Distillation](<https://arxiv.org/abs/2610.05070>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Fusion is the New Mutation\: Bandit-Guided Evolution on Workflow Graphs](<https://arxiv.org/abs/2610.05284>) | Preprint | OpenAlex |
+| 2026‑10‑04 | [CIPO\: Counterfactual Imagination Policy Optimization for Adaptive Tool Granularity Selection](<https://arxiv.org/abs/2610.04991>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Rethinking Tool Design for Agentic RCA\: A Controlled Empirical Study](<https://arxiv.org/abs/2610.05009v1>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [DriftSR\: One-Step Real-World Image Super-Resolution via Distribution Drifting](<https://arxiv.org/abs/2610.04819v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [Test-time Calibration Learning for Large Language Model Reasoning](<https://arxiv.org/abs/2610.02695>) | Preprint | OpenAlex |

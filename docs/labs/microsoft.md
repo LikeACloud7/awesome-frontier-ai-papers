@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `3927`
+- Papers: `3937`
 - Latest: `2026-10-09`
 - [Back to README](../../README.md#microsoft)
 
@@ -62,7 +62,6 @@
 | n\.d\. | [Dynamic Lagging for Simultaneous Translation](<https://www.microsoft.com/en-us/research/publication/dynamic-lagging-for-simultaneous-translation/>) | Publication | Official page |
 | n\.d\. | [Do LLMs Know What to Ask and When? Evaluating Multi-Turn Information Seeking](<https://www.microsoft.com/en-us/research/publication/do-llms-know-what-to-ask-and-when-evaluating-multi-turn-information-seeking/>) | Publication | Official page |
 | n\.d\. | [DiariST\: Streaming Speech Translation with Speaker Diarization](<https://www.microsoft.com/en-us/research/publication/diarist-streaming-speech-translation-with-speaker-diarization/>) | Publication | Official page |
-| n\.d\. | [DiVeR\: Decision-Critical Verifier Learning for VLA Test-Time Scaling](<https://www.microsoft.com/en-us/research/publication/diver-decision-critical-verifier-learning-for-vla-test-time-scaling/>) | Publication | Official page |
 | n\.d\. | [Deploying a Robotic ride-on Car in the Hospital to Reduce the Stress of Pediatric Patients before Surgery](<https://www.microsoft.com/en-us/research/publication/deploying-a-robotic-ride-on-car-in-the-hospital-to-reduce-the-stress-of-pediatric-patients-before-surgery/>) | Publication | Official page |
 | n\.d\. | [Data Debugging with Shapley Importance over Machine Learning Pipelines](<https://www.microsoft.com/en-us/research/publication/data-debugging-with-shapley-importance-over-machine-learning-pipelines/>) | Publication | Official page |
 | n\.d\. | [Correcting the Mythos of KL-Regularization\: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization](<https://www.microsoft.com/en-us/research/publication/correcting-the-mythos-of-kl-regularization-direct-alignment-without-overoptimization-via-chi-squared-preference-optimization/>) | Publication | Official page |
@@ -76,7 +75,6 @@
 | n\.d\. | [CaRGo-T\: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension](<https://www.microsoft.com/en-us/research/publication/cargo-t-causal-reasoning-graph-of-thought-improves-multimodal-humor-comprehension/>) | Publication | Official page |
 | n\.d\. | [Broken Neural Scaling Laws in Learning the Optical Properties of Solids](<https://www.microsoft.com/en-us/research/publication/broken-neural-scaling-laws-in-learning-the-optical-properties-of-solids/>) | Publication | Official page |
 | n\.d\. | [BPQP\: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning](<https://www.microsoft.com/en-us/research/publication/bpqp-a-differentiable-convex-optimization-framework-for-efficient-end-to-end-learning/>) | Publication | Official page |
-| n\.d\. | [AttSVD\: Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD](<https://www.microsoft.com/en-us/research/publication/attsvd-prompt-adaptive-low-rank-kv-cache-compression-via-attention-guided-svd/>) | Publication | Official page |
 | n\.d\. | [AlignDiff\: Exploiting Model-Intrinsic Information for Better Preference Data Selection](<https://www.microsoft.com/en-us/research/publication/aligndiff-exploiting-model-intrinsic-information-for-better-preference-data-selection/>) | Publication | Official page |
 | n\.d\. | [Algorithmic Grammar of Flexible Cognition\: A Walk through Latent Operations](<https://www.microsoft.com/en-us/research/publication/algorithmic-grammar-of-flexible-cognition-a-walk-through-latent-operations/>) | Publication | Official page |
 | n\.d\. | [After Organizational AI Acceptance, AI Bias Fades but a Junior Penalty Persists in Code Review](<https://www.microsoft.com/en-us/research/publication/after-organizational-ai-acceptance-ai-bias-fades-but-a-junior-penalty-persists-in-code-review/>) | Publication | Official page |
@@ -90,26 +88,38 @@
 |---|---|---|---|
 | 2026‑10‑09 | [The time course of neural activity predictive of self-initiated movement](<https://doi.org/10.7554/elife.109913.2>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Industry-CSCW Dynamics in the Age of Generative AI\: Perspectives on Future Trajectories of Academia-Industry Collaboration](<https://doi.org/10.1145/3785651.3831574>) | Conference paper | OpenAlex |
+| 2026‑10‑09 | [Evaluating LLM Creativity through Long-Tail Performance](<https://arxiv.org/abs/2610.12998v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [Magic Pen\: Automatic Pen Mode Switching for Document Annotation](<https://arxiv.org/abs/2610.11255v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [eARCO\: Efficient Automated Root Cause Analysis with Prompt Optimization](<http://arxiv.org/abs/2504.11505>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [When Does AI Actually Help in Incident Response? Identifying Good First Messages in Cloud Service Incidents](<https://doi.org/10.1145/3832783.3837473>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](<http://arxiv.org/abs/2602.03181>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Debug2Fix\: Can Interactive Debugging Help Coding Agents Fix More Bugs?](<https://arxiv.org/abs/2602.18571>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [CtxFuzz\: Context-Aware Directed Fuzzing via Runtime Fuzzer-Agent Cooperation](<https://doi.org/10.1145/3832783.3834365>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [ActionNex\: A Production-Grade System for Next-Best-Action Recommendation in Cloud Outage Management](<https://doi.org/10.1145/3832783.3834472>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://arxiv.org/abs/2610.09254v1>) | Paper | Verified affiliation |
 | 2026‑10‑06 | [Learning the electronic health record at the minute-scale](<https://doi.org/10.64898/2026.10.04.26364562>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://arxiv.org/abs/2610.09085v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [GraphDecide\: Benchmarking System One Models on Graph Tasks](<https://arxiv.org/abs/2610.06354>) | Preprint | OpenAlex |
-| 2026‑10‑05 | [RESOLVE\: Language-Agnostic Validation of GPU Kernels Through Testing, Reduction, and Proof](<https://arxiv.org/abs/2610.05683v1>) | Paper | Verified affiliation |
-| 2026‑10‑04 | [ForkPilot\: Self-Evolving Policy for Retrospective Search in Long-Horizon Agents](<https://www.microsoft.com/en-us/research/publication/forkpilot-self-evolving-policy-for-retrospective-search-in-long-horizon-agents/>) | Publication | Official page, OpenAlex |
+| 2026‑10‑05 | [Capability-Driven Self-Evolution of Agent Memory](<https://arxiv.org/abs/2610.06361>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [AuraSE\: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization](<https://arxiv.org/abs/2610.06632>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [RESOLVE\: Language-Agnostic Validation of GPU Kernels Through Testing, Reduction, and Proof](<https://arxiv.org/abs/2610.05683v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [ForkPilot\: Self-Evolving Policy for Retrospective Search in Long-Horizon Agents](<https://www.microsoft.com/en-us/research/publication/forkpilot-self-evolving-policy-for-retrospective-search-in-long-horizon-agents/>) | Publication | Official page, OpenAlex, Verified affiliation |
+| 2026‑10‑04 | [DiVeR\: Decision-Critical Verifier Learning for VLA Test-Time Scaling](<https://www.microsoft.com/en-us/research/publication/diver-decision-critical-verifier-learning-for-vla-test-time-scaling/>) | Publication | Official page, OpenAlex |
+| 2026‑10‑04 | [EchoChat\: Structured Cognitive Reasoning in Empathetic Spoken Dialogue](<https://arxiv.org/abs/2610.04826>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [TeleTune\: Evolving Agent Skills From Offline Telemetry](<https://arxiv.org/abs/2610.05437v1>) | Paper | Verified affiliation |
+| 2026‑10‑03 | [AttSVD\: Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD](<https://www.microsoft.com/en-us/research/publication/attsvd-prompt-adaptive-low-rank-kv-cache-compression-via-attention-guided-svd/>) | Publication | Official page, Verified affiliation |
+| 2026‑10‑03 | [Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models](<https://arxiv.org/abs/2610.04757>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Understanding Enrichment in Reinforcement Learning](<https://arxiv.org/abs/2610.02846>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [The Recognition-Consequence Gap\: How Gesture Recognition Misses Human Action](<https://doi.org/10.1145/3776574.3830076>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Intent Formalization\: Assessing the Quality of AI-Generated Formal Program Specifications (Keynote)](<https://doi.org/10.1145/3842652.3850232>) | Conference abstract | OpenAlex |
 | 2026‑10‑02 | [FASTDIAR\: Frame-level speaker encoder for Streaming Diarization](<https://arxiv.org/abs/2610.02941>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Dynamic Expert Pruning for Multi-Agent Systems](<https://arxiv.org/abs/2610.02951>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [DUET\: Co-Evolving Solver and Grader Agents](<https://arxiv.org/abs/2610.04087>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [CorrectGuard\: Eyes-Off Correctness Estimation for Black-Box Security Guardrails](<https://arxiv.org/abs/2610.03470>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [CUAWright\: A Minimal Unified Interface for Digital Agents](<https://arxiv.org/abs/2610.04116>) | Preprint | OpenAlex |
 | 2026‑10‑02 | ["Great! The Next Step Is\.\.\."\: In Pursuit of Proactive Assistance with Multimodal Foundation Models](<https://doi.org/10.1145/3776574.3831228>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Agents as Software\: A Programming Languages Agenda for Agent Reliability](<https://www.microsoft.com/en-us/research/publication/agents-as-software-a-programming-languages-agenda-for-agent-reliability/>) | Publication | OpenAlex, Official page |
+| 2026‑10‑01 | [From Roadmap to Response\: A Community Assessment of Autonomous Science](<https://doi.org/10.2172/17197394>) | Report | OpenAlex |
 | 2026‑10‑01 | [Equivalence Checking of ML GPU Kernels](<https://arxiv.org/abs/2511.12638>) | Article | OpenAlex |
 | 2026‑10‑01 | [Tracking Borrows with Regular Expressions](<https://doi.org/10.1145/3839521>) | Article | OpenAlex |
 | 2026‑10‑01 | [The Conversation We’re Not Having about AI in Peer Review](<https://doi.org/10.1145/3840586.3843746>) | Conference paper | OpenAlex |
