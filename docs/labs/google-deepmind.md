@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5558`
+- Papers: `5559`
 - Latest: `2026-10-13`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -86,6 +86,7 @@
 | 2026‑09‑30 | [Aligning Thoughts with Answers\: Probability Rewards to Tame Thinking Drift](<https://arxiv.org/abs/2609.39183>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [AI manipulation is context-dependent](<https://doi.org/10.21203/rs.3.rs-11011902/v1>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [AI and Agency\: Benefiting Users by Understanding and Serving Explicit Aspirations](<https://doi.org/10.54501/jots.v3i4.352>) | Article | OpenAlex |
+| 2026‑09‑30 | [ChronoGraph\: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning](<https://arxiv.org/abs/2609.39665v2>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [VADER\: Filtered Vector Search with Declarative Recall](<https://arxiv.org/abs/2609.38053>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [The Safety Operator\: Modulating the Expression of Safety Instructions via Spectral Optimization](<https://arxiv.org/abs/2609.36434>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [TabFM\: A Zero-Shot Foundation Model for Tabular Data](<https://arxiv.org/abs/2609.37959>) | Preprint | OpenAlex |
@@ -1177,9 +1178,9 @@
 | 2026‑01‑28 | [Dissecting Multimodal In-Context Learning\: Modality Asymmetries and Circuit Dynamics in modern Transformers](<https://arxiv.org/abs/2601.20796>) | Preprint | OpenAlex |
 | 2026‑01‑28 | [PhaseCoder\: Microphone Geometry-Agnostic Spatial Audio Understanding for Multimodal LLMs](<https://arxiv.org/abs/2601.21124>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑27 | [Interdisciplinary expertise to advance human-centered explainable AI](<https://doi.org/10.1016/j.socscimed.2026.119036>) | Article | OpenAlex |
+| 2026‑01‑27 | [Achieving Productivity Gains with AI-based IDE features\: A Journey at Google](<https://arxiv.org/abs/2601.19964v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑27 | [Thought-Transfer\: Indirect Targeted Poisoning Attacks on Chain-of-Thought Reasoning Models](<http://arxiv.org/abs/2601.19061>) | Preprint | OpenAlex |
 | 2026‑01‑27 | [Regularized $f$-Divergence Kernel Tests](<http://arxiv.org/abs/2601.19755>) | Preprint | OpenAlex |
-| 2026‑01‑27 | [Achieving Productivity Gains with AI-based IDE features\: A Journey at Google](<https://arxiv.org/abs/2601.19964v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑26 | [Schema-based active inference supports rapid generalization of experience and frontal cortical coding of abstract structure](<http://arxiv.org/abs/2601.18946>) | Preprint | OpenAlex |
 | 2026‑01‑23 | [iPDB -- Optimizing Semantic SQL Queries](<https://arxiv.org/abs/2601.16432>) | Preprint | OpenAlex |
 | 2026‑01‑23 | [Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits](<https://arxiv.org/abs/2602.00092>) | Paper | Verified affiliation |
@@ -1362,6 +1363,7 @@
 | 2026‑01‑01 | [LoGeR\: Long-Context Geometric Reconstruction with Hybrid Memory](<https://arxiv.org/abs/2603.03269v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑01 | [Google's AI &amp; Economy ATLAS v1\.0\: Mapping Gemini Usage in the Economy](<https://arxiv.org/abs/2608.00038v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026 | [Position\: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](<https://www.microsoft.com/en-us/research/publication/position-explainability-research-must-prioritize-foundations-over-ad-hoc-methods/>) | Publication | Official page, OpenAlex |
+| 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
 | 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Towards conversational artificial intelligence for disease management](<https://research.google/pubs/towards-conversational-ai-for-disease-management/>) | Publication | Official page, OpenAlex |
 | 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
@@ -1374,7 +1376,6 @@
 | 2026 | [Prospective evidence for conversational medical AI is hard, but non-negotiable](<https://research.google/pubs/prospective-evidence-for-conversational-medical-ai-is-hard-but-non-negotiable/>) | Publication | OpenAlex, Official page |
 | 2026 | [Long-Tail Knowledge in Large Language Models\: Taxonomy, Mechanisms, Interventions and Implications](<https://research.google/pubs/long-tail-knowledge-in-large-language-models-taxonomy-mechanisms-interventions-and-implications/>) | Publication | Official page, OpenAlex |
 | 2026 | [Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair](<https://research.google/pubs/dynamic-cogeneration-of-bug-reproduction-test-in-agentic-program-repair/>) | Publication | Official page, Verified affiliation, OpenAlex |
-| 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
 | 2026 | [ADCanvas\: Accessible and Conversational Audio Description Authoring for Blind and Low Vision Creators](<https://research.google/pubs/adcanvas-accessible-and-conversational-audio-description-authoring-for-blind-and-low-vision-creators/>) | Publication | Official page, OpenAlex |
 | 2026 | [SymptomAI\: Toward a Conversational AI Agent for Everyday Symptom Assessment](<https://research.google/pubs/symptomai-toward-a-conversational-ai-agent-for-everyday-symptom-assessment/>) | Publication | OpenAlex, Verified affiliation, Official page |
 | 2026 | [Raman Spectroscopy Pre-Trained Encoder\: A Self-Supervised Learning Approach For Data-Efficient Domain-Independent Spectroscopy Analysis](<https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/>) | Publication | Official page, OpenAlex |
@@ -2721,10 +2722,10 @@
 | 2025‑01‑01 | [Model Merging in Pre-training of Large Language Models](<https://seed.bytedance.com/en/research/model-merging-in-pre-training-of-large-language-models>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Follow the Energy, Find the Path\: Riemannian Metrics from Energy-Based Models](<https://machinelearning.apple.com/research/follow-the-energy>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [CAR-Flow\: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching](<https://machinelearning.apple.com/research/car-flow>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [PerceptionLM\: Open-Access Data and Models for Detailed Visual Understanding](<https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Fact, Fetch, and Reason\: A Unified Evaluation of Retrieval-Augmented Generation](<https://doi.org/10.18653/v1/2025.naacl-long.243>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [A Unified Metric Architecture for AI Infrastructure\: A Cross-Layer Taxonomy Integrating Economics, Performance, and Efficiency](<https://doi.org/10.2139/ssrn.5808163>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [To Mask or to Mirror\: Human-AI Alignment in Collective Reasoning](<https://deepmind.google/research/publications/180362/>) | Publication | Official page, OpenAlex |
-| 2025‑01‑01 | [PerceptionLM\: Open-Access Data and Models for Detailed Visual Understanding](<https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Triply Efficient Shadow Tomography](<https://doi.org/10.1103/prxquantum.6.010336>) | Article | OpenAlex |
 | 2025‑01‑01 | [AI-Generated Video Detection via Perceptual Straightening](<https://deepmind.google/research/publications/160567/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Knowledge Graph Reasoning With Self-Supervised Reinforcement Learning](<https://doi.org/10.1109/taslpro.2025.3540648>) | Article | OpenAlex |
@@ -4653,7 +4654,7 @@
 | 2024‑03‑24 | [Reasoning about Causality in Games (Abstract Reprint)](<http://dx.doi.org/10.1609/aaai.v38i20.30597>) | Conference paper | OpenAlex |
 | 2024‑03‑24 | [Discovering Agents (Abstract Reprint)](<http://dx.doi.org/10.1609/aaai.v38i20.30601>) | Conference paper | OpenAlex |
 | 2024‑03‑23 | [Role of Locality and Weight Sharing in Image-Based Tasks\: A Sample Complexity Separation between CNNs, LCNs, and FCNs](<http://arxiv.org/abs/2403.15707>) | Preprint | OpenAlex |
-| 2024‑03‑22 | [Understanding Mixed Precision GEMM with MPGemmFI\: Insights into Fault Resilience](<https://doi.org/10.1109/cluster59578.2024.00022>) | Conference paper | OpenAlex |
+| 2024‑03‑22 | [Anomaly Identification and Classification of Network Traffic Using Optimized Machine Learning Approach](<https://doi.org/10.1109/picom64201.2024.00022>) | Conference paper | OpenAlex |
 | 2024‑03‑22 | [Speech Sound Categories Affect Lexical Competition\: Implications for Analytic Auditory Training](<https://doi.org/10.1044/2024_jslhr-23-00307>) | Article | OpenAlex |
 | 2024‑03‑22 | [Abstract 7380\: Predicting immunotherapy outcomes from H&amp;E images in lung cancer](<http://dx.doi.org/10.1158/1538-7445.am2024-7380>) | Conference abstract | OpenAlex |
 | 2024‑03‑21 | [Evaluating Frontier Models for Dangerous Capabilities](<https://deepmind.google/research/publications/78150/>) | Publication | Official page |

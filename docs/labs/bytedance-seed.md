@@ -1180,9 +1180,9 @@
 | 2025‑01‑01 | [UA-LIO\: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](<https://doi.org/10.1109/tim.2025.3544286>) | Article | OpenAlex |
 | 2025‑01‑01 | [Safety at Scale\: A Comprehensive Survey of Large Model and Agent Safety](<https://arxiv.org/abs/2502.05206>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Time Series Anomaly Detection for Natural Gas Pipeline Leakage](<https://doi.org/10.1109/lsp.2025.3599012>) | Article | OpenAlex |
+| 2025‑01‑01 | [AutoRedTeamer\: Autonomous Red Teaming with Lifelong Attack Integration](<https://doi.org/10.70777/si.v2i2.14433>) | Article | OpenAlex |
 | 2025‑01‑01 | [I Know What You Asked\: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving](<https://doi.org/10.14722/ndss.2025.241772>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [CMoA\: Contrastive Mixture of Adapters for Generalized Few-Shot Continual Learning](<https://doi.org/10.1109/tmm.2025.3543038>) | Article | OpenAlex |
-| 2025‑01‑01 | [AutoRedTeamer\: Autonomous Red Teaming with Lifelong Attack Integration](<https://doi.org/10.70777/si.v2i2.14433>) | Article | OpenAlex |
 | 2025‑01‑01 | [Leveraging Large Language Model for Enhanced Text-to-SQL Parsing](<https://doi.org/10.1109/access.2025.3540072>) | Article | OpenAlex |
 | 2025‑01‑01 | [UniTok\: a Unified Tokenizer for Visual Generation and Understanding](<http://arxiv.org/abs/2502.20321>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Stereo-Talker\: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts](<https://doi.org/10.1109/tpami.2025.3596160>) | Article | OpenAlex |

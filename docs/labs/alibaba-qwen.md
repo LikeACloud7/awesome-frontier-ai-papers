@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3820`
+- Papers: `3822`
 - Latest: `2026-10-09`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -44,6 +44,7 @@
 | 2026‑10‑04 | [Geometry-Aware Preference Optimization for Text-to-Image Diffusion Models](<https://arxiv.org/abs/2610.04980>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [CleanMDM\: Clean Motion Diffusion Model for Multimodal Motion Cleanup](<https://arxiv.org/abs/2610.05411>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Causal Improvement Graph for Agentic Harness Optimization](<https://arxiv.org/abs/2610.05039>) | Preprint | OpenAlex |
+| 2026‑10‑04 | [PortraitAes\: Intent-Conditioned Structured Portrait Aesthetic Assessment](<https://arxiv.org/abs/2610.05010v2>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [The GPU Resilience Lottery\: Understanding and Taming Real-World Hardware Errors in Heterogeneous AI Infrastructure](<https://doi.org/10.1145/3849815>) | Article | OpenAlex |
 | 2026‑10‑03 | [Principles that Guide, Actions that Inform\: Agent Evolution via Knowledge Abstraction](<https://arxiv.org/abs/2610.06964>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Playing social deduction games with reinforcement fine-tuned large language models](<https://arxiv.org/abs/2610.04261>) | Preprint | OpenAlex |
@@ -60,6 +61,7 @@
 | 2026‑10‑01 | [How the Audit Rule Shapes Faithful Factor Explanations in LLMs](<https://arxiv.org/abs/2610.01514>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [DeFA\: Dependency-Guided Failure Attribution for LLM Agents](<https://arxiv.org/abs/2610.01256>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [A lightweight dual-mode optimization for generative face video coding](<http://arxiv.org/abs/2508.13547>) | Article | OpenAlex |
+| 2026‑10‑01 | [Spatial Memory Intelligence\: Endowing World Models with Understanding-Driven Long-Term Memory](<https://arxiv.org/abs/2610.02521v2>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [StateTree\: Enhancing Long-Term Dialogue Reasoning via Reinforcement Learning](<https://arxiv.org/abs/2609.38809>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [SCIC\: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS](<https://arxiv.org/abs/2609.39088>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [MatrixReward\: Reward from Rubric Matrix for Open-Ended Generation](<https://arxiv.org/abs/2610.00389>) | Preprint | OpenAlex |
@@ -2367,6 +2369,7 @@
 | 2025‑01‑01 | [FutureSightDrive\: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](<https://doi.org/10.52202/085713-2257>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SMEC\: Rethinking Matryoshka Representation Learning for Retrieval Embedding Compression](<http://arxiv.org/abs/2510.12474>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [WavRAG\: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](<https://doi.org/10.18653/v1/2025.acl-long.613>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Vgent\: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding](<https://doi.org/10.52202/085713-3372>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Interactive Face Video Coding\: A Generative Compression Framework](<https://doi.org/10.1109/tip.2025.3563762>) | Article | OpenAlex |
 | 2025‑01‑01 | [A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection](<https://doi.org/10.1109/tmm.2025.3607729>) | Article | OpenAlex |
 | 2025‑01‑01 | [VITA-1\.5\: Towards GPT-4o Level Real-Time Vision and Speech Interaction](<http://arxiv.org/abs/2501.01957>) | Conference paper | OpenAlex |
@@ -2376,7 +2379,6 @@
 | 2025‑01‑01 | [Beyond the 80/20 Rule\: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](<http://arxiv.org/abs/2506.01939>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [AirRAG\: Autonomous Strategic Planning and Reasoning Steer Retrieval Augmented Generation](<https://doi.org/10.18653/v1/2025.findings-emnlp.1030>) | Article | OpenAlex |
 | 2025‑01‑01 | [Wan-Move\: Motion-controllable Video Generation via Latent Trajectory Guidance](<https://doi.org/10.52202/085713-0014>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Vgent\: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding](<https://doi.org/10.52202/085713-3372>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [RA-BLIP\: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-Training](<https://doi.org/10.1109/tmm.2025.3599070>) | Article | OpenAlex |
 | 2025‑01‑01 | [Not Every Patch is Needed\: Toward a More Efficient and Effective Backbone for Video-Based Person Re-Identification](<https://doi.org/10.1109/tip.2025.3531299>) | Article | OpenAlex |
 | 2025‑01‑01 | [Lrp4rag\: Detecting Hallucinations in Retrieval-Augmented Generation Via Layer-Wise Relevance Propagation](<https://doi.org/10.2139/ssrn.5199254>) | Preprint | OpenAlex |

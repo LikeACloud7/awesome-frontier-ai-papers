@@ -417,7 +417,7 @@
 | 2025‑11‑11 | [ERNIE-4\.5-VL-28B-A3B-Thinking\: A Breakthrough in Multimodal AI](<https://ernie.baidu.com/blog/posts/ernie-4.5-vl-28b-a3b-thinking/>) | Research post | Official page |
 | 2025‑11‑11 | [DiffuGR\: Generative Document Retrieval with Diffusion Language Models](<http://arxiv.org/abs/2511.08150>) | Preprint | OpenAlex |
 | 2025‑11‑10 | [A Survey on Multi-agent Reinforcement Learning for Adaptive Transportation Solutions](<https://doi.org/10.1007/s42979-025-04475-3>) | Article | OpenAlex |
-| 2025‑11‑10 | [MobileLLM-Pro Technical Report](<https://huggingface.co/papers/2511.06719>) | Paper | Hugging Face |
+| 2025‑11‑10 | [MobileLLM-Pro Technical Report](<https://huggingface.co/papers/2511.06719>) | Paper | Hugging Face, OpenAlex |
 | 2025‑11‑10 | [Social Relation Meets Recommendation\: Augmentation and Alignment](<https://doi.org/10.1145/3746252.3760873>) | Conference paper | OpenAlex |
 | 2025‑11‑10 | [USE-LTV\: Customer LifeTime Value Prediction via Uncertain Sequence Modeling in Baidu Ads](<https://doi.org/10.1145/3746252.3760876>) | Conference paper | OpenAlex |
 | 2025‑11‑10 | [Can LLM Annotations Replace User Clicks for Learning to Rank?](<https://arxiv.org/abs/2511.06635v2>) | Paper | OpenAlex, Verified affiliation |

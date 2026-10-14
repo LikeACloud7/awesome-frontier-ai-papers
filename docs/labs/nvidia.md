@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2055`
+- Papers: `2056`
 - Latest: `2026-10-10`
 - [Back to README](../../README.md#nvidia)
 
@@ -67,6 +67,7 @@
 | 2026‑09‑29 | [LongLive-Plug\: Once-for-All Distillation for Video Generation](<https://arxiv.org/abs/2609.38154v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [LeapQuant\: Efficient Linear Attention with Accurate Recurrent State Quantization](<https://arxiv.org/abs/2609.38166v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [Delta-Matching\: Closing the Final Gap of Native 8-bit Training for LLMs](<https://arxiv.org/abs/2609.37852v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑29 | [CANTO\: CAD-Native Transformer Operators for AI-Aided Engineering](<https://arxiv.org/abs/2609.36806v2>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [d-OPD\: Future-Aware On-Policy Distillation for Block Diffusion Language Models](<https://arxiv.org/abs/2609.35362>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [ReCAT\: Remember, Count, and Time\: Structured Recurrent Memory for Robot Manipulation](<https://arxiv.org/abs/2609.35200>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Disk-Based LSMs\: An Unexpectedly Good Index for Partly Coherent CXL Memory](<https://doi.org/10.1145/3830418.3843886>) | Conference paper | OpenAlex |
@@ -293,7 +294,6 @@
 | 2026‑06‑01 | [PMKS\: Co-Designing Distributed Networking and Multi-Tier Storage for Ultra-Long Context LLM Inference](<https://doi.org/10.1109/eei70303.2026.11640499>) | Conference paper | OpenAlex |
 | 2026‑06‑01 | [Five-Minute Rule 40 Years Later\: A First-Principles Revisit for Modern Memory Hierarchy](<https://arxiv.org/abs/2511.03944>) | Conference paper | OpenAlex |
 | 2026‑06‑01 | [Enhancing fake news detection\: a hybrid BERT-XGBoost model for improved performance and interpretability](<https://doi.org/10.11591/ijai.v15.i3.pp2385-2397>) | Article | OpenAlex |
-| 2026‑06‑01 | [Efficient Genome-by-k-mer Matrix Construction for Population-Scale Health Analytics](<https://doi.org/10.1109/ichi69079.2026.00074>) | Conference paper | OpenAlex |
 | 2026‑06‑01 | [7‐1\: Real‐Time Neural Filtering for Perceptual Enhancement of Digital Experiences](<https://doi.org/10.1002/sdtp.70001_27>) | Conference paper | OpenAlex |
 | 2026‑06 | [NVIDIA OmniDreams\: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation](<https://research.nvidia.com/publication/2026-06_nvidia-omnidreams-real-time-generative-world-model-closed-loop-autonomous>) | Publication | Hugging Face, Official page |
 | 2026‑06 | [ReinforceGen\: Hybrid Skill Policies with Automated Data Generation and Reinforcement Learning](<https://research.nvidia.com/publication/2026-06_reinforcegen-hybrid-skill-policies-automated-data-generation-and-reinforcement>) | Publication | Official page |
@@ -414,6 +414,7 @@
 | 2026‑03‑27 | [Noise-Resilient Federated Contrastive Learning for NSCLC Diagnosis\: A Dual-Tier Framework with Confidence-Aware Aggregation](<https://doi.org/10.1109/rpic68328.2026.11518097>) | Conference paper | OpenAlex |
 | 2026‑03‑22 | [Active Power Buffer for Smoothing GPU Workload Transients in Data Center Power Delivery](<https://doi.org/10.1109/apec51134.2026.11516732>) | Conference paper | OpenAlex |
 | 2026‑03‑20 | [Design and Packaging of a DWDM CW-DFB Laser Array for Co-Integrated Optical Interconnects](<https://research.nvidia.com/publication/2026-05_design-and-packaging-dwdm-cw-dfb-laser-array-co-integrated-optical>) | Publication | Official page, OpenAlex |
+| 2026‑03‑20 | [Efficient Genome-by-k-mer Matrix Construction for Population-Scale Health Analytics](<https://doi.org/10.1109/ichi69079.2026.00074>) | Conference paper | OpenAlex |
 | 2026‑03‑20 | [Dream, Lift, Animate\: From Single Images to Animatable Gaussian Avatars](<https://doi.org/10.1109/3dv69130.2026.00136>) | Conference paper | OpenAlex |
 | 2026‑03‑19 | [Cosmos-Surg-DVRK\: World Foundation Model-Based Automated Online Evaluation of Surgical Robot Policy Learning](<https://doi.org/10.1109/lra.2026.3675962>) | Article | OpenAlex |
 | 2026‑03‑19 | [Nemotron-Cascade 2\: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](<https://arxiv.org/abs/2603.19220>) | Paper | Verified affiliation |
@@ -1259,7 +1260,7 @@
 | 2025‑02‑28 | [Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion](<https://doi.org/10.1145/3710848.3710868>) | Conference paper | OpenAlex |
 | 2025‑02‑27 | [Power for AI and AI for Power\: The Infinite Entanglement Between Artificial Intelligence and Power Electronics Systems](<https://doi.org/10.1109/mpel.2024.3524742>) | Article | OpenAlex |
 | 2025‑02‑26 | [Revisiting put-that-there, context aware window interactions via LLMs](<https://arxiv.org/abs/2511.02378v1>) | Paper | OpenAlex, Verified affiliation |
-| 2025‑02‑26 | [ECCheck\: Enhancing In-Memory Checkpoint with Erasure Coding in Distributed DNN Training](<https://doi.org/10.1109/icdcs63083.2025.00033>) | Conference paper | OpenAlex |
+| 2025‑02‑26 | [Enhancing and Evaluating Probabilistic Circuits for High-Resolution Lossless Image Compression](<https://doi.org/10.1109/dcc62719.2025.00033>) | Conference paper | OpenAlex |
 | 2025‑02‑26 | [CrowdMAC\: Masked Crowd Density Completion for Robust Crowd Density Forecasting](<https://doi.org/10.1109/wacv61041.2025.00798>) | Conference paper | OpenAlex |
 | 2025‑02‑25 | [FO-PINN\: A First-Order formulation for Physics-Informed Neural Networks](<https://doi.org/10.1016/j.enganabound.2025.106161>) | Article | OpenAlex |
 | 2025‑02‑25 | [Assessing the Impact of Transition and Peripheral Zone PSA Densities Over Whole‐Gland PSA Density for Prostate Cancer Detection on Multiparametric MRI](<https://doi.org/10.1002/pros.24863>) | Article | OpenAlex |
@@ -1346,6 +1347,7 @@
 | 2025‑01‑01 | [MeDiSumQA\: Patient-Oriented Question-Answer Generation from Discharge Letters](<https://doi.org/10.18653/v1/2025.cl4health-1.10>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Instant Gaussian Splatting Generation for High-Quality and Real-Time Facial Asset Rendering](<https://doi.org/10.1109/tpami.2025.3550195>) | Article | OpenAlex |
 | 2025‑01‑01 | [FLAG-TRADER\: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading](<http://arxiv.org/abs/2502.11433>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Audio Flamingo 3\: Advancing Audio Intelligence with Fully Open Large Audio Language Models](<https://arxiv.org/abs/2507.08128>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [ALPACA AGAINST VICUNA\: Using LLMs to Uncover Memorization of LLMs](<https://doi.org/10.18653/v1/2025.naacl-long.421>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [UniRelight\: Learning Joint Decomposition and Synthesis for Video Relighting](<http://arxiv.org/abs/2506.15673>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Rectified Point Flow\: Generic Point Cloud Pose Estimation](<https://doi.org/10.52202/085713-5628>) | Conference paper | OpenAlex |
@@ -1456,7 +1458,6 @@
 | 2025‑01‑01 | [3D Visual Illusion Depth Estimation](<http://arxiv.org/abs/2505.13061>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LuxDiT\: Lighting Estimation with Video Diffusion Transformer](<https://arxiv.org/abs/2509.03680>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [HelpSteer3-Preference\: Open Human-Annotated Preference Data across Diverse Tasks and Languages](<https://arxiv.org/abs/2505.11475>) | Paper | Verified affiliation, OpenAlex |
-| 2025‑01‑01 | [Audio Flamingo 3\: Advancing Audio Intelligence with Fully Open Large Audio Language Models](<https://arxiv.org/abs/2507.08128>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [FFN Fusion\: Rethinking Sequential Computation in Large Language Models](<https://arxiv.org/abs/2503.18908>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [ProRL\: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](<https://arxiv.org/abs/2505.24864>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [Inference-Time Hyper-Scaling with KV Cache Compression](<https://arxiv.org/abs/2506.05345>) | Paper | Verified affiliation, OpenAlex |
@@ -1924,7 +1925,7 @@
 | 2024‑03‑27 | [Robust sound-guided image manipulation](<https://doi.org/10.1016/j.neunet.2024.106271>) | Article | OpenAlex |
 | 2024‑03‑26 | [Model tuning or prompt Tuning? a study of large language models for clinical concept and relation extraction](<https://doi.org/10.1016/j.jbi.2024.104630>) | Article | OpenAlex |
 | 2024‑03‑24 | [Directed Diffusion\: Direct Control of Object Placement through Attention Guidance](<https://doi.org/10.1609/aaai.v38i5.28204>) | Conference paper | OpenAlex |
-| 2024‑03‑22 | [Understanding Mixed Precision GEMM with MPGemmFI\: Insights into Fault Resilience](<https://doi.org/10.1109/cluster59578.2024.00022>) | Conference paper | OpenAlex |
+| 2024‑03‑22 | [Anomaly Identification and Classification of Network Traffic Using Optimized Machine Learning Approach](<https://doi.org/10.1109/picom64201.2024.00022>) | Conference paper | OpenAlex |
 | 2024‑03‑21 | [Automated prostate gland segmentation in challenging clinical cases\: comparison of three artificial intelligence methods](<https://doi.org/10.1007/s00261-024-04242-7>) | Article | OpenAlex |
 | 2024‑03‑20 | [An Energy-Efficient Neural Network Accelerator With Improved Resilience Against Fault Attacks](<https://doi.org/10.1109/jssc.2024.3374638>) | Article | OpenAlex |
 | 2024‑03‑19 | [Unified Collective Communication (UCC)\: An Unified Library for CPU, GPU, and DPU Collectives](<https://doi.org/10.1109/hoti63208.2024.00018>) | Conference paper | OpenAlex |

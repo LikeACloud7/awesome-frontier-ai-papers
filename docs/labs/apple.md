@@ -849,12 +849,12 @@
 | 2024‑07‑31 | [1‐Lipschitz Neural Distance Fields](<https://doi.org/10.1111/cgf.15128>) | Article | OpenAlex |
 | 2024‑07‑29 | [Apple Intelligence Foundation Language Models](<https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models>) | Publication | Official page |
 | 2024‑07‑28 | [QID\: Efficient query-informed ViTs in data-scarce regimes for OCR-free visual document understanding](<https://www.amazon.science/publications/qid-efficient-query-informed-vits-in-data-scarce-regimes-for-ocr-free-visual-document-understanding>) | Publication | OpenAlex, Official page |
-| 2024‑07‑25 | [LazyLLM\: Dynamic Token Pruning for Efficient Long Context LLM Inference](<https://machinelearning.apple.com/research/dynamic-token-pruning>) | Publication | Official page |
 | 2024‑07‑25 | [Pre-Trained Foundation Model Representations to Uncover Breathing Patterns in Speech](<https://machinelearning.apple.com/research/pretrained-foundation-model>) | Publication | Official page |
 | 2024‑07‑25 | [Instruction-Following Speech Recognition](<https://machinelearning.apple.com/research/instruction-following-speech>) | Publication | Official page |
 | 2024‑07‑24 | [Federated Learning With Differential Privacy for End-to-End Speech Recognition](<https://machinelearning.apple.com/research/fed-learning-diff-privacy>) | Publication | Official page |
 | 2024‑07‑23 | [Instance-Optimal Private Density Estimation in the Wasserstein Distance](<https://machinelearning.apple.com/research/instance-optimal>) | Publication | Official page |
 | 2024‑07‑22 | [Handheld Mapping of Specular Surfaces Using Consumer-Grade Flash LiDAR](<https://doi.org/10.1109/iccp61108.2024.10644634>) | Conference paper | OpenAlex |
+| 2024‑07‑19 | [LazyLLM\: Dynamic Token Pruning for Efficient Long Context LLM Inference](<https://machinelearning.apple.com/research/dynamic-token-pruning>) | Publication | Official page, OpenAlex |
 | 2024‑07‑19 | [On the Privacy of Noisy Stochastic Gradient Descent for Convex Optimization](<https://doi.org/10.1137/23m1556538>) | Article | OpenAlex |
 | 2024‑07‑18 | [Samplable Anonymous Aggregation for Private Federated Data Analytics](<https://machinelearning.apple.com/research/samplable-anon-aggregation>) | Publication | Official page |
 | 2024‑07‑17 | [Projected Language Models\: A Large Model Pre-Segmented Into Smaller Ones](<https://machinelearning.apple.com/research/projected-language-models>) | Publication | Official page |

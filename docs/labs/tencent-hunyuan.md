@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3733`
+- Papers: `3735`
 - Latest: `2026-10-12`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -22,12 +22,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑12 | [LifeSearch\: Benchmarking Deep Research Agents for Real-World Life and Productivity](<https://huggingface.co/papers/2610.18092>) | Preprint | Official page |
 | 2026‑10‑12 | [Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling](<https://doi.org/10.64898/2026.10.10.757278>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Game-Creation-Agents\: Autonomous Game Production](<https://arxiv.org/abs/2610.16776v1>) | Paper | Verified affiliation |
 | 2026‑10‑11 | [Personalized Graph Sampling for Diverse Short Video Recommendation](<https://doi.org/10.1145/3847194>) | Article | OpenAlex |
 | 2026‑10‑10 | [A Decade in a Day\: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution](<https://huggingface.co/papers/2610.15765>) | Preprint | Official page |
 | 2026‑10‑08 | [Product evolution model (PEM)\: a functional semantic knowledge-driven framework for product technology landscape construction](<https://doi.org/10.1108/jedt-05-2026-0291>) | Article | OpenAlex |
 | 2026‑10‑08 | [Conditional Residual Prediction\: Improving Autoregressive Video Diffusion without a Bidirectional Teacher](<https://arxiv.org/abs/2610.11479>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [VAMR\: Multi-Question Agentic Reasoning for Efficient Long-Form Video Understanding](<https://arxiv.org/abs/2610.11171v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [UXBench Pro\: Benchmarking Personalized User Experience in Multi-Turn Dialogue Interactions](<https://arxiv.org/abs/2610.11638v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [SWE-Journey\: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction](<https://arxiv.org/abs/2610.11559v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [Residual Advantage\: Student-Relative Teacher Guidance for RL with Verifiable Rewards](<https://arxiv.org/abs/2610.11519v1>) | Paper | Verified affiliation |
@@ -1565,7 +1567,6 @@
 | 2025‑10‑01 | [Social Welfare Function Leaderboard\: When LLM Agents Allocate Social Welfare](<http://arxiv.org/abs/2510.01164>) | Preprint | OpenAlex |
 | 2025‑10‑01 | [ReSeek\: A Self-Correcting Framework for Search Agents with Instructive Rewards](<https://arxiv.org/abs/2510.00568>) | Preprint | OpenAlex |
 | 2025‑10‑01 | [Copy-Paste to Mitigate Large Language Model Hallucinations](<http://arxiv.org/abs/2510.00508>) | Preprint | OpenAlex |
-| 2025‑10‑01 | [Beyond the Pre-Service Horizon\: Infusing In-Service Behavior for Improved Financial Risk Forecasting](<https://doi.org/10.1109/icdm65498.2025.00054>) | Conference paper | OpenAlex |
 | 2025‑10‑01 | [Arbitrary Generative Video Interpolation](<http://arxiv.org/abs/2510.00578>) | Preprint | OpenAlex |
 | 2025‑09‑30 | [Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners](<https://huggingface.co/papers/2509.26226>) | Technical report | Official page, Hugging Face |
 | 2025‑09‑30 | [DA^2\: Depth Anything in Any Direction](<https://huggingface.co/papers/2509.26618>) | Technical report | Official page, Hugging Face |
@@ -1737,6 +1738,7 @@
 | 2025‑06‑25 | [Research on an adaptive multimodal cognitive load classification method](<https://doi.org/10.1080/27706710.2025.2519022>) | Article | OpenAlex |
 | 2025‑06‑23 | [A Multimodal Intelligent Change Assessment Framework for Microservice Systems Based on Large Language Models](<https://doi.org/10.1145/3696630.3728561>) | Article | OpenAlex |
 | 2025‑06‑23 | [LSPAI\: An IDE Plugin for LLM-Powered Multi-Language Unit Test Generation with Language Server Protocol](<https://doi.org/10.1145/3696630.3728540>) | Conference paper | OpenAlex |
+| 2025‑06‑23 | [Beyond the Pre-Service Horizon\: Infusing In-Service Behavior for Improved Financial Risk Forecasting](<https://doi.org/10.1109/icdm65498.2025.00054>) | Conference paper | OpenAlex |
 | 2025‑06‑22 | [DecLLM\: LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code](<https://doi.org/10.1145/3728958>) | Article | OpenAlex |
 | 2025‑06‑22 | [KEENHash\: Hashing Programs into Function-Aware Embeddings for Large-Scale Binary Code Similarity Analysis](<https://doi.org/10.1145/3728911>) | Article | OpenAlex |
 | 2025‑06‑20 | [Hunyuan-GameCraft\: High-dynamic Interactive Game Video Generation with Hybrid History Condition](<https://arxiv.org/abs/2506.17201>) | Paper | Verified affiliation |
