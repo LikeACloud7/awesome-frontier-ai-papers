@@ -1,15 +1,18 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1092`
-- Latest: `2026-10-06`
+- Papers: `1096`
+- Latest: `2026-10-07`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑07 | [MIRROR\: From Imitation to Internalization in LLM Personalization](<https://arxiv.org/abs/2610.09795>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [RLDISCOVER\: LLM-driven co-evolution of reinforcement learning algorithms](<https://arxiv.org/abs/2610.09218>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Detecting Adversarial Illicit Promotional Images via Threat-Driven Multimodal Analysis](<https://doi.org/10.1007/978-3-032-38702-8_14>) | Conference paper | OpenAlex |
+| 2026‑10‑06 | [AGAR\: a reinforcement learning substrate for LLM program evolution](<https://arxiv.org/abs/2610.09215>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Controllable Orthogonalization for Stabilizing Neural Network Training in Deep Reinforcement Learning](<https://doi.org/10.3390/informatics13100162>) | Article | OpenAlex |
 | 2026‑10‑01 | [Resilience-based critical link ranking and combination identification in urban road networks across multi-scale disruption scenarios](<https://doi.org/10.1016/j.physa.2026.132132>) | Article | OpenAlex |
 | 2026‑10‑01 | [CriticHack\: Evaluating Visual Rewards Under Robot Policy Optimization](<https://arxiv.org/abs/2610.02527>) | Preprint | OpenAlex |
@@ -39,6 +42,7 @@
 | 2026‑09‑17 | [F$^{2}$DR\: A Fine-Grained Full-Pipeline Reward Framework for DeepSearch Workflows](<https://arxiv.org/abs/2609.19827>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data](<https://arxiv.org/abs/2609.19805>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [PersonaPath\: Towards Knowledge-Centric Personalized Learning Path Planning](<https://arxiv.org/abs/2609.18861>) | Preprint | OpenAlex |
+| 2026‑09‑15 | [RiskChainBench\: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](<https://arxiv.org/abs/2609.16900v2>) | Paper | Verified affiliation |
 | 2026‑09‑15 | [From Transient Prompts to Persistent Control\: Scientific Poster Generation via Recursive Semantic-Geometric Contracts](<https://arxiv.org/abs/2609.17326v1>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Generate to Explore, Select to Exploit\: Aligning LLM-based Headline Generation with Personalized Recommendation](<https://arxiv.org/abs/2609.15094>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [Navigating Sparse Evidence\: Agentic Visual RAG via Explicit Context Selection and Consolidation](<https://arxiv.org/abs/2609.15800v1>) | Paper | Verified affiliation, OpenAlex |
@@ -524,7 +528,6 @@
 | 2025‑06‑12 | [Unsupervised Pre-Training With Language-Vision Prompts for Low-Data Instance Segmentation](<https://doi.org/10.1109/tpami.2025.3579469>) | Article | OpenAlex |
 | 2025‑06‑10 | [TRKT\: Weakly Supervised Dynamic Scene Graph Generation with Temporal-Enhanced Relation-Aware Knowledge Transferring](<https://doi.org/10.1109/iccv51701.2025.01467>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Hallo3\: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](<https://doi.org/10.1109/cvpr52734.2025.01964>) | Article | OpenAlex |
-| 2025‑06‑10 | [HOI-Diff\: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models](<https://doi.org/10.1109/cvprw67362.2025.00271>) | Article | OpenAlex |
 | 2025‑06‑10 | [Splatter-360\: Generalizable 360° Gaussian Splatting for Wide-baseline Panoramic Images](<https://doi.org/10.1109/cvpr52734.2025.02011>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Recognition-Synergistic Scene Text Editing](<https://doi.org/10.1109/cvpr52734.2025.01223>) | Article | OpenAlex |
 | 2025‑06‑10 | [MPDrive\: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](<https://doi.org/10.1109/cvpr52734.2025.01129>) | Conference paper | OpenAlex |
@@ -701,6 +704,7 @@
 | 2025‑01‑01 | [A Novel Multi-Perspective Framework for Molecule Pretraining\: From Atom to Motif Views](<https://doi.org/10.1109/jbhi.2025.3637248>) | Article | OpenAlex |
 | 2025‑01‑01 | [Proactive Guidance of Multi-Turn Conversation in Industrial Search](<https://arxiv.org/abs/2505.24251v1>) | Paper | OpenAlex, Verified affiliation |
 | 2025 | [PaddleOCR-VL\: Boosting Multilingual Document Parsing via a 0\.9B Ultra-Compact Vision-Language Model](<https://ernie.baidu.com/blog/posts/paddleocr-vl/>) | Technical report | Official page |
+| 2025 | [HOI-Diff\: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models](<https://research.google/pubs/hoi-diff-text-driven-synthesis-of-3d-human-object-interactions-using-diffusion-models/>) | Publication | OpenAlex, Official page |
 | 2025 | [ERNIE 4\.5 Technical Report](<https://ernie.baidu.com/blog/publication/ERNIE_Technical_Report.pdf>) | Technical report | Official page |
 | 2025 | [MobiTwin\: Toward building end-to-end framework for user's mobile twins](<https://www.amazon.science/publications/mobitwin-toward-building-end-to-end-framework-for-users-mobile-twins>) | Publication | Official page, OpenAlex |
 | 2025 | [A multi-stage pipeline for accurate handwritten information extraction from financial forms](<https://www.amazon.science/publications/a-multi-stage-pipeline-for-accurate-handwritten-information-extraction-from-financial-forms>) | Publication | Official page, OpenAlex |

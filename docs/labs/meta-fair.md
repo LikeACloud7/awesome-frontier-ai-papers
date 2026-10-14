@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `439`
-- Latest: `2026-10-09`
+- Papers: `445`
+- Latest: `2026-10-13`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -40,6 +40,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑13 | [AutoformBench\: A Lean Formalization Benchmark for Advanced Mathematics](<https://ai.meta.com/research/publications/autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics/>) | Publication | Official page |
 | 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Optimizing UVQ for scaling video quality assessment](<https://doi.org/10.1117/12.3112825>) | Conference abstract | OpenAlex |
@@ -49,8 +50,12 @@
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
+| 2026‑10‑06 | [Which and When to Admit\: Gradient Admission for Data-Centric Small Language Model Finetuning](<https://arxiv.org/abs/2610.07553>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [Personal-Agent Mediated Recommendation with Cross-Platform User History](<https://arxiv.org/abs/2610.07588>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [PEG for Information Flow\: Analysis and Incremental Reasoning](<https://doi.org/10.1007/978-3-032-40374-2_10>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
+| 2026‑10‑06 | [Constraint Tree Exploration for Learning from Language Feedback](<https://arxiv.org/abs/2610.09107>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [Exact Unlearning via Quantized Sufficient Statistics](<https://arxiv.org/abs/2610.07197>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Rethinking Long-Video Efficiency\: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](<https://arxiv.org/abs/2610.04318>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
 | 2026‑10‑02 | [The Strict Threshold for Gaussian Ellipsoid Fitting](<https://ai.meta.com/research/publications/the-strict-threshold-for-gaussian-ellipsoid-fitting/>) | Publication | Official page |
@@ -62,6 +67,7 @@
 | 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
+| 2026‑09‑29 | [TMPE\: online power time-series forecasting via truncated Monte Carlo and prior experience replay](<https://doi.org/10.1007/s11227-026-08882-y>) | Article | OpenAlex |
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Beyond One Epoch\: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models](<https://arxiv.org/abs/2609.34083>) | Preprint | OpenAlex |

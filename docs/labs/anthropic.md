@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `346`
-- Latest: `2026-10-09`
+- Papers: `349`
+- Latest: `2026-10-12`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -20,6 +20,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑12 | [Strengthening our defenses against distillation attacks](<https://www.anthropic.com/research/distillation-defenses>) | Research post | Official page |
+| 2026‑10‑12 | [AI models may be capable of self-replicating without access to a datacenter](<https://www.anthropic.com/research/self-replicating-ai>) | Research post | Official page |
+| 2026‑10‑11 | [Autonomous AI agents discover reverse transcriptases with tandem repeat arrays](<https://doi.org/10.64898/2026.10.05.755809>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Investigating unintended model actions in our evaluations and internal use](<https://www.anthropic.com/research/investigating-unintended-model-actions>) | Research post | Official page |
 | 2026‑10‑08 | [The missing map of the sky](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) | Research post | Official page |
 | 2026‑10‑08 | [Launching an opt-in vulnerability-finding service for open-source software](<https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source>) | Research post | Official page |

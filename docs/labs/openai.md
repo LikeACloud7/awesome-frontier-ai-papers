@@ -41,7 +41,7 @@
 | 2026‑09‑03 | [Safety overview\: GPT-6 Astra](<https://openai.com/index/safety-overview-gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑03 | [GPT-6 Astra\: A new generation of intelligence](<https://openai.com/index/gpt-6-astra>) | Research post | Official page |
 | 2026‑09‑01 | [Path to Astra\: critical capabilities and frontier safeguards](<https://openai.com/index/path-to-astra>) | Research post | Official page |
-| 2026‑08‑26 | [Visual General Intelligence\: A White Paper](<https://deepmind.google/research/publications/270149/>) | Publication | Official page, Verified affiliation |
+| 2026‑08‑26 | [Visual General Intelligence\: A White Paper](<https://deepmind.google/research/publications/270149/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026‑08‑25 | [Disrupting a new covert influence campaign from Russia](<https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia>) | Research post | Official page |
 | 2026‑08‑18 | [LifeSciBench\: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences](<https://doi.org/10.64898/2026.08.13.744657>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [Scientific computing in the age of agentic AI\: an exploratory field report](<https://doi.org/10.64898/2026.07.29.741496>) | Preprint | OpenAlex |
@@ -214,7 +214,7 @@
 | 2025‑09‑15 | [How people are using ChatGPT](<https://openai.com/index/how-people-are-using-chatgpt>) | Research post | Official page |
 | 2025‑09‑15 | [Addendum to GPT-5 system card\: GPT-5-Codex](<https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex>) | Publication | Official page |
 | 2025‑09‑14 | [Novel Paradigm for Privacy-Preserving Data Sharing and Anonymization in Smart Homes](<https://doi.org/10.1109/icaifi66942.2025.11326168>) | Conference paper | OpenAlex |
-| 2025‑09‑08 | [Measuring and mitigating overreliance to build human-compatible AI](<https://arxiv.org/abs/2509.08010>) | Preprint | OpenAlex |
+| 2025‑09‑08 | [Measuring and Mitigating (Over)reliance to Build Human-Compatible AI](<https://arxiv.org/abs/2509.08010>) | Conference paper | OpenAlex |
 | 2025‑09‑05 | [Why language models hallucinate](<https://openai.com/index/why-language-models-hallucinate>) | Research post | Official page |
 | 2025‑09‑02 | [Building more helpful ChatGPT experiences for everyone](<https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone>) | Research post | Official page |
 | 2025‑08‑27 | [OpenAI and Anthropic share findings from a joint safety evaluation](<https://openai.com/index/openai-anthropic-safety-evaluation>) | Research post | Official page |

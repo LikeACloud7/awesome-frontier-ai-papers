@@ -1,16 +1,22 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1475`
-- Latest: `2026-10-09`
+- Papers: `1481`
+- Latest: `2026-10-13`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑10‑09 | [Minions\: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](<https://arxiv.org/abs/2610.12970v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [Mix, Don't Tune\: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings](<https://machinelearning.apple.com/research/mix-dont-tune>) | Publication | Official page |
+| 2026‑10‑12 | [Self-Compacting Language Model Agents](<https://machinelearning.apple.com/research/self-compacting-language-agents>) | Publication | Official page |
+| 2026‑10‑12 | [Large Language Models for Machine Translation Quality Annotation\: Humans and Models Are Both Challenged](<https://machinelearning.apple.com/research/llm-translation-quality-annotation>) | Publication | Official page |
+| 2026‑10‑09 | [Minions\: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](<https://machinelearning.apple.com/research/distributed-gpu-cloud>) | Publication | Verified affiliation, Official page |
 | 2026‑10‑08 | [Normalizing Trajectory Models](<https://machinelearning.apple.com/research/normalizing-trajectory-models>) | Publication | Official page |
+| 2026‑10‑07 | [ORCA\: Hunting Compositional Failures in Text-to-Image Diffusion](<https://arxiv.org/abs/2610.09841>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [Homogenization in Multi-Agent Systems](<https://arxiv.org/abs/2610.09824>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [MS-ECG-FM\: Towards a More Universal Electrocardiogram Foundation Model for Health Monitoring using Multi-source Contrastive Learning](<https://arxiv.org/abs/2610.07662>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems](<https://machinelearning.apple.com/research/ontological-boundary-negotiation>) | Publication | Official page |
 | 2026‑10‑05 | [Stepped MoE\: Segment-Level Routing with Configurable Inference Complexity](<https://arxiv.org/abs/2610.07348v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
@@ -491,7 +497,6 @@
 | 2025‑06‑30 | [ETVA\: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering](<https://machinelearning.apple.com/research/etva>) | Publication | Official page, OpenAlex |
 | 2025‑06‑30 | [From Interaction to Impact\: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts](<https://machinelearning.apple.com/research/towards-safer-ai-agents>) | Publication | Official page |
 | 2025‑06‑30 | [Contrastive Localized Language-Image Pre-Training](<https://machinelearning.apple.com/research/contrastive-localized>) | Publication | Official page |
-| 2025‑06‑30 | [Cavia\: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](<https://machinelearning.apple.com/research/cavia>) | Publication | Official page |
 | 2025‑06‑30 | [Advancing Egocentric Video Question Answering with Multimodal Large Language Models](<https://machinelearning.apple.com/research/advancing-egocentric-video>) | Publication | Official page |
 | 2025‑06‑30 | [Analysis of Improvised Jazz Melodies Using Harmonic Tags](<https://doi.org/10.1109/icmew68306.2025.11152106>) | Conference paper | OpenAlex |
 | 2025‑06‑27 | [Aligning LLMs by Predicting Preferences from User Writing Samples](<https://machinelearning.apple.com/research/predicting-preferences>) | Publication | Official page |
@@ -700,6 +705,7 @@
 | 2025‑01‑01 | [Gesture2Path\: Imitation Learning for Gesture-Aware Navigation](<https://doi.org/10.1007/978-981-96-3522-1_24>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs](<https://doi.org/10.18653/v1/2025.findings-acl.28>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [iFinder\: Structured Zero-Shot Vision-Based LLM Grounding for Dash-Cam Video Reasoning](<http://arxiv.org/abs/2509.19552>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](<http://arxiv.org/abs/2505.20793>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [PhyBlock\: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly](<http://arxiv.org/abs/2506.08708>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [On Inductive Biases That Enable Generalization in Diffusion Transformers](<http://arxiv.org/abs/2410.21273>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Mind the Gap\: Bridging Thought Leap for Improved Chain-of-Thought Tuning](<http://arxiv.org/abs/2505.14684>) | Conference paper | OpenAlex |
@@ -714,7 +720,6 @@
 | 2025‑01‑01 | [Tracing the Roots\: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution](<http://arxiv.org/abs/2411.07449>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SynCL\: A Synergistic Training Strategy with Instance-Aware Contrastive Learning for End-to-End Multi-Camera 3D Tracking](<https://doi.org/10.52202/085713-0126>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Speculative Streaming\: Efficient and Scalable Speculative Decoding with Multi-Stream Attention](<https://doi.org/10.18653/v1/2025.emnlp-main.986>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Rendering-Aware Reinforcement Learning for Vector Graphics Generation](<http://arxiv.org/abs/2505.20793>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Place Cells as Multi-Scale Position Embeddings\: Random Walk Transition Kernels for Path Planning](<https://doi.org/10.52202/085713-0482>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Piecewise Dynamic Time Warping-Based Subsequence Matching in Data Stream](<https://doi.org/10.1109/access.2025.3586847>) | Article | OpenAlex |
 | 2025‑01‑01 | [LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval](<https://doi.org/10.1007/978-3-031-88708-6_18>) | Conference paper | OpenAlex |
@@ -800,6 +805,7 @@
 | 2024‑10‑16 | [Scalable Private Search with Wally](<https://machinelearning.apple.com/research/wally-search>) | Publication | Official page |
 | 2024‑10‑15 | [CAMPHOR\: Collaborative Agents for Multi-Input Planning and High-Order Reasoning On Device](<https://machinelearning.apple.com/research/collaborative-agents>) | Publication | Official page |
 | 2024‑10‑15 | [Generalizable Autoregressive Modeling of Time Series Through Functional Narratives](<https://machinelearning.apple.com/research/functional-narratives>) | Publication | Official page |
+| 2024‑10‑14 | [Cavia\: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](<https://machinelearning.apple.com/research/cavia>) | Publication | Official page, OpenAlex |
 | 2024‑10‑14 | [Progressive Entropic Optimal Transport Solvers](<https://machinelearning.apple.com/research/progressive-transport>) | Publication | Official page |
 | 2024‑10‑11 | [UIClip\: A Data-driven Model for Assessing User Interface Design](<https://doi.org/10.1145/3654777.3676408>) | Conference paper | OpenAlex |
 | 2024‑10‑11 | [GSM-Symbolic\: Understanding the Limitations of Mathematical Reasoning in Large Language Models](<https://machinelearning.apple.com/research/gsm-symbolic>) | Publication | Official page |

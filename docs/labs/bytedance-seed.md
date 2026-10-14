@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1816`
+- Papers: `1818`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,6 +17,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation |
+| 2026‑10‑07 | [Open-MMUnlearning\: Unifying Methods and Evaluation for MLLM Unlearning](<https://arxiv.org/abs/2610.10358>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Expanding Guard Reach\: Online Learning-Driven Incremental Kernel Panic Diagnosis](<https://doi.org/10.1145/3832783.3834474>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [AlarmClaw\: Context-Enriched Alarm Management with Category-/Severity-Aware Incident Graphs](<https://doi.org/10.1145/3832783.3834524>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [RESTOR\: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning](<https://arxiv.org/abs/2607.23963>) | Article | OpenAlex |
@@ -28,6 +29,7 @@
 | 2026‑09‑29 | [MotionInsight\: Diagnosing Object Motion Deficiencies in Generated Videos](<https://arxiv.org/abs/2609.37030>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Learning from Think-Mode Advantage via On-Policy Distillation](<https://arxiv.org/abs/2609.37044>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](<https://arxiv.org/abs/2609.37710>) | Preprint | OpenAlex |
+| 2026‑09‑28 | [Periodic Weak Spots\: Phase Sensitivity from Chunked KV-Cache Compression](<https://seed.bytedance.com/en/research/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression>) | Publication | Official page |
 | 2026‑09‑28 | [TensorHub\: Scalable and Elastic Weight Transfer for LLM RL Training](<https://arxiv.org/abs/2604.09107>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [SALMONN-duo\: Adaptive Dual-System Coordination for Full-Duplex Voice Agents](<https://arxiv.org/abs/2609.34247>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RGDT-Bench\: Benchmarking LLM Reasoning for Rule-Governed Decisions and Their Justifications](<https://arxiv.org/abs/2609.34455>) | Preprint | OpenAlex |
@@ -212,8 +214,8 @@
 | 2026‑05‑29 | [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](<https://arxiv.org/abs/2605.30940>) | Preprint | OpenAlex |
 | 2026‑05‑29 | [Representation Forcing for Bottleneck-Free Unified Multimodal Models](<https://arxiv.org/abs/2605.31604>) | Preprint | OpenAlex |
 | 2026‑05‑29 | [RFD\: A Reducing Feature Discrepancy method for unsupervised cross-modality SAM adaptation](<https://doi.org/10.1016/j.compmedimag.2026.102781>) | Article | OpenAlex |
-| 2026‑05‑28 | [Task-Focused Memorization for Multimodal Agents](<https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents>) | Publication | Official page |
 | 2026‑05‑28 | [SCORE\: Story Coherence and Retrieval Enhancement for AI Narratives](<https://doi.org/10.1145/3774905.3795734>) | Conference paper | OpenAlex |
+| 2026‑05‑28 | [Task-Focused Memorization for Multimodal Agents](<https://seed.bytedance.com/en/research/task-focused-memorization-for-multimodal-agents>) | Publication | Official page |
 | 2026‑05‑28 | [SEAL\: Can Saturated Benchmarks Be Revived by LLM-as-a-Meta-Judge?](<https://arxiv.org/abs/2605.30104>) | Preprint | OpenAlex |
 | 2026‑05‑28 | [International Workshop on Trustworthy Multimodal Learning for Social Media Analysis](<https://doi.org/10.1145/3774905.3795841>) | Conference paper | OpenAlex |
 | 2026‑05‑28 | [Dual-Stream MLP Is All You Need for CTR Prediction](<https://arxiv.org/abs/2606.04944>) | Article | OpenAlex |
@@ -1190,10 +1192,10 @@
 | 2025‑01‑01 | [Beyond Attention or Similarity\: Maximizing Conditional Diversity for Token Pruning in MLLMs](<http://arxiv.org/abs/2506.10967>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [XVerse\: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation](<http://arxiv.org/abs/2506.21416>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Vision as a Dialect\: Unifying Visual Understanding and Generation via Text-Aligned Representations](<https://arxiv.org/abs/2506.18898>) | Paper | Verified affiliation, OpenAlex |
+| 2025‑01‑01 | [SensorLM\: Learning the Language of Wearable Sensors](<http://arxiv.org/abs/2506.09108>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Q-Insight\: Understanding Image Quality via Visual Reinforcement Learning](<http://arxiv.org/abs/2503.22679>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [PartCrafter\: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers](<http://arxiv.org/abs/2506.05573>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SoRFT\: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](<https://doi.org/10.18653/v1/2025.acl-long.559>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [SensorLM\: Learning the Language of Wearable Sensors](<http://arxiv.org/abs/2506.09108>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SAM-R1\: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](<http://arxiv.org/abs/2505.22596>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Complete Chess Games Enable LLM Become A Chess Master](<https://doi.org/10.18653/v1/2025.naacl-short.1>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [ZPressor\: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS](<http://arxiv.org/abs/2505.23734>) | Conference paper | OpenAlex |
