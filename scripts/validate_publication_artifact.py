@@ -15,6 +15,9 @@ import shutil
 from security import safe_link, safe_slug
 
 FILES = {"company_papers.json", "collection_health.json", "collection_pending.json", "collection_state.json"}
+ARCHIVE_DIR = "archive"
+SHARD_NAME = re.compile(r"(?:\d{4}(?:-\d{2})?|undated)\.json")
+MAX_SHARDS = 2000
 MAX_FILE_BYTES = 96 * 1024 * 1024
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -25,13 +28,48 @@ def load_bounded(path: Path):
     return json.loads(path.read_text(encoding="utf-8"), parse_constant=lambda value: (_ for _ in ()).throw(ValueError("Non-finite JSON number")))
 
 
+def check_paper(paper, known: dict, identifiers: set):
+    if not isinstance(paper, dict):
+        raise ValueError("Invalid paper record")
+    for key, limit in (("id",8192), ("title",4000), ("abstract",16000), ("source",200)):
+        if not isinstance(paper.get(key, ""), str) or len(paper.get(key, "")) > limit:
+            raise ValueError(f"Invalid paper field: {key}")
+    if not paper.get("id") or paper["id"] in identifiers or not paper.get("title"):
+        raise ValueError("Missing or duplicate paper identity")
+    identifiers.add(paper["id"])
+    urls = [paper.get("url", "")] + [u for u in [paper.get("paper_url", "")] if u] + paper.get("alternate_urls", [])
+    for url in urls:
+        if not safe_link(url):
+            raise ValueError(f"Unsafe publication URL in paper {paper['id'][:200]!r}: {str(url)[:300]!r}")
+    labs = paper.get("companies")
+    if not isinstance(labs, list) or not labs or len(set(labs)) != len(labs) or any(lab not in known for lab in labs):
+        raise ValueError("Invalid paper lab attribution")
+    for field in ("authors", "sources", "matched_keywords", "author_affiliations"):
+        items = paper.get(field, [])
+        if not isinstance(items, list) or len(items) > 2000 or any(not isinstance(s, str) or len(s) > 8192 for s in items):
+            raise ValueError(f"Invalid list field: {field}")
+    if not re.fullmatch(r"(?:\d{4}(?:-\d{2}(?:-\d{2})?)?)?", paper.get("published", "")):
+        raise ValueError("Invalid publication date")
+
+
+def archive_shards(directory: Path) -> list[Path]:
+    if directory.is_symlink() or not directory.is_dir():
+        raise ValueError("Publication artifact must contain the archive shard directory")
+    shards = sorted(directory.iterdir())
+    if len(shards) > MAX_SHARDS or any(not SHARD_NAME.fullmatch(path.name) or path.is_symlink() or not path.is_file()
+                                       for path in shards):
+        raise ValueError("Archive must contain only monthly YYYY-MM.json shard files")
+    return shards
+
+
 def validate(directory: Path, config_path: Path = ROOT / "config/frontier_labs.json"):
     directory = directory.resolve()
     entries = list(directory.iterdir())
-    if {entry.name for entry in entries} != FILES:
-        raise ValueError("Publication artifact must contain exactly the four expected JSON files")
-    if any(entry.is_symlink() or not entry.is_file() for entry in entries):
+    if {entry.name for entry in entries} != FILES | {ARCHIVE_DIR}:
+        raise ValueError("Publication artifact must contain exactly the four expected JSON files and the archive")
+    if any(entry.is_symlink() or not entry.is_file() for entry in entries if entry.name != ARCHIVE_DIR):
         raise ValueError("Symlinks and directories are forbidden in publication artifacts")
+    shards = archive_shards(directory / ARCHIVE_DIR)
     values = {name: load_bounded(directory / name) for name in FILES}
     config = json.loads(config_path.read_text())
     known = {}
@@ -45,28 +83,20 @@ def validate(directory: Path, config_path: Path = ROOT / "config/frontier_labs.j
         raise ValueError("Invalid generation timestamp")
     counts, identifiers = Counter(), set()
     for paper in data["papers"]:
-        if not isinstance(paper, dict):
-            raise ValueError("Invalid paper record")
-        for key, limit in (("id",8192), ("title",4000), ("abstract",16000), ("source",200)):
-            if not isinstance(paper.get(key, ""), str) or len(paper.get(key, "")) > limit:
-                raise ValueError(f"Invalid paper field: {key}")
-        if not paper.get("id") or paper["id"] in identifiers or not paper.get("title"):
-            raise ValueError("Missing or duplicate paper identity")
-        identifiers.add(paper["id"])
-        urls = [paper.get("url", "")] + [u for u in [paper.get("paper_url", "")] if u] + paper.get("alternate_urls", [])
-        for url in urls:
-            if not safe_link(url):
-                raise ValueError(f"Unsafe publication URL in paper {paper['id'][:200]!r}: {str(url)[:300]!r}")
-        labs = paper.get("companies")
-        if not isinstance(labs, list) or not labs or len(set(labs)) != len(labs) or any(lab not in known for lab in labs):
-            raise ValueError("Invalid paper lab attribution")
-        counts.update(labs)
-        for field in ("authors", "sources", "matched_keywords", "author_affiliations"):
-            items = paper.get(field, [])
-            if not isinstance(items, list) or len(items) > 2000 or any(not isinstance(s, str) or len(s) > 8192 for s in items):
-                raise ValueError(f"Invalid list field: {field}")
-        if not re.fullmatch(r"(?:\d{4}(?:-\d{2}(?:-\d{2})?)?)?", paper.get("published", "")):
-            raise ValueError("Invalid publication date")
+        check_paper(paper, known, identifiers)
+        counts.update(paper["companies"])
+    archived = set()
+    for path in shards:
+        shard = load_bounded(path)
+        if not isinstance(shard, dict) or not isinstance(shard.get("papers"), list):
+            raise ValueError(f"Invalid archive shard: {path.name}")
+        for paper in shard["papers"]:
+            check_paper(paper, known, archived)
+            published = paper.get("published", "")
+            if path.stem != (published[:7] if len(published) >= 7 else (published or "undated")):
+                raise ValueError(f"Paper {paper['id'][:200]!r} is in the wrong archive shard: {path.name}")
+    if archived != identifiers:
+        raise ValueError("Archive shards and the public dataset list different papers")
     companies = data.get("companies", [])
     if len(companies) != len(known) or {c["name"] for c in companies} != set(known):
         raise ValueError("Unexpected lab registry in artifact")
@@ -106,6 +136,21 @@ def main():
             if target.is_symlink():
                 raise ValueError("Refusing a symlink destination")
             shutil.copyfile(args.directory / name, target)
+        archive = args.copy_to / ARCHIVE_DIR
+        if archive.is_symlink():
+            raise ValueError("Refusing a symlink destination")
+        archive.mkdir(exist_ok=True)
+        shards = {path.name for path in archive_shards(args.directory / ARCHIVE_DIR)}
+        for stale in archive.iterdir():
+            if stale.name not in shards:
+                if stale.is_symlink() or not stale.is_file():
+                    raise ValueError("Refusing to replace a non-file archive entry")
+                stale.unlink()
+        for name in sorted(shards):
+            target = archive / name
+            if target.is_symlink():
+                raise ValueError("Refusing a symlink destination")
+            shutil.copyfile(args.directory / ARCHIVE_DIR / name, target)
     print("Publication artifact validated")
 
 

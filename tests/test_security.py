@@ -119,6 +119,16 @@ class SecurityTests(unittest.TestCase):
             (root/"company_papers.json").symlink_to(root/"collection_health.json")
             with self.assertRaises(ValueError):artifact.validate(root)
 
+    def test_artifact_archive_shards_must_be_named_regular_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            for name in artifact.FILES:(root/name).write_text("{}")
+            with self.assertRaisesRegex(ValueError,"archive"):artifact.validate(root)
+            (root/"archive").mkdir();(root/"archive"/"notes.txt").write_text("{}")
+            with self.assertRaisesRegex(ValueError,"YYYY-MM"):artifact.validate(root)
+            (root/"archive"/"notes.txt").unlink();(root/"archive"/"2026-10.json").symlink_to(root/"collection_health.json")
+            with self.assertRaisesRegex(ValueError,"YYYY-MM"):artifact.validate(root)
+
     def test_readme_keeps_all_lab_sections_and_visible_recent_tables(self):
         data=json.loads((markdown.DATA_FILE).read_text())
         readme=markdown.build_readme(data)

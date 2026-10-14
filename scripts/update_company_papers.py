@@ -3,7 +3,8 @@
 Static data builder for the company-paper website.
 
 This script collects papers for tracked AI companies/labs, merges them with the
-existing archive, and writes data/company_papers.json for the Next.js static app.
+existing archive (full records in data/archive/YYYY-MM.json shards), and writes
+data/company_papers.json with display fields for the Next.js static app.
 """
 
 import argparse
@@ -18,6 +19,11 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / "public" / "data" / "company_papers.json"
+ARCHIVE_DIR_NAME = "archive"
+# The site and README need only these; merge and classifier state stays in the archive shards.
+PUBLIC_PAPER_FIELDS = ("id", "title", "url", "paper_url", "published", "authors", "abstract", "companies",
+    "company_regions", "sources", "source", "work_type", "doi", "openalex_id", "cited_by_count", "quality_score",
+    "matched_keywords", "author_affiliations")
 sys.path.insert(0, str(REPO_ROOT / "scripts"))
 
 from collection_status import collect_with_status, record_source_error, safe_message
@@ -57,11 +63,27 @@ def apply_collection_overrides(config: dict, *, comprehensive: bool = False,
     return config
 
 
-def load_existing_archive() -> dict:
-    if DATA_FILE.exists():
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"papers": [], "companies": []}
+def archive_shard(published: str) -> str:
+    """Monthly shard name for a publication date; year-only and undated records get their own shards."""
+    return published[:7] if len(published) >= 7 else (published or "undated")
+
+
+def paper_sort_key(paper: dict) -> tuple:
+    return (paper.get("published", ""), paper.get("quality_score", 0), paper.get("title", ""))
+
+
+def load_archive(destination: Path) -> dict | None:
+    """Full records live in monthly shards beside the public dataset, which carries display fields only."""
+    shards = destination.parent / ARCHIVE_DIR_NAME
+    if shards.is_dir():
+        papers = [paper for path in sorted(shards.glob("*.json")) for paper in json.loads(path.read_text())["papers"]]
+        health = destination.parent / "collection_health.json"
+        return {"papers": sorted(papers, key=paper_sort_key, reverse=True),
+                "collection": json.loads(health.read_text()) if health.exists() else {}}
+    if destination.exists():
+        # Before sharding, the public dataset itself held the full records.
+        return json.loads(destination.read_text())
+    return None
 
 
 def truncate_text(value: str, limit: int) -> str:
@@ -222,6 +244,18 @@ def atomic_json(path: Path, value, *, compact: bool = False):
     temporary.replace(path)
 
 
+def write_archive(directory: Path, papers: list[dict]):
+    shards = {}
+    for paper in papers:
+        shards.setdefault(archive_shard(paper.get("published", "")), []).append(paper)
+    directory.mkdir(parents=True, exist_ok=True)
+    for name, items in shards.items():
+        atomic_json(directory / f"{name}.json", {"papers": items}, compact=True)
+    for stale in directory.glob("*.json"):
+        if stale.stem not in shards:
+            stale.unlink()
+
+
 def filter_new_papers(papers: list[dict], config: dict, diagnostics: list, pending: list) -> list[dict]:
     accepted = []
     sparse = []
@@ -270,8 +304,7 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
     if labs and len(registry) != len(set(labs)):
         raise ValueError("Unknown lab name. Use the exact configured lab name.")
     destination = output or DATA_FILE
-    existing = json.loads(destination.read_text()) if destination.exists() else (
-        load_existing_archive() if destination != DATA_FILE else {"papers": []})
+    existing = load_archive(destination) or (load_archive(DATA_FILE) if destination != DATA_FILE else None) or {"papers": []}
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     diagnostics = []
     fresh = collect_fresh_papers_by_source(config, registry, days, since,
@@ -322,7 +355,7 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
     # letting one malformed upstream link block the whole archive.
     normalized = [p for p in candidates if p["url"]]
     unsafe_url_papers = len(candidates) - len(normalized)
-    normalized.sort(key=lambda p: (p.get("published", ""), p.get("quality_score", 0), p.get("title", "")), reverse=True)
+    normalized.sort(key=paper_sort_key, reverse=True)
     if max_papers and len(normalized) > max_papers:
         raise ValueError(f"Archive has {len(normalized)} records; refusing to delete papers to satisfy --max-papers={max_papers}. Use 0 for unlimited.")
     failed = [s for s in diagnostics if s["status"] == "failed"]
@@ -349,7 +382,9 @@ def update_archive(days: int = 30, max_papers: int = 0, since: str | None = None
                    "tracked_companies": len(full_registry)},
         "companies": build_company_rows(full_registry, normalized), "papers": normalized}
     # Archive first: a crash can cause a harmless retry, not a lost checkpoint.
-    atomic_json(destination, archive, compact=True)
+    write_archive(destination.parent / ARCHIVE_DIR_NAME, normalized)
+    atomic_json(destination, {**archive, "papers": [{k: p[k] for k in PUBLIC_PAPER_FIELDS} for p in normalized]},
+                compact=True)
     atomic_json(pending_file, pending, compact=True)
     atomic_json(state_file, state)
     atomic_json(destination.parent / "collection_health.json", archive["collection"])

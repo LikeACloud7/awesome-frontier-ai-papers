@@ -70,6 +70,7 @@ jobs:
             public/data/collection_health.json
             public/data/collection_pending.json
             public/data/collection_state.json
+            public/data/archive/*.json
           if-no-files-found: error
           retention-days: 3
 
@@ -100,7 +101,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- public/data/company_papers.json public/data/collection_health.json public/data/collection_pending.json public/data/collection_state.json README.md docs/labs
+          git add -- public/data/company_papers.json public/data/collection_health.json public/data/collection_pending.json public/data/collection_state.json public/data/archive README.md docs/labs
           if git diff --cached --quiet; then
             echo "No publication changes to commit."
             exit 0

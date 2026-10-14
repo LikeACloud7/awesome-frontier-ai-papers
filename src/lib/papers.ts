@@ -18,7 +18,6 @@ export type Paper = {
   abstract: string;
   companies: string[];
   matched_orgs?: string[];
-  company_groups: string[];
   company_regions: string[];
   sources: string[];
   source: string;
@@ -29,11 +28,6 @@ export type Paper = {
   quality_score: number;
   matched_keywords: string[];
   author_affiliations: string[];
-  concepts: {
-    id: string;
-    display_name: string;
-    score: number;
-  }[];
 };
 
 export type PaperDataset = {

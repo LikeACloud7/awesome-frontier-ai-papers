@@ -168,6 +168,33 @@ class CollectionTests(unittest.TestCase):
                     updater.update_archive(max_papers=1, output=destination)
                 self.assertEqual(destination.read_bytes(), before)
 
+    def test_archive_keeps_full_records_in_monthly_shards_and_publishes_display_fields(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            destination = Path(tmp) / "company_papers.json"
+            shards = Path(tmp) / "archive"
+            evidence = [{"source": "official", "url": "https://example.org/old", "labs": ["OpenAI"], "signals": {}}]
+            old = paper("Earlier language model paper", id="old", url="https://example.org/old", published="2024-03-02",
+                        evidence=evidence)
+            # A pre-shard archive is a single file holding the full records.
+            destination.write_text(json.dumps({"papers": [old]}))
+            with patch.object(updater, "collect_fresh_papers_by_source", return_value=[paper()]):
+                updater.update_archive(output=destination)
+                self.assertEqual(sorted(p.name for p in shards.iterdir()), ["2024-03.json", "2025-01.json"])
+                public = json.loads(destination.read_text())["papers"]
+                self.assertEqual([tuple(p) for p in public], [updater.PUBLIC_PAPER_FIELDS] * 2)
+                artifact.validate(Path(tmp))
+                full = json.loads((shards / "2025-01.json").read_text())
+                (shards / "2025-01.json").unlink()
+                with self.assertRaisesRegex(ValueError, "different papers"):
+                    artifact.validate(Path(tmp))
+                (shards / "2019-01.json").write_text(json.dumps(full))
+                with self.assertRaisesRegex(ValueError, "wrong archive shard"):
+                    artifact.validate(Path(tmp))
+                (shards / "2019-01.json").write_text('{"papers": []}')
+                updater.update_archive(output=destination)
+            self.assertEqual(sorted(p.name for p in shards.iterdir()), ["2024-03.json", "2025-01.json"])
+            self.assertEqual(json.loads((shards / "2024-03.json").read_text())["papers"][0]["evidence"], evidence)
+
     def test_reconciliation_advances_persistent_lab_queue(self):
         with tempfile.TemporaryDirectory() as tmp:
             destination = Path(tmp) / "company_papers.json"
