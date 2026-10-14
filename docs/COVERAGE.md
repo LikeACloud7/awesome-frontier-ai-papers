@@ -20,6 +20,8 @@ The date range is independent of the AI topic scope. Change `company_tracking.ar
 
 ## Health and progress
 
+- `public/data/company_papers.json`: the site dataset with display fields only.
+- `public/data/archive/YYYY-MM.json`: full records by publication month, including attribution evidence and topic classification; the collector merges new results into these shards.
 - `public/data/collection_health.json`: per-source status, errors, limits, timestamps, and historical reconciliation progress.
 - `public/data/collection_pending.json`: records awaiting enough metadata for an AI-topic decision; automatically retried.
 - `public/data/collection_state.json`: the next lab in the historical reconciliation cycle and per-lab attempts.

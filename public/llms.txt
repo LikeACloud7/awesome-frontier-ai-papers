@@ -5,6 +5,7 @@ Awesome Frontier AI Papers tracks frontier AI lab papers, model cards, system ca
 Primary site: https://likeacloud7.github.io/awesome-frontier-ai-papers/
 Source repository: https://github.com/LikeACloud7/awesome-frontier-ai-papers
 Machine-readable dataset: https://likeacloud7.github.io/awesome-frontier-ai-papers/data/company_papers.json
+Full records by publication month: https://likeacloud7.github.io/awesome-frontier-ai-papers/data/archive/YYYY-MM.json
 Coverage notes: https://github.com/LikeACloud7/awesome-frontier-ai-papers/blob/main/docs/COVERAGE.md
 
 Tracked labs include OpenAI, Anthropic, Google DeepMind, Meta FAIR, Microsoft, Apple, NVIDIA, xAI, Alibaba Qwen, DeepSeek, Tencent Hunyuan, Baidu, ByteDance Seed, Huawei Noah, Moonshot Kimi, MiniMax, StepFun, and Z.ai/Zhipu.
