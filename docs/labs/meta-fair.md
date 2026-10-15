@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1842`
-- Latest: `2026-10-13`
+- Papers: `1852`
+- Latest: `2026-10-14`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -40,6 +40,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
+| 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page |
+| 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page |
+| 2026‑10‑14 | [Return Visits, Admission, and Mortality After Leaving Without BeingSeen Among Emergency Department Patients With Behavioral HealthPresentations](<https://ai.meta.com/research/publications/return-visits-admission-and-mortality-after-leaving-without-being-seen-among-emergency-department-patients-with-behavioral-health-presentations/>) | Publication | Official page |
+| 2026‑10‑14 | [Remission of Type 2 Diabetes in Linked Health Records\: Uncommon, Short-Lived, and More Often Ended by Treatment Restart Than by Rising HbA1c](<https://ai.meta.com/research/publications/remission-of-type-2-diabetes-in-linked-health-records-uncommon-short-lived-and-more-often-ended-by-treatment-restart-than-by-rising-hba1c/>) | Publication | Official page |
+| 2026‑10‑14 | [Pickleball injuries, search interest, and participation in the United States, 2014-2023\: an ecological time series study](<https://ai.meta.com/research/publications/pickleball-injuries-search-interest-and-participation-in-the-united-states-2014-2023-an-ecological-time-series-study/>) | Publication | Official page |
+| 2026‑10‑14 | [Outcomes in Methicillin-Susceptible and Methicillin-Resistant Staphylococcus aureus Infective Endocarditis Compared With Staphylococcus lugdunensis Infective Endocarditis](<https://ai.meta.com/research/publications/outcomes-in-methicillin-susceptible-and-methicillin-resistant-staphylococcus-aureus-infective-endocarditis-compared-with-staphylococcus-lugdunensis-infective-endocarditis/>) | Publication | Official page |
+| 2026‑10‑14 | [Human-Guided Agentic AI for End-to-End EHR Research\: Sequential Antibody-Drug Conjugate Pathways in Breast Cancer](<https://ai.meta.com/research/publications/human-guided-agentic-ai-for-end-to-end-ehr-research-sequential-antibody-drug-conjugate-pathways-in-breast-cancer/>) | Publication | Official page |
+| 2026‑10‑14 | [Documented Dental Disease in Patients With Staphylococcus aureus Bacteremia](<https://ai.meta.com/research/publications/documented-dental-disease-in-patients-with-staphylococcus-aureus-bacteremia/>) | Publication | Official page |
+| 2026‑10‑14 | [Cladophialophora bantiana\: a US clinical case series assisted by artificial intelligence](<https://ai.meta.com/research/publications/cladophialophora-bantiana-a-us-clinical-case-series-assisted-by-artificial-intelligence/>) | Publication | Official page |
 | 2026‑10‑13 | [AutoformBench\: A Lean Formalization Benchmark for Advanced Mathematics](<https://ai.meta.com/research/publications/autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics/>) | Publication | Official page |
 | 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |

@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2056`
+- Papers: `2059`
 - Latest: `2026-10-10`
 - [Back to README](../../README.md#nvidia)
 
@@ -18,9 +18,12 @@
 |---|---|---|---|
 | 2026‑10‑10 | [A physics-guided Fourier neural operator to predict wind-driven water film/rivulet flows pertinent to aircraft icing phenomena](<https://doi.org/10.1017/jfm.2026.12103>) | Article | OpenAlex |
 | 2026‑10‑09 | [Toward fabrication-robust photonic inverse design\: from AI-assisted inverse lithography to yield-driven device optimization](<https://doi.org/10.1117/12.3114569>) | Conference abstract | OpenAlex |
+| 2026‑10‑08 | [Autonomous Code Migration for Quantum Programming Languages\: A Case Study with QED-C Benchmarks](<https://arxiv.org/abs/2610.12187>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [A Balanced Data Diet\: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](<https://arxiv.org/abs/2610.12465>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](<https://arxiv.org/abs/2610.10298>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [Reinforcement Learning with Segment Reward Feedback under Linear Function Approximation](<https://arxiv.org/abs/2610.08271v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑06 | [Self-Referenced Social Preferences\: Cooperation without Observing Others Rewards](<https://arxiv.org/abs/2610.07881>) | Preprint | OpenAlex |
-| 2026‑10‑06 | [Reinforcement Learning with Segment Reward Feedback under Linear Function Approximation](<https://arxiv.org/abs/2610.08271>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [PLUTO\: An Agentic AI Tool for Interactive Spacecraft Rendezvous Trajectory Design](<https://doi.org/10.48550/arxiv.2610.07573>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [MaRK\: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models](<https://arxiv.org/abs/2610.09092>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Evaluating Safety Embedding Prefiltering for Analyzing Millions of LLM Agent Social Network Messages for Security and Safety Harms](<https://doi.org/10.3390/ai7100409>) | Article | OpenAlex |

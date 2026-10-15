@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4053`
+- Papers: `4062`
 - Latest: `2026-10-13`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -15,9 +15,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑13 | [ProAS\: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.18683v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [FrameLite\: Decision-Oriented Aesthetic Cropping with a Compact Vision-Language Model](<https://arxiv.org/abs/2610.17639v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [DualAffect\: Dual-Path Paralinguistic Integration for Generative Audiovisual Emotion Understanding](<https://arxiv.org/abs/2610.18073v1>) | Paper | Verified affiliation |
 | 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [SkillContrast\: Difference-Guided Text Selection for Agent Skill Reranking](<https://arxiv.org/abs/2610.11650>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [QUILT\: Rethinking Sparse-Attention Prefill through Shared Query Execution](<https://arxiv.org/abs/2610.11134>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Memory Type Varies\: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](<https://arxiv.org/abs/2610.11573>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Look Back, Think Ahead\: Visual Memory on Demand for Efficient Multimodal Reasoning](<https://arxiv.org/abs/2610.12060>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Learning the Loop, Not Just the Page\: Execution-Grounded Loop Learning for Web Generation](<https://arxiv.org/abs/2610.11543>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [From C to Idiomatic Rust\: A Ship-of-Theseus Agentic Translation](<https://arxiv.org/abs/2607.28835>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Factors Influencing User Satisfaction with Artificial Intelligence Applications\: An Integrated Approach of Semantic Network and BP Neural Network](<https://doi.org/10.54097/z6caqg52>) | Article | OpenAlex |
 | 2026‑10‑07 | [ns3-agent\: Fostering Integrated Perception-Communication-Computing Research for Agentic AI Services via Cross-Platform Co-Simulations](<https://doi.org/10.1145/3837358.3837360>) | Conference paper | OpenAlex |
@@ -3843,6 +3849,7 @@
 | 2024‑01‑25 | [Towards 3D Molecule-Text Interpretation in Language Models](<http://arxiv.org/abs/2401.13923>) | Preprint | OpenAlex |
 | 2024‑01‑25 | [LocMoE\: A Low-Overhead MoE for Large Language Model Training](<http://arxiv.org/abs/2401.13920>) | Preprint | OpenAlex |
 | 2024‑01‑24 | [Learning Active Force–Torque Based Policy for Sub-mm Localization of Unseen Holes](<https://doi.org/10.1109/tii.2024.3353797>) | Article | OpenAlex |
+| 2024‑01‑24 | [Introducing on-chain graph data to consortium blockchain for commercial transactions](<https://doi.org/10.1007/s11704-023-3523-9>) | Article | OpenAlex |
 | 2024‑01‑24 | [Generative Human Motion Stylization in Latent Space](<http://arxiv.org/abs/2401.13505>) | Preprint | OpenAlex |
 | 2024‑01‑24 | [ChatterBox\: Multi-round Multimodal Referring and Grounding](<http://arxiv.org/abs/2401.13307>) | Preprint | OpenAlex |
 | 2024‑01‑23 | [A Transformer‐Based microvascular invasion classifier enhances prognostic stratification in HCC following radiofrequency ablation](<https://doi.org/10.1111/liv.15846>) | Article | OpenAlex |
@@ -4006,6 +4013,7 @@
 | 2024‑01‑01 | [Embedding and Gradient Say Wrong\: A White-Box Method for Hallucination Detection](<https://doi.org/10.18653/v1/2024.emnlp-main.116>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [CorNav\: Autonomous Agent with Self-Corrected Planning for Zero-Shot Vision-and-Language Navigation](<https://doi.org/10.18653/v1/2024.findings-acl.745>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [CommonIT\: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions](<http://arxiv.org/abs/2410.03077>) | Preprint | OpenAlex |
+| 2024‑01‑01 | [Adaptive Mesh Refinement for Electromagnetic Simulation](<http://arxiv.org/abs/2311.06693>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [ATQ\: Activation Transformation forWeight-Activation Quantization of Large Language Models](<http://dx.doi.org/10.18653/v1/2024.findings-emnlp.1001>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [ATG\: Benchmarking Automated Theorem Generation for Generative Language Models](<http://arxiv.org/abs/2405.06677>) | Preprint | OpenAlex |
 | 2024‑01‑01 | [Medico\: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion](<http://arxiv.org/abs/2410.10408>) | Preprint | OpenAlex |
@@ -4044,6 +4052,7 @@
 | 2024‑01‑01 | [VOLTA\: Improving Generative Diversity by Variational Mutual Information Maximizing Autoencoder](<https://arxiv.org/abs/2307.00852>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Structured Directional Pruning via Perturbation Orthogonal Projection](<https://doi.org/10.1109/tsp.2024.3501674>) | Article | OpenAlex |
 | 2024‑01‑01 | [Sorted LLaMA\: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference](<https://doi.org/10.18653/v1/2024.findings-eacl.141>) | Conference paper | OpenAlex |
+| 2024‑01‑01 | [Sensing and Communication of Data from the Physical Twin](<https://doi.org/10.1007/978-3-031-66719-0_7>) | Book chapter | OpenAlex |
 | 2024‑01‑01 | [Semi-End-to-End Nested Named Entity Recognition from Speech](<https://doi.org/10.1007/978-981-97-0601-3_2>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Seismic Foundation Model (SFM)\: All-Purpose Feature Extraction from Seismic Data for Diverse Geophysical Applications](<https://doi.org/10.3997/2214-4609.202410133>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Re-examining Supervised Dimension Reduction for High-Dimensional Bayesian Optimization](<https://doi.org/10.1007/978-3-031-70068-2_22>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1818`
+- Papers: `1819`
 - Latest: `2026-10-08`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,6 +17,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation |
+| 2026‑10‑07 | [Transferability of Learned States in Neural PDE Solvers](<https://arxiv.org/abs/2610.10972>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Open-MMUnlearning\: Unifying Methods and Evaluation for MLLM Unlearning](<https://arxiv.org/abs/2610.10358>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Expanding Guard Reach\: Online Learning-Driven Incremental Kernel Panic Diagnosis](<https://doi.org/10.1145/3832783.3834474>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [AlarmClaw\: Context-Enriched Alarm Management with Category-/Severity-Aware Incident Graphs](<https://doi.org/10.1145/3832783.3834524>) | Conference paper | OpenAlex |

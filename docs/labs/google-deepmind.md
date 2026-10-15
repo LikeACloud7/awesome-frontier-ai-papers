@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5559`
+- Papers: `5568`
 - Latest: `2026-10-13`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -16,16 +16,23 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑13 | [Gemini 4 Argon Model Card](<https://deepmind.google/models/model-cards/gemini-4-argon/>) | Model card | Official page |
+| 2026‑10‑13 | [Reuse of learned subtask representations during human planning](<https://doi.org/10.64898/2026.10.12.758531>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [DroneMegaDetector, A Generalised Model For Detecting Large Mammals In Aerial Imagery](<https://doi.org/10.64898/2026.10.12.758430>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Two For The Price Of One\: Curvature-Aware Pruning Preserves Influence Functions Too](<https://arxiv.org/abs/2610.18516v1>) | Paper | Verified affiliation |
 | 2026‑10‑11 | [“I Want to Be Pushed, I Want to Grow”\: Enabling Social Workers to Design Evaluations of LLM Augmentation in Their Work (Extended Abstract)](<https://doi.org/10.1609/aies.v9i2.43241>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Why and How People Check Generative AI Output for Mistakes](<https://arxiv.org/abs/2609.38186>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Towards Characterising Conditions of Assistance, Hindrance and Depletion in Human Agency from AI Systems](<https://doi.org/10.1609/aies.v9i2.43233>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [CompanionSim\: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships](<https://arxiv.org/abs/2609.00250>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [Women's Health as Cooperative Work\: Participatory AI Across Care, Community, and Policy](<https://doi.org/10.1145/3785651.3818821>) | Conference paper | OpenAlex |
+| 2026‑10‑09 | [OpenSocialJax\: Evaluating Social Adaptation in Sequential Social Dilemmas with Open-Ended Environmental Dynamics](<https://arxiv.org/abs/2610.13710v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [Advancing mathematics research with AI-driven formal proof search](<https://arxiv.org/abs/2605.22763>) | Article | OpenAlex |
+| 2026‑10‑08 | [SepGen\: Multi-Stem Audio-Video Separation and Generation in a Single Model](<https://arxiv.org/abs/2610.11361>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Data everywhere, but are they fit for purpose?](<https://doi.org/10.1126/science.ael8349>) | Article | OpenAlex |
 | 2026‑10‑08 | [CoSpaN\: Permissionless Consensus in Sparse Networks](<https://doi.org/10.1007/978-3-032-38708-0_28>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Beyond frozen teachers\: co-training and co-distillation for task-specific fine-tuning](<https://doi.org/10.1117/12.3118495>) | Conference abstract | OpenAlex |
+| 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Secure-CUA\: Controlling Untrusted Influence in Computer-Use Agents](<https://arxiv.org/abs/2610.09469>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [RECAST\: Learning to Compute the Right Context through Adaptive Evidence Routing](<https://arxiv.org/abs/2610.10507>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Dual-QK\: Sharp Queries and Flat Keys for Prunable 2-bit KV Caches](<https://arxiv.org/abs/2610.09827>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [VIS-Ground\: Video Interactive Storytelling with Contextual Grounding](<https://arxiv.org/abs/2610.09326v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Let the Library Speak\: Self-Advertised Method Selection for Formal Proving](<https://arxiv.org/abs/2610.09401v1>) | Paper | Verified affiliation, OpenAlex |
@@ -132,6 +139,7 @@
 | 2026‑09‑25 | [AI and the Future of Accessible Work](<https://doi.org/10.1145/3799433>) | Article | OpenAlex |
 | 2026‑09‑25 | [A Framework for Value-Aligned Modeling and Robust Experimentation](<https://doi.org/10.1145/3773078.3831893>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Words Speak Louder Than Order\: A Behavioral Evaluation of Gemma 4](<https://arxiv.org/abs/2609.30716v1>) | Paper | Verified affiliation |
+| 2026‑09‑25 | [Agentic Economies for Autonomous Scientific Discovery](<https://arxiv.org/abs/2609.31562v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [Gemini 3\.8 Audio (Live, Live Extended Thinking, Flash TTS, Flash-Lite TTS) Model Card](<https://deepmind.google/models/model-cards/gemini-3-8-audio/>) | Model card | Official page |
 | 2026‑09‑24 | [Working with Agentic \`Teammates'\: When a New Organizational Actor Collides with the Human Ecosystem of Work](<https://arxiv.org/abs/2609.29901>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [Claim-Gated Source-Risk Auditing for Generative Search](<https://arxiv.org/abs/2609.29145>) | Preprint | OpenAlex |
@@ -162,6 +170,7 @@
 | 2026‑09‑17 | [SplashSplat\: Reconstructing Splashing Liquids from Real-World Multi-View Videos](<https://arxiv.org/abs/2609.20818v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [FunPilot\: Runtime Performance Diagnosis and Remediation for Serverless Applications with LLMs](<https://doi.org/10.1145/3838177.3841720>) | Conference paper | OpenAlex |
 | 2026‑09‑17 | [The Stochastic Shift\: A New Evaluation Paradigm for Text-to-SQL with AI Operators](<https://arxiv.org/abs/2609.21133v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑17 | [Tailored to you\: longitudinal effects of personalising language models](<https://arxiv.org/abs/2609.20077v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Harnessing Generative UI for Education\: Tailored Learning Interactives](<https://arxiv.org/abs/2609.20738v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑17 | [DLB\: Distributed Load Balancing at Scale for Generative AI Inference](<https://arxiv.org/abs/2609.21079v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑16 | [Use and Effects of LLMs in Peer Review\: A Randomized Experiment and Survey at ICML 2026](<https://www.microsoft.com/en-us/research/publication/use-and-effects-of-llms-in-peer-review-a-randomized-experiment-and-survey-at-icml-2026/>) | Publication | Verified affiliation, OpenAlex, Official page |

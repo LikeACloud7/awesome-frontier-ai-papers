@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3735`
+- Papers: `3738`
 - Latest: `2026-10-12`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -25,15 +25,18 @@
 | 2026‑10‑12 | [LifeSearch\: Benchmarking Deep Research Agents for Real-World Life and Productivity](<https://huggingface.co/papers/2610.18092>) | Preprint | Official page |
 | 2026‑10‑12 | [Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling](<https://doi.org/10.64898/2026.10.10.757278>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Game-Creation-Agents\: Autonomous Game Production](<https://arxiv.org/abs/2610.16776v1>) | Paper | Verified affiliation |
+| 2026‑10‑11 | [SyncReward\: Human-Aligned Synchronization Reward for Audio-Visual Generation](<https://huggingface.co/papers/2610.16338>) | Preprint | Official page |
 | 2026‑10‑11 | [Personalized Graph Sampling for Diverse Short Video Recommendation](<https://doi.org/10.1145/3847194>) | Article | OpenAlex |
 | 2026‑10‑10 | [A Decade in a Day\: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution](<https://huggingface.co/papers/2610.15765>) | Preprint | Official page |
+| 2026‑10‑08 | [TestPrism\: Rethinking Test Evaluation Beyond a Single Reference](<https://arxiv.org/abs/2610.12289>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [ReCal\: Calibrating Structured Pruning for On-Policy Distillation Recovery](<https://arxiv.org/abs/2610.11332>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Product evolution model (PEM)\: a functional semantic knowledge-driven framework for product technology landscape construction](<https://doi.org/10.1108/jedt-05-2026-0291>) | Article | OpenAlex |
 | 2026‑10‑08 | [Conditional Residual Prediction\: Improving Autoregressive Video Diffusion without a Bidirectional Teacher](<https://arxiv.org/abs/2610.11479>) | Preprint | OpenAlex |
-| 2026‑10‑08 | [VAMR\: Multi-Question Agentic Reasoning for Efficient Long-Form Video Understanding](<https://arxiv.org/abs/2610.11171v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [VAMR\: Multi-Question Agentic Reasoning for Efficient Long-Form Video Understanding](<https://arxiv.org/abs/2610.11171v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑08 | [UXBench Pro\: Benchmarking Personalized User Experience in Multi-Turn Dialogue Interactions](<https://arxiv.org/abs/2610.11638v1>) | Paper | Verified affiliation |
-| 2026‑10‑08 | [SWE-Journey\: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction](<https://arxiv.org/abs/2610.11559v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [SWE-Journey\: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction](<https://arxiv.org/abs/2610.11559v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑08 | [Residual Advantage\: Student-Relative Teacher Guidance for RL with Verifiable Rewards](<https://arxiv.org/abs/2610.11519v1>) | Paper | Verified affiliation |
-| 2026‑10‑08 | [EVIE\: Evidence-Vector-Informed Embeddings for Visual Document Retrieval](<https://arxiv.org/abs/2610.11553>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [EVIE\: Evidence-Vector-Informed Embeddings for Visual Document Retrieval](<https://arxiv.org/abs/2610.11553>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑07 | [OmniCapBench\: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning](<https://huggingface.co/papers/2610.12458>) | Preprint | Official page |
 | 2026‑10‑07 | [Post-quantum Cryptography in the Wild\: Assessing the Readiness of Open-Source Ecosystems](<https://doi.org/10.1145/3832783.3837461>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Maintaining Control States for Initialization-Aware GRPO in Industrial LLM Workflows](<https://doi.org/10.1145/3832783.3834459>) | Conference paper | OpenAlex |
@@ -76,9 +79,9 @@
 | 2026‑09‑29 | [OpenCollab\: A Multi-Agent Coding Framework with Programmable Collaboration and Controllable Runtime](<https://arxiv.org/abs/2609.38345>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Interpolated Policy Distillation\: A Controllable Continuum Between Off-Policy and On-Policy Distillation](<https://arxiv.org/abs/2609.37170>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Group-Marginalized Self-Rewarding RL Drives Zero-Label Self-Evolving](<https://arxiv.org/abs/2609.36750>) | Preprint | OpenAlex |
-| 2026‑09‑29 | [Beyond Prompt Count\: How Data Shapes Transfer in On-Policy Distillation](<https://arxiv.org/abs/2609.37377>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [ATTUNER\: Recomputation-Free KV Cache Reuse via Query-Side Adaptation](<https://arxiv.org/abs/2609.36722>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation](<https://huggingface.co/papers/2609.37925>) | Preprint | OpenAlex, Official page |
+| 2026‑09‑28 | [Beyond Prompt Count\: How Data Shapes Transfer in On-Policy Distillation](<https://huggingface.co/papers/2609.37377>) | Preprint | OpenAlex, Official page |
 | 2026‑09‑28 | [Adaptive Reward Routing\: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL](<https://huggingface.co/papers/2609.37200>) | Preprint | Official page, OpenAlex |
 | 2026‑09‑28 | [USA\: Update-aware SAM for Cross-domain On-Policy Disitllation of Language Agents](<https://arxiv.org/abs/2609.34225>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [SkillRubric\: Co-Evolving Actor Guidance and Evaluator Rubrics for Multimodal Agents](<https://arxiv.org/abs/2609.34557>) | Preprint | OpenAlex |

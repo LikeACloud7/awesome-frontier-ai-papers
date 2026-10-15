@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3822`
+- Papers: `3830`
 - Latest: `2026-10-09`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -19,9 +19,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑09 | [Last Secure Code Benchmark\: Is the Code You Vibe Secure?](<https://huggingface.co/papers/2610.14766>) | Preprint | Official page |
 | 2026‑10‑09 | [RVUF\: an identity-aware and scene-cut-aware framework for robust character-centric video understanding](<https://doi.org/10.1117/12.3112626>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Rollout-Time Intervention\: Unlocking Agentic Reinforcement Learning Beyond Policy Limits](<https://arxiv.org/abs/2610.13438v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation](<https://arxiv.org/abs/2610.12061>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [V-CoLA\: Vision Token Compression with Linear Attention](<https://arxiv.org/abs/2610.11251>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [UniData\: Universal Multimodal Instruction Generation Pipeline](<https://arxiv.org/abs/2610.11363>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [SpatialOPSD\: Self-Distilling Spatial Intelligence from Verified Coding Agent Traces](<https://arxiv.org/abs/2610.11366>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [REMORY\: Learning Residual Memory for Context Compaction](<https://arxiv.org/abs/2610.11287>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents](<https://arxiv.org/abs/2610.11920>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Beyond Sequences\: Distilling Structured Decision Memory for LLM Recommendation](<https://arxiv.org/abs/2610.11501v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑07 | [Regression Accumulation in Multi-turn LLM Programming Conversations](<https://doi.org/10.1145/3832783.3834357>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [TaoD2C-Bench\: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity](<https://arxiv.org/abs/2610.10374>) | Preprint | OpenAlex |
@@ -74,9 +80,11 @@
 | 2026‑09‑29 | [OmniReasoning\: Pushing the Limits of Audio-Visual Joint Reasoning](<https://huggingface.co/papers/2609.39490>) | Preprint | Official page |
 | 2026‑09‑29 | [When Upstream Messages Override Correct Answers\: A Controlled Study of Multi-Agent LLM Collaboration](<https://arxiv.org/abs/2609.36855>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [RoboChrono\: A Real Robot Benchmark for Streaming Task Understanding](<https://arxiv.org/abs/2609.36605>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News](<https://arxiv.org/abs/2610.08835>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [How Can Recommendation Feedback Evolve Agent Memory?](<https://arxiv.org/abs/2609.37544>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [AdaM-Rec\: Adaptive Modality Routing for Multimodal Recommendation](<https://arxiv.org/abs/2609.38455>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Fine-Tuning on Self-Generated and Reward-Weighted Data\: Learning Dynamics, Convergence Rates, and Benefits of Off-Policyness](<https://arxiv.org/abs/2609.36945v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑29 | [EgoHumanoid-V2\: Human-to-Humanoid Transfer of Coordinated Whole-Body Skills for Loco-Manipulation](<https://arxiv.org/abs/2609.37181v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [TSGate\: Timestep-Aware Gated Attention for Diffusion Transformers](<https://arxiv.org/abs/2609.34539>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Reward-Aligned Reweighting for On-Policy Distillation](<https://arxiv.org/abs/2609.35517>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [PEARL\: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning](<https://arxiv.org/abs/2609.35158>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1096`
+- Papers: `1097`
 - Latest: `2026-10-07`
 - [Back to README](../../README.md#baidu)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑07 | [MIRROR\: From Imitation to Internalization in LLM Personalization](<https://arxiv.org/abs/2610.09795>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [Multi-Bandwidth Distribution Matching Distillation\: On the Equivalence of Distribution Matching Distillation and Drifting Models](<https://arxiv.org/abs/2610.10989v1>) | Paper | Verified affiliation |
 | 2026‑10‑06 | [RLDISCOVER\: LLM-driven co-evolution of reinforcement learning algorithms](<https://arxiv.org/abs/2610.09218>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Detecting Adversarial Illicit Promotional Images via Threat-Driven Multimodal Analysis](<https://doi.org/10.1007/978-3-032-38702-8_14>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [AGAR\: a reinforcement learning substrate for LLM program evolution](<https://arxiv.org/abs/2610.09215>) | Preprint | OpenAlex |
