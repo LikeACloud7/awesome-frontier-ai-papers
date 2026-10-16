@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1819`
-- Latest: `2026-10-08`
+- Papers: `1826`
+- Latest: `2026-10-14`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,38 +16,45 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑14 | [Cortex\: Consolidating Context into Parametric Memory](<https://huggingface.co/papers/2610.20399>) | Paper | Hugging Face |
+| 2026‑10‑08 | [Few-Step Generation via Data-Space Iteration](<https://huggingface.co/papers/2610.12102>) | Paper | Hugging Face |
 | 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Transferability of Learned States in Neural PDE Solvers](<https://arxiv.org/abs/2610.10972>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Open-MMUnlearning\: Unifying Methods and Evaluation for MLLM Unlearning](<https://arxiv.org/abs/2610.10358>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Expanding Guard Reach\: Online Learning-Driven Incremental Kernel Panic Diagnosis](<https://doi.org/10.1145/3832783.3834474>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [AlarmClaw\: Context-Enriched Alarm Management with Category-/Severity-Aware Incident Graphs](<https://doi.org/10.1145/3832783.3834524>) | Conference paper | OpenAlex |
+| 2026‑10‑02 | [DuoMatching\: Joint-Marginal Distribution Matching for Few-Step Video Generation](<https://huggingface.co/papers/2610.03543>) | Paper | Hugging Face |
 | 2026‑10‑01 | [RESTOR\: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning](<https://arxiv.org/abs/2607.23963>) | Article | OpenAlex |
+| 2026‑10‑01 | [DMAD\: Distribution Matching as Adversarial Distillation for Fast Visual Generation](<https://huggingface.co/papers/2610.02188>) | Paper | Hugging Face |
 | 2026‑10‑01 | [FastCI\: Efficient GPU-Intensive CI for LLM Training Frameworks](<https://arxiv.org/abs/2610.01967v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑30 | [Scoring Higher, Answering Worse\: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](<https://huggingface.co/papers/2609.38847>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑30 | [T2SPO\: Trajectory-to-Step Policy Optimization for Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.00388>) | Preprint | OpenAlex |
-| 2026‑09‑30 | [Scoring Higher, Answering Worse\: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](<https://arxiv.org/abs/2609.38847>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [PhysVista\: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop](<https://arxiv.org/abs/2610.00559>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Spectral graph filter bank fusion for multimodal rumor cascade representation and detection](<https://doi.org/10.1016/j.ipm.2026.105194>) | Article | OpenAlex |
 | 2026‑09‑29 | [MotionInsight\: Diagnosing Object Motion Deficiencies in Generated Videos](<https://arxiv.org/abs/2609.37030>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Learning from Think-Mode Advantage via On-Policy Distillation](<https://arxiv.org/abs/2609.37044>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](<https://arxiv.org/abs/2609.37710>) | Preprint | OpenAlex |
-| 2026‑09‑28 | [Periodic Weak Spots\: Phase Sensitivity from Chunked KV-Cache Compression](<https://seed.bytedance.com/en/research/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression>) | Publication | Official page |
+| 2026‑09‑29 | [Breaking the Uniformity Trap\: Scaling Video Diffusion Model via SplitMoE](<https://huggingface.co/papers/2609.38140>) | Paper | Hugging Face |
+| 2026‑09‑28 | [Periodic Weak Spots\: Phase Sensitivity from Chunked KV-Cache Compression](<https://seed.bytedance.com/en/research/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression>) | Publication | Official page, Hugging Face |
 | 2026‑09‑28 | [TensorHub\: Scalable and Elastic Weight Transfer for LLM RL Training](<https://arxiv.org/abs/2604.09107>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [SALMONN-duo\: Adaptive Dual-System Coordination for Full-Duplex Voice Agents](<https://arxiv.org/abs/2609.34247>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RGDT-Bench\: Benchmarking LLM Reasoning for Rule-Governed Decisions and Their Justifications](<https://arxiv.org/abs/2609.34455>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Optimizing Isabelle2Cpp for Safe and Efficient C++ Codes Generation](<https://doi.org/10.1002/spe.70111>) | Article | OpenAlex |
 | 2026‑09‑28 | [From Noisy Telemetry to Actionable Warnings\: GPU Failure Prediction in Industrial Clusters](<https://arxiv.org/abs/2609.34473v1>) | Paper | Verified affiliation |
+| 2026‑09‑27 | [TraceDance\: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](<https://huggingface.co/papers/2609.33295>) | Paper | Hugging Face |
+| 2026‑09‑25 | [Block Sparse Attention with Log-Linear Complexity](<https://huggingface.co/papers/2609.31093>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑25 | [SequenceO1\: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching](<https://arxiv.org/abs/2609.08443>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [FLUID\: From Ephemeral IDs to Multimodal Semantic Codes for Billion-Scale Livestreaming Recommendation](<https://doi.org/10.1145/3773078.3831918>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding](<https://arxiv.org/abs/2607.28659>) | Conference paper | OpenAlex |
-| 2026‑09‑25 | [Block Sparse Attention with Log-Linear Complexity](<https://arxiv.org/abs/2609.31093>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [A Self-Triggered Agentic Push Recommendation System](<https://arxiv.org/abs/2608.01949>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Aligning One-Step Generative Models with Reward-Weighted Transport Distillation](<https://huggingface.co/papers/2609.30840>) | Paper | Hugging Face |
 | 2026‑09‑24 | [MedVol-R1\: Reward-Driven Evidence Grounding for Volumetric Reasoning Segmentation](<https://arxiv.org/abs/2605.26621>) | Conference paper | OpenAlex |
 | 2026‑09‑22 | [InfiniLoRA\: Disaggregated Multi-LoRA Serving for Large Language Models](<http://arxiv.org/abs/2604.07173>) | Conference paper | OpenAlex |
-| 2026‑09‑19 | [Towards Full Pipeline FP8 Reinforcement Learning for LLMs](<https://arxiv.org/abs/2609.22870>) | Preprint | OpenAlex |
+| 2026‑09‑19 | [Towards Full Pipeline FP8 Reinforcement Learning for LLMs](<https://huggingface.co/papers/2609.22870>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑19 | [NSP\: Accelerating Variable-Length LLM Training via Nested Sequence Parallelism](<https://arxiv.org/abs/2609.22755v1>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [DRT\: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](<https://arxiv.org/abs/2609.21675>) | Preprint | OpenAlex |
+| 2026‑09‑17 | [Paint-Anything\: Unified Any-Color Control for Image Generation and Editing](<https://arxiv.org/abs/2609.20816v2>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑09‑17 | [SIMLIFE\: Pattern Understanding for Long-Horizon Human-Agent Partnership](<https://arxiv.org/abs/2609.19610>) | Preprint | OpenAlex |
-| 2026‑09‑17 | [Paint-Anything\: Unified Any-Color Control for Image Generation and Editing](<https://arxiv.org/abs/2609.20816v2>) | Paper | Verified affiliation |
 | 2026‑09‑14 | [Principal-timestep Restricted Init via Sparse Matrix-decomposition in Flow-matching](<https://arxiv.org/abs/2609.15643>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [VisInteract\: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries](<https://arxiv.org/abs/2609.15182>) | Preprint | OpenAlex |
 | 2026‑09‑14 | [Disentangling Representation Evolution in Transformers through Directional Decomposition](<https://arxiv.org/abs/2609.15975>) | Preprint | OpenAlex |

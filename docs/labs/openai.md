@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `511`
-- Latest: `2026-10-08`
+- Papers: `512`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>) | Research post | Official page |
 | 2026‑10‑08 | [Disrupting AI-enabled “false front” operations](<https://openai.com/index/disrupting-ai-enabled-false-front-operations>) | Research post | Official page |
 | 2026‑10‑06 | [Sharing AI progress in mathematics](<https://openai.com/index/sharing-ai-progress-in-mathematics>) | Research post | Official page |
 | 2026‑10‑06 | [Advancing computer use with Ironclad](<https://openai.com/index/advancing-computer-use-with-ironclad>) | Research post | Official page |

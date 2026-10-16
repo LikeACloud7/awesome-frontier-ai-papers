@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1852`
+- Papers: `1857`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#metafair)
 
@@ -22,6 +22,7 @@
 | n\.d\. | [Unbiased Prevalence Estimation with Multicalibrated LLMs](<https://github.com/facebookresearch/multicalibrated_llm_measurement/blob/main/paper/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tutorial on Amortized Optimization](<https://github.com/facebookresearch/amortized-optimization-tutorial/blob/main/paper/fig/control-model-based-iter.pdf>) | Technical report | Official repo |
 | n\.d\. | [This repo is deprecated\.](<https://github.com/facebookresearch/dynabench/blob/main/frontends/web/public/paper.pdf>) | Technical report | Official repo |
+| n\.d\. | [The Differentiable Cross-Entropy Method](<https://github.com/facebookresearch/dcem/blob/main/paper/images/cartpole/all-convergence.pdf>) | Technical report | Official repo |
 | n\.d\. | [TextVQA Website](<https://github.com/facebookresearch/TextVQA/blob/main/frontend/public/assets/paper/TextVQA.pdf>) | Technical report | Official repo |
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
 | n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
@@ -47,7 +48,7 @@
 | 2026‑10‑14 | [Remission of Type 2 Diabetes in Linked Health Records\: Uncommon, Short-Lived, and More Often Ended by Treatment Restart Than by Rising HbA1c](<https://ai.meta.com/research/publications/remission-of-type-2-diabetes-in-linked-health-records-uncommon-short-lived-and-more-often-ended-by-treatment-restart-than-by-rising-hba1c/>) | Publication | Official page |
 | 2026‑10‑14 | [Pickleball injuries, search interest, and participation in the United States, 2014-2023\: an ecological time series study](<https://ai.meta.com/research/publications/pickleball-injuries-search-interest-and-participation-in-the-united-states-2014-2023-an-ecological-time-series-study/>) | Publication | Official page |
 | 2026‑10‑14 | [Outcomes in Methicillin-Susceptible and Methicillin-Resistant Staphylococcus aureus Infective Endocarditis Compared With Staphylococcus lugdunensis Infective Endocarditis](<https://ai.meta.com/research/publications/outcomes-in-methicillin-susceptible-and-methicillin-resistant-staphylococcus-aureus-infective-endocarditis-compared-with-staphylococcus-lugdunensis-infective-endocarditis/>) | Publication | Official page |
-| 2026‑10‑14 | [Human-Guided Agentic AI for End-to-End EHR Research\: Sequential Antibody-Drug Conjugate Pathways in Breast Cancer](<https://ai.meta.com/research/publications/human-guided-agentic-ai-for-end-to-end-ehr-research-sequential-antibody-drug-conjugate-pathways-in-breast-cancer/>) | Publication | Official page |
+| 2026‑10‑14 | [Human-Guided Agentic AI for End-to-End EHR Research\: Sequential Antibody-Drug Conjugate Pathways in Breast Cancer](<https://ai.meta.com/research/publications/human-guided-agentic-ai-for-end-to-end-ehr-research-sequential-antibody-drug-conjugate-pathways-in-breast-cancer/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Documented Dental Disease in Patients With Staphylococcus aureus Bacteremia](<https://ai.meta.com/research/publications/documented-dental-disease-in-patients-with-staphylococcus-aureus-bacteremia/>) | Publication | Official page |
 | 2026‑10‑14 | [Cladophialophora bantiana\: a US clinical case series assisted by artificial intelligence](<https://ai.meta.com/research/publications/cladophialophora-bantiana-a-us-clinical-case-series-assisted-by-artificial-intelligence/>) | Publication | Official page |
 | 2026‑10‑13 | [AutoformBench\: A Lean Formalization Benchmark for Advanced Mathematics](<https://ai.meta.com/research/publications/autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics/>) | Publication | Official page |
@@ -58,6 +59,7 @@
 | 2026‑10‑09 | [Huni\: A Networked Testbed for Real-time Human and Generative AI Interaction](<https://doi.org/10.1145/3842656.3843820>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [AI-driven scalable metrology solutions for smart glasses and AR wearables](<https://doi.org/10.1117/12.3114946>) | Conference abstract | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
+| 2026‑10‑07 | [MIMESIS\: Learning User Simulators as Training Environments for Interactive Agents](<https://huggingface.co/papers/2610.09484>) | Paper | Hugging Face |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Which and When to Admit\: Gradient Admission for Data-Centric Small Language Model Finetuning](<https://arxiv.org/abs/2610.07553>) | Preprint | OpenAlex |
@@ -65,6 +67,7 @@
 | 2026‑10‑06 | [PEG for Information Flow\: Analysis and Incremental Reasoning](<https://doi.org/10.1007/978-3-032-40374-2_10>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Constraint Tree Exploration for Learning from Language Feedback](<https://arxiv.org/abs/2610.09107>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [Agent Plasticity\: Measuring Self-Improvement Through Experience](<https://huggingface.co/papers/2610.08902>) | Paper | Hugging Face |
 | 2026‑10‑05 | [Exact Unlearning via Quantized Sufficient Statistics](<https://arxiv.org/abs/2610.07197>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Rethinking Long-Video Efficiency\: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](<https://arxiv.org/abs/2610.04318>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
@@ -76,6 +79,8 @@
 | 2026‑10‑02 | [RaBitQ-SSD\: Split Codes and Pipelined I/O for SSD-Resident Vector Search](<https://arxiv.org/abs/2610.02652>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
+| 2026‑09‑30 | [Scaling Laws for Looped Mixture of Experts](<https://huggingface.co/papers/2609.40316>) | Paper | Hugging Face |
+| 2026‑09‑30 | [MemLife\: Curating and Reasoning over Long-Term Egocentric Video Memories](<https://huggingface.co/papers/2609.40195>) | Paper | Hugging Face |
 | 2026‑09‑29 | [Can You See Me, GenAI? Characterizing Video-Based Conversational Interaction with Generative AI](<https://doi.org/10.1145/3777912.3839793>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [TMPE\: online power time-series forecasting via truncated Monte Carlo and prior experience replay](<https://doi.org/10.1007/s11227-026-08882-y>) | Article | OpenAlex |
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |

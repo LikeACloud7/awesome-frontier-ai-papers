@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `349`
+- Papers: `350`
 - Latest: `2026-10-12`
 - [Back to README](../../README.md#anthropic)
 
@@ -161,6 +161,7 @@
 | 2026 | [The Hot Mess of AI\: How Does Misalignment Scale with Model Intelligence and Task Complexity?](<https://alignment.anthropic.com/2026/hot-mess-of-ai/>) | Research post | Official page, OpenAlex |
 | 2026 | [Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments](<https://alignment.anthropic.com/2026/chive/>) | Research post | Official page |
 | 2026 | [Training a Misaligned Reward Seeker](<https://alignment.anthropic.com/2026/reward-seeker/>) | Research post | Official page |
+| 2026 | [Training Alignment Auditors via Reinforcement Learning](<https://alignment.anthropic.com/2026/training-alignment-auditors/>) | Research post | Official page |
 | 2026 | [The Persona Selection Model\: Why AI Assistants might Behave like Humans](<https://alignment.anthropic.com/2026/psm/>) | Research post | Official page |
 | 2026 | [TASTE\: Can AI Models Judge AI Safety Research Proposals?](<https://alignment.anthropic.com/2026/taste/>) | Research post | Official page |
 | 2026 | [SLEIGHT-Bench\: Finding Blind Spots in AI Monitors](<https://alignment.anthropic.com/2026/sleight-bench/>) | Research post | Official page |
@@ -283,7 +284,7 @@
 | 2025 | [Training on Documents about Reward Hacking Induces Reward Hacking](<https://alignment.anthropic.com/2025/reward-hacking-ooc/index.html>) | Research post | Official page |
 | 2025 | [Training fails to elicit subtle reasoning in current language models](<https://alignment.anthropic.com/2025/subtle-reasoning/>) | Research post | Official page |
 | 2025 | [Towards training-time mitigations for alignment faking in RL](<https://alignment.anthropic.com/2025/alignment-faking-mitigations/>) | Research post | Official page |
-| 2025 | [Subliminal Learning\: Language Models Transmit Behavioral Traits via Hidden Signals in Data](<https://alignment.anthropic.com/2025/subliminal-learning/>) | Research post | Official page |
+| 2025 | [Subliminal Learning\: Language Models Transmit Behavioral Traits via Hidden Signals in Data](<https://alignment.anthropic.com/2025/subliminal-learning/>) | Research post | Official page, Verified affiliation |
 | 2025 | [Stress-testing model specs reveals character differences among language models](<https://alignment.anthropic.com/2025/stress-testing-model-specs/>) | Research post | Official page |
 | 2025 | [Strengthening Red Teams\: A Modular Scaffold for Control Evaluations](<https://alignment.anthropic.com/2025/strengthening-red-teams/>) | Research post | Official page |
 | 2025 | [Recommendations for Technical AI Safety Research Directions](<https://alignment.anthropic.com/2025/recommended-directions/index.html>) | Research post | Official page |

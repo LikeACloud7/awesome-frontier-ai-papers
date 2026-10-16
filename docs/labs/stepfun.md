@@ -23,7 +23,7 @@
 | 2026‑09‑28 | [From Search to Research\: Exploring Search Scaling in Autonomous Quantitative Factor Mining](<https://arxiv.org/abs/2609.35559v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [Probe to Act\: Elevating Browser-Use Agent via Active Visual Probing](<https://arxiv.org/abs/2609.33646v1>) | Paper | Verified affiliation |
 | 2026‑09‑23 | [KITE\: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](<https://arxiv.org/abs/2609.27294v1>) | Paper | Verified affiliation |
-| 2026‑09‑20 | [onPanda\: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](<https://huggingface.co/papers/2609.24983>) | Preprint | Official page |
+| 2026‑09‑20 | [onPanda\: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](<https://huggingface.co/papers/2609.24983>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑18 | [ConsistWorld\: Evidence Routing for Consistent Multi-Agent World Models](<https://arxiv.org/abs/2609.22641>) | Preprint | OpenAlex |
 | 2026‑09‑11 | [StepAudio 3 Realtime Technical Report](<https://huggingface.co/papers/2609.14005>) | Preprint | Official page |
 | 2026‑09‑10 | [StepAudio 3 Music Technical Report](<https://huggingface.co/papers/2609.16034>) | Preprint | Official page, Hugging Face |

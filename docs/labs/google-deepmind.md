@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5568`
-- Latest: `2026-10-13`
+- Papers: `5579`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,18 +15,27 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Decentralized LLM Workflows via Sequential Auctions](<https://arxiv.org/abs/2610.22201v1>) | Paper | Verified affiliation |
+| 2026‑10‑14 | [Teaching LLMs How ICU Physicians Approach Clinical Reasoning Through OMOP-Aligned Retrieval Improves Reasoning Across Clinical Domains](<https://arxiv.org/abs/2608.22622>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Price of Anarchy of First-Price Auctions in Agentic Markets](<https://arxiv.org/abs/2610.20587v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [Gemini 4 Argon Model Card](<https://deepmind.google/models/model-cards/gemini-4-argon/>) | Model card | Official page |
 | 2026‑10‑13 | [Reuse of learned subtask representations during human planning](<https://doi.org/10.64898/2026.10.12.758531>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [DroneMegaDetector, A Generalised Model For Detecting Large Mammals In Aerial Imagery](<https://doi.org/10.64898/2026.10.12.758430>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Two For The Price Of One\: Curvature-Aware Pruning Preserves Influence Functions Too](<https://arxiv.org/abs/2610.18516v1>) | Paper | Verified affiliation |
+| 2026‑10‑12 | [Nature Mental Health Earth–Brain–Health Commission](<https://doi.org/10.1038/s44220-026-00737-y>) | Article | OpenAlex |
 | 2026‑10‑11 | [“I Want to Be Pushed, I Want to Grow”\: Enabling Social Workers to Design Evaluations of LLM Augmentation in Their Work (Extended Abstract)](<https://doi.org/10.1609/aies.v9i2.43241>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Why and How People Check Generative AI Output for Mistakes](<https://arxiv.org/abs/2609.38186>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Towards Characterising Conditions of Assistance, Hindrance and Depletion in Human Agency from AI Systems](<https://doi.org/10.1609/aies.v9i2.43233>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [CompanionSim\: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships](<https://arxiv.org/abs/2609.00250>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [Women's Health as Cooperative Work\: Participatory AI Across Care, Community, and Policy](<https://doi.org/10.1145/3785651.3818821>) | Conference paper | OpenAlex |
-| 2026‑10‑09 | [OpenSocialJax\: Evaluating Social Adaptation in Sequential Social Dilemmas with Open-Ended Environmental Dynamics](<https://arxiv.org/abs/2610.13710v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [Training User Simulators with Latent Intrinsic Feedback](<https://arxiv.org/abs/2610.13617>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [Rationally Linearized MLPs](<https://doi.org/10.48550/arxiv.2610.13568>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [OpenSocialJax\: Evaluating Social Adaptation in Sequential Social Dilemmas with Open-Ended Environmental Dynamics](<https://arxiv.org/abs/2610.13710v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑08 | [Advancing mathematics research with AI-driven formal proof search](<https://arxiv.org/abs/2605.22763>) | Article | OpenAlex |
+| 2026‑10‑08 | [VEPA\: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails](<https://arxiv.org/abs/2610.12813>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [SepGen\: Multi-Stem Audio-Video Separation and Generation in a Single Model](<https://arxiv.org/abs/2610.11361>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Self-Preservation in Language Models](<https://arxiv.org/abs/2610.12602>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [GlucoPRISM\: Protocol-Supervised Pretraining for Cross-Cohort Glucose Transfer](<https://arxiv.org/abs/2610.12528>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Data everywhere, but are they fit for purpose?](<https://doi.org/10.1126/science.ael8349>) | Article | OpenAlex |
 | 2026‑10‑08 | [CoSpaN\: Permissionless Consensus in Sparse Networks](<https://doi.org/10.1007/978-3-032-38708-0_28>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Beyond frozen teachers\: co-training and co-distillation for task-specific fine-tuning](<https://doi.org/10.1117/12.3118495>) | Conference abstract | OpenAlex |
@@ -121,6 +130,7 @@
 | 2026‑09‑27 | [Generalization Dynamics of LM Pre-training](<https://doi.org/10.48550/arxiv.2609.33150>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Modular Discovery of General Game-Playing Algorithms with Large Language Models](<https://arxiv.org/abs/2609.33115v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling](<https://arxiv.org/abs/2609.32824>) | Preprint | OpenAlex |
+| 2026‑09‑26 | [Splicing Hints into Reasoning Traces\: Learning from Demonstrator Failures](<https://doi.org/10.48550/arxiv.2610.13996>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Protection by Entanglement\: Inseparable Design-Embedded Watermarks for Manufacturing-as-a-Service (MaaS)](<https://doi.org/10.1007/978-3-032-38695-3_21>) | Conference paper | OpenAlex |
 | 2026‑09‑26 | [KeyRec\: Bounded Visual Memory for Streaming and Long-Video Understanding](<https://arxiv.org/abs/2609.32182>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Efficient Dynamic Algorithms for Graph Neural Networks with Non-Linear Propagation](<https://arxiv.org/abs/2609.32929>) | Preprint | OpenAlex |
@@ -1447,6 +1457,7 @@
 | 2026 | [ScholarPeer\: A Multi-Agent Framework for Automated Peer Review](<https://research.google/pubs/scholarpeer-a-multi-agent-framework-for-automated-peer-review/>) | Publication | Official page |
 | 2026 | [Scalable Detection of Adversarial Synthetic Slop and Coordinated Media Abuse\: A LoRA-Enabled Multimodal Defense System](<https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-2/>) | Publication | Official page |
 | 2026 | [Scalability With AI\: Lessons From Real Production Systems](<https://research.google/pubs/scalability-with-ai-lessons-from-real-production-systems/>) | Publication | Official page |
+| 2026 | [SKILL\.state\: Scalable Long-Horizon Agent Skills](<https://research.google/pubs/skillstate-scalable-long-horizon-agent-skills/>) | Publication | Official page |
 | 2026 | [Rethinking Context-Enriched Time-Series Forecasting Evaluation](<https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/>) | Publication | Official page |
 | 2026 | [Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action-Spaces](<https://research.google/pubs/reinforcement-learning-with-discrete-diffusion-policies-for-combinatorial-action-spaces/>) | Publication | Official page |
 | 2026 | [Reasoning-Driven Synthetic Data Generation and Evaluation](<https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/>) | Publication | Official page |

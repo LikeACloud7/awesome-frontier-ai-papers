@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4022`
+- Papers: `4032`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#microsoft)
 
@@ -106,7 +106,6 @@
 | n\.d\. | [Can a MISL Fly? Analysis and Ingredients for Mutual Information Skill Learning](<https://www.microsoft.com/en-us/research/publication/can-a-misl-fly-analysis-and-ingredients-for-mutual-information-skill-learning/>) | Publication | Official page |
 | n\.d\. | [Can We Trust LLM Judges\: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration](<https://www.microsoft.com/en-us/research/publication/can-we-trust-llm-judges-a-study-of-capability-dependent-biases-and-multi-judge-ensemble-for-bias-calibration/>) | Publication | Official page |
 | n\.d\. | [Can LLMs Truly Forget? Revealing Unlearning Gaps Through Adversarial Evaluation](<https://www.microsoft.com/en-us/research/publication/can-llms-truly-forget-revealing-unlearning-gaps-through-adversarial-evaluation/>) | Publication | Official page |
-| n\.d\. | [CaRGo-T\: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension](<https://www.microsoft.com/en-us/research/publication/cargo-t-causal-reasoning-graph-of-thought-improves-multimodal-humor-comprehension/>) | Publication | Official page |
 | n\.d\. | [CROSS-Sched\: A Crossover-Aware ML Scheduler and its Benchmarking on Heterogeneous Systems](<https://www.microsoft.com/en-us/research/publication/cross-sched-a-crossover-aware-ml-scheduler-and-its-benchmarking-on-heterogeneous-systems/>) | Publication | Official page |
 | n\.d\. | [Broken Neural Scaling Laws in Learning the Optical Properties of Solids](<https://www.microsoft.com/en-us/research/publication/broken-neural-scaling-laws-in-learning-the-optical-properties-of-solids/>) | Publication | Official page |
 | n\.d\. | [Biomolecular Multiscale Simulation (BMS25) Dataset to Train Neural Network Potentials for QM/MM Settings with Electrostatic Embedding](<https://www.microsoft.com/en-us/research/publication/biomolecular-multiscale-simulation-bms25-dataset-to-train-neural-network-potentials-for-qm-mm-settings-with-electrostatic-embedding/>) | Publication | Official page |
@@ -135,7 +134,10 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑14 | [Mapping Successful AI Application in Well Delivery to Domain Knowledge, SME Capacity in Operators and Their Suppliers](<https://doi.org/10.2118/234029-ms>) | Conference paper | OpenAlex |
-| 2026‑10‑13 | [AesCode\: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](<https://arxiv.org/abs/2610.18860>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [AesCode\: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](<https://arxiv.org/abs/2610.18860>) | Paper | Verified affiliation, Hugging Face |
+| 2026‑10‑13 | [LensErase\: A Foundation Model for Erase Anything](<https://huggingface.co/papers/2610.18072>) | Paper | Hugging Face |
+| 2026‑10‑13 | [APT\: Feedback-Driven Agentic Post-Training for Text-to-Image Generation](<https://huggingface.co/papers/2610.18097>) | Paper | Hugging Face |
+| 2026‑10‑13 | [Simplifying and Improving On-Policy Distillation for Few-Step Diffusion](<https://huggingface.co/papers/2610.18472>) | Paper | Hugging Face |
 | 2026‑10‑12 | [A Dual-Expert Routing Framework for Structured Data Extraction from Scientific Tables](<https://doi.org/10.1145/3805696.3846063>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Moral Missions\: Sustaining Responsible Practice by Surfacing Practitioner Moral Decision-Making Procedures](<https://doi.org/10.1609/aies.v9i1.43145>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [MoTA\: Cross-Modal Motion Transfer for Animating 3D Head Avatars via 2D Motion Tokens](<https://doi.org/10.1145/3857347>) | Article | OpenAlex |
@@ -143,21 +145,27 @@
 | 2026‑10‑11 | [Identifying Harm in Personalized, Generative AI Systems Requires User-Centered Auditing at the Interaction Level](<https://doi.org/10.1609/aies.v9i1.43167>) | Conference paper | OpenAlex |
 | 2026‑10‑10 | [Impact of Expertise and Trust on AI-assisted Work](<https://arxiv.org/abs/2610.14660v1>) | Paper | Verified affiliation |
 | 2026‑10‑10 | [EAIR\: Interaction Risks in Enterprise LLM Multi-Agent Systems](<https://arxiv.org/abs/2610.14800v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [Universal Bounds for Self-Normalized Kullback-Leibler Estimation](<https://arxiv.org/abs/2610.12851>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [The time course of neural activity predictive of self-initiated movement](<https://doi.org/10.7554/elife.109913.2>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [SOAR\: Source-Aware Reinforcement Learning with Precise Credit Assignment for Search Agents](<https://arxiv.org/abs/2610.13157>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [Noise Space Learning for VLA Adaptation](<https://arxiv.org/abs/2610.13943>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Industry-CSCW Dynamics in the Age of Generative AI\: Perspectives on Future Trajectories of Academia-Industry Collaboration](<https://doi.org/10.1145/3785651.3831574>) | Conference paper | OpenAlex |
-| 2026‑10‑09 | [Evaluating LLM Creativity through Long-Tail Performance](<https://arxiv.org/abs/2610.12998v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [AutoEnvScaling\: Automating the Data Flywheel with Terminal Agents](<https://huggingface.co/papers/2610.14163>) | Paper | Hugging Face |
+| 2026‑10‑09 | [Evaluating LLM Creativity through Long-Tail Performance](<https://arxiv.org/abs/2610.12998v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑08 | [From Prompting to Composing\: A Spatial Canvas Interface for Poster Generation](<https://arxiv.org/abs/2610.12230v1>) | Paper | OpenAlex, Verified affiliation, Hugging Face |
 | 2026‑10‑08 | [When Interfaces Speak\: Data-Aware Generative UI Harness for Active Interaction](<https://arxiv.org/abs/2610.11123>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Latent Core Tokenizer\: Compress, but Meaningfully](<https://arxiv.org/abs/2610.12376>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [HarnessSQL\: Harness-Native Training for SQL Agents in Realistic Database Environments](<https://arxiv.org/abs/2610.12274>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Beyond Binary Verifiable Rewards\: Behavioral Self-Rewarding for SWE Agents](<https://arxiv.org/abs/2610.12598>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [VibeEdit\: Image Editing with Canvas Instructions](<https://arxiv.org/abs/2610.12229v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [Magic Pen\: Automatic Pen Mode Switching for Document Annotation](<https://arxiv.org/abs/2610.11255v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑08 | [From Prompting to Composing\: A Spatial Canvas Interface for Poster Generation](<https://arxiv.org/abs/2610.12230v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Code Understanding is a Bottleneck for Coding Agents](<https://www.microsoft.com/en-us/research/publication/code-understanding-is-a-bottleneck-for-coding-agents/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑07 | [eARCO\: Efficient Automated Root Cause Analysis with Prompt Optimization](<http://arxiv.org/abs/2504.11505>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [When Does AI Actually Help in Incident Response? Identifying Good First Messages in Cloud Service Incidents](<https://doi.org/10.1145/3832783.3837473>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](<http://arxiv.org/abs/2602.03181>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Reproducible LLM Inference Benchmarking\: A Sequential Isolation Protocol for Regression Testing](<https://arxiv.org/abs/2610.09778>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [Looking Under the Streetlight\: Evaluation in Generative Molecular Dynamics](<https://arxiv.org/abs/2610.12518>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Debug2Fix\: Can Interactive Debugging Help Coding Agents Fix More Bugs?](<https://arxiv.org/abs/2602.18571>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [CtxFuzz\: Context-Aware Directed Fuzzing via Runtime Fuzzer-Agent Cooperation](<https://doi.org/10.1145/3832783.3834365>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [ActionNex\: A Production-Grade System for Next-Best-Action Recommendation in Cloud Outage Management](<https://doi.org/10.1145/3832783.3834472>) | Conference paper | OpenAlex |
@@ -170,6 +178,7 @@
 | 2026‑10‑06 | [Learning the electronic health record at the minute-scale](<https://doi.org/10.64898/2026.10.04.26364562>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [DirectSpeech2LLM\: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs](<https://arxiv.org/abs/2610.08085>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://arxiv.org/abs/2610.09085v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑05 | [MiniCorp\: The Last Mile of the AI Agent Firm](<https://huggingface.co/papers/2610.05912>) | Paper | Hugging Face |
 | 2026‑10‑05 | [GraphDecisionBench\: Benchmarking System One Models on Graph Tasks](<https://arxiv.org/abs/2610.06354>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Fork-and-Flush\: Escaping Idea Basins in Autoresearch Agents](<https://arxiv.org/abs/2610.07447>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Considering Context\: When World Models Need Context Encoders](<https://arxiv.org/abs/2610.06651>) | Preprint | OpenAlex |
@@ -177,10 +186,10 @@
 | 2026‑10‑05 | [AuraSE\: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization](<https://arxiv.org/abs/2610.06632>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Activation Denoising\: A Robustness View on Parallel vs Sequential LLM Quantization](<https://arxiv.org/abs/2610.07522>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [RESOLVE\: Language-Agnostic Validation of GPU Kernels Through Testing, Reduction, and Proof](<https://arxiv.org/abs/2610.05683v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑04 | [DiVeR\: Decision-Critical Verifier Learning for VLA Test-Time Scaling](<https://www.microsoft.com/en-us/research/publication/diver-decision-critical-verifier-learning-for-vla-test-time-scaling/>) | Publication | Official page, OpenAlex, Hugging Face |
 | 2026‑10‑04 | [TeleTune\: Evolving Agent Skills From Offline Telemetry](<https://www.microsoft.com/en-us/research/publication/teletune-evolving-agent-skills-from-offline-telemetry/>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026‑10‑04 | [JIVEAdapter\: A Multi-Task Additive Low-Rank Adapter via Joint and Individual Variation Explained (JIVE)](<https://www.microsoft.com/en-us/research/publication/jiveadapter-a-multi-task-additive-lowrank-adapter-via-joint-and-individual-variation-explained-jive/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑04 | [ForkPilot\: Self-Evolving Policy for Retrospective Search in Long-Horizon Agents](<https://www.microsoft.com/en-us/research/publication/forkpilot-self-evolving-policy-for-retrospective-search-in-long-horizon-agents/>) | Publication | Official page, OpenAlex, Verified affiliation |
-| 2026‑10‑04 | [DiVeR\: Decision-Critical Verifier Learning for VLA Test-Time Scaling](<https://www.microsoft.com/en-us/research/publication/diver-decision-critical-verifier-learning-for-vla-test-time-scaling/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑04 | [EchoChat\: Structured Cognitive Reasoning in Empathetic Spoken Dialogue](<https://arxiv.org/abs/2610.04826>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [AttSVD\: Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD](<https://www.microsoft.com/en-us/research/publication/attsvd-prompt-adaptive-low-rank-kv-cache-compression-via-attention-guided-svd/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026‑10‑03 | [Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models](<https://arxiv.org/abs/2610.04757>) | Preprint | OpenAlex |
@@ -191,12 +200,14 @@
 | 2026‑10‑02 | [Dynamic Expert Pruning for Multi-Agent Systems](<https://arxiv.org/abs/2610.02951>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [DUET\: Co-Evolving Solver and Grader Agents](<https://arxiv.org/abs/2610.04087>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [CorrectGuard\: Eyes-Off Correctness Estimation for Black-Box Security Guardrails](<https://arxiv.org/abs/2610.03470>) | Preprint | OpenAlex |
-| 2026‑10‑02 | [CUAWright\: A Minimal Unified Interface for Digital Agents](<https://arxiv.org/abs/2610.04116>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [CUAWright\: A Minimal Unified Interface for Digital Agents](<https://huggingface.co/papers/2610.04116>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑02 | ["Great! The Next Step Is\.\.\."\: In Pursuit of Proactive Assistance with Multimodal Foundation Models](<https://doi.org/10.1145/3776574.3831228>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [ProAR\: Learning Prospective Reasoning with Autoregressive Video Models](<https://arxiv.org/abs/2610.03664v1>) | Paper | Verified affiliation |
+| 2026‑10‑01 | [ActiveSaddler\: Automated Curriculum Learning for Agent Harness Optimization](<https://huggingface.co/papers/2610.00906>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑01 | [The Conversation We’re Not Having about AI in Peer Review](<https://www.microsoft.com/en-us/research/publication/the-conversation-were-not-having-about-ai-in-peer-review/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑01 | [Agents as Software\: A Programming Languages Agenda for Agent Reliability](<https://www.microsoft.com/en-us/research/publication/agents-as-software-a-programming-languages-agenda-for-agent-reliability/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑01 | [From Roadmap to Response\: A Community Assessment of Autonomous Science](<https://doi.org/10.2172/17197394>) | Report | OpenAlex |
+| 2026‑10‑01 | [LLM2Jev\: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them](<https://arxiv.org/abs/2610.02076v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑01 | [Equivalence Checking of ML GPU Kernels](<https://arxiv.org/abs/2511.12638>) | Article | OpenAlex |
 | 2026‑10‑01 | [Tracking Borrows with Regular Expressions](<https://doi.org/10.1145/3839521>) | Article | OpenAlex |
 | 2026‑10‑01 | [Teaching LLMs to Hear Who Spoke What\: Metadata-Supervised Pretraining for Encoder-Free Speech-LLMs](<https://arxiv.org/abs/2610.01695>) | Preprint | OpenAlex |
@@ -207,9 +218,7 @@
 | 2026‑10‑01 | [Interpreting Aberrant Testing Events in Remote Assessments\: Innocuous or Malicious?](<https://doi.org/10.1016/j.compedu.2026.105765>) | Article | OpenAlex |
 | 2026‑10‑01 | [How Does Killing Surviving Mutants Help Detect Real Bugs with Assertion Generation? A Controlled Experiment](<https://doi.org/10.1145/3832232>) | Article | OpenAlex |
 | 2026‑10‑01 | [Fixed-point neural samplers on discrete spaces](<https://arxiv.org/abs/2610.01739>) | Preprint | OpenAlex |
-| 2026‑10‑01 | [ActiveSaddler\: Automated Curriculum Learning for Agent Harness Optimization](<https://arxiv.org/abs/2610.00906>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Match the Distribution, Not the Compute\: Post-Training Multi-Token Prediction Heads](<https://arxiv.org/abs/2610.00888v1>) | Paper | Verified affiliation |
-| 2026‑10‑01 | [LLM2Jev\: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them](<https://arxiv.org/abs/2610.02076v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [DeskForge\: Dense Supervision from Desktop Environments for Computer-Use Agents](<https://arxiv.org/abs/2610.02320v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [CLoSeR\: Closing the Loop for Long-Context Streaming Reconstruction](<https://arxiv.org/abs/2610.01927v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Referential Uncertainty in Human-AI Collaboration](<https://www.microsoft.com/en-us/research/publication/referential-uncertainty-in-human-ai-collaboration/>) | Publication | Official page, OpenAlex |
@@ -221,12 +230,12 @@
 | 2026‑09‑30 | [IMoKGNN\: Dual-Stream Fusion of Generic and Task-Specific Language Model Features for Graph Neural Networks](<https://doi.org/10.1145/3848635>) | Article | OpenAlex |
 | 2026‑09‑30 | [A strategic roadmap for an atomistic machine-learning ecosystem](<https://arxiv.org/abs/2609.39090>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](<https://arxiv.org/abs/2609.40118v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑29 | [Follow the Entities\: A Corpus Map for Agentic Search](<https://huggingface.co/papers/2609.37226>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑29 | [Aligned Data Can Induce Misalignment via Context Confusion](<https://arxiv.org/abs/2609.38379v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑29 | [What Was Said, Not What Was 'Thought'\: Type-6 Logic for CoT Verification](<https://arxiv.org/abs/2609.38420>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [TACIT\: Optimization Models that Learn from Their Mistakes](<https://arxiv.org/abs/2609.38434>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [OrchAlign\: Orchestrated Multimodal Alignment for Gene Expression Prediction](<https://doi.org/10.1093/bioinformatics/btag711>) | Article | OpenAlex |
 | 2026‑09‑29 | [KlinikeBench\: Evaluating Language Models Beyond Diagnostic Accuracy](<https://arxiv.org/abs/2609.38480>) | Preprint | OpenAlex |
-| 2026‑09‑29 | [Follow the Entities\: A Corpus Map for Agentic Search](<https://arxiv.org/abs/2609.37226>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [FOCUS\: Training-Free Decision-Preserving Context Compression for LLM Agents](<https://arxiv.org/abs/2609.37590>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Beyond Conditional Independence\: Root Cause Analysis with Deep Causal Models](<https://arxiv.org/abs/2609.36771>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VideoLoop\: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents](<https://arxiv.org/abs/2609.38119v2>) | Paper | Verified affiliation, OpenAlex |
@@ -236,6 +245,7 @@
 | 2026‑09‑28 | [Wavel\: A Fast and Efficient Compilation System for Wafer-Scale Accelerators](<https://www.microsoft.com/en-us/research/publication/wavel-a-fast-and-efficient-compilation-system-for-wafer-scale-accelerators/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑28 | [MeshRT\: Compile-Time Governed Wafer-Scale Runtime for Low-Latency High-Throughput Inference](<https://www.microsoft.com/en-us/research/publication/meshrt-compile-time-governed-wafer-scale-runtime-for-low-latency-high-throughput-inference/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑28 | [Rubric Rewards from Item Response Theory](<https://arxiv.org/abs/2609.35646v1>) | Paper | OpenAlex, Verified affiliation, Hugging Face |
 | 2026‑09‑28 | [Targeting Pivotal Decisions for Credit Assignment in Agentic Reinforcement Learning](<https://arxiv.org/abs/2609.36178>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Shockingly Simple Self-retrospection Improves Agentic Models Without RL](<https://arxiv.org/abs/2609.35741>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Rotated Manifold Optimization for Low-Rank Adaptation](<https://arxiv.org/abs/2609.34264>) | Preprint | OpenAlex |
@@ -247,9 +257,8 @@
 | 2026‑09‑28 | [Explainability-Guided Multimodal Optimization for Arabic Music Genre Classification](<https://doi.org/10.3390/app16199613>) | Article | OpenAlex |
 | 2026‑09‑28 | [Dyad\: Extending Large Language Models with Native Typed Decision-Making](<https://arxiv.org/abs/2609.36116>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Configurations of 10 Points and their Incidence Varieties](<http://arxiv.org/abs/2507.09829>) | Article | OpenAlex |
+| 2026‑09‑28 | [Reinforcing Agentic Creativity in Scientific Ideation with Night Science](<https://arxiv.org/abs/2609.35706v1>) | Paper | Verified affiliation, OpenAlex, Hugging Face |
 | 2026‑09‑28 | [Towards an AI Software Factory for Data Systems](<https://arxiv.org/abs/2609.36323v1>) | Paper | Verified affiliation |
-| 2026‑09‑28 | [Rubric Rewards from Item Response Theory](<https://arxiv.org/abs/2609.35646v1>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑09‑28 | [Reinforcing Agentic Creativity in Scientific Ideation with Night Science](<https://arxiv.org/abs/2609.35706v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑28 | [Improving Large Language Models for Code through Runtime Program-State Reasoning](<https://arxiv.org/abs/2609.34359v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [TeacherGRPO\: Closing the Capacity Gap in Reasoning Distillation via Teacher Alignment](<https://arxiv.org/abs/2609.33426>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Population Physics, Population Problems\: Safety and Emergence in LLM Societies](<https://arxiv.org/abs/2609.33871>) | Preprint | OpenAlex |
@@ -287,11 +296,11 @@
 | 2026‑09‑23 | [A Systematic Review of Knowledge Management in Community-based Social Service Organizations](<https://doi.org/10.1145/3816895>) | Review | OpenAlex |
 | 2026‑09‑23 | ["Hi Alex" or "Dear Dr\. Morgan"?\: Exploring How AI-suggested Politeness Strategies Influence Email Writing and Social Perception Among Native and Non-native Speakers](<https://doi.org/10.1145/3816942>) | Article | OpenAlex |
 | 2026‑09‑23 | [Reward Hacking Challenges Oversight of Autonomous Research Agents](<https://arxiv.org/abs/2609.28614v1>) | Paper | Verified affiliation |
+| 2026‑09‑22 | [Agensh\: Scaling Organizational Intelligence to 1,024 Agents](<https://www.microsoft.com/en-us/research/publication/agensh-scaling-organizational-intelligence-to-1024-agents/>) | Publication | Verified affiliation, OpenAlex, Official page, Hugging Face |
+| 2026‑09‑22 | [The Tasteful Agent\: Measuring and Improving Taste in Long-Horizon Tasks](<https://arxiv.org/abs/2609.25804v1>) | Paper | Verified affiliation, OpenAlex, Hugging Face |
 | 2026‑09‑22 | [Ajar\: Measuring Open Privilege in Agent Defenses](<https://www.microsoft.com/en-us/research/publication/ajar-measuring-open-privilege-in-agent-defenses/>) | Publication | OpenAlex, Official page |
-| 2026‑09‑22 | [Agensh\: Scaling Organizational Intelligence to 1,024 Agents](<https://www.microsoft.com/en-us/research/publication/agensh-scaling-organizational-intelligence-to-1024-agents/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑22 | [Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining](<https://arxiv.org/abs/2609.26034>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [A Deeper Look at Depth\: Stable Generation Accounting for Quantifier Reasoning](<https://arxiv.org/abs/2609.26345>) | Preprint | OpenAlex |
-| 2026‑09‑22 | [The Tasteful Agent\: Measuring and Improving Taste in Long-Horizon Tasks](<https://arxiv.org/abs/2609.25804v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑21 | [Beyond Predictable Paths\: Redefining AI Security Incident Reporting for Agents](<https://arxiv.org/abs/2609.24515v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑21 | [Who Does What in AI Auditing? Designing Human-AI Collaboration for Auditing Generative AI](<https://arxiv.org/abs/2609.24986>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [VLAQuantBench\: Closed-Loop Evaluation of Post-Training Quantization for Vision-Language-Action Models](<https://arxiv.org/abs/2609.25376>) | Preprint | OpenAlex |
@@ -313,19 +322,20 @@
 | 2026‑09‑18 | [Trading Depth for Time in Recurrent Transformers](<https://arxiv.org/abs/2609.21605v1>) | Paper | Verified affiliation |
 | 2026‑09‑18 | [One Prompt Does Not Fit All\: Self-Meta-Evolve for Personalized Information Extraction](<https://arxiv.org/abs/2609.21626v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [When2Think\: Learning When and How Much to Reason](<https://huggingface.co/papers/2609.19671>) | Paper | Hugging Face, OpenAlex |
+| 2026‑09‑17 | [When EOS Tokens Disagree\: Understanding Length Inflation in On-Policy Distillation](<https://huggingface.co/papers/2609.20511>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑17 | [The future of large-scale experiments and their challenges in the digital era](<https://doi.org/10.1038/s41562-026-02582-6>) | Article | OpenAlex |
 | 2026‑09‑17 | [Xronos\: Heterogeneity-Aware Tensor Parallelism for Collaborative LLM Fine-Tuning on Edge CPUs](<https://www.microsoft.com/en-us/research/publication/xronos-heterogeneity-aware-tensor-parallelism-for-collaborative-llm-fine-tuning-on-edge-cpus/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑17 | [RAFT\: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](<https://www.microsoft.com/en-us/research/publication/raft-a-stateful-retrieval-augmented-framework-for-troubleshooting-agents/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑17 | [Not All AI Agents Are Equal\: Characterizing Resource and Performance Dynamics](<https://www.microsoft.com/en-us/research/publication/not-all-ai-agents-are-equal-characterizing-resource-and-performance-dynamics/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑17 | [SplashSplat\: Reconstructing Splashing Liquids from Real-World Multi-View Videos](<https://arxiv.org/abs/2609.20818v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑17 | [When EOS Tokens Disagree\: Understanding Length Inflation in On-Policy Distillation](<https://arxiv.org/abs/2609.20511>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Scaling Discovery through Test-Time Communication](<https://arxiv.org/abs/2609.21032>) | Preprint | OpenAlex |
 | 2026‑09‑17 | [Retrobulbar block as an analgesic strategy for enucleation in a horse\: case report](<https://doi.org/10.34188/bjaerv9n3-282>) | Article | OpenAlex |
 | 2026‑09‑17 | [Manejo multimodal da cistite idiopática felina obstrutiva\: relato de caso](<https://doi.org/10.34188/bjaerv9n3-279>) | Article | OpenAlex |
 | 2026‑09‑17 | [Chronicle\: Cut-Point Replay for Regression Testing of LLM Agents](<https://arxiv.org/abs/2609.20625>) | Preprint | OpenAlex |
+| 2026‑09‑16 | [ProgramDistill\: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks](<https://www.microsoft.com/en-us/research/publication/programdistill-from-interactive-web-apps-to-verifiable-reference-guided-swe-tasks/>) | Publication | Verified affiliation, OpenAlex, Official page, Hugging Face |
 | 2026‑09‑16 | [Use and Effects of LLMs in Peer Review\: A Randomized Experiment and Survey at ICML 2026](<https://www.microsoft.com/en-us/research/publication/use-and-effects-of-llms-in-peer-review-a-randomized-experiment-and-survey-at-icml-2026/>) | Publication | Verified affiliation, OpenAlex, Official page |
+| 2026‑09‑16 | [BI-Agent and BI-Bench\: Towards Automating End-to-End Business Intelligence](<https://arxiv.org/abs/2609.20886v1>) | Paper | Verified affiliation, OpenAlex, Hugging Face |
 | 2026‑09‑16 | [QuanText\: Protecting Dataset-Level Secrets in Textual Data Sharing](<https://www.microsoft.com/en-us/research/publication/quantext-protecting-dataset-level-secrets-in-textual-data-sharing/>) | Publication | Verified affiliation, OpenAlex, Official page |
-| 2026‑09‑16 | [ProgramDistill\: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks](<https://www.microsoft.com/en-us/research/publication/programdistill-from-interactive-web-apps-to-verifiable-reference-guided-swe-tasks/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑16 | [PULSE\: Unlocking Practical Image Compression on Single-Thread CPU](<https://www.microsoft.com/en-us/research/publication/pulse-unlocking-practical-image-compression-on-single-thread-cpu/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑16 | [GeoMesh\: Workload-Balanced and Sign-Compressed Geo-Distributed LLM Training](<https://www.microsoft.com/en-us/research/publication/geomesh-workload-balanced-and-sign-compressed-geo-distributed-llm-training/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑16 | [Do AI Agents Understand Computer Architecture?](<https://www.microsoft.com/en-us/research/publication/do-ai-agents-understand-computer-architecture/>) | Publication | Official page, OpenAlex |
@@ -335,7 +345,6 @@
 | 2026‑09‑16 | [Binary Deletion Channel Capacity to Within One Hundredth of a Bit](<https://arxiv.org/abs/2609.19412>) | Preprint | OpenAlex |
 | 2026‑09‑16 | [An Iterative, Pathologist-in-the-Loop Workflow for Generation of Clinical-Grade Synthetic Pathology Images in a Diverse Cohort of Pancreatic Tumors](<https://doi.org/10.3390/cancers18183004>) | Article | OpenAlex |
 | 2026‑09‑16 | [Characterizing Web Search by Conversational LLM Agents\: From Search Decisions and Strategies to Results and Responses](<https://arxiv.org/abs/2609.19244v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑16 | [BI-Agent and BI-Bench\: Towards Automating End-to-End Business Intelligence](<https://arxiv.org/abs/2609.20886v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑15 | [The Local-to-Global AD-k Conjecture is Resolved](<https://www.microsoft.com/en-us/research/publication/the-local-to-global-ad-k-conjecture-is-resolved/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑15 | [RadarMind\: cognitive AI with mmWave sensing for human-aware intelligent automation](<https://doi.org/10.1186/s13634-026-01371-7>) | Article | OpenAlex |
 | 2026‑09‑15 | [\[MM/AI\] Mental Models in Human-AI Interaction\: Methods and Challenges in the Generative and Agentic AI Era (Workshop)](<https://arxiv.org/abs/2609.17206>) | Preprint | OpenAlex |
@@ -432,6 +441,7 @@
 | 2026‑08‑25 | [AUTONOMOUS LOOP CONSTRUCTION AND SUPERVISION FOR CLINICIAN-ORIENTED MEDICAL-AI RESEARCH](<https://www.microsoft.com/en-us/research/publication/autonomous-loop-construction-and-supervision-for-clinician-oriented-medical-ai-research/>) | Publication | OpenAlex, Official page |
 | 2026‑08‑25 | [The hardest part of AI is not the algorithm](<https://doi.org/10.1038/d44148-026-00250-5>) | Article | OpenAlex |
 | 2026‑08‑24 | [HD-Eval\: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition](<https://www.microsoft.com/en-us/research/publication/hd-eval-aligning-large-language-model-evaluators-through-hierarchical-criteria-decomposition/>) | Publication | Official page |
+| 2026‑08‑24 | [CaRGo-T\: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension](<https://www.microsoft.com/en-us/research/publication/cargo-t-causal-reasoning-graph-of-thought-improves-multimodal-humor-comprehension/>) | Publication | Official page, OpenAlex |
 | 2026‑08‑24 | [AutoSaddler\: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](<https://www.microsoft.com/en-us/research/publication/autosaddler-automatic-harness-optimization-with-durable-updates-from-agent-execution-traces-2/>) | Publication | Verified affiliation, Official page |
 | 2026‑08‑24 | [A Conceptual and Applied Framework for Enterprise ServiceNow Program Design, Governance, And Scalable Delivery Across Organizations](<https://doi.org/10.56201/ijssmr.vol.12no2.2026.pg124.143>) | Article | OpenAlex |
 | 2026‑08‑24 | [DPIAgent\: Divide, Protocol, Isolate for Agentic Reproduction Test Generation](<https://arxiv.org/abs/2608.23341v1>) | Paper | Verified affiliation |
@@ -1057,12 +1067,12 @@
 | 2026‑05‑08 | [From a Point to Hundreds\: Embracing LiDAR on Commodity Smartphones for Fine-Grained Pulmonary Function Sensing](<https://doi.org/10.1145/3774906.3802752>) | Conference paper | OpenAlex |
 | 2026‑05‑08 | [A System-Level Taxonomy of Failure Modes in Large Language Model Applications](<https://doi.org/10.1109/cai68641.2026.11536235>) | Conference paper | OpenAlex |
 | 2026‑05‑08 | [A Single-Chain Analog Backscatter Tag for Multi-Sensor Multiplexing](<https://arxiv.org/abs/2507.01360>) | Conference paper | OpenAlex |
-| 2026‑05‑07 | [Examining Human-Like Behaviors in LLMs\: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts](<https://machinelearning.apple.com/research/human-like-behaviors-llms>) | Publication | Official page |
+| 2026‑05‑07 | [Examining Human-Like Behaviors in LLMs\: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts](<https://machinelearning.apple.com/research/human-like-behaviors-llms>) | Publication | Official page, OpenAlex |
 | 2026‑05‑07 | [VLA-GSE\: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts](<https://www.microsoft.com/en-us/research/publication/vla-gse-boosting-parameter-efficient-fine-tuning-in-vla-with-generalized-and-specialized-experts/>) | Publication | Official page |
 | 2026‑05‑07 | [Unifying Scientific Communication\: Fine-Grained Correspondence Across Scientific Media](<https://www.microsoft.com/en-us/research/publication/unifying-scientific-communication-fine-grained-correspondence-across-scientific-media/>) | Publication | Official page |
 | 2026‑05‑07 | [Towards reliable use of artificial intelligence to classify otitis media using otoscopic images\: Addressing bias and improving data quality](<https://www.microsoft.com/en-us/research/publication/towards-reliable-use-of-artificial-intelligence-to-classify-otitis-media-using-otoscopic-images-addressing-bias-and-improving-data-quality/>) | Publication | Official page, OpenAlex |
 | 2026‑05‑07 | [Quantizing With Randomized Hadamard Transforms\: Efficient Heuristic Now Proven](<https://www.microsoft.com/en-us/research/publication/quantizing-with-randomized-hadamard-transforms-efficient-heuristic-now-proven/>) | Publication | Official page |
-| 2026‑05‑07 | [PersonaTeaming\: Supporting Persona-Driven Red-Teaming for Generative AI](<https://www.microsoft.com/en-us/research/publication/personateaming-supporting-persona-driven-red-teaming-for-generative-ai/>) | Publication | Official page |
+| 2026‑05‑07 | [PersonaTeaming\: Supporting Persona-Driven Red-Teaming for Generative AI](<https://www.microsoft.com/en-us/research/publication/personateaming-supporting-persona-driven-red-teaming-for-generative-ai/>) | Publication | Official page, OpenAlex |
 | 2026‑05‑07 | [DataDignity\: Training Data Attribution for Large Language Models](<https://www.microsoft.com/en-us/research/publication/datadignity-training-data-attribution-for-large-language-models/>) | Publication | Official page |
 | 2026‑05‑07 | [AgenticRAG\: Agentic Retrieval for Enterprise Knowledge Bases](<https://www.microsoft.com/en-us/research/publication/agenticrag-agentic-retrieval-for-enterprise-knowledge-bases/>) | Publication | Official page |
 | 2026‑05‑07 | [XL-SafetyBench\: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity](<https://www.microsoft.com/en-us/research/publication/xl-safetybench-a-country-grounded-cross-cultural-benchmark-for-llm-safety-and-cultural-sensitivity/>) | Publication | Official page |

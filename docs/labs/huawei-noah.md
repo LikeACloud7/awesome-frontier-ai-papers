@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4062`
+- Papers: `4065`
 - Latest: `2026-10-13`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -19,11 +19,14 @@
 | 2026‑10‑13 | [FrameLite\: Decision-Oriented Aesthetic Cropping with a Compact Vision-Language Model](<https://arxiv.org/abs/2610.17639v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [DualAffect\: Dual-Path Paralinguistic Integration for Generative Audiovisual Emotion Understanding](<https://arxiv.org/abs/2610.18073v1>) | Paper | Verified affiliation |
 | 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [HART\: Hybrid Attention-RWKV Time series Foundation Model](<https://arxiv.org/abs/2610.12883>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [CB-Orchestrator\: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits](<https://arxiv.org/abs/2610.13064>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [SkillContrast\: Difference-Guided Text Selection for Agent Skill Reranking](<https://arxiv.org/abs/2610.11650>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [QUILT\: Rethinking Sparse-Attention Prefill through Shared Query Execution](<https://arxiv.org/abs/2610.11134>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Memory Type Varies\: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](<https://arxiv.org/abs/2610.11573>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Look Back, Think Ahead\: Visual Memory on Demand for Efficient Multimodal Reasoning](<https://arxiv.org/abs/2610.12060>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Learning the Loop, Not Just the Page\: Execution-Grounded Loop Learning for Web Generation](<https://arxiv.org/abs/2610.11543>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Kronecker Product Attention\: Memory-Efficient KV Compression via Structured Factorization](<https://arxiv.org/abs/2610.12657>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [From C to Idiomatic Rust\: A Ship-of-Theseus Agentic Translation](<https://arxiv.org/abs/2607.28835>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Factors Influencing User Satisfaction with Artificial Intelligence Applications\: An Integrated Approach of Semantic Network and BP Neural Network](<https://doi.org/10.54097/z6caqg52>) | Article | OpenAlex |
 | 2026‑10‑07 | [ns3-agent\: Fostering Integrated Perception-Communication-Computing Research for Agentic AI Services via Cross-Platform Co-Simulations](<https://doi.org/10.1145/3837358.3837360>) | Conference paper | OpenAlex |
@@ -51,7 +54,7 @@
 | 2026‑10‑05 | [Climbing the Design Ladder\: Sequential Knowledge Distillation for Early-Stage Circuit Timing Prediction](<https://arxiv.org/abs/2610.08457>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Anlu\: Enabling In-Context Time Series Anomaly Detection in Foundation Models via Counterfactual Supervision](<https://arxiv.org/abs/2610.06180>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Acceleration of Data Analytics on Heterogeneous Supercloud Systems](<https://arxiv.org/abs/2610.06291v1>) | Paper | Verified affiliation |
-| 2026‑10‑04 | [A Safe Action Is Not Enough\: Feasible-Future Decoding for Vision-Language-Action Policies](<https://huggingface.co/papers/2610.05166>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑04 | [A Safe Action Is Not Enough\: Feasible-Future Decoding for Vision-Language-Action Policies](<https://huggingface.co/papers/2610.05166>) | Preprint | Official page, OpenAlex, Hugging Face |
 | 2026‑10‑04 | [Outcome-Guided On-Policy Self-Distillation](<https://arxiv.org/abs/2610.05070>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [Fusion is the New Mutation\: Bandit-Guided Evolution on Workflow Graphs](<https://arxiv.org/abs/2610.05284>) | Preprint | OpenAlex |
 | 2026‑10‑04 | [CIPO\: Counterfactual Imagination Policy Optimization for Adaptive Tool Granularity Selection](<https://arxiv.org/abs/2610.04991>) | Preprint | OpenAlex |
@@ -89,7 +92,7 @@
 | 2026‑09‑29 | [Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents](<https://arxiv.org/abs/2609.38536>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Beam Search as Test-Time Self-Distillation via Counterfactual Contexts](<https://arxiv.org/abs/2609.37041>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [AVSG\: Accelerated Vectorized Sparse Gather for Efficient KV Cache Offload in Sparse-Attention LLM Serving](<https://arxiv.org/abs/2609.37538>) | Preprint | OpenAlex |
-| 2026‑09‑28 | [Tail-Influence Sampling for CVaR Policy Evaluation](<https://huggingface.co/papers/2609.38096>) | Preprint | Official page, OpenAlex |
+| 2026‑09‑28 | [Tail-Influence Sampling for CVaR Policy Evaluation](<https://huggingface.co/papers/2609.38096>) | Preprint | Official page, OpenAlex, Hugging Face |
 | 2026‑09‑28 | [MARS 2\.0\: A Toolchain for Designing Safety-Critical Cyber-Physical Systems](<https://doi.org/10.1145/3849090>) | Article | OpenAlex |
 | 2026‑09‑28 | [Instance-Adaptive Prompts as Context for Time-Series Foundation Models](<https://arxiv.org/abs/2609.34786>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Information-Theoretic Analysis of Next-Token Prediction under Markovian Data](<https://arxiv.org/abs/2609.34731>) | Preprint | OpenAlex |
@@ -99,7 +102,7 @@
 | 2026‑09‑28 | [CRISP\: Cultural Reward Modeling for Implicit Situated Propriety](<https://arxiv.org/abs/2609.34345>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Action-Space Shaping for LLM Agents\: Measuring and Mitigating Tool-Schema Bias](<https://arxiv.org/abs/2609.34971>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [AIM-ZO\: Activation-Informed Subspace Maintenance for Zeroth-Order LLM Fine-Tuning](<https://arxiv.org/abs/2609.35257>) | Preprint | OpenAlex |
-| 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page, OpenAlex |
+| 2026‑09‑27 | [Draft-KV\: Learning Useful Latent Communication Between Language Models](<https://huggingface.co/papers/2609.34754>) | Preprint | Official page, OpenAlex, Hugging Face |
 | 2026‑09‑27 | [SpatialSpeak\: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning](<https://arxiv.org/abs/2609.33616>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [PQ-HSA\: Reusing Product-Quantized Scores for Hybrid Sparse-Approximate Attention](<https://arxiv.org/abs/2609.33746>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [EfficientAgent\: What Makes KV Cache Offloading Work for Concurrent Agents?](<https://arxiv.org/abs/2609.33762>) | Preprint | OpenAlex |
