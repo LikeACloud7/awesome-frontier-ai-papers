@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2086`
-- Latest: `2026-10-14`
+- Papers: `2090`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,9 +16,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
+| 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
 | 2026‑10‑14 | [Component-Level Inverse Design of Transmon Qubits Using Neural Networks](<https://arxiv.org/abs/2607.20795>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ACCRUE\: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](<https://huggingface.co/papers/2610.18596>) | Paper | Hugging Face |
 | 2026‑10‑13 | [TacitVLA\: Reasoning Vision-Language-Action Models Without Reasoning Latency](<https://huggingface.co/papers/2610.17540>) | Paper | Hugging Face |
+| 2026‑10‑13 | [The Federated Tumor Segmentation and Classification (FeTS++) Challenge](<https://arxiv.org/abs/2610.18771v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [Into the LidarVerse\: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](<https://arxiv.org/abs/2610.19201>) | Paper | Verified affiliation |
 | 2026‑10‑10 | [A physics-guided Fourier neural operator to predict wind-driven water film/rivulet flows pertinent to aircraft icing phenomena](<https://doi.org/10.1017/jfm.2026.12103>) | Article | OpenAlex |
 | 2026‑10‑09 | [Humanize Olympiad Agents\: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify](<https://arxiv.org/abs/2610.13632>) | Preprint | OpenAlex |
@@ -59,6 +62,7 @@
 | 2026‑10‑01 | [From Roadmap to Response\: A Community Assessment of Autonomous Science](<https://doi.org/10.2172/17197394>) | Report | OpenAlex |
 | 2026‑10‑01 | [VETO\: Video Efficient Token Optimization for Vision Language Models](<https://arxiv.org/abs/2610.01785>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Unitary fault-tolerant encoding of Pauli states in surface codes](<http://arxiv.org/abs/2601.05113>) | Article | OpenAlex |
+| 2026‑10‑01 | [UAV-Based 3D Canopy Reconstruction for Non-Destructive Strawberry Biomass Estimation\: Comparison of SfM, NeRF, and Gaussian Splatting](<https://doi.org/10.1016/j.atech.2026.102649>) | Article | OpenAlex |
 | 2026‑10‑01 | [Serving a Revisable World\: Versioned Execution for Interruptible Agents](<https://arxiv.org/abs/2610.01160>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Recova\: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](<https://arxiv.org/abs/2610.01178>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [RMS-AQA\: A Two-Stage Spatial Audio Question Answering Benchmark for Real-World Domestic Environments](<https://arxiv.org/abs/2610.00935>) | Preprint | OpenAlex |

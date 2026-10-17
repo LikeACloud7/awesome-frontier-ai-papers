@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1507`
+- Papers: `1508`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#apple)
 
@@ -26,13 +26,14 @@
 | 2026‑10‑05 | [Structuring MoE Expert Selection for Agentic Reinforcement Learning](<https://huggingface.co/papers/2610.07332>) | Paper | Hugging Face |
 | 2026‑10‑02 | [Language Discrimination Improves Linguistic Learning in Multilingual Speech Models](<https://machinelearning.apple.com/research/language-discrimination-multilingual-learning>) | Publication | Official page |
 | 2026‑10‑02 | [Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](<https://arxiv.org/abs/2610.02887>) | Preprint | OpenAlex |
-| 2026‑10‑01 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page |
 | 2026‑10‑01 | [RISED\: Rubrics for Agentic Multi-Environment Selection and Self-Distillation](<https://machinelearning.apple.com/research/rised-multi-environment-selection>) | Publication | OpenAlex, Official page |
 | 2026‑10‑01 | [DeReAct\: Decomposed Reasoning and Acting for Reliable AI Agents](<https://arxiv.org/abs/2610.02351>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page, OpenAlex |
 | 2026‑09‑30 | [Visualizing Distribution Coverage in Generative Diffusion Models](<https://arxiv.org/abs/2609.38853>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
+| 2026‑09‑29 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://arxiv.org/abs/2609.36678>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [On Trajectory-Aware Training for Masked Diffusion Language Models](<https://arxiv.org/abs/2609.37974v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [KV-Kaizen\: Learning Context-Adaptive Cache Compression Choices](<https://arxiv.org/abs/2609.37988v2>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |
 | 2026‑09‑26 | [SCLATE\: A Substrate for Continual-Learning Agent Training and Evaluation](<https://machinelearning.apple.com/research/sclate-agent-training-evaluation>) | Publication | Official page, Verified affiliation |

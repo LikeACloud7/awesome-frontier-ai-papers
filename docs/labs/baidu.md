@@ -1,14 +1,16 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1099`
-- Latest: `2026-10-09`
+- Papers: `1101`
+- Latest: `2026-10-12`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑12 | [Virtual Head Attention](<https://huggingface.co/papers/2610.17959>) | Preprint | Official page |
+| 2026‑10‑12 | [FlashMask-3\: Efficient and Expressive Mask-Aware Distributed Attention](<https://huggingface.co/papers/2610.17901>) | Preprint | Official page |
 | 2026‑10‑09 | [E3-System\: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](<https://arxiv.org/abs/2610.12993>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [MIRROR\: From Imitation to Internalization in LLM Personalization](<https://arxiv.org/abs/2610.09795>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Multi-Bandwidth Distribution Matching Distillation\: On the Equivalence of Distribution Matching Distillation and Drifting Models](<https://arxiv.org/abs/2610.10989v1>) | Paper | Verified affiliation |

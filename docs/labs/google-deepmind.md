@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5579`
+- Papers: `5580`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -26,6 +26,7 @@
 | 2026‑10‑11 | [“I Want to Be Pushed, I Want to Grow”\: Enabling Social Workers to Design Evaluations of LLM Augmentation in Their Work (Extended Abstract)](<https://doi.org/10.1609/aies.v9i2.43241>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Why and How People Check Generative AI Output for Mistakes](<https://arxiv.org/abs/2609.38186>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [Towards Characterising Conditions of Assistance, Hindrance and Depletion in Human Agency from AI Systems](<https://doi.org/10.1609/aies.v9i2.43233>) | Conference paper | OpenAlex |
+| 2026‑10‑11 | [Fast K-NN Graph Building with Quantized PiPNN and Filtering](<https://doi.org/10.1007/978-3-032-42224-8_38>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [CompanionSim\: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships](<https://arxiv.org/abs/2609.00250>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [Women's Health as Cooperative Work\: Participatory AI Across Care, Community, and Policy](<https://doi.org/10.1145/3785651.3818821>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [Training User Simulators with Latent Intrinsic Feedback](<https://arxiv.org/abs/2610.13617>) | Preprint | OpenAlex |
@@ -51,7 +52,6 @@
 | 2026‑10‑06 | [Move Fast and Mend Things\: Keeping Up with Evolving AI Harms Using Social Media Commentary](<https://arxiv.org/abs/2610.09082>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Matching Object or Relation? Tracing Abstract Reasoning Inside VLMs](<https://arxiv.org/abs/2610.07646>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [CARE\: Certifying Acceleration for Vision-Language-Action Inference](<https://arxiv.org/abs/2610.08917>) | Preprint | OpenAlex |
-| 2026‑10‑06 | [An open vision-language model for diverse medical applications](<https://doi.org/10.1038/s41591-026-04626-w>) | Article | OpenAlex |
 | 2026‑10‑06 | [ASPIRE\: Agentic Safety &amp; Prompt Injection Red-teaming Engine](<https://doi.org/10.48550/arxiv.2610.08951>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [RAISED\: Self-Distillation for Robustness to Prompt Injection in LLM Agents](<https://arxiv.org/abs/2610.06401>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [MRPilot\: Supervising and Intervening LLM-Based Multi-Robot Teams through Mixed Reality](<https://arxiv.org/abs/2610.07477>) | Preprint | OpenAlex |
@@ -87,6 +87,7 @@
 | 2026‑10‑01 | [Comment on "When are AI models ready for deployment? Reassessing Google's global AI flood forecasting system through the lens of responsible modelling"](<https://doi.org/10.1016/j.hydroa.2026.100222>) | Letter | OpenAlex |
 | 2026‑10‑01 | [Bridging Machine Learning and Algorithmic Information Theory, Part VII\: Algorithmic Information Kernels and Kernel Discrepancies on Countable Spaces](<https://doi.org/10.3390/e28101084>) | Article | OpenAlex |
 | 2026‑10‑01 | [Automated Modernization of Machine Learning Engineering Notebooks for Reproducibility](<https://arxiv.org/abs/2602.07195>) | Article | OpenAlex |
+| 2026‑10‑01 | [An open vision-language model for diverse medical applications](<https://doi.org/10.1038/s41591-026-04626-w>) | Article | OpenAlex |
 | 2026‑09‑30 | [Function-preserving watermarking of AI-generated proteins](<https://doi.org/10.1038/s41586-026-10965-y>) | Article | OpenAlex |
 | 2026‑09‑30 | [dattri-LLM\: A Unified and Efficient Library for Training Data Attribution at LLM Scale](<https://arxiv.org/abs/2609.38767>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Where MLLMs Fail and Why\: Causal Task Decomposition for Capability Failure Diagnosis](<https://arxiv.org/abs/2609.38851>) | Preprint | OpenAlex |

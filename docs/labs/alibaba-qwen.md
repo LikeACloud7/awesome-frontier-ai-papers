@@ -31,7 +31,7 @@
 | 2026‑10‑09 | [RVUF\: an identity-aware and scene-cut-aware framework for robust character-centric video understanding](<https://doi.org/10.1117/12.3112626>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Frontend-Assisted Large Audio-Language Models for SLT2026 SmartGlasses Challenge](<https://arxiv.org/abs/2610.13282>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [CAST\: Credit Alignment for Cross-Tokenizer On-Policy Distillation](<https://arxiv.org/abs/2610.13257>) | Preprint | OpenAlex |
-| 2026‑10‑09 | [Rollout-Time Intervention\: Unlocking Agentic Reinforcement Learning Beyond Policy Limits](<https://arxiv.org/abs/2610.13438v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [Rollout-Time Intervention\: Unlocking Agentic Reinforcement Learning Beyond Policy Limits](<https://arxiv.org/abs/2610.13438v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑08 | [When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation](<https://arxiv.org/abs/2610.12061>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [V-CoLA\: Vision Token Compression with Linear Attention](<https://arxiv.org/abs/2610.11251>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [UniData\: Universal Multimodal Instruction Generation Pipeline](<https://arxiv.org/abs/2610.11363>) | Preprint | OpenAlex |

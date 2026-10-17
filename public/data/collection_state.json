@@ -1,5 +1,5 @@
 {
-  "next_lab": 6,
+  "next_lab": 7,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-10-11",
@@ -32,7 +32,7 @@
       "since": "2024-01-01"
     },
     "Amazon": {
-      "last_attempt": "2026-09-29",
+      "last_attempt": "2026-10-17",
       "status": "partial",
       "since": "2024-01-01"
     },

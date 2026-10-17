@@ -1,7 +1,7 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `138`
+- Papers: `139`
 - Latest: `2026-09-29`
 - [Back to README](../../README.md#stepfun)
 
@@ -156,6 +156,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2024‑12‑04 | [Auto-Regressive Models Need Structural Registers\: Semantic Foresight Improves Coherent Driving Video Continuation](<http://arxiv.org/abs/2412.03758>) | Preprint | OpenAlex |
+| 2024‑12‑01 | [MuxFlow\: efficient GPU sharing in production-level clusters with more than 10000 GPUs](<https://doi.org/10.1007/s11432-024-4227-2>) | Article | OpenAlex |
 | 2024‑09‑20 | [Optimizing RLHF Training for Large Language Models with Stage Fusion](<http://arxiv.org/abs/2409.13221>) | Preprint | OpenAlex |
 | 2024‑05‑27 | [UniICL\: An Efficient Unified Framework Unifying Compression, Selection, and Generation](<http://arxiv.org/abs/2405.17062>) | Preprint | OpenAlex |
 | 2024‑04‑23 | [You Think, You ACT\: the New Task of Arbitrary Text to Motion Generation](<https://doi.org/10.1109/iccv51701.2025.01117>) | Conference paper | OpenAlex |

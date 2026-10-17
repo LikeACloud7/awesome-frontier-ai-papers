@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1857`
+- Papers: `1859`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#metafair)
 
@@ -59,6 +59,7 @@
 | 2026‑10‑09 | [Huni\: A Networked Testbed for Real-time Human and Generative AI Interaction](<https://doi.org/10.1145/3842656.3843820>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [AI-driven scalable metrology solutions for smart glasses and AR wearables](<https://doi.org/10.1117/12.3114946>) | Conference abstract | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
+| 2026‑10‑08 | [Mid-Training Language Models on Raw Video](<https://arxiv.org/abs/2610.11019v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [MIMESIS\: Learning User Simulators as Training Environments for Interactive Agents](<https://huggingface.co/papers/2610.09484>) | Paper | Hugging Face |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
@@ -78,6 +79,7 @@
 | 2026‑10‑02 | [Finite-Time Blow-Up of Radial Negative-Energy Solutions for the Mass-Critical Biharmonic Nonlinear Schrödinger Equation](<https://ai.meta.com/research/publications/finite-time-blow-up-of-radial-negative-energy-solutions-for-the-mass-critical-biharmonic-nonlinear-schrodinger-equation/>) | Publication | Official page |
 | 2026‑10‑02 | [RaBitQ-SSD\: Split Codes and Pipelined I/O for SSD-Resident Vector Search](<https://arxiv.org/abs/2610.02652>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Quantifying 3D Pointing\: Characterizing What Happens During Pointing Selection in Virtual Reality](<https://doi.org/10.1145/3776574.3831138>) | Conference paper | OpenAlex |
+| 2026‑10‑01 | [Predicting perceptual discriminability of room impulse responses at similar source–receiver distances using optimal transport](<https://doi.org/10.1121/10.0046755>) | Article | OpenAlex |
 | 2026‑10‑01 | [Finding the Bugs Users Would Find\: From Sapienz to Autonomous Agents (Keynote)](<https://doi.org/10.1145/3837729.3850165>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Scaling Laws for Looped Mixture of Experts](<https://huggingface.co/papers/2609.40316>) | Paper | Hugging Face |
 | 2026‑09‑30 | [MemLife\: Curating and Reasoning over Long-Term Egocentric Video Memories](<https://huggingface.co/papers/2609.40195>) | Paper | Hugging Face |

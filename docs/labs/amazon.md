@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3626`
-- Latest: `2026-10-13`
+- Papers: `3630`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Hybrid Generative-Tagging Decoding for Efficient Product Attribute-Value Extraction](<https://arxiv.org/abs/2610.21329v1>) | Paper | Verified affiliation |
+| 2026‑10‑14 | [Replicable Dueling Bandits](<https://arxiv.org/abs/2610.20908v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [Intelligent Electrical Capacity Forecasting for AI Workloads in Modular Data Centre Expansion Planning](<https://ijhit.info/index.php/ijhit/article/view/342>) | Article | OpenAlex |
 | 2026‑10‑13 | [Federated Observability Architectures for Zero-Downtime Data Engineering Pipelines](<https://jdacm.com/index.php/jdacm/article/view/118>) | Article | OpenAlex |
 | 2026‑10‑13 | [ListQA\: A Benchmark for Evaluating List-Formatted Factual Knowledge Retrieval in Large Language Models](<https://arxiv.org/abs/2610.19165>) | Paper | Verified affiliation |
@@ -31,6 +33,7 @@
 | 2026‑10‑08 | [EvoBelief\: Falsifiable World Models for Self-Improving LLM Agents](<https://arxiv.org/abs/2610.12789>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Cybersecurity Challenges and Solutions in Digital Supply Chain Networks](<https://doi.org/10.4018/979-8-3373-3740-1.ch008>) | Book chapter | OpenAlex |
 | 2026‑10‑08 | [Bridging the Gap\: Emotional and Digital Intelligence for the Modern World](<https://doi.org/10.2174/9798898818647126010005>) | Book chapter | OpenAlex |
+| 2026‑10‑08 | [WOVEN\: Weaving Visual World Modeling into Multimodal LLMs](<https://arxiv.org/abs/2610.12417v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [ReCodeAgent\: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories](<https://doi.org/10.1145/3832783.3837486>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Precise SE(3) End-Effector Tracking in Whole-Body Humanoid Control](<https://arxiv.org/abs/2610.09479>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Optimizing Large Language Models with Chained LMOs](<https://arxiv.org/abs/2610.10975>) | Preprint | OpenAlex |
@@ -137,6 +140,7 @@
 | 2026‑09‑22 | [Giving Credit Where It's Due\: Redundancy-Aware Learning for Efficient Reasoning](<https://arxiv.org/abs/2609.27156>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [Breaking the Downstream Bottleneck\: Transitioning to AI-Native DevOps](<https://doi.org/10.3390/software5040041>) | Article | OpenAlex |
 | 2026‑09‑22 | [Agentic AI for Automated Sensitivity Analysis of Missing Not at Random Data in Patient-Reported Outcome Measures\: A Simulation Study](<https://doi.org/10.54103/2282-0930/31766>) | Article | OpenAlex |
+| 2026‑09‑22 | [Reliable but Design-Sensitive\: Instrument Uncertainty in LLM Annotation](<https://arxiv.org/abs/2609.35824v1>) | Paper | Verified affiliation |
 | 2026‑09‑22 | [Greedy Decoding Is Not Precision-Invariant\: Cross-Precision Output Divergence in LLM Inference](<https://arxiv.org/abs/2609.26621v1>) | Paper | Verified affiliation |
 | 2026‑09‑21 | [Human-LLM Deliberation as Interactive Proof\: Conditions for Verifiability Without Transparency](<https://arxiv.org/abs/2609.24895>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Augmented Hypothesis Testing with Persona-Based LLM Simulations](<https://arxiv.org/abs/2609.24629>) | Preprint | OpenAlex |

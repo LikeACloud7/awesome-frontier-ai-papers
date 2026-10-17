@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3747`
-- Latest: `2026-10-14`
+- Papers: `3751`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -17,11 +17,14 @@
 | n\.d\. | [Hy-MT](<https://github.com/Tencent-Hunyuan/Hy-MT/blob/main/HY_MT1_5_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Hunyuan-MT](<https://github.com/Tencent-Hunyuan/Hunyuan-MT/blob/main/Hunyuan_MT_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [FlashVDM](<https://github.com/Tencent-Hunyuan/FlashVDM/blob/main/assets/report.pdf>) | Technical report | Official repo |
+| n\.d\. | [CMB\: A Coding Memory Benchmark for Long-Horizon and Interleaved Coding Agents](<https://github.com/Tencent-Hunyuan/Hy-Memory/blob/main/docs/papers/CMB_A_Coding_Memory_Benchmark_for_Long_Horizon_and_Interleaved_Coding_Agents.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [A multimodal LLM framework with time-series-guided visual routing for ultra-short-term solar forecasting](<https://doi.org/10.1016/j.aei.2026.105373>) | Article | OpenAlex |
+| 2026‑10‑15 | [Hy-Memory-30B-A3B\: Attributed Reinforcement Learning for Long-Term Memory Writing](<https://arxiv.org/abs/2610.22196>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Player-1\: Learning to Play from Synthetic Experience](<https://huggingface.co/papers/2610.20584>) | Paper | Hugging Face |
 | 2026‑10‑14 | [Terminal-RSI\: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine](<https://huggingface.co/papers/2610.22192>) | Preprint | Official page |
 | 2026‑10‑14 | [Zero-Shot and Few-Shot Hydrogen Demand Forecasting with Time Series Foundation Models](<https://doi.org/10.1145/3857281>) | Article | OpenAlex |
@@ -67,6 +70,7 @@
 | 2026‑10‑03 | [Prism\: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](<https://huggingface.co/papers/2610.05416>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑02 | [Gated Slot Attention-2\: Two-Sided Associative Memory Correction in Linear Attention](<https://arxiv.org/abs/2610.02816>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](<https://huggingface.co/papers/2610.02826>) | Preprint | Official page, Hugging Face |
+| 2026‑10‑01 | [iCAS\: An in-context anomaly segmentation framework for industrial visual inspection](<https://doi.org/10.1016/j.patcog.2026.115085>) | Article | OpenAlex |
 | 2026‑10‑01 | [History matters\: Automatically estimating code quality in multi-round reviews via context-aware prompt-tuning](<https://doi.org/10.1016/j.jss.2026.113110>) | Article | OpenAlex |
 | 2026‑10‑01 | [Asynchronous multi-agent reinforcement learning for network-wide traffic signal control via stackelberg game prioritization](<https://doi.org/10.1016/j.asoc.2026.116565>) | Article | OpenAlex |
 | 2026‑10‑01 | [AURAL\: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](<https://arxiv.org/abs/2610.01560>) | Preprint | OpenAlex |

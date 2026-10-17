@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `350`
-- Latest: `2026-10-12`
+- Papers: `355`
+- Latest: `2026-10-16`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -20,6 +20,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑16 | [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>) | Research post | Official page |
+| 2026‑10‑16 | [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>) | Research post | Official page |
+| 2026‑10‑16 | [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>) | Research post | Official page |
+| 2026‑10‑16 | [Designing more efficient quantum circuits with Claude](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>) | Research post | Official page |
+| 2026‑10‑16 | [Claude reveals ECDSA curve origins](<https://www.anthropic.com/research/ecdsa-curve-origins>) | Research post | Official page |
 | 2026‑10‑12 | [Strengthening our defenses against distillation attacks](<https://www.anthropic.com/research/distillation-defenses>) | Research post | Official page |
 | 2026‑10‑12 | [AI models may be capable of self-replicating without access to a datacenter](<https://www.anthropic.com/research/self-replicating-ai>) | Research post | Official page |
 | 2026‑10‑11 | [Autonomous AI agents discover reverse transcriptases with tandem repeat arrays](<https://doi.org/10.64898/2026.10.05.755809>) | Preprint | OpenAlex |
