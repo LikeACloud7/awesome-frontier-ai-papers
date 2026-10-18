@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4065`
+- Papers: `4071`
 - Latest: `2026-10-13`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -15,10 +15,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑10‑13 | [ProAS\: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.18683v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [CrossPortrait\: Cross-Species Portrait Animation via Adversarial Motion Alignment](<https://arxiv.org/abs/2610.17532>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [ProAS\: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.18683v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑13 | [FrameLite\: Decision-Oriented Aesthetic Cropping with a Compact Vision-Language Model](<https://arxiv.org/abs/2610.17639v1>) | Paper | Verified affiliation |
-| 2026‑10‑13 | [DualAffect\: Dual-Path Paralinguistic Integration for Generative Audiovisual Emotion Understanding](<https://arxiv.org/abs/2610.18073v1>) | Paper | Verified affiliation |
-| 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [DualAffect\: Dual-Path Paralinguistic Integration for Generative Audiovisual Emotion Understanding](<https://arxiv.org/abs/2610.18073v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑12 | [Heuristics are Not Enough\: Calibrated and Corrected Caching for Video Diffusion Acceleration](<https://arxiv.org/abs/2610.16545>) | Preprint | OpenAlex |
+| 2026‑10‑11 | [Handoff Curves\: Initial Selection, Later Handoff, and Supervision Targets in Multi-turn LLM Routing](<https://arxiv.org/abs/2610.15993>) | Preprint | OpenAlex |
+| 2026‑10‑11 | [BridgeCodec\: Mamba Enhanced Neural Audio Codec with Schrödinger Bridge at Low Bitrate](<https://arxiv.org/abs/2610.15453>) | Preprint | OpenAlex |
+| 2026‑10‑10 | [FidelityQ\: Preserving Predictive Fidelity in Ultra-Low-Bit Language Model Quantization](<https://arxiv.org/abs/2610.14934>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [HART\: Hybrid Attention-RWKV Time series Foundation Model](<https://arxiv.org/abs/2610.12883>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [CB-Orchestrator\: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits](<https://arxiv.org/abs/2610.13064>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [SkillContrast\: Difference-Guided Text Selection for Agent Skill Reranking](<https://arxiv.org/abs/2610.11650>) | Preprint | OpenAlex |
@@ -62,6 +67,7 @@
 | 2026‑10‑03 | [QiYao-I\: A Manifold Based Foundation Model for Irregular Multivariate Time Series Forecasting](<https://arxiv.org/abs/2610.06936>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [DriftSR\: One-Step Real-World Image Super-Resolution via Distribution Drifting](<https://arxiv.org/abs/2610.04819v1>) | Paper | Verified affiliation |
 | 2026‑10‑02 | [Test-time Calibration Learning for Large Language Model Reasoning](<https://arxiv.org/abs/2610.02695>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [RAIN\: Robotic Task Generalization with Region-Aware Interaction Networks](<https://arxiv.org/abs/2610.14039>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Lightweight, Rubric-Guided Trajectory Evaluation for Production AI Agents](<https://arxiv.org/abs/2610.03315>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [HARPO\: Hallucination-Aware Reinforcement Learning for Faithful and Creative Language Generation](<https://arxiv.org/abs/2610.03063>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Credit Where It Matters\: Dependency-Aware Policy Optimization for Terminal Agents](<https://arxiv.org/abs/2610.03634>) | Preprint | OpenAlex |

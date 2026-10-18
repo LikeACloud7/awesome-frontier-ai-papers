@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1508`
+- Papers: `1509`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#apple)
 
@@ -16,6 +16,7 @@
 | 2026‑10‑14 | [Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models](<https://machinelearning.apple.com/research/code-switching-detection>) | Publication | Official page |
 | 2026‑10‑13 | [Mix, Don't Tune\: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings](<https://machinelearning.apple.com/research/mix-dont-tune>) | Publication | Official page |
 | 2026‑10‑12 | [Large Language Models for Machine Translation Quality Annotation\: Humans and Models Are Both Challenged](<https://machinelearning.apple.com/research/llm-translation-quality-annotation>) | Publication | Official page |
+| 2026‑10‑11 | [Fewer Bits, More Tries\: Recovering Capability Under Memory Constraints](<https://arxiv.org/abs/2610.15372>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Minions\: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](<https://machinelearning.apple.com/research/distributed-gpu-cloud>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026‑10‑08 | [Normalizing Trajectory Models](<https://machinelearning.apple.com/research/normalizing-trajectory-models>) | Publication | Official page |
 | 2026‑10‑07 | [ORCA\: Hunting Compositional Failures in Text-to-Image Diffusion](<https://arxiv.org/abs/2610.09841>) | Preprint | OpenAlex |

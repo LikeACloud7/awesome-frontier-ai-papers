@@ -1,8 +1,8 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `139`
-- Latest: `2026-09-29`
+- Papers: `140`
+- Latest: `2026-10-11`
 - [Back to README](../../README.md#stepfun)
 
 ## No date
@@ -17,6 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑11 | [High-Fidelity Song Generation with Joint Discrete and Continuous Modeling](<https://arxiv.org/abs/2610.15802>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Reshaping Rollout Workloads for Asynchronous RL Post-Training on Heterogeneous Accelerators](<https://arxiv.org/abs/2609.36899>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Looped Transformers as Optimizers](<https://arxiv.org/abs/2609.37379v1>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Precise Editing and Flexible Referencing for Interactable Worlds](<https://arxiv.org/abs/2609.34470>) | Preprint | OpenAlex |

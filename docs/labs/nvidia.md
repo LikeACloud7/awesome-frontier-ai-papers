@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2090`
+- Papers: `2100`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#nvidia)
 
@@ -20,13 +20,23 @@
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
 | 2026‑10‑14 | [Component-Level Inverse Design of Transmon Qubits Using Neural Networks](<https://arxiv.org/abs/2607.20795>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ACCRUE\: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](<https://huggingface.co/papers/2610.18596>) | Paper | Hugging Face |
+| 2026‑10‑13 | [LADDER\: A Long-Horizon Robot Manipulation Benchmark](<https://arxiv.org/abs/2610.18053>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Graph Metanetworks for Transformer Based Language Models](<https://arxiv.org/abs/2610.18471>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [GLST\: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation](<https://arxiv.org/abs/2610.17927>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [TacitVLA\: Reasoning Vision-Language-Action Models Without Reasoning Latency](<https://huggingface.co/papers/2610.17540>) | Paper | Hugging Face |
-| 2026‑10‑13 | [The Federated Tumor Segmentation and Classification (FeTS++) Challenge](<https://arxiv.org/abs/2610.18771v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [The Federated Tumor Segmentation and Classification (FeTS++) Challenge](<https://arxiv.org/abs/2610.18771v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑13 | [Into the LidarVerse\: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](<https://arxiv.org/abs/2610.19201>) | Paper | Verified affiliation |
+| 2026‑10‑12 | [Size Generalization for Diffusion Routing Solvers](<https://arxiv.org/abs/2610.17192>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [HarnessTTT\: Learn to Optimize Harness at Test-Time for Scientific Discovery](<https://arxiv.org/abs/2610.17370>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [FORGE\: Procedural Weight Generation for Sparse MoE Inference](<https://arxiv.org/abs/2610.16890>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [Double-Rollout Reinforcement Learning with Sampling-based Reward Estimation](<https://arxiv.org/abs/2610.16593>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [Compositional RL\: Evaluating and Training LLMs for Collaborative Reasoning](<https://arxiv.org/abs/2610.17456>) | Preprint | OpenAlex |
 | 2026‑10‑10 | [A physics-guided Fourier neural operator to predict wind-driven water film/rivulet flows pertinent to aircraft icing phenomena](<https://doi.org/10.1017/jfm.2026.12103>) | Article | OpenAlex |
 | 2026‑10‑09 | [Humanize Olympiad Agents\: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify](<https://arxiv.org/abs/2610.13632>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Toward fabrication-robust photonic inverse design\: from AI-assisted inverse lithography to yield-driven device optimization](<https://doi.org/10.1117/12.3114569>) | Conference abstract | OpenAlex |
+| 2026‑10‑09 | [Multimodal Co-Generation With Continuous Bitstream Diffusion](<https://arxiv.org/abs/2610.14349>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Humanize MLE Agents\: Multi-Agent Session Alternation Beyond Single-Agent Limits](<https://arxiv.org/abs/2610.13494>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [ASSET\: Adaptive Speech Segmentation via Reinforcement Learning](<https://arxiv.org/abs/2610.14309>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better](<https://research.nvidia.com/publication/2026-12_when-do-we-need-policy-distillation-distilling-offline-student-rollouts-often>) | Publication | Official page, Hugging Face |
 | 2026‑10‑08 | [USDCraft\: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation](<https://huggingface.co/papers/2610.11322>) | Paper | Hugging Face |
 | 2026‑10‑08 | [One Model to Loop Them All\: Elastic Latent Recurrence for Language Models](<https://huggingface.co/papers/2610.12582>) | Paper | Hugging Face |
@@ -36,8 +46,8 @@
 | 2026‑10‑07 | [Long-WAM\: Scaling the Context of World-Action Models](<https://huggingface.co/papers/2610.10528>) | Paper | Hugging Face |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](<https://arxiv.org/abs/2610.10298>) | Preprint | OpenAlex |
-| 2026‑10‑06 | [UNREAL\: Unifying Retrieval and Long-Context with a Single Model](<https://huggingface.co/papers/2610.08463>) | Paper | Hugging Face |
 | 2026‑10‑06 | [A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning](<https://huggingface.co/papers/2606.03335>) | Paper | Hugging Face |
+| 2026‑10‑06 | [UNREAL\: Unifying Retrieval and Long-Context with a Single Model](<https://huggingface.co/papers/2610.08463>) | Paper | Hugging Face |
 | 2026‑10‑06 | [NeMo-DCR\: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](<https://arxiv.org/abs/2610.08430v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑06 | [Reinforcement Learning with Segment Reward Feedback under Linear Function Approximation](<https://arxiv.org/abs/2610.08271v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑06 | [Self-Referenced Social Preferences\: Cooperation without Observing Others Rewards](<https://arxiv.org/abs/2610.07881>) | Preprint | OpenAlex |

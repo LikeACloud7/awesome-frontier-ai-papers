@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1859`
+- Papers: `1864`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#metafair)
 
@@ -43,15 +43,18 @@
 |---|---|---|---|
 | 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
 | 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page |
-| 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page |
+| 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Return Visits, Admission, and Mortality After Leaving Without BeingSeen Among Emergency Department Patients With Behavioral HealthPresentations](<https://ai.meta.com/research/publications/return-visits-admission-and-mortality-after-leaving-without-being-seen-among-emergency-department-patients-with-behavioral-health-presentations/>) | Publication | Official page |
-| 2026‑10‑14 | [Remission of Type 2 Diabetes in Linked Health Records\: Uncommon, Short-Lived, and More Often Ended by Treatment Restart Than by Rising HbA1c](<https://ai.meta.com/research/publications/remission-of-type-2-diabetes-in-linked-health-records-uncommon-short-lived-and-more-often-ended-by-treatment-restart-than-by-rising-hba1c/>) | Publication | Official page |
-| 2026‑10‑14 | [Pickleball injuries, search interest, and participation in the United States, 2014-2023\: an ecological time series study](<https://ai.meta.com/research/publications/pickleball-injuries-search-interest-and-participation-in-the-united-states-2014-2023-an-ecological-time-series-study/>) | Publication | Official page |
+| 2026‑10‑14 | [Remission of Type 2 Diabetes in Linked Health Records\: Uncommon, Short-Lived, and More Often Ended by Treatment Restart Than by Rising HbA1c](<https://ai.meta.com/research/publications/remission-of-type-2-diabetes-in-linked-health-records-uncommon-short-lived-and-more-often-ended-by-treatment-restart-than-by-rising-hba1c/>) | Publication | Official page, OpenAlex |
+| 2026‑10‑14 | [Pickleball injuries, search interest, and participation in the United States, 2014-2023\: an ecological time series study](<https://ai.meta.com/research/publications/pickleball-injuries-search-interest-and-participation-in-the-united-states-2014-2023-an-ecological-time-series-study/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Outcomes in Methicillin-Susceptible and Methicillin-Resistant Staphylococcus aureus Infective Endocarditis Compared With Staphylococcus lugdunensis Infective Endocarditis](<https://ai.meta.com/research/publications/outcomes-in-methicillin-susceptible-and-methicillin-resistant-staphylococcus-aureus-infective-endocarditis-compared-with-staphylococcus-lugdunensis-infective-endocarditis/>) | Publication | Official page |
 | 2026‑10‑14 | [Human-Guided Agentic AI for End-to-End EHR Research\: Sequential Antibody-Drug Conjugate Pathways in Breast Cancer](<https://ai.meta.com/research/publications/human-guided-agentic-ai-for-end-to-end-ehr-research-sequential-antibody-drug-conjugate-pathways-in-breast-cancer/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Documented Dental Disease in Patients With Staphylococcus aureus Bacteremia](<https://ai.meta.com/research/publications/documented-dental-disease-in-patients-with-staphylococcus-aureus-bacteremia/>) | Publication | Official page |
 | 2026‑10‑14 | [Cladophialophora bantiana\: a US clinical case series assisted by artificial intelligence](<https://ai.meta.com/research/publications/cladophialophora-bantiana-a-us-clinical-case-series-assisted-by-artificial-intelligence/>) | Publication | Official page |
 | 2026‑10‑13 | [AutoformBench\: A Lean Formalization Benchmark for Advanced Mathematics](<https://ai.meta.com/research/publications/autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics/>) | Publication | Official page |
+| 2026‑10‑13 | [Delegating Earth science model calibration to knowledge-guided LLM agents](<https://arxiv.org/abs/2610.18378>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [A CaLLM Judge is a Better Judge\: Mitigating Bias in LLM-as-a-judge](<https://arxiv.org/abs/2610.18108>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [IsoVRBench\: Video Reward Modeling Without Human Feedback](<https://arxiv.org/abs/2610.17234>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Optimizing UVQ for scaling video quality assessment](<https://doi.org/10.1117/12.3112825>) | Conference abstract | OpenAlex |
@@ -87,6 +90,7 @@
 | 2026‑09‑29 | [TMPE\: online power time-series forecasting via truncated Monte Carlo and prior experience replay](<https://doi.org/10.1007/s11227-026-08882-y>) | Article | OpenAlex |
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
+| 2026‑09‑28 | [SPEAR-Gen\: Generation-Aware Pre-training for Unified Speech Representations](<https://arxiv.org/abs/2609.34147>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Beyond One Epoch\: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models](<https://arxiv.org/abs/2609.34083>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RoPE is Dead, Long Live RoPE\: Towards Scalable Data-aware Positional Encodings](<https://arxiv.org/abs/2609.34556v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [On the Token Value Inequality in Efficient Reasoning](<https://arxiv.org/abs/2609.33970>) | Preprint | OpenAlex |
@@ -103,6 +107,7 @@
 | 2026‑09‑25 | [Probabilistic Residual Learning for Online Recommendations](<https://arxiv.org/abs/2607.20863>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [LO-FAR\: A Cost-Aware Local Filter for Sparse Feature Ranking in Industrial Ad Recommendation](<https://arxiv.org/abs/2607.20873>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [Impression Share Prediction\: An Offline Evaluation Task for Ranking Systems](<https://arxiv.org/abs/2608.16872>) | Conference paper | OpenAlex |
+| 2026‑09‑25 | [Component Benchmark\: Hierarchical Model Profiling for Large-scale Recommendation Systems](<https://arxiv.org/abs/2609.30656>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [CoFiRec\: Coarse-to-Fine Tokenization for Generative Recommendation](<https://arxiv.org/abs/2511.22707>) | Conference paper | OpenAlex |
 | 2026‑09‑25 | [A Benchmark and Diagnostic Study of Epistemic Admission in Shared Agent Memory](<https://arxiv.org/abs/2609.30813>) | Preprint | OpenAlex |
 | 2026‑09‑24 | [MaD-RL\: Matching Distributions for Calibrating LLMs with Reinforcement Learning](<https://ai.meta.com/research/publications/mad-rl-matching-distributions-for-calibrating-llms-with-reinforcement-learning/>) | Publication | Official page |

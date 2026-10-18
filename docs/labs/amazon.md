@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3630`
+- Papers: `3642`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#amazon)
 
@@ -18,11 +18,23 @@
 |---|---|---|---|
 | 2026‑10‑15 | [Hybrid Generative-Tagging Decoding for Efficient Product Attribute-Value Extraction](<https://arxiv.org/abs/2610.21329v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Replicable Dueling Bandits](<https://arxiv.org/abs/2610.20908v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [Searching for What Matters\: Open-Ended Discovery of Multiple Hypotheses with Agentic Data Exploration](<https://arxiv.org/abs/2610.17874>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Mixed Precision Scaling Laws for Quantized Pretraining](<https://arxiv.org/abs/2610.17637>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Intelligent Electrical Capacity Forecasting for AI Workloads in Modular Data Centre Expansion Planning](<https://ijhit.info/index.php/ijhit/article/view/342>) | Article | OpenAlex |
 | 2026‑10‑13 | [Federated Observability Architectures for Zero-Downtime Data Engineering Pipelines](<https://jdacm.com/index.php/jdacm/article/view/118>) | Article | OpenAlex |
+| 2026‑10‑13 | [Beyond the Verdict\: Agentic Code Judging with Verifiable Feedback](<https://arxiv.org/abs/2610.18760>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ListQA\: A Benchmark for Evaluating List-Formatted Factual Knowledge Retrieval in Large Language Models](<https://arxiv.org/abs/2610.19165>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [ATTUNE\: Agentic Throughput Tuning for LLM Training](<https://arxiv.org/abs/2610.17528v1>) | Paper | Verified affiliation |
+| 2026‑10‑12 | [Language2Drive\: Do Vision-Language-Action Models Really Follow the Instructions in Autonomous Driving?](<https://arxiv.org/abs/2610.16634>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [Force-Modulated Dexterity\: Unified Compliance for Contact-Rich Manipulation](<https://arxiv.org/abs/2610.17161>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [ATTCK-R\: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs](<https://arxiv.org/abs/2610.16305>) | Preprint | OpenAlex |
+| 2026‑10‑11 | [Instance-Adaptive Online Multiclass Multicalibration](<https://arxiv.org/abs/2610.15954>) | Preprint | OpenAlex |
+| 2026‑10‑11 | [ANTE\: Anticipate, Then Execute -- Learning Internal World Models for Coding Agents from Verified Beliefs](<https://arxiv.org/abs/2610.15368>) | Preprint | OpenAlex |
+| 2026‑10‑10 | [UltraBERT\: Beyond the Limit of BERT Pre-Training](<https://arxiv.org/abs/2610.15028>) | Preprint | OpenAlex |
+| 2026‑10‑10 | [Reward-Aligned Distillation](<https://arxiv.org/abs/2610.14572>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Humanize Olympiad Agents\: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify](<https://arxiv.org/abs/2610.13632>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [VETNET\: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](<https://arxiv.org/abs/2610.14149>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [SPROUT\: Scaling Agentic Reinforcement Learning for Long-Horizon Software Engineering](<https://arxiv.org/abs/2610.14405>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Which Skill to Distill? SGUID\: Selecting a Compact Skill Bank for Model-Skill Co-Evolution](<https://arxiv.org/abs/2610.12367>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [STAPLE\: Static Sparse Upcycling of Pretrained Checkpoints via Embedding Modules](<https://arxiv.org/abs/2610.12599>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [On the Optimality of Mental Accounting](<https://arxiv.org/abs/2610.12587>) | Preprint | OpenAlex |

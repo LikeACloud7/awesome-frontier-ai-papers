@@ -1,16 +1,19 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1101`
-- Latest: `2026-10-12`
+- Papers: `1104`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑10‑12 | [Virtual Head Attention](<https://huggingface.co/papers/2610.17959>) | Preprint | Official page |
-| 2026‑10‑12 | [FlashMask-3\: Efficient and Expressive Mask-Aware Distributed Attention](<https://huggingface.co/papers/2610.17901>) | Preprint | Official page |
+| 2026‑10‑15 | [MathMate\: A Multi-agent Tutoring Platform for Guided Mathematical Reasoning](<https://doi.org/10.1007/978-981-92-6916-7_10>) | Conference paper | OpenAlex |
+| 2026‑10‑13 | [SWEPatchTest\: Evaluating Software Tests Beyond Reproduction](<https://arxiv.org/abs/2610.18004>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [Virtual Head Attention](<https://huggingface.co/papers/2610.17959>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑12 | [FlashMask-3\: Efficient and Expressive Mask-Aware Distributed Attention](<https://huggingface.co/papers/2610.17901>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑10 | [FDE-Bench\: Evaluating End-to-End Delivery from Underspecified Real-World Business Requests](<https://arxiv.org/abs/2610.14539>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [E3-System\: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](<https://arxiv.org/abs/2610.12993>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [MIRROR\: From Imitation to Internalization in LLM Personalization](<https://arxiv.org/abs/2610.09795>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Multi-Bandwidth Distribution Matching Distillation\: On the Equivalence of Distribution Matching Distillation and Drifting Models](<https://arxiv.org/abs/2610.10989v1>) | Paper | Verified affiliation |
@@ -29,7 +32,7 @@
 | 2026‑09‑29 | [CypherTurn\: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence](<https://arxiv.org/abs/2609.36987>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VidHarness\: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding](<https://arxiv.org/abs/2609.38413v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
-| 2026‑09‑28 | [FactorEngram\: Factorized N-gram Memory with Basis-Level Gating for Language Models](<https://huggingface.co/papers/2609.35578>) | Paper | Hugging Face |
+| 2026‑09‑28 | [FactorEngram\: Factorized N-gram Memory with Basis-Level Gating for Language Models](<https://huggingface.co/papers/2609.35578>) | Paper | Hugging Face, OpenAlex |
 | 2026‑09‑27 | [TTRSD\: Test-Time Reinforcement Learning with Self-Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.33414>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Positions Are Not Facts\: The Mismatch Between KV Caches and Memory](<https://arxiv.org/abs/2609.33759>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [REFINE\: A Resilient Evolution Framework for Intelligent Enterprise Alert Triage in Security Operations Centers](<https://arxiv.org/abs/2609.32516>) | Preprint | OpenAlex |
