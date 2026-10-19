@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1831`
+- Papers: `1832`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -16,7 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑10‑14 | [Cortex\: Consolidating Context into Parametric Memory](<https://huggingface.co/papers/2610.20399>) | Paper | Hugging Face |
+| 2026‑10‑14 | [Cortex\: Consolidating Context into Parametric Memory](<https://huggingface.co/papers/2610.20399>) | Paper | Hugging Face, OpenAlex |
+| 2026‑10‑14 | [DeltaStreamer\: Towards Human-Like Agentic Streaming Video Understanding](<https://arxiv.org/abs/2610.19849>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [FRACTION\: Fraud Explanation Generation via Agentic Graph Context Navigation](<https://arxiv.org/abs/2610.18023>) | Preprint | OpenAlex |
 | 2026‑10‑11 | [ObsSpec\: Accelerating Agentic Reinforcement Learning with Observation Speculation](<https://arxiv.org/abs/2610.15246>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [One Model, Multiple Compute Budgets\: Multi-Ratio ConceptMoE for Flexible Compute Across Turns](<https://arxiv.org/abs/2610.14074>) | Preprint | OpenAlex |

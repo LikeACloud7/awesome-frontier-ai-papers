@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4071`
-- Latest: `2026-10-13`
+- Papers: `4077`
+- Latest: `2026-10-17`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑17 | [ColorFool\: Three Color Elements to Fool Deepfake Detectors](<https://doi.org/10.1007/978-981-92-6834-4_21>) | Conference paper | OpenAlex |
+| 2026‑10‑14 | [When Pairwise Preferences Cycle\: A Reliability-Anchored Preference Walk for Video GRPO](<https://arxiv.org/abs/2610.20089>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [TreeSpark\: Learning to Draft the Trees You Verify for Speculative Decoding](<https://arxiv.org/abs/2610.20175>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [REWIND\: Uncertainty-Guided Trajectory Repair for Test-Time Reasoning](<https://arxiv.org/abs/2610.19561>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [PrismaCoder\: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis](<https://arxiv.org/abs/2610.20538>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [PA1-OPD\: One-Step Prefix-Augmented On-Policy Distillation for Language Model Pretraining](<https://arxiv.org/abs/2610.19601>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [CrossPortrait\: Cross-Species Portrait Animation via Adversarial Motion Alignment](<https://arxiv.org/abs/2610.17532>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ProAS\: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.18683v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑13 | [FrameLite\: Decision-Oriented Aesthetic Cropping with a Compact Vision-Language Model](<https://arxiv.org/abs/2610.17639v1>) | Paper | Verified affiliation |

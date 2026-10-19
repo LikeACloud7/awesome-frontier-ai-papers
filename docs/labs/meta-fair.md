@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1864`
+- Papers: `1865`
 - Latest: `2026-10-14`
 - [Back to README](../../README.md#metafair)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [here](<https://github.com/QwenLM/Qwen/blob/main/QWEN_TECHNICAL_REPORT.pdf>) | Technical report | Official repo |
 | n\.d\. | [metapaired](<https://github.com/facebookresearch/metapaired/blob/main/tex/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [latticer](<https://github.com/facebookresearch/latticer/blob/main/tex/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [hcrbounds](<https://github.com/facebookresearch/hcrbounds/blob/main/tex/paper.pdf>) | Technical report | Official repo |

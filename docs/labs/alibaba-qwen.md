@@ -1,16 +1,16 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3867`
-- Latest: `2026-10-15`
+- Papers: `3877`
+- Latest: `2026-10-16`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [here](<https://github.com/QwenLM/Qwen/blob/main/QWEN_TECHNICAL_REPORT.pdf>) | Technical report | Official repo |
+| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Qwen3-Coder-Next\: Pushing Small Hybrid Models on Agentic Coding](<https://github.com/QwenLM/Qwen3-Coder/blob/main/qwen3_coder_next_tech_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Qwen3 Embedding](<https://github.com/QwenLM/Qwen3-Embedding/blob/main/qwen3_embedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Qwen3](<https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf>) | Technical report | Official repo |
@@ -19,13 +19,21 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑16 | [MultiAgent-OPD\: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](<https://arxiv.org/abs/2610.23234v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [Dendritic computation bridges neuroscience and foundation models](<https://doi.org/10.1038/s41467-026-77929-8>) | Article | OpenAlex |
 | 2026‑10‑15 | [AgentEval\: Evidence-Bounded Assessment of Stateful Agents](<https://doi.org/10.48550/arxiv.2610.21177>) | Preprint | OpenAlex |
-| 2026‑10‑14 | [What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds](<https://huggingface.co/papers/2610.20195>) | Paper | Hugging Face |
+| 2026‑10‑14 | [What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds](<https://huggingface.co/papers/2610.20195>) | Paper | Hugging Face, OpenAlex |
+| 2026‑10‑14 | [What Matters for World Modeling in Vision-Language-Action Models?](<https://arxiv.org/abs/2610.19825>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [StreamErase\: Towards Ultra-Fast Streaming Video Erasing](<https://arxiv.org/abs/2610.20137>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Not All Criteria Matter\: Importance-Aware Criteria Weighting for Rubric-Based LLM Evaluation](<https://arxiv.org/abs/2610.19915>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Memory-Efficient Subspace Optimization with Residual Correction\: From Momentum SGD to Muon](<https://arxiv.org/abs/2610.19844>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [MMA-SafetyBench\: A Benchmark for Multimodal Agent Safety Evaluation](<https://arxiv.org/abs/2610.19384>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Cracking Mobile Manipulation\: From Failure Diagnosis to Agentic Robot System](<https://arxiv.org/abs/2610.19600>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Urbex\: Agentic Spatial Grounding for City-Scale 3D Scenes](<https://huggingface.co/papers/2610.18356>) | Paper | Hugging Face |
 | 2026‑10‑13 | [Socratic Skill Learning\: Interleaving Teaching and Practice for Transferable Agent Skills](<https://arxiv.org/abs/2610.17860>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ScenePercept\: Scenario-Conditioned Perceptual Assessment of Real-World User-Generated Content Images](<https://arxiv.org/abs/2610.17661>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [RSIgen\: Reciprocal Self-Improvement for Agentic Visual Generation](<https://arxiv.org/abs/2610.18688>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [RELAY\: Selective Self-Distillation with Adaptive Hand-off for Rubric-Based Reinforcement Learning](<https://arxiv.org/abs/2610.17623>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ProtoArena\: Can AI Agents Discover and Exploit Real-World Cross-Component Protocol Vulnerabilities?](<https://arxiv.org/abs/2610.17837>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement](<https://arxiv.org/abs/2610.17716>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [LongForcing\: Scaling Temporal Manifold Matching for Long-Horizon World Rollout](<https://arxiv.org/abs/2610.18289>) | Preprint | OpenAlex |
@@ -36,11 +44,13 @@
 | 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑12 | [UniSGR-V2\: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](<https://arxiv.org/abs/2610.16132>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Recall Begets Recall\: Recurrent Memory Ranking for Personalized LLMs](<https://arxiv.org/abs/2610.16137>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [REVEAL\: Reverse Engineering Agentic Latents from Frontier-Model Traces](<https://arxiv.org/abs/2610.16288>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Neos\: Learning to Interleave Search and Visual Reasoning](<https://arxiv.org/abs/2610.17043>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Narrative Paradoxes in LLM Inference\: Shaping Reasoning Trajectories toward Misalignment](<https://arxiv.org/abs/2610.16312>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Learning Deployable Causal Action Geometry under Temporal Non-Stationarity](<https://arxiv.org/abs/2610.16644>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [HyWe\: Unifying Search and Operation for Real-World Hybrid Web Tasks](<https://arxiv.org/abs/2610.16319>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [EHR-Bench\: A Chinese Multi-Task Benchmark for Recruitment AI](<https://arxiv.org/abs/2610.16689>) | Preprint | OpenAlex |
+| 2026‑10‑11 | [Hidden in Plain Sight\: Advancing Harmful Content Understanding via Perception-Aware Adversarial Self-Play](<https://arxiv.org/abs/2610.15449>) | Preprint | OpenAlex |
 | 2026‑10‑10 | [What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies](<https://arxiv.org/abs/2610.15035>) | Preprint | OpenAlex |
 | 2026‑10‑10 | [Towards Merging-conditional Backdoor Unalignment against Large Language Models](<https://arxiv.org/abs/2610.14701>) | Preprint | OpenAlex |
 | 2026‑10‑10 | [SkillHorizon\: Constructing Long-Horizon Agent Tasks through Skill Composition](<https://arxiv.org/abs/2610.14966>) | Preprint | OpenAlex |

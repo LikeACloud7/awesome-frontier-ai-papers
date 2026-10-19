@@ -1,20 +1,22 @@
 # Z\.ai/Zhipu Papers
 
 - Region: `China`
-- Papers: `138`
-- Latest: `2026-09-30`
+- Papers: `140`
+- Latest: `2026-10-14`
 - [Back to README](../../README.md#zaizhipu)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [ZCode](<https://github.com/zai-org/ZCode/blob/main/apps/zcode-cli/packages/office-runtime/fixtures/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Create the current schema](<https://github.com/zai-org/Synapse/blob/main/packages/web-next-design/public/design/attachments/report.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑14 | [Can Visual Generation Expand What Unified Multimodal Models Know?](<https://huggingface.co/papers/2610.21459>) | Preprint | Official page |
 | 2026‑09‑30 | [GFD-OPD\: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales](<https://arxiv.org/abs/2609.39692>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [ScopeIF\: Improving Scope-Aware Precise Instruction-Following in Large Language Models via Graded Reward Modeling](<https://arxiv.org/abs/2609.32189v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑26 | [From Anomalies to Failures\: Constructing Causal Error Graphs for Agentic Trace Diagnosis](<https://arxiv.org/abs/2609.32514v1>) | Paper | Verified affiliation, OpenAlex |

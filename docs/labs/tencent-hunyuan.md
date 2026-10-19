@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3773`
+- Papers: `3778`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -23,11 +23,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning](<https://huggingface.co/papers/2610.23181>) | Preprint | Official page |
 | 2026‑10‑15 | [A multimodal LLM framework with time-series-guided visual routing for ultra-short-term solar forecasting](<https://doi.org/10.1016/j.aei.2026.105373>) | Article | OpenAlex |
 | 2026‑10‑15 | [Hy-Memory-30B-A3B\: Attributed Reinforcement Learning for Long-Term Memory Writing](<https://arxiv.org/abs/2610.22196>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Player-1\: Learning to Play from Synthetic Experience](<https://huggingface.co/papers/2610.20584>) | Paper | Hugging Face |
 | 2026‑10‑14 | [Terminal-RSI\: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine](<https://huggingface.co/papers/2610.22192>) | Preprint | Official page |
 | 2026‑10‑14 | [Zero-Shot and Few-Shot Hydrogen Demand Forecasting with Time Series Foundation Models](<https://doi.org/10.1145/3857281>) | Article | OpenAlex |
+| 2026‑10‑14 | [When Extremists Enter LLM Societies\: Investigating Extreme Behavior in Multi-Agent Systems](<https://arxiv.org/abs/2610.19863>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [More Than Seeing\: Vision as Scalable Anchors in Native Multimodal Pre-Training](<https://arxiv.org/abs/2610.19443>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Evaluating Agentic Capabilities Before Post-Training\: An End-to-End Approach](<https://arxiv.org/abs/2610.19425>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Orbia\: Do Generated Videos Form a Consistent 3D World?](<https://huggingface.co/papers/2610.20693>) | Preprint | Official page |
 | 2026‑10‑13 | [Collapse, Repair, and Drift\: Dissecting Fine Tuning Dynamics in Speech Language Models](<https://arxiv.org/abs/2610.18192>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Benchmarking and Training Reward Models for Cross-Source Evidence Grounding in Search Agents](<https://arxiv.org/abs/2610.17827>) | Preprint | OpenAlex |
@@ -95,6 +99,7 @@
 | 2026‑10‑01 | [History matters\: Automatically estimating code quality in multi-round reviews via context-aware prompt-tuning](<https://doi.org/10.1016/j.jss.2026.113110>) | Article | OpenAlex |
 | 2026‑10‑01 | [Asynchronous multi-agent reinforcement learning for network-wide traffic signal control via stackelberg game prioritization](<https://doi.org/10.1016/j.asoc.2026.116565>) | Article | OpenAlex |
 | 2026‑10‑01 | [AURAL\: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](<https://arxiv.org/abs/2610.01560>) | Preprint | OpenAlex |
+| 2026‑10‑01 | [A child-centric analysis of community street space quality\: Leveraging street view imagery and machine learning](<https://doi.org/10.1016/j.foar.2026.08.003>) | Article | OpenAlex |
 | 2026‑10‑01 | [Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization](<https://arxiv.org/abs/2610.01233v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [AutoGUIWorld\: Image Generators as Visual World Models for GUI Agent](<https://huggingface.co/papers/2610.01215>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑30 | [PathAnchor\: Path-Structured Evidence for Scientific Agents](<https://arxiv.org/abs/2609.38766>) | Preprint | OpenAlex |

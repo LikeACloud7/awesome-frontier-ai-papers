@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2100`
+- Papers: `2102`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#nvidia)
 
@@ -18,6 +18,8 @@
 |---|---|---|---|
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
+| 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [One Block Ahead\: Promoting Sampler State in Diffusion Language Models](<https://arxiv.org/abs/2610.19510>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Component-Level Inverse Design of Transmon Qubits Using Neural Networks](<https://arxiv.org/abs/2607.20795>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ACCRUE\: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](<https://huggingface.co/papers/2610.18596>) | Paper | Hugging Face |
 | 2026‑10‑13 | [LADDER\: A Long-Horizon Robot Manipulation Benchmark](<https://arxiv.org/abs/2610.18053>) | Preprint | OpenAlex |

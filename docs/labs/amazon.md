@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3642`
-- Latest: `2026-10-15`
+- Papers: `3648`
+- Latest: `2026-10-17`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,8 +16,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑17 | [A Bayesian-guided aggregation-disaggregation algorithm for transit planning](<https://doi.org/10.1016/j.trc.2026.106085>) | Article | OpenAlex |
+| 2026‑10‑16 | [ANCHOR\: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark](<https://arxiv.org/abs/2610.22964v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [Hybrid Generative-Tagging Decoding for Efficient Product Attribute-Value Extraction](<https://arxiv.org/abs/2610.21329v1>) | Paper | Verified affiliation |
+| 2026‑10‑14 | [When Do Discrete Actions Make Good Continuous Controllers?](<https://arxiv.org/abs/2610.20429>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Retrieve What Helps, Only When It Helps\: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation](<https://arxiv.org/abs/2610.19528>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Replicable Dueling Bandits](<https://arxiv.org/abs/2610.20908v1>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [Contextual Credit Policy Optimization](<https://arxiv.org/abs/2610.19103>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Verifier-Grounded Agentic RL for Provably Correct Code](<https://arxiv.org/abs/2610.19298>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Searching for What Matters\: Open-Ended Discovery of Multiple Hypotheses with Agentic Data Exploration](<https://arxiv.org/abs/2610.17874>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Mixed Precision Scaling Laws for Quantized Pretraining](<https://arxiv.org/abs/2610.17637>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Intelligent Electrical Capacity Forecasting for AI Workloads in Modular Data Centre Expansion Planning](<https://ijhit.info/index.php/ijhit/article/view/342>) | Article | OpenAlex |
@@ -974,7 +980,7 @@
 | 2026 | [Optimal and scalable MAPF via multi-marginal optimal transport and schrödinger bridges](<https://www.amazon.science/publications/optimal-and-scalable-mapf-via-multi-marginal-optimal-transport-and-schrodinger-bridges>) | Publication | Official page |
 | 2026 | [Online boundary-aware memory for case-based reasoning agents](<https://www.amazon.science/publications/online-boundary-aware-memory-for-case-based-reasoning-agents>) | Publication | Official page |
 | 2026 | [On recursive resolution\: Scalable ground truth for self-improving AI systems](<https://www.amazon.science/publications/on-recursive-resolution-scalable-ground-truth-for-self-improving-ai-systems>) | Publication | Official page |
-| 2026 | [OPTIMUS\: Optimal offline bidding strategy for manual targeting advertising campaigns](<https://www.amazon.science/publications/optimus-optimal-offline-bidding-strategy-for-manual-targeting-advertising-campaigns>) | Publication | Official page |
+| 2026 | [OPTIMUS\: Optimal offline bidding strategy for manual targeting advertising campaigns](<https://www.amazon.science/publications/optimus-optimal-offline-bidding-strategy-for-manual-targeting-advertising-campaigns>) | Publication | Official page, OpenAlex |
 | 2026 | [Not-a-bandit\: Provably no-regret drafter selection in speculative decoding for LLMs](<https://www.amazon.science/publications/not-a-bandit-provably-no-regret-drafter-selection-in-speculative-decoding-for-llms>) | Publication | Official page |
 | 2026 | [Non-parametric spatiotemporal trajectory prediction via state-conditioned transition sampling](<https://www.amazon.science/publications/non-parametric-spatiotemporal-trajectory-prediction-via-state-conditioned-transition-sampling>) | Publication | Official page |
 | 2026 | [NKI-Agent\: Domain-specific fine-tuning and agentic tool use for neuron kernel generation](<https://www.amazon.science/publications/nki-agent-domain-specific-fine-tuning-and-agentic-tool-use-for-neuron-kernel-generation>) | Publication | Official page |
