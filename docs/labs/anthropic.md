@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `355`
+- Papers: `356`
 - Latest: `2026-10-16`
 - [Back to README](../../README.md#anthropic)
 
@@ -170,6 +170,7 @@
 | 2026 | [The Persona Selection Model\: Why AI Assistants might Behave like Humans](<https://alignment.anthropic.com/2026/psm/>) | Research post | Official page |
 | 2026 | [TASTE\: Can AI Models Judge AI Safety Research Proposals?](<https://alignment.anthropic.com/2026/taste/>) | Research post | Official page |
 | 2026 | [SLEIGHT-Bench\: Finding Blind Spots in AI Monitors](<https://alignment.anthropic.com/2026/sleight-bench/>) | Research post | Official page |
+| 2026 | [Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It](<https://alignment.anthropic.com/2026/graft/>) | Research post | Official page |
 | 2026 | [Pre-deployment auditing can catch an overt saboteur](<https://alignment.anthropic.com/2026/auditing-overt-saboteur/>) | Research post | Official page |
 | 2026 | [Poisoning Fine-tuning Datasets of Constitutional Classifiers](<https://alignment.anthropic.com/2026/backdooring-classifiers/>) | Research post | Official page |
 | 2026 | [Petri 2\.0\: New Scenarios, New Model Comparisons, and Improved Eval-Awareness Mitigations](<https://alignment.anthropic.com/2026/petri-v2/>) | Research post | Official page |

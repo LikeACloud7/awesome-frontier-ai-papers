@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3778`
+- Papers: `3789`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -24,6 +24,15 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑15 | [Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning](<https://huggingface.co/papers/2610.23181>) | Preprint | Official page |
+| 2026‑10‑15 | [VisualTrust\: Video Reasoning under On-Screen Claim Framing](<https://arxiv.org/abs/2610.21159>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [VP-EVT\: Active Visibility Preservation for Embodied Visual Tracking](<https://arxiv.org/abs/2610.21999>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Rethinking the Role of Tool Graph Memory in Multi-Turn Tool Use](<https://arxiv.org/abs/2610.21571>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [QREF\: Improving DeepSearch Agents by Aligning Search with Reasoning via Query Refinement and Evidence Filtering](<https://arxiv.org/abs/2610.21512>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Learning from Interaction Experience via Localized Context Distillation](<https://arxiv.org/abs/2610.21427>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [KnowGPO\: Knowledge-Grouped Policy Optimization for Search Agents](<https://arxiv.org/abs/2610.22331>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [GeoState\: Learning View-Decoupled Geometry States for 3D World Modeling](<https://arxiv.org/abs/2610.22343>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [CF-AVSS\: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge](<https://arxiv.org/abs/2610.21773>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [AgentPerturb\: Evaluating LLM Agent Robustness under Controlled Interaction Perturbations](<https://arxiv.org/abs/2610.21624>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [A multimodal LLM framework with time-series-guided visual routing for ultra-short-term solar forecasting](<https://doi.org/10.1016/j.aei.2026.105373>) | Article | OpenAlex |
 | 2026‑10‑15 | [Hy-Memory-30B-A3B\: Attributed Reinforcement Learning for Long-Term Memory Writing](<https://arxiv.org/abs/2610.22196>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Player-1\: Learning to Play from Synthetic Experience](<https://huggingface.co/papers/2610.20584>) | Paper | Hugging Face |
@@ -32,6 +41,7 @@
 | 2026‑10‑14 | [When Extremists Enter LLM Societies\: Investigating Extreme Behavior in Multi-Agent Systems](<https://arxiv.org/abs/2610.19863>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [More Than Seeing\: Vision as Scalable Anchors in Native Multimodal Pre-Training](<https://arxiv.org/abs/2610.19443>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Evaluating Agentic Capabilities Before Post-Training\: An End-to-End Approach](<https://arxiv.org/abs/2610.19425>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [DeSpatial\: The devil of Agentic Spatial Reasoning Lies in 3D Itself](<https://arxiv.org/abs/2610.20990>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Orbia\: Do Generated Videos Form a Consistent 3D World?](<https://huggingface.co/papers/2610.20693>) | Preprint | Official page |
 | 2026‑10‑13 | [Collapse, Repair, and Drift\: Dissecting Fine Tuning Dynamics in Speech Language Models](<https://arxiv.org/abs/2610.18192>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Benchmarking and Training Reward Models for Cross-Source Evidence Grounding in Search Agents](<https://arxiv.org/abs/2610.17827>) | Preprint | OpenAlex |
@@ -96,6 +106,7 @@
 | 2026‑10‑02 | [Gated Slot Attention-2\: Two-Sided Associative Memory Correction in Linear Attention](<https://arxiv.org/abs/2610.02816>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite](<https://huggingface.co/papers/2610.02826>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑01 | [iCAS\: An in-context anomaly segmentation framework for industrial visual inspection](<https://doi.org/10.1016/j.patcog.2026.115085>) | Article | OpenAlex |
+| 2026‑10‑01 | [MsFIHMamba\: A dual feature fusion network utilizing multi-scale and omnidirectional strategies for acromegaly diagnosis](<https://doi.org/10.1016/j.patcog.2026.115136>) | Article | OpenAlex |
 | 2026‑10‑01 | [History matters\: Automatically estimating code quality in multi-round reviews via context-aware prompt-tuning](<https://doi.org/10.1016/j.jss.2026.113110>) | Article | OpenAlex |
 | 2026‑10‑01 | [Asynchronous multi-agent reinforcement learning for network-wide traffic signal control via stackelberg game prioritization](<https://doi.org/10.1016/j.asoc.2026.116565>) | Article | OpenAlex |
 | 2026‑10‑01 | [AURAL\: Adaptive Latent Reasoning with Joint Chunk for Speech Language Models](<https://arxiv.org/abs/2610.01560>) | Preprint | OpenAlex |

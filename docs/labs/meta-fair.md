@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1865`
-- Latest: `2026-10-14`
+- Papers: `1868`
+- Latest: `2026-10-19`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -42,6 +42,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
+| 2026‑10‑18 | [Abstract A158\: Racial and ethnic variation in conversion from actionable Guardant360 results to matched targeted therapy in non–small cell lung cancer\: A real-world analysis](<https://doi.org/10.1158/1538-7755.disp26-a158>) | Conference abstract | OpenAlex |
 | 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
 | 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page |
 | 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page, OpenAlex |
@@ -52,6 +54,7 @@
 | 2026‑10‑14 | [Human-Guided Agentic AI for End-to-End EHR Research\: Sequential Antibody-Drug Conjugate Pathways in Breast Cancer](<https://ai.meta.com/research/publications/human-guided-agentic-ai-for-end-to-end-ehr-research-sequential-antibody-drug-conjugate-pathways-in-breast-cancer/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Documented Dental Disease in Patients With Staphylococcus aureus Bacteremia](<https://ai.meta.com/research/publications/documented-dental-disease-in-patients-with-staphylococcus-aureus-bacteremia/>) | Publication | Official page |
 | 2026‑10‑14 | [Cladophialophora bantiana\: a US clinical case series assisted by artificial intelligence](<https://ai.meta.com/research/publications/cladophialophora-bantiana-a-us-clinical-case-series-assisted-by-artificial-intelligence/>) | Publication | Official page |
+| 2026‑10‑14 | [Co-Evolving Acting and Forecasting for Language Agents](<https://arxiv.org/abs/2610.20597>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [AutoformBench\: A Lean Formalization Benchmark for Advanced Mathematics](<https://ai.meta.com/research/publications/autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics/>) | Publication | Official page |
 | 2026‑10‑13 | [Delegating Earth science model calibration to knowledge-guided LLM agents](<https://arxiv.org/abs/2610.18378>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [A CaLLM Judge is a Better Judge\: Mitigating Bias in LLM-as-a-judge](<https://arxiv.org/abs/2610.18108>) | Preprint | OpenAlex |

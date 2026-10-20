@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3648`
+- Papers: `3657`
 - Latest: `2026-10-17`
 - [Back to README](../../README.md#amazon)
 
@@ -18,9 +18,16 @@
 |---|---|---|---|
 | 2026‑10‑17 | [A Bayesian-guided aggregation-disaggregation algorithm for transit planning](<https://doi.org/10.1016/j.trc.2026.106085>) | Article | OpenAlex |
 | 2026‑10‑16 | [ANCHOR\: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark](<https://arxiv.org/abs/2610.22964v1>) | Paper | Verified affiliation |
+| 2026‑10‑15 | [Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning](<https://arxiv.org/abs/2610.21336>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [PathFM\: Fast Generative Forecasting of Multivariate Trajectories](<https://arxiv.org/abs/2610.22358>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Multi-Reward Hacking\: From Aggregation-Induced Drift to Trust-Anchored Defense](<https://arxiv.org/abs/2610.21404>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [MemComposer\: Learning to Assemble Memories for LLM Agents via Reinforcement Learning](<https://arxiv.org/abs/2610.21091>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [GRADS\: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty](<https://arxiv.org/abs/2610.21167>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Compatibility Matters\: A Framework for Token-Level Teacher Selection in On-Policy Distillation](<https://arxiv.org/abs/2610.21234>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Hybrid Generative-Tagging Decoding for Efficient Product Attribute-Value Extraction](<https://arxiv.org/abs/2610.21329v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [When Do Discrete Actions Make Good Continuous Controllers?](<https://arxiv.org/abs/2610.20429>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Retrieve What Helps, Only When It Helps\: Agentic Reinforcement Learning for Selective Retrieval-Augmented Machine Translation](<https://arxiv.org/abs/2610.19528>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [How to Train Your Little Dragon\: Teaching a Small Language Model to Construct and Refine GPU Optimization Scripts](<https://arxiv.org/abs/2610.20980>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Replicable Dueling Bandits](<https://arxiv.org/abs/2610.20908v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [Contextual Credit Policy Optimization](<https://arxiv.org/abs/2610.19103>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Verifier-Grounded Agentic RL for Provably Correct Code](<https://arxiv.org/abs/2610.19298>) | Preprint | OpenAlex |
@@ -229,7 +236,6 @@
 | 2026‑09‑01 | [FedGLoRA\: Grassmann-Manifold Federated Learning via Dual LoRA for Large EEG Models](<https://doi.org/10.24963/ijcai.2026/398>) | Conference paper | OpenAlex |
 | 2026‑09‑01 | [Does task decomposition improve automatic NLG evaluation?](<https://arxiv.org/abs/2609.01139>) | Preprint | OpenAlex |
 | 2026‑09‑01 | [Belief-Calibrated Optimization\: An Explicit World Model for Agentic Optimization](<https://arxiv.org/abs/2609.01861v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑08‑31 | [Human-Anchored Factuality Evaluation with Strategic Annotation](<https://arxiv.org/abs/2609.00494v1>) | Paper | Verified affiliation |
 | 2026‑08‑29 | [Photographic image layout retrieval via representation learning with adaptive ellipse primitives](<https://doi.org/10.1016/j.patcog.2026.114677>) | Article | OpenAlex |
 | 2026‑08‑29 | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](<https://doi.org/10.1016/j.jbi.2026.105095>) | Article | OpenAlex |
 | 2026‑08‑29 | [A Pinch of SFT, A Dash of RL\: When Reinforcement Learning Helps Long-Horizon Advertising Agents](<https://arxiv.org/abs/2609.22194v1>) | Paper | Verified affiliation |
@@ -933,6 +939,7 @@
 | 2026 | [Semantic map guided bird's-eye view learning for online HD map construction](<https://www.amazon.science/publications/semantic-map-guided-birds-eye-view-learning-for-online-hd-map-construction>) | Publication | Official page, OpenAlex |
 | 2026 | [Self-improvement for fast, high-quality plan generation](<https://www.amazon.science/publications/self-improvement-for-fast-high-quality-plan-generation>) | Publication | Official page |
 | 2026 | [Select, label, evaluate\: Active testing in NLP](<https://www.amazon.science/publications/select-label-evaluate-active-testing-in-nlp>) | Publication | Official page |
+| 2026 | [Scaling robotics to 200 developers\: C++ planning and the lessons learned](<https://www.amazon.science/publications/scaling-robotics-to-200-developers-c-planning-and-the-lessons-learned>) | Publication | Official page |
 | 2026 | [Scalable visual attribute recognition in e-commerce products via automated synthetic label generation](<https://www.amazon.science/publications/scalable-visual-attribute-recognition-in-e-commerce-products-via-automated-synthetic-label-generation>) | Publication | Official page |
 | 2026 | [Scalable cross-embodiment dexterous grasping via morphology-prior diffusion](<https://www.amazon.science/publications/scalable-cross-embodiment-dexterous-grasping-via-morphology-prior-diffusion>) | Publication | Official page |
 | 2026 | [Scalable Explainability for Music Recommendation via Precomputed Reasoning](<https://www.amazon.science/publications/scalable-explainability-for-music-recommendation-via-precomputed-reasoning>) | Publication | Official page |
@@ -1029,6 +1036,7 @@
 | 2026 | [ImageRAGTurbo\: Towards one-step text-to-image generation with retrieval-augmented diffusion models](<https://www.amazon.science/publications/imageragturbo-towards-one-step-text-to-image-generation-with-retrieval-augmented-diffusion-models>) | Publication | Official page |
 | 2026 | [IDP Accelerator\: Agentic document intelligence from extraction to compliance validation](<https://www.amazon.science/publications/idp-accelerator-agentic-document-intelligence-from-extraction-to-compliance-validation>) | Publication | Official page |
 | 2026 | [IAM policy autopilot\: Static analysis for policy generation from application code](<https://www.amazon.science/publications/iam-policy-autopilot-static-analysis-for-policy-generation-from-application-code>) | Publication | Official page, OpenAlex |
+| 2026 | [Human-anchored factuality evaluation with strategic annotation](<https://www.amazon.science/publications/human-anchored-factuality-evaluation-with-strategic-annotation>) | Publication | Verified affiliation, Official page |
 | 2026 | [Huddle\: Parallel shape assembly using decentralized, minimalistic robots](<https://www.amazon.science/publications/huddle-parallel-shape-assembly-using-decentralized-minimalistic-robots>) | Publication | Official page |
 | 2026 | [Hindsight-anchored policy optimization\: Turning failure into feedback in sparse reward settings](<https://www.amazon.science/publications/hindsight-anchored-policy-optimization-turning-failure-into-feedback-in-sparse-reward-settings>) | Publication | Official page |
 | 2026 | [HetRL\: Efficient reinforcement learning for LLMs in heterogeneous environments](<https://www.amazon.science/publications/hetrl-efficient-reinforcement-learning-for-llms-in-heterogeneous-environments>) | Publication | Official page |
@@ -1043,6 +1051,7 @@
 | 2026 | [Generative vs discriminative? Revisiting the shortcut learning debate in text classification](<https://www.amazon.science/publications/generative-vs-discriminative-revisiting-the-shortcut-learning-debate-in-text-classification>) | Publication | Official page |
 | 2026 | [Generalized position-based model\: Rethinking position weights in ranking off-policy evaluation](<https://www.amazon.science/publications/generalized-position-based-model-rethinking-position-weights-in-ranking-off-policy-evaluation>) | Publication | Official page, OpenAlex |
 | 2026 | [Generalizable dense reward for long-horizon robotic tasks](<https://www.amazon.science/publications/generalizable-dense-reward-for-long-horizon-robotic-tasks>) | Publication | Official page |
+| 2026 | [General instruction-tuned multilingual adapter\: Unlocking cross-lingual generalization through scaled parameter-efficient adaptation](<https://www.amazon.science/publications/general-instruction-tuned-multilingual-adapter-unlocking-cross-lingual-generalization-through-scaled-parameter-efficient-adaptation>) | Publication | Official page |
 | 2026 | [Gated KalmaNet\: A fading memory layer through test-time ridge regression](<https://www.amazon.science/publications/gated-kalmanet-a-fading-memory-layer-through-test-time-ridge-regression>) | Publication | Official page |
 | 2026 | [GRAFT\: Grounding cold-start nodes via factorized structural alignment](<https://www.amazon.science/publications/graft-grounding-cold-start-nodes-via-factorized-structural-alignment>) | Publication | Official page, OpenAlex |
 | 2026 | [GAM\: Generalized action model for robotic manipulation](<https://www.amazon.science/publications/gam-generalized-action-model-for-robotic-manipulation>) | Publication | Official page |

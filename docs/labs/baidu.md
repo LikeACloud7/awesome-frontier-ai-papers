@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1104`
+- Papers: `1105`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#baidu)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑15 | [MathMate\: A Multi-agent Tutoring Platform for Guided Mathematical Reasoning](<https://doi.org/10.1007/978-981-92-6916-7_10>) | Conference paper | OpenAlex |
+| 2026‑10‑14 | [RoLaQ\: Joint Rotation and Range Calibration for 2-Bit KV Caches in Multi-Head Latent Attention](<https://arxiv.org/abs/2610.20686>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [SWEPatchTest\: Evaluating Software Tests Beyond Reproduction](<https://arxiv.org/abs/2610.18004>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Virtual Head Attention](<https://huggingface.co/papers/2610.17959>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑12 | [FlashMask-3\: Efficient and Expressive Mask-Aware Distributed Attention](<https://huggingface.co/papers/2610.17901>) | Preprint | Official page, OpenAlex |

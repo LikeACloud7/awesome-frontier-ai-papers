@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1832`
-- Latest: `2026-10-14`
+- Papers: `1834`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Full-Duplex Interaction with Speech, Expressions and Gestures](<https://arxiv.org/abs/2610.21452>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Condition-Contrastive Extrapolation for On-Policy Distillation of Language Models](<https://arxiv.org/abs/2610.21195>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Cortex\: Consolidating Context into Parametric Memory](<https://huggingface.co/papers/2610.20399>) | Paper | Hugging Face, OpenAlex |
 | 2026‑10‑14 | [DeltaStreamer\: Towards Human-Like Agentic Streaming Video Understanding](<https://arxiv.org/abs/2610.19849>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [FRACTION\: Fraud Explanation Generation via Agentic Graph Context Navigation](<https://arxiv.org/abs/2610.18023>) | Preprint | OpenAlex |

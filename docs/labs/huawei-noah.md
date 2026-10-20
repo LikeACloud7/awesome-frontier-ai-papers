@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4077`
+- Papers: `4083`
 - Latest: `2026-10-17`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,6 +16,12 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑17 | [ColorFool\: Three Color Elements to Fool Deepfake Detectors](<https://doi.org/10.1007/978-981-92-6834-4_21>) | Conference paper | OpenAlex |
+| 2026‑10‑15 | [FDE-Gym\: The Last Mile of AI Delivery](<https://arxiv.org/abs/2610.22350>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Motion- and Gravity-Aware Feedforward 3D Reconstruction](<https://arxiv.org/abs/2610.22177>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Mosaic\: Multi-Session Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.22174>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [MMSearch-OPD\: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents](<https://arxiv.org/abs/2610.22240>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [FocusOPD\: Structure-Guided On-Policy Distillation for Diffusion Models](<https://arxiv.org/abs/2610.21250>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [DK-VLM\: Geometry as Position for Spatial Reasoning in Vision-Language Models](<https://arxiv.org/abs/2610.22356>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [When Pairwise Preferences Cycle\: A Reliability-Anchored Preference Walk for Video GRPO](<https://arxiv.org/abs/2610.20089>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [TreeSpark\: Learning to Draft the Trees You Verify for Speculative Decoding](<https://arxiv.org/abs/2610.20175>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [REWIND\: Uncertainty-Guided Trajectory Repair for Test-Time Reasoning](<https://arxiv.org/abs/2610.19561>) | Preprint | OpenAlex |

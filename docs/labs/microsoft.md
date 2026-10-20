@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4060`
-- Latest: `2026-10-16`
+- Papers: `4069`
+- Latest: `2026-10-17`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -133,22 +133,29 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑17 | [Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs](<https://arxiv.org/abs/2608.24369>) | Conference paper | OpenAlex |
 | 2026‑10‑16 | [Towards Unified Approaches in Self-Supervised Event Stream Modeling\: Progress and Prospects](<https://doi.org/10.1613/jair.1.21515>) | Article | OpenAlex |
 | 2026‑10‑16 | [Clinical AI in 2025–2026 — Six Themes from the SAIL Year in Review](<https://doi.org/10.1056/aip2600817>) | Article | OpenAlex |
 | 2026‑10‑16 | [Understanding KV Residency in Production-Scale Agentic LLM Workloads](<https://arxiv.org/abs/2610.22863v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | ["To Boldly Go Where No One Has Gone Before" What Has AI Let Developers Unlock?](<https://arxiv.org/abs/2610.23708v1>) | Paper | Verified affiliation |
+| 2026‑10‑15 | [FDE-Gym\: The Last Mile of AI Delivery](<https://arxiv.org/abs/2610.22350>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Recursive Reward Improvement via Adversarial Meta-Prompt Evolution](<https://arxiv.org/abs/2610.21040>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [FastVLA\: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models](<https://arxiv.org/abs/2610.22146>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Data Strategies for Large Language Models\: A Unified Perspective on the Training Lifecycle](<https://arxiv.org/abs/2610.21681>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Bias Control and Injection for Multi-Agent Aggregation](<https://arxiv.org/abs/2610.21290>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Advancing Subseasonal Forecasting with Machine Learning](<https://www.microsoft.com/en-us/research/publication/advancing-subseasonal-forecasting-with-machine-learning/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents](<https://arxiv.org/abs/2610.19439>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Mapping Successful AI Application in Well Delivery to Domain Knowledge, SME Capacity in Operators and Their Suppliers](<https://doi.org/10.2118/234029-ms>) | Conference paper | OpenAlex |
 | 2026‑10‑14 | [Lluna\: Collaborative Unimodal Models for Missing-Modality Inference](<https://arxiv.org/abs/2610.20526>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [OS-Bench\: Evaluating SWE Agents on Cross-OS Code Migration](<https://arxiv.org/abs/2610.19368v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑14 | [Beyond Expert Rankings\: Contrast Calibration for Mixed-Precision MoE Quantization](<https://arxiv.org/abs/2610.20353v1>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑10‑13 | [AesCode\: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](<https://arxiv.org/abs/2610.18860>) | Paper | Verified affiliation, Hugging Face, OpenAlex |
 | 2026‑10‑13 | [LensErase\: A Foundation Model for Erase Anything](<https://huggingface.co/papers/2610.18072>) | Paper | Hugging Face |
+| 2026‑10‑13 | [AesCode\: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](<https://arxiv.org/abs/2610.18860>) | Paper | Verified affiliation, Hugging Face, OpenAlex |
 | 2026‑10‑13 | [Simplifying and Improving On-Policy Distillation for Few-Step Diffusion](<https://huggingface.co/papers/2610.18472>) | Paper | Hugging Face |
 | 2026‑10‑13 | [APT\: Feedback-Driven Agentic Post-Training for Text-to-Image Generation](<https://huggingface.co/papers/2610.18097>) | Paper | Hugging Face, OpenAlex |
 | 2026‑10‑13 | [Contextual Credit Policy Optimization](<https://arxiv.org/abs/2610.19103>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [LatentRemedy\: Efficient Remedy For Non-Prefix KV Cache Reuse in Multi-Agent Systems](<https://arxiv.org/abs/2610.18014>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Introducing Infrastructure as Code for deployment and governance of medical AI\: A case study](<https://doi.org/10.64898/2026.10.12.26365327>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Input-Conditioned Search for Efficient Test-Time Scaling of Recursive Reasoners](<https://arxiv.org/abs/2610.18547>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [HERO\: Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation](<https://arxiv.org/abs/2610.19184>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [CacheSmith\: Accurate RAG Serving under Latency SLOs with Adaptive KV Reuse](<https://arxiv.org/abs/2610.18925>) | Preprint | OpenAlex |
@@ -196,6 +203,7 @@
 | 2026‑10‑07 | [Debug2Fix\: Can Interactive Debugging Help Coding Agents Fix More Bugs?](<https://arxiv.org/abs/2602.18571>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [CtxFuzz\: Context-Aware Directed Fuzzing via Runtime Fuzzer-Agent Cooperation](<https://doi.org/10.1145/3832783.3834365>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [ActionNex\: A Production-Grade System for Next-Best-Action Recommendation in Cloud Outage Management](<https://doi.org/10.1145/3832783.3834472>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [AbridgeKV\: Compressing Long Reasoning into the KV Cache of Learned Pause Tokens](<https://arxiv.org/abs/2610.20641>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Unified Multi-plane Autoregressive Diffusion for 3D Multi-contrast MRI Synthesis](<https://arxiv.org/abs/2610.09376v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Safe at One Loop, Risky at Another\: Aligning Safety Across Recurrent Depths in Looped Language Models](<https://arxiv.org/abs/2610.10625v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://arxiv.org/abs/2610.09254v1>) | Paper | Verified affiliation |
@@ -263,6 +271,7 @@
 | 2026‑09‑29 | [TACIT\: Optimization Models that Learn from Their Mistakes](<https://arxiv.org/abs/2609.38434>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [OrchAlign\: Orchestrated Multimodal Alignment for Gene Expression Prediction](<https://doi.org/10.1093/bioinformatics/btag711>) | Article | OpenAlex |
 | 2026‑09‑29 | [KlinikeBench\: Evaluating Language Models Beyond Diagnostic Accuracy](<https://arxiv.org/abs/2609.38480>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [HIGS\: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding](<https://arxiv.org/abs/2609.38620>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [FOCUS\: Training-Free Decision-Preserving Context Compression for LLM Agents](<https://arxiv.org/abs/2609.37590>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Beyond Conditional Independence\: Root Cause Analysis with Deep Causal Models](<https://arxiv.org/abs/2609.36771>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VideoLoop\: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents](<https://arxiv.org/abs/2609.38119v2>) | Paper | Verified affiliation, OpenAlex |

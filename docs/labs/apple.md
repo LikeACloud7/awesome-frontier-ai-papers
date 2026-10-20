@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1509`
+- Papers: `1510`
 - Latest: `2026-10-15`
 - [Back to README](../../README.md#apple)
 
@@ -14,6 +14,7 @@
 | 2026‑10‑15 | [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](<https://machinelearning.apple.com/research/mlx-distributed-inference>) | Research post | Official page |
 | 2026‑10‑14 | [The Design Space of Tri-Modal Masked Diffusion Models](<https://machinelearning.apple.com/research/tri-modal-masked-diffusion>) | Publication | Official page |
 | 2026‑10‑14 | [Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models](<https://machinelearning.apple.com/research/code-switching-detection>) | Publication | Official page |
+| 2026‑10‑14 | [Pixels to Tokens\: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](<https://arxiv.org/abs/2610.20881>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Mix, Don't Tune\: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings](<https://machinelearning.apple.com/research/mix-dont-tune>) | Publication | Official page |
 | 2026‑10‑12 | [Large Language Models for Machine Translation Quality Annotation\: Humans and Models Are Both Challenged](<https://machinelearning.apple.com/research/llm-translation-quality-annotation>) | Publication | Official page |
 | 2026‑10‑11 | [Fewer Bits, More Tries\: Recovering Capability Under Memory Constraints](<https://arxiv.org/abs/2610.15372>) | Preprint | OpenAlex |
