@@ -2495,6 +2495,7 @@
 | 2025‑01‑01 | [WebDancer\: Towards Autonomous Information Seeking Agency](<http://arxiv.org/abs/2505.22648>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SD-VLM\: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](<http://arxiv.org/abs/2509.17664>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](<http://arxiv.org/abs/2510.07316>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [OpenCUA\: Open Foundations for Computer-Use Agents](<https://doi.org/10.52202/085713-4669>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [OmniTalker\: One-shot Real-time Text-Driven Talking Audio-Video Generation With Multimodal Style Mimicking](<http://arxiv.org/abs/2504.02433>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and Harmlessness of Large Language Model via Model Merging](<http://arxiv.org/abs/2502.06876>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Metagent-P\: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds](<https://doi.org/10.18653/v1/2025.findings-acl.1169>) | Conference paper | OpenAlex |
@@ -2515,7 +2516,6 @@
 | 2025‑01‑01 | [Subsampled Ensemble Can Improve Generalization Tail Exponentially](<https://doi.org/10.52202/085713-0183>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Scientific Opinion Summarization\: Paper Meta-review Generation Dataset, Methods, and Evaluation](<https://doi.org/10.1007/978-981-97-9536-9_2>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Robust Pedestrian Crossing Intention Prediction via Uncertainty-Guided Transformer Ensemble Network for Autonomous Driving](<https://doi.org/10.1109/tim.2025.3575998>) | Article | OpenAlex |
-| 2025‑01‑01 | [OpenCUA\: Open Foundations for Computer-Use Agents](<https://doi.org/10.52202/085713-4669>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Mitigating Voice Assistant Eavesdropping via Event Source Review on Mobile Devices](<https://doi.org/10.1109/tifs.2025.3597552>) | Article | OpenAlex |
 | 2025‑01‑01 | [MiCo\: Multi-image Contrast for Reinforcement Visual Reasoning](<http://arxiv.org/abs/2506.22434>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Low-carbon and QoS-aware operation of data centers by AI task splitting and allocation](<https://doi.org/10.1016/j.apenergy.2025.127132>) | Article | OpenAlex |

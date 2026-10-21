@@ -1,5 +1,5 @@
 {
-  "next_lab": 10,
+  "next_lab": 11,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-10-11",
@@ -52,7 +52,7 @@
       "since": "2024-01-01"
     },
     "Moonshot/Kimi": {
-      "last_attempt": "2026-10-02",
+      "last_attempt": "2026-10-21",
       "status": "partial",
       "since": "2024-01-01"
     },

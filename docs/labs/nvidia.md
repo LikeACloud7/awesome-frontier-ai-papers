@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2102`
-- Latest: `2026-10-15`
+- Papers: `2104`
+- Latest: `2026-10-19`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑19 | [Malaria Pathogen Detection in Microscopy Images-Transfer Learning Challenges](<https://doi.org/10.1007/978-3-032-10303-1_38>) | Conference paper | OpenAlex |
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
 | 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |
@@ -84,6 +85,7 @@
 | 2026‑10‑01 | [Automatically Generating ML Compiler Backends from Tensor Accelerator ISA Descriptions](<https://arxiv.org/abs/2510.09932>) | Article | OpenAlex |
 | 2026‑10‑01 | [A-GHOST\: High-rate streaming of trigger-level data to programmable GPU inference](<https://arxiv.org/abs/2610.01761>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Physical AI Smart Spaces\: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](<https://arxiv.org/abs/2610.02580v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑01 | [Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking](<https://arxiv.org/abs/2610.02341v1>) | Paper | Verified affiliation |
 | 2026‑09‑30 | [Mid-Harness\: Scaling Actions Between Model and Harness for Terminal Agents](<https://research.nvidia.com/publication/2026-12_mid-harness-scaling-actions-between-model-and-harness-terminal-agents>) | Publication | Official page, Hugging Face |
 | 2026‑09‑30 | [PivotOPD\: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents](<https://huggingface.co/papers/2609.40285>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑30 | [Physis-Lang\: Self-Evolving Language as a Physical Representation for Video World Model](<https://huggingface.co/papers/2609.40358>) | Paper | Hugging Face |

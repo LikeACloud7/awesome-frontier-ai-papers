@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1868`
-- Latest: `2026-10-19`
+- Papers: `1871`
+- Latest: `2026-10-20`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -42,10 +42,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑20 | [Learning to Program Retrievals\: Composing Search Primitives via Reinforcement Learning](<https://ai.meta.com/research/publications/learning-to-program-retrievals-composing-search-primitives-via-reinforcement-learning/>) | Publication | Official page |
 | 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
 | 2026‑10‑18 | [Abstract A158\: Racial and ethnic variation in conversion from actionable Guardant360 results to matched targeted therapy in non–small cell lung cancer\: A real-world analysis](<https://doi.org/10.1158/1538-7755.disp26-a158>) | Conference abstract | OpenAlex |
 | 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
-| 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page |
+| 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Return Visits, Admission, and Mortality After Leaving Without BeingSeen Among Emergency Department Patients With Behavioral HealthPresentations](<https://ai.meta.com/research/publications/return-visits-admission-and-mortality-after-leaving-without-being-seen-among-emergency-department-patients-with-behavioral-health-presentations/>) | Publication | Official page |
 | 2026‑10‑14 | [Remission of Type 2 Diabetes in Linked Health Records\: Uncommon, Short-Lived, and More Often Ended by Treatment Restart Than by Rising HbA1c](<https://ai.meta.com/research/publications/remission-of-type-2-diabetes-in-linked-health-records-uncommon-short-lived-and-more-often-ended-by-treatment-restart-than-by-rising-hba1c/>) | Publication | Official page, OpenAlex |
@@ -76,6 +77,7 @@
 | 2026‑10‑06 | [Load Testing for Machine Learning Model Serving Systems at Scale](<https://arxiv.org/abs/2606.22013>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Constraint Tree Exploration for Learning from Language Feedback](<https://arxiv.org/abs/2610.09107>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Agent Plasticity\: Measuring Self-Improvement Through Experience](<https://huggingface.co/papers/2610.08902>) | Paper | Hugging Face |
+| 2026‑10‑06 | [Few Bits, One Law\: Toward W2A4KV2](<https://arxiv.org/abs/2610.09202v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [Exact Unlearning via Quantized Sufficient Statistics](<https://arxiv.org/abs/2610.07197>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Rethinking Long-Video Efficiency\: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](<https://arxiv.org/abs/2610.04318>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |
@@ -1591,6 +1593,7 @@
 | 2024‑06‑12 | [“Discriminability–Experimental Cost” Tradeoff in Subjective Video Quality Assessment of Codec\: DCR with EVP Rating Scale Versus ACR–HR](<https://doi.org/10.1109/pcs60826.2024.10566279>) | Conference paper | OpenAlex |
 | 2024‑06‑12 | [A FUNQUE Approach to the Quality Assessment of Compressed HDR Videos](<http://arxiv.org/abs/2312.08524>) | Conference paper | OpenAlex |
 | 2024‑06‑12 | [Beyond LLaVA-HD\: Diving into High-Resolution Large Multimodal Models](<http://arxiv.org/abs/2406.08487>) | Preprint | OpenAlex |
+| 2024‑06‑11 | [A virtual rodent predicts the structure of neural activity across behaviours](<https://doi.org/10.1038/s41586-024-07633-4>) | Article | OpenAlex |
 | 2024‑06‑11 | [UniDetector\: Towards Universal Object Detection With Heterogeneous Supervision](<https://doi.org/10.1109/tpami.2024.3411595>) | Article | OpenAlex |
 | 2024‑06‑10 | [Statistical Analysis of Complex Shape Graphs](<https://doi.org/10.1109/tpami.2024.3409834>) | Article | OpenAlex |
 | 2024‑06‑09 | [Async Learned User Embeddings for Ads Delivery Optimization](<http://arxiv.org/abs/2406.05898>) | Preprint | OpenAlex |

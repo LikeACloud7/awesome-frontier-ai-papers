@@ -1,7 +1,7 @@
 # Moonshot/Kimi Papers
 
 - Region: `China`
-- Papers: `49`
+- Papers: `51`
 - Latest: `2026-07-27`
 - [Back to README](../../README.md#moonshotkimi)
 
@@ -71,5 +71,7 @@
 |---|---|---|---|
 | 2024‑12‑30 | [Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](<http://arxiv.org/abs/2502.17442>) | Preprint | OpenAlex |
 | 2024‑11‑28 | [VisionLLaMA\: A Unified LLaMA Backbone for Vision Tasks](<https://doi.org/10.1007/978-3-031-72848-8_1>) | Conference paper | OpenAlex |
+| 2024‑11‑02 | [A Large-scale Time-aware Agents Simulation for Influencer Selection in Digital Advertising Campaigns](<http://arxiv.org/abs/2411.01143>) | Preprint | OpenAlex |
 | 2024‑07‑03 | [Single Image Rolling Shutter Removal with Diffusion Models](<https://doi.org/10.1609/aaai.v39i9.33015>) | Conference paper | OpenAlex |
 | 2024‑06‑23 | [Mooncake\: A KVCache-centric Disaggregated Architecture for LLM Serving](<https://huggingface.co/papers/2407.00079>) | Technical report | Official page, OpenAlex, Hugging Face |
+| 2024‑01‑03 | [Moonshot\: Towards Controllable Video Generation and Editing with Multimodal Conditions](<https://arxiv.org/abs/2401.01827v1>) | Paper | Verified affiliation |

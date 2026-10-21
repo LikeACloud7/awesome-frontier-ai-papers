@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4069`
+- Papers: `4072`
 - Latest: `2026-10-17`
 - [Back to README](../../README.md#microsoft)
 
@@ -111,6 +111,7 @@
 | n\.d\. | [Broken Neural Scaling Laws in Learning the Optical Properties of Solids](<https://www.microsoft.com/en-us/research/publication/broken-neural-scaling-laws-in-learning-the-optical-properties-of-solids/>) | Publication | Official page |
 | n\.d\. | [Biomolecular Multiscale Simulation (BMS25) Dataset to Train Neural Network Potentials for QM/MM Settings with Electrostatic Embedding](<https://www.microsoft.com/en-us/research/publication/biomolecular-multiscale-simulation-bms25-dataset-to-train-neural-network-potentials-for-qm-mm-settings-with-electrostatic-embedding/>) | Publication | Official page |
 | n\.d\. | [Beyond the Comfort Zone\: Emerging Solutions to Overcome Challenges in Integrating LLMs into Software Products](<https://www.microsoft.com/en-us/research/publication/beyond-the-comfort-zone-emerging-solutions-to-overcome-challenges-in-integrating-llms-into-software-products/>) | Publication | Official page |
+| n\.d\. | [Benchmarking Long-Horizon Agent Context Compaction with CompactionBench](<https://www.microsoft.com/en-us/research/publication/benchmarking-long-horizon-agent-context-compaction-with-compactionbench/>) | Publication | Official page |
 | n\.d\. | [Benchmarking Clinical Decision Pathway Adherence in Large Language Models](<https://www.microsoft.com/en-us/research/publication/benchmarking-clinical-decision-pathway-adherence-in-large-language-models/>) | Publication | Official page |
 | n\.d\. | [BPQP\: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning](<https://www.microsoft.com/en-us/research/publication/bpqp-a-differentiable-convex-optimization-framework-for-efficient-end-to-end-learning/>) | Publication | Official page |
 | n\.d\. | [Automated Discovery Has No Universally Superior Harness](<https://www.microsoft.com/en-us/research/publication/automated-discovery-has-no-universally-superior-harness/>) | Publication | Official page |
@@ -134,9 +135,11 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑17 | [Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs](<https://arxiv.org/abs/2608.24369>) | Conference paper | OpenAlex |
+| 2026‑10‑17 | [fxBench\: Evaluating and Understanding Formula Suggestions in Spreadsheets](<https://arxiv.org/abs/2610.24729v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [Towards Unified Approaches in Self-Supervised Event Stream Modeling\: Progress and Prospects](<https://doi.org/10.1613/jair.1.21515>) | Article | OpenAlex |
 | 2026‑10‑16 | [Clinical AI in 2025–2026 — Six Themes from the SAIL Year in Review](<https://doi.org/10.1056/aip2600817>) | Article | OpenAlex |
 | 2026‑10‑16 | [Understanding KV Residency in Production-Scale Agentic LLM Workloads](<https://arxiv.org/abs/2610.22863v1>) | Paper | Verified affiliation |
+| 2026‑10‑16 | [SPIDES\: Information-Flow Control for Browser Agents](<https://arxiv.org/abs/2610.24277v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | ["To Boldly Go Where No One Has Gone Before" What Has AI Let Developers Unlock?](<https://arxiv.org/abs/2610.23708v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [FDE-Gym\: The Last Mile of AI Delivery](<https://arxiv.org/abs/2610.22350>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Recursive Reward Improvement via Adversarial Meta-Prompt Evolution](<https://arxiv.org/abs/2610.21040>) | Preprint | OpenAlex |
@@ -213,7 +216,7 @@
 | 2026‑10‑06 | [Learning the electronic health record at the minute-scale](<https://doi.org/10.64898/2026.10.04.26364562>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [DirectSpeech2LLM\: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs](<https://arxiv.org/abs/2610.08085>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://arxiv.org/abs/2610.09085v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑05 | [MiniCorp\: The Last Mile of the AI Agent Firm](<https://huggingface.co/papers/2610.05912>) | Paper | Hugging Face |
+| 2026‑10‑05 | [MiniCorp\: The Last Mile to an AI Agent Corporation](<https://arxiv.org/abs/2610.05912v2>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑10‑05 | [GraphDecisionBench\: Benchmarking System One Models on Graph Tasks](<https://arxiv.org/abs/2610.06354>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Fork-and-Flush\: Escaping Idea Basins in Autoresearch Agents](<https://arxiv.org/abs/2610.07447>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Considering Context\: When World Models Need Context Encoders](<https://arxiv.org/abs/2610.06651>) | Preprint | OpenAlex |
