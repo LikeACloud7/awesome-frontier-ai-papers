@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `356`
+- Papers: `357`
 - Latest: `2026-10-16`
 - [Back to README](../../README.md#anthropic)
 
@@ -36,6 +36,7 @@
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
 | 2026‑10 | [Claude Haiku 5\.5 System Card](<https://www.anthropic.com/claude-haiku-5-5-system-card>) | Model card | Official page |
 | 2026‑09‑30 | [What work can robots do?](<https://www.anthropic.com/research/what-work-can-robots-do>) | Research post | Official page |
+| 2026‑09‑30 | [Conversational AI increases political knowledge as effectively as self-directed internet search](<https://arxiv.org/abs/2509.05219>) | Article | OpenAlex |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
 | 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |
@@ -45,7 +46,6 @@
 | 2026‑09‑24 | [Project Swap\: What happens when agents trade for us?](<https://www.anthropic.com/research/project-swap>) | Research post | Official page |
 | 2026‑09‑23 | [Claude discovers a novel enzyme system with CRISPR-like repeats](<https://www.anthropic.com/research/claude-discovers-novel-enzyme-system>) | Research post | Official page |
 | 2026‑09‑17 | [How Claude is uplifting biomolecular modeling](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) | Research post | Official page |
-| 2026‑09‑17 | [Red-Teaming Auto Mode\: Improving Blocking Classifiers Against Malign Coding Agents](<https://arxiv.org/abs/2609.19587v1>) | Paper | Verified affiliation |
 | 2026‑09‑10 | [Measuring tactical intelligence targeting and conventional weapons capabilities of AI models](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) | Research post | Official page |
 | 2026‑09‑09 | [An alignment assessment of recent cybersecurity incidents](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) | Research post | Official page |
 | 2026‑09‑04 | [Formalizing Fermat's Last Theorem](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) | Research post | Official page |
@@ -171,6 +171,7 @@
 | 2026 | [TASTE\: Can AI Models Judge AI Safety Research Proposals?](<https://alignment.anthropic.com/2026/taste/>) | Research post | Official page |
 | 2026 | [SLEIGHT-Bench\: Finding Blind Spots in AI Monitors](<https://alignment.anthropic.com/2026/sleight-bench/>) | Research post | Official page |
 | 2026 | [Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It](<https://alignment.anthropic.com/2026/graft/>) | Research post | Official page |
+| 2026 | [Red-Teaming Auto Mode\: Improving Blocking Classifiers Against Malign Coding Agents](<https://alignment.anthropic.com/2026/red-teaming-auto-mode/>) | Research post | Verified affiliation, Official page |
 | 2026 | [Pre-deployment auditing can catch an overt saboteur](<https://alignment.anthropic.com/2026/auditing-overt-saboteur/>) | Research post | Official page |
 | 2026 | [Poisoning Fine-tuning Datasets of Constitutional Classifiers](<https://alignment.anthropic.com/2026/backdooring-classifiers/>) | Research post | Official page |
 | 2026 | [Petri 2\.0\: New Scenarios, New Model Comparisons, and Improved Eval-Awareness Mitigations](<https://alignment.anthropic.com/2026/petri-v2/>) | Research post | Official page |

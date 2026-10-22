@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5628`
-- Latest: `2026-10-19`
+- Papers: `5630`
+- Latest: `2026-10-20`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,6 +15,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑20 | [Reliable and Efficient Agentic Protein Design with Toolset Harnessing](<https://doi.org/10.64898/2026.10.19.759896>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Agentic inequality](<https://arxiv.org/abs/2510.16853>) | Article | OpenAlex |
 | 2026‑10‑19 | [Beyond the Scribe\: Using Nominal Group Technique to Co-Design an Evaluation Framework for Patient-Held AI](<https://doi.org/10.64898/2026.10.15.26365669>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [DeepSEA\: A Multilingual Evaluation Benchmark for Southeast Asia](<https://arxiv.org/abs/2610.26155v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [Learning Shallow Quantum Circuits](<https://doi.org/10.1137/24m1689946>) | Article | OpenAlex |
@@ -100,13 +102,13 @@
 | 2026‑10‑03 | [TimeNet\: An Extensible Unified Data Infrastructure for Next-Generation Temporal Foundation Models](<https://arxiv.org/abs/2610.04407>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Improving score-based sampling via affine post-processing](<https://arxiv.org/abs/2610.04773>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks](<https://huggingface.co/papers/2610.03858>) | Paper | Hugging Face, OpenAlex |
+| 2026‑10‑02 | [MLCommons Jailbreak Benchmark v1\.0](<https://arxiv.org/abs/2610.02827v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑02 | [Unlocking Safe Agentic Autonomy through Verification (Keynote)](<https://doi.org/10.1145/3842652.3850234>) | Conference abstract | OpenAlex |
 | 2026‑10‑02 | [The female larval fly CNS connectome\: first draft](<https://doi.org/10.64898/2026.09.28.754924>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [SEER\: Self-Evolving Event Reasoning and Retrieval for Time Series Forecasting](<https://arxiv.org/abs/2610.04109>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Making Videos Accessible for Blind and Low Vision Users Using a Multimodal Agent Video Player](<https://doi.org/10.1145/3776591.3833853>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Inclusive AI\: Rethinking AI-based Multimodal Interaction for Diverse and Underrepresented Users](<https://doi.org/10.1145/3776574.3834740>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [Generalization Bounds for Flow-matching Generative Models for Intrinsically Low-dimensional Data](<https://doi.org/10.48550/arxiv.2610.02663>) | Preprint | OpenAlex |
-| 2026‑10‑02 | [MLCommons Jailbreak Benchmark v1\.0](<https://arxiv.org/abs/2610.02827v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑02 | [Evolutionary Computation for Trustworthy AI\: From Attacks and Defenses to Self-Evolving Era](<https://arxiv.org/abs/2610.02996v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Toward a future space-based, highly scalable AI infrastructure system design](<https://doi.org/10.1016/j.joule.2026.102678>) | Article | OpenAlex |
@@ -1651,7 +1653,7 @@
 | 2026 | [AI-Simulated Expert Panels for Socio-Technical Scenarios and Decision Guidance](<https://research.google/pubs/ai-simulated-expert-panels-for-socio-technical-scenarios-and-decision-guidance/>) | Publication | Official page |
 | 2026 | [AI-PROPELLER\: Warehouse-Scale Inter-Procedural Code Layout Optimization with AlphaEvolve](<https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/>) | Publication | Official page |
 | 2026 | [AI, Identity, and Ethical Governance\: Building Trust in High-Stakes Systems](<https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/>) | Publication | Official page |
-| 2026 | [AI is (not) the new\.\.\."\: A Diagnostic Analogy Framework for Generative AI's Cultural Impacts](<https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/>) | Publication | Official page |
+| 2026 | [AI is (not) the new\.\.\."\: A Diagnostic Analogy Framework for Generative AI's Cultural Impacts](<https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/>) | Publication | Official page, Verified affiliation |
 | 2026 | [AI Driven Verification Architectures - Scaling Formal Sign-off of High Bandwidth Data Crossbars via Generative AI and Required-Proof-Depth (RPD) Synthesis](<https://research.google/pubs/ai-driven-verification-architectures-scaling-formal-sign-off-of-high-bandwidth-data-crossbars-via-generative-ai-and-required-proof-depth-rpd-synthesis/>) | Publication | Official page |
 | 2026 | [AASE\: Activation-Based AI Safety Enforcement via Lightweight Probes](<https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/>) | Publication | Official page, OpenAlex |
 | 2026 | [A2RD\: Agentic Autoregressive Diffusion for Long Video Consistency](<https://research.google/pubs/a2rd-agentic-autoregressive-diffusion-for-long-video-consistency-2/>) | Publication | Official page |

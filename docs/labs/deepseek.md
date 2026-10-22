@@ -43,13 +43,13 @@
 | 2025‑12‑02 | [DeepSeek-V3\.2\: Pushing the Frontier of Open Large Language Models](<https://huggingface.co/papers/2512.02556>) | Technical report | Official page, Hugging Face |
 | 2025‑11‑28 | [DeepSeek-V3\.2\: Efficient Reasoning &amp; Agentic AI](<https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale/blob/main/assets/paper.pdf>) | Technical report | Official repo |
 | 2025‑11‑27 | [DeepSeekMath-V2\: Towards Self-Verifiable Mathematical Reasoning](<https://huggingface.co/papers/2511.22570>) | Technical report | Official page, Hugging Face |
-| 2025‑11‑06 | [Multi-Agent Geophysical AI Workflow for Automated Reservoir Characterization](<https://eartharxiv.org/repository/object/10718/download/19712/>) | Preprint | OpenAlex |
+| 2025‑11‑03 | [Multi-Agent Geophysical AI Workflow for Automated Reservoir Characterization](<https://eartharxiv.org/repository/object/10718/download/19712/>) | Preprint | OpenAlex |
 | 2025‑10‑20 | [DeepSeek-OCR\: Contexts Optical Compression](<https://huggingface.co/papers/2510.18234>) | Technical report | Official page, Hugging Face |
 | 2025‑10‑13 | [The Faiss Library](<https://doi.org/10.1109/tbdata.2025.3618474>) | Article | OpenAlex |
 | 2025‑10‑09 | [China’s emerging regulation toward an open future for AI](<https://doi.org/10.1126/science.ady7922>) | Article | OpenAlex |
 | 2025‑09‑17 | [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](<https://doi.org/10.1038/s41586-025-09422-z>) | Article | OpenAlex |
 | 2025‑05‑14 | [Insights into DeepSeek-V3\: Scaling Challenges and Reflections on Hardware for AI Architectures](<https://huggingface.co/papers/2505.09343>) | Technical report | Official page, OpenAlex, Hugging Face |
-| 2025‑04‑30 | [DeepSeek-Prover-V2\: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](<https://huggingface.co/papers/2504.21801>) | Technical report | Official page, Hugging Face |
+| 2025‑04‑30 | [DeepSeek-Prover-V2\: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](<https://huggingface.co/papers/2504.21801>) | Technical report | Official page, Hugging Face, OpenAlex |
 | 2025‑04‑03 | [Inference-Time Scaling for Generalist Reward Modeling](<https://huggingface.co/papers/2504.02495>) | Technical report | Official page |
 | 2025‑01‑29 | [Janus-Pro\: Unified Multimodal Understanding and Generation with Data and Model Scaling](<https://huggingface.co/papers/2501.17811>) | Technical report | Official page |
 | 2025‑01‑22 | [DeepSeek-R1\: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](<https://huggingface.co/papers/2501.12948>) | Technical report | Official page, Hugging Face |

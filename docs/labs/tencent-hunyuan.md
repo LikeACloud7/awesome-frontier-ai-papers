@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3791`
-- Latest: `2026-10-19`
+- Papers: `3794`
+- Latest: `2026-10-21`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | n\.d\. | [for texture](<https://github.com/Tencent-Hunyuan/Hunyuan3D-2/blob/main/assets/report/Tencent_Hunyuan3D_2_0.pdf>) | Technical report | Official repo |
+| n\.d\. | [DiagSafe](<https://github.com/Tencent-Hunyuan/DiagSafe/blob/main/paper/DiagSafe.pdf>) | Technical report | Official repo |
 | n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [CL-bench family\: A series of benchmarks for Context Learning](<https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-life-paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [modelnameorpath = "tencent/Hunyuan-A13B-Instruct"](<https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf>) | Technical report | Official repo |
@@ -23,6 +24,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [Beyond Binary Labels\: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics](<https://arxiv.org/abs/2610.29225v1>) | Paper | Verified affiliation |
+| 2026‑10‑19 | [Training the Whole Agent, Not Just the Model](<https://huggingface.co/papers/2610.28069>) | Preprint | Official page |
 | 2026‑10‑19 | [Harness Self-Evolution for Long-Horizon Terminal Agents](<https://huggingface.co/papers/2610.27435>) | Preprint | Official page |
 | 2026‑10‑19 | [A randomized trial of supported versus self-fitting over-the-counter hearing aids in older adults](<https://doi.org/10.1038/s41467-026-78833-x>) | Article | OpenAlex |
 | 2026‑10‑15 | [Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning](<https://huggingface.co/papers/2610.23181>) | Preprint | Official page |
@@ -48,8 +51,8 @@
 | 2026‑10‑13 | [Collapse, Repair, and Drift\: Dissecting Fine Tuning Dynamics in Speech Language Models](<https://arxiv.org/abs/2610.18192>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Benchmarking and Training Reward Models for Cross-Source Evidence Grounding in Search Agents](<https://arxiv.org/abs/2610.17827>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [AlignPred\: Error-Controlled KV Cache Compression via Alignment and Predictive Coding](<https://arxiv.org/abs/2610.17970>) | Preprint | OpenAlex |
-| 2026‑10‑12 | [Multics\: Generative Multi-Player World Model with Hierarchical Communication](<https://huggingface.co/papers/2610.17201>) | Paper | Hugging Face |
 | 2026‑10‑12 | [LifeSearch\: Benchmarking Deep Research Agents for Real-World Life and Productivity](<https://huggingface.co/papers/2610.18092>) | Preprint | Official page, Hugging Face, OpenAlex |
+| 2026‑10‑12 | [Multics\: Generative Multi-Player World Model with Hierarchical Communication](<https://huggingface.co/papers/2610.17201>) | Paper | Hugging Face |
 | 2026‑10‑12 | [WeFair\: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search](<https://arxiv.org/abs/2610.16927>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [StageBreaker\: Shifting Video RL Post-Training Scheduling from Stages down to Data Dependencies](<https://arxiv.org/abs/2610.16691>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Self-Distillation with Verbal Regularization](<https://arxiv.org/abs/2610.16354>) | Preprint | OpenAlex |
@@ -2173,11 +2176,11 @@
 | 2025‑01‑01 | [Right Question is Already Half the Answer\: Fully Unsupervised LLM Reasoning Incentivization](<https://huggingface.co/papers/2504.05812>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [POINTS-Reader\: Distillation-Free Adaptation of Vision-Language Models for Document Conversion](<https://huggingface.co/papers/2509.01215>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [MOF-BFN\: Metal-Organic Frameworks Structure Prediction via Bayesian Flow Networks](<https://www.microsoft.com/en-us/research/publication/mof-bfn-metal-organic-frameworks-structure-prediction-via-bayesian-flow-networks/>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [ShapeGPT\: 3D Shape Generation With a Unified Multi-Modal Language Model](<https://doi.org/10.1109/tmm.2025.3535389>) | Article | OpenAlex |
 | 2025‑01‑01 | [Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models](<https://doi.org/10.18653/v1/2025.findings-acl.350>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LTD-Bench\: Evaluating Large Language Models by Letting Them Draw](<https://huggingface.co/papers/2511.02347>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](<https://huggingface.co/papers/2506.01413>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [XMusic\: Towards a Generalized and Controllable Symbolic Music Generation Framework](<https://doi.org/10.1109/tmm.2025.3590912>) | Article | OpenAlex |
-| 2025‑01‑01 | [ShapeGPT\: 3D Shape Generation With a Unified Multi-Modal Language Model](<https://doi.org/10.1109/tmm.2025.3535389>) | Article | OpenAlex |
 | 2025‑01‑01 | [Memory OS of AI Agent](<https://doi.org/10.18653/v1/2025.emnlp-main.1318>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LoRA-Composer\: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models](<https://arxiv.org/abs/2403.11627>) | Article | OpenAlex |
 | 2025‑01‑01 | [OCRBench v2\: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning](<http://arxiv.org/abs/2501.00321>) | Conference paper | OpenAlex |

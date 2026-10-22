@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3657`
-- Latest: `2026-10-17`
+- Papers: `3664`
+- Latest: `2026-10-19`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [Auto-MD-bench\: Evaluating Autoresearch Agents for Real-World Medical Tasks](<https://doi.org/10.48550/arxiv.2610.25069>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [A Bayesian-guided aggregation-disaggregation algorithm for transit planning](<https://doi.org/10.1016/j.trc.2026.106085>) | Article | OpenAlex |
 | 2026‑10‑16 | [ANCHOR\: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark](<https://arxiv.org/abs/2610.22964v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning](<https://arxiv.org/abs/2610.21336>) | Preprint | OpenAlex |
@@ -222,7 +224,6 @@
 | 2026‑09‑04 | [Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines](<https://arxiv.org/abs/2609.04579>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [Distill Globally, Adapt Locally\: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation](<https://arxiv.org/abs/2609.05363>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [Intra-Prompt Parallel Decoding for Common-Context Question Answering](<https://arxiv.org/abs/2609.05707v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑04 | [DI-Bench\: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents](<https://arxiv.org/abs/2609.05776v1>) | Paper | Verified affiliation |
 | 2026‑09‑03 | [Swiss-Knife\: A Framework for Reconfigurable Externalised Multi-Objective Alignment at Decode Time](<https://arxiv.org/abs/2609.22226v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑03 | [B2B Customer Conversion Prediction\: A Document Representation, Graph Theory, and CatBoost Driven Methodology](<https://arxiv.org/abs/2609.03239>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [Toward Frontier-Quality Declarative UI Generation at Small-Model Cost](<https://arxiv.org/abs/2609.04184>) | Preprint | OpenAlex |
@@ -238,7 +239,6 @@
 | 2026‑09‑01 | [Belief-Calibrated Optimization\: An Explicit World Model for Agentic Optimization](<https://arxiv.org/abs/2609.01861v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑08‑29 | [Photographic image layout retrieval via representation learning with adaptive ellipse primitives](<https://doi.org/10.1016/j.patcog.2026.114677>) | Article | OpenAlex |
 | 2026‑08‑29 | [Evaluating teacher-supervised small medical language models for institution-constrained clinical QA](<https://doi.org/10.1016/j.jbi.2026.105095>) | Article | OpenAlex |
-| 2026‑08‑29 | [A Pinch of SFT, A Dash of RL\: When Reinforcement Learning Helps Long-Horizon Advertising Agents](<https://arxiv.org/abs/2609.22194v1>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [QUORUM\: QUality-Optimized Routing Using Multiple annotators](<https://arxiv.org/abs/2608.27974v1>) | Paper | Verified affiliation |
 | 2026‑08‑27 | [EEG Signal Classification Using Fast Fourier Transform and Convolutional Neural Networks\: A Hybrid Deep Learning Approach for Binary Classification of Normal and Abnormal Brain Activity](<https://doi.org/10.35940/ijeat.e4788.15060826>) | Article | OpenAlex |
 | 2026‑08‑27 | [BrailleBench\: Investigating Multi-Criteria Braille Comprehension in Large Language Models](<https://arxiv.org/abs/2608.27268>) | Preprint | OpenAlex |
@@ -910,6 +910,8 @@
 | 2026 | [TritonRL\: Training LLMs to think and code Triton without cheating](<https://www.amazon.science/publications/tritonrl-training-llms-to-think-and-code-triton-without-cheating>) | Publication | Official page |
 | 2026 | [Trie automata for constrained decoding over large finite sets](<https://www.amazon.science/publications/trie-automata-for-constrained-decoding-over-large-finite-sets>) | Publication | Verified affiliation, Official page |
 | 2026 | [Trajectory2Task\: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](<https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents>) | Publication | Official page, OpenAlex |
+| 2026 | [Training-free prefill safety blocking via cross-layer interpretability](<https://www.amazon.science/publications/training-free-prefill-safety-blocking-via-cross-layer-interpretability>) | Publication | Official page |
+| 2026 | [Training-free continual learning for multimodal forecasting via prompt evolution](<https://www.amazon.science/publications/training-free-continual-learning-for-multimodal-forecasting-via-prompt-evolution>) | Publication | Official page |
 | 2026 | [Training large language models to reason in parallel with global forking tokens](<https://www.amazon.science/publications/training-large-language-models-to-reason-in-parallel-with-global-forking-tokens>) | Publication | Official page |
 | 2026 | [Trace\: TRajectory attribution for automated context engineering](<https://www.amazon.science/publications/trace-trajectory-attribution-for-automated-context-engineering>) | Publication | Official page |
 | 2026 | [Towards self-improving error diagnosis in multi-agent systems](<https://www.amazon.science/publications/towards-self-improving-error-diagnosis-in-multi-agent-systems>) | Publication | Official page, OpenAlex |
@@ -934,6 +936,7 @@
 | 2026 | [Super Weights in LLMs and the Failure of Selective Training](<https://arxiv.org/abs/2607.08733>) | Preprint | Official page |
 | 2026 | [Stress tests REVEAL fragile temporal and visual grounding in video-language models](<https://www.amazon.science/publications/stress-tests-reveal-fragile-temporal-and-visual-grounding-in-video-language-models>) | Publication | Official page |
 | 2026 | [Steering large reasoning models towards concise reasoning via flow matching](<https://www.amazon.science/publications/steering-large-reasoning-models-towards-concise-reasoning-via-flow-matching>) | Publication | Official page |
+| 2026 | [Small model, big retrieval\: Unified heterogeneous retrieval via multi-label-aware contrastive fine-tuning](<https://www.amazon.science/publications/small-model-big-retrieval-unified-heterogeneous-retrieval-via-multi-label-aware-contrastive-fine-tuning>) | Publication | Official page |
 | 2026 | [ShopperBench\: A benchmark for personalized shopping with persona-guided simulation](<https://www.amazon.science/publications/shopperbench-a-benchmark-for-personalized-shopping-with-persona-guided-simulation>) | Publication | Official page, OpenAlex |
 | 2026 | [Sequential multimodal evidence optimization for product media ranking in e-commerce](<https://www.amazon.science/publications/sequential-multimodal-evidence-optimization-for-product-media-ranking-in-e-commerce>) | Publication | Official page |
 | 2026 | [SenTSR-Bench\: Thinking with injected knowledge for time-series reasoning](<https://www.amazon.science/publications/sentsr-bench-thinking-with-injected-knowledge-for-time-series-reasoning>) | Publication | Official page, Verified affiliation |
@@ -1064,6 +1067,8 @@
 | 2026 | [From narrow unlearning to emergent misalignment\: Causes, consequences, and containment in LLMs](<https://www.amazon.science/publications/from-narrow-unlearning-to-emergent-misalignment-causes-consequences-and-containment-in-llms>) | Publication | Official page |
 | 2026 | [From frontier to frugal\: Evaluating self-evolution frameworks with small language models](<https://www.amazon.science/publications/from-frontier-to-frugal-evaluating-self-evolution-frameworks-with-small-language-models>) | Publication | Official page |
 | 2026 | [From demo to production\: Generative search lessons from Alexa+](<https://www.amazon.science/publications/from-demo-to-production-generative-search-lessons-from-alexa>) | Publication | Official page |
+| 2026 | [From debate to decision\: Conformal social choice for safe multi-agent deliberation](<https://www.amazon.science/publications/from-debate-to-decision-conformal-social-choice-for-safe-multi-agent-deliberation>) | Publication | Official page |
+| 2026 | [From business metrics to behavioral personas\: Controllable user simulation for pre-deployment agent testing](<https://www.amazon.science/publications/from-business-metrics-to-behavioral-personas-controllable-user-simulation-for-pre-deployment-agent-testing>) | Publication | Official page |
 | 2026 | [Foundation models for sparse, multi-relational risk prediction in global supply chains](<https://www.amazon.science/publications/foundation-models-for-sparse-multi-relational-risk-prediction-in-global-supply-chains>) | Publication | Official page |
 | 2026 | [Formalizing and falsifying causal pathways of rare events](<https://www.amazon.science/publications/formalizing-and-falsifying-causal-pathways-of-rare-events>) | Publication | Official page |
 | 2026 | [Forget to know, remember to use\: Context-aware unlearning for large language models](<https://www.amazon.science/publications/forget-to-know-remember-to-use-context-aware-unlearning-for-large-language-models>) | Publication | Official page |
@@ -1118,6 +1123,7 @@
 | 2026 | [DOT-MoE\: Differentiable optimal transport for MoEfication](<https://www.amazon.science/publications/dot-moe-differentiable-optimal-transport-for-moefication>) | Publication | Official page |
 | 2026 | [DODO\: Discrete OCR diffusion models](<https://www.amazon.science/publications/dodo-discrete-ocr-diffusion-models>) | Publication | Official page |
 | 2026 | [DIRECT\: Directional relevance in conversational trajectories](<https://www.amazon.science/publications/direct-directional-relevance-in-conversational-trajectories>) | Publication | Official page, OpenAlex |
+| 2026 | [DI-Bench\: Systematically generating in-domain data intelligence benchmarks for enterprise agents](<https://www.amazon.science/publications/di-bench-systematically-generating-in-domain-data-intelligence-benchmarks-for-enterprise-agents>) | Publication | Verified affiliation, Official page |
 | 2026 | [DACO\: Dictionary-aligned concept control for safeguarding multimodal LLMs](<https://www.amazon.science/publications/daco-dictionary-aligned-concept-control-for-safeguarding-multimodal-llms>) | Publication | Official page |
 | 2026 | [CultureTalk\: Towards multi-turn cultural competence in large language models](<https://www.amazon.science/publications/culturetalk-towards-multi-turn-cultural-competence-in-large-language-models>) | Publication | Official page |
 | 2026 | [Cross-view fusion for occluded roads inpainting in satellite imagery](<https://www.amazon.science/publications/cross-view-fusion-for-occluded-roads-inpainting-in-satellite-imagery>) | Publication | Official page |
@@ -1186,6 +1192,7 @@
 | 2026 | [APRS\: A unified framework of multi-pricing demand simulation for Amazon device dependent products](<https://www.amazon.science/publications/aprs-a-unified-framework-of-multi-pricing-demand-simulation-for-amazon-device-dependent-products>) | Publication | Official page |
 | 2026 | [A vocabulary for multi-agent automated research systems](<https://www.amazon.science/publications/a-vocabulary-for-multi-agent-automated-research-systems>) | Publication | Official page |
 | 2026 | [A systematic evaluation framework for universal antibody–antigen binding affinity prediction and candidate recommendation](<https://www.amazon.science/publications/a-systematic-evaluation-framework-for-universal-antibody-antigen-binding-affinity-prediction-and-candidate-recommendation>) | Publication | Official page, OpenAlex |
+| 2026 | [A pinch of SFT, a dash of RL\: When reinforcement learning helps long-horizon advertising agents](<https://www.amazon.science/publications/a-pinch-of-sft-a-dash-of-rl-when-reinforcement-learning-helps-long-horizon-advertising-agents>) | Publication | Verified affiliation, Official page |
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](<https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains>) | Publication | Official page, OpenAlex |
 | 2026 | [A first step towards dialog simulation with grounded dialog graphs](<https://www.amazon.science/publications/a-first-step-towards-dialog-simulation-with-grounded-dialog-graphs>) | Publication | Official page, OpenAlex |
 | 2026 | [A comprehensive taxonomy of temporal dimensions in natural language queries](<https://www.amazon.science/publications/a-comprehensive-taxonomy-of-temporal-dimensions-in-natural-language-queries>) | Publication | Official page |

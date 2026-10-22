@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1510`
-- Latest: `2026-10-15`
+- Papers: `1512`
+- Latest: `2026-10-19`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Selection-Based Structured Reasoning\: Toward Efficient Multimodal Search Agents](<https://machinelearning.apple.com/research/selection-structured-reasoning>) | Publication | Official page |
 | 2026‑10‑15 | [Plan or Retrieve First? A Scale Study of Tool Discovery Architectures](<https://machinelearning.apple.com/research/plan-retrieve-tool-discovery>) | Publication | Official page |
 | 2026‑10‑15 | [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](<https://machinelearning.apple.com/research/mlx-distributed-inference>) | Research post | Official page |
@@ -19,6 +20,7 @@
 | 2026‑10‑12 | [Large Language Models for Machine Translation Quality Annotation\: Humans and Models Are Both Challenged](<https://machinelearning.apple.com/research/llm-translation-quality-annotation>) | Publication | Official page |
 | 2026‑10‑11 | [Fewer Bits, More Tries\: Recovering Capability Under Memory Constraints](<https://arxiv.org/abs/2610.15372>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Minions\: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](<https://machinelearning.apple.com/research/distributed-gpu-cloud>) | Publication | Verified affiliation, Official page, OpenAlex |
+| 2026‑10‑09 | [FlippingAGR\: A Flipping Aerial-Ground Robot With Dual-Mode Terrestrial Locomotion](<https://doi.org/10.1109/lra.2026.3742271>) | Article | OpenAlex |
 | 2026‑10‑08 | [Normalizing Trajectory Models](<https://machinelearning.apple.com/research/normalizing-trajectory-models>) | Publication | Official page |
 | 2026‑10‑07 | [ORCA\: Hunting Compositional Failures in Text-to-Image Diffusion](<https://arxiv.org/abs/2610.09841>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Homogenization in Multi-Agent Systems](<https://arxiv.org/abs/2610.09824>) | Preprint | OpenAlex |

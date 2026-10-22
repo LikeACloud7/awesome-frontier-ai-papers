@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `514`
-- Latest: `2026-10-19`
+- Papers: `516`
+- Latest: `2026-10-21`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [Using thousands of AI agents to uncover new leads in biological data](<https://openai.com/index/scaling-ai-research-for-complex-biological-data>) | Research post | Official page |
+| 2026‑10‑21 | [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) | Research post | Official page |
 | 2026‑10‑19 | [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) | Research post | Official page |
 | 2026‑10‑16 | [Distributed AI agents enable comprehensive discovery of biological insights at scale](<https://doi.org/10.64898/2026.10.15.759436>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>) | Research post | Official page |

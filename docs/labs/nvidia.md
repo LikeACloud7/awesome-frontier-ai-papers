@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2104`
+- Papers: `2107`
 - Latest: `2026-10-19`
 - [Back to README](../../README.md#nvidia)
 
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑19 | [Scaling Synthetic Pre-training Data and Evaluation for Indic LLMs](<https://doi.org/10.48550/arxiv.2610.26006>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Malaria Pathogen Detection in Microscopy Images-Transfer Learning Challenges](<https://doi.org/10.1007/978-3-032-10303-1_38>) | Conference paper | OpenAlex |
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
@@ -69,6 +70,7 @@
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Self-Reflection Fine-Tuning\: Enhancing Agent Security against Prompt Injection Attacks from Failure Experience](<https://arxiv.org/abs/2610.04269>) | Preprint | OpenAlex |
+| 2026‑10‑02 | [MLCommons Jailbreak Benchmark v1\.0](<https://arxiv.org/abs/2610.02827v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑02 | [ULTRADISCOVERY\: Abductive Exploration in an Interconnected, Epistemically Open Universe](<https://arxiv.org/abs/2610.03092>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [PIGNN3D\: an accelerated physics-informed graph neural network for 3D thermal field simulation in data centers](<https://doi.org/10.1007/s44267-026-00131-3>) | Article | OpenAlex |
 | 2026‑10‑02 | [Fed-ADApt\: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation](<https://arxiv.org/abs/2610.03474>) | Preprint | OpenAlex |
@@ -364,6 +366,7 @@
 | 2026‑05‑16 | [TriosCompass\: a snakemake workflow for integrated detection of SNVs, indels, STRs, and structural de novo variants in parent–child trios](<https://doi.org/10.1093/bioinformatics/btag319>) | Article | OpenAlex |
 | 2026‑05‑15 | [TensorDual-VQC\: Operator Learning for Scalable and Noise-Robust Variational Quantum Circuits](<https://doi.org/10.21203/rs.3.rs-9591139/v1>) | Preprint | OpenAlex |
 | 2026‑05‑15 | [NOOUGAT Towards Unified Online and Offline Multi-Object Tracking](<https://doi.org/10.1007/s11263-026-02858-4>) | Article | OpenAlex |
+| 2026‑05‑14 | [SANA-WM\: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](<https://arxiv.org/abs/2605.15178>) | Paper | Verified affiliation |
 | 2026‑05‑13 | [Evaluating Self-Supervised Pretraining for Wrist-Worn Physiological Signals in Cardiac Estimation and Gesture Recognition](<https://doi.org/10.1109/chase69719.2026.00038>) | Conference paper | OpenAlex |
 | 2026‑05‑10 | [Workspace Optimization\: How to Train Your Agent](<https://arxiv.org/abs/2605.09650>) | Article | OpenAlex |
 | 2026‑05‑09 | [A graph neural network surrogate model for mesh-based crashworthiness prediction of vehicle panel components](<https://arxiv.org/abs/2503.17386>) | Article | OpenAlex |

@@ -1849,8 +1849,8 @@
 | 2025‑10‑10 | [Thinking with DistilQwen\: A Tale of Four Distilled Reasoning and Reward Model Series](<http://arxiv.org/abs/2511.01354>) | Preprint | OpenAlex |
 | 2025‑10‑10 | [ShapeMoiré\: Channel-Wise Shape-Guided Network for Image Demoiréing](<https://doi.org/10.1145/3748657>) | Article | OpenAlex |
 | 2025‑10‑10 | [MATT-CTR\: Unleashing a Model-Agnostic Test-Time Paradigm for CTR Prediction with Confidence-Guided Inference Paths](<https://arxiv.org/abs/2510.08932>) | Preprint | OpenAlex |
-| 2025‑10‑09 | [DCITNet\: A Temporal Forecasting Scheme for IT Power Demand of Data Center](<https://doi.org/10.1109/tia.2025.3619909>) | Article | OpenAlex |
 | 2025‑10‑09 | [China’s emerging regulation toward an open future for AI](<https://doi.org/10.1126/science.ady7922>) | Article | OpenAlex |
+| 2025‑10‑09 | [DCITNet\: A Temporal Forecasting Scheme for IT Power Demand of Data Center](<https://doi.org/10.1109/tia.2025.3619909>) | Article | OpenAlex |
 | 2025‑10‑09 | [Towards Human-Like Grading\: A Unified LLM-Enhanced Framework for Subjective Question Evaluation](<https://doi.org/10.3233/faia251361>) | Book chapter | OpenAlex |
 | 2025‑10‑09 | [Video-STAR\: Reinforcing Open-Vocabulary Action Recognition with Tools](<https://arxiv.org/abs/2510.08480>) | Preprint | OpenAlex |
 | 2025‑10‑09 | [VAO\: Validation-Aligned Optimization for Cross-Task Generative Auto-Bidding](<http://arxiv.org/abs/2510.07760>) | Preprint | OpenAlex |
