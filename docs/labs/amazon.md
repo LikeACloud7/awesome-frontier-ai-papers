@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3664`
-- Latest: `2026-10-19`
+- Papers: `3668`
+- Latest: `2026-10-21`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,9 +16,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [Machine Learning for Seafloor Diamond Prospectivity](<https://doi.org/10.63929/22020586.2026.1.020>) | Conference abstract | OpenAlex |
+| 2026‑10‑21 | [From Code Scarcity To Verification Scarcity\: The New Bottleneck in Agentic Software Engineering](<https://doi.org/10.1145/3844691.3844693>) | Article | OpenAlex |
 | 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [Auto-MD-bench\: Evaluating Autoresearch Agents for Real-World Medical Tasks](<https://doi.org/10.48550/arxiv.2610.25069>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [A Bayesian-guided aggregation-disaggregation algorithm for transit planning](<https://doi.org/10.1016/j.trc.2026.106085>) | Article | OpenAlex |
+| 2026‑10‑16 | [Language Models Learn to Improve Language Models](<https://arxiv.org/abs/2610.23344>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [ANCHOR\: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark](<https://arxiv.org/abs/2610.22964v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [Ranking and Partitioning of Attention Heads for Sparse and Continual Reinforcement Learning Fine-tuning](<https://arxiv.org/abs/2610.21336>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [PathFM\: Fast Generative Forecasting of Multivariate Trajectories](<https://arxiv.org/abs/2610.22358>) | Preprint | OpenAlex |
@@ -950,6 +953,7 @@
 | 2026 | [Safe and sufficient caching\: Per-request validated evidence reuse for production retrieval-augmented generation](<https://www.amazon.science/publications/safe-and-sufficient-caching-per-request-validated-evidence-reuse-for-production-retrieval-augmented-generation>) | Publication | Official page |
 | 2026 | [SWAN\: Semantic watermarking with abstract meaning representation](<https://www.amazon.science/publications/swan-semantic-watermarking-with-abstract-meaning-representation>) | Publication | Official page, OpenAlex |
 | 2026 | [SQL-Trail\: multi-turn reinforcement learning with interleaved feedback for text-to-SQL](<https://www.amazon.science/publications/sql-trail-multi-turn-reinforcement-learning-with-interleaved-feedback-for-text-to-sql>) | Publication | Official page, OpenAlex |
+| 2026 | [SPANUQ\: Span-level uncertainty quantification for large language model generation](<https://www.amazon.science/publications/spanuq-span-level-uncertainty-quantification-for-large-language-model-generation>) | Publication | Official page |
 | 2026 | [SELENE\: Selective and evidence-weighted LLM debating for efficient and reliable reasoning](<https://www.amazon.science/publications/selene-selective-and-evidence-weighted-llm-debating-for-efficient-and-reliable-reasoning>) | Publication | Official page, OpenAlex |
 | 2026 | [SALT\: Step-level advantage assignment for long-horizon agents via trajectory graph](<https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph>) | Publication | Official page, OpenAlex |
 | 2026 | [SAGE\: Semantic ambiguity gate](<https://www.amazon.science/publications/sage-semantic-ambiguity-gate>) | Publication | Official page |

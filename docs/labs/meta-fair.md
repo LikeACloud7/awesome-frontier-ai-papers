@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1880`
+- Papers: `1882`
 - Latest: `2026-10-20`
 - [Back to README](../../README.md#metafair)
 
@@ -25,6 +25,7 @@
 | n\.d\. | [This repo is deprecated\.](<https://github.com/facebookresearch/dynabench/blob/main/frontends/web/public/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [The Differentiable Cross-Entropy Method](<https://github.com/facebookresearch/dcem/blob/main/paper/images/cartpole/all-convergence.pdf>) | Technical report | Official repo |
 | n\.d\. | [TextVQA Website](<https://github.com/facebookresearch/TextVQA/blob/main/frontend/public/assets/paper/TextVQA.pdf>) | Technical report | Official repo |
+| n\.d\. | [SecPriv](<https://github.com/facebookresearch/secpriv-skill/blob/main/paper/response_letter.pdf>) | Technical report | Official repo |
 | n\.d\. | [SWEET-RL\: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](<https://github.com/facebookresearch/sweet_rl/blob/main/paper_teaser.pdf>) | Technical report | Official repo |
 | n\.d\. | [Pando](<https://github.com/facebookresearch/pando/blob/main/third-party/hdf5/hdf5/test/POSIX_Order_Write_Test_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [PCS (Private Computation Solutions)](<https://github.com/facebookresearch/fbpcs/blob/main/docs/security_reviews/NCC_Group_MetaPlatformsInc_E004159_DLOE_Report_2022-08-05_DLOE-Multi-Key-Private-ID.pdf>) | Technical report | Official repo |
@@ -45,6 +46,7 @@
 | 2026‑10‑20 | [Learning to Program Retrievals\: Composing Search Primitives via Reinforcement Learning](<https://ai.meta.com/research/publications/learning-to-program-retrievals-composing-search-primitives-via-reinforcement-learning/>) | Publication | Official page |
 | 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
 | 2026‑10‑18 | [Abstract A158\: Racial and ethnic variation in conversion from actionable Guardant360 results to matched targeted therapy in non–small cell lung cancer\: A real-world analysis](<https://doi.org/10.1158/1538-7755.disp26-a158>) | Conference abstract | OpenAlex |
+| 2026‑10‑16 | [Predictable Scaling\: Efficient Model Exploration via Scaling-Law Prediction](<https://arxiv.org/abs/2610.23453>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
 | 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page, OpenAlex |

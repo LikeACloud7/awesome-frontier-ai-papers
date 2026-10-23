@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5630`
-- Latest: `2026-10-20`
+- Papers: `5640`
+- Latest: `2026-10-22`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,11 +15,20 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
+| 2026‑10‑21 | [Global forest typology at 10-meter resolution for forest and land-use monitoring](<https://doi.org/10.1038/s41597-026-08299-5>) | Data paper | OpenAlex |
 | 2026‑10‑20 | [Reliable and Efficient Agentic Protein Design with Toolset Harnessing](<https://doi.org/10.64898/2026.10.19.759896>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Agentic inequality](<https://arxiv.org/abs/2510.16853>) | Article | OpenAlex |
+| 2026‑10‑20 | [CALLIOPE\: Private Insights into AI Use, Without Embeddings](<https://arxiv.org/abs/2610.28797v1>) | Paper | Verified affiliation |
 | 2026‑10‑19 | [Beyond the Scribe\: Using Nominal Group Technique to Co-Design an Evaluation Framework for Patient-Held AI](<https://doi.org/10.64898/2026.10.15.26365669>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models](<https://arxiv.org/abs/2610.27123v1>) | Paper | Verified affiliation |
 | 2026‑10‑19 | [DeepSEA\: A Multilingual Evaluation Benchmark for Southeast Asia](<https://arxiv.org/abs/2610.26155v1>) | Paper | Verified affiliation |
+| 2026‑10‑16 | [Proportionality in Ranking Compression](<https://arxiv.org/abs/2610.23193>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [Leveraging verifiable structure in quantum circuits to find more efficient compilations with agentic AI](<https://arxiv.org/abs/2610.23832>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Learning Shallow Quantum Circuits](<https://doi.org/10.1137/24m1689946>) | Article | OpenAlex |
+| 2026‑10‑16 | [JAXtari\: High-Throughput and Easy-to-Modify Arcade Learning Environment](<https://arxiv.org/abs/2610.23650>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [Humanity's Last Choice\: A Common Evaluation Standard for Generative Engine Optimization](<https://arxiv.org/abs/2610.23541>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days](<https://doi.org/10.64898/2026.10.15.759184>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Towards Continual Learning\: Mitigating Forgetting With Subspace Tuning](<https://arxiv.org/abs/2610.22293>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [SHIP\: Structured and Hierarchical Insight with Privacy](<https://arxiv.org/abs/2610.21048>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [JevAgentHarness\: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs](<https://arxiv.org/abs/2610.21412>) | Preprint | OpenAlex |
@@ -55,11 +64,11 @@
 | 2026‑10‑11 | [Fast K-NN Graph Building with Quantized PiPNN and Filtering](<https://doi.org/10.1007/978-3-032-42224-8_38>) | Conference paper | OpenAlex |
 | 2026‑10‑11 | [CompanionSim\: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships](<https://arxiv.org/abs/2609.00250>) | Conference paper | OpenAlex |
 | 2026‑10‑10 | [Harmony Harness\: Multi-Objective Self-Evolution of Agent Harnesses](<https://arxiv.org/abs/2610.15150>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [Harness^2\: Recursive Agent Harnessing for an Open World](<https://arxiv.org/abs/2610.14224>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Women's Health as Cooperative Work\: Participatory AI Across Care, Community, and Policy](<https://doi.org/10.1145/3785651.3818821>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [Training User Simulators with Latent Intrinsic Feedback](<https://arxiv.org/abs/2610.13617>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [TheoPhysEval\: Assessing AI agents at autonomous theoretical physics problem solving](<https://arxiv.org/abs/2610.16733>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Rationally Linearized MLPs](<https://doi.org/10.48550/arxiv.2610.13568>) | Preprint | OpenAlex |
-| 2026‑10‑09 | [Harness^2\: Recursive Agent Harnessing for an Open World](<https://arxiv.org/abs/2610.14224>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [GeoFix\: Geometry Fixing for 4D Consistent Generation](<https://arxiv.org/abs/2610.14293>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Disentangling Task-Relevant Latent Dynamics for Reward Modeling](<https://arxiv.org/abs/2610.14159>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [OpenSocialJax\: Evaluating Social Adaptation in Sequential Social Dilemmas with Open-Ended Environmental Dynamics](<https://arxiv.org/abs/2610.13710v1>) | Paper | Verified affiliation, OpenAlex |
@@ -98,6 +107,7 @@
 | 2026‑10‑05 | [Golod--Shafarevich for arithmetic surfaces](<https://arxiv.org/abs/2610.06461v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑05 | [Catching Developers in the Flow\: Low-Latency Agentic Program Repair at Google Scale](<https://arxiv.org/abs/2610.07289v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑04 | [Cut Binary Cross Entropy\: Efficient Large-Vocabulary Loss and Gradient Kernels for Sequential Recommendation](<https://arxiv.org/abs/2610.05559>) | Preprint | OpenAlex |
+| 2026‑10‑04 | [SEA-LM\: Egocentric Spatial Audio Understanding for Wearable Microphone Arrays](<https://arxiv.org/abs/2610.05610v2>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [TimeNet\: An Extensible Unified Data Infrastructure for Next-Generation Temporal Foundation Models](<https://arxiv.org/abs/2610.04407>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Improving score-based sampling via affine post-processing](<https://arxiv.org/abs/2610.04773>) | Preprint | OpenAlex |
@@ -183,7 +193,6 @@
 | 2026‑09‑25 | [Generalizing equilibrium propagation to Lagrangian systems with arbitrary boundary conditions &amp; equivalence with Hamiltonian echo learning](<https://doi.org/10.1088/2634-4386/aeac80>) | Article | OpenAlex |
 | 2026‑09‑25 | [AI and the Future of Accessible Work](<https://doi.org/10.1145/3799433>) | Article | OpenAlex |
 | 2026‑09‑25 | [A Framework for Value-Aligned Modeling and Robust Experimentation](<https://doi.org/10.1145/3773078.3831893>) | Conference paper | OpenAlex |
-| 2026‑09‑25 | [Words Speak Louder Than Order\: A Behavioral Evaluation of Gemma 4](<https://arxiv.org/abs/2609.30716v1>) | Paper | Verified affiliation |
 | 2026‑09‑25 | [Agentic Economies for Autonomous Scientific Discovery](<https://arxiv.org/abs/2609.31562v1>) | Paper | Verified affiliation |
 | 2026‑09‑24 | [Gemini 3\.8 Audio (Live, Live Extended Thinking, Flash TTS, Flash-Lite TTS) Model Card](<https://deepmind.google/models/model-cards/gemini-3-8-audio/>) | Model card | Official page |
 | 2026‑09‑24 | [Working with Agentic \`Teammates'\: When a New Organizational Actor Collides with the Human Ecosystem of Work](<https://arxiv.org/abs/2609.29901>) | Preprint | OpenAlex |
@@ -1443,6 +1452,7 @@
 | 2026 | [“ Catching lightning in a bottle”\: How Blind or Low Vision Creators Navigate Ideation Across Creative Domains](<https://research.google/pubs/catching-lightning-in-a-bottle-how-blind-or-low-vision-creators-navigate-ideation-across-creative-domains/>) | Publication | Official page |
 | 2026 | [XProf\: An Open, Scalable and Extensible Profiling System for the Modern ML Stack](<https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/>) | Publication | Official page |
 | 2026 | [XMob\: Accelerated Differentiable Mesoscopic Traffic Simulation in JAX](<https://research.google/pubs/xmob-accelerated-differentiable-mesoscopic-traffic-simulation-in-jax/>) | Publication | Official page |
+| 2026 | [Words Speak Louder Than Order\: A Behavioral Evaluation of Gemma 4](<https://research.google/pubs/words-speak-louder-than-order-a-behavioral-evaluation-of-gemma-4/>) | Publication | Verified affiliation, Official page |
 | 2026 | [Window Size Versus Accuracy Experiments in Voice Activity Detectors](<https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/>) | Publication | Official page |
 | 2026 | [Who Controls the Curriculum for AI? The Limits of Participatory Design for Educational AI](<https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/>) | Publication | Official page |
 | 2026 | [When “Correct” Is Not Safe\: Can We Trust Functionally Correct Patches Generated by Code Agents?](<https://research.google/pubs/when-correct-is-not-safe-can-we-trust-functionally-correct-patches-generated-by-code-agents-2/>) | Publication | Official page, OpenAlex |

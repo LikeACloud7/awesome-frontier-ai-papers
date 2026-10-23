@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `357`
+- Papers: `359`
 - Latest: `2026-10-16`
 - [Back to README](../../README.md#anthropic)
 
@@ -39,6 +39,7 @@
 | 2026‑09‑30 | [Conversational AI increases political knowledge as effectively as self-directed internet search](<https://arxiv.org/abs/2509.05219>) | Article | OpenAlex |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
+| 2026‑09‑29 | [Constitutional adapters\: Inference-time interventions for misalignment and misuse](<https://arxiv.org/abs/2609.36657>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑28 | [Steering Language Model Goals with Value Transplant](<https://arxiv.org/abs/2609.34056v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [When Do Models Admit They Are Wrong? Failure Disclosure Is Unstable Under Reinforcement Learning](<https://arxiv.org/abs/2609.33220>) | Preprint | OpenAlex |
@@ -350,6 +351,7 @@
 | 2024‑07‑05 | [Spontaneous Reward Hacking in Iterative Self-Refinement](<http://arxiv.org/abs/2407.04549>) | Preprint | OpenAlex |
 | 2024‑06‑28 | [Circuits Updates – June 2024](<https://www.anthropic.com/research/circuits-updates-june-2024>) | Research post | Official page |
 | 2024‑06‑21 | [Steering Without Side Effects\: Improving Post-Deployment Control of Language Models](<http://arxiv.org/abs/2406.15518>) | Preprint | OpenAlex |
+| 2024‑06‑17 | [Refusal in Language Models Is Mediated by a Single Direction](<https://arxiv.org/abs/2406.11717>) | Paper | Verified affiliation |
 | 2024‑06‑16 | [Patch2Self2\: Self-Supervised Denoising on Coresets via Matrix Sketching](<https://doi.org/10.1109/cvpr52733.2024.02610>) | Conference paper | OpenAlex |
 | 2024‑06‑13 | [The engineering challenges of scaling interpretability](<https://www.anthropic.com/research/engineering-challenges-interpretability>) | Research post | Official page |
 | 2024‑06‑08 | [Claude’s Character](<https://www.anthropic.com/research/claude-character>) | Research post | Official page |

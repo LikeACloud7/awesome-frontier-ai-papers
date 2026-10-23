@@ -1,8 +1,8 @@
 # Z\.ai/Zhipu Papers
 
 - Region: `China`
-- Papers: `140`
-- Latest: `2026-10-14`
+- Papers: `145`
+- Latest: `2026-10-16`
 - [Back to README](../../README.md#zaizhipu)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑16 | [WebCoder\: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.23104v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Can Visual Generation Expand What Unified Multimodal Models Know?](<https://huggingface.co/papers/2610.21459>) | Preprint | Official page |
 | 2026‑09‑30 | [GFD-OPD\: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales](<https://arxiv.org/abs/2609.39692>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [ScopeIF\: Improving Scope-Aware Precise Instruction-Following in Large Language Models via Graded Reward Modeling](<https://arxiv.org/abs/2609.32189v1>) | Paper | Verified affiliation, OpenAlex |
@@ -24,6 +25,7 @@
 | 2026‑09‑17 | [Automated Evaluation Methods for Open-Ended Question in Hydropower Domain Based on Large Language Models](<https://doi.org/10.1007/978-3-032-32237-1_22>) | Conference paper | OpenAlex |
 | 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑06 | [Grounding large language models in hydrologic modelling](<https://doi.org/10.1016/j.jhydrol.2026.136358>) | Article | OpenAlex |
+| 2026‑09‑01 | [From Base Rollouts to RL Reasoning\: A Budgeted Search Perspective](<https://arxiv.org/abs/2609.01274>) | Preprint | OpenAlex |
 | 2026‑08‑28 | [DFGLM-TCM\: an integrated knowledge-and experience-driven large language model system for Traditional Chinese Medicine practice](<https://doi.org/10.1186/s13020-026-01512-y>) | Article | OpenAlex |
 | 2026‑08‑22 | [Towards Lightweight and Accurate Remote-Sensing Image Super-Resolution via Reparameterized Feature Enhancement Network](<https://doi.org/10.3390/rs18172850>) | Article | OpenAlex |
 | 2026‑07‑07 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](<https://huggingface.co/papers/2607.07508>) | Preprint | Official page |
@@ -54,6 +56,7 @@
 | 2026‑02‑11 | [ResWorld\: Temporal Residual World Model for End-to-End Autonomous Driving](<http://arxiv.org/abs/2602.10884>) | Preprint | OpenAlex |
 | 2026‑01‑29 | [Augmenting Large Language Model With Prompt Engineering and Supervised Fine-Tuning in Non-Small Cell Lung Cancer Tumor-Node-Metastasis Staging\: Framework Development and Validation](<https://doi.org/10.2196/77988>) | Article | OpenAlex |
 | 2026‑01‑01 | [Chaining the Evidence\: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](<https://huggingface.co/papers/2601.06021>) | Technical report | Official page, OpenAlex |
+| 2026‑01‑01 | [Beyond Literal Mapping\: Benchmarking and Improving Non-Literal Translation Evaluation](<https://doi.org/10.48550/arxiv.2601.07338>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Towards Transparent and Efficient Anomaly Detection in Industrial Processes through ExIFFI](<http://arxiv.org/abs/2405.01158>) | Article | OpenAlex |
 | 2026‑01‑01 | [Text-IRSTD\: Leveraging Fuzzy Text to Promote Infrared Small Target Detection in Complex Scenes](<https://doi.org/10.1109/tgrs.2026.3727675>) | Article | OpenAlex |
 | 2026‑01‑01 | [IF-RewardBench\: Benchmarking Judge Models for Instruction-Following Evaluation](<https://doi.org/10.48550/arxiv.2603.04738>) | Preprint | OpenAlex |
@@ -61,7 +64,6 @@
 | 2026‑01‑01 | [Generative Retrieval for Unsupervised Text-Based Person Search](<https://arxiv.org/abs/2609.12965>) | Article | OpenAlex |
 | 2026‑01‑01 | [Convenience or Intrusion? Investigating Users’ Acceptance and Boundary Perception of Proactive AI Agents in Daily Living](<https://doi.org/10.1109/access.2026.3708364>) | Article | OpenAlex |
 | 2026‑01‑01 | [CL2GEC\: A Multi-Discipline Benchmark for Continual Learning in Chinese Literature Grammatical Error Correction](<http://arxiv.org/abs/2509.13672>) | Conference paper | OpenAlex |
-| 2026‑01‑01 | [Beyond Literal Mapping\: Benchmarking and Improving Non-Literal Translation Evaluation](<https://doi.org/10.48550/arxiv.2601.07338>) | Preprint | OpenAlex |
 
 ## 2025
 
@@ -70,6 +72,7 @@
 | 2025‑12‑16 | [GLM-TTS Technical Report](<https://arxiv.org/abs/2512.14291>) | Paper | Verified affiliation |
 | 2025‑12‑05 | [SCAIL\: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations](<https://huggingface.co/papers/2512.05905>) | Technical report | Official page |
 | 2025‑12‑05 | [Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability](<https://arxiv.org/abs/2512.05394>) | Paper | Verified affiliation, OpenAlex |
+| 2025‑12‑03 | [Evaluating Hydro-Science and Engineering Knowledge of Large Language Models](<http://arxiv.org/abs/2512.03672>) | Preprint | OpenAlex |
 | 2025‑11‑13 | [Generalizing Graph Transformers Across Diverse Graphs and Tasks via Pre-Training](<https://doi.org/10.1109/tkde.2025.3632394>) | Article | OpenAlex |
 | 2025‑11‑13 | [Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification](<https://arxiv.org/abs/2511.09933v1>) | Paper | Verified affiliation |
 | 2025‑11‑11 | [UI2Code^N\: UI-to-Code Generation as Interactive Visual Optimization](<https://arxiv.org/abs/2511.08195>) | Paper | Verified affiliation |
@@ -78,11 +81,11 @@
 | 2025‑10‑25 | [JPS\: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering](<http://arxiv.org/abs/2508.05087>) | Conference paper | OpenAlex |
 | 2025‑10‑21 | [Kaleido\: Open-Sourced Multi-Subject Reference Video Generation Model](<https://arxiv.org/abs/2510.18573>) | Paper | Verified affiliation |
 | 2025‑10‑20 | [Glyph\: Scaling Context Windows via Visual-Text Compression](<https://arxiv.org/abs/2510.17800>) | Paper | Verified affiliation, OpenAlex |
-| 2025‑10‑19 | [OmniCache\: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models](<https://doi.org/10.1109/iccv51701.2025.01513>) | Conference paper | OpenAlex |
 | 2025‑10‑19 | [VPO\: Aligning Text-to-Video Generation Models with Prompt Optimization](<http://arxiv.org/abs/2503.20491>) | Conference paper | OpenAlex |
+| 2025‑10‑19 | [OmniCache\: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models](<https://doi.org/10.1109/iccv51701.2025.01513>) | Conference paper | OpenAlex |
 | 2025‑10‑13 | [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](<https://huggingface.co/papers/2510.11683>) | Technical report | Official page |
-| 2025‑10‑01 | [Knowledge Graph-based Recommendation via Generative Denoising and Multi-Level Contrastive Learning](<https://doi.org/10.3724/2096-7004.di.2025.0099>) | Article | OpenAlex |
 | 2025‑10‑01 | [DKGFN\: Deep Knowledge Graph Fusion Network for Recommendation](<https://doi.org/10.3724/2096-7004.di.2025.0100>) | Article | OpenAlex |
+| 2025‑10‑01 | [Knowledge Graph-based Recommendation via Generative Denoising and Multi-Level Contrastive Learning](<https://doi.org/10.3724/2096-7004.di.2025.0099>) | Article | OpenAlex |
 | 2025‑09‑26 | [SHAKE-GNN\: Scalable Hierarchical Kirchhoff-Forest Graph Neural Network](<https://arxiv.org/abs/2509.22100v2>) | Paper | Verified affiliation |
 | 2025‑09‑06 | [An efficient two-stage computing method for large-scale research interest mining](<https://doi.org/10.1016/j.future.2025.108117>) | Article | OpenAlex |
 | 2025‑08‑19 | [ComputerRL\: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents](<http://arxiv.org/abs/2508.14040>) | Preprint | OpenAlex |
@@ -97,6 +100,7 @@
 | 2025‑06‑01 | [A review on synergizing knowledge graphs and large language models](<https://doi.org/10.1007/s00607-025-01499-8>) | Review | OpenAlex |
 | 2025‑05‑22 | [AGENTIF\: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](<http://arxiv.org/abs/2505.16944>) | Preprint | OpenAlex |
 | 2025‑04‑29 | [Cyber Security Framework for AI-Enabled Robotics and Drone Systems](<https://doi.org/10.4018/979-8-3373-0583-7.ch009>) | Book chapter | OpenAlex |
+| 2025‑04‑23 | [Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution](<http://arxiv.org/abs/2504.16563>) | Preprint | OpenAlex |
 | 2025‑04‑22 | [Ask, Acquire, Understand\: A Multimodal Agent-based Framework for Social Abuse Detection in Memes](<https://doi.org/10.1145/3696410.3714895>) | Conference paper | OpenAlex |
 | 2025‑04‑18 | [WebGLM\: Towards an Efficient and Reliable Web-Enhanced Question-Answering System](<https://doi.org/10.1145/3729421>) | Article | OpenAlex |
 | 2025‑04‑04 | [SoAy\: A Solution-based LLM API-using Methodology for Academic Information Seeking](<http://arxiv.org/abs/2405.15165>) | Conference paper | OpenAlex |
@@ -106,10 +110,10 @@
 | 2025‑01‑06 | [MotionBench\: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models](<https://arxiv.org/abs/2501.02955>) | Paper | OpenAlex, Verified affiliation |
 | 2025‑01‑01 | [A Survey of Post-Training Scaling in Large Language Models](<https://doi.org/10.18653/v1/2025.acl-long.140>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [HPSS\: Heuristic Prompting Strategy Search for LLM Evaluators](<https://doi.org/10.18653/v1/2025.findings-acl.1282>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Training Language Model to Critique for Better Refinement](<https://doi.org/10.18653/v1/2025.findings-acl.1373>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [AndroidGen\: Building an Android Language Agent under Data Scarcity](<https://doi.org/10.18653/v1/2025.acl-long.138>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [MHALO\: Evaluating MLLMs as Fine-grained Hallucination Detectors](<https://doi.org/10.18653/v1/2025.findings-acl.478>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Training Language Model to Critique for Better Refinement](<https://doi.org/10.18653/v1/2025.findings-acl.1373>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [AGENTIF\: Benchmarking Large Language Models Instruction Following Ability in Agentic Scenarios](<https://doi.org/10.52202/085713-1892>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [MHALO\: Evaluating MLLMs as Fine-grained Hallucination Detectors](<https://doi.org/10.18653/v1/2025.findings-acl.478>) | Conference paper | OpenAlex |
 
 ## 2024
 
@@ -145,6 +149,7 @@
 | 2024‑06‑24 | [AutoDetect\: Towards a Unified Framework for Automated Weakness Detection in Large Language Models](<http://arxiv.org/abs/2406.16714>) | Preprint | OpenAlex |
 | 2024‑06‑21 | [SpreadsheetBench\: Towards Challenging Real World Spreadsheet Manipulation](<http://arxiv.org/abs/2406.14991>) | Preprint | OpenAlex |
 | 2024‑06‑18 | [ChatGLM\: A Family of Large Language Models from GLM-130B to GLM-4 All Tools](<https://huggingface.co/papers/2406.12793>) | Paper | Hugging Face |
+| 2024‑06‑17 | [SampleAttention\: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention](<http://arxiv.org/abs/2406.15486>) | Preprint | OpenAlex |
 | 2024‑06‑16 | [CogAgent\: A Visual Language Model for GUI Agents](<https://doi.org/10.1109/cvpr52733.2024.01354>) | Article | OpenAlex |
 | 2024‑06‑12 | [LVBench\: An Extreme Long Video Understanding Benchmark](<https://arxiv.org/abs/2406.08035>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑05‑12 | [Event GDR\: Event-Centric Generative Document Retrieval](<https://doi.org/10.1145/3589335.3651500>) | Conference paper | OpenAlex |
@@ -154,13 +159,13 @@
 | 2024‑02‑06 | [CogCoM\: A Visual Language Model with Chain-of-Manipulations Reasoning](<https://arxiv.org/abs/2402.04236>) | Paper | Verified affiliation |
 | 2024‑01‑15 | [SciInstruct\: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models](<http://arxiv.org/abs/2401.07950>) | Preprint | OpenAlex |
 | 2024‑01‑12 | [APAR\: LLMs Can Do Auto-Parallel Auto-Regressive Decoding](<https://arxiv.org/abs/2401.06761>) | Paper | Verified affiliation, OpenAlex |
-| 2024‑01‑01 | [AgentTuning\: Enabling Generalized Agent Abilities for LLMs](<https://doi.org/10.18653/v1/2024.findings-acl.181>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [LongRAG\: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering](<http://arxiv.org/abs/2410.18050>) | Preprint | OpenAlex |
+| 2024‑01‑01 | [AgentTuning\: Enabling Generalized Agent Abilities for LLMs](<https://doi.org/10.18653/v1/2024.findings-acl.181>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Black-Box Prompt Optimization\: Aligning Large Language Models without Model Training](<https://doi.org/10.18653/v1/2024.acl-long.176>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [CogView3\: Finer and Faster Text-to-Image Generation via Relay Diffusion](<https://arxiv.org/abs/2403.05121>) | Paper | OpenAlex, Verified affiliation |
 | 2024‑01‑01 | [AlignBench\: Benchmarking Chinese Alignment of Large Language Models](<https://doi.org/10.18653/v1/2024.acl-long.624>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [ChatGLM-Math\: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline](<https://doi.org/10.18653/v1/2024.findings-emnlp.569>) | Conference paper | OpenAlex |
-| 2024‑01‑01 | [CritiqueLLM\: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation](<https://doi.org/10.18653/v1/2024.acl-long.704>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [CharacterGLM\: Customizing Social Characters with Large Language Models](<https://doi.org/10.18653/v1/2024.emnlp-industry.107>) | Conference paper | OpenAlex |
+| 2024‑01‑01 | [CritiqueLLM\: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation](<https://doi.org/10.18653/v1/2024.acl-long.704>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [LongAlign\: A Recipe for Long Context Alignment of Large Language Models](<https://arxiv.org/abs/2401.18058>) | Paper | Verified affiliation, OpenAlex |
 | 2024‑01‑01 | [A Stacking Ensemble Learning Model for Online Estimation of Lithium Battery Health Status Based on Gappy POD Algorithm](<https://doi.org/10.2139/ssrn.4753783>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3894`
-- Latest: `2026-10-16`
+- Papers: `3899`
+- Latest: `2026-10-21`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [Beyond Watching and Searching\: Benchmarking Agents for Video-centered Deep Research Reports](<https://huggingface.co/papers/2610.31158>) | Preprint | Official page |
+| 2026‑10‑16 | [ToPA\: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](<https://arxiv.org/abs/2610.22883>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [ShadowFPT\: Backdooring Federated Prompt Tuning via Shadow Triggers](<https://arxiv.org/abs/2610.22871>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [Sep-Latent\: Separator Tokens as Natural Compression Anchors for Implicit Reasoning](<https://arxiv.org/abs/2610.22924>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [GR-OPD\: Group-Relative Sequence Credit for On-Policy Distillation](<https://arxiv.org/abs/2610.23042>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [MultiAgent-OPD\: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](<https://arxiv.org/abs/2610.23234v1>) | Paper | Verified affiliation |
 | 2026‑10‑15 | [Waypoint-OPD\: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](<https://arxiv.org/abs/2610.21601>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models](<https://arxiv.org/abs/2610.22217>) | Preprint | OpenAlex |
