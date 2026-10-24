@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1512`
+- Papers: `1514`
 - Latest: `2026-10-19`
 - [Back to README](../../README.md#apple)
 
@@ -10,6 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [Latent World Models Should Plan with Distances Along the Latent Manifold](<https://arxiv.org/abs/2610.25013>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Selection-Based Structured Reasoning\: Toward Efficient Multimodal Search Agents](<https://machinelearning.apple.com/research/selection-structured-reasoning>) | Publication | Official page |
 | 2026‑10‑15 | [Plan or Retrieve First? A Scale Study of Tool Discovery Architectures](<https://machinelearning.apple.com/research/plan-retrieve-tool-discovery>) | Publication | Official page |
 | 2026‑10‑15 | [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](<https://machinelearning.apple.com/research/mlx-distributed-inference>) | Research post | Official page |
@@ -37,6 +38,7 @@
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page, Verified affiliation |
 | 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://arxiv.org/abs/2609.36678>) | Preprint | OpenAlex |
+| 2026‑09‑29 | [A Bifurcation-Based Domain Decomposition Method with Neural Operators for Blood Flow Simulation](<https://arxiv.org/abs/2610.02238>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [On Trajectory-Aware Training for Masked Diffusion Language Models](<https://arxiv.org/abs/2609.37974v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [KV-Kaizen\: Learning Context-Adaptive Cache Compression Choices](<https://arxiv.org/abs/2609.37988v2>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Cartridges++\: KV Cache Compression without Off-Context Derailment](<https://arxiv.org/abs/2609.35621v1>) | Paper | Verified affiliation |

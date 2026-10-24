@@ -1,5 +1,5 @@
 {
-  "next_lab": 13,
+  "next_lab": 14,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-10-11",
@@ -67,7 +67,7 @@
       "since": "2024-01-01"
     },
     "ByteDance/Seed": {
-      "last_attempt": "2026-10-05",
+      "last_attempt": "2026-10-24",
       "status": "partial",
       "since": "2024-01-01"
     },

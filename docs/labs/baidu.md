@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1113`
+- Papers: `1115`
 - Latest: `2026-10-20`
 - [Back to README](../../README.md#baidu)
 
@@ -9,9 +9,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑10‑20 | [From Tokens to Files\: Multi-Granularity Detection and Localization of AI-Involved Code](<https://arxiv.org/abs/2610.27863v1>) | Paper | Verified affiliation |
+| 2026‑10‑20 | [From Tokens to Files\: Multi-Granularity Detection and Localization of AI-Involved Code](<https://arxiv.org/abs/2610.27863v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑19 | [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [Intra-Rubric Reward Divergence\: Mitigating Rubric Hacking through Latent Dimension Recovery and Balancing](<https://arxiv.org/abs/2610.26685>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [A Multi-task Model for Long-Term Active Days Prediction](<https://doi.org/10.1007/978-981-92-6913-6_25>) | Conference paper | OpenAlex |
-| 2026‑10‑19 | [Vision-Language-Delta-Action\: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](<https://arxiv.org/abs/2610.25874v1>) | Paper | Verified affiliation |
+| 2026‑10‑19 | [Vision-Language-Delta-Action\: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](<https://arxiv.org/abs/2610.25874v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [Trojan Horse\: Automated Repository Poisoning against Coding Agents](<https://arxiv.org/abs/2610.23109>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [SkyAgent\: Revisable Target Memory for Continuous Aerial Search](<https://arxiv.org/abs/2610.23293>) | Preprint | OpenAlex |

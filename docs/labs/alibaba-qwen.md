@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3899`
+- Papers: `3909`
 - Latest: `2026-10-21`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -20,6 +20,15 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑21 | [Beyond Watching and Searching\: Benchmarking Agents for Video-centered Deep Research Reports](<https://huggingface.co/papers/2610.31158>) | Preprint | Official page |
+| 2026‑10‑19 | [Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams](<https://arxiv.org/abs/2610.27227>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [When Coding Agents Outpace Review\: Evaluating PRD-Driven Development in Mature Enterprise Repositories](<https://arxiv.org/abs/2610.26394>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [VibeTraining-Bench\: Data-Trainer-Harness Co-Design for Iterative System Improvement](<https://arxiv.org/abs/2610.26342>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [RefCraft\: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development](<https://arxiv.org/abs/2610.26826>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [Procedural Exposure Bias in Skill-Augmented Language Model Agents](<https://arxiv.org/abs/2610.26062>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [HarnessRL\: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL](<https://arxiv.org/abs/2610.26426>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [Focused Omni-Modal GUI Agents](<https://arxiv.org/abs/2610.26203>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [Don't Rewrite the SID Map\: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search](<https://arxiv.org/abs/2610.26105>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [RARE\: Reinforcement Learning with Adaptive Rubric Evolution for Open-Ended Generation](<https://arxiv.org/abs/2610.25434v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑16 | [ToPA\: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](<https://arxiv.org/abs/2610.22883>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [ShadowFPT\: Backdooring Federated Prompt Tuning via Shadow Triggers](<https://arxiv.org/abs/2610.22871>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Sep-Latent\: Separator Tokens as Natural Compression Anchors for Implicit Reasoning](<https://arxiv.org/abs/2610.22924>) | Preprint | OpenAlex |
@@ -29,6 +38,7 @@
 | 2026‑10‑15 | [Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models](<https://arxiv.org/abs/2610.22217>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [ReFlow\: Replay-Driven Decoupling for Efficient RL Post-Training](<https://arxiv.org/abs/2610.21640>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Product Costing in Data Pipelines](<https://arxiv.org/abs/2610.21352>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [PW-Pruning\: Phase-Aware Expert Selection for Speech-Centric Omni-Modal Models](<https://arxiv.org/abs/2610.26891>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [P2TPO\: Structure-Aligned Page-to-Token Credit Assignment for Full-Page Document Parsing](<https://arxiv.org/abs/2610.21979>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [MetaExp\: Learning to Self-Improve through Experience via Verifiable Cross-Task Environment Scaling](<https://arxiv.org/abs/2610.21492>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Learning to Steer LLM Agents and Multi-Agent Systems](<https://arxiv.org/abs/2610.22316>) | Preprint | OpenAlex |

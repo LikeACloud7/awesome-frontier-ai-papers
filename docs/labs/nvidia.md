@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2115`
+- Papers: `2123`
 - Latest: `2026-10-21`
 - [Back to README](../../README.md#nvidia)
 
@@ -17,14 +17,22 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation |
+| 2026‑10‑20 | [Reasoning as a Distribution\: Generative Plan Latents for Vision-Language-Action Models](<https://arxiv.org/abs/2610.28166>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [MLIPS\: Multi-Layer Indexer Pool Sharing](<https://arxiv.org/abs/2610.27438>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Exploring Recurrent-Depth Language Models for Multitask Clinical Text Processing](<https://arxiv.org/abs/2610.27559>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [The Token-Energy Law of LLM Decode\: Active Bytes and Realized Time Account for Joules per Token](<https://arxiv.org/abs/2610.28576v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [Physical AI for Intralogistics\: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots](<https://arxiv.org/abs/2610.28432v2>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑10‑20 | [KPage\: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention](<https://arxiv.org/abs/2610.28096v1>) | Paper | Verified affiliation |
+| 2026‑10‑20 | [KPage\: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention](<https://arxiv.org/abs/2610.28096v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑20 | [Industrial ReMEmbR\: Scaling Spatiotemporal Memory to Robot Fleets](<https://arxiv.org/abs/2610.28624v1>) | Paper | Verified affiliation |
+| 2026‑10‑19 | [LatComm\: Reusable Context Compression for Latent Communication between Large Language Models](<https://arxiv.org/abs/2610.26840v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Scaling Synthetic Pre-training Data and Evaluation for Indic LLMs](<https://doi.org/10.48550/arxiv.2610.26006>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Malaria Pathogen Detection in Microscopy Images-Transfer Learning Challenges](<https://doi.org/10.1007/978-3-032-10303-1_38>) | Conference paper | OpenAlex |
+| 2026‑10‑19 | [AutoRedClaw\: Automated Red-Teaming for Claw-Style Agents](<https://arxiv.org/abs/2610.27244>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Physical Words\: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation](<https://arxiv.org/abs/2610.26854v3>) | Paper | Verified affiliation |
+| 2026‑10‑18 | [Improving the Expressive Power of Hybrid Sequence Models via Multi-Hop Retrieval](<https://arxiv.org/abs/2610.25250>) | Preprint | OpenAlex |
+| 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Scalable Levenberg-Marquardt Training Framework for Deep Learning](<https://arxiv.org/abs/2610.22925>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [Encoder-Free Multimodal LLMs Learn Implicit Encoders](<https://arxiv.org/abs/2610.24239>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
 | 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4093`
+- Papers: `4096`
 - Latest: `2026-10-22`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,16 +16,19 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page |
+| 2026‑10‑22 | [GenTile\: Closing the Loop Between LLM Reasoning and Physical Telemetry for Autonomous NPU Graph Tuning](<https://doi.org/10.26599/air.2026.9150015>) | Article | OpenAlex |
 | 2026‑10‑22 | [Digital Twins of Networked Dynamical Systems\: Machine Learning Prediction of Synchronization Transitions in Coupled Chaotic Oscillators](<https://arxiv.org/abs/2610.30632v1>) | Paper | Verified affiliation |
 | 2026‑10‑21 | [CFMoE\: Cache-Friendly Mixture of Experts Model Serving System on Edge Devices](<https://doi.org/10.1145/3795866.3844455>) | Conference paper | OpenAlex |
+| 2026‑10‑20 | [On-Policy Transition Distillation](<https://arxiv.org/abs/2610.28048>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [LatComm\: Reusable Context Compression for Latent Communication between Large Language Models](<https://arxiv.org/abs/2610.26840v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Evidence Sufficiency and Model Comparisons in MexRegQA\: An Item-Level Audit of Mexican-Spanish Regulatory QA](<https://doi.org/10.48550/arxiv.2610.25710>) | Preprint | OpenAlex |
-| 2026‑10‑19 | [LatComm\: Reusable Context Compression for Latent Communication between Large Language Models](<https://arxiv.org/abs/2610.26840v1>) | Paper | Verified affiliation |
+| 2026‑10‑18 | [RARE\: Reinforcement Learning with Adaptive Rubric Evolution for Open-Ended Generation](<https://arxiv.org/abs/2610.25434v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation |
 | 2026‑10‑18 | [SteadyThought\: Mitigating LLM Under-Thinking via Thought-Level Preference Optimization](<https://arxiv.org/abs/2610.25045v1>) | Paper | Verified affiliation |
-| 2026‑10‑18 | [RARE\: Reinforcement Learning with Adaptive Rubric Evolution for Open-Ended Generation](<https://arxiv.org/abs/2610.25434v1>) | Paper | Verified affiliation |
 | 2026‑10‑18 | [GeoART\: Geometry-Aware Refinement via Test-Time Scaling for Camera-Conditioned Video Diffusion](<https://arxiv.org/abs/2610.25273v1>) | Paper | Verified affiliation |
 | 2026‑10‑17 | [ColorFool\: Three Color Elements to Fool Deepfake Detectors](<https://doi.org/10.1007/978-981-92-6834-4_21>) | Conference paper | OpenAlex |
-| 2026‑10‑17 | [PV-Decoding\: Progressive Verification Decoding with Decode Gating for Diffusion Language Models](<https://arxiv.org/abs/2610.24722v1>) | Paper | Verified affiliation |
+| 2026‑10‑17 | [PV-Decoding\: Progressive Verification Decoding with Decode Gating for Diffusion Language Models](<https://arxiv.org/abs/2610.24722v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑16 | [Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers](<https://arxiv.org/abs/2610.24123>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [FDE-Gym\: The Last Mile of AI Delivery](<https://arxiv.org/abs/2610.22350>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Motion- and Gravity-Aware Feedforward 3D Reconstruction](<https://arxiv.org/abs/2610.22177>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Mosaic\: Multi-Session Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.22174>) | Preprint | OpenAlex |
@@ -2292,7 +2295,7 @@
 | 2025‑01‑06 | [Brick-Diffusion\: Generating Long Videos with Brick-to-Wall Denoising](<https://doi.org/10.1109/icassp49660.2025.10888199>) | Article | OpenAlex |
 | 2025‑01‑04 | [Easing Optimization Paths\: a Circuit Perspective](<http://arxiv.org/abs/2501.02362>) | Preprint | OpenAlex |
 | 2025‑01‑04 | [AdaSkip\: Adaptive Sublayer Skipping for Accelerating Long-Context LLM Inference](<http://arxiv.org/abs/2501.02336>) | Preprint | OpenAlex |
-| 2025‑01‑01 | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](<https://seed.bytedance.com/en/research/improving-zero-shot-adversarial-robustness-in-vision-language-models-by-closed-form-alignment-of-adversarial-path-simplices>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Improving Zero-Shot Adversarial Robustness in Vision-Language Models by Closed-form Alignment of Adversarial Path Simplices](<https://seed.bytedance.com/en/research/improving-zero-shot-adversarial-robustness-in-vision-language-models-by-closed-form-alignment-of-adversarial-path-simplices>) | Publication | Official page, OpenAlex, Verified affiliation |
 | 2025‑01‑01 | [Large Language Model for Multiobjective Evolutionary Optimization](<https://doi.org/10.1007/978-981-96-3538-2_13>) | Book chapter | OpenAlex |
 | 2025‑01‑01 | [AllSpark\: A Multimodal Spatiotemporal General Intelligence Model With Ten Modalities via Language as a Reference Framework](<https://doi.org/10.1109/tgrs.2025.3526725>) | Article | OpenAlex |
 | 2025‑01‑01 | [CAT\: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models](<https://www.noahlab.com.hk/en/scientific_research/cat-causal-attention-tuning-for-injecting-fine-grained-causal-knowledge-into-large-language-models>) | Publication | Official page, OpenAlex |

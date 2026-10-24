@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3804`
+- Papers: `3819`
 - Latest: `2026-10-22`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -25,13 +25,26 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page |
+| 2026‑10‑22 | [LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated antibiotic resistance gene discovery](<https://doi.org/10.1038/s44259-026-00287-4>) | Article | OpenAlex |
 | 2026‑10‑21 | [WeVisOne-VL\: Unified Visual Perception from Objects to Pixels](<https://huggingface.co/papers/2610.31329>) | Preprint | Official page |
 | 2026‑10‑21 | [Beyond Binary Labels\: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics](<https://arxiv.org/abs/2610.29225v1>) | Paper | Verified affiliation |
+| 2026‑10‑20 | [Real In, Real Out\: What If We Only Use Real Data for Scene Text Editing?](<https://arxiv.org/abs/2610.27592>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [E8-QAT\: Efficient 2-Bit Quantization-Aware Training with Implicit Lattice Codebooks](<https://arxiv.org/abs/2610.27699>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Training the Whole Agent, Not Just the Model](<https://huggingface.co/papers/2610.28069>) | Preprint | Official page |
 | 2026‑10‑19 | [Harness Self-Evolution for Long-Horizon Terminal Agents](<https://huggingface.co/papers/2610.27435>) | Preprint | Official page |
+| 2026‑10‑19 | [Selecting and Composing Agent Design Patterns\: Industrial Case Evidence and Controlled Reference-System Experiments](<https://arxiv.org/abs/2610.25629>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [SWE-Residual\: Evaluating Starting-State Robustness of Coding Agents](<https://arxiv.org/abs/2610.25899>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [PronCFT\: Pronunciation Contextual Fine-Tuning for Contextual Biasing of Out-of-Vocabulary Words in LLM-Based ASR](<https://arxiv.org/abs/2610.25766>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [PVBench\: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements](<https://arxiv.org/abs/2610.26711>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [More Memory, Worse Agents\: Error Reproduction and Anti-Persistence in LLM Agents](<https://arxiv.org/abs/2610.27406>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [FrameGRPO\: Incentivizing Video Reasoning via Multi-Frame Rollouts and Temporal Credit](<https://arxiv.org/abs/2610.26022>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [FinHopper\: A Progressive Multi-Hop Benchmark for Complex Financial Agents with Step-wise Evaluation](<https://arxiv.org/abs/2610.26036>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [A randomized trial of supported versus self-fitting over-the-counter hearing aids in older adults](<https://doi.org/10.1038/s41467-026-78833-x>) | Article | OpenAlex |
+| 2026‑10‑18 | [DragonMoCap\: Monocular Video-based Motion Capture for Diverse Dragon Topologies](<https://arxiv.org/abs/2610.25437>) | Preprint | OpenAlex |
+| 2026‑10‑17 | [CADS\: Measuring the Incremental Contribution of LLM Proposers in Sequential Biological Screens](<https://arxiv.org/abs/2610.24597>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Steering beyond Language\: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal](<https://arxiv.org/abs/2610.23807>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Process Reward Modeling with Reliability- and Conservatism-Aware Bayesian Belief](<https://arxiv.org/abs/2610.23223>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [OR-License\: Evaluating LLM Agents as Real-World Operations Research Practitioners](<https://arxiv.org/abs/2610.24087>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [ODSS-Net\: Orthogonally Decoupled Shared-Specific Representations for Multi-Modal Object Re-Identification](<https://arxiv.org/abs/2610.22922>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Jarvis\: Coordination Deserves a Brain of Its Own in Agentic Interactive Models](<https://arxiv.org/abs/2610.23804>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Grounded Credit Assignment in Reinforcement Learning for Multi-Turn Search Agents](<https://arxiv.org/abs/2610.23148>) | Preprint | OpenAlex |
@@ -41,6 +54,7 @@
 | 2026‑10‑15 | [VP-EVT\: Active Visibility Preservation for Embodied Visual Tracking](<https://arxiv.org/abs/2610.21999>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Rethinking the Role of Tool Graph Memory in Multi-Turn Tool Use](<https://arxiv.org/abs/2610.21571>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [QREF\: Improving DeepSearch Agents by Aligning Search with Reasoning via Query Refinement and Evidence Filtering](<https://arxiv.org/abs/2610.21512>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [ProV-Mem\: Proactive Memory for Streaming Video Question Answering](<https://arxiv.org/abs/2610.23998>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Learning from Interaction Experience via Localized Context Distillation](<https://arxiv.org/abs/2610.21427>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [KnowGPO\: Knowledge-Grouped Policy Optimization for Search Agents](<https://arxiv.org/abs/2610.22331>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [GeoState\: Learning View-Decoupled Geometry States for 3D World Modeling](<https://arxiv.org/abs/2610.22343>) | Preprint | OpenAlex |
@@ -153,6 +167,7 @@
 | 2026‑09‑28 | [MAS-OPD\: On-Policy Distillation for Multi-agent Systems](<https://arxiv.org/abs/2609.34234>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Learn Now, Use Next, Trust Later\: Prequential Test-Time Learning for LLM Agents](<https://arxiv.org/abs/2609.35911>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Learn Here, Move Less Elsewhere\: Input-Conditioned Plasticity from Retained-Domain Activation Atlases](<https://arxiv.org/abs/2609.34478>) | Preprint | OpenAlex |
+| 2026‑09‑28 | [Latent Multimodal Memory Reasoning](<https://arxiv.org/abs/2610.23890>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [G$^3$-LoRA\: Organizing Reward-Weighted Video Data with Gradient-Guided Grouped LoRA](<https://doi.org/10.48550/arxiv.2609.35189>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [From Soft Targets to Reward Signals\: How Assignment and Reward Objectives Interact](<https://arxiv.org/abs/2609.34850>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [FlexiWorld\: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales](<https://arxiv.org/abs/2609.35138>) | Preprint | OpenAlex |
