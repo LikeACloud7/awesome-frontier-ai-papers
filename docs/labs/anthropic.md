@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `359`
-- Latest: `2026-10-16`
+- Papers: `360`
+- Latest: `2026-10-22`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -20,6 +20,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑22 | [Scaling Laws for Safety Probes](<https://doi.org/10.48550/arxiv.2610.30678>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>) | Research post | Official page |
 | 2026‑10‑16 | [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>) | Research post | Official page |
 | 2026‑10‑16 | [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>) | Research post | Official page |

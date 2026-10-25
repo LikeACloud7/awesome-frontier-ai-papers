@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5650`
-- Latest: `2026-10-22`
+- Papers: `5652`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,6 +15,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [Multimodal Accessibility Planning with AI Models (MAP) Workshop](<https://doi.org/10.1145/3797867.3832452>) | Conference paper | OpenAlex |
+| 2026‑10‑23 | [How Blind or Low Vision Creators Use Tools for Ideation\: A Survey](<https://doi.org/10.1145/3797867.3841194>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
 | 2026‑10‑22 | [VR and Mobile Games for Wildfire Preparedness\: A Comparative Study](<https://doi.org/10.1145/3800965.3834278>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [A Vast Navigable Protein Sequence Subspace](<https://doi.org/10.64898/2026.10.18.759989>) | Preprint | OpenAlex |
@@ -1459,7 +1461,7 @@
 | 2026 | [A prospective clinical feasibility study of a conversational diagnostic AI in an ambulatory primary care clinic](<https://research.google/pubs/a-prospective-clinical-feasibility-study-of-a-conversational-diagnostic-ai-in-an-ambulatory-primary-care-clinic/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [A comparison of machine learning and human graders for glaucoma diagnosis from fundus images for population screening](<https://research.google/pubs/a-comparison-of-machine-learning-and-human-graders-for-glaucoma-diagnosis-from-fundus-images-for-population-screening-2/>) | Publication | OpenAlex, Official page |
 | 2026 | [“That Experience Still Haunts Me to This Day”\: A Multi-Region Survey on AI-Generated Image-Based Sexual Abuse Victimization](<https://research.google/pubs/that-experience-still-haunts-me-to-this-day-a-multi-region-survey-on-ai-generated-image-based-sexual-abuse-victimization/>) | Publication | OpenAlex, Official page |
-| 2026 | [“ Catching lightning in a bottle”\: How Blind or Low Vision Creators Navigate Ideation Across Creative Domains](<https://research.google/pubs/catching-lightning-in-a-bottle-how-blind-or-low-vision-creators-navigate-ideation-across-creative-domains/>) | Publication | Official page |
+| 2026 | [“ Catching lightning in a bottle”\: How Blind or Low Vision Creators Navigate Ideation Across Creative Domains](<https://research.google/pubs/catching-lightning-in-a-bottle-how-blind-or-low-vision-creators-navigate-ideation-across-creative-domains/>) | Publication | Official page, OpenAlex |
 | 2026 | [XProf\: An Open, Scalable and Extensible Profiling System for the Modern ML Stack](<https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/>) | Publication | Official page |
 | 2026 | [XMob\: Accelerated Differentiable Mesoscopic Traffic Simulation in JAX](<https://research.google/pubs/xmob-accelerated-differentiable-mesoscopic-traffic-simulation-in-jax/>) | Publication | Official page |
 | 2026 | [Words Speak Louder Than Order\: A Behavioral Evaluation of Gemma 4](<https://research.google/pubs/words-speak-louder-than-order-a-behavioral-evaluation-of-gemma-4/>) | Publication | Verified affiliation, Official page |

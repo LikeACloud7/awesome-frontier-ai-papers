@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2123`
+- Papers: `2125`
 - Latest: `2026-10-21`
 - [Back to README](../../README.md#nvidia)
 
@@ -65,6 +65,7 @@
 | 2026‑10‑07 | [Long-WAM\: Scaling the Context of World-Action Models](<https://huggingface.co/papers/2610.10528>) | Paper | Hugging Face |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](<https://arxiv.org/abs/2610.10298>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [miniTE\: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning](<https://arxiv.org/abs/2610.23928v1>) | Paper | Verified affiliation |
 | 2026‑10‑06 | [A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning](<https://huggingface.co/papers/2606.03335>) | Paper | Hugging Face |
 | 2026‑10‑06 | [UNREAL\: Unifying Retrieval and Long-Context with a Single Model](<https://huggingface.co/papers/2610.08463>) | Paper | Hugging Face |
 | 2026‑10‑06 | [NeMo-DCR\: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](<https://arxiv.org/abs/2610.08430v1>) | Paper | Verified affiliation, Hugging Face |
@@ -90,6 +91,7 @@
 | 2026‑10‑02 | [PIGNN3D\: an accelerated physics-informed graph neural network for 3D thermal field simulation in data centers](<https://doi.org/10.1007/s44267-026-00131-3>) | Article | OpenAlex |
 | 2026‑10‑02 | [Fed-ADApt\: Federated Anytime Depth Adaptation for Resource-Aware Medical Image Segmentation](<https://arxiv.org/abs/2610.03474>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [MLLMs Fail to Refuse when Using Tools Agentically](<https://arxiv.org/abs/2610.03938v1>) | Paper | Verified affiliation |
+| 2026‑10‑02 | [Large Language Continuous Diffusion Models](<https://arxiv.org/abs/2610.02665v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [From Roadmap to Response\: A Community Assessment of Autonomous Science](<https://doi.org/10.2172/17197394>) | Report | OpenAlex |
 | 2026‑10‑01 | [VETO\: Video Efficient Token Optimization for Vision Language Models](<https://arxiv.org/abs/2610.01785>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Unitary fault-tolerant encoding of Pauli states in surface codes](<http://arxiv.org/abs/2601.05113>) | Article | OpenAlex |

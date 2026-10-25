@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1886`
+- Papers: `1888`
 - Latest: `2026-10-19`
 - [Back to README](../../README.md#metafair)
 
@@ -66,6 +66,7 @@
 | 2026‑10‑13 | [Delegating Earth science model calibration to knowledge-guided LLM agents](<https://arxiv.org/abs/2610.18378>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [A CaLLM Judge is a Better Judge\: Mitigating Bias in LLM-as-a-judge](<https://arxiv.org/abs/2610.18108>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [IsoVRBench\: Video Reward Modeling Without Human Feedback](<https://arxiv.org/abs/2610.17234>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [Scaling Multi-Agent Intelligence with Substrate-Centric Coordination](<https://arxiv.org/abs/2610.16120v1>) | Paper | Verified affiliation |
 | 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Optimizing UVQ for scaling video quality assessment](<https://doi.org/10.1117/12.3112825>) | Conference abstract | OpenAlex |
@@ -74,6 +75,7 @@
 | 2026‑10‑09 | [AI-driven scalable metrology solutions for smart glasses and AR wearables](<https://doi.org/10.1117/12.3114946>) | Conference abstract | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
 | 2026‑10‑08 | [Mid-Training Language Models on Raw Video](<https://arxiv.org/abs/2610.11019v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [MetaEncoder\: Exploring the Limit of Bi-Encoders for Multimodal System One Decision Making with Natural Language Interface](<https://arxiv.org/abs/2610.11316v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [MIMESIS\: Learning User Simulators as Training Environments for Interactive Agents](<https://huggingface.co/papers/2610.09484>) | Paper | Hugging Face |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |

@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3909`
-- Latest: `2026-10-21`
+- Papers: `3913`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,7 +19,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [Cross3DReg\: A Real-world Cross-source Point Cloud Registration Benchmark](<https://doi.org/10.1007/s11263-026-03095-5>) | Article | OpenAlex |
+| 2026‑10‑22 | [Mitigating Exploration Sluggishness in Iterative Knowledge Graph Augmentation](<https://doi.org/10.1007/978-3-032-42026-8_13>) | Conference paper | OpenAlex |
 | 2026‑10‑21 | [Beyond Watching and Searching\: Benchmarking Agents for Video-centered Deep Research Reports](<https://huggingface.co/papers/2610.31158>) | Preprint | Official page |
+| 2026‑10‑20 | [BEACON\: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection](<https://arxiv.org/abs/2610.27542>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams](<https://arxiv.org/abs/2610.27227>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [When Coding Agents Outpace Review\: Evaluating PRD-Driven Development in Mature Enterprise Repositories](<https://arxiv.org/abs/2610.26394>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [VibeTraining-Bench\: Data-Trainer-Harness Co-Design for Iterative System Improvement](<https://arxiv.org/abs/2610.26342>) | Preprint | OpenAlex |
@@ -64,6 +67,7 @@
 | 2026‑10‑13 | [LoOPSD\: On-Policy Self-Distillation with Looped Teachers](<https://arxiv.org/abs/2610.18162>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [LiFUSE\: Frequency-Spatial Unified Self-Supervised Pretraining for Liver Disease Analysis on Non-contrast CT](<https://arxiv.org/abs/2610.18243>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Heading Hierarchy Reconstruction for Complex and Long Documents with Level-Wise Multimodal Memory](<https://arxiv.org/abs/2610.18238>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [DuplexBridge\: Coordinating Understanding and Generation for Unified Image Editing](<https://arxiv.org/abs/2610.18819>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Cowork-Gym\: Synthesizing Interactive Work Environments at Scale](<https://arxiv.org/abs/2610.17670>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [X-Ragent\: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning](<https://arxiv.org/abs/2610.16811v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑12 | [UniSGR-V2\: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](<https://arxiv.org/abs/2610.16132>) | Preprint | OpenAlex |

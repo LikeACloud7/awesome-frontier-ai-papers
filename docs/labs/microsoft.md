@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4102`
-- Latest: `2026-10-22`
+- Papers: `4107`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -140,8 +140,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [Prompt and Circumstance\: Evaluating Accessibility in LLM-Generated HTML Form Components](<https://doi.org/10.1145/3797867.3828975>) | Conference paper | OpenAlex |
+| 2026‑10‑23 | [Bespoke Visual Assistance\: What and How do Blind and Low-Vision People Create with Agentic Programming?](<https://arxiv.org/abs/2607.21760>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
+| 2026‑10‑22 | [Working Through Representation\: Malleable Workspaces for Human-Agent Knowledge Work](<https://arxiv.org/abs/2610.30893v1>) | Paper | Verified affiliation |
 | 2026‑10‑21 | [Demo\: Responsible Physical AI with Edge-based Guardrails](<https://doi.org/10.1145/3795866.3848428>) | Conference paper | OpenAlex |
+| 2026‑10‑20 | [The Labor of Storytelling\: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation](<https://arxiv.org/abs/2610.28438>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Beyond 4 bits\: Data-Centric Post-training Quantization and Recovery](<https://arxiv.org/abs/2610.28537>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [When the harness decides success\: state that cannot be re-observed](<https://doi.org/10.48550/arxiv.2610.26632>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [V-JEPA Hand\: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos](<https://arxiv.org/abs/2610.26780>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [StepBench\: Diagnosing Real-World Procedural Understanding in AI Agents](<https://doi.org/10.48550/arxiv.2610.26679>) | Preprint | OpenAlex |

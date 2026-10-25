@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3684`
-- Latest: `2026-10-22`
+- Papers: `3688`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [From Anonymous Shapes to Named Places\: A Tool for Braille and Place-Semantic Annotation of Tactile Maps](<https://arxiv.org/abs/2608.23820>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Adaptive Agentic Routing at Scale\: Orchestrating Multi-Modal Video Search Under Strict Latency and Device Constraints](<https://doi.org/10.1145/3840749.3841573>) | Conference paper | OpenAlex |
 | 2026‑10‑21 | [Machine Learning for Seafloor Diamond Prospectivity](<https://doi.org/10.63929/22020586.2026.1.020>) | Conference abstract | OpenAlex |
 | 2026‑10‑21 | [From Code Scarcity To Verification Scarcity\: The New Bottleneck in Agentic Software Engineering](<https://doi.org/10.1145/3844691.3844693>) | Article | OpenAlex |
@@ -27,7 +28,7 @@
 | 2026‑10‑19 | [Maestro\: Agentic Formal Proof Development by Coordination](<https://arxiv.org/abs/2610.25920>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [Intent-Informed Model Predictive Control for Shared Autonomy in Remote Manipulation Tasks](<https://arxiv.org/abs/2610.25436>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [Auto-MD-bench\: Evaluating Autoresearch Agents for Real-World Medical Tasks](<https://doi.org/10.48550/arxiv.2610.25069>) | Preprint | OpenAlex |
-| 2026‑10‑17 | [Pluralistic Alignment in Language Models\: Objectives, Human References, and Preference Representations](<https://arxiv.org/abs/2610.24471>) | Preprint | OpenAlex |
+| 2026‑10‑17 | [Pluralistic Alignment in Large Language Models\: Objectives, Human References, and Preference Representations](<https://arxiv.org/abs/2610.24471>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [Beyond Next-Screen Prediction\: The Decision Value of GUI World Models](<https://arxiv.org/abs/2610.24372>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [AgentSoV\: Virtual Sensing for LLM Multi-Agent Systems via Stream of Variation](<https://arxiv.org/abs/2610.24845>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation](<https://arxiv.org/abs/2610.24675>) | Preprint | OpenAlex |
@@ -90,6 +91,7 @@
 | 2026‑10‑06 | [Is $\\sqrt{d}$ Separation Necessary for Gradient EM to Learn Gaussian Mixtures in High Dimensions?](<https://arxiv.org/abs/2610.07551>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [FreeEvolve\: Learning to Evolve Beyond Fixed Loops](<https://arxiv.org/abs/2610.09197>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Does On-Policy Distillation for Safety Pose Backdoor Risks?](<https://arxiv.org/abs/2610.07654>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [Wiring Matters\: Injection Topology and Initialization of Affordance Heads in Vision-Language-Action Policies](<https://arxiv.org/abs/2610.06318>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [SimpleMark\: Fast Multi-Bit Text Watermarking under f -Divergence Constraints](<https://arxiv.org/abs/2610.05712>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Reviewing Legal Privilege and Confidentiality Challenges in Enterprise Deployment of Large Language Models](<https://doi.org/10.56201/jlgp.vol.10.no3.2025.pg150.176>) | Article | OpenAlex |
 | 2026‑10‑05 | [Application of LLM Agents for Long-Form Question Answering in Systems Biology](<https://doi.org/10.1007/978-3-032-37682-4_19>) | Conference paper | OpenAlex |
@@ -100,6 +102,7 @@
 | 2026‑10‑03 | [ALoDLM\: Adaptively Looped Diffusion Language Models](<https://arxiv.org/abs/2610.04198>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Metonymic Circuits for Abstract Concept Grounding in Vision Transformers](<https://arxiv.org/abs/2610.06928>) | Preprint | OpenAlex |
+| 2026‑10‑03 | [Functionally Equivalent or Not? Graph-Grounded Differential Surrogate Execution for Code Equivalence](<https://arxiv.org/abs/2610.04371>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [UniBRep\: Learning Unified Geometry and Topology for Image-conditioned B-Rep Generation](<https://arxiv.org/abs/2610.04092>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Teaching Agents to Code Reliably](<https://arxiv.org/abs/2610.03984>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [TNG-CLIP\:Training-Time Negation Data Generation for Negation Awareness of CLIP](<http://arxiv.org/abs/2505.18434>) | Conference paper | OpenAlex |
@@ -108,6 +111,7 @@
 | 2026‑10‑02 | [Bridging Requirements and Assurance\: Neurosymbolic Autoformalization for C++ Verification and Requirements-Coverage Testing (Keynote)](<https://doi.org/10.1145/3842652.3850233>) | Conference abstract | OpenAlex |
 | 2026‑10‑02 | [ReFract\: Benchmarking Perspective Awareness in Language Model Agents with Text World Models](<https://arxiv.org/abs/2610.03356v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Generalized robust adaptive-bandwidth MultiView manifold learning in high dimensions with noise](<http://arxiv.org/abs/2602.10530>) | Article | OpenAlex |
+| 2026‑10‑01 | [Towards minute-level pedestrian trajectory prediction in crowded traffic scenarios](<https://doi.org/10.1016/j.patcog.2026.115198>) | Article | OpenAlex |
 | 2026‑10‑01 | [NSync\: Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](<https://doi.org/10.1145/3832121>) | Article | OpenAlex |
 | 2026‑10‑01 | [Mitigating Social Sycophancy via Pluralistic Preference Optimization](<https://arxiv.org/abs/2610.02568>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [LLMutantKiller\: Using Large Language Models to Generate Tests That Kill Mutants](<https://doi.org/10.1145/3832098>) | Article | OpenAlex |
