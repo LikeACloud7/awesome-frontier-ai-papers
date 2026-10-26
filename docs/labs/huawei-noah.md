@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4096`
-- Latest: `2026-10-22`
+- Papers: `4101`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,9 +15,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page |
 | 2026‑10‑22 | [GenTile\: Closing the Loop Between LLM Reasoning and Physical Telemetry for Autonomous NPU Graph Tuning](<https://doi.org/10.26599/air.2026.9150015>) | Article | OpenAlex |
 | 2026‑10‑22 | [Digital Twins of Networked Dynamical Systems\: Machine Learning Prediction of Synchronization Transitions in Coupled Chaotic Oscillators](<https://arxiv.org/abs/2610.30632v1>) | Paper | Verified affiliation |
+| 2026‑10‑21 | [Uni-Mem\: Learning a Long-Horizon Agentic Memory Manager with Unified Online Policy Optimization](<https://arxiv.org/abs/2610.29671>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Remembering Through Change\: Provenance-Preserving Hypergraph Memory for Multimodal Agents](<https://arxiv.org/abs/2610.29995>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [ECHO\: Emergent Common-Mode Hidden Offsets Drive Vocabulary Collapse in Preference Optimization](<https://arxiv.org/abs/2610.29410>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection](<https://arxiv.org/abs/2610.29886>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CFMoE\: Cache-Friendly Mixture of Experts Model Serving System on Edge Devices](<https://doi.org/10.1145/3795866.3844455>) | Conference paper | OpenAlex |
 | 2026‑10‑20 | [On-Policy Transition Distillation](<https://arxiv.org/abs/2610.28048>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [LatComm\: Reusable Context Compression for Latent Communication between Large Language Models](<https://arxiv.org/abs/2610.26840v1>) | Paper | Verified affiliation, OpenAlex |

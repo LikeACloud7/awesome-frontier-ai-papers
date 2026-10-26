@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3688`
+- Papers: `3693`
 - Latest: `2026-10-23`
 - [Back to README](../../README.md#amazon)
 
@@ -18,9 +18,14 @@
 |---|---|---|---|
 | 2026‑10‑23 | [From Anonymous Shapes to Named Places\: A Tool for Braille and Place-Semantic Annotation of Tactile Maps](<https://arxiv.org/abs/2608.23820>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Adaptive Agentic Routing at Scale\: Orchestrating Multi-Modal Video Search Under Strict Latency and Device Constraints](<https://doi.org/10.1145/3840749.3841573>) | Conference paper | OpenAlex |
+| 2026‑10‑21 | [Derivation Depth Exposes Reasoning Failures in Tool-Augmented Music Analysis](<https://arxiv.org/abs/2610.29060>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model](<https://arxiv.org/abs/2610.29139>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Machine Learning for Seafloor Diamond Prospectivity](<https://doi.org/10.63929/22020586.2026.1.020>) | Conference abstract | OpenAlex |
+| 2026‑10‑21 | [GuideEvolve\: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](<https://arxiv.org/abs/2610.30017>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [From Code Scarcity To Verification Scarcity\: The New Bottleneck in Agentic Software Engineering](<https://doi.org/10.1145/3844691.3844693>) | Article | OpenAlex |
 | 2026‑10‑20 | [Projected Distillation\: On Learning to Solve Hard Problems from Close, Correct Targets](<https://arxiv.org/abs/2610.27467>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Beyond Model Weights\: Sampling-Dependent Fairness in Diffusion Language Models](<https://arxiv.org/abs/2610.27584>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [AgentPolicyForge\: From Executable Environments to Policy Benchmarks and Adaptive Guards](<https://arxiv.org/abs/2610.28989>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [SWAP\: Test-Time Steerable Humanoid Whole-Body Collision Avoidance](<https://arxiv.org/abs/2610.25711>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [RouterWorld\: Scaling Conversational AI with Latency-Aware LLM Routing](<https://arxiv.org/abs/2610.26511>) | Preprint | OpenAlex |

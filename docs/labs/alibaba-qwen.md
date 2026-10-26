@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3913`
+- Papers: `3917`
 - Latest: `2026-10-23`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -22,6 +22,9 @@
 | 2026‑10‑23 | [Cross3DReg\: A Real-world Cross-source Point Cloud Registration Benchmark](<https://doi.org/10.1007/s11263-026-03095-5>) | Article | OpenAlex |
 | 2026‑10‑22 | [Mitigating Exploration Sluggishness in Iterative Knowledge Graph Augmentation](<https://doi.org/10.1007/978-3-032-42026-8_13>) | Conference paper | OpenAlex |
 | 2026‑10‑21 | [Beyond Watching and Searching\: Benchmarking Agents for Video-centered Deep Research Reports](<https://huggingface.co/papers/2610.31158>) | Preprint | Official page |
+| 2026‑10‑21 | [Relational Geometry Forcing for World Action Models](<https://arxiv.org/abs/2610.29282>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Omnilingual-MsASR\: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models](<https://arxiv.org/abs/2610.29455>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Nominate-then-Adjudicate\: LLM-Assisted One-Pass and Per-Instance MIP Solver Tuning](<https://arxiv.org/abs/2610.29391>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [BEACON\: Bridging Multimodal Semantics and Asynchronous Propagation for Cloud System Anomaly Detection](<https://arxiv.org/abs/2610.27542>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams](<https://arxiv.org/abs/2610.27227>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [When Coding Agents Outpace Review\: Evaluating PRD-Driven Development in Mature Enterprise Repositories](<https://arxiv.org/abs/2610.26394>) | Preprint | OpenAlex |
@@ -86,6 +89,7 @@
 | 2026‑10‑09 | [Scaling Agentic Data for Long-Horizon Terminal Intelligence](<https://huggingface.co/papers/2610.13166>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑09 | [Learning Representations to Guide Pixel Diffusion Transformers](<https://huggingface.co/papers/2610.12978>) | Paper | Hugging Face |
 | 2026‑10‑09 | [Why DiT Models Underperform as Representation Learners without Long Skip Connections](<https://arxiv.org/abs/2610.13344>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [The Scientific Research Taste Benchmark (SciTaste-Bench)\: A Multi-Disciplinary Benchmark for Assessing Large Language Models' Judgment of Research Taste in Scientific Papers](<https://arxiv.org/abs/2610.28653>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Test-Time Memory Construction](<https://arxiv.org/abs/2610.13348>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Temporal Evidence Forests for Long-Horizon Multi-Party Conversational Memory](<https://arxiv.org/abs/2610.12874>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [State-OPD\: State-Grounded On-Policy Distillation for Multi-Turn Agents](<https://arxiv.org/abs/2610.13238>) | Preprint | OpenAlex |

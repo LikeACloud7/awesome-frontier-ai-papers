@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1888`
-- Latest: `2026-10-19`
+- Papers: `1891`
+- Latest: `2026-10-21`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [Right On Q\: Recovering Reasoning under Quantization via Self-Generated Trajectories](<https://arxiv.org/abs/2610.29378>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
 | 2026‑10‑19 | [Diagnostic Analysis for Large Language Model Reasoning](<https://arxiv.org/abs/2610.27245>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Compiling Environment Classifiers to Contextual Modal Types](<https://arxiv.org/abs/2610.25741>) | Preprint | OpenAlex |
@@ -78,6 +79,7 @@
 | 2026‑10‑08 | [MetaEncoder\: Exploring the Limit of Bi-Encoders for Multimodal System One Decision Making with Natural Language Interface](<https://arxiv.org/abs/2610.11316v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [MIMESIS\: Learning User Simulators as Training Environments for Interactive Agents](<https://huggingface.co/papers/2610.09484>) | Paper | Hugging Face |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Conversational Voice Aesthetic Model with Reinforcement Learning from Human Listeners](<https://arxiv.org/abs/2610.10868>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Which and When to Admit\: Gradient Admission for Data-Centric Small Language Model Finetuning](<https://arxiv.org/abs/2610.07553>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Personal-Agent Mediated Recommendation with Cross-Platform User History](<https://arxiv.org/abs/2610.07588>) | Preprint | OpenAlex |
@@ -86,6 +88,7 @@
 | 2026‑10‑06 | [Constraint Tree Exploration for Learning from Language Feedback](<https://arxiv.org/abs/2610.09107>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Agent Plasticity\: Measuring Self-Improvement Through Experience](<https://huggingface.co/papers/2610.08902>) | Paper | Hugging Face |
 | 2026‑10‑06 | [Few Bits, One Law\: Toward W2A4KV2](<https://arxiv.org/abs/2610.09202v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [Logbook\: Extremely Long-form Audio Event Understanding](<https://arxiv.org/abs/2610.07338>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Exact Unlearning via Quantized Sufficient Statistics](<https://arxiv.org/abs/2610.07197>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Rethinking Long-Video Efficiency\: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](<https://arxiv.org/abs/2610.04318>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [Tightness of the Cycle-Based Relaxation for Completed Length-Three Alpha-Cycles](<https://ai.meta.com/research/publications/tightness-of-the-cycle-based-relaxation-for-completed-length-three-alpha-cycles/>) | Publication | Official page |

@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1853`
-- Latest: `2026-10-20`
+- Papers: `1856`
+- Latest: `2026-10-24`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,6 +16,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
+| 2026‑10‑21 | [Velocity Ambiguity Profiles\: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](<https://arxiv.org/abs/2610.30107>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [EPIC\: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping](<https://arxiv.org/abs/2610.29999>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Neural Network Fractional Quantum Hall States with Learnable Orbital Pair Matrix Factors\: Balancing Physical Priors and Flexibility](<https://arxiv.org/abs/2610.28095>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [LED\: Improving Masked Diffusion Language Models by Lookahead Editing](<https://arxiv.org/abs/2610.23122>) | Preprint | OpenAlex |

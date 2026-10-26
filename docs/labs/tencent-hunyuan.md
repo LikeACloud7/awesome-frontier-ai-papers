@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3833`
-- Latest: `2026-10-22`
+- Papers: `3839`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -24,10 +24,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [TGR-EvoDAG\: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](<https://arxiv.org/abs/2610.32326v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page |
 | 2026‑10‑22 | [LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated antibiotic resistance gene discovery](<https://doi.org/10.1038/s44259-026-00287-4>) | Article | OpenAlex |
 | 2026‑10‑21 | [WeVisOne-VL\: Unified Visual Perception from Objects to Pixels](<https://huggingface.co/papers/2610.31329>) | Preprint | Official page |
-| 2026‑10‑21 | [Beyond Binary Labels\: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics](<https://arxiv.org/abs/2610.29225v1>) | Paper | Verified affiliation |
+| 2026‑10‑21 | [HiSTEVE 1\.0\: Harnessing Human-Interface VLA Agents for Open-World Games](<https://huggingface.co/papers/2610.31162>) | Preprint | Official page |
+| 2026‑10‑21 | [TIDE\: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors](<https://arxiv.org/abs/2610.29985>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [ER-Chord\: Spatially Consistent One-Step Image Editing via Equal-Energy Reliability Redistribution](<https://arxiv.org/abs/2610.29248>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [CORD\: Conflict-Aware Optimization for Joint RL and Distillation in Agents](<https://arxiv.org/abs/2610.29965>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Attn-Forcing\: Learning Full-Context Attention Proxies for Streaming Video Generation](<https://arxiv.org/abs/2610.30036>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Beyond Binary Labels\: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics](<https://arxiv.org/abs/2610.29225v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑20 | [TrajEvolve\: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](<https://arxiv.org/abs/2610.28060>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Real In, Real Out\: What If We Only Use Real Data for Scene Text Editing?](<https://arxiv.org/abs/2610.27592>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [RITE\: Evaluating End-to-End Resilience to Silent Tool Errors in E-Commerce Agentic Systems](<https://arxiv.org/abs/2610.27777>) | Preprint | OpenAlex |

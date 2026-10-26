@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1115`
+- Papers: `1117`
 - Latest: `2026-10-20`
 - [Back to README](../../README.md#baidu)
 
@@ -126,12 +126,14 @@
 | 2026‑08‑03 | [CRISP\: Critical Step Perception for Training Efficient Deep Search Agents](<https://arxiv.org/abs/2608.01867>) | Preprint | OpenAlex |
 | 2026‑08‑01 | [FaverNet\: All-in-One Video Restoration via Frequency-Discriminative Conditioning](<https://doi.org/10.1007/s11263-026-02977-y>) | Article | OpenAlex |
 | 2026‑08‑01 | [CoeusBI\: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu](<https://doi.org/10.14778/3827998.3828017>) | Article | OpenAlex |
+| 2026‑07‑31 | [Low-Precision Training of Large Language Models\: Methods, Challenges, and Opportunities](<https://arxiv.org/abs/2505.01043>) | Article | OpenAlex |
 | 2026‑07‑30 | [Group-Reflective Self-Distillation for Agentic Reinforcement Learning](<https://arxiv.org/abs/2607.28076>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [Beyond Frame Selection\: Generative Latent Evidence Aggregation for Long-Video Understanding](<https://arxiv.org/abs/2607.28516>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [Agent Harness Distillation\: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems](<https://arxiv.org/abs/2607.28147>) | Preprint | OpenAlex |
 | 2026‑07‑29 | [Revisiting Lossy Verification in Speculative Decoding\: Mechanisms, Trade-offs, and Failure Modes](<https://arxiv.org/abs/2607.26627>) | Preprint | OpenAlex |
+| 2026‑07‑26 | [XSearch\: Exploring Microarchitecture Design Space through Bayesian Optimization and Cross Evaluation on Multi-Fidelity Simulators](<https://doi.org/10.1145/3770743.3804108>) | Conference paper | OpenAlex |
 | 2026‑07‑24 | [Enough is as good as a feast\: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](<https://arxiv.org/abs/2607.22039>) | Preprint | OpenAlex |
-| 2026‑07‑24 | [Deconstructing Off-Policy Ratios\: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning](<https://arxiv.org/abs/2607.22186>) | Preprint | OpenAlex |
+| 2026‑07‑24 | [Deconstructing Off-Policy Ratios\: Entropy-Normalized Trust Regions for Asynchronous Reinforcement Learning](<https://arxiv.org/abs/2607.22186>) | Preprint | OpenAlex |
 | 2026‑07‑22 | [DocOps\: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations](<https://arxiv.org/abs/2607.19865>) | Preprint | OpenAlex |
 | 2026‑07‑21 | [HPD-Parsing\: Hierarchical Parallel Document Parsing](<https://huggingface.co/papers/2607.18839>) | Technical report | Official page |
 | 2026‑07‑21 | [MedDDC-Eval\: Diagnosis-Decoupled Evaluation of Multi-Turn Medical Consultation Agents](<https://arxiv.org/abs/2607.18999>) | Preprint | OpenAlex |

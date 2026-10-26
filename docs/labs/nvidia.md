@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2125`
+- Papers: `2126`
 - Latest: `2026-10-21`
 - [Back to README](../../README.md#nvidia)
 
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [Reasoning as a Distribution\: Generative Plan Latents for Vision-Language-Action Models](<https://arxiv.org/abs/2610.28166>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [MLIPS\: Multi-Layer Indexer Pool Sharing](<https://arxiv.org/abs/2610.27438>) | Preprint | OpenAlex |
