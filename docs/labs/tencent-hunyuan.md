@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3839`
+- Papers: `3844`
 - Latest: `2026-10-23`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -15,6 +15,7 @@
 | n\.d\. | [CL-bench family\: A series of benchmarks for Context Learning](<https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-life-paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [modelnameorpath = "tencent/Hunyuan-A13B-Instruct"](<https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Install uv once (skip if you already have it)](<https://github.com/Tencent-Hunyuan/HY-Embodied/blob/master/Hy-Embodied-0.5/hy_embodied_tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [Hy-Nomas technical report](<https://github.com/Tencent-Hunyuan/Hy-Nomas/blob/main/Hy_Nomas_Tech_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Hy-MT](<https://github.com/Tencent-Hunyuan/Hy-MT/blob/main/HY_MT1_5_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Hunyuan-MT](<https://github.com/Tencent-Hunyuan/Hunyuan-MT/blob/main/Hunyuan_MT_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [FlashVDM](<https://github.com/Tencent-Hunyuan/FlashVDM/blob/main/assets/report.pdf>) | Technical report | Official repo |
@@ -25,11 +26,15 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑23 | [TGR-EvoDAG\: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](<https://arxiv.org/abs/2610.32326v1>) | Paper | Verified affiliation |
-| 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page |
+| 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑22 | [ValuSpec\: Plug-and-Play Candidate Valuation before Target Verification for Tree-Based Speculative Decoding](<https://arxiv.org/abs/2610.31338>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [ULME\: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling](<https://arxiv.org/abs/2610.30705>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated antibiotic resistance gene discovery](<https://doi.org/10.1038/s44259-026-00287-4>) | Article | OpenAlex |
+| 2026‑10‑22 | [GIFT\: Gradient Informed Filtering for Distillation Augmented Reasoning RL](<https://arxiv.org/abs/2610.30796>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [WeVisOne-VL\: Unified Visual Perception from Objects to Pixels](<https://huggingface.co/papers/2610.31329>) | Preprint | Official page |
 | 2026‑10‑21 | [HiSTEVE 1\.0\: Harnessing Human-Interface VLA Agents for Open-World Games](<https://huggingface.co/papers/2610.31162>) | Preprint | Official page |
 | 2026‑10‑21 | [TIDE\: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors](<https://arxiv.org/abs/2610.29985>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Protection Is Not One Event\: A Survey of RAG Protection Research by Measured Endpoint](<https://arxiv.org/abs/2610.30193>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [ER-Chord\: Spatially Consistent One-Step Image Editing via Equal-Energy Reliability Redistribution](<https://arxiv.org/abs/2610.29248>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CORD\: Conflict-Aware Optimization for Joint RL and Distillation in Agents](<https://arxiv.org/abs/2610.29965>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Attn-Forcing\: Learning Full-Context Attention Proxies for Streaming Video Generation](<https://arxiv.org/abs/2610.30036>) | Preprint | OpenAlex |
@@ -681,7 +686,7 @@
 | 2026‑06‑05 | [M$^3$Exam\: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](<https://arxiv.org/abs/2606.07402>) | Preprint | OpenAlex |
 | 2026‑06‑04 | [ReverseEOL\: Improving Training-free Text Embeddings via Text Reversal in Decoder-only LLMs](<https://arxiv.org/abs/2606.05858>) | Preprint | OpenAlex |
 | 2026‑06‑04 | [RedEdit\: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](<https://arxiv.org/abs/2606.06140>) | Preprint | OpenAlex |
-| 2026‑06‑04 | [ProSPy\: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL](<https://arxiv.org/abs/2606.05836>) | Preprint | OpenAlex |
+| 2026‑06‑04 | [ProSPy\: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL](<https://arxiv.org/abs/2606.05836v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑06‑04 | [Inverse Contrastive Representation Learning for Post-Click Conversion Rate Estimation](<https://doi.org/10.1145/3816726>) | Article | OpenAlex |
 | 2026‑06‑03 | [UAT\: Unified Audio-Text Diffusion for Audio Generation, Editing, and Captioning](<https://arxiv.org/abs/2606.04939>) | Preprint | OpenAlex |
 | 2026‑06‑03 | [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](<https://arxiv.org/abs/2606.04391>) | Preprint | OpenAlex |

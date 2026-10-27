@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `360`
+- Papers: `362`
 - Latest: `2026-10-22`
 - [Back to README](../../README.md#anthropic)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [paper](<https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tracing Model Outputs to the Training Data](<https://www.anthropic.com/research/influence-functions>) | Research post | Official page |
 | n\.d\. | [Red-teaming Claude Code's auto-mode monitor](<https://github.com/safety-research/red-teaming-auto-mode/blob/main/arena/replay/figures/paper/out/affordance_pm_grid.pdf>) | Technical report | Official repo |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
@@ -21,6 +22,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑22 | [Scaling Laws for Safety Probes](<https://doi.org/10.48550/arxiv.2610.30678>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [Model Organisms of Collusion\: Corrective Transfer in Untrusted Monitors](<https://arxiv.org/abs/2610.30582>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>) | Research post | Official page |
 | 2026‑10‑16 | [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>) | Research post | Official page |
 | 2026‑10‑16 | [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>) | Research post | Official page |

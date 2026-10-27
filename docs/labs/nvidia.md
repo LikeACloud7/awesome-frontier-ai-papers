@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2126`
-- Latest: `2026-10-21`
+- Papers: `2129`
+- Latest: `2026-10-22`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑22 | [Sensorimotor Alignment\: A Platonic Proxy for Embodied Policy Success](<https://arxiv.org/abs/2610.31670>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [Reasoning as a Distribution\: Generative Plan Latents for Vision-Language-Action Models](<https://arxiv.org/abs/2610.28166>) | Preprint | OpenAlex |
@@ -83,6 +85,7 @@
 | 2026‑10‑05 | [Ofan\: Optimal Load Balancing for AI Training](<https://arxiv.org/abs/2610.07230>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [NCCL M2N\: A Layout- and Topology-Aware Collective for Distributed Tensor Resharding](<https://arxiv.org/abs/2610.07516>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [MemCo\: Memory-Centric Collaboration for Generalizing LLM Agents to Unseen Environments](<https://arxiv.org/abs/2610.07376>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [When to Switch\: Reliable Action-Chunk Extension for Vision-Language-Action Models](<https://arxiv.org/abs/2610.05719v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [Look Where You Say You're Looking\: Self-Grounded Attention for Visual Reasoning](<https://arxiv.org/abs/2610.05023>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
@@ -137,10 +140,10 @@
 | 2026‑09‑28 | [ReCAT\: Remember, Count, and Time\: Structured Recurrent Memory for Robot Manipulation](<https://arxiv.org/abs/2609.35200>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [Disk-Based LSMs\: An Unexpectedly Good Index for Partly Coherent CXL Memory](<https://doi.org/10.1145/3830418.3843886>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [Cerium\: A Multi-GPU Framework for Terabyte-Scale Encrypted Inference](<https://doi.org/10.1145/3830418.3843864>) | Conference paper | OpenAlex |
+| 2026‑09‑27 | [Finite Probes Suffice\: Identifiability and Universality for Weight-Space Learning](<https://www.microsoft.com/en-us/research/publication/finite-probes-suffice-identifiability-and-universality-for-weight-space-learning/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑27 | [TT-VidT\: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](<https://arxiv.org/abs/2609.33419v2>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑09‑27 | [dKFD\: Phase-Structured Evidence Allocation for Fixed-Budget Localized Event Understanding](<https://arxiv.org/abs/2609.33083>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry](<https://arxiv.org/abs/2609.33999>) | Preprint | OpenAlex |
-| 2026‑09‑27 | [Finite Probes Suffice\: Identifiability and Universality for Weight-Space Learning](<https://arxiv.org/abs/2609.33901>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [TriDrive\: Joint Driver, Vehicle, and Road Modeling for Forecasting and Driver Monitoring](<https://arxiv.org/abs/2609.33000>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [TRAP\: Understanding and Mitigating Privacy Memorization in Language Models](<https://arxiv.org/abs/2609.32293>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [Permutation-Equivariant Flow Matching for Alignment-Free Neural Weight Generation](<https://arxiv.org/abs/2609.32833>) | Preprint | OpenAlex |

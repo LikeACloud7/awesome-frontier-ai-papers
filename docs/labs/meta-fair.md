@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1891`
-- Latest: `2026-10-21`
+- Papers: `1895`
+- Latest: `2026-10-25`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑25 | [InteractiveWorld\: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](<https://huggingface.co/papers/2610.33966>) | Paper | Hugging Face |
 | 2026‑10‑21 | [Right On Q\: Recovering Reasoning under Quantization via Self-Generated Trajectories](<https://arxiv.org/abs/2610.29378>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
 | 2026‑10‑19 | [Diagnostic Analysis for Large Language Model Reasoning](<https://arxiv.org/abs/2610.27245>) | Preprint | OpenAlex |
@@ -51,6 +52,7 @@
 | 2026‑10‑18 | [Abstract A158\: Racial and ethnic variation in conversion from actionable Guardant360 results to matched targeted therapy in non–small cell lung cancer\: A real-world analysis](<https://doi.org/10.1158/1538-7755.disp26-a158>) | Conference abstract | OpenAlex |
 | 2026‑10‑17 | [Learning to Program Retrievals\: Composing Search Primitives via Reinforcement Learning](<https://ai.meta.com/research/publications/learning-to-program-retrievals-composing-search-primitives-via-reinforcement-learning/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑16 | [Predictable Scaling\: Efficient Model Exploration via Scaling-Law Prediction](<https://arxiv.org/abs/2610.23453>) | Preprint | OpenAlex |
+| 2026‑10‑15 | [Diviner\: Agentic RCA with Human-Governed Adaptation for Large-Scale Infrastructure](<https://arxiv.org/abs/2610.21281>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Trends in Emergency Department Visits for Electric Scooter andElectric Bicycle Injuries in the United States, 2014–2023\: A Retrospective Observational Study](<https://ai.meta.com/research/publications/trends-in-emergency-department-visits-for-electric-scooter-and-electric-bicycle-injuries-in-the-united-states-2014-2023-a-retrospective-observational-study/>) | Publication | Official page |
 | 2026‑10‑14 | [Temporal Patterns of Arrhythmia and Conduction Disorder Diagnoses After Infective Endocarditis](<https://ai.meta.com/research/publications/temporal-patterns-of-arrhythmia-and-conduction-disorder-diagnoses-after-infective-endocarditis/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Social Needs Z Codes and Subsequent Acute Care Across 21 U\.S\. Health Systems](<https://ai.meta.com/research/publications/social-needs-z-codes-and-subsequent-acute-care-across-21-u-s-health-systems/>) | Publication | Official page, OpenAlex |
@@ -68,6 +70,7 @@
 | 2026‑10‑13 | [A CaLLM Judge is a Better Judge\: Mitigating Bias in LLM-as-a-judge](<https://arxiv.org/abs/2610.18108>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [IsoVRBench\: Video Reward Modeling Without Human Feedback](<https://arxiv.org/abs/2610.17234>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Scaling Multi-Agent Intelligence with Substrate-Centric Coordination](<https://arxiv.org/abs/2610.16120v1>) | Paper | Verified affiliation |
+| 2026‑10‑09 | [X-AgentRed\: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems](<https://arxiv.org/abs/2610.13886>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Video health monitor\: continuous quality verification at trillion scale](<https://doi.org/10.1117/12.3111715>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Quality and performance benchmarking of learned image codecs with conventional image codecs](<https://doi.org/10.1117/12.3112771>) | Conference abstract | OpenAlex |
 | 2026‑10‑09 | [Optimizing UVQ for scaling video quality assessment](<https://doi.org/10.1117/12.3112825>) | Conference abstract | OpenAlex |
@@ -108,6 +111,7 @@
 | 2026‑09‑29 | [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](<https://arxiv.org/abs/2609.38024>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Designing Reliable LLM-as-a-judge Measurement Systems for Multi-turn Business Agents](<https://doi.org/10.21203/rs.3.rs-11184291/v1>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [SPEAR-Gen\: Generation-Aware Pre-training for Unified Speech Representations](<https://arxiv.org/abs/2609.34147>) | Preprint | OpenAlex |
+| 2026‑09‑28 | [On nonlinear dimensionality reduction, linear smoothing, and boundary conditions](<https://doi.org/10.1007/s11432-026-5134-4>) | Article | OpenAlex |
 | 2026‑09‑28 | [Beyond One Epoch\: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models](<https://arxiv.org/abs/2609.34083>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RoPE is Dead, Long Live RoPE\: Towards Scalable Data-aware Positional Encodings](<https://arxiv.org/abs/2609.34556v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [On the Token Value Inequality in Efficient Reasoning](<https://arxiv.org/abs/2609.33970>) | Preprint | OpenAlex |

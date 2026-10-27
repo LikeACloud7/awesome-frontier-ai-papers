@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1117`
+- Papers: `1118`
 - Latest: `2026-10-20`
 - [Back to README](../../README.md#baidu)
 
@@ -14,7 +14,7 @@
 | 2026‑10‑19 | [Intra-Rubric Reward Divergence\: Mitigating Rubric Hacking through Latent Dimension Recovery and Balancing](<https://arxiv.org/abs/2610.26685>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [A Multi-task Model for Long-Term Active Days Prediction](<https://doi.org/10.1007/978-981-92-6913-6_25>) | Conference paper | OpenAlex |
 | 2026‑10‑19 | [Vision-Language-Delta-Action\: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](<https://arxiv.org/abs/2610.25874v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation |
+| 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑16 | [Trojan Horse\: Automated Repository Poisoning against Coding Agents](<https://arxiv.org/abs/2610.23109>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [SkyAgent\: Revisable Target Memory for Continuous Aerial Search](<https://arxiv.org/abs/2610.23293>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Rethinking GRPO for Large Reasoning Model Safety Alignment](<https://arxiv.org/abs/2610.23085>) | Preprint | OpenAlex |
@@ -44,6 +44,7 @@
 | 2026‑09‑29 | [VidHarness\: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding](<https://arxiv.org/abs/2609.38413v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
 | 2026‑09‑28 | [FactorEngram\: Factorized N-gram Memory with Basis-Level Gating for Language Models](<https://huggingface.co/papers/2609.35578>) | Paper | Hugging Face, OpenAlex |
+| 2026‑09‑27 | [Unified Target-Speaker ASR with Text and Enrollment Speech Cues](<https://arxiv.org/abs/2609.33853>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [TTRSD\: Test-Time Reinforcement Learning with Self-Distillation for Vision-Language Models](<https://arxiv.org/abs/2609.33414>) | Preprint | OpenAlex |
 | 2026‑09‑27 | [Positions Are Not Facts\: The Mismatch Between KV Caches and Memory](<https://arxiv.org/abs/2609.33759>) | Preprint | OpenAlex |
 | 2026‑09‑26 | [REFINE\: A Resilient Evolution Framework for Intelligent Enterprise Alert Triage in Security Operations Centers](<https://arxiv.org/abs/2609.32516>) | Preprint | OpenAlex |

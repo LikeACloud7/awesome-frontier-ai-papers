@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1514`
-- Latest: `2026-10-19`
+- Papers: `1515`
+- Latest: `2026-10-26`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑26 | [GHARP\: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior](<https://machinelearning.apple.com/research/gharp-head-animation>) | Publication | Official page |
 | 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [Latent World Models Should Plan with Distances Along the Latent Manifold](<https://arxiv.org/abs/2610.25013>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Selection-Based Structured Reasoning\: Toward Efficient Multimodal Search Agents](<https://machinelearning.apple.com/research/selection-structured-reasoning>) | Publication | Official page |

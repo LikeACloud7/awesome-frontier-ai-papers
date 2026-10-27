@@ -1,8 +1,8 @@
 # MiniMax Papers
 
 - Region: `China`
-- Papers: `23`
-- Latest: `2026-07`
+- Papers: `24`
+- Latest: `2026-10-15`
 - [Back to README](../../README.md#minimax)
 
 ## No date
@@ -15,6 +15,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑15 | [Dendritic computation bridges neuroscience and foundation models](<https://doi.org/10.1038/s41467-026-77929-8>) | Article | OpenAlex |
 | 2026‑07 | [Mage-VL\: An Efficient Codec-Native Streaming Multimodal Foundation Model](<https://huggingface.co/papers/2607.24904>) | Technical report | Official page |
 | 2026‑06‑10 | [MiniMax Sparse Attention](<https://huggingface.co/papers/2606.13392>) | Technical report | Official page, Verified affiliation, Hugging Face |
 | 2026‑06‑10 | [MaxProof\: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](<https://huggingface.co/papers/2606.13473>) | Technical report | Official page, Hugging Face |

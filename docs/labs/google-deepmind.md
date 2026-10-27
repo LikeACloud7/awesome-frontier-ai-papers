@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5664`
+- Papers: `5669`
 - Latest: `2026-10-23`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -19,10 +19,14 @@
 | 2026‑10‑23 | [How Blind or Low Vision Creators Use Tools for Ideation\: A Survey](<https://doi.org/10.1145/3797867.3841194>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
 | 2026‑10‑22 | [VR and Mobile Games for Wildfire Preparedness\: A Comparative Study](<https://doi.org/10.1145/3800965.3834278>) | Conference paper | OpenAlex |
+| 2026‑10‑22 | [Reverse-KL Policy Distillation\: Statistical Guarantees and Limits](<https://arxiv.org/abs/2610.30844>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [How Depth Growth and Looping Shape In-Context Learning in Language Models](<https://arxiv.org/abs/2610.31421>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [A Vast Navigable Protein Sequence Subspace](<https://doi.org/10.64898/2026.10.18.759989>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Derivation Depth Exposes Reasoning Failures in Tool-Augmented Music Analysis](<https://arxiv.org/abs/2610.29060>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Towards Faithful Data Selection\: Statistical Limits and Scalable Algorithms](<https://arxiv.org/abs/2610.30442>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Seeing the Forest for the Trees\: Emergent Agreement from Individual Conversations](<https://arxiv.org/abs/2610.29328>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [ProactEgoMem\: Benchmarking Proactive Memory in Streaming Egocentric Video](<https://arxiv.org/abs/2610.30089>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [PLE\: Physical-Engineering's Last Exam](<https://arxiv.org/abs/2610.30537>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Global forest typology at 10-meter resolution for forest and land-use monitoring](<https://doi.org/10.1038/s41597-026-08299-5>) | Data paper | OpenAlex |
 | 2026‑10‑21 | [Do Coding Agents Understand Why Systems Crash---and Why They Don't?](<https://arxiv.org/abs/2610.29332>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Characterizing Social Media Behavior under Limited Observability\: Retweet Link Prediction and Multimodal Intention Recognition](<https://arxiv.org/abs/2610.29375>) | Preprint | OpenAlex |
@@ -171,12 +175,12 @@
 | 2026‑09‑30 | [AI manipulation is context-dependent](<https://doi.org/10.21203/rs.3.rs-11011902/v1>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [AI and Agency\: Benefiting Users by Understanding and Serving Explicit Aspirations](<https://doi.org/10.54501/jots.v3i4.352>) | Article | OpenAlex |
 | 2026‑09‑30 | [ChronoGraph\: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning](<https://arxiv.org/abs/2609.39665v2>) | Paper | Verified affiliation |
+| 2026‑09‑29 | [Imagine3D-LLM\: Teaching MLLMs to Imagine 3D Scenes Before Answering](<https://www.microsoft.com/en-us/research/publication/imagine3d-llm-teaching-mllms-to-imagine-3d-scenes-before-answering/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑29 | [VADER\: Filtered Vector Search with Declarative Recall](<https://arxiv.org/abs/2609.38053>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [The Safety Operator\: Modulating the Expression of Safety Instructions via Spectral Optimization](<https://arxiv.org/abs/2609.36434>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [TabFM\: A Zero-Shot Foundation Model for Tabular Data](<https://arxiv.org/abs/2609.37959>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [TabFM-Auto\: Self-Evolving Pipelines for Tabular Foundation Models](<https://arxiv.org/abs/2609.37989>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [StateFork\: Branchable Infrastructure for Agent Exploration](<https://arxiv.org/abs/2609.38648>) | Preprint | OpenAlex |
-| 2026‑09‑29 | [Imagine3D-LLM\: Teaching MLLMs to Imagine 3D Scenes Before Answering](<https://arxiv.org/abs/2609.38177>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Efficient Linkage-Based Compartmentalization on CHERI](<https://arxiv.org/abs/2609.36731>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Conditional Generation of Creative Chess Puzzles with Diffusion Models](<https://arxiv.org/abs/2609.38577>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Beyond Interaction Capacity\: Estimator Scaling with Recursive Models for CTR Prediction](<https://arxiv.org/abs/2609.37905>) | Preprint | OpenAlex |
@@ -590,7 +594,6 @@
 | 2026‑06‑15 | [Artificial Minds, Human Disagreement\: The Politics of AI Consciousness](<https://deepmind.google/research/publications/248131/>) | Publication | Official page |
 | 2026‑06‑15 | [Agents, Alignment, and the Many Faces of Autonomy](<https://doi.org/10.1007/s11023-026-09786-9>) | Article | OpenAlex |
 | 2026‑06‑15 | [How Post-Training Shapes Biological Reasoning Models](<https://arxiv.org/abs/2606.16517>) | Preprint | OpenAlex |
-| 2026‑06‑15 | [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](<https://arxiv.org/abs/2606.16576>) | Preprint | OpenAlex |
 | 2026‑06‑15 | [AI and System Evolution in CPD\: Integrating CHAT with a Unified Theory of Emergent System Evolution](<https://doi.org/10.1097/ceh.0000000000000655>) | Article | OpenAlex |
 | 2026‑06‑15 | [3D Scene Graphs\: Open Challenges and Future Directions](<https://arxiv.org/abs/2606.19383v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑06‑14 | [Workload-Aware Caching for Multi-Agent Systems](<https://arxiv.org/abs/2607.20495>) | Preprint | OpenAlex |
@@ -1644,6 +1647,7 @@
 | 2026 | [DocLens\: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](<https://research.google/pubs/doclens-a-tool-augmented-multi-agent-framework-for-long-visual-document-understanding/>) | Publication | Official page, OpenAlex |
 | 2026 | [Digital Shadow AI Risk Theoretical Framework (DART)\: A Framework for Managing Data Disclosure and Privacy Risks of AI tools at Work](<https://research.google/pubs/digital-shadow-ai-risk-theoretical-framework-dart-a-framework-for-managing-data-disclosure-and-privacy-risks-of-ai-tools-at-work-2/>) | Publication | Official page |
 | 2026 | [Diffusion Controller\: Framework, Algorithms and Parameterization](<https://research.google/pubs/diffusion-controller-framework-algorithms-and-parameterization/>) | Publication | Official page |
+| 2026 | [Dialect Bias in Speech Recognition Across 10 Spanish and French Varieties](<https://research.google/pubs/dialect-bias-in-speech-recognition-across-10-spanish-and-french-varieties/>) | Publication | Official page |
 | 2026 | [Developer Productivity in the Age of Generative AI\: A Psychological Perspective](<https://research.google/pubs/developer-productivity-in-the-age-of-generative-ai-a-psychological-perspective/>) | Publication | Official page |
 | 2026 | [Detecting Safety Training Modification in Language Models via Activation Analysis](<https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/>) | Publication | Official page, OpenAlex |
 | 2026 | [Cost-Aware Learning](<https://research.google/pubs/cost-aware-learning/>) | Publication | Official page, OpenAlex |
@@ -1658,6 +1662,7 @@
 | 2026 | [Challenges, Constraints, and Approaches for Readout of State-of-the-Art Superconducting Quantum Processors](<https://research.google/pubs/challenges-constraints-and-approaches-for-readout-of-state-of-the-art-superconducting-quantum-processors/>) | Publication | Official page |
 | 2026 | [Causal Armor\: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](<https://research.google/pubs/causal-armor-efficient-indirect-prompt-injection-guardrails-via-causal-attribution/>) | Publication | Official page |
 | 2026 | [Can we talk about probabilistic forecasting for a minute or two?](<https://research.google/pubs/can-we-talk-about-probabilistic-forecasting-for-a-minute-or-two/>) | Publication | Official page |
+| 2026 | [Can Agents Infer Environment from Interaction? Evidence from Agentic Automata Learning](<https://research.google/pubs/can-agents-infer-environment-from-interaction-evidence-from-agentic-automata-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Calibrating Trustworthiness in GenAI](<https://research.google/pubs/calibrating-trustworthiness-in-genai/>) | Publication | Official page |
 | 2026 | [CROP\: Token-Efficient Reasoning in Large Language Models via Regularized Prompt Optimization](<https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/>) | Publication | Official page |
 | 2026 | [CATWILD\: Compiler Autotuning For TPU workloads in the Wild](<https://research.google/pubs/catwild-compiler-autotuning-for-tpu-workloads-in-the-wild/>) | Publication | Official page |

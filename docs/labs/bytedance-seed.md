@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1856`
+- Papers: `1864`
 - Latest: `2026-10-24`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,9 +17,13 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
+| 2026‑10‑22 | [Learning from Next-Frame Prediction\: Towards Unified and Scalable Visual Representation Learning](<https://arxiv.org/abs/2610.30724>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [Cola2\: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](<https://arxiv.org/abs/2610.31305>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Velocity Ambiguity Profiles\: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](<https://arxiv.org/abs/2610.30107>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [EPIC\: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping](<https://arxiv.org/abs/2610.29999>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Neural Network Fractional Quantum Hall States with Learnable Orbital Pair Matrix Factors\: Balancing Physical Priors and Flexibility](<https://arxiv.org/abs/2610.28095>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Household Food Insecurity and Housing Stress](<https://doi.org/10.1002/aepp.70135>) | Article | OpenAlex |
+| 2026‑10‑20 | [Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning](<https://arxiv.org/abs/2610.28966>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [LED\: Improving Masked Diffusion Language Models by Lookahead Editing](<https://arxiv.org/abs/2610.23122>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Full-Duplex Interaction with Speech, Expressions and Gestures](<https://arxiv.org/abs/2610.21452>) | Preprint | OpenAlex |
@@ -27,10 +31,13 @@
 | 2026‑10‑14 | [Cortex\: Consolidating Context into Parametric Memory](<https://huggingface.co/papers/2610.20399>) | Paper | Hugging Face, OpenAlex |
 | 2026‑10‑14 | [DeltaStreamer\: Towards Human-Like Agentic Streaming Video Understanding](<https://arxiv.org/abs/2610.19849>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [FRACTION\: Fraud Explanation Generation via Agentic Graph Context Navigation](<https://arxiv.org/abs/2610.18023>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Diff Diffusion\: Predicting Edit Paths with Diffusion Models for Efficient Code Editing](<https://arxiv.org/abs/2610.17831>) | Preprint | OpenAlex |
 | 2026‑10‑11 | [ObsSpec\: Accelerating Agentic Reinforcement Learning with Observation Speculation](<https://arxiv.org/abs/2610.15246>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [Trajectory-Aware Policy Optimization\: Closing the State Distribution Gap in Long-Horizon LLM RL](<https://arxiv.org/abs/2610.13020>) | Preprint | OpenAlex |
+| 2026‑10‑09 | [Generalized Proximal Policy Optimization\: Unifying LLM RL Algorithms from the Perspective of Divergence](<https://arxiv.org/abs/2610.13015>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [One Model, Multiple Compute Budgets\: Multi-Ratio ConceptMoE for Flexible Compute Across Turns](<https://arxiv.org/abs/2610.14074>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Few-Step Generation via Data-Space Iteration](<https://huggingface.co/papers/2610.12102>) | Paper | Hugging Face |
-| 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑07 | [Transferability of Learned States in Neural PDE Solvers](<https://arxiv.org/abs/2610.10972>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Open-MMUnlearning\: Unifying Methods and Evaluation for MLLM Unlearning](<https://arxiv.org/abs/2610.10358>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Expanding Guard Reach\: Online Learning-Driven Incremental Kernel Panic Diagnosis](<https://doi.org/10.1145/3832783.3834474>) | Conference paper | OpenAlex |
@@ -49,6 +56,7 @@
 | 2026‑09‑29 | [Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](<https://arxiv.org/abs/2609.37710>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Breaking the Uniformity Trap\: Scaling Video Diffusion Model via SplitMoE](<https://huggingface.co/papers/2609.38140>) | Paper | Hugging Face, OpenAlex |
 | 2026‑09‑28 | [Periodic Weak Spots\: Phase Sensitivity from Chunked KV-Cache Compression](<https://seed.bytedance.com/en/research/periodic-weak-spots-phase-sensitivity-from-chunked-kv-cache-compression>) | Publication | Official page, Hugging Face |
+| 2026‑09‑28 | [AI4Research\: a survey of artificial intelligence for scientific research](<http://arxiv.org/abs/2507.01903>) | Article | OpenAlex |
 | 2026‑09‑28 | [TensorHub\: Scalable and Elastic Weight Transfer for LLM RL Training](<https://arxiv.org/abs/2604.09107>) | Conference paper | OpenAlex |
 | 2026‑09‑28 | [SALMONN-duo\: Adaptive Dual-System Coordination for Full-Duplex Voice Agents](<https://arxiv.org/abs/2609.34247>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [RGDT-Bench\: Benchmarking LLM Reasoning for Rule-Governed Decisions and Their Justifications](<https://arxiv.org/abs/2609.34455>) | Preprint | OpenAlex |

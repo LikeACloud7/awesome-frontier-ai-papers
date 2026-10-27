@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3917`
-- Latest: `2026-10-23`
+- Papers: `3925`
+- Latest: `2026-10-25`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,8 +19,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑25 | [RnR-ExM\: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes](<https://doi.org/10.64898/2026.10.22.760871>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [RynnVLA-Latent\: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](<https://arxiv.org/abs/2610.34356v1>) | Paper | Verified affiliation |
+| 2026‑10‑23 | [Qwen-Image-PE\: Learning Visual Design for Text-to-Image Prompt Enhancement](<https://huggingface.co/papers/2610.33472>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑23 | [Cross3DReg\: A Real-world Cross-source Point Cloud Registration Benchmark](<https://doi.org/10.1007/s11263-026-03095-5>) | Article | OpenAlex |
+| 2026‑10‑22 | [What the Specification Did Not Say\: Specification-Oracle Gaps in Test-Graded Coding-Agent Benchmarks](<https://arxiv.org/abs/2610.30635>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [UserArena\: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](<https://arxiv.org/abs/2610.30932>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [ResGVC\: Residual Coding for High-fidelity Generative Video Compression](<https://arxiv.org/abs/2610.31039>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Mitigating Exploration Sluggishness in Iterative Knowledge Graph Augmentation](<https://doi.org/10.1007/978-3-032-42026-8_13>) | Conference paper | OpenAlex |
+| 2026‑10‑22 | [Building Presentation Intelligence for High-Quality Slide Generation](<https://arxiv.org/abs/2610.30888>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Beyond Watching and Searching\: Benchmarking Agents for Video-centered Deep Research Reports](<https://huggingface.co/papers/2610.31158>) | Preprint | Official page |
 | 2026‑10‑21 | [Relational Geometry Forcing for World Action Models](<https://arxiv.org/abs/2610.29282>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Omnilingual-MsASR\: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models](<https://arxiv.org/abs/2610.29455>) | Preprint | OpenAlex |
@@ -33,6 +40,7 @@
 | 2026‑10‑19 | [Procedural Exposure Bias in Skill-Augmented Language Model Agents](<https://arxiv.org/abs/2610.26062>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [HarnessRL\: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL](<https://arxiv.org/abs/2610.26426>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Focused Omni-Modal GUI Agents](<https://arxiv.org/abs/2610.26203>) | Preprint | OpenAlex |
+| 2026‑10‑19 | [FlexVDR\: Learning to Allocate Matryoshka Representation Budgets for Visual Document Retrieval](<https://arxiv.org/abs/2610.30177>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Don't Rewrite the SID Map\: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search](<https://arxiv.org/abs/2610.26105>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [RARE\: Reinforcement Learning with Adaptive Rubric Evolution for Open-Ended Generation](<https://arxiv.org/abs/2610.25434v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑16 | [ToPA\: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](<https://arxiv.org/abs/2610.22883>) | Preprint | OpenAlex |
@@ -40,6 +48,7 @@
 | 2026‑10‑16 | [Sep-Latent\: Separator Tokens as Natural Compression Anchors for Implicit Reasoning](<https://arxiv.org/abs/2610.22924>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [GR-OPD\: Group-Relative Sequence Credit for On-Policy Distillation](<https://arxiv.org/abs/2610.23042>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [MultiAgent-OPD\: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](<https://arxiv.org/abs/2610.23234v1>) | Paper | Verified affiliation |
+| 2026‑10‑15 | [Dendritic computation bridges neuroscience and foundation models](<https://doi.org/10.1038/s41467-026-77929-8>) | Article | OpenAlex |
 | 2026‑10‑15 | [Waypoint-OPD\: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](<https://arxiv.org/abs/2610.21601>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models](<https://arxiv.org/abs/2610.22217>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [ReFlow\: Replay-Driven Decoupling for Efficient RL Post-Training](<https://arxiv.org/abs/2610.21640>) | Preprint | OpenAlex |
@@ -48,7 +57,6 @@
 | 2026‑10‑15 | [P2TPO\: Structure-Aligned Page-to-Token Credit Assignment for Full-Page Document Parsing](<https://arxiv.org/abs/2610.21979>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [MetaExp\: Learning to Self-Improve through Experience via Verifiable Cross-Task Environment Scaling](<https://arxiv.org/abs/2610.21492>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Learning to Steer LLM Agents and Multi-Agent Systems](<https://arxiv.org/abs/2610.22316>) | Preprint | OpenAlex |
-| 2026‑10‑15 | [Dendritic computation bridges neuroscience and foundation models](<https://doi.org/10.1038/s41467-026-77929-8>) | Article | OpenAlex |
 | 2026‑10‑15 | [CIM-Embed\: Learning Instruction-Conditioned Multimodal Embeddings for Clustering](<https://arxiv.org/abs/2610.21805>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [AgentEval\: Evidence-Bounded Assessment of Stateful Agents](<https://doi.org/10.48550/arxiv.2610.21177>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds](<https://huggingface.co/papers/2610.20195>) | Paper | Hugging Face, OpenAlex |
@@ -701,7 +709,7 @@
 | 2026‑06‑13 | [Ling and Ring 2\.6 Technical Report\: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](<https://huggingface.co/papers/2606.15079>) | Technical report | Official page |
 | 2026‑06‑13 | [FreeSonic\: Training-Free Temporal-Aware Decoupled Attention for Precise Audio Editing](<https://arxiv.org/abs/2606.15186>) | Preprint | OpenAlex |
 | 2026‑06‑13 | [Edu-Theater\: A Data-Efficient Agent Framework for Scalable Learner Behavior Simulation through Staging Roll-Call](<https://arxiv.org/abs/2606.15225>) | Preprint | OpenAlex |
-| 2026‑06‑12 | [SkillAudit\: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](<https://arxiv.org/abs/2606.14239>) | Preprint | OpenAlex |
+| 2026‑06‑12 | [SelfEvoSkill\: Paired Execution Audits for Skill Revision without External Outcome Supervision](<https://arxiv.org/abs/2606.14239v2>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑06‑12 | [ClinHallu\: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](<https://arxiv.org/abs/2606.14697v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑06‑11 | [SkillChain\: Closing the Loop on Skill Evolution for Image-Based E-Commerce AI Assistants](<https://arxiv.org/abs/2606.12984>) | Preprint | OpenAlex |
 | 2026‑06‑11 | [ReSum\: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](<https://arxiv.org/abs/2606.13316>) | Preprint | OpenAlex |
