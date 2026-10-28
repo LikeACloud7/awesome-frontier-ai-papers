@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1864`
-- Latest: `2026-10-24`
+- Papers: `1865`
+- Latest: `2026-10-26`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑26 | [Reinforcement Learning Done Right for Explicit Confidence Targets](<https://arxiv.org/abs/2610.35059>) | Paper | Verified affiliation |
 | 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
 | 2026‑10‑22 | [Learning from Next-Frame Prediction\: Towards Unified and Scalable Visual Representation Learning](<https://arxiv.org/abs/2610.30724>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Cola2\: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](<https://arxiv.org/abs/2610.31305>) | Preprint | OpenAlex |

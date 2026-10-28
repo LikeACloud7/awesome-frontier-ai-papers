@@ -1,7 +1,7 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `518`
+- Papers: `519`
 - Latest: `2026-10-26`
 - [Back to README](../../README.md#openai)
 
@@ -21,6 +21,7 @@
 |---|---|---|---|
 | 2026‑10‑26 | [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>) | Research post | Official page |
 | 2026‑10‑26 | [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>) | Research post | Official page |
+| 2026‑10‑26 | [Generative AI and the temporary upskilling of knowledge workers](<https://doi.org/10.1038/s41562-026-02566-6>) | Article | OpenAlex |
 | 2026‑10‑21 | [Using thousands of AI agents to uncover new leads in biological data](<https://openai.com/index/scaling-ai-research-for-complex-biological-data>) | Research post | Official page |
 | 2026‑10‑21 | [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) | Research post | Official page |
 | 2026‑10‑19 | [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) | Research post | Official page |

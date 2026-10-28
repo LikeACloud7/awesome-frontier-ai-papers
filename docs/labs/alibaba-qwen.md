@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3925`
-- Latest: `2026-10-25`
+- Papers: `3927`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [RynnWorld-Latent\: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](<https://arxiv.org/abs/2610.36791v1>) | Paper | Verified affiliation |
+| 2026‑10‑25 | [Omni-InteractScope\: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams](<https://huggingface.co/papers/2610.35439>) | Preprint | Official page |
 | 2026‑10‑25 | [RnR-ExM\: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes](<https://doi.org/10.64898/2026.10.22.760871>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [RynnVLA-Latent\: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](<https://arxiv.org/abs/2610.34356v1>) | Paper | Verified affiliation |
 | 2026‑10‑23 | [Qwen-Image-PE\: Learning Visual Design for Text-to-Image Prompt Enhancement](<https://huggingface.co/papers/2610.33472>) | Preprint | Official page, Hugging Face |

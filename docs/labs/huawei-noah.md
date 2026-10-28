@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4124`
-- Latest: `2026-10-23`
+- Papers: `4128`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [SAGE\: Saliency-Annealed Gated Encoder for Universal Vision Recognition](<https://arxiv.org/abs/2610.36719v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [Robust LLM Data Selection via Content-Invariant Gradient Attribution](<https://arxiv.org/abs/2610.36755v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [EffBench\: A Holistic Efficiency Benchmark for CTR Models](<https://doi.org/10.1145/3857278>) | Article | OpenAlex |
+| 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
 | 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑22 | [To Route or to Adapt? Multi-Expert Diffusion Planners in Unseen Regions](<https://arxiv.org/abs/2610.31095>) | Preprint | OpenAlex |

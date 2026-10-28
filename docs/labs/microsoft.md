@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4126`
+- Papers: `4130`
 - Latest: `2026-10-26`
 - [Back to README](../../README.md#microsoft)
 
@@ -142,8 +142,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑26 | [Large language models for computational social science](<https://doi.org/10.1038/s41562-026-02539-9>) | Article | OpenAlex |
+| 2026‑10‑26 | [Explainable Fuzzy AI for Physics Simulation](<https://doi.org/10.1007/978-3-032-35459-4_39>) | Conference paper | OpenAlex |
+| 2026‑10‑26 | [Enhanced diffusion sampling\: Efficient rare event sampling and free energy calculation with diffusion models](<https://arxiv.org/abs/2602.16634>) | Article | OpenAlex |
 | 2026‑10‑26 | [SEMA-Auto\: Sighted and Efficient Multi-Turn Attack with Autonomy](<https://arxiv.org/abs/2610.35743v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [HiLO\: Towards Product-Level Graceful Degradation with a Quality-Aware, Load-Aware Control Framework](<https://arxiv.org/abs/2610.34844v1>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [Contingent Planning in Domains with Unsafe Facts](<https://doi.org/10.3390/automation7060170>) | Article | OpenAlex |
 | 2026‑10‑23 | [Prompt and Circumstance\: Evaluating Accessibility in LLM-Generated HTML Form Components](<https://doi.org/10.1145/3797867.3828975>) | Conference paper | OpenAlex |
 | 2026‑10‑23 | [Bespoke Visual Assistance\: What and How do Blind and Low-Vision People Create with Agentic Programming?](<https://arxiv.org/abs/2607.21760>) | Conference paper | OpenAlex |
 | 2026‑10‑23 | [A Lightweight Deep Learning Framework for Real-Time Cyberattack Detection in Internet of Things Networks](<https://doi.org/10.71465/csb226>) | Article | OpenAlex |
@@ -160,8 +164,8 @@
 | 2026‑10‑21 | [C hronos \: Scalable and Cost-Effective Cloud-based RAN Emulation System](<https://doi.org/10.1145/3795866.3844156>) | Conference paper | OpenAlex |
 | 2026‑10‑21 | [Bridging Foundational and Agentic Capabilities of LLMs](<https://arxiv.org/abs/2610.29751>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [BrainCodes\: A Lightweight EEG Foundation Model over Discrete Neural Codes](<https://arxiv.org/abs/2610.29320>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [From Weather to Enhanced Weathering\: Weather Foundation Models for Carbon Dioxide Removal at Operational Scale](<https://www.microsoft.com/en-us/research/publication/from-weather-to-enhanced-weathering-weather-foundation-models-for-carbon-dioxide-removal-at-operational-scale/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑20 | [The Labor of Storytelling\: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation](<https://arxiv.org/abs/2610.28438>) | Preprint | OpenAlex |
-| 2026‑10‑20 | [From Weather to Enhanced Weathering\: Weather Foundation Models for Carbon Dioxide Removal at Operational Scale](<https://arxiv.org/abs/2610.28973>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Beyond 4 bits\: Data-Centric Post-training Quantization and Recovery](<https://arxiv.org/abs/2610.28537>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [When the harness decides success\: state that cannot be re-observed](<https://doi.org/10.48550/arxiv.2610.26632>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [V-JEPA Hand\: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos](<https://arxiv.org/abs/2610.26780>) | Preprint | OpenAlex |
@@ -261,14 +265,14 @@
 | 2026‑10‑07 | [Unified Multi-plane Autoregressive Diffusion for 3D Multi-contrast MRI Synthesis](<https://arxiv.org/abs/2610.09376v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Safe at One Loop, Risky at Another\: Aligning Safety Across Recurrent Depths in Looped Language Models](<https://arxiv.org/abs/2610.10625v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://arxiv.org/abs/2610.09254v1>) | Paper | Verified affiliation |
+| 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://www.microsoft.com/en-us/research/publication/anaximander-interactively-running-geospatial-deep-learning-models-on-any-compute-backend-2/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑10‑06 | [Reinforcement Learning with Segment Reward Feedback under Linear Function Approximation](<https://arxiv.org/abs/2610.08271v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑06 | [WarpDRF\: The Unwritten Contract of GPU Warp Programming](<https://arxiv.org/abs/2610.07541>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Training Language Models To Be Coherent Decision-Makers](<https://arxiv.org/abs/2610.09164>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Learning the electronic health record at the minute-scale](<https://doi.org/10.64898/2026.10.04.26364562>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [DirectSpeech2LLM\: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs](<https://arxiv.org/abs/2610.08085>) | Preprint | OpenAlex |
-| 2026‑10‑06 | [Anaximander\: Interactively Running Geospatial Deep Learning Models on Any Compute Backend](<https://arxiv.org/abs/2610.09085v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑05 | [MiniCorp\: The Last Mile to an AI Agent Corporation](<https://arxiv.org/abs/2610.05912v2>) | Paper | Hugging Face, Verified affiliation |
-| 2026‑10‑05 | [GraphDecisionBench\: Benchmarking System One Models on Graph Tasks](<https://arxiv.org/abs/2610.06354>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [GraphDecide\: Benchmarking System One Models on Graph Tasks](<https://www.microsoft.com/en-us/research/publication/graphdecide-benchmarking-system-one-models-on-graph-tasks/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑05 | [Fork-and-Flush\: Escaping Idea Basins in Autoresearch Agents](<https://arxiv.org/abs/2610.07447>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Considering Context\: When World Models Need Context Encoders](<https://arxiv.org/abs/2610.06651>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Capability-Driven Self-Evolution of Agent Memory](<https://arxiv.org/abs/2610.06361>) | Preprint | OpenAlex |

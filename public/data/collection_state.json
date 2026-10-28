@@ -1,5 +1,5 @@
 {
-  "next_lab": 17,
+  "next_lab": 18,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-10-11",
@@ -87,7 +87,7 @@
       "since": "2024-01-01"
     },
     "MiniMax": {
-      "last_attempt": "2026-10-09",
+      "last_attempt": "2026-10-28",
       "status": "partial",
       "since": "2024-01-01"
     },

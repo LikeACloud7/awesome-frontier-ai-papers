@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3844`
-- Latest: `2026-10-23`
+- Papers: `3846`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -25,6 +25,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [FeatureArc\: Benchmarking Coding Agents on Evolving Features](<https://arxiv.org/abs/2610.37434v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [Hy-Nomas\: Towards Free-form Interactive World Generation](<https://huggingface.co/papers/2610.36729>) | Preprint | Official page |
 | 2026‑10‑23 | [TGR-EvoDAG\: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](<https://arxiv.org/abs/2610.32326v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑22 | [ValuSpec\: Plug-and-Play Candidate Valuation before Target Verification for Tree-Based Speculative Decoding](<https://arxiv.org/abs/2610.31338>) | Preprint | OpenAlex |
@@ -771,9 +773,9 @@
 | 2026‑05‑20 | [Dr\.V \: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-Grained Spatial-Temporal Grounding](<http://arxiv.org/abs/2509.11866>) | Article | OpenAlex |
 | 2026‑05‑20 | [VersusQ\: Pairwise Margin Reasoning for Generalizable Video Quality Assessment](<https://arxiv.org/abs/2605.21130>) | Preprint | OpenAlex |
 | 2026‑05‑19 | [PlanningBench\: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models](<https://huggingface.co/papers/2605.20873>) | Technical report | Official page, OpenAlex |
+| 2026‑05‑19 | [HyperLogic\: A Hard, Forward-Authored Chinese Logical Reasoning Benchmark with Execution-Derived Answers](<https://huggingface.co/papers/2605.19597>) | Preprint | OpenAlex, Official page |
 | 2026‑05‑19 | [Stage-adaptive Token Selection for Efficient Omni-modal LLMs](<https://arxiv.org/abs/2605.20035>) | Preprint | OpenAlex |
 | 2026‑05‑19 | [Semantic-Enriched Latent Visual Reasoning](<https://arxiv.org/abs/2605.19342>) | Preprint | OpenAlex |
-| 2026‑05‑19 | [LLMEval-Logic\: A Solver-Verified Chinese Benchmark for Logical Reasoning of LLMs with Adversarial Hardening](<https://arxiv.org/abs/2605.19597>) | Preprint | OpenAlex |
 | 2026‑05‑19 | [Hunting Vulnerability Variants in AI Infra\: Measurement and Reference-Driven Detection](<https://arxiv.org/abs/2605.20051>) | Preprint | OpenAlex |
 | 2026‑05‑19 | [BrushEdit\: All-in-One Image Inpainting and Editing](<http://arxiv.org/abs/2412.10316>) | Article | OpenAlex |
 | 2026‑05‑18 | [Code-as-Room\: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](<https://huggingface.co/papers/2605.18451>) | Technical report | Official page |

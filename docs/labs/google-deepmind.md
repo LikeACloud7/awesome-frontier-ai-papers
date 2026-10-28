@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5669`
-- Latest: `2026-10-23`
+- Papers: `5673`
+- Latest: `2026-10-26`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,6 +15,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑26 | [Smartphone-based Non-Invasive Classification of Anemia Severity using Deep Learning\: A Cross-Sectional Study in Rural India](<https://doi.org/10.64898/2026.10.22.26366247>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Multimodal Accessibility Planning with AI Models (MAP) Workshop](<https://doi.org/10.1145/3797867.3832452>) | Conference paper | OpenAlex |
 | 2026‑10‑23 | [How Blind or Low Vision Creators Use Tools for Ideation\: A Survey](<https://doi.org/10.1145/3797867.3841194>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
@@ -106,6 +107,7 @@
 | 2026‑10‑08 | [Data everywhere, but are they fit for purpose?](<https://doi.org/10.1126/science.ael8349>) | Article | OpenAlex |
 | 2026‑10‑08 | [CoSpaN\: Permissionless Consensus in Sparse Networks](<https://doi.org/10.1007/978-3-032-38708-0_28>) | Conference paper | OpenAlex |
 | 2026‑10‑08 | [Beyond frozen teachers\: co-training and co-distillation for task-specific fine-tuning](<https://doi.org/10.1117/12.3118495>) | Conference abstract | OpenAlex |
+| 2026‑10‑08 | [Perception Test 2026\: Challenge Summary and Extension to City-scale Audio-Visual Reasoning](<https://arxiv.org/abs/2610.12081v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Secure-CUA\: Controlling Untrusted Influence in Computer-Use Agents](<https://arxiv.org/abs/2610.09469>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [RECAST\: Learning to Compute the Right Context through Adaptive Evidence Routing](<https://arxiv.org/abs/2610.10507>) | Preprint | OpenAlex |
@@ -121,6 +123,7 @@
 | 2026‑10‑06 | [ASPIRE\: Agentic Safety &amp; Prompt Injection Red-teaming Engine](<https://doi.org/10.48550/arxiv.2610.08951>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [MiniCorp\: The Last Mile to an AI Agent Corporation](<https://arxiv.org/abs/2610.05912v2>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑10‑05 | [RAISED\: Self-Distillation for Robustness to Prompt Injection in LLM Agents](<https://arxiv.org/abs/2610.06401>) | Preprint | OpenAlex |
+| 2026‑10‑05 | [Protocol-Sensitive Evaluation of Log Anomaly Detection\: Component Costs and Target-Access Sensitivity on HDFS and BGL](<https://arxiv.org/abs/2610.05807>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [MRPilot\: Supervising and Intervening LLM-Based Multi-Robot Teams through Mixed Reality](<https://arxiv.org/abs/2610.07477>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [IdeaLens\: Detecting AI Ideas in Long-form Writing](<https://arxiv.org/abs/2610.06778>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Crossing Realities Has a Cost\: Evaluating AR Second Screens for AI-Assisted Desktop Authoring](<https://doi.org/10.1145/3822518.3830046>) | Conference paper | OpenAlex |
@@ -1495,6 +1498,7 @@
 | 2026 | [UniGeoCLIP\: Unified Geospatial Contrastive Learning](<https://research.google/pubs/unigeoclip-unified-geospatial-contrastive-learning/>) | Publication | Official page, OpenAlex |
 | 2026 | [Understanding U\.S\. Users' Security and Privacy Transparency Needs for Consumer-Facing Generative AI](<https://research.google/pubs/understanding-us-users-security-and-privacy-transparency-needs-for-consumer-facing-generative-ai/>) | Publication | Official page |
 | 2026 | [Type-Aware Ranking of Urban Similarity from Aerial Imagery](<https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/>) | Publication | Official page, OpenAlex |
+| 2026 | [Two Uncertainties Are Not One\: Disagreement versus Decision-Risk in Cheap Structured Content Moderation](<https://research.google/pubs/two-uncertainties-are-not-one-disagreement-versus-decision-risk-in-cheap-structured-content-moderation/>) | Publication | Official page |
 | 2026 | [Trust, but Validate the Instrument\: Auditing AI-Generated RTL Verification Plans on Authored Security-Regression Proxies](<https://research.google/pubs/trust-but-validate-the-instrument-auditing-ai-generated-rtl-verification-plans-on-authored-security-regression-proxies/>) | Publication | OpenAlex, Official page |
 | 2026 | [Towards Expert-level Medical AI for Real-time Video Consultations](<https://research.google/pubs/towards-expert-level-medical-ai-for-real-time-video-consultations/>) | Publication | Official page, Verified affiliation |
 | 2026 | [Towards AI as a Collaborative Partner\: A Taxonomy of AI Agent Behavior in Software Engineering](<https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/>) | Publication | Official page, OpenAlex |

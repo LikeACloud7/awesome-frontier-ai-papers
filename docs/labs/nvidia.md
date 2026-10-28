@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2129`
-- Latest: `2026-10-22`
+- Papers: `2131`
+- Latest: `2026-10-26`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [RSI Arena\: Towards Recursive Self-Improvement with Human Feedback](<https://arxiv.org/abs/2610.33624v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Sensorimotor Alignment\: A Platonic Proxy for Embodied Policy Success](<https://arxiv.org/abs/2610.31670>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
@@ -315,7 +317,6 @@
 | 2026‑07‑06 | [Quantum LEGO Learning\: A Modular Design Principle for Hybrid Artificial Intelligence](<https://doi.org/10.21203/rs.3.rs-9730742/v1>) | Preprint | OpenAlex |
 | 2026‑07‑04 | [Digital Twins for Science and Industry](<https://doi.org/10.1145/3799885.3816012>) | Conference paper | OpenAlex |
 | 2026‑07‑03 | [Principled approaches for extending neural architectures to function spaces for operator learning](<http://arxiv.org/abs/2506.10973>) | Article | OpenAlex |
-| 2026‑07‑03 | [MotionBricks\: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](<https://doi.org/10.1145/3811334>) | Article | OpenAlex |
 | 2026‑07‑03 | [Human–AI Co-Creation in Generative Art\: Graphics Methods, Systems, and Applications](<https://doi.org/10.1145/3799828.3811418>) | Conference paper | OpenAlex |
 | 2026‑07‑03 | [High-Fidelity 4D Cloth Capture Pipeline with a Two-Level Pattern](<https://doi.org/10.1145/3811305>) | Article | OpenAlex |
 | 2026‑07‑03 | [Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](<https://arxiv.org/abs/2607.08741>) | Article | OpenAlex |
@@ -417,6 +418,7 @@
 | 2026‑04‑27 | [Nemotron 3 Nano Omni\: Efficient and Open Multimodal Intelligence](<https://huggingface.co/papers/2604.24954>) | Paper | Hugging Face |
 | 2026‑04‑27 | [AQCat25\: unlocking spin-aware, high-fidelity machine learning potentials for heterogeneous catalysis](<https://doi.org/10.1038/s41524-026-02099-6>) | Article | OpenAlex |
 | 2026‑04‑27 | [The Last Human-Written Paper\: Agent-Native Research Artifacts](<https://arxiv.org/abs/2604.24658>) | Preprint | OpenAlex |
+| 2026‑04‑27 | [MotionBricks\: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives](<https://arxiv.org/abs/2604.24833>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑04‑24 | [Maya\: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation](<http://arxiv.org/abs/2503.20191>) | Article | OpenAlex |
 | 2026‑04‑24 | [MVCBench\: A Multimodal Benchmark for Drug-induced Virtual Cell Phenotypes](<https://doi.org/10.64898/2026.04.22.720110>) | Article | OpenAlex |
 | 2026‑04‑23 | [Stable Neural Signal Recording Processed by Memristor‐Based Reservoir Computing System](<https://doi.org/10.1002/aisy.202600005>) | Article | OpenAlex |
