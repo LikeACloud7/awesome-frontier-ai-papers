@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4128`
+- Papers: `4132`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -19,6 +19,7 @@
 | 2026‑10‑27 | [Robust LLM Data Selection via Content-Invariant Gradient Attribution](<https://arxiv.org/abs/2610.36755v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [EffBench\: A Holistic Efficiency Benchmark for CTR Models](<https://doi.org/10.1145/3857278>) | Article | OpenAlex |
 | 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
+| 2026‑10‑23 | [EVOLVE\: Uncertainty-Aware Multivariate Time Series Anomaly Prediction with Adaptive Prototype Memories](<https://arxiv.org/abs/2610.32189>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑22 | [To Route or to Adapt? Multi-Expert Diffusion Planners in Unseen Regions](<https://arxiv.org/abs/2610.31095>) | Preprint | OpenAlex |
@@ -36,6 +37,7 @@
 | 2026‑10‑21 | [CFMoE\: Cache-Friendly Mixture of Experts Model Serving System on Edge Devices](<https://doi.org/10.1145/3795866.3844455>) | Conference paper | OpenAlex |
 | 2026‑10‑20 | [On-Policy Transition Distillation](<https://arxiv.org/abs/2610.28048>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [RACE\: Learning Multimodal Search through Referential Abstraction and Compositional Evidence](<https://arxiv.org/abs/2610.28382v1>) | Paper | Verified affiliation |
+| 2026‑10‑20 | [From Outcomes to Steps\: Reliable Success-Aware Critic Learning for Long-Horizon Language Agents](<https://arxiv.org/abs/2610.27623v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [EASformer\: Environment-Action-State Alignment for Industrial Generative Ranking](<https://arxiv.org/abs/2610.27691v2>) | Paper | Verified affiliation |
 | 2026‑10‑19 | [LatComm\: Reusable Context Compression for Latent Communication between Large Language Models](<https://arxiv.org/abs/2610.26840v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Evidence Sufficiency and Model Comparisons in MexRegQA\: An Item-Level Audit of Mexican-Spanish Regulatory QA](<https://doi.org/10.48550/arxiv.2610.25710>) | Preprint | OpenAlex |
@@ -53,6 +55,7 @@
 | 2026‑10‑15 | [FocusOPD\: Structure-Guided On-Policy Distillation for Diffusion Models](<https://arxiv.org/abs/2610.21250>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [DK-VLM\: Geometry as Position for Spatial Reasoning in Vision-Language Models](<https://arxiv.org/abs/2610.22356>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [SUPRA-TEX\: 3D Generation with Super-Aligned Texture](<https://arxiv.org/abs/2610.22352v1>) | Paper | Verified affiliation |
+| 2026‑10‑14 | [Entertain, then Cancel\: How Thinking Makes Reasoning Models Read Some and Or Literally](<https://huggingface.co/papers/2610.21204>) | Preprint | Official page |
 | 2026‑10‑14 | [When Pairwise Preferences Cycle\: A Reliability-Anchored Preference Walk for Video GRPO](<https://arxiv.org/abs/2610.20089>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [TreeSpark\: Learning to Draft the Trees You Verify for Speculative Decoding](<https://arxiv.org/abs/2610.20175>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [REWIND\: Uncertainty-Guided Trajectory Repair for Test-Time Reasoning](<https://arxiv.org/abs/2610.19561>) | Preprint | OpenAlex |
@@ -120,6 +123,7 @@
 | 2026‑10‑01 | [SEDIMA\: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents](<https://arxiv.org/abs/2610.02361>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [MoE-CORE\: Coordinated Expert Offloading and Residency for Memory-Constrained MoE Inference](<https://arxiv.org/abs/2610.01950>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Dynamic risk assessment and emergency response effectiveness analysis for hazardous chemicals explosion based on dynamic Bayesian network and cloud model](<https://doi.org/10.1016/j.ress.2026.113633>) | Article | OpenAlex |
+| 2026‑10‑01 | [Designing Cognition-Driven Human-AI Teaming\: A Three-Layer Cognitive Framework (TriC)](<https://doi.org/10.1016/j.chbr.2026.101421>) | Article | OpenAlex |
 | 2026‑10‑01 | [Context Matters\: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)](<https://doi.org/10.1145/3832242>) | Article | OpenAlex |
 | 2026‑10‑01 | [CC-VLA\: Learning Control-Aware Compliance VLA Model for Robust Contact-Rich Robotic Manipulation](<https://doi.org/10.1109/lra.2026.3739025>) | Article | OpenAlex |
 | 2026‑10‑01 | [C4-Mamba\: Quality-Adaptive Multi-View Fusion for Dynamic Emotion Recognition](<https://doi.org/10.1016/j.inffus.2026.104856>) | Article | OpenAlex |

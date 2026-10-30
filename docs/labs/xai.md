@@ -1,14 +1,15 @@
 # xAI Papers
 
 - Region: `US`
-- Papers: `12`
-- Latest: `2026-06-04`
+- Papers: `13`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#xai)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑06‑04 | [SJD++\: Improved Speculative Jacobi Decoding for Training-Free Acceleration of Discrete Auto-Regressive Text-to-Image Generation](<https://doi.org/10.1109/tpami.2026.3700227>) | Article | OpenAlex |
 | 2026‑03‑06 | [Test-Time Adaptation via Many-Shot Prompting\: Benefits, Limits, and Pitfalls](<http://arxiv.org/abs/2603.05829>) | Preprint | OpenAlex |
 | 2026‑02‑19 | [Meta-designing quantum experiments with language models](<http://arxiv.org/abs/2406.02470>) | Article | OpenAlex |

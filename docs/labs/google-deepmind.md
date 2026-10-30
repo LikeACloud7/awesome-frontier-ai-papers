@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5673`
-- Latest: `2026-10-26`
+- Papers: `5680`
+- Latest: `2026-10-28`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,8 +15,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑28 | [Machine psychology for language models](<https://doi.org/10.1126/sciadv.aec1912>) | Article | OpenAlex |
+| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [EmbeddingGemma 2\: Unified and Efficient Multimodal Representations](<https://arxiv.org/abs/2610.37364v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [Smartphone-based Non-Invasive Classification of Anemia Severity using Deep Learning\: A Cross-Sectional Study in Rural India](<https://doi.org/10.64898/2026.10.22.26366247>) | Preprint | OpenAlex |
+| 2026‑10‑23 | [FlexGlue\: Sparse-to-Dense Feature Matching and Visual Disambiguation](<https://arxiv.org/abs/2610.32976>) | Preprint | OpenAlex |
+| 2026‑10‑23 | [Semantic Representation for Agentic Self-Play in Automated Laboratories](<https://arxiv.org/abs/2610.32755>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Multimodal Accessibility Planning with AI Models (MAP) Workshop](<https://doi.org/10.1145/3797867.3832452>) | Conference paper | OpenAlex |
+| 2026‑10‑23 | [How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models](<https://arxiv.org/abs/2610.32055>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [How Blind or Low Vision Creators Use Tools for Ideation\: A Survey](<https://doi.org/10.1145/3797867.3841194>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
 | 2026‑10‑22 | [VR and Mobile Games for Wildfire Preparedness\: A Comparative Study](<https://doi.org/10.1145/3800965.3834278>) | Conference paper | OpenAlex |
@@ -1673,6 +1679,7 @@
 | 2026 | [Bridging the Dimensionality Gap\: A Taxonomy and Survey of 2D Vision Model Adaptation for 3D Analysis](<https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/>) | Publication | Official page |
 | 2026 | [Bounded Provisional Visibility\: Controlling Poisoning Exposure in Continuously Ingested RAG Vector Stores](<https://research.google/pubs/bounded-provisional-visibility-controlling-poisoning-exposure-in-continuously-ingested-rag-vector-stores/>) | Publication | Official page, OpenAlex |
 | 2026 | [Bottom-Up AI Agent Security\: The Complete 14-Layer Framework for Cloud Architects](<https://research.google/pubs/bottom-up-ai-agent-security-the-complete-14-layer-framework-for-cloud-architects/>) | Publication | Official page |
+| 2026 | [Beyond the Emulator\: Bridging the Sim-to-Real Gap in Mobile Agent Benchmarking](<https://research.google/pubs/beyond-the-emulator-bridging-the-sim-to-real-gap-in-mobile-agent-benchmarking/>) | Publication | Official page |
 | 2026 | [Beyond Vector Similarity\: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration](<https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/>) | Publication | Official page, Verified affiliation |
 | 2026 | [Beyond Real or Fake\: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment](<https://research.google/pubs/beyond-real-or-fake-a-dual-channel-authenticity-and-reasoning-protocol-for-photographic-assessment/>) | Publication | Official page |
 | 2026 | [Beyond PII\: How Users Perceive and Attempt to Mitigate Implicit LLM Inference](<https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/>) | Publication | Official page |
@@ -2853,6 +2860,7 @@
 | 2025‑01‑01 | [AIM 2024 Sparse Neural Rendering Challenge\: Methods and Results](<https://doi.org/10.1007/978-3-031-91856-8_2>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MiniMax-Remover\: Taming Bad Noise Helps Video Object Removal](<http://arxiv.org/abs/2505.24873>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Measuring what Matters\: Construct Validity in Large Language Model Benchmarks](<http://arxiv.org/abs/2511.04703>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [KRIS-Bench\: Benchmarking Next-Level Intelligent Image Editing Models](<http://arxiv.org/abs/2505.16707>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Detecting Cloud Misconfigurations with RAG and Intelligent Agents\: A Natural Language Understanding Approach](<https://doi.org/10.2139/ssrn.5271734>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [DEEP LEARNING FOR FINANCIAL STRESS TESTING\: A DATA-DRIVEN APPROACH TO RISK MANAGEMENT](<https://doi.org/10.2139/ssrn.5146509>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [The Blessing of Reasoning\: LLM-Based Contrastive Explanations in Black-Box Recommender Systems](<https://doi.org/10.2139/ssrn.5099067>) | Preprint | OpenAlex |
@@ -2868,7 +2876,6 @@
 | 2025‑01‑01 | [WorldModelBench\: Judging Video Generation Models As World Models](<https://doi.org/10.52202/085713-1834>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Meta CLIP 2\: A Worldwide Scaling Recipe](<http://arxiv.org/abs/2507.22062>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LifeCLEF 2025 Teaser\: Challenges on Species Presence Prediction and Identification, and Individual Animal Identification](<https://doi.org/10.1007/978-3-031-88720-8_57>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [KRIS-Bench\: Benchmarking Next-Level Intelligent Image Editing Models](<http://arxiv.org/abs/2505.16707>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [4KAgent\: Agentic Any Image to 4K Super-Resolution](<http://arxiv.org/abs/2507.07105>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Video World Models with Long-term Spatial Memory](<http://arxiv.org/abs/2506.05284>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [The Common Pile v0\.1\: An 8TB Dataset of Public Domain and Openly Licensed Text](<http://arxiv.org/abs/2506.05209>) | Conference paper | OpenAlex |

@@ -1,20 +1,22 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1118`
-- Latest: `2026-10-20`
+- Papers: `1121`
+- Latest: `2026-10-23`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑23 | [Accordion\: Elastic-Depth Inference via Fixed-Prefix Layer Looping](<https://arxiv.org/abs/2610.32492>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [From Tokens to Files\: Multi-Granularity Detection and Localization of AI-Involved Code](<https://arxiv.org/abs/2610.27863v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Intra-Rubric Reward Divergence\: Mitigating Rubric Hacking through Latent Dimension Recovery and Balancing](<https://arxiv.org/abs/2610.26685>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [A Multi-task Model for Long-Term Active Days Prediction](<https://doi.org/10.1007/978-981-92-6913-6_25>) | Conference paper | OpenAlex |
 | 2026‑10‑19 | [Vision-Language-Delta-Action\: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](<https://arxiv.org/abs/2610.25874v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑17 | [EcSMNet\: edge-structured sparse mask modeling for knowledge-efficient hyperspectral reconstruction](<https://doi.org/10.1016/j.knosys.2026.117229>) | Article | OpenAlex |
 | 2026‑10‑16 | [Trojan Horse\: Automated Repository Poisoning against Coding Agents](<https://arxiv.org/abs/2610.23109>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [SkyAgent\: Revisable Target Memory for Continuous Aerial Search](<https://arxiv.org/abs/2610.23293>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Rethinking GRPO for Large Reasoning Model Safety Alignment](<https://arxiv.org/abs/2610.23085>) | Preprint | OpenAlex |
@@ -42,6 +44,7 @@
 | 2026‑09‑29 | [Restoring without Forgetting\: Filter-Level Continual Image Restoration via Parameter-Space Integrated Gradients](<https://arxiv.org/abs/2609.38591>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [CypherTurn\: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence](<https://arxiv.org/abs/2609.36987>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [VidHarness\: Evolving Agent Harnesses for Cost-Efficient Long Video Understanding](<https://arxiv.org/abs/2609.38413v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑29 | [LoopVL\: Recurrent Visual Intelligence](<https://arxiv.org/abs/2609.38426v2>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [Multimodal spatial co-occurrence knowledge representation for virtual trajectory classification](<https://doi.org/10.1080/17538947.2026.2738310>) | Article | OpenAlex |
 | 2026‑09‑28 | [FactorEngram\: Factorized N-gram Memory with Basis-Level Gating for Language Models](<https://huggingface.co/papers/2609.35578>) | Paper | Hugging Face, OpenAlex |
 | 2026‑09‑27 | [Unified Target-Speaker ASR with Text and Enrollment Speech Cues](<https://arxiv.org/abs/2609.33853>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1865`
+- Papers: `1868`
 - Latest: `2026-10-26`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -18,6 +18,7 @@
 |---|---|---|---|
 | 2026‑10‑26 | [Reinforcement Learning Done Right for Explicit Confidence Targets](<https://arxiv.org/abs/2610.35059>) | Paper | Verified affiliation |
 | 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
+| 2026‑10‑23 | [Beyond Data Schedule\: Fast LLM Pretraining on Data Mixtures by Loss-Reweighting](<https://arxiv.org/abs/2610.32141>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Learning from Next-Frame Prediction\: Towards Unified and Scalable Visual Representation Learning](<https://arxiv.org/abs/2610.30724>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Cola2\: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](<https://arxiv.org/abs/2610.31305>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Velocity Ambiguity Profiles\: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](<https://arxiv.org/abs/2610.30107>) | Preprint | OpenAlex |
@@ -25,6 +26,7 @@
 | 2026‑10‑20 | [Neural Network Fractional Quantum Hall States with Learnable Orbital Pair Matrix Factors\: Balancing Physical Priors and Flexibility](<https://arxiv.org/abs/2610.28095>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Household Food Insecurity and Housing Stress](<https://doi.org/10.1002/aepp.70135>) | Article | OpenAlex |
 | 2026‑10‑20 | [Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning](<https://arxiv.org/abs/2610.28966>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [CasePlay\: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning](<https://arxiv.org/abs/2610.24952v1>) | Paper | Verified affiliation |
 | 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [LED\: Improving Masked Diffusion Language Models by Lookahead Editing](<https://arxiv.org/abs/2610.23122>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Full-Duplex Interaction with Speech, Expressions and Gestures](<https://arxiv.org/abs/2610.21452>) | Preprint | OpenAlex |
@@ -45,6 +47,7 @@
 | 2026‑10‑07 | [AlarmClaw\: Context-Enriched Alarm Management with Category-/Severity-Aware Incident Graphs](<https://doi.org/10.1145/3832783.3834524>) | Conference paper | OpenAlex |
 | 2026‑10‑02 | [DuoMatching\: Joint-Marginal Distribution Matching for Few-Step Video Generation](<https://huggingface.co/papers/2610.03543>) | Paper | Hugging Face |
 | 2026‑10‑01 | [RESTOR\: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning](<https://arxiv.org/abs/2607.23963>) | Article | OpenAlex |
+| 2026‑10‑01 | [Interaction-aware Decision-making and Planning with Deep Inverse Reinforcement Learning using Positive and Negative Demonstrations](<https://doi.org/10.1016/j.cjme.2026.100417>) | Article | OpenAlex |
 | 2026‑10‑01 | [DMAD\: Distribution Matching as Adversarial Distillation for Fast Visual Generation](<https://huggingface.co/papers/2610.02188>) | Paper | Hugging Face |
 | 2026‑10‑01 | [FastCI\: Efficient GPU-Intensive CI for LLM Training Frameworks](<https://arxiv.org/abs/2610.01967v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑30 | [Scoring Higher, Answering Worse\: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics](<https://huggingface.co/papers/2609.38847>) | Paper | OpenAlex, Hugging Face |
@@ -752,8 +755,8 @@
 | 2025‑10‑25 | [HiScene\: Creating Hierarchical 3D Scenes with Isometric View Generation](<https://doi.org/10.1145/3746027.3755132>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [BiECVC\: Gated Diversification of Bidirectional Contexts for Learned Video Compression](<http://arxiv.org/abs/2505.09193>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [UniTalker\: Conversational Speech-Visual Synthesis](<https://doi.org/10.1145/3746027.3755502>) | Conference paper | OpenAlex |
-| 2025‑10‑25 | [EHVC\: Efficient Hierarchical Reference and Quality Structure for Neural Video Coding](<https://doi.org/10.1145/3746027.3755598>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [Scene123\: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE](<https://doi.org/10.1145/3746027.3755133>) | Conference paper | OpenAlex |
+| 2025‑10‑25 | [EHVC\: Efficient Hierarchical Reference and Quality Structure for Neural Video Coding](<https://doi.org/10.1145/3746027.3755598>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [Neural Video Compression with In-Loop Contextual Filtering and Out-of-Loop Reconstruction Enhancement](<http://arxiv.org/abs/2509.04051>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [MINDEV\: Multi-modal Integrated Diffusion Framework for Video Reconstruction from EEG Signals](<https://doi.org/10.1145/3746027.3755054>) | Conference paper | OpenAlex |
 | 2025‑10‑25 | [Joint Test-time Adaptation with Refined Pseudo-labels and Latent Score Matching](<https://doi.org/10.1145/3746027.3754494>) | Conference paper | OpenAlex |

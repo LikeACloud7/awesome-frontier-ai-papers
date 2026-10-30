@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `362`
-- Latest: `2026-10-22`
+- Papers: `364`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑23 | [Tampered ML\: Evaluating LLM Judgment of Machine Learning Research](<https://arxiv.org/abs/2610.32114>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Scaling Laws for Safety Probes](<https://doi.org/10.48550/arxiv.2610.30678>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Model Organisms of Collusion\: Corrective Transfer in Untrusted Monitors](<https://arxiv.org/abs/2610.30582>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>) | Research post | Official page |
@@ -43,7 +45,7 @@
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
 | 2026‑09‑29 | [Constitutional adapters\: Inference-time interventions for misalignment and misuse](<https://arxiv.org/abs/2609.36657>) | Paper | Verified affiliation |
-| 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://arxiv.org/abs/2609.36054v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://www.microsoft.com/en-us/research/publication/what-if-automating-ai-rd-triggers-an-intelligence-explosion/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑28 | [Steering Language Model Goals with Value Transplant](<https://arxiv.org/abs/2609.34056v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [When Do Models Admit They Are Wrong? Failure Disclosure Is Unstable Under Reinforcement Learning](<https://arxiv.org/abs/2609.33220>) | Preprint | OpenAlex |
 | 2026‑09‑25 | [Yes, Claude can do Nine Loops](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) | Research post | Official page |

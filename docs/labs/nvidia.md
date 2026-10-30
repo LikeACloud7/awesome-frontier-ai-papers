@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2131`
-- Latest: `2026-10-26`
+- Papers: `2138`
+- Latest: `2026-10-27`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,12 +16,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
 | 2026‑10‑24 | [RSI Arena\: Towards Recursive Self-Improvement with Human Feedback](<https://arxiv.org/abs/2610.33624v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Sensorimotor Alignment\: A Platonic Proxy for Embodied Policy Success](<https://arxiv.org/abs/2610.31670>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
-| 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [Reasoning as a Distribution\: Generative Plan Latents for Vision-Language-Action Models](<https://arxiv.org/abs/2610.28166>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [MLIPS\: Multi-Layer Indexer Pool Sharing](<https://arxiv.org/abs/2610.27438>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Exploring Recurrent-Depth Language Models for Multitask Clinical Text Processing](<https://arxiv.org/abs/2610.27559>) | Preprint | OpenAlex |
@@ -36,6 +37,7 @@
 | 2026‑10‑19 | [Physical Words\: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation](<https://arxiv.org/abs/2610.26854v3>) | Paper | Verified affiliation |
 | 2026‑10‑18 | [Improving the Expressive Power of Hybrid Sequence Models via Multi-Hop Retrieval](<https://arxiv.org/abs/2610.25250>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
+| 2026‑10‑16 | [SecAgentSched\: Secure agentic LLM scheduling for privacy-preserving UAV operations](<https://doi.org/10.1016/j.compeleceng.2026.111598>) | Article | OpenAlex |
 | 2026‑10‑16 | [Scalable Levenberg-Marquardt Training Framework for Deep Learning](<https://arxiv.org/abs/2610.22925>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Encoder-Free Multimodal LLMs Learn Implicit Encoders](<https://arxiv.org/abs/2610.24239>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
@@ -67,8 +69,10 @@
 | 2026‑10‑08 | [Autonomous Code Migration for Quantum Programming Languages\: A Case Study with QED-C Benchmarks](<https://arxiv.org/abs/2610.12187>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [A Balanced Data Diet\: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](<https://arxiv.org/abs/2610.12465>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [GATOR\: Generative and Agentic 3D Object Reconstruction From Casual Images](<https://huggingface.co/papers/2610.11215>) | Paper | Hugging Face |
+| 2026‑10‑08 | [NV-Tesseract-AD\: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection](<https://arxiv.org/abs/2610.12754>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Long-WAM\: Scaling the Context of World-Action Models](<https://huggingface.co/papers/2610.10528>) | Paper | Hugging Face |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
+| 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://arxiv.org/abs/2610.09254v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](<https://arxiv.org/abs/2610.10298>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [miniTE\: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning](<https://arxiv.org/abs/2610.23928v1>) | Paper | Verified affiliation |
 | 2026‑10‑06 | [A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning](<https://huggingface.co/papers/2606.03335>) | Paper | Hugging Face |
@@ -82,12 +86,15 @@
 | 2026‑10‑06 | [Careful Judge\: Safe and Efficient Human-AI Collaborative Decision Making](<https://arxiv.org/abs/2610.09043>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [VeriFine\: Scaling Verification for Self-Improvement in Embodied Reasoning](<https://huggingface.co/papers/2610.08761>) | Paper | Hugging Face |
 | 2026‑10‑06 | [Frozen Models, Evolving Expertise\: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI](<https://huggingface.co/papers/2610.09146>) | Paper | Hugging Face |
+| 2026‑10‑06 | [Humanize\: Judgement Engineering for Agentic Coding](<https://arxiv.org/abs/2610.08900v2>) | Paper | Verified affiliation |
+| 2026‑10‑06 | [4D-HOF\: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](<https://arxiv.org/abs/2610.08782v1>) | Paper | Verified affiliation |
 | 2026‑10‑05 | [LoGRA\: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches](<https://huggingface.co/papers/2610.06647>) | Paper | Hugging Face |
 | 2026‑10‑05 | [Beyond Semantic Similarity\: Performance and Costs of Agentic Retrieval for Complex Tasks](<https://arxiv.org/abs/2610.05750v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑05 | [Ofan\: Optimal Load Balancing for AI Training](<https://arxiv.org/abs/2610.07230>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [NCCL M2N\: A Layout- and Topology-Aware Collective for Distributed Tensor Resharding](<https://arxiv.org/abs/2610.07516>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [MemCo\: Memory-Centric Collaboration for Generalizing LLM Agents to Unseen Environments](<https://arxiv.org/abs/2610.07376>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [When to Switch\: Reliable Action-Chunk Extension for Vision-Language-Action Models](<https://arxiv.org/abs/2610.05719v1>) | Paper | Verified affiliation |
+| 2026‑10‑05 | [VERA\: Scaling Verifiable Environments for Agentic co-Evolution](<https://arxiv.org/abs/2610.05923v1>) | Paper | Verified affiliation |
 | 2026‑10‑04 | [Look Where You Say You're Looking\: Self-Grounded Attention for Visual Reasoning](<https://arxiv.org/abs/2610.05023>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [Detecting Defects that Matter\: An Application-Driven Benchmark for Anomaly Detection in Manufacturing and Retail Logistics (VAND 4\.0 Challenge)](<https://arxiv.org/abs/2610.04392>) | Preprint | OpenAlex |
 | 2026‑10‑03 | [ClimateBench v2\.0\: Probabilistic Climate Model Benchmarking](<https://arxiv.org/abs/2610.04558>) | Preprint | OpenAlex |
@@ -1398,7 +1405,7 @@
 | 2025‑01‑01 | [Aim My Robot\: Precision Local Navigation to Any Object](<https://research.nvidia.com/publication/2025-04_aim-my-robot-precision-local-navigation-any-object>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [RaySt3R\: Predicting Novel Depth Maps for Zero-Shot Object Completion](<https://research.nvidia.com/publication/2025-12_rayst3r-predicting-novel-depth-maps-zero-shot-object-completion>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training](<https://research.nvidia.com/publication/2025-12_generalizable-domain-adaptation-sim-and-real-policy-co-training>) | Publication | Official page, OpenAlex |
-| 2025‑01‑01 | [Align Your Flow\: Scaling Continuous-Time Flow Map Distillation](<https://research.nvidia.com/publication/2025-12_align-your-flow-scaling-continuous-time-flow-map-distillation>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [Align Your Flow\: Scaling Continuous-Time Flow Map Distillation](<https://research.nvidia.com/publication/2025-12_align-your-flow-scaling-continuous-time-flow-map-distillation>) | Publication | Official page, OpenAlex, Verified affiliation |
 | 2025‑01‑01 | [Policy Optimized Text-to-Image Pipeline Design](<https://research.nvidia.com/publication/2025-12_policy-optimized-text-image-pipeline-design>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Attention on the Sphere](<https://research.nvidia.com/publication/2025-11_attention-sphere>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Advancements and Applications of Multimodal Large Language Models\: Integration, Challenges, and Future Directions](<https://doi.org/10.1007/978-3-031-80334-5_19>) | Book chapter | OpenAlex |

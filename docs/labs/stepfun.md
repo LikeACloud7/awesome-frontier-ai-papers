@@ -27,7 +27,7 @@
 | 2026‑09‑23 | [KITE\: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](<https://arxiv.org/abs/2609.27294v1>) | Paper | Verified affiliation |
 | 2026‑09‑20 | [onPanda\: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](<https://huggingface.co/papers/2609.24983>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑18 | [ConsistWorld\: Evidence Routing for Consistent Multi-Agent World Models](<https://arxiv.org/abs/2609.22641>) | Preprint | OpenAlex |
-| 2026‑09‑11 | [StepAudio 3 Realtime Technical Report](<https://huggingface.co/papers/2609.14005>) | Preprint | Official page |
+| 2026‑09‑11 | [StepAudio 3 Realtime Technical Report](<https://huggingface.co/papers/2609.14005>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑10 | [StepAudio 3 Music Technical Report](<https://huggingface.co/papers/2609.16034>) | Preprint | Official page, Hugging Face |
 | 2026‑09‑08 | [Φ-Bench\: Can Large Language Models Engineer the Infrastructure That Powers Them?](<https://huggingface.co/papers/2609.10226>) | Preprint | Official page |
 | 2026‑09‑07 | [HyperTransfer\: Understanding the Equivalence between Base Optimizer and Hyperball](<https://arxiv.org/abs/2609.07017>) | Preprint | OpenAlex |
@@ -36,8 +36,8 @@
 | 2026‑08‑11 | [Dynamic Compute and Network Orchestration for Disaggregated RL](<https://doi.org/10.1145/3789240.3829124>) | Conference paper | OpenAlex |
 | 2026‑08‑11 | [Scheduling Mixed RL Rollouts Beyond Prefix Locality](<https://arxiv.org/abs/2608.11152v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑08‑10 | [BAG\: Budget-Aware Gating for Diffusion Caching](<https://arxiv.org/abs/2608.09231v2>) | Paper | Verified affiliation |
-| 2026‑08‑07 | [TSLoc\: Self-Supervised Faulty Node Localization Framework in Large-scale Training Clusters](<https://doi.org/10.1145/3770855.3818499>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [SpotAgent\: Grounding Visual Geo-localization in Large Vision-Language Models through Agentic Reasoning](<https://doi.org/10.1145/3770855.3817948>) | Conference paper | OpenAlex |
+| 2026‑08‑07 | [TSLoc\: Self-Supervised Faulty Node Localization Framework in Large-scale Training Clusters](<https://doi.org/10.1145/3770855.3818499>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [Don't Predict, Prioritize\: Rethinking GPU Reliability Assessment](<https://arxiv.org/abs/2607.15115>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [TensorCast\: The Missing Tensor Management Layer in Large Language Model Infrastructure](<https://arxiv.org/abs/2608.06007v1>) | Paper | Verified affiliation |
 | 2026‑07‑27 | [One Analyst Is Not Ground Truth\: Grading Agent-Built Financial Models Against Observed Professional Practice](<https://arxiv.org/abs/2607.24889>) | Preprint | OpenAlex |
@@ -123,7 +123,7 @@
 | 2025‑04‑22 | [StreamRL\: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation](<http://arxiv.org/abs/2504.15930>) | Preprint | OpenAlex |
 | 2025‑04‑09 | [Learning temporal-aware representation for controllable interventional radiology imaging](<https://doi.org/10.1016/j.cviu.2025.104360>) | Article | OpenAlex |
 | 2025‑04 | [StyleMe3D\: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians](<https://huggingface.co/papers/2504.15281>) | Technical report | Official page |
-| 2025‑03‑27 | [M-DocSum\: Do LVLMs Genuinely Comprehend Interleaved Image-Text in Document Summarization?](<https://arxiv.org/abs/2503.21839v1>) | Paper | Verified affiliation |
+| 2025‑03‑27 | [M-DocSum\: Do LVLMs Genuinely Comprehend Interleaved Image-Text in Document Summarization?](<https://arxiv.org/abs/2503.21839v1>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑03‑19 | [Advancing video self-supervised learning via image foundation models](<http://arxiv.org/abs/2505.19218>) | Article | OpenAlex |
 | 2025‑03‑14 | [Step-Video-TI2V Technical Report\: A State-of-the-Art Text-Driven Image-to-Video Generation Model](<https://arxiv.org/abs/2503.11251>) | Paper | Verified affiliation |
 | 2025‑03‑12 | [DiffCSS\: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models](<https://doi.org/10.1109/icassp49660.2025.10890208>) | Article | OpenAlex |
@@ -135,14 +135,15 @@
 | 2025‑01‑01 | [SuperGPQA\: Scaling LLM Evaluation across 285 Graduate Disciplines](<https://seed.bytedance.com/en/research/supergpqa-scaling-llm-evaluation-across-285-graduate-disciplines>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [OmniSVG\: A Unified Scalable Vector Graphics Generation Model](<https://huggingface.co/papers/2504.06263>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [FAVOR-Bench\: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding](<https://huggingface.co/papers/2503.14935>) | Technical report | Official page, OpenAlex |
-| 2025‑01‑01 | [Open-Reasoner-Zero\: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](<http://arxiv.org/abs/2503.24290>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Perception-R1\: Pioneering Perception Policy with Reinforcement Learning](<https://doi.org/10.52202/085713-3170>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Open-Reasoner-Zero\: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](<http://arxiv.org/abs/2503.24290>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [KRIS-Bench\: Benchmarking Next-Level Intelligent Image Editing Models](<http://arxiv.org/abs/2505.16707>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Open Vision Reasoner\: Transferring Linguistic Cognitive Behavior for Visual Reasoning](<http://arxiv.org/abs/2507.05255>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [CoRe\: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks](<http://arxiv.org/abs/2507.05269>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [UniICL\: An Efficient ICL Framework Unifying Compression, Selection, and Generation](<https://doi.org/10.18653/v1/2025.acl-long.24>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Temporal Logic-Based Multi-Vehicle Backdoor Attacks against Offline RL Agents in End-to-end Autonomous Driving](<http://arxiv.org/abs/2509.16950>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [OneIG-Bench\: Omni-dimensional Nuanced Evaluation for Image Generation](<http://arxiv.org/abs/2506.07977>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Open Vision Reasoner\: Transferring Linguistic Cognitive Behavior for Visual Reasoning](<http://arxiv.org/abs/2507.05255>) | Conference paper | OpenAlex |
+| 2025‑01‑01 | [Beyond the First Error\: Process Reward Models for Reflective Mathematical Reasoning](<http://arxiv.org/abs/2505.14391>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Generation](<https://doi.org/10.52202/085713-2099>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [VERA\: Variational Inference Framework for Jailbreaking Large Language Models](<https://arxiv.org/abs/2506.22666>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Unearthing Gems from Stones\: Policy Optimization with Negative Sample Augmentation for LLM Reasoning](<http://arxiv.org/abs/2505.14403>) | Preprint | OpenAlex |
@@ -150,7 +151,6 @@
 | 2025‑01‑01 | [Predictable Scale (Part II) --- Farseer\: A Refined Scaling Law in LLMs](<https://doi.org/10.52202/085713-4024>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MVU-Eval\: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](<https://doi.org/10.52202/085713-1800>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LAVa\: Layer-wise KV Cache Eviction with Dynamic Budget Allocation](<https://doi.org/10.18653/v1/2025.findings-emnlp.737>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [Beyond the First Error\: Process Reward Models for Reflective Mathematical Reasoning](<http://arxiv.org/abs/2505.14391>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [GUI Exploration Lab\: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](<https://arxiv.org/abs/2512.02423>) | Paper | Verified affiliation, OpenAlex |
 
 ## 2024
