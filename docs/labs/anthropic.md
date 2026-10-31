@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `364`
+- Papers: `366`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#anthropic)
 
@@ -189,8 +189,10 @@
 | 2026 | [Fine-Tuned Lie Detectors Failed to Generalize](<https://alignment.anthropic.com/2026/lie-detectors/>) | Research post | Official page |
 | 2026 | [Diffuse AI Control on Fuzzy Tasks](<https://alignment.anthropic.com/2026/diffuse-ai-control/>) | Research post | Official page, OpenAlex |
 | 2026 | [Automated Weak-to-Strong Researcher](<https://alignment.anthropic.com/2026/automated-w2s-researcher/>) | Research post | Official page |
+| 2026 | [Automated Subtle Emergent Misalignment Research](<https://alignment.anthropic.com/2026/automated-em-search/>) | Research post | Official page |
 | 2026 | [Automated Researchers Can Mitigate Well-Characterized Alignment Failures](<https://alignment.anthropic.com/2026/automated-alignment-researchers/>) | Research post | Official page |
 | 2026 | [AuditBench\: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](<https://alignment.anthropic.com/2026/auditbench/>) | Research post | Official page, Verified affiliation |
+| 2026 | [Anthropic Residency\: applications open for established technical leaders](<https://alignment.anthropic.com/2026/anthropic-residency/>) | Research post | Official page |
 | 2026 | [Agentic Misalignment in Summer 2026](<https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/>) | Research post | Official page |
 | 2026 | [Abstractive Red-Teaming of Language Model Character](<https://alignment.anthropic.com/2026/abstractive-red-teaming/>) | Research post | Official page |
 | 2026 | [AI Organizations Can Be More Effective but Less Aligned than Individual Agents](<https://alignment.anthropic.com/2026/ai-organizations/>) | Research post | Official page |

@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3721`
+- Papers: `3725`
 - Latest: `2026-10-29`
 - [Back to README](../../README.md#amazon)
 
@@ -18,8 +18,12 @@
 |---|---|---|---|
 | 2026‑10‑29 | [Sandman\: Building and Operating Sandboxes for Agentic Reinforcement Learning on Shared Kubernetes](<https://arxiv.org/abs/2610.39711v1>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [Vendster\: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](<https://arxiv.org/abs/2610.38292v1>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [Schema-Free Text-to-SQL\: Learning Enterprise Database Structure from Query Logs](<https://arxiv.org/abs/2610.33946>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [Performance Gaps Between Open-Loop, Certainty-Equivalent, and Optimal Control Under Action-Dependent Observations](<https://arxiv.org/abs/2610.33412>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [GeoLift\: Grounding Video Spatial Reasoning in Explicit 3D Maps](<https://arxiv.org/abs/2610.33558>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Organizing Temporal Evidence in Hyperbolic Space for Video Moment Retrieval](<https://arxiv.org/abs/2610.32317>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [From Anonymous Shapes to Named Places\: A Tool for Braille and Place-Semantic Annotation of Tactile Maps](<https://arxiv.org/abs/2608.23820>) | Conference paper | OpenAlex |
+| 2026‑10‑23 | [Active Reachability Learning for Humanoid Recoverability Monitoring](<https://arxiv.org/abs/2610.33317>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [ConsMSA\: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](<https://arxiv.org/abs/2610.31731>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Agentic Knowledge-Model Co-Evolution via Consistency Regularization](<https://arxiv.org/abs/2610.30790>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Adaptive Agentic Routing at Scale\: Orchestrating Multi-Modal Video Search Under Strict Latency and Device Constraints](<https://doi.org/10.1145/3840749.3841573>) | Conference paper | OpenAlex |

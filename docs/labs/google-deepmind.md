@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5680`
-- Latest: `2026-10-28`
+- Papers: `5690`
+- Latest: `2026-10-29`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,15 +15,24 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
+| 2026‑10‑29 | [Mind The Gap (MTG-AD)\: Dataset and Fine-grained Evaluation for End-to-End Inline Audio Descriptions](<https://arxiv.org/abs/2610.39955v1>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [Machine psychology for language models](<https://doi.org/10.1126/sciadv.aec1912>) | Article | OpenAlex |
+| 2026‑10‑28 | [Mentorship, Interrupted\: How GenAI Disrupts the GSoC Pipeline and Why Mentors Matter More](<https://arxiv.org/abs/2610.38167v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
-| 2026‑10‑27 | [EmbeddingGemma 2\: Unified and Efficient Multimodal Representations](<https://arxiv.org/abs/2610.37364v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [EmbeddingGemma 2\: Unified and Efficient Multimodal Representations](<https://deepmind.google/research/publications/279443/>) | Publication | Verified affiliation, Official page |
 | 2026‑10‑26 | [Smartphone-based Non-Invasive Classification of Anemia Severity using Deep Learning\: A Cross-Sectional Study in Rural India](<https://doi.org/10.64898/2026.10.22.26366247>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [CEPO\: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](<https://arxiv.org/abs/2610.34722>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [AudioFM\: Towards General Purpose Audio Representation Learning](<https://arxiv.org/abs/2610.34183>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [A simple improvement on Kerman's approximation to the median of the beta distribution](<https://arxiv.org/abs/2610.33859>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [FlexGlue\: Sparse-to-Dense Feature Matching and Visual Disambiguation](<https://arxiv.org/abs/2610.32976>) | Preprint | OpenAlex |
+| 2026‑10‑23 | [Tight Learned Event-Inertial Odometry (TLEIO)\: a Transformer-Based Architecture for End-to-End Motion from Event Streams](<https://arxiv.org/abs/2610.33356>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Semantic Representation for Agentic Self-Play in Automated Laboratories](<https://arxiv.org/abs/2610.32755>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Multimodal Accessibility Planning with AI Models (MAP) Workshop](<https://doi.org/10.1145/3797867.3832452>) | Conference paper | OpenAlex |
 | 2026‑10‑23 | [How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models](<https://arxiv.org/abs/2610.32055>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [How Blind or Low Vision Creators Use Tools for Ideation\: A Survey](<https://doi.org/10.1145/3797867.3841194>) | Conference paper | OpenAlex |
+| 2026‑10‑23 | [Democratizing LLM Training with the Edge\: Challenges, Systems, and the Road Ahead](<https://arxiv.org/abs/2610.32215>) | Preprint | OpenAlex |
+| 2026‑10‑23 | [Agent-guided epitope excision enables economical de novo binder design](<https://arxiv.org/abs/2610.33195>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Everything everywhere all‐at‐once? AI , expertise–output decoupling, and new entrepreneurial strategy trade‐offs in the age of abundance](<https://doi.org/10.1002/sej.70065>) | Article | OpenAlex |
 | 2026‑10‑22 | [VR and Mobile Games for Wildfire Preparedness\: A Comparative Study](<https://doi.org/10.1145/3800965.3834278>) | Conference paper | OpenAlex |
 | 2026‑10‑22 | [Reverse-KL Policy Distillation\: Statistical Guarantees and Limits](<https://arxiv.org/abs/2610.30844>) | Preprint | OpenAlex |
@@ -1462,9 +1471,9 @@
 | 2026‑01‑01 | [Google's AI &amp; Economy ATLAS v1\.0\: Mapping Gemini Usage in the Economy](<https://arxiv.org/abs/2608.00038v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026 | [Position\: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](<https://www.microsoft.com/en-us/research/publication/position-explainability-research-must-prioritize-foundations-over-ad-hoc-methods/>) | Publication | Official page, OpenAlex |
 | 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
+| 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 | 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Towards conversational artificial intelligence for disease management](<https://research.google/pubs/towards-conversational-ai-for-disease-management/>) | Publication | Official page, OpenAlex |
-| 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 | 2026 | [TCO-driven Storage Provisioning for Exascale Data Centers](<https://research.google/pubs/tco-driven-storage-provisioning-for-exascale-data-centers/>) | Publication | Official page, OpenAlex |
 | 2026 | [A large language model for complex cardiology care](<https://research.google/pubs/a-large-language-model-for-complex-cardiology-care/>) | Publication | OpenAlex, Official page |
 | 2026 | [Nine changes needed to deliver a radical transformation in biodiversity measurement](<https://research.google/pubs/nine-changes-needed-to-deliver-a-radical-transformation-in-biodiversity-measurement/>) | Publication | Official page, OpenAlex |
@@ -1556,6 +1565,7 @@
 | 2026 | [Proactive AI for Superintelligent Agents](<https://research.google/pubs/proactive-ai-for-superintelligent-agents/>) | Publication | Official page |
 | 2026 | [Private-Use Area Characters in the Wild\: Signal or Noise?](<https://research.google/pubs/private-use-area-characters-in-the-wild-signal-or-noise/>) | Publication | Official page, OpenAlex |
 | 2026 | [Position\: Hallucinations Undermine Trust; Metacognition is a Way Forward](<https://research.google/pubs/position-hallucinations-undermine-trust-metacognition-is-a-way-forward/>) | Publication | Official page |
+| 2026 | [Polynomial-Time Algorithm for Thiele Voting Rules on Voter Interval Domain](<https://research.google/pubs/polynomial-time-algorithm-for-thiele-voting-rules-on-voter-interval-domain/>) | Publication | Official page |
 | 2026 | [PointDiT\: Pixel-Space Diffusion for Monocular Geometry Estimation](<https://research.google/pubs/pointdit-pixel-space-diffusion-for-monocular-geometry-estimation/>) | Publication | Official page, Verified affiliation |
 | 2026 | [PoTRE\: Test-Time Reasoning inspired by Cognitive Heterogeneity](<https://research.google/pubs/potre-test-time-reasoning-inspired-by-cognitive-heterogeneity/>) | Publication | OpenAlex, Official page |
 | 2026 | [Pixel Watch\: Robust Heart Rate Sensing from Multipath PPG and On-Device Deep Learning Trained on 10,000 hours of Free-Living and Fitness Data](<https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/>) | Publication | Official page, Verified affiliation, OpenAlex |

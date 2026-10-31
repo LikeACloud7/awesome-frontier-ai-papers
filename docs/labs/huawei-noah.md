@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4132`
-- Latest: `2026-10-27`
+- Papers: `4137`
+- Latest: `2026-10-29`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,10 +15,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [Agentic, Autonomous Design Evolution of Machine-Learned Interatomic Potentials](<https://doi.org/10.1021/prechem.6c00099>) | Article | OpenAlex |
 | 2026‑10‑27 | [SAGE\: Saliency-Annealed Gated Encoder for Universal Vision Recognition](<https://arxiv.org/abs/2610.36719v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [Robust LLM Data Selection via Content-Invariant Gradient Attribution](<https://arxiv.org/abs/2610.36755v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [EffBench\: A Holistic Efficiency Benchmark for CTR Models](<https://doi.org/10.1145/3857278>) | Article | OpenAlex |
 | 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
+| 2026‑10‑26 | [ACTIVE\: A Dynamic Pareto-Frontier-Based Unified Index for Dual-Vector Query](<https://arxiv.org/abs/2610.35751>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [Entropic Control for Homeostatic Optimization\: Pre-empting Catastrophic Forgetting via Dynamic Feedback](<https://arxiv.org/abs/2610.34182>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [Software Engineering LLMs\: Why We Need Them and How Software Engineering Helps Build Them](<https://arxiv.org/abs/2610.33851>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [EVOLVE\: Uncertainty-Aware Multivariate Time Series Anomaly Prediction with Adaptive Prototype Memories](<https://arxiv.org/abs/2610.32189>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page, OpenAlex |
@@ -45,6 +49,7 @@
 | 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑18 | [SteadyThought\: Mitigating LLM Under-Thinking via Thought-Level Preference Optimization](<https://arxiv.org/abs/2610.25045v1>) | Paper | Verified affiliation |
 | 2026‑10‑18 | [GeoART\: Geometry-Aware Refinement via Test-Time Scaling for Camera-Conditioned Video Diffusion](<https://arxiv.org/abs/2610.25273v1>) | Paper | Verified affiliation |
+| 2026‑10‑17 | [Organon \: From Evolutionary Search to Recursive Self-Improving Agents for Scientific Discovery](<https://arxiv.org/abs/2610.33046>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [ColorFool\: Three Color Elements to Fool Deepfake Detectors](<https://doi.org/10.1007/978-981-92-6834-4_21>) | Conference paper | OpenAlex |
 | 2026‑10‑17 | [PV-Decoding\: Progressive Verification Decoding with Decode Gating for Diffusion Language Models](<https://arxiv.org/abs/2610.24722v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑16 | [Prefix-Tuning for Arbitrary Output Sequences on Pretrained Transformers](<https://arxiv.org/abs/2610.24123>) | Preprint | OpenAlex |

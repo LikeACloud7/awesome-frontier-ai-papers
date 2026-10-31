@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3934`
+- Papers: `3945`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -20,10 +20,21 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑27 | [RynnWorld-Latent\: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](<https://arxiv.org/abs/2610.36791v1>) | Paper | Verified affiliation |
-| 2026‑10‑25 | [Omni-InteractScope\: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams](<https://huggingface.co/papers/2610.35439>) | Preprint | Official page |
-| 2026‑10‑25 | [Co-Design Bench\: Multimodal Collaborative Coding Evaluation for Agentic Models](<https://huggingface.co/papers/2610.35138>) | Preprint | Official page |
+| 2026‑10‑26 | [SLIDE\: Search-to-List Item Distillation for Single-Rollout Generative Retrieval](<https://arxiv.org/abs/2610.34764>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Natural Jammers\: When Non-Robust Features Become Antagonistic](<https://arxiv.org/abs/2610.34785>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Harness-Model Collaboration for Long-Horizon Continual Learning](<https://arxiv.org/abs/2610.34724>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [DynEdit\: Dynamic Entropy-Guided Sequential Editing for Large Language Models](<https://arxiv.org/abs/2610.34768>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Context Is Not Free\: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers](<https://arxiv.org/abs/2610.35230>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [CRIM\: Composable and Reusable Item Memory for Efficient Personalized Retrieval](<https://arxiv.org/abs/2610.35323>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [BehaviorMem\: Building and Evaluating User Memory from Real-World E-Commerce Behavior Streams](<https://arxiv.org/abs/2610.34790>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [A Unified Arena for LLM Agents across Diverse Eurogame](<https://arxiv.org/abs/2610.35773>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [Omni-InteractScope\: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams](<https://huggingface.co/papers/2610.35439>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑25 | [Co-Design Bench\: Multimodal Collaborative Coding Evaluation for Agentic Models](<https://huggingface.co/papers/2610.35138>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑25 | [RnR-ExM\: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes](<https://doi.org/10.64898/2026.10.22.760871>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [Rethinking Verification in Agent Harnesses](<https://arxiv.org/abs/2610.34577>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [Rethinking Retrieval in the Long-Context Era\: Training-Free Semantic Trees for Adaptive Context Construction](<https://arxiv.org/abs/2610.34146>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [RynnVLA-Latent\: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](<https://arxiv.org/abs/2610.34356v1>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [The Future Is Finer\: Multivariate Time Series Super-Resolution Forecasting](<https://arxiv.org/abs/2610.33470>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Qwen-Image-PE\: Learning Visual Design for Text-to-Image Prompt Enhancement](<https://huggingface.co/papers/2610.33472>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑23 | [SCI-AGENT-EXAM\: Benchmarking Agents on Scientific Research Tasks](<https://arxiv.org/abs/2610.32441>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [ImageRSI\: Verification-Driven Recursive Self-Improvement for Agentic Image Generation](<https://arxiv.org/abs/2610.32120>) | Preprint | OpenAlex |

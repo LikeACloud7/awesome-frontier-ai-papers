@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `521`
-- Latest: `2026-10-29`
+- Papers: `523`
+- Latest: `2026-10-30`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑30 | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
 | 2026‑10‑29 | [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) | Research post | Official page |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑26 | [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>) | Research post | Official page |
@@ -99,13 +100,14 @@
 | 2026‑05‑07 | [One Turn Too Late\: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue](<https://arxiv.org/abs/2605.05630>) | Preprint | OpenAlex |
 | 2026‑05‑05 | [GPT-5\.5 Instant System Card](<https://openai.com/index/gpt-5-5-instant-system-card>) | Publication | Official page |
 | 2026‑05‑05 | [Advancing youth safety and wellbeing in EMEA](<https://openai.com/index/advancing-youth-safety-in-emea>) | Research post | Official page |
+| 2026‑04‑30 | [Uhura\: A Benchmark for Evaluating Scientific Question Answering and Truthfulness in Low-Resource African Languages](<http://arxiv.org/abs/2412.00948>) | Conference paper | OpenAlex |
 | 2026‑04‑29 | [Where the goblins came from](<https://openai.com/index/where-the-goblins-came-from>) | Research post | Official page |
 | 2026‑04‑28 | [Our commitment to community safety](<https://openai.com/index/our-commitment-to-community-safety>) | Research post | Official page |
 | 2026‑04‑27 | [How AI and Human Behaviors Shape Psychosocial Effects of Extended Chatbot Use\: A Longitudinal Randomized Controlled Study](<http://arxiv.org/abs/2503.17473>) | Preprint | OpenAlex |
 | 2026‑04‑23 | [GPT-5\.5 System Card](<https://openai.com/index/gpt-5-5-system-card>) | Publication | Official page |
 | 2026‑04‑23 | [GeneBench\: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](<https://doi.org/10.64898/2026.04.22.720113>) | Article | OpenAlex |
-| 2026‑04‑22 | [Introducing OpenAI Privacy Filter](<https://openai.com/index/introducing-openai-privacy-filter>) | Research post | Official page |
 | 2026‑04‑22 | [Evaluating large language models for accuracy incentivizes hallucinations](<https://doi.org/10.1038/s41586-026-10549-w>) | Article | OpenAlex |
+| 2026‑04‑22 | [Introducing OpenAI Privacy Filter](<https://openai.com/index/introducing-openai-privacy-filter>) | Research post | Official page |
 | 2026‑04‑19 | [HorizonBench\: Long-Horizon Personalization with Evolving Preferences](<https://arxiv.org/abs/2604.17283>) | Preprint | OpenAlex |
 | 2026‑04‑16 | [Introducing GPT-Rosalind for life sciences research](<https://openai.com/index/introducing-gpt-rosalind>) | Publication | Official page |
 | 2026‑04‑16 | [ORION\: An agentic reasoning construct for the analysis of complex human immune profiling](<https://doi.org/10.64898/2026.04.13.718286>) | Article | OpenAlex |

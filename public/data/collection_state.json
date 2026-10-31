@@ -1,8 +1,8 @@
 {
-  "next_lab": 0,
+  "next_lab": 1,
   "labs": {
     "OpenAI": {
-      "last_attempt": "2026-10-11",
+      "last_attempt": "2026-10-31",
       "status": "partial",
       "since": "2024-01-01"
     },

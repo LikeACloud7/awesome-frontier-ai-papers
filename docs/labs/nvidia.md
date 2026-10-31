@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2138`
+- Papers: `2142`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#nvidia)
 
@@ -17,8 +17,12 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
-| 2026‑10‑24 | [RSI Arena\: Towards Recursive Self-Improvement with Human Feedback](<https://arxiv.org/abs/2610.33624v1>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [FG-ConvNO\: A Geometry-Aware Neural Operator for Propeller CFD Prediction](<https://arxiv.org/abs/2610.33456>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [Cross-View and Cross-Time Tracking of Crack Evolution in Concrete](<https://arxiv.org/abs/2610.33550>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [RSI Arena\: Towards Recursive Self-Improvement with Human Feedback](<https://arxiv.org/abs/2610.33624v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑22 | [Sensorimotor Alignment\: A Platonic Proxy for Embodied Policy Success](<https://arxiv.org/abs/2610.31670>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
@@ -71,8 +75,8 @@
 | 2026‑10‑08 | [GATOR\: Generative and Agentic 3D Object Reconstruction From Casual Images](<https://huggingface.co/papers/2610.11215>) | Paper | Hugging Face |
 | 2026‑10‑08 | [NV-Tesseract-AD\: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection](<https://arxiv.org/abs/2610.12754>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Long-WAM\: Scaling the Context of World-Action Models](<https://huggingface.co/papers/2610.10528>) | Paper | Hugging Face |
+| 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://www.microsoft.com/en-us/research/publication/roborender-robot-oriented-video-generation-for-visual-sim-to-real-transfer/>) | Publication | Verified affiliation, Official page |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
-| 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://arxiv.org/abs/2610.09254v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](<https://arxiv.org/abs/2610.10298>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [miniTE\: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning](<https://arxiv.org/abs/2610.23928v1>) | Paper | Verified affiliation |
 | 2026‑10‑06 | [A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning](<https://huggingface.co/papers/2606.03335>) | Paper | Hugging Face |
