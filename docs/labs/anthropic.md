@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `366`
+- Papers: `370`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#anthropic)
 
@@ -22,9 +22,11 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation |
 | 2026‑10‑23 | [Tampered ML\: Evaluating LLM Judgment of Machine Learning Research](<https://arxiv.org/abs/2610.32114>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Scaling Laws for Safety Probes](<https://doi.org/10.48550/arxiv.2610.30678>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Model Organisms of Collusion\: Corrective Transfer in Untrusted Monitors](<https://arxiv.org/abs/2610.30582>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Automating ML for Science\: Can Frontier Agents Climb Scientific Hills in the Wild?](<https://arxiv.org/abs/2610.28763v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>) | Research post | Official page |
 | 2026‑10‑16 | [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>) | Research post | Official page |
 | 2026‑10‑16 | [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>) | Research post | Official page |
@@ -80,12 +82,14 @@
 | 2026‑07‑09 | [Claude plays robotics](<https://www.anthropic.com/research/claude-plays-robotics>) | Publication | Official page |
 | 2026‑07‑08 | [An off switch for dual-use knowledge in AI models](<https://www.anthropic.com/research/off-switch-dual-use>) | Research post | Official page |
 | 2026‑07‑06 | [A global workspace in language models](<https://www.anthropic.com/research/global-workspace>) | Publication | Official page |
+| 2026‑07‑03 | [Corporate Loyalty\: Some AI Systems Differentially Downplay their Creators' Controversies](<https://arxiv.org/abs/2609.00373v1>) | Paper | Verified affiliation |
 | 2026‑07‑01 | [Covert Attacks on Machine Learning Training in Passively Secure MPC](<https://doi.org/10.1109/eurosp68448.2026.00047>) | Conference paper | OpenAlex |
 | 2026‑07 | [Claude Opus 5 System Card](<https://anthropic.com/claude-opus-5-system-card>) | Model card | Official page |
 | 2026‑06‑26 | [Anthropic Economic Index report\: Cadences](<https://www.anthropic.com/research/economic-index-june-2026-report>) | Publication | Official page |
 | 2026‑06‑18 | [Project Fetch\: Phase two](<https://www.anthropic.com/research/project-fetch-phase-two>) | Research post | Official page |
 | 2026‑06‑16 | [Agentic coding and persistent returns to expertise](<https://www.anthropic.com/research/claude-code-expertise>) | Publication | Official page |
 | 2026‑06‑15 | [The Value Axis\: Language Models Encode Whether They're on the Right Track](<https://arxiv.org/abs/2606.17056>) | Preprint | OpenAlex |
+| 2026‑06‑15 | [Rapid Poison\: Practical Poisoning Attacks Against the Rapid Response Framework](<https://arxiv.org/abs/2606.16242v1>) | Paper | Verified affiliation |
 | 2026‑06‑08 | [Paving the way for agents in biology](<https://www.anthropic.com/research/agents-in-biology>) | Research post | Official page |
 | 2026‑06‑08 | [Measuring LLMs’ impact on N-day exploits](<https://www.anthropic.com/research/n-days>) | Publication | Official page |
 | 2026‑06‑05 | [Making Claude a chemist](<https://www.anthropic.com/research/making-claude-a-chemist>) | Publication | Official page |

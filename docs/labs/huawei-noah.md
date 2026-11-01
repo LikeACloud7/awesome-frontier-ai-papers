@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4137`
-- Latest: `2026-10-29`
+- Papers: `4143`
+- Latest: `2026-10-30`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,9 +15,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑30 | [Error Tolerant Neural Media Codecs for 6G AI-on-RAN](<https://doi.org/10.1145/3842721.3856775>) | Conference paper | OpenAlex |
 | 2026‑10‑29 | [Agentic, Autonomous Design Evolution of Machine-Learned Interatomic Potentials](<https://doi.org/10.1021/prechem.6c00099>) | Article | OpenAlex |
+| 2026‑10‑27 | [VGIQA\: Fine-Grained Image Quality Assessment with Visual Grounding Rewards](<https://arxiv.org/abs/2610.37186>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Select-TTT\: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training](<https://arxiv.org/abs/2610.36794>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [PrivacyEvalClaw\: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses](<https://arxiv.org/abs/2610.36711>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [SAGE\: Saliency-Annealed Gated Encoder for Universal Vision Recognition](<https://arxiv.org/abs/2610.36719v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [Robust LLM Data Selection via Content-Invariant Gradient Attribution](<https://arxiv.org/abs/2610.36755v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [INC-MoE\: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference](<https://arxiv.org/abs/2610.36339>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [EffBench\: A Holistic Efficiency Benchmark for CTR Models](<https://doi.org/10.1145/3857278>) | Article | OpenAlex |
 | 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
 | 2026‑10‑26 | [ACTIVE\: A Dynamic Pareto-Frontier-Based Unified Index for Dual-Vector Query](<https://arxiv.org/abs/2610.35751>) | Preprint | OpenAlex |
@@ -103,6 +108,7 @@
 | 2026‑10‑07 | [0-RTT Integrated in SPDM for Large-Scale AI Super-Clusters](<https://doi.org/10.1007/978-3-032-38692-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [WorldSolver\: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](<https://arxiv.org/abs/2610.08720>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [Rethinking Faithfulness in LLMs\: A Pairwise Context-Sensitive Perspective](<https://arxiv.org/abs/2610.07894>) | Preprint | OpenAlex |
+| 2026‑10‑06 | [Reconfigurable Photonic Quasi-Unitary Computing Hardware for Optical Signal Processing](<https://doi.org/10.21203/rs.3.rs-11165891/v1>) | Preprint | OpenAlex |
 | 2026‑10‑06 | [PERSIST\: Who-What-When Memory Across Sessions for Full-Duplex Spoken Dialogue](<https://arxiv.org/abs/2610.07725>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Trajectory-Guided Tokenization of Complex CSI for Wi-Fi Sensing](<https://arxiv.org/abs/2610.06288>) | Preprint | OpenAlex |
 | 2026‑10‑05 | [Rule-Based Languages for Neurosymbolic AI](<https://arxiv.org/abs/2610.07313>) | Preprint | OpenAlex |

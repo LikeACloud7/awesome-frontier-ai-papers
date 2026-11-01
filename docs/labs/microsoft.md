@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4156`
-- Latest: `2026-10-29`
+- Papers: `4160`
+- Latest: `2026-10-30`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -150,10 +150,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑30 | [Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models](<https://doi.org/10.1371/journal.pcbi.1014906>) | Article | OpenAlex |
 | 2026‑10‑29 | [SquashSight\: A Single-Camera Deep Learning Pipeline for Automated Squash Match Analysis and Coaching Decision Support](<https://doi.org/10.3390/bdcc10110369>) | Article | OpenAlex |
 | 2026‑10‑29 | [Citizen Science Gamers Enable Automated Flow Cytometry Gating Through Machine Learning](<https://doi.org/10.1002/cyto.a.70074>) | Article | OpenAlex |
+| 2026‑10‑28 | [How Architecture, Typology, and Adaptation Strategies Shape ASR for Low-Resource African Languages\: A Controlled Empirical Study](<https://doi.org/10.48550/arxiv.2610.39004>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Physiology-Informed Audio Quality and Listening Effort Estimation](<https://arxiv.org/abs/2610.36865>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ThinkBit\: Search Codewords, Recalibrate Scales, Select by Reasoning](<https://arxiv.org/abs/2610.34886>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Semantic Atoms for Scalable Text Analysis in Data Analytics in the Era of LLM-Based Agents](<https://arxiv.org/abs/2610.34860>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [MtReNIRS\: A Self-Supervised Foundation Model for Transferable Neurovascular Representations](<https://arxiv.org/abs/2610.36159>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Large language models for computational social science](<https://doi.org/10.1038/s41562-026-02539-9>) | Article | OpenAlex |
 | 2026‑10‑26 | [ImageTTS\: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](<https://arxiv.org/abs/2610.34807>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Explainable Fuzzy AI for Physics Simulation](<https://doi.org/10.1007/978-3-032-35459-4_39>) | Conference paper | OpenAlex |
@@ -1316,7 +1320,7 @@
 | 2026‑04‑21 | [Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs](<https://www.microsoft.com/en-us/research/publication/cognitive-load-estimation-using-brain-foundation-models-and-interpretability-for-bcis/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑21 | [Reasoning-Aware AIGC Detection via Alignment and Reinforcement](<https://www.microsoft.com/en-us/research/publication/reasoning-aware-aigc-detection-via-alignment-and-reinforcement/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑21 | [From real-world trajectory-level pre-crash data to driving behavior modeling\: An inverse reinforcement learning framework based on ghost-probe scenarios](<https://www.microsoft.com/en-us/research/publication/from-real-world-trajectory-level-pre-crash-data-to-driving-behavior-modeling-an-inverse-reinforcement-learning-framework-based-on-ghost-probe-scenarios/>) | Publication | Official page |
-| 2026‑04‑21 | [Continuous Semantic Caching for Low-Cost LLM Serving](<https://www.microsoft.com/en-us/research/publication/continuous-semantic-caching-for-low-cost-llm-serving/>) | Publication | Official page |
+| 2026‑04‑21 | [Continuous Semantic Caching for Low-Cost LLM Serving](<https://www.microsoft.com/en-us/research/publication/continuous-semantic-caching-for-low-cost-llm-serving/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑21 | [TeamFusion\: Supporting Open-ended Teamwork with Multi-Agent Systems](<https://www.microsoft.com/en-us/research/publication/teamfusion-supporting-open-ended-teamwork-with-multi-agent-systems/>) | Publication | Official page |
 | 2026‑04‑21 | [A Comprehensive Ecosystem for Open-Domain Customized Video Generation](<https://www.microsoft.com/en-us/research/publication/a-comprehensive-ecosystem-for-open-domain-customized-video-generation/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑21 | [Phrased\: Phrase Dictionary Biasing for Speech Translation](<http://arxiv.org/abs/2506.09175>) | Preprint | OpenAlex |
@@ -1527,7 +1531,7 @@
 | 2026‑04‑01 | [What does Generative UI mean for HCI Practice?](<https://www.microsoft.com/en-us/research/publication/what-does-generative-ui-mean-for-hci-practice/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑01 | [Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks](<https://www.microsoft.com/en-us/research/publication/online-pseudo-zeroth-order-training-of-neuromorphic-spiking-neural-networks/>) | Publication | Official page |
 | 2026‑04‑01 | [Improving Diffusion Models for Class-imbalanced Training Data via Capacity Manipulation](<https://www.microsoft.com/en-us/research/publication/improving-diffusion-models-for-class-imbalanced-training-data-via-capacity-manipulation/>) | Publication | Official page |
-| 2026‑04‑01 | [The State and Fate of Multilingual, Contextual Evaluation in the NLP World](<https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/>) | Publication | Official page |
+| 2026‑04‑01 | [The State and Fate of Multilingual, Contextual Evaluation in the NLP World](<https://www.microsoft.com/en-us/research/publication/the-state-and-fate-of-multilingual-contextual-evaluation-in-the-nlp-world/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑01 | [Revisiting Weight Initialization for Transfer Learning on Tabular Data\: The Feature-Adaptive Variance Initialization (FAVI) Approach](<https://doi.org/10.3390/math14071174>) | Article | OpenAlex |
 | 2026‑04‑01 | [Federated Learning on Riemannian Manifolds with Differential Privacy](<https://doi.org/10.1007/s10994-026-07018-w>) | Article | OpenAlex |
 | 2026‑04‑01 | [AI-Driven Procurement Intelligence for Strategic Cost Optimization](<https://doi.org/10.1109/icctwc68241.2026.11583695>) | Conference paper | OpenAlex |

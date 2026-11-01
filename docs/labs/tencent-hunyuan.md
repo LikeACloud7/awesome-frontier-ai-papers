@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3864`
+- Papers: `3873`
 - Latest: `2026-10-28`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -27,18 +27,27 @@
 |---|---|---|---|
 | 2026‑10‑28 | [Youtu-Parsing-Omni\: One Encoder, One Schema, All Modalities](<https://huggingface.co/papers/2610.39301>) | Preprint | Official page |
 | 2026‑10‑27 | [WeVisCut\: The Whole Editing Room in One Agent From Narration to Long-Form Video](<https://huggingface.co/papers/2610.38352>) | Preprint | Official page |
+| 2026‑10‑27 | [When All Rollouts Fail\: Policy-Compatible Joint Decoding for Hard-Problem Reasoning](<https://arxiv.org/abs/2610.36849>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Rethinking Positional Encoding and Interaction Granularity for CTR Prediction](<https://arxiv.org/abs/2610.37140>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Proactive Memory for Event-Driven LLM Agents](<https://arxiv.org/abs/2610.36967>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [InfraDev\: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?](<https://arxiv.org/abs/2610.36589>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [From Ripple to Boundary\: Deterministic Impact Boundaries for LLM-Based Software Evolution](<https://arxiv.org/abs/2610.36549>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [CV-Net\: An efficient dual-encoder CNN–Transformer network with multi-scale attention for medical image segmentation](<https://doi.org/10.1016/j.bspc.2026.111699>) | Article | OpenAlex |
-| 2026‑10‑27 | [FeatureArc\: Benchmarking Coding Agents on Evolving Features](<https://arxiv.org/abs/2610.37434v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [FeatureArc\: Benchmarking Coding Agents on Evolving Features](<https://arxiv.org/abs/2610.37434v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑26 | [Hy-Nomas\: Towards Free-form Interactive World Generation](<https://huggingface.co/papers/2610.36729>) | Preprint | Official page, Hugging Face |
+| 2026‑10‑26 | [Understanding Jev-Style System One Models\: Does Structure Reduce Selection Bias?](<https://arxiv.org/abs/2610.35826>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [S2SND-v2\: Unified Online and Offline Speaker Diarization with Speaker-Adapted w2v-BERT 2\.0](<https://arxiv.org/abs/2610.34707>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Let the Gate Decide\: Per-Lookup Precision for Quantized Conditional Memory in LLMs](<https://arxiv.org/abs/2610.35985>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [InterQ-RL\: Interaction-Aware Correction of Execution Mismatch in Quantized Agentic RL](<https://arxiv.org/abs/2610.35303>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Integrate the Reward, Don't Sample It\: Window Likelihood for Interruptions and Backchannels in Full-Duplex Speech Models](<https://arxiv.org/abs/2610.35581>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [From Structural Feedback to Prompt Policies\: Learning Faithful Text-to-Image Prompt Editors](<https://arxiv.org/abs/2610.36146>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [FeatureLoop\: Benchmarking Coding Agents under Evolving Requirements](<https://arxiv.org/abs/2610.35488>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Beyond Distribution Matching\: Self-Supervised Representation Forcing for Few-Step Video Generation](<https://arxiv.org/abs/2610.35594>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [Self-Evolution Reasoner\: Continuous Optimization via Policy-Intrinsic Exploration and Exploitation](<https://arxiv.org/abs/2610.34137>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [MultiEvoSkill\: Structure-Aware Multi-Agent Skill Evolution for Generalizable Skill Artifacts](<https://arxiv.org/abs/2610.34260>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [LoopGR\: Parameter-Efficient Scaling for Generative Recommendation via Recurrent Depth](<https://arxiv.org/abs/2610.34157>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [RAQ-MLA\: Role-Aware Quantization for Multi-Head Latent Attention Caches](<https://arxiv.org/abs/2610.33625>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval](<https://arxiv.org/abs/2610.33484>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [POSEIDON\: Scaling Training Environments for Scientific Agents from Code Repositories](<https://arxiv.org/abs/2610.32448>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [HyScale\: Scaling Long-Context Training for Learned Sparse Attention](<https://arxiv.org/abs/2610.32057>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [TGR-EvoDAG\: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](<https://arxiv.org/abs/2610.32326v1>) | Paper | Verified affiliation, OpenAlex |

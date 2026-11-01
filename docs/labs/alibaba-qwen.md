@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3945`
+- Papers: `3957`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -19,7 +19,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑27 | [Weakness Localization Is Not Enough\: State-Aware Recursive Knowledge Improvement for Large Language Models](<https://arxiv.org/abs/2610.36811>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [S3-S2ST\: Semantically Supervised Streaming Speech-to-Speech Translation](<https://arxiv.org/abs/2610.36777>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [QESChunker\: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG](<https://arxiv.org/abs/2610.36557>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [PailitaoMMSearch2\.0 Technical Report\: Scaling Generative Retrieval to Unified End-to-End Multimodal Search](<https://arxiv.org/abs/2610.36958>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [MVRCap\: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards](<https://arxiv.org/abs/2610.36838>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Live-OPSD\: On-Policy Self-Distillation for Proactive Streaming Large Video Models](<https://arxiv.org/abs/2610.36959>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [KL-MOPD\: Discrepancy-Aware Multi-Objective On-Policy Distillation for Generative Recommendation](<https://arxiv.org/abs/2610.36973>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [HiLo-RD\: Cross-Budget Self-Distillation for Masked Diffusion Language Models](<https://arxiv.org/abs/2610.36901>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [GUI-JEPA\: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents](<https://arxiv.org/abs/2610.36877>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Can LLMs Uncover Hidden Physical Laws through Free Exploration?](<https://arxiv.org/abs/2610.37649>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [AdaGround\: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding](<https://arxiv.org/abs/2610.36874>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [RynnWorld-Latent\: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](<https://arxiv.org/abs/2610.36791v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [Unified Heterogeneous Feature Interaction via Effective-Rank Scaling for Recommender Systems](<https://arxiv.org/abs/2610.35318>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [SLIDE\: Search-to-List Item Distillation for Single-Rollout Generative Retrieval](<https://arxiv.org/abs/2610.34764>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Natural Jammers\: When Non-Robust Features Become Antagonistic](<https://arxiv.org/abs/2610.34785>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Harness-Model Collaboration for Long-Horizon Continual Learning](<https://arxiv.org/abs/2610.34724>) | Preprint | OpenAlex |

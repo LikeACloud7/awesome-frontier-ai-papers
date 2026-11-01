@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3725`
-- Latest: `2026-10-29`
+- Papers: `3731`
+- Latest: `2026-10-30`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,8 +16,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑30 | [IoTell\: Multimodal Sensor Fusion for Enhanced IoT Control](<https://doi.org/10.1145/3842721.3849672>) | Conference paper | OpenAlex |
+| 2026‑10‑30 | [Anomaly detection in industrial robotics\: A novel dataset and benchmark method](<https://doi.org/10.1016/j.rcim.2026.103453>) | Article | OpenAlex |
+| 2026‑10‑29 | [Why Data Is the Critical Currency for Science-Enabled IT Products](<https://doi.org/10.1162/99608f92.00493df3>) | Article | OpenAlex |
+| 2026‑10‑29 | [AI-driven warehouse automation\: a unified edge computer vision framework for real-time package tracking and conveyor monitoring](<https://doi.org/10.3389/frai.2026.1917595>) | Article | OpenAlex |
 | 2026‑10‑29 | [Sandman\: Building and Operating Sandboxes for Agentic Reinforcement Learning on Shared Kubernetes](<https://arxiv.org/abs/2610.39711v1>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [Vendster\: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](<https://arxiv.org/abs/2610.38292v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [V-LUMEN\: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](<https://arxiv.org/abs/2610.37019>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Who Holds the AI Debt? A Traceable-Share Methodology for AI Infrastructure Credit Exposure](<https://doi.org/10.62225/2583049x.2026.6.5.7076>) | Article | OpenAlex |
 | 2026‑10‑24 | [Schema-Free Text-to-SQL\: Learning Enterprise Database Structure from Query Logs](<https://arxiv.org/abs/2610.33946>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Performance Gaps Between Open-Loop, Certainty-Equivalent, and Optimal Control Under Action-Dependent Observations](<https://arxiv.org/abs/2610.33412>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [GeoLift\: Grounding Video Spatial Reasoning in Explicit 3D Maps](<https://arxiv.org/abs/2610.33558>) | Preprint | OpenAlex |

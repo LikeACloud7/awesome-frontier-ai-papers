@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5690`
+- Papers: `5693`
 - Latest: `2026-10-29`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -21,6 +21,8 @@
 | 2026‑10‑28 | [Mentorship, Interrupted\: How GenAI Disrupts the GSoC Pipeline and Why Mentors Matter More](<https://arxiv.org/abs/2610.38167v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [EmbeddingGemma 2\: Unified and Efficient Multimodal Representations](<https://deepmind.google/research/publications/279443/>) | Publication | Verified affiliation, Official page |
+| 2026‑10‑27 | [Multi-State Linear Attention with Generalized Second-Order Routing](<https://arxiv.org/abs/2610.37645>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Efficient Quantization Training with Stochastic Rounding via Structured Subspace Randomness](<https://arxiv.org/abs/2610.36587>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Smartphone-based Non-Invasive Classification of Anemia Severity using Deep Learning\: A Cross-Sectional Study in Rural India](<https://doi.org/10.64898/2026.10.22.26366247>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [CEPO\: A General Framework for Improving Prompt Optimization in Multi-Agent Systems](<https://arxiv.org/abs/2610.34722>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [AudioFM\: Towards General Purpose Audio Representation Learning](<https://arxiv.org/abs/2610.34183>) | Preprint | OpenAlex |
@@ -51,6 +53,7 @@
 | 2026‑10‑20 | [SimHack\: Predicting the onset of detectable reward hacking before RL training](<https://arxiv.org/abs/2610.28707>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Reliable and Efficient Agentic Protein Design with Toolset Harnessing](<https://doi.org/10.64898/2026.10.19.759896>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Query Feedback and Teaching for Stable and Certifiable Language Generation](<https://arxiv.org/abs/2610.28918>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Disentangling total-variance and signal-to-noise-ratio improves diffusion models](<https://arxiv.org/abs/2502.08598>) | Article | OpenAlex |
 | 2026‑10‑20 | [Agentic inequality](<https://arxiv.org/abs/2510.16853>) | Article | OpenAlex |
 | 2026‑10‑20 | [Object-Oriented Harness\: Evolving Agent Harnesses through Object-Oriented Design](<https://arxiv.org/abs/2610.28380v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑20 | [CALLIOPE\: Private Insights into AI Use, Without Embeddings](<https://arxiv.org/abs/2610.28797v1>) | Paper | Verified affiliation, OpenAlex |
