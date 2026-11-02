@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1874`
+- Papers: `1875`
 - Latest: `2026-10-28`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,6 +17,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑28 | [SafeComm-Agent\: A Security-Aware Communication and Inference Optimization Framework for Multi-Agent Embodied Intelligence Systems](<https://doi.org/10.66238/fsrma139>) | Article | OpenAlex |
+| 2026‑10‑28 | [Exploring Fractional Quantum Hall States with Deep Learning\: From Abelian to Non-Abelian Phases](<https://arxiv.org/abs/2610.38533>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [TrustLife\: A Trust-Aware Artificial Intelligence Lifecycle Management Framework for Secure Embodied Robots with Multi-Cloud Deployment Optimization](<https://doi.org/10.66238/fsrma140>) | Article | OpenAlex |
 | 2026‑10‑27 | [Does LLM Pre-Training Typically Occur at the Edge of Stability?](<https://arxiv.org/abs/2610.36778>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [From Belief Inference to Task Action\: A Multi-Level Evaluation of Theory of Mind on Verifiable Tasks](<https://arxiv.org/abs/2610.34759>) | Preprint | OpenAlex |

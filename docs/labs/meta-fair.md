@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1899`
-- Latest: `2026-10-29`
+- Papers: `1906`
+- Latest: `2026-11-01`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,8 +44,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑01 | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
+| 2026‑10‑31 | [Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations](<https://doi.org/10.1145/3830398.3830568>) | Conference paper | OpenAlex |
+| 2026‑10‑31 | [A Benchmarking Framework for Context-aware XR Interfaces](<https://arxiv.org/abs/2609.30466>) | Conference paper | OpenAlex |
+| 2026‑10‑30 | [Object Detection of Tree Uprooting Signatures in Gridded LiDAR Elevation Data](<https://doi.org/10.1029/2025ea004894>) | Article | OpenAlex |
 | 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
+| 2026‑10‑29 | [Dobb\: Shard-Local Preconditioning in Block-Diagonal Eigenbases](<https://arxiv.org/abs/2610.39412>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Beyond IPS\: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities](<https://arxiv.org/abs/2610.40112>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [Interpretable and Validatable Uplift Modeling](<https://arxiv.org/abs/2610.37966>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Towards Boundary‐Aware Clustering Approach to Identifying Critical Nodes in Transportation Networks](<https://doi.org/10.1002/cpe.70962>) | Article | OpenAlex |
 | 2026‑10‑25 | [InteractiveWorld\: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](<https://huggingface.co/papers/2610.33966>) | Paper | Hugging Face |
 | 2026‑10‑23 | [When Does Pre-Trained Capacity Help Causal Learning? From Scalar Prediction to Counterfactual Post-Training](<https://arxiv.org/abs/2610.33311>) | Preprint | OpenAlex |
@@ -1716,7 +1723,6 @@
 | 2024‑04‑18 | [Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration](<http://arxiv.org/abs/2404.12022>) | Preprint | OpenAlex |
 | 2024‑04‑17 | [Expanding Datacenter Capacity with DVFS Boosting\: A safe and scalable deployment experience](<https://doi.org/10.1145/3617232.3624853>) | Conference paper | OpenAlex |
 | 2024‑04‑17 | [GPU-based Private Information Retrieval for On-Device Machine Learning Inference](<https://doi.org/10.1145/3617232.3624855>) | Conference paper | OpenAlex |
-| 2024‑04‑16 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems Using Concept Activation Vectors](<https://doi.org/10.1145/3658675>) | Article | OpenAlex |
 | 2024‑04‑15 | [Assured Offline LLM-Based Software Engineering](<https://doi.org/10.1145/3643661.3643953>) | Conference paper | OpenAlex |
 | 2024‑04‑14 | [Multi-task Learning for Front-end Text Processing in TTS](<https://ai.meta.com/research/publications/multi-task-learning-for-front-end-text-processing-in-tts/>) | Publication | Official page |
 | 2024‑04‑14 | [Ambisonics Encoding For Arbitrary Microphone Arrays Incorporating Residual Channels For Binaural Reproduction](<http://arxiv.org/abs/2402.17362>) | Conference paper | OpenAlex |
@@ -1923,3 +1929,4 @@
 | 2024 | [Croissant\: A Metadata Format for ML-Ready Datasets](<https://ai.meta.com/research/publications/croissant-a-metadata-format-for-ml-ready-datasets/>) | Publication | Official page, OpenAlex |
 | 2024 | [LLM self-correction with DeCRIM\: Decompose, critique, and refine for enhanced following of instructions with multiple constraints](<https://www.amazon.science/publications/llm-self-correction-with-decrim-decompose-critique-and-refine-for-enhanced-following-of-instructions-with-multiple-constraints>) | Publication | Official page, OpenAlex |
 | 2024 | [The N-Grammys\: Accelerating autoregressive inference with learning-free batched speculation](<https://www.amazon.science/publications/the-n-grammys-accelerating-autoregressive-inference-with-learning-free-batched-speculation>) | Publication | Official page, OpenAlex |
+| 2024 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors](<https://research.google/pubs/discovering-personalized-semantics-for-soft-attributes-in-recommender-systems-using-concept-activation-vectors-2/>) | Publication | OpenAlex, Official page |

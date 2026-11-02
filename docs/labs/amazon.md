@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3731`
-- Latest: `2026-10-30`
+- Papers: `3735`
+- Latest: `2026-10-31`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,12 +16,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑31 | [Behavioral Session Segmentation and Leakage-Safe Purchase-Intent Modeling\: A Methodological Framework](<https://doi.org/10.57159/jcmm.5.5.261319>) | Article | OpenAlex |
 | 2026‑10‑30 | [IoTell\: Multimodal Sensor Fusion for Enhanced IoT Control](<https://doi.org/10.1145/3842721.3849672>) | Conference paper | OpenAlex |
 | 2026‑10‑30 | [Anomaly detection in industrial robotics\: A novel dataset and benchmark method](<https://doi.org/10.1016/j.rcim.2026.103453>) | Article | OpenAlex |
+| 2026‑10‑30 | [Chronos-2\: A foundation model for multivariate time series forecasting](<https://arxiv.org/abs/2610.41956v1>) | Paper | Verified affiliation |
 | 2026‑10‑29 | [Why Data Is the Critical Currency for Science-Enabled IT Products](<https://doi.org/10.1162/99608f92.00493df3>) | Article | OpenAlex |
 | 2026‑10‑29 | [AI-driven warehouse automation\: a unified edge computer vision framework for real-time package tracking and conveyor monitoring](<https://doi.org/10.3389/frai.2026.1917595>) | Article | OpenAlex |
 | 2026‑10‑29 | [Sandman\: Building and Operating Sandboxes for Agentic Reinforcement Learning on Shared Kubernetes](<https://arxiv.org/abs/2610.39711v1>) | Paper | Verified affiliation |
-| 2026‑10‑28 | [Vendster\: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](<https://arxiv.org/abs/2610.38292v1>) | Paper | Verified affiliation |
+| 2026‑10‑28 | [SatOps-Decision\: Low-Latency Discriminative Decisions for Onboard Satellite Communication Operations](<https://arxiv.org/abs/2610.38697>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation](<https://arxiv.org/abs/2610.38993>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Vendster\: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](<https://arxiv.org/abs/2610.38292v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑27 | [V-LUMEN\: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](<https://arxiv.org/abs/2610.37019>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Who Holds the AI Debt? A Traceable-Share Methodology for AI Infrastructure Credit Exposure](<https://doi.org/10.62225/2583049x.2026.6.5.7076>) | Article | OpenAlex |
 | 2026‑10‑24 | [Schema-Free Text-to-SQL\: Learning Enterprise Database Structure from Query Logs](<https://arxiv.org/abs/2610.33946>) | Preprint | OpenAlex |
@@ -3143,7 +3147,6 @@
 | 2024‑04‑17 | [Early warning of complex climate risk with integrated artificial intelligence](<https://doi.org/10.1038/s41467-025-57640-w>) | Article | OpenAlex |
 | 2024‑04‑17 | [Automatic Generation of Vectorizing Compilers for Customizable Digital Signal Processors](<https://doi.org/10.1145/3802600>) | Article | OpenAlex |
 | 2024‑04‑16 | [Dynamic resource allocation for virtual machine migration optimization using machine learning](<https://doi.org/10.54254/2755-2721/57/20241348>) | Article | OpenAlex |
-| 2024‑04‑16 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems Using Concept Activation Vectors](<https://doi.org/10.1145/3658675>) | Article | OpenAlex |
 | 2024‑04‑16 | [EMC$^2$\: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence](<https://arxiv.org/abs/2404.10575>) | Paper | Verified affiliation |
 | 2024‑04‑15 | [Salient Object-Aware Background Generation using Text-Guided Diffusion Models](<https://doi.org/10.1109/cvprw63382.2024.00744>) | Conference paper | OpenAlex |
 | 2024‑04‑15 | [Deep Learning-Based Approximation of Model Predictive Control Laws Using Mixture Networks](<https://doi.org/10.1109/tase.2024.3386596>) | Article | OpenAlex |
@@ -3754,6 +3757,7 @@
 | 2024 | [A weak supervision approach for few-shot aspect based sentiment analysis](<https://www.amazon.science/publications/a-weak-supervision-approach-for-few-shot-aspect-based-sentiment-analysis>) | Publication | Official page, OpenAlex |
 | 2024 | [Methane detection and characterization with AI sensor fusion and decision-analytic placement of rapidly deployable sensors](<https://research.google/pubs/methane-detection-and-characterization-with-ai-sensor-fusion-and-decision-analytic-placement-of-rapidly-deployable-sensors/>) | Publication | OpenAlex, Official page |
 | 2024 | [WSDM 2024 Workshop on Large Language Models for Individuals, Groups, and Society](<https://research.google/pubs/wsdm-2024-workshop-on-large-language-models-for-individuals-groups-and-society/>) | Publication | OpenAlex, Official page |
+| 2024 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors](<https://research.google/pubs/discovering-personalized-semantics-for-soft-attributes-in-recommender-systems-using-concept-activation-vectors-2/>) | Publication | OpenAlex, Official page |
 
 ## 2023
 

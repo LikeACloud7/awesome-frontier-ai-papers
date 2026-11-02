@@ -1,14 +1,17 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1121`
-- Latest: `2026-10-23`
+- Papers: `1124`
+- Latest: `2026-10-29`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [SCARL\: Sequence Confidence-Aligned Reinforcement Learning](<https://arxiv.org/abs/2610.40407>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Reward-Adaptive Co-Evolution of Policy and Rubric](<https://arxiv.org/abs/2610.40096>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Goal-Aware Dynamic Multi-Agent Collaboration for Long-Horizon Tasks](<https://arxiv.org/abs/2610.39193>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Accordion\: Elastic-Depth Inference via Fixed-Prefix Layer Looping](<https://arxiv.org/abs/2610.32492>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [From Tokens to Files\: Multi-Granularity Detection and Localization of AI-Involved Code](<https://arxiv.org/abs/2610.27863v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>) | Preprint | OpenAlex |

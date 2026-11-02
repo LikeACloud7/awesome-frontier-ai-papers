@@ -1,14 +1,15 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1519`
-- Latest: `2026-10-27`
+- Papers: `1520`
+- Latest: `2026-10-29`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Beyond the Readout\: A Latent Numerical Frame Shared Across Modality and Operation](<https://arxiv.org/abs/2610.37422>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [GHARP\: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior](<https://machinelearning.apple.com/research/gharp-head-animation>) | Publication | Official page |
 | 2026‑10‑26 | [iPrefBench\: A User-Centric Benchmark for Personalized Mobile Use Agents](<https://arxiv.org/abs/2610.34735>) | Preprint | OpenAlex |

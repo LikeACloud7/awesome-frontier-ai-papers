@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4143`
+- Papers: `4149`
 - Latest: `2026-10-30`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,15 +16,20 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑30 | [Error Tolerant Neural Media Codecs for 6G AI-on-RAN](<https://doi.org/10.1145/3842721.3856775>) | Conference paper | OpenAlex |
+| 2026‑10‑29 | [PhysAg3D\: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets](<https://arxiv.org/abs/2610.39924>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Coupled Guidance for Flow Matching](<https://arxiv.org/abs/2610.40109>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Agentic, Autonomous Design Evolution of Machine-Learned Interatomic Potentials](<https://doi.org/10.1021/prechem.6c00099>) | Article | OpenAlex |
+| 2026‑10‑28 | [On the Generalization Gap of Streaming Federated Learning with Markovian Data](<https://arxiv.org/abs/2610.38686>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [HEDGE\: Gated Hypergraph Memory for Scalable Multi-Agent Debate](<https://arxiv.org/abs/2610.38902>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [VGIQA\: Fine-Grained Image Quality Assessment with Visual Grounding Rewards](<https://arxiv.org/abs/2610.37186>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [The evolution of tool use in LLM agents\: from single-tool call to multi-tool orchestration](<http://arxiv.org/abs/2603.22862>) | Article | OpenAlex |
 | 2026‑10‑27 | [Select-TTT\: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training](<https://arxiv.org/abs/2610.36794>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [PrivacyEvalClaw\: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses](<https://arxiv.org/abs/2610.36711>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [SAGE\: Saliency-Annealed Gated Encoder for Universal Vision Recognition](<https://arxiv.org/abs/2610.36719v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [Robust LLM Data Selection via Content-Invariant Gradient Attribution](<https://arxiv.org/abs/2610.36755v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
 | 2026‑10‑26 | [INC-MoE\: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference](<https://arxiv.org/abs/2610.36339>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [EffBench\: A Holistic Efficiency Benchmark for CTR Models](<https://doi.org/10.1145/3857278>) | Article | OpenAlex |
-| 2026‑10‑26 | [ER-RAG\: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Source](<https://doi.org/10.1145/3860054>) | Article | OpenAlex |
 | 2026‑10‑26 | [ACTIVE\: A Dynamic Pareto-Frontier-Based Unified Index for Dual-Vector Query](<https://arxiv.org/abs/2610.35751>) | Preprint | OpenAlex |
 | 2026‑10‑25 | [Entropic Control for Homeostatic Optimization\: Pre-empting Catastrophic Forgetting via Dynamic Feedback](<https://arxiv.org/abs/2610.34182>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Software Engineering LLMs\: Why We Need Them and How Software Engineering Helps Build Them](<https://arxiv.org/abs/2610.33851>) | Preprint | OpenAlex |
@@ -85,6 +90,7 @@
 | 2026‑10‑09 | [CB-Orchestrator\: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits](<https://arxiv.org/abs/2610.13064>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [SkillContrast\: Difference-Guided Text Selection for Agent Skill Reranking](<https://arxiv.org/abs/2610.11650>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [QUILT\: Rethinking Sparse-Attention Prefill through Shared Query Execution](<https://arxiv.org/abs/2610.11134>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Pipelined spiking neural network equalizer architecture designed for CMOS implementation in IM/DD optical transmission systems](<https://doi.org/10.1364/oe.611451>) | Article | OpenAlex |
 | 2026‑10‑08 | [Memory Type Varies\: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](<https://arxiv.org/abs/2610.11573>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Look Back, Think Ahead\: Visual Memory on Demand for Efficient Multimodal Reasoning](<https://arxiv.org/abs/2610.12060>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Learning the Loop, Not Just the Page\: Execution-Grounded Loop Learning for Web Generation](<https://arxiv.org/abs/2610.11543>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4160`
-- Latest: `2026-10-30`
+- Papers: `4174`
+- Latest: `2026-11-02`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -150,10 +150,23 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑02 | [End-To-End Petrophysical Operations with Agentic AI\: A Horizontal Carbonate Reservoir Well Case Study from a Mature Onshore Field, Abu Dhabi](<https://doi.org/10.2118/235583-ms>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [Single-cell perturbation prediction near experimental reproducibility with GENESIS](<https://doi.org/10.64898/2026.10.30.763081>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [Parametric reconstruction of 3D free-form curves from two views](<https://doi.org/10.1007/s00371-026-04793-4>) | Article | OpenAlex |
+| 2026‑10‑31 | [MaterialVellum\: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints](<https://doi.org/10.1145/3830398.3830504>) | Conference paper | OpenAlex |
+| 2026‑10‑31 | [CoNarrate\: Computationally Modeling Information Prematureness and Scaffolding the Co-Construction of Patient Narratives in Asynchronous Telehealth](<https://doi.org/10.1145/3830398.3830658>) | Conference paper | OpenAlex |
 | 2026‑10‑30 | [Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models](<https://doi.org/10.1371/journal.pcbi.1014906>) | Article | OpenAlex |
-| 2026‑10‑29 | [SquashSight\: A Single-Camera Deep Learning Pipeline for Automated Squash Match Analysis and Coaching Decision Support](<https://doi.org/10.3390/bdcc10110369>) | Article | OpenAlex |
 | 2026‑10‑29 | [Citizen Science Gamers Enable Automated Flow Cytometry Gating Through Machine Learning](<https://doi.org/10.1002/cyto.a.70074>) | Article | OpenAlex |
+| 2026‑10‑29 | [xPRT\: Cross-Passage Retrieval Pretraining](<https://arxiv.org/abs/2610.40122>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [SquashSight\: A Single-Camera Deep Learning Pipeline for Automated Squash Match Analysis and Coaching Decision Support](<https://doi.org/10.3390/bdcc10110369>) | Article | OpenAlex |
+| 2026‑10‑29 | [ShallowDefend\: Harnessing Shallow Safety Alignment for Multi-Turn Defender](<https://arxiv.org/abs/2610.40627>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [MemSteer\: Turning User Histories into Supervision for Agent Memory Optimization](<https://arxiv.org/abs/2610.39276>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Where You Inject Matters\: The Trust Region Effect in LLM Agents](<https://arxiv.org/abs/2610.38867>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Machine learning-guided real-time AC optimal transmission switching](<https://arxiv.org/abs/2610.38180>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [How Architecture, Typology, and Adaptation Strategies Shape ASR for Low-Resource African Languages\: A Controlled Empirical Study](<https://doi.org/10.48550/arxiv.2610.39004>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Holistic Diversity Management in LLM-Guided Evolutionary Search](<https://arxiv.org/abs/2610.38407>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [DeepDiff\: Neuro-Dynamic Regression-Freedom Checking for Security Patch Validation](<https://arxiv.org/abs/2610.39066>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Blind Spots\: Where Small Language Models Fall Behind Frontier Models on Terminal Tasks](<https://arxiv.org/abs/2610.39006>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Physiology-Informed Audio Quality and Listening Effort Estimation](<https://arxiv.org/abs/2610.36865>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ThinkBit\: Search Codewords, Recalibrate Scales, Select by Reasoning](<https://arxiv.org/abs/2610.34886>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Semantic Atoms for Scalable Text Analysis in Data Analytics in the Era of LLM-Based Agents](<https://arxiv.org/abs/2610.34860>) | Preprint | OpenAlex |
@@ -231,6 +244,7 @@
 | 2026‑10‑15 | [Data Strategies for Large Language Models\: A Unified Perspective on the Training Lifecycle](<https://arxiv.org/abs/2610.21681>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Bias Control and Injection for Multi-Agent Aggregation](<https://arxiv.org/abs/2610.21290>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Advancing Subseasonal Forecasting with Machine Learning](<https://www.microsoft.com/en-us/research/publication/advancing-subseasonal-forecasting-with-machine-learning/>) | Publication | Official page, OpenAlex |
+| 2026‑10‑14 | [Software Application Profile\: BKMR-CMA\: a novel R command for Bayesian mediation analysis in environmental mixture studies](<https://doi.org/10.1093/ije/dyag235>) | Article | OpenAlex |
 | 2026‑10‑14 | [Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents](<https://arxiv.org/abs/2610.19439>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Mapping Successful AI Application in Well Delivery to Domain Knowledge, SME Capacity in Operators and Their Suppliers](<https://doi.org/10.2118/234029-ms>) | Conference paper | OpenAlex |
 | 2026‑10‑14 | [Lluna\: Collaborative Unimodal Models for Missing-Modality Inference](<https://arxiv.org/abs/2610.20526>) | Preprint | OpenAlex |
@@ -595,11 +609,11 @@
 | 2026‑08‑18 | [GenRec\: Knowing Where to Reconstruct and Where to Generate](<https://arxiv.org/abs/2608.17832v1>) | Paper | Verified affiliation |
 | 2026‑08‑18 | [Measuring AI Scientists\: From Exams to Discovery](<https://doi.org/10.26434/chemrxiv.15007582/v1>) | Preprint | OpenAlex |
 | 2026‑08‑18 | [A Jagged Frontier\: Evaluating Robustness of Code Agents to Semantics-Preserving Transformations](<https://arxiv.org/abs/2608.18389>) | Preprint | OpenAlex |
-| 2026‑08‑17 | [MUSE\: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems](<https://www.microsoft.com/en-us/research/publication/muse-an-interactive-meta-agent-for-understanding-and-steering-llm-powered-data-science-systems/>) | Publication | Official page |
+| 2026‑08‑17 | [MUSE\: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems](<https://www.microsoft.com/en-us/research/publication/muse-an-interactive-meta-agent-for-understanding-and-steering-llm-powered-data-science-systems/>) | Publication | Official page, OpenAlex |
 | 2026‑08‑17 | [KnowSim\: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn](<https://www.microsoft.com/en-us/research/publication/knowsim-evaluating-information-calibration-in-llm-assistants-with-user-simulators-that-learn/>) | Publication | Official page |
 | 2026‑08‑17 | [Integrative Analysis of Genome Data Using Deep Embedded Clustering to Identify Population Stratification and Functional Gene Modules](<https://doi.org/10.38001/ijlsb.1904118>) | Article | OpenAlex |
 | 2026‑08‑16 | [Designing Quantum Error Correcting Codes to fit decoders via Reinforcement Learning](<https://www.microsoft.com/en-us/research/publication/designing-quantum-error-correcting-codes-to-fit-decoders-via-reinforcement-learning/>) | Publication | Official page |
-| 2026‑08‑16 | [Stund\: Activity-Enriched Collaborative Workspaces Mediated by Artificial Intelligence](<https://www.microsoft.com/en-us/research/publication/stund-activity-enriched-collaborative-workspaces-mediated-by-artificial-intelligence/>) | Publication | Official page |
+| 2026‑08‑16 | [Stund\: Activity-Enriched Collaborative Workspaces Mediated by Artificial Intelligence](<https://www.microsoft.com/en-us/research/publication/stund-activity-enriched-collaborative-workspaces-mediated-by-artificial-intelligence/>) | Publication | Official page, OpenAlex |
 | 2026‑08‑16 | [Adoption of Generative AI in the Workplace\: Increasing and Shifting the Balance of Productivity and Communication Activity](<https://www.microsoft.com/en-us/research/publication/adoption-of-generative-ai-in-the-workplace-increasing-and-shifting-the-balance-of-productivity-and-communication-activity/>) | Publication | Official page, Verified affiliation |
 | 2026‑08‑14 | [ForgeWM\: Progressive Causal Training for Few-Step Action-Conditioned Video World Models](<https://www.microsoft.com/en-us/research/publication/forgewm-progressive-causal-training-for-few-step-action-conditioned-video-world-models/>) | Publication | Official page |
 | 2026‑08‑14 | [Protein language models and the long tail of functional diversity](<https://www.microsoft.com/en-us/research/publication/protein-language-models-and-the-long-tail-of-functional-diversity/>) | Publication | OpenAlex, Official page |
@@ -1443,7 +1457,7 @@
 | 2026‑04‑10 | [SLM Finetuning for Natural Language to Domain Specific Code Generation in Production](<https://arxiv.org/abs/2604.09952>) | Preprint | OpenAlex |
 | 2026‑04‑09 | [Scaffolding Human-AI Collaboration\: A Field Experiment on Behavioral Protocols and Cognitive Reframing](<https://www.microsoft.com/en-us/research/publication/human-ai-collaboration-field-experiment/>) | Publication | Official page |
 | 2026‑04‑09 | [PSIRNet\: Deep Learning-based Free-breathing Rapid Acquisition Late Enhancement Imaging](<https://www.microsoft.com/en-us/research/publication/psirnet-deep-learning-based-free-breathing-rapid-acquisition-late-enhancement-imaging/>) | Publication | Official page |
-| 2026‑04‑09 | [From Gaze to Guidance\: Interpreting and Adapting to Users' Cognitive Needs with Multimodal Gaze-Aware AI Assistants](<https://www.microsoft.com/en-us/research/publication/from-gaze-to-guidance-interpreting-and-adapting-to-users-cognitive-needs-with-multimodal-gaze-aware-ai-assistants/>) | Publication | Official page |
+| 2026‑04‑09 | [From Gaze to Guidance\: Interpreting and Adapting to Users' Cognitive Needs with Multimodal Gaze-Aware AI Assistants](<https://www.microsoft.com/en-us/research/publication/from-gaze-to-guidance-interpreting-and-adapting-to-users-cognitive-needs-with-multimodal-gaze-aware-ai-assistants/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑09 | [Faithful GRPO\: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](<https://www.microsoft.com/en-us/research/publication/faithful-grpo-improving-visual-spatial-reasoning-in-multimodal-language-models-via-constrained-policy-optimization/>) | Publication | Official page |
 | 2026‑04‑09 | [To Copilot and Beyond\: 22 AI Systems Developers Want Built](<https://www.microsoft.com/en-us/research/publication/to-copilot-and-beyond-22-ai-systems-developers-want-built/>) | Publication | Official page |
 | 2026‑04‑09 | [Kuramoto Oscillatory Phase Encoding\: Neuro-inspired Synchronization for Improved Learning Efficiency](<https://www.microsoft.com/en-us/research/publication/kuramoto-oscillatory-phase-encoding-neuro-inspired-synchronization-for-improved-learning-efficiency/>) | Publication | Official page |

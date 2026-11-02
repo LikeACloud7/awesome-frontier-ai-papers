@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2145`
-- Latest: `2026-11`
+- Papers: `2148`
+- Latest: `2026-11-02`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,7 +16,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑02 | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
+| 2026‑10‑31 | [Bioactivity foundation model for hit identification and hit-to-lead optimization from sequence data](<https://doi.org/10.64898/2026.10.26.762100>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [PhysicsNeMo-Mesh\: GPU-Native Meshes and Simulation Cases for Physics AI](<https://arxiv.org/abs/2610.39072>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |

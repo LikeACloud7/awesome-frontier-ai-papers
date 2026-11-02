@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3957`
-- Latest: `2026-10-27`
+- Papers: `3971`
+- Latest: `2026-10-31`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,20 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑31 | [mono\: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency](<https://doi.org/10.1007/978-3-032-42929-2_3>) | Conference paper | OpenAlex |
+| 2026‑10‑29 | [Where to Learn and How Far to Roll Out\: Efficient Adaptive Training for GUI Agents](<https://arxiv.org/abs/2610.39251>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [UGR\: Unified Generative Ranking for Heterogeneous E-commerce Recommendation](<https://arxiv.org/abs/2610.39426>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Raincheck\: Deferred Multimodal Prefill for Efficient Multi-Turn MLLM Inference](<https://arxiv.org/abs/2610.39562>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [PFA\: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation](<https://arxiv.org/abs/2610.39273>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Locating and Closing Information Gaps in Multi-Agent Systems](<https://arxiv.org/abs/2610.40186>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Learning Calibrated Confidence for Multi-Agent Collaboration](<https://arxiv.org/abs/2610.39927>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [KARMA\: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](<https://arxiv.org/abs/2610.39884>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [ElasticFormer\: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer](<https://arxiv.org/abs/2610.39946>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Diagnosing the Reference Gap\: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning](<https://arxiv.org/abs/2610.39419>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [BiHashFormer\: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots](<https://arxiv.org/abs/2610.39937>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [ATLAS-Bench\: An Agentic Tool-Use Benchmark for Local Area Search](<https://arxiv.org/abs/2610.39438>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Persona Learning from Feedback for Personalized AI Assistants](<https://arxiv.org/abs/2610.38561>) | Preprint | OpenAlex |
+| 2026‑10‑28 | [Co-Evolving Policy and Rubric via Capability Awareness for Open-Ended Generation](<https://arxiv.org/abs/2610.38566>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Weakness Localization Is Not Enough\: State-Aware Recursive Knowledge Improvement for Large Language Models](<https://arxiv.org/abs/2610.36811>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [S3-S2ST\: Semantically Supervised Streaming Speech-to-Speech Translation](<https://arxiv.org/abs/2610.36777>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [QESChunker\: A Single Objective Unifies Overlapping and Non-Overlapping Chunking for RAG](<https://arxiv.org/abs/2610.36557>) | Preprint | OpenAlex |

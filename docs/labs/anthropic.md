@@ -22,7 +22,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
-| 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑23 | [Tampered ML\: Evaluating LLM Judgment of Machine Learning Research](<https://arxiv.org/abs/2610.32114>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Scaling Laws for Safety Probes](<https://doi.org/10.48550/arxiv.2610.30678>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Model Organisms of Collusion\: Corrective Transfer in Untrusted Monitors](<https://arxiv.org/abs/2610.30582>) | Preprint | OpenAlex |
@@ -375,7 +375,6 @@
 | 2024‑05‑21 | [Mapping the mind of a large language model](<https://www.anthropic.com/research/mapping-mind-language-model>) | Research post | Official page |
 | 2024‑04‑26 | [Circuits Updates – April 2024](<https://www.anthropic.com/research/circuits-updates-april-2024>) | Research post | Official page |
 | 2024‑04‑23 | [Simple probes can catch sleeper agents](<https://www.anthropic.com/research/probes-catch-sleeper-agents>) | Research post | Official page |
-| 2024‑04‑16 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems Using Concept Activation Vectors](<https://doi.org/10.1145/3658675>) | Article | OpenAlex |
 | 2024‑04‑09 | [Measuring the persuasiveness of language models](<https://www.anthropic.com/research/measuring-model-persuasiveness>) | Research post | Official page |
 | 2024‑04‑04 | [Projet URBO – Urbi et Orb(etello) – Co-évolution de la ville d’Orbetello et de sa lagune\: une histoire socio-environnementale d’une ville enclavée par les eaux lagunaires en Italie](<https://hal.science/hal-04556522>) | Conference paper | OpenAlex |
 | 2024‑03‑08 | [Reflections on Qualitative Research](<https://www.anthropic.com/research/transformer-circuits>) | Research post | Official page |
@@ -392,6 +391,7 @@
 | 2024 | [Rapid Response\: Mitigating LLM Jailbreaks with a Few Examples](<https://arxiv.org/abs/2411.07494>) | Research post | Official page |
 | 2024 | [Introducing the Anthropic Fellows Program for AI Safety Research](<https://alignment.anthropic.com/2024/anthropic-fellows-program/index.html>) | Research post | Official page |
 | 2024 | [How to Replicate and Extend our Alignment Faking Demo](<https://alignment.anthropic.com/2024/how-to-alignment-faking/index.html>) | Research post | Official page |
+| 2024 | [Discovering Personalized Semantics for Soft Attributes in Recommender Systems using Concept Activation Vectors](<https://research.google/pubs/discovering-personalized-semantics-for-soft-attributes-in-recommender-systems-using-concept-activation-vectors-2/>) | Publication | OpenAlex, Official page |
 | 2024 | [A Toy Evaluation of Inference Code Tampering](<https://alignment.anthropic.com/2024/rogue-eval/index.html>) | Research post | Official page |
 
 ## 2023

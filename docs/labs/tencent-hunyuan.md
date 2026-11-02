@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3873`
-- Latest: `2026-10-28`
+- Papers: `3880`
+- Latest: `2026-10-29`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -11,6 +11,7 @@
 |---|---|---|---|
 | n\.d\. | [for texture](<https://github.com/Tencent-Hunyuan/Hunyuan3D-2/blob/main/assets/report/Tencent_Hunyuan3D_2_0.pdf>) | Technical report | Official repo |
 | n\.d\. | [DiagSafe](<https://github.com/Tencent-Hunyuan/DiagSafe/blob/main/paper/DiagSafe.pdf>) | Technical report | Official repo |
+| n\.d\. | [Hyra Results](<https://github.com/Tencent-Hunyuan/Hyra-results/blob/main/AI4Science/hyinv/HyInv_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [CL-bench family\: A series of benchmarks for Context Learning](<https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-life-paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [modelnameorpath = "tencent/Hunyuan-A13B-Instruct"](<https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf>) | Technical report | Official repo |
@@ -25,7 +26,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [TaskFrame\: Connecting Task-Level Planning with Frame-Level Control for Game Agents](<https://arxiv.org/abs/2610.40276>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [GistRank\: Gist-Compressed Listwise Ranking with Large Language Models](<https://arxiv.org/abs/2610.39610>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Don't Lose the Thread\: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation](<https://arxiv.org/abs/2610.40350>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Beyond CCT\: Multi-channel SPD recovery for per-shot camera color correction](<https://arxiv.org/abs/2610.40175>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Youtu-Parsing-Omni\: One Encoder, One Schema, All Modalities](<https://huggingface.co/papers/2610.39301>) | Preprint | Official page |
+| 2026‑10‑28 | [Wizard\: Manipulate Any World in Real Time via Agentic Control](<https://huggingface.co/papers/2610.40339>) | Preprint | Official page |
+| 2026‑10‑28 | [TCC-RAG\: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering](<https://arxiv.org/abs/2610.38366>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [WeVisCut\: The Whole Editing Room in One Agent From Narration to Long-Form Video](<https://huggingface.co/papers/2610.38352>) | Preprint | Official page |
 | 2026‑10‑27 | [When All Rollouts Fail\: Policy-Compatible Joint Decoding for Hard-Problem Reasoning](<https://arxiv.org/abs/2610.36849>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Rethinking Positional Encoding and Interaction Granularity for CTR Prediction](<https://arxiv.org/abs/2610.37140>) | Preprint | OpenAlex |
@@ -119,7 +126,7 @@
 | 2026‑10‑13 | [MFVSR\: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal](<https://arxiv.org/abs/2610.18461v1>) | Paper | Verified affiliation |
 | 2026‑10‑12 | [LifeSearch\: Benchmarking Deep Research Agents for Real-World Life and Productivity](<https://huggingface.co/papers/2610.18092>) | Preprint | Official page, Hugging Face, OpenAlex |
 | 2026‑10‑12 | [Multics\: Generative Multi-Player World Model with Hierarchical Communication](<https://huggingface.co/papers/2610.17201>) | Paper | Hugging Face |
-| 2026‑10‑12 | [WeFair\: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search](<https://arxiv.org/abs/2610.16927>) | Preprint | OpenAlex |
+| 2026‑10‑12 | [WeFair\: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search](<https://huggingface.co/papers/2610.16927>) | Preprint | OpenAlex, Official page |
 | 2026‑10‑12 | [StageBreaker\: Shifting Video RL Post-Training Scheduling from Stages down to Data Dependencies](<https://arxiv.org/abs/2610.16691>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Self-Distillation with Verbal Regularization](<https://arxiv.org/abs/2610.16354>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [ScreenASR-Bench\: A Tiered Benchmark for Speech Recognition with Visual Context](<https://arxiv.org/abs/2610.16260>) | Preprint | OpenAlex |
