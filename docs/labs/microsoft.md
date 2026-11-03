@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4174`
+- Papers: `4176`
 - Latest: `2026-11-02`
 - [Back to README](../../README.md#microsoft)
 
@@ -14,8 +14,10 @@
 | n\.d\. | [Cultureshift\: mapping temporal cultural evolution in vision-language models](<https://www.microsoft.com/en-us/research/publication/cultureshift-mapping-temporal-cultural-evolution-in-vision-language-models/>) | Publication | Official page |
 | n\.d\. | [Online Algorithms via Minimax and Posterior Matching](<https://www.microsoft.com/en-us/research/publication/online-algorithms-via-minimax-and-posterior-matching/>) | Publication | Official page |
 | n\.d\. | [scDataset\: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics](<https://www.microsoft.com/en-us/research/publication/scdataset-scalable-data-loading-for-deep-learning-on-large-scale-single-cell-omics/>) | Publication | Official page |
+| n\.d\. | [WordEval\: Evaluating Word-Native Operation Fidelity in Document Editing](<https://www.microsoft.com/en-us/research/publication/wordeval-evaluating-word-native-operation-fidelity-in-document-editing/>) | Publication | Official page |
 | n\.d\. | [Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](<https://www.microsoft.com/en-us/research/publication/where-does-exactly-once-live-model-harness-and-tool-contract-effects-on-duplicate-side-effects-in-llm-agents/>) | Publication | Official page |
 | n\.d\. | [When LLMs play the telephone game\: Cumulative changes and attractors in iterated cultural transmissions](<https://www.microsoft.com/en-us/research/publication/when-llms-play-the-telephone-game-cumulative-changes-and-attractors-in-iterated-cultural-transmissions/>) | Publication | Official page |
+| n\.d\. | [When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation](<https://www.microsoft.com/en-us/research/publication/when-does-subspace-direction-matter-for-lora-regime-analysis-of-the-magnitude-principle-in-few-shot-adaptation/>) | Publication | Official page |
 | n\.d\. | [When 0 is good\: instrumental learning with counterintuitive goals decreases working memory engagement](<https://www.microsoft.com/en-us/research/publication/when-0-is-good-instrumental-learning-with-counterintuitive-goals-decreases-working-memory-engagement/>) | Publication | Official page |
 | n\.d\. | [What MLLMs Learn about When they Learn about Multimodal Reasoning](<https://www.microsoft.com/en-us/research/publication/what-mllms-learn-about-when-they-learn-about-multimodal-reasoning/>) | Publication | Official page |
 | n\.d\. | [Wait, Wait, Wait\.\.\. Why Do Reasoning Models Loop?](<https://www.microsoft.com/en-us/research/publication/wait-wait-wait-why-do-reasoning-models-loop/>) | Publication | Official page |
@@ -243,9 +245,9 @@
 | 2026‑10‑15 | [FastVLA\: Task-Conditioned and Temporally Adaptive Visual Token Compression for Efficient Vision-Language-Action Models](<https://arxiv.org/abs/2610.22146>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Data Strategies for Large Language Models\: A Unified Perspective on the Training Lifecycle](<https://arxiv.org/abs/2610.21681>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Bias Control and Injection for Multi-Agent Aggregation](<https://arxiv.org/abs/2610.21290>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents](<https://www.microsoft.com/en-us/research/publication/progress-aware-distillation-for-mitigating-stagnation-in-small-language-model-agents/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑14 | [Advancing Subseasonal Forecasting with Machine Learning](<https://www.microsoft.com/en-us/research/publication/advancing-subseasonal-forecasting-with-machine-learning/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑14 | [Software Application Profile\: BKMR-CMA\: a novel R command for Bayesian mediation analysis in environmental mixture studies](<https://doi.org/10.1093/ije/dyag235>) | Article | OpenAlex |
-| 2026‑10‑14 | [Progress-Aware Distillation for Mitigating Stagnation in Small Language Model Agents](<https://arxiv.org/abs/2610.19439>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Mapping Successful AI Application in Well Delivery to Domain Knowledge, SME Capacity in Operators and Their Suppliers](<https://doi.org/10.2118/234029-ms>) | Conference paper | OpenAlex |
 | 2026‑10‑14 | [Lluna\: Collaborative Unimodal Models for Missing-Modality Inference](<https://arxiv.org/abs/2610.20526>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [OS-Bench\: Evaluating SWE Agents on Cross-OS Code Migration](<https://arxiv.org/abs/2610.19368v1>) | Paper | OpenAlex, Verified affiliation |

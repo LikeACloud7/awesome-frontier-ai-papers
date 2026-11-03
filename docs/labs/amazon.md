@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3735`
+- Papers: `3739`
 - Latest: `2026-10-31`
 - [Back to README](../../README.md#amazon)
 
@@ -266,7 +266,6 @@
 | 2026‑09‑04 | [When Genomic Masking Priors Fail to Transfer\: Strong Variant Prediction, Weak Functional Generation](<https://arxiv.org/abs/2609.04861>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [Use of methylene blue discography in transforaminal endoscopic discectomy for cranially migrated lumbar disc herniation\: A case report](<https://doi.org/10.1016/j.radcr.2026.08.035>) | Article | OpenAlex |
 | 2026‑09‑04 | [Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines](<https://arxiv.org/abs/2609.04579>) | Preprint | OpenAlex |
-| 2026‑09‑04 | [Distill Globally, Adapt Locally\: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation](<https://arxiv.org/abs/2609.05363>) | Preprint | OpenAlex |
 | 2026‑09‑04 | [Intra-Prompt Parallel Decoding for Common-Context Question Answering](<https://arxiv.org/abs/2609.05707v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑03 | [Swiss-Knife\: A Framework for Reconfigurable Externalised Multi-Objective Alignment at Decode Time](<https://arxiv.org/abs/2609.22226v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑09‑03 | [B2B Customer Conversion Prediction\: A Document Representation, Graph Theory, and CatBoost Driven Methodology](<https://arxiv.org/abs/2609.03239>) | Preprint | OpenAlex |
@@ -939,6 +938,7 @@
 | 2026 | [When retrieval metrics mislead\: Measuring policy signal in long-horizon tool-use agents](<https://www.amazon.science/publications/when-retrieval-metrics-mislead-measuring-policy-signal-in-long-horizon-tool-use-agents>) | Publication | Official page |
 | 2026 | [When LLMs read tables carelessly\: Measuring and reducing data referencing errors](<https://www.amazon.science/publications/when-llms-read-tables-carelessly-measuring-and-reducing-data-referencing-errors>) | Publication | Official page, OpenAlex |
 | 2026 | [What does post-training actually teach LLMs about code? Isolating syntax, algorithms, and implementation fidelity with a novel language](<https://www.amazon.science/publications/what-does-post-training-actually-teach-llms-about-code-isolating-syntax-algorithms-and-implementation-fidelity-with-a-novel-language>) | Publication | Official page |
+| 2026 | [WISE-Flow\: Workflow-induced structured experience for self-evolving conversational service agents](<https://www.amazon.science/publications/wise-flow-workflow-induced-structured-experience-for-self-evolving-conversational-service-agents>) | Publication | Official page |
 | 2026 | [WARP\: Wasserstein-Aligned RAG for population opinions](<https://www.amazon.science/publications/warp-wasserstein-aligned-rag-for-population-opinions>) | Publication | Official page |
 | 2026 | [Visual reasoning through tool-supervised reinforcement learning](<https://www.amazon.science/publications/visual-reasoning-through-tool-supervised-reinforcement-learning>) | Publication | Official page |
 | 2026 | [Visual grounding for object questions](<https://www.amazon.science/publications/visual-grounding-for-object-questions>) | Publication | Official page |
@@ -952,6 +952,8 @@
 | 2026 | [Understanding transformers for time series\: Rank structure, flow-of-ranks, and compressibility](<https://www.amazon.science/publications/understanding-transformers-for-time-series-rank-structure-flow-of-ranks-and-compressibility>) | Publication | Official page |
 | 2026 | [Understanding the implicit biases of design choices for time series foundation models](<https://www.amazon.science/publications/understanding-the-implicit-biases-of-design-choices-for-time-series-foundation-models>) | Publication | Official page |
 | 2026 | [USAD 2\.0\: Scaling representation distillation for universal audio understanding](<https://www.amazon.science/publications/usad-2-0-scaling-representation-distillation-for-universal-audio-understanding>) | Publication | Official page |
+| 2026 | [UNISAF-BENCH\: Intention-grounded safety evaluation for unified multimodal generation models](<https://www.amazon.science/publications/unisaf-bench-intention-grounded-safety-evaluation-for-unified-multimodal-generation-models>) | Publication | Official page |
+| 2026 | [Trustworthy LLM-based rule learning for auditable agentic decision-making](<https://www.amazon.science/publications/trustworthy-llm-based-rule-learning-for-auditable-agentic-decision-making>) | Publication | Official page |
 | 2026 | [TritonRL\: Training LLMs to think and code Triton without cheating](<https://www.amazon.science/publications/tritonrl-training-llms-to-think-and-code-triton-without-cheating>) | Publication | Official page |
 | 2026 | [Trie automata for constrained decoding over large finite sets](<https://www.amazon.science/publications/trie-automata-for-constrained-decoding-over-large-finite-sets>) | Publication | Verified affiliation, Official page |
 | 2026 | [Trajectory2Task\: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](<https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents>) | Publication | Official page, OpenAlex |
@@ -1011,6 +1013,7 @@
 | 2026 | [SAER\: Scalable assessment of e-commerce recommendations using large language models](<https://www.amazon.science/publications/saer-scalable-assessment-of-e-commerce-recommendations-using-large-language-models>) | Publication | Official page, OpenAlex |
 | 2026 | [S2D\: Selective spectral decay for quantization-friendly conditioning of neural activations](<https://www.amazon.science/publications/s2d-selective-spectral-decay-for-quantization-friendly-conditioning-of-neural-activations>) | Publication | Official page |
 | 2026 | [Revisiting model stitching in the foundation model era](<https://www.amazon.science/publications/revisiting-model-stitching-in-the-foundation-model-era>) | Publication | Official page |
+| 2026 | [Retrieval-augmented generation must move beyond factual grounding to represent diverse opinions](<https://www.amazon.science/publications/retrieval-augmented-generation-must-move-beyond-factual-grounding-to-represent-diverse-opinions>) | Publication | Official page |
 | 2026 | [Retrieval-Constrained Policy Optimization for Attack Technique Extraction from Cyber Threat Intelligence](<https://arxiv.org/abs/2608.06778>) | Preprint | Official page, OpenAlex |
 | 2026 | [Rethinking visual information processing in multimodal LLMs](<https://www.amazon.science/publications/rethinking-visual-information-processing-in-multimodal-llms>) | Publication | Official page |
 | 2026 | [Rethinking language models for building outline extraction from remote sensing imagery](<https://www.amazon.science/publications/rethinking-language-models-for-building-outline-extraction-from-remote-sensing-imagery>) | Publication | Official page |
@@ -1168,7 +1171,7 @@
 | 2026 | [Eluna\: An agentic LLM system for automating warehouse operations with reasoning and task execution](<https://www.amazon.science/publications/eluna-an-agentic-llm-system-for-automating-warehouse-operations-with-reasoning-and-task-execution>) | Publication | Official page |
 | 2026 | [Eliciting self-verification in multimodal reasoning agents with reinforcement learning](<https://www.amazon.science/publications/eliciting-self-verification-in-multimodal-reasoning-agents-with-reinforcement-learning>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [ESPO\: Error-structured prompt optimization via diagnose, diversify, and stabilize](<https://www.amazon.science/publications/espo-error-structured-prompt-optimization-via-diagnose-diversify-and-stabilize>) | Publication | Official page |
-| 2026 | [EKKA\: Automated diagnosis of silent errors in LLM inference](<https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference>) | Publication | Official page |
+| 2026 | [EKKA\: Automated diagnosis of silent errors in LLM inference](<https://www.amazon.science/publications/ekka-automated-diagnosis-of-silent-errors-in-llm-inference>) | Publication | Official page, Verified affiliation |
 | 2026 | [Dynamics-aware navigation for autonomous UI agents on directional-input devices](<https://www.amazon.science/publications/dynamics-aware-navigation-for-autonomous-ui-agents-on-directional-input-devices>) | Publication | Official page |
 | 2026 | [Dynamic resolution switching for live streaming](<https://www.amazon.science/publications/dynamic-resolution-switching-for-live-streaming>) | Publication | Official page, OpenAlex |
 | 2026 | [DualVision\: RGB-infrared multimodal large language models for robust visual reasoning](<https://www.amazon.science/publications/dualvision-rgb-infrared-multimodal-large-language-models-for-robust-visual-reasoning>) | Publication | Official page |
@@ -1177,6 +1180,7 @@
 | 2026 | [Does the optimal hallucination detector for agentic tool calls depend on model scale?](<https://www.amazon.science/publications/does-the-optimal-hallucination-detector-for-agentic-tool-calls-depend-on-model-scale>) | Publication | Official page |
 | 2026 | [DocSplit\: A comprehensive benchmark dataset and evaluation approach for document packet recognition and splitting](<https://www.amazon.science/publications/docsplit-a-comprehensive-benchmark-dataset-and-evaluation-approach-for-document-packet-recognition-and-splitting>) | Publication | Official page, OpenAlex |
 | 2026 | [Do VLMs read or rewrite?](<https://www.amazon.science/publications/do-vlms-read-or-rewrite>) | Publication | Official page |
+| 2026 | [Distill globally, adapt locally\: Reasoning distillation and product-type test-time training for scalable trade-up recommendation](<https://www.amazon.science/publications/distill-globally-adapt-locally-reasoning-distillation-and-product-type-test-time-training-for-scalable-trade-up-recommendation>) | Publication | OpenAlex, Official page |
 | 2026 | [Directional alignment mitigates reward hacking in reinforcement learning for language models](<https://www.amazon.science/publications/directional-alignment-mitigates-reward-hacking-in-reinforcement-learning-for-language-models>) | Publication | Official page |
 | 2026 | [Diagnostic knowledge graphs\: Automated benchmark construction and deterministic evaluation for multi-step reasoning agents](<https://www.amazon.science/publications/diagnostic-knowledge-graphs-automated-benchmark-construction-and-deterministic-evaluation-for-multi-step-reasoning-agents>) | Publication | Official page |
 | 2026 | [DiTailed\: Ensuring visual object consistency in text-image-to-image flow matching models](<https://www.amazon.science/publications/ditailed-ensuring-visual-object-consistency-in-text-image-to-image-flow-matching-models>) | Publication | Official page, OpenAlex |

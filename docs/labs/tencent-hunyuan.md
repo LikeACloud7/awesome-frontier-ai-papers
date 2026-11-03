@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3880`
+- Papers: `3881`
 - Latest: `2026-10-29`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -87,6 +87,7 @@
 | 2026‑10‑19 | [FrameGRPO\: Incentivizing Video Reasoning via Multi-Frame Rollouts and Temporal Credit](<https://arxiv.org/abs/2610.26022>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [FinHopper\: A Progressive Multi-Hop Benchmark for Complex Financial Agents with Step-wise Evaluation](<https://arxiv.org/abs/2610.26036>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [A randomized trial of supported versus self-fitting over-the-counter hearing aids in older adults](<https://doi.org/10.1038/s41467-026-78833-x>) | Article | OpenAlex |
+| 2026‑10‑19 | [EmbodiedWorld-200K\: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models](<https://arxiv.org/abs/2610.25959v2>) | Paper | Verified affiliation |
 | 2026‑10‑18 | [DragonMoCap\: Monocular Video-based Motion Capture for Diverse Dragon Topologies](<https://arxiv.org/abs/2610.25437>) | Preprint | OpenAlex |
 | 2026‑10‑17 | [CADS\: Measuring the Incremental Contribution of LLM Proposers in Sequential Biological Screens](<https://arxiv.org/abs/2610.24597>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Steering beyond Language\: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal](<https://arxiv.org/abs/2610.23807>) | Preprint | OpenAlex |

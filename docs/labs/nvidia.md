@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2148`
+- Papers: `2153`
 - Latest: `2026-11-02`
 - [Back to README](../../README.md#nvidia)
 
@@ -17,7 +17,11 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑02 | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
+| 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
+| 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
+| 2026‑11 | [DemoStream\: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration](<https://research.nvidia.com/publication/2026-11_demostream-batched-task-and-motion-plan-optimization-automated-learning>) | Publication | Official page |
+| 2026‑11 | [ScheduleGen\: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning](<https://research.nvidia.com/publication/2026-11_schedulegen-demonstration-generation-skill-scheduling-multi-arm-imitation>) | Publication | Official page |
 | 2026‑10‑31 | [Bioactivity foundation model for hit identification and hit-to-lead optimization from sequence data](<https://doi.org/10.64898/2026.10.26.762100>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [PhysicsNeMo-Mesh\: GPU-Native Meshes and Simulation Cases for Physics AI](<https://arxiv.org/abs/2610.39072>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
@@ -129,6 +133,7 @@
 | 2026‑10‑01 | [A-GHOST\: High-rate streaming of trigger-level data to programmable GPU inference](<https://arxiv.org/abs/2610.01761>) | Preprint | OpenAlex |
 | 2026‑10‑01 | [Physical AI Smart Spaces\: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces](<https://arxiv.org/abs/2610.02580v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑01 | [Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking](<https://arxiv.org/abs/2610.02341v1>) | Paper | Verified affiliation |
+| 2026‑10 | [Isekai3D SDG\: A Platform for Diverse Synthetic Gameplay Visual Data](<https://research.nvidia.com/publication/2026-10_isekai3d-sdg-platform-diverse-synthetic-gameplay-visual-data>) | Publication | Official page |
 | 2026‑09‑30 | [Mid-Harness\: Scaling Actions Between Model and Harness for Terminal Agents](<https://research.nvidia.com/publication/2026-12_mid-harness-scaling-actions-between-model-and-harness-terminal-agents>) | Publication | Official page, Hugging Face |
 | 2026‑09‑30 | [PivotOPD\: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents](<https://huggingface.co/papers/2609.40285>) | Paper | OpenAlex, Hugging Face |
 | 2026‑09‑30 | [Physis-Lang\: Self-Evolving Language as a Physical Representation for Video World Model](<https://huggingface.co/papers/2609.40358>) | Paper | Hugging Face |

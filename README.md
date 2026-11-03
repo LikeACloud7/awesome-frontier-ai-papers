@@ -26,12 +26,12 @@
 
 | Publications in the index | Tracked labs | Archive window | Latest snapshot |
 |:---:|:---:|:---:|:---:|
-| **34,368** | **19** · 9 US / 10 China | **2024 → present** | **2026-11-02** |
+| **34,388** | **19** · 9 US / 10 China | **2024 → present** | **2026-11-03** |
 
 AI research by the tracked labs, with links back to the source. Publication counts include papers, research posts, technical reports, and model or system cards.
 
 > [!NOTE]
-> **Collection is still catching up.** 32 sources need attention and 1327 records await metadata. [View collection status](public/data/collection_health.json).
+> **Collection is still catching up.** 33 sources need attention and 1313 records await metadata. [View collection status](public/data/collection_health.json).
 
 ## Latest Across Labs
 
@@ -39,12 +39,17 @@ The 20 newest entries. Use the [web explorer](https://likeacloud7.github.io/awes
 
 | Date | Lab | Paper | Type | Source |
 |---|---|---|---|---|
+| 2026‑11‑02 | OpenAI | [LifeVal](<https://openai.com/index/lifeval>) | Research post | Official page |
 | 2026‑11‑02 | Microsoft | [End-To-End Petrophysical Operations with Agentic AI\: A Horizontal Carbonate Reservoir Well Case Study from a Mature Onshore Field, Abu Dhabi](<https://doi.org/10.2118/235583-ms>) | Conference paper | OpenAlex |
 | 2026‑11‑02 | NVIDIA | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
 | 2026‑11‑01 | Microsoft | [Single-cell perturbation prediction near experimental reproducibility with GENESIS](<https://doi.org/10.64898/2026.10.30.763081>) | Preprint | OpenAlex |
 | 2026‑11‑01 | Microsoft | [Parametric reconstruction of 3D free-form curves from two views](<https://doi.org/10.1007/s00371-026-04793-4>) | Article | OpenAlex |
 | 2026‑11‑01 | Meta/FAIR | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
+| 2026‑11 | NVIDIA | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | NVIDIA | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
+| 2026‑11 | NVIDIA | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
+| 2026‑11 | NVIDIA | [DemoStream\: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration](<https://research.nvidia.com/publication/2026-11_demostream-batched-task-and-motion-plan-optimization-automated-learning>) | Publication | Official page |
+| 2026‑11 | NVIDIA | [ScheduleGen\: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning](<https://research.nvidia.com/publication/2026-11_schedulegen-demonstration-generation-skill-scheduling-multi-arm-imitation>) | Publication | Official page |
 | 2026‑10‑31 | Alibaba/Qwen | [mono\: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency](<https://doi.org/10.1007/978-3-032-42929-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | Microsoft | [MaterialVellum\: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints](<https://doi.org/10.1145/3830398.3830504>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | Meta/FAIR | [Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations](<https://doi.org/10.1145/3830398.3830568>) | Conference paper | OpenAlex |
@@ -52,13 +57,8 @@ The 20 newest entries. Use the [web explorer](https://likeacloud7.github.io/awes
 | 2026‑10‑31 | NVIDIA | [Bioactivity foundation model for hit identification and hit-to-lead optimization from sequence data](<https://doi.org/10.64898/2026.10.26.762100>) | Preprint | OpenAlex |
 | 2026‑10‑31 | Amazon | [Behavioral Session Segmentation and Leakage-Safe Purchase-Intent Modeling\: A Methodological Framework](<https://doi.org/10.57159/jcmm.5.5.261319>) | Article | OpenAlex |
 | 2026‑10‑31 | Meta/FAIR | [A Benchmarking Framework for Context-aware XR Interfaces](<https://arxiv.org/abs/2609.30466>) | Conference paper | OpenAlex |
-| 2026‑10‑30 | OpenAI | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
-| 2026‑10‑30 | Meta/FAIR | [Object Detection of Tree Uprooting Signatures in Gridded LiDAR Elevation Data](<https://doi.org/10.1029/2025ea004894>) | Article | OpenAlex |
-| 2026‑10‑30 | Amazon | [IoTell\: Multimodal Sensor Fusion for Enhanced IoT Control](<https://doi.org/10.1145/3842721.3849672>) | Conference paper | OpenAlex |
-| 2026‑10‑30 | Microsoft | [Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models](<https://doi.org/10.1371/journal.pcbi.1014906>) | Article | OpenAlex |
-| 2026‑10‑30 | Huawei/Noah | [Error Tolerant Neural Media Codecs for 6G AI-on-RAN](<https://doi.org/10.1145/3842721.3856775>) | Conference paper | OpenAlex |
-| 2026‑10‑30 | Amazon | [Anomaly detection in industrial robotics\: A novel dataset and benchmark method](<https://doi.org/10.1016/j.rcim.2026.103453>) | Article | OpenAlex |
-| 2026‑10‑30 | Amazon | [Chronos-2\: A foundation model for multivariate time series forecasting](<https://arxiv.org/abs/2610.41956v1>) | Paper | Verified affiliation |
+| 2026‑10‑31 | Google/DeepMind | [MAPLE\: A Multimodal Mobile Agent with Playbook-Learned Experience](<https://arxiv.org/abs/2611.01351v1>) | Paper | Verified affiliation |
+| 2026‑10‑31 | Z\.ai/Zhipu | [Agent4FreeFem\: A Verification-Guided Framework for Autonomous Topology Optimization](<https://arxiv.org/abs/2611.00803v1>) | Paper | Verified affiliation |
 
 ## Labs
 
@@ -68,14 +68,14 @@ Jump to a lab’s recent work, or open its complete archive.
 
 | Lab | Publications | Latest | Archive |
 |:---|---:|:---|:---|
-| [Amazon](#amazon) | **3,735** | 2026-10-31 | [Full list →](docs/labs/amazon.md) |
+| [Amazon](#amazon) | **3,739** | 2026-10-31 | [Full list →](docs/labs/amazon.md) |
 | [Anthropic](#anthropic) | **370** | 2026-10-27 | [Full list →](docs/labs/anthropic.md) |
 | [Apple](#apple) | **1,520** | 2026-10-29 | [Full list →](docs/labs/apple.md) |
-| [Google/DeepMind](#googledeepmind) | **5,716** | 2026-10-30 | [Full list →](docs/labs/google-deepmind.md) |
-| [Meta/FAIR](#metafair) | **1,906** | 2026-11-01 | [Full list →](docs/labs/meta-fair.md) |
-| [Microsoft](#microsoft) | **4,174** | 2026-11-02 | [Full list →](docs/labs/microsoft.md) |
-| [NVIDIA](#nvidia) | **2,148** | 2026-11-02 | [Full list →](docs/labs/nvidia.md) |
-| [OpenAI](#openai) | **522** | 2026-10-30 | [Full list →](docs/labs/openai.md) |
+| [Google/DeepMind](#googledeepmind) | **5,717** | 2026-10-31 | [Full list →](docs/labs/google-deepmind.md) |
+| [Meta/FAIR](#metafair) | **1,909** | 2026-11-01 | [Full list →](docs/labs/meta-fair.md) |
+| [Microsoft](#microsoft) | **4,176** | 2026-11-02 | [Full list →](docs/labs/microsoft.md) |
+| [NVIDIA](#nvidia) | **2,153** | 2026-11-02 | [Full list →](docs/labs/nvidia.md) |
+| [OpenAI](#openai) | **523** | 2026-11-02 | [Full list →](docs/labs/openai.md) |
 | [xAI](#xai) | **13** | 2026-10-27 | [Full list →](docs/labs/xai.md) |
 
 ### 🇨🇳 China
@@ -84,14 +84,14 @@ Jump to a lab’s recent work, or open its complete archive.
 |:---|---:|:---|:---|
 | [Alibaba/Qwen](#alibabaqwen) | **3,971** | 2026-10-31 | [Full list →](docs/labs/alibaba-qwen.md) |
 | [Baidu](#baidu) | **1,124** | 2026-10-29 | [Full list →](docs/labs/baidu.md) |
-| [ByteDance/Seed](#bytedanceseed) | **1,875** | 2026-10-28 | [Full list →](docs/labs/bytedance-seed.md) |
+| [ByteDance/Seed](#bytedanceseed) | **1,876** | 2026-10-28 | [Full list →](docs/labs/bytedance-seed.md) |
 | [DeepSeek](#deepseek) | **53** | 2026-10-07 | [Full list →](docs/labs/deepseek.md) |
 | [Huawei/Noah](#huaweinoah) | **4,149** | 2026-10-30 | [Full list →](docs/labs/huawei-noah.md) |
 | [MiniMax](#minimax) | **24** | 2026-10-15 | [Full list →](docs/labs/minimax.md) |
 | [Moonshot/Kimi](#moonshotkimi) | **51** | 2026-07-27 | [Full list →](docs/labs/moonshot-kimi.md) |
-| [StepFun](#stepfun) | **141** | 2026-10-14 | [Full list →](docs/labs/stepfun.md) |
-| [Tencent/Hunyuan](#tencenthunyuan) | **3,880** | 2026-10-29 | [Full list →](docs/labs/tencent-hunyuan.md) |
-| [Z\.ai/Zhipu](#zaizhipu) | **145** | 2026-10-16 | [Full list →](docs/labs/zai-zhipu.md) |
+| [StepFun](#stepfun) | **142** | 2026-10-29 | [Full list →](docs/labs/stepfun.md) |
+| [Tencent/Hunyuan](#tencenthunyuan) | **3,881** | 2026-10-29 | [Full list →](docs/labs/tencent-hunyuan.md) |
+| [Z\.ai/Zhipu](#zaizhipu) | **146** | 2026-10-31 | [Full list →](docs/labs/zai-zhipu.md) |
 
 ## Papers by Lab
 
@@ -99,7 +99,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Amazon
 
-🇺🇸 **3,735 publications** · Latest `2026-10-31` · [Full archive →](docs/labs/amazon.md)
+🇺🇸 **3,739 publications** · Latest `2026-10-31` · [Full archive →](docs/labs/amazon.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -112,7 +112,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑29 | [Sandman\: Building and Operating Sandboxes for Agentic Reinforcement Learning on Shared Kubernetes](<https://arxiv.org/abs/2610.39711v1>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [SatOps-Decision\: Low-Latency Discriminative Decisions for Onboard Satellite Communication Operations](<https://arxiv.org/abs/2610.38697>) | Preprint | OpenAlex |
 
-[All 3,735 entries →](docs/labs/amazon.md) · [Back to labs ↑](#labs)
+[All 3,739 entries →](docs/labs/amazon.md) · [Back to labs ↑](#labs)
 
 ### Anthropic
 
@@ -150,10 +150,11 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### Google/DeepMind
 
-🇺🇸 **5,716 publications** · Latest `2026-10-30` · [Full archive →](docs/labs/google-deepmind.md)
+🇺🇸 **5,717 publications** · Latest `2026-10-31` · [Full archive →](docs/labs/google-deepmind.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑31 | [MAPLE\: A Multimodal Mobile Agent with Playbook-Learned Experience](<https://arxiv.org/abs/2611.01351v1>) | Paper | Verified affiliation |
 | 2026‑10‑30 | [A prospective randomized study of patient-centered AI for clinical visit preparation](<https://arxiv.org/abs/2610.41437v1>) | Paper | Verified affiliation |
 | 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
 | 2026‑10‑29 | [What is Work For? Labor, Politics, and Meaning in the Age of AI](<https://arxiv.org/abs/2610.39375>) | Preprint | OpenAlex |
@@ -161,13 +162,12 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑29 | [Timbre\: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement learning](<https://arxiv.org/abs/2610.39439>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Rethinking Neural Thickets Without Weight Perturbations](<https://arxiv.org/abs/2610.40649>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Mind The Gap (MTG-AD)\: Dataset and Fine-grained Evaluation for End-to-End Inline Audio Descriptions](<https://arxiv.org/abs/2610.39955v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑10‑28 | [Machine psychology for language models](<https://doi.org/10.1126/sciadv.aec1912>) | Article | OpenAlex |
 
-[All 5,716 entries →](docs/labs/google-deepmind.md) · [Back to labs ↑](#labs)
+[All 5,717 entries →](docs/labs/google-deepmind.md) · [Back to labs ↑](#labs)
 
 ### Meta/FAIR
 
-🇺🇸 **1,906 publications** · Latest `2026-11-01` · [Full archive →](docs/labs/meta-fair.md)
+🇺🇸 **1,909 publications** · Latest `2026-11-01` · [Full archive →](docs/labs/meta-fair.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -180,11 +180,11 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑29 | [Beyond IPS\: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities](<https://arxiv.org/abs/2610.40112>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 
-[All 1,906 entries →](docs/labs/meta-fair.md) · [Back to labs ↑](#labs)
+[All 1,909 entries →](docs/labs/meta-fair.md) · [Back to labs ↑](#labs)
 
 ### Microsoft
 
-🇺🇸 **4,174 publications** · Latest `2026-11-02` · [Full archive →](docs/labs/microsoft.md)
+🇺🇸 **4,176 publications** · Latest `2026-11-02` · [Full archive →](docs/labs/microsoft.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -197,31 +197,32 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑29 | [Citizen Science Gamers Enable Automated Flow Cytometry Gating Through Machine Learning](<https://doi.org/10.1002/cyto.a.70074>) | Article | OpenAlex |
 | 2026‑10‑29 | [xPRT\: Cross-Passage Retrieval Pretraining](<https://arxiv.org/abs/2610.40122>) | Preprint | OpenAlex |
 
-[All 4,174 entries →](docs/labs/microsoft.md) · [Back to labs ↑](#labs)
+[All 4,176 entries →](docs/labs/microsoft.md) · [Back to labs ↑](#labs)
 
 ### NVIDIA
 
-🇺🇸 **2,148 publications** · Latest `2026-11-02` · [Full archive →](docs/labs/nvidia.md)
+🇺🇸 **2,153 publications** · Latest `2026-11-02` · [Full archive →](docs/labs/nvidia.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑02 | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
+| 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
+| 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
+| 2026‑11 | [DemoStream\: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration](<https://research.nvidia.com/publication/2026-11_demostream-batched-task-and-motion-plan-optimization-automated-learning>) | Publication | Official page |
+| 2026‑11 | [ScheduleGen\: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning](<https://research.nvidia.com/publication/2026-11_schedulegen-demonstration-generation-skill-scheduling-multi-arm-imitation>) | Publication | Official page |
 | 2026‑10‑31 | [Bioactivity foundation model for hit identification and hit-to-lead optimization from sequence data](<https://doi.org/10.64898/2026.10.26.762100>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [PhysicsNeMo-Mesh\: GPU-Native Meshes and Simulation Cases for Physics AI](<https://arxiv.org/abs/2610.39072>) | Preprint | OpenAlex |
-| 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
-| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
-| 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
-| 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
 
-[All 2,148 entries →](docs/labs/nvidia.md) · [Back to labs ↑](#labs)
+[All 2,153 entries →](docs/labs/nvidia.md) · [Back to labs ↑](#labs)
 
 ### OpenAI
 
-🇺🇸 **522 publications** · Latest `2026-10-30` · [Full archive →](docs/labs/openai.md)
+🇺🇸 **523 publications** · Latest `2026-11-02` · [Full archive →](docs/labs/openai.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑02 | [LifeVal](<https://openai.com/index/lifeval>) | Research post | Official page |
 | 2026‑10‑30 | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
 | 2026‑10‑29 | [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) | Research post | Official page |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
@@ -229,9 +230,8 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑26 | [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>) | Research post | Official page |
 | 2026‑10‑21 | [Using thousands of AI agents to uncover new leads in biological data](<https://openai.com/index/scaling-ai-research-for-complex-biological-data>) | Research post | Official page |
 | 2026‑10‑21 | [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) | Research post | Official page |
-| 2026‑10‑19 | [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) | Research post | Official page |
 
-[All 522 entries →](docs/labs/openai.md) · [Back to labs ↑](#labs)
+[All 523 entries →](docs/labs/openai.md) · [Back to labs ↑](#labs)
 
 ### xAI
 
@@ -286,7 +286,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### ByteDance/Seed
 
-🇨🇳 **1,875 publications** · Latest `2026-10-28` · [Full archive →](docs/labs/bytedance-seed.md)
+🇨🇳 **1,876 publications** · Latest `2026-10-28` · [Full archive →](docs/labs/bytedance-seed.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -299,7 +299,7 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑25 | [Fovea-JEPA\: Overcoming Geometric Blind Spots in V-JEPA for Camera Motion Recognition](<https://arxiv.org/abs/2610.34033>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
 
-[All 1,875 entries →](docs/labs/bytedance-seed.md) · [Back to labs ↑](#labs)
+[All 1,876 entries →](docs/labs/bytedance-seed.md) · [Back to labs ↑](#labs)
 
 ### DeepSeek
 
@@ -371,10 +371,11 @@ The latest eight entries for every lab. Full archives are organized by year.
 
 ### StepFun
 
-🇨🇳 **141 publications** · Latest `2026-10-14` · [Full archive →](docs/labs/stepfun.md)
+🇨🇳 **142 publications** · Latest `2026-10-29` · [Full archive →](docs/labs/stepfun.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑29 | [UniTele\: Learning Device-Conditioned Degradations for Unified Smartphone Telephoto Super-Resolution](<https://arxiv.org/abs/2610.39617v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [ECHOES\: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](<https://doi.org/10.48550/arxiv.2610.22408>) | Preprint | OpenAlex |
 | 2026‑10‑11 | [High-Fidelity Song Generation with Joint Discrete and Continuous Modeling](<https://arxiv.org/abs/2610.15802>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Reshaping Rollout Workloads for Asynchronous RL Post-Training on Heterogeneous Accelerators](<https://arxiv.org/abs/2609.36899>) | Preprint | OpenAlex |
@@ -382,13 +383,12 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑09‑28 | [Precise Editing and Flexible Referencing for Interactable Worlds](<https://arxiv.org/abs/2609.34470>) | Preprint | OpenAlex |
 | 2026‑09‑28 | [From Search to Research\: Exploring Search Scaling in Autonomous Quantitative Factor Mining](<https://arxiv.org/abs/2609.35559v1>) | Paper | Verified affiliation |
 | 2026‑09‑27 | [Probe to Act\: Elevating Browser-Use Agent via Active Visual Probing](<https://arxiv.org/abs/2609.33646v1>) | Paper | Verified affiliation |
-| 2026‑09‑23 | [KITE\: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](<https://arxiv.org/abs/2609.27294v1>) | Paper | Verified affiliation |
 
-[All 141 entries →](docs/labs/stepfun.md) · [Back to labs ↑](#labs)
+[All 142 entries →](docs/labs/stepfun.md) · [Back to labs ↑](#labs)
 
 ### Tencent/Hunyuan
 
-🇨🇳 **3,880 publications** · Latest `2026-10-29` · [Full archive →](docs/labs/tencent-hunyuan.md)
+🇨🇳 **3,881 publications** · Latest `2026-10-29` · [Full archive →](docs/labs/tencent-hunyuan.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
@@ -401,14 +401,15 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑10‑28 | [TCC-RAG\: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering](<https://arxiv.org/abs/2610.38366>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [WeVisCut\: The Whole Editing Room in One Agent From Narration to Long-Form Video](<https://huggingface.co/papers/2610.38352>) | Preprint | Official page |
 
-[All 3,880 entries →](docs/labs/tencent-hunyuan.md) · [Back to labs ↑](#labs)
+[All 3,881 entries →](docs/labs/tencent-hunyuan.md) · [Back to labs ↑](#labs)
 
 ### Z\.ai/Zhipu
 
-🇨🇳 **145 publications** · Latest `2026-10-16` · [Full archive →](docs/labs/zai-zhipu.md)
+🇨🇳 **146 publications** · Latest `2026-10-31` · [Full archive →](docs/labs/zai-zhipu.md)
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑31 | [Agent4FreeFem\: A Verification-Guided Framework for Autonomous Topology Optimization](<https://arxiv.org/abs/2611.00803v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [WebCoder\: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.23104v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Can Visual Generation Expand What Unified Multimodal Models Know?](<https://huggingface.co/papers/2610.21459>) | Preprint | Official page |
 | 2026‑09‑30 | [GFD-OPD\: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales](<https://arxiv.org/abs/2609.39692>) | Preprint | OpenAlex |
@@ -416,9 +417,8 @@ The latest eight entries for every lab. Full archives are organized by year.
 | 2026‑09‑26 | [From Anomalies to Failures\: Constructing Causal Error Graphs for Agentic Trace Diagnosis](<https://arxiv.org/abs/2609.32514v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑25 | [Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling](<https://arxiv.org/abs/2609.31207v1>) | Paper | Verified affiliation |
 | 2026‑09‑17 | [Automated Evaluation Methods for Open-Ended Question in Hydropower Domain Based on Large Language Models](<https://doi.org/10.1007/978-3-032-32237-1_22>) | Conference paper | OpenAlex |
-| 2026‑09‑14 | [MTAC-IFBench\: Benchmarking Instruction-Following in Multi-Turn Agentic Coding](<https://arxiv.org/abs/2609.14992v1>) | Paper | Verified affiliation, OpenAlex |
 
-[All 145 entries →](docs/labs/zai-zhipu.md) · [Back to labs ↑](#labs)
+[All 146 entries →](docs/labs/zai-zhipu.md) · [Back to labs ↑](#labs)
 
 ## How the Index Works
 

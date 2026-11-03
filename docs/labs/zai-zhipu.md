@@ -1,8 +1,8 @@
 # Z\.ai/Zhipu Papers
 
 - Region: `China`
-- Papers: `145`
-- Latest: `2026-10-16`
+- Papers: `146`
+- Latest: `2026-10-31`
 - [Back to README](../../README.md#zaizhipu)
 
 ## No date
@@ -16,6 +16,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑10‑31 | [Agent4FreeFem\: A Verification-Guided Framework for Autonomous Topology Optimization](<https://arxiv.org/abs/2611.00803v1>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [WebCoder\: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning](<https://arxiv.org/abs/2610.23104v1>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [Can Visual Generation Expand What Unified Multimodal Models Know?](<https://huggingface.co/papers/2610.21459>) | Preprint | Official page |
 | 2026‑09‑30 | [GFD-OPD\: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales](<https://arxiv.org/abs/2609.39692>) | Preprint | OpenAlex |

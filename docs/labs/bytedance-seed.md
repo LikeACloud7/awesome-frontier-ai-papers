@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1875`
+- Papers: `1876`
 - Latest: `2026-10-28`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -119,6 +119,7 @@
 | 2026‑08‑31 | [AgenticGen\: Reward-Guided Agentic Video Generation for Advertising](<https://arxiv.org/abs/2609.09187v1>) | Paper | Verified affiliation |
 | 2026‑08‑30 | [ReTrace\: Rejected-Trajectory Conditioning for Speculative Decoding](<https://arxiv.org/abs/2608.29748>) | Preprint | OpenAlex |
 | 2026‑08‑29 | [Cambricon-FlexLLM\: A Flexible Chiplet-Based Hybrid Architecture for On-Device 70B LLM Inference](<https://doi.org/10.1145/3844618>) | Article | OpenAlex |
+| 2026‑08‑29 | [GenFirst\: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling](<https://arxiv.org/abs/2608.29335>) | Paper | Verified affiliation |
 | 2026‑08‑28 | [Learning to Allocate Incentives for Incentivized Advertising via Offline Model-Based Reinforcement Learning](<https://arxiv.org/abs/2608.28065>) | Preprint | OpenAlex |
 | 2026‑08‑27 | [LiveSim\: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems](<https://arxiv.org/abs/2608.26849>) | Preprint | OpenAlex |
 | 2026‑08‑27 | [Fast Weight Attention for Continual Learning](<https://arxiv.org/abs/2608.27763v1>) | Paper | Verified affiliation |

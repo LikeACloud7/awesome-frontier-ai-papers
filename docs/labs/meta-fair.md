@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1906`
+- Papers: `1909`
 - Latest: `2026-11-01`
 - [Back to README](../../README.md#metafair)
 
@@ -146,8 +146,8 @@
 | 2026‑09‑24 | [SCOUT\: Coupling-Free Bounds for Trillion-Scale Top-k Retrieval in Sparse Tensor Factorization](<https://doi.org/10.1145/3837123>) | Article | OpenAlex |
 | 2026‑09‑23 | [Xtrace\: High-Fidelity GPU Intra-Kernel Tracing via Binary-Level Instruction Splicing](<https://arxiv.org/abs/2609.28769>) | Preprint | OpenAlex |
 | 2026‑09‑22 | [CHiME-9 ECHI\: A Machine Learning Challenge for Enhancing Conversations to Address Hearing Impairment](<https://arxiv.org/abs/2609.26306>) | Preprint | OpenAlex |
-| 2026‑09‑21 | [From Offline Proxies to Online Decisions\: A Layered Engagement Evaluation Framework for Conversational AI](<https://arxiv.org/abs/2609.25408>) | Preprint | OpenAlex |
 | 2026‑09‑21 | [Artificial intelligence data centers could reach one percent of global electricity demand by 2030](<https://doi.org/10.1038/s44458-026-00152-5>) | Article | OpenAlex |
+| 2026‑09‑21 | [From Offline Proxies to Online Decisions\: A Layered Engagement Evaluation Framework for Conversational AI](<https://arxiv.org/abs/2609.25408>) | Preprint | OpenAlex |
 | 2026‑09‑19 | [LD-RSVIS\: A Large-Scale and Diverse Benchmark for Referring Surgical Video Instrument Segmentation](<https://arxiv.org/abs/2609.23067>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [DRT\: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](<https://arxiv.org/abs/2609.21675>) | Preprint | OpenAlex |
 | 2026‑09‑18 | [Verify, Don't Trust\: Agentic Model Development for Video Discovery Retrieval at Scale](<https://arxiv.org/abs/2609.21257>) | Preprint | OpenAlex |
@@ -172,6 +172,7 @@
 | 2026‑09‑03 | [IPGeoAI\: Transformer-Based Geolocation with LLM Semantic Fusion](<https://arxiv.org/abs/2609.04559>) | Preprint | OpenAlex |
 | 2026‑09‑01 | [Learning and Using Different Task Rule Updating Strategies Require Extensive Practice](<https://doi.org/10.1111/cogs.70262>) | Article | OpenAlex |
 | 2026‑09‑01 | [Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](<https://arxiv.org/abs/2609.01532v1>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [The Safety Relay in Roleplay Jailbreaks\: A Component-Resolved Causal Analysis of Harm Recognition and Refusal](<https://arxiv.org/abs/2608.30585>) | Preprint | OpenAlex |
 | 2026‑08‑30 | [Dense soccer video captioning with global context and player position awareness](<https://doi.org/10.1038/s41598-026-68807-w>) | Article | OpenAlex |
 | 2026‑08‑27 | [Early-time sound field reconstruction from binaural room impulse responses and perceptual evaluation in auditory augmented reality](<https://doi.org/10.1186/s13636-026-00472-3>) | Article | OpenAlex |
 | 2026‑08‑26 | [Towards Scaling Reinforcement Learning to Massive Populations\: Learning Mean-Field Representations](<https://arxiv.org/abs/2609.02928>) | Preprint | OpenAlex |
@@ -200,6 +201,7 @@
 | 2026‑08‑10 | [SETRec++\: Scaling Order-agnostic Identifier for Large Language Model-based Generative Recommendation](<https://doi.org/10.1145/3838805>) | Article | OpenAlex |
 | 2026‑08‑10 | [One-chip-like datacenter design enabled by CXL-based scale-up fabrics](<https://doi.org/10.1038/s44287-026-00315-5>) | Review | OpenAlex |
 | 2026‑08‑10 | [ConnectionMind\: Leveraging Social Networks and Large Language Models for Personalized Recommendation at Meta](<https://arxiv.org/abs/2608.10187>) | Preprint | OpenAlex |
+| 2026‑08‑08 | [Nonparametric learning of graphical models](<https://doi.org/10.1016/j.jspi.2026.106453>) | Article | OpenAlex |
 | 2026‑08‑08 | [Do Retrieval-Trained Embeddings Help Linear Contextual Bandits?](<https://doi.org/10.3390/math14162874>) | Article | OpenAlex |
 | 2026‑08‑07 | [Enterprise AI Agents\: From Prototypes to Production](<https://doi.org/10.1145/3770855.3818266>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [RAG vs\. GraphRAG\: A Systematic Evaluation and Key Insights](<http://arxiv.org/abs/2502.11371>) | Conference paper | OpenAlex |
@@ -342,7 +344,7 @@
 | 2026‑05‑28 | [In-Context Reward Adaptation for Robust Preference Modeling](<https://arxiv.org/abs/2605.30323>) | Preprint | OpenAlex |
 | 2026‑05‑28 | [Configurable Reward Model for Balanced Safety Alignment](<https://arxiv.org/abs/2605.30487>) | Preprint | OpenAlex |
 | 2026‑05‑27 | [AutoformBot\: Formalizing Mathematics at Scale](<https://ai.meta.com/research/publications/autoformbot-formalizing-mathematics-at-scale/>) | Publication | Official page |
-| 2026‑05‑26 | [Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images](<https://ai.meta.com/research/publications/misalignment-between-backpropagation-and-the-hierarchy-of-brain-responses-to-images/>) | Publication | Official page |
+| 2026‑05‑26 | [Misalignment Between Backpropagation and the Hierarchy of Brain Responses to Images](<https://ai.meta.com/research/publications/misalignment-between-backpropagation-and-the-hierarchy-of-brain-responses-to-images/>) | Publication | Official page, Verified affiliation |
 | 2026‑05‑26 | [Agentic Program Repair From Test Failures at Scale\: A Neuro-Symbolic Approach With Static Analysis and Test Execution Feedback](<http://arxiv.org/abs/2507.18755>) | Article | OpenAlex |
 | 2026‑05‑25 | [Credit-assigned Policy Gradient for Early Stage Retrieval in Two-stage Ranking](<https://arxiv.org/abs/2605.26385>) | Preprint | OpenAlex |
 | 2026‑05‑24 | [RIB-Guard\: A Risk-Aware Information Bottleneck Defense for Black-Box Large Language Models](<https://doi.org/10.3390/e28060585>) | Article | OpenAlex |
@@ -364,6 +366,7 @@
 | 2026‑05‑15 | [GRID\: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction](<https://arxiv.org/abs/2605.16714>) | Preprint | OpenAlex |
 | 2026‑05‑15 | [Convex Dataset Valuation for Post-Training](<https://arxiv.org/abs/2605.16704>) | Preprint | OpenAlex |
 | 2026‑05‑14 | [The 99% Success Paradox\: When Near-Perfect Retrieval Equals Random Selection](<https://arxiv.org/abs/2605.18857>) | Article | OpenAlex |
+| 2026‑05‑14 | [VGGT-$\\Omega$](<https://arxiv.org/abs/2605.15195>) | Paper | Verified affiliation |
 | 2026‑05‑12 | [NeuralSet\: A High-Performing Python Package for Neuro-AI](<https://ai.meta.com/research/publications/neuralset-a-high-performing-python-package-for-neuro-ai/>) | Publication | Official page |
 | 2026‑05‑12 | [Reinforcement Learning for Feature Rollout Optimization in Multi-Platform Applications](<https://doi.org/10.1109/mcna69896.2026.11574357>) | Conference paper | OpenAlex |
 | 2026‑05‑11 | [Remember the Decision, Not the Description\: A Rate-Distortion Framework for Agent Memory](<https://arxiv.org/abs/2605.10870>) | Preprint | OpenAlex |
