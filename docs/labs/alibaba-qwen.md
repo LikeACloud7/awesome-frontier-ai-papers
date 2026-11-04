@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `3971`
-- Latest: `2026-10-31`
+- Papers: `3985`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,20 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [Uncertainty-Triggered Test-Time Selective Inference for Click-Through Rate Prediction](<https://doi.org/10.1145/3799682.3840575>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [T-MSDF\: T-shaped Convolutional Multi-stream Discovery Framework with LLM-Driven Compatibility Priors](<https://doi.org/10.1145/3799682.3839995>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Support-Adaptive Complexity Control for Longitudinal Counterfactual Prediction](<https://doi.org/10.1145/3799682.3841134>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [SRCRec\: Staged Reverse Curriculum Learning for Conversion-Oriented Generative Recommendation](<https://doi.org/10.1145/3799682.3839884>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [SORT\: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders](<https://arxiv.org/abs/2603.03988>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Privacy-Aware Representation Decoupling in Federated Recommendation against Attribute Inference Attacks](<https://doi.org/10.1145/3799682.3840868>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [MUSE\: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling](<http://arxiv.org/abs/2512.07216>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Learning to Reflect and Correct\: Towards Better Decoding Trajectories for Large-Scale Generative Recommendation](<http://arxiv.org/abs/2602.23639>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Learning from What You Retrieve\: Online RL Fine-Tuning for Semantic Retrieval](<https://arxiv.org/abs/2608.30753>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [FailSafe-RAG\: Evidence-State-Aware Generation under Retrieval Failures](<https://doi.org/10.1145/3799682.3839991>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [ClusterRec\: Cluster-Aware Recommendation with Large Language Models for Efficient and Scalable Inference](<https://doi.org/10.1145/3799682.3840613>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [ChoirRec\: Semantic User Grouping via LLMs for Conversion Rate Prediction of Low-Activity Users](<http://arxiv.org/abs/2510.09393>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Beyond Independent Predictions\: Learning the Browsing Journey for Sequence-Level Re-ranking](<https://doi.org/10.1145/3799682.3840169>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Beyond End-to-End\: A Low-Latency, Retrieval-Augmented Chain-of-Thought for Scalable and Explainable Industrial Recommendation](<https://doi.org/10.1145/3799682.3840164>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [mono\: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency](<https://doi.org/10.1007/978-3-032-42929-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑29 | [Where to Learn and How Far to Roll Out\: Efficient Adaptive Training for GUI Agents](<https://arxiv.org/abs/2610.39251>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [UGR\: Unified Generative Ranking for Heterogeneous E-commerce Recommendation](<https://arxiv.org/abs/2610.39426>) | Preprint | OpenAlex |
@@ -435,7 +449,7 @@
 | 2026‑08‑19 | [SceneGTMM\: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching](<https://arxiv.org/abs/2608.19298>) | Preprint | OpenAlex |
 | 2026‑08‑19 | [Large-scale AI-guided liver malignancy diagnosis\: multicenter study and a single-arm trial](<https://doi.org/10.1038/s41591-026-04589-y>) | Article | OpenAlex |
 | 2026‑08‑19 | [DocClaw\: A Unified Agentic System for Intelligent Document Processing](<https://arxiv.org/abs/2608.18685v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑08‑18 | [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](<https://arxiv.org/abs/2608.28649v1>) | Paper | Verified affiliation |
+| 2026‑08‑18 | [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](<https://arxiv.org/abs/2608.28649v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑08‑17 | [Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios](<https://arxiv.org/abs/2601.21173>) | Data paper | OpenAlex |
 | 2026‑08‑17 | [Trans-Percept\: robust perceptive locomotion in the wild via spatiotemporal causal transformers](<https://doi.org/10.1038/s41598-026-62543-x>) | Article | OpenAlex |
 | 2026‑08‑17 | [LENS\: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents](<https://arxiv.org/abs/2608.16185>) | Preprint | OpenAlex |
@@ -1237,7 +1251,7 @@
 | 2026‑03‑14 | [AIR-DR\: Adaptive Image Retargeting with Instance Relocation and Dual-guidance Repainting](<https://doi.org/10.1609/aaai.v40i5.37366>) | Conference paper | OpenAlex |
 | 2026‑03‑13 | [OpenClaw as Language Infrastructure\: A Case-Centered Survey of a Public Agent Ecosystem in the Wild](<https://doi.org/10.20944/preprints202603.1060.v1>) | Preprint | OpenAlex |
 | 2026‑03‑13 | [Deferred is Better\: A Framework for Multi-Granularity Deferred Interaction of Heterogeneous Features](<http://arxiv.org/abs/2603.12586>) | Preprint | OpenAlex |
-| 2026‑03‑13 | [Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution](<http://arxiv.org/abs/2603.12578>) | Preprint | OpenAlex |
+| 2026‑03‑13 | [CDNet\: Efficient Sequential-Contextual Feature Interaction via Core-Behavior Selection and Interest-Distribution Compensation](<http://arxiv.org/abs/2603.12578>) | Conference paper | OpenAlex |
 | 2026‑03‑12 | [From geometric mimicry to comprehensive generation\: a context-informed multimodal diffusion model for urban morphology synthesis](<http://arxiv.org/abs/2409.17049>) | Article | OpenAlex |
 | 2026‑03‑12 | [Provable Filter for Real-World Graph Clustering](<https://doi.org/10.1109/tcyb.2026.3671252>) | Article | OpenAlex |
 | 2026‑03‑12 | [MobileKernelBench\: Can LLMs Write Efficient Kernels for Mobile Devices?](<http://arxiv.org/abs/2603.11935>) | Preprint | OpenAlex |
@@ -1300,8 +1314,8 @@
 | 2026‑02‑24 | [Two-Stage Learning to Branch in Branch-Price-and-Cut Algorithms for Solving Vehicle Routing Problems Exactly](<https://doi.org/10.1287/opre.2023.0615>) | Article | OpenAlex |
 | 2026‑02‑24 | [Turning Semantics into Topology\: LLM-Driven Attribute Augmentation for Collaborative Filtering](<http://arxiv.org/abs/2602.21099>) | Preprint | OpenAlex |
 | 2026‑02‑24 | [PRECTR-V2\:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization](<http://arxiv.org/abs/2602.20676>) | Preprint | OpenAlex |
-| 2026‑02‑24 | [HiSAC\: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders](<https://arxiv.org/abs/2602.21009>) | Preprint | OpenAlex |
-| 2026‑02‑24 | [Generative Pseudo-Labeling for Pre-Ranking with LLMs](<https://arxiv.org/abs/2602.20995>) | Preprint | OpenAlex |
+| 2026‑02‑24 | [HiSAC\: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommendation Systems](<https://arxiv.org/abs/2602.21009>) | Conference paper | OpenAlex |
+| 2026‑02‑24 | [Generative Pseudo-Labeling for Pre-Ranking with Large Language Models](<https://arxiv.org/abs/2602.20995>) | Conference paper | OpenAlex |
 | 2026‑02‑23 | [PromCopilot\: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](<http://arxiv.org/abs/2503.03114>) | Article | OpenAlex |
 | 2026‑02‑23 | [Multimodal Large Language Model for Virtual Object Grounding](<https://doi.org/10.1145/3796717>) | Article | OpenAlex |
 | 2026‑02‑23 | [Unlocking Multimodal Document Intelligence\: From Current Triumphs to Future Frontiers of Visual Document Retrieval](<https://arxiv.org/abs/2602.19961>) | Preprint | OpenAlex |

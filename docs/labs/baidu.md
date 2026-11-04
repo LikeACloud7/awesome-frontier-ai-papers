@@ -265,7 +265,7 @@
 | 2026‑03‑26 | [Understanding Image Retrieval Re-Ranking\: A Graph Neural Network Perspective](<https://doi.org/10.1145/3803010>) | Article | OpenAlex |
 | 2026‑03‑25 | [PP-OCRv5\: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](<http://arxiv.org/abs/2603.24373>) | Article | OpenAlex |
 | 2026‑03‑21 | [Beyond action units\: Towards multi-cue facial emotion analysis](<https://doi.org/10.1016/j.patcog.2026.113519>) | Article | OpenAlex |
-| 2026‑03‑19 | [Rethinking Vector Field Learning for Generative Segmentation](<http://arxiv.org/abs/2603.19218>) | Preprint | OpenAlex |
+| 2026‑03‑19 | [Rethinking Vector Field Learning for Generative Segmentation](<https://www.microsoft.com/en-us/research/publication/rethinking-vector-field-learning-for-generative-segmentation/>) | Publication | OpenAlex, Official page |
 | 2026‑03‑19 | [dTRPO\: Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](<https://arxiv.org/abs/2603.18806>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑03‑18 | [Applications and advances of deep learning in food microbiology\: From data to intelligent analysis](<https://doi.org/10.1016/j.tifs.2026.105687>) | Article | OpenAlex |
 | 2026‑03‑18 | [TRiMS\: Real-Time Tracking of Minimal Sufficient Length for Efficient Reasoning via RL](<http://arxiv.org/abs/2603.17449>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `523`
-- Latest: `2026-11-02`
+- Papers: `524`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) | Research post | Official page |
 | 2026‑11‑02 | [LifeVal](<https://openai.com/index/lifeval>) | Research post | Official page |
 | 2026‑10‑30 | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
 | 2026‑10‑29 | [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) | Research post | Official page |

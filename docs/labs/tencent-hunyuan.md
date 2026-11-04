@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3881`
-- Latest: `2026-10-29`
+- Papers: `3889`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,6 +26,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [Pay Where It Matters\: Accurate and Versatile Bit-Level Stream Analytics with Nino-Sketch](<https://doi.org/10.1145/3799682.3841073>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [LFM4Ads\: Large Foundation Model for Ads Recommendation](<http://arxiv.org/abs/2508.14948>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [GRID\: Generative Recommendation via Inpainting Diffusion](<https://doi.org/10.1145/3799682.3840061>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation](<https://doi.org/10.1145/3799682.3840048>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Controllable Autoregressive Retrieval with Long-term Action Perception for Recommendations](<https://doi.org/10.1145/3799682.3840168>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Anytime-Valid Multi-Objective Online Experimentation with Contrast Certificates](<https://doi.org/10.1145/3799682.3840821>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [A Transaction Foundation Model for Financial Risk Assessment on Online Payment Platforms](<https://doi.org/10.1145/3799682.3840148>) | Conference paper | OpenAlex |
+| 2026‑11‑02 | [Think Less, Locally\: Local Preference Learning for Reasoning Compression](<https://huggingface.co/papers/2611.04814>) | Preprint | Official page |
 | 2026‑10‑29 | [TaskFrame\: Connecting Task-Level Planning with Frame-Level Control for Game Agents](<https://arxiv.org/abs/2610.40276>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [GistRank\: Gist-Compressed Listwise Ranking with Large Language Models](<https://arxiv.org/abs/2610.39610>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Don't Lose the Thread\: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation](<https://arxiv.org/abs/2610.40350>) | Preprint | OpenAlex |

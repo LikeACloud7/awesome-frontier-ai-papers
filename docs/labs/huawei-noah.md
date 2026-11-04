@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4149`
-- Latest: `2026-10-30`
+- Papers: `4156`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [UGDACal\: Nodewise Calibrator for Unsupervised Graph Domain Adaptation](<https://doi.org/10.1145/3799682.3840741>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Process In-Context Learning\: Confusion-Aware Demonstration Retrieval and Dynamic Insertion for Mathematical Reasoning](<http://arxiv.org/abs/2601.11979>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Neither Black nor White\: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](<https://arxiv.org/abs/2610.01533>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [IDs That Mean Something\: A Hands-On Tutorial on Semantic IDs for Recommender Systems](<https://doi.org/10.1145/3799682.3839274>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [FAF\: A Feature-Aware Adaptive Pre-training Framework for Bridging Gaps in CTR Prediction](<https://doi.org/10.1145/3799682.3841158>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [When Life Finds A Way\: The Security Boundary for AI That Can Act](<https://doi.org/10.1109/mc.2026.3726162>) | Article | OpenAlex |
 | 2026‑10‑30 | [Error Tolerant Neural Media Codecs for 6G AI-on-RAN](<https://doi.org/10.1145/3842721.3856775>) | Conference paper | OpenAlex |
 | 2026‑10‑29 | [PhysAg3D\: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets](<https://arxiv.org/abs/2610.39924>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Coupled Guidance for Flow Matching](<https://arxiv.org/abs/2610.40109>) | Preprint | OpenAlex |
@@ -35,6 +41,7 @@
 | 2026‑10‑24 | [Software Engineering LLMs\: Why We Need Them and How Software Engineering Helps Build Them](<https://arxiv.org/abs/2610.33851>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [EVOLVE\: Uncertainty-Aware Multivariate Time Series Anomaly Prediction with Adaptive Prototype Memories](<https://arxiv.org/abs/2610.32189>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation |
+| 2026‑10‑23 | [MDMR-Bench\: A Multi-Dimensional Benchmark for Multi-Reference Image Generation](<https://arxiv.org/abs/2610.32459v1>) | Paper | Verified affiliation |
 | 2026‑10‑22 | [Inherited, Not Invented\: Tracing the Provenance of Wait in Reasoning Models](<https://huggingface.co/papers/2610.30882>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑22 | [To Route or to Adapt? Multi-Expert Diffusion Planners in Unseen Regions](<https://arxiv.org/abs/2610.31095>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Subgoal-aware Memory Graph for GUI Agent](<https://arxiv.org/abs/2610.31307>) | Preprint | OpenAlex |

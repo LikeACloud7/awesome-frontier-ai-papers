@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2153`
+- Papers: `2155`
 - Latest: `2026-11-02`
 - [Back to README](../../README.md#nvidia)
 
@@ -84,6 +84,7 @@
 | 2026‑10‑08 | [A Balanced Data Diet\: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](<https://arxiv.org/abs/2610.12465>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [GATOR\: Generative and Agentic 3D Object Reconstruction From Casual Images](<https://huggingface.co/papers/2610.11215>) | Paper | Hugging Face |
 | 2026‑10‑08 | [NV-Tesseract-AD\: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection](<https://arxiv.org/abs/2610.12754>) | Paper | Verified affiliation |
+| 2026‑10‑08 | [MagicBeanStalk\: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](<https://arxiv.org/abs/2610.12659v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [Long-WAM\: Scaling the Context of World-Action Models](<https://huggingface.co/papers/2610.10528>) | Paper | Hugging Face |
 | 2026‑10‑07 | [RoboRender\: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer](<https://www.microsoft.com/en-us/research/publication/roborender-robot-oriented-video-generation-for-visual-sim-to-real-transfer/>) | Publication | Verified affiliation, Official page |
 | 2026‑10‑07 | [TouchScale\: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](<https://arxiv.org/abs/2610.10288>) | Preprint | OpenAlex |
@@ -230,8 +231,8 @@
 | 2026‑09‑08 | [TASTE2\: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction](<https://arxiv.org/abs/2609.08956>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Photonic Quantum-Enhanced Knowledge Distillation](<http://arxiv.org/abs/2603.14898>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [VANTAGE-Bench\: Evaluating the Infrastructure AI Gap in Vision-Language Models](<https://arxiv.org/abs/2609.09396v1>) | Paper | Verified affiliation |
+| 2026‑09‑07 | [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](<https://arxiv.org/abs/2609.07108v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑09‑07 | [AgentIdeaBench\: Benchmarking Scientific Ideation in the Agent Era](<https://arxiv.org/abs/2609.07611>) | Preprint | OpenAlex |
-| 2026‑09‑07 | [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](<https://arxiv.org/abs/2609.07108v1>) | Paper | Verified affiliation |
 | 2026‑09‑07 | [Large Discrete Policy\: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](<https://arxiv.org/abs/2609.07049v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑09‑07 | [CASCADE\: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving](<https://arxiv.org/abs/2609.07094v1>) | Paper | Verified affiliation |
 | 2026‑09‑06 | [Shortcutting the Fix\: Identifying and Categorizing Agentic Exploits in Software Engineering Benchmarks](<https://arxiv.org/abs/2609.06780v1>) | Paper | Verified affiliation |
@@ -359,6 +360,7 @@
 | 2026‑07 | [FastGen-PDD\: Parallel Decoding Distillation for Image and Video Generation](<https://research.nvidia.com/publication/2026-07_fastgen-pdd-parallel-decoding-distillation-image-and-video-generation>) | Publication | Official page |
 | 2026‑07 | [Fast and accurate AI-based pre-decoders for color codes](<https://research.nvidia.com/publication/2026-07_fast-and-accurate-ai-based-pre-decoders-color-codes>) | Publication | Official page |
 | 2026‑07 | [Autonomous Discovery of Wireless Communications Algorithms](<https://research.nvidia.com/publication/2026-07_autonomous-discovery-wireless-communications-algorithms>) | Publication | Official page |
+| 2026‑06‑30 | [Scaling Storm-Resolving Atmospheric AI Simulation to the Entire Planet](<https://arxiv.org/abs/2606.31248>) | Paper | Verified affiliation |
 | 2026‑06‑29 | [Real-time 3D Visualization of Radiance Fields on Light Field Displays](<https://research.nvidia.com/publication/2026-07_real-time-3d-visualization-radiance-fields-light-field-displays>) | Publication | Official page, OpenAlex |
 | 2026‑06‑29 | [Warnock\: Harnessing GPU Geometry Amplification for Vector Graphics](<https://doi.org/10.1145/3820012>) | Article | OpenAlex |
 | 2026‑06‑29 | [Scalable Training and Rendering of 3D Gaussians for Large Scale Scientific Data](<https://doi.org/10.1145/3820022>) | Article | OpenAlex |

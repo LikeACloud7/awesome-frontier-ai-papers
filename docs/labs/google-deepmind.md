@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5717`
-- Latest: `2026-10-31`
+- Papers: `5725`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,6 +15,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [GRAIL 2026\: Workshop on Generative, Retrieval-augmented, and Agentic Intelligence for Personalization](<https://doi.org/10.1145/3799682.3839287>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [REACH-AI 2026\: Community-Informed Evaluation and Benchmarking of Culturally Competent Generative AI](<https://doi.org/10.1145/3799682.3839293>) | Conference paper | OpenAlex |
+| 2026‑11‑02 | [HuBMAP Data Portal\: a resource for multimodal spatial and single-cell data of healthy human tissues](<https://arxiv.org/abs/2511.05708>) | Article | OpenAlex |
+| 2026‑11‑02 | [Retrodicting Chaotic Systems\: An Algorithmic Information Theory Approach](<http://arxiv.org/abs/2507.04780>) | Article | OpenAlex |
+| 2026‑11‑02 | [InterPro\: the protein sequence classification resource in 2027](<https://doi.org/10.1093/nar/gkag1114>) | Article | OpenAlex |
+| 2026‑11‑02 | [Evaluation of transfer learning in hydrological forecasting using ensemble LSTM models\: a statistical approach to uncertainty and accuracy](<https://doi.org/10.3389/frwa.2026.1896829>) | Article | OpenAlex |
+| 2026‑11‑01 | [Improving Entrepreneurial Skills by Practicing with AI](<https://arxiv.org/abs/2611.02016v1>) | Paper | Verified affiliation |
+| 2026‑10‑31 | [XLA from the Trenches\: Correctness on TPU Workloads at Scale](<https://arxiv.org/abs/2611.00624v1>) | Paper | Verified affiliation |
 | 2026‑10‑31 | [MAPLE\: A Multimodal Mobile Agent with Playbook-Learned Experience](<https://arxiv.org/abs/2611.01351v1>) | Paper | Verified affiliation |
 | 2026‑10‑30 | [A prospective randomized study of patient-centered AI for clinical visit preparation](<https://arxiv.org/abs/2610.41437v1>) | Paper | Verified affiliation |
 | 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
@@ -402,8 +410,8 @@
 | 2026‑08‑09 | [Idea Search\: Guiding Tree Search with Ideas to Explore Diverse Scientific Methods](<https://arxiv.org/abs/2608.08958>) | Preprint | OpenAlex |
 | 2026‑08‑08 | [V-Simba\: Unleashing the Architectural Potential of RL in Visual Continuous Control](<https://arxiv.org/abs/2608.07870>) | Preprint | OpenAlex |
 | 2026‑08‑08 | [Human learning of probability distributions is biased toward moderate structural complexity](<https://doi.org/10.1038/s41467-026-76247-3>) | Article | OpenAlex |
+| 2026‑08‑07 | ["Death by a thousand taxonomies?"\: AI Risk Classification In Practice](<https://www.microsoft.com/en-us/research/publication/death-by-a-thousand-taxonomies-ai-risk-classification-in-practice/>) | Publication | OpenAlex, Official page |
 | 2026‑08‑07 | [KDD 9th Workshop on Machine Learning in Finance](<https://doi.org/10.1145/3770855.3818256>) | Conference paper | OpenAlex |
-| 2026‑08‑07 | ["Death by a thousand taxonomies?"\: AI Risk Classification In Practice](<https://arxiv.org/abs/2608.06831>) | Preprint | OpenAlex |
 | 2026‑08‑07 | [WebRider\: Persona-Conditioned Intent Controllers for Live-Web Assistance](<https://arxiv.org/abs/2608.06704>) | Preprint | OpenAlex |
 | 2026‑08‑07 | [ResidencyRL\: Reinforcement Learning in Simulated Clinical Environments](<https://arxiv.org/abs/2608.07418>) | Preprint | OpenAlex |
 | 2026‑08‑07 | [Data-usage descriptors as search metadata\: the case of food security data and the National Data Platform](<https://doi.org/10.1038/s41597-026-07753-8>) | Data paper | OpenAlex |
@@ -752,7 +760,6 @@
 | 2026‑05‑21 | [Current Artificial Intelligence Large Language Models Exhibit Sycophantic Behavior in Orthopaedic Contexts](<https://doi.org/10.2106/jbjs.25.01576>) | Article | OpenAlex |
 | 2026‑05‑21 | [Towards a General Intelligence and Interface for Wearable Health Data](<https://arxiv.org/abs/2605.22759v3>) | Paper | Verified affiliation |
 | 2026‑05‑20 | [TokenSwap\: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](<https://arxiv.org/abs/2607.28640>) | Preprint | OpenAlex |
-| 2026‑05‑20 | [Convergence of LLM Integration and Edge Intelligence in Decentralized IoT Ecosystems](<https://doi.org/10.1109/aiiot68874.2026.11569542>) | Conference paper | OpenAlex |
 | 2026‑05‑20 | [Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs](<https://arxiv.org/abs/2605.21602>) | Preprint | OpenAlex |
 | 2026‑05‑20 | [TimeSRL\: Generalizable Time-Series Behavioral Modeling via Semantic RL-Tuned LLMs -- A Case Study in Mental Health](<https://arxiv.org/abs/2605.21295v1>) | Paper | Verified affiliation |
 | 2026‑05‑19 | [Accelerating scientific discovery with Co-Scientist](<https://arxiv.org/abs/2502.18864>) | Article | OpenAlex |
@@ -1680,6 +1687,7 @@
 | 2026 | [Developer Productivity in the Age of Generative AI\: A Psychological Perspective](<https://research.google/pubs/developer-productivity-in-the-age-of-generative-ai-a-psychological-perspective/>) | Publication | Official page |
 | 2026 | [Detecting Safety Training Modification in Language Models via Activation Analysis](<https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/>) | Publication | Official page, OpenAlex |
 | 2026 | [Cost-Aware Learning](<https://research.google/pubs/cost-aware-learning/>) | Publication | Official page, OpenAlex |
+| 2026 | [Convergence of LLM Integration and Edge Intelligence in Decentralized IoT Ecosystems](<https://research.google/pubs/convergence-of-llm-integration-and-edge-intelligence-in-decentralized-iot-ecosystems/>) | Publication | OpenAlex, Official page |
 | 2026 | [ConvApparel\: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders](<https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/>) | Publication | OpenAlex, Official page |
 | 2026 | [Controlling the Conversation](<https://research.google/pubs/controlling-the-conversation/>) | Publication | Official page |
 | 2026 | [ContextFidelity-Bench\: A Three-Paradigm Framework for Evaluating Multi-Turn Hallucination Behavior in Language Models](<https://research.google/pubs/contextfidelity-bench-a-three-paradigm-framework-for-evaluating-multi-turn-hallucination-behavior-in-language-models/>) | Publication | OpenAlex, Official page |
@@ -1792,9 +1800,9 @@
 | 2025‑12‑15 | [Image Diffusion Preview with Consistency Solver](<https://arxiv.org/abs/2512.13592v2>) | Paper | Verified affiliation |
 | 2025‑12‑13 | [Maturity Metrics for Engineering Teams in AI-First Application-Development Projects](<https://ijcjournal.org/InternationalJournalOfComputer/article/view/2467>) | Article | OpenAlex |
 | 2025‑12‑11 | [Scikit-bio\: a fundamental Python library for biological omic data analysis](<https://doi.org/10.1038/s41592-025-02981-z>) | Article | OpenAlex |
+| 2025‑12‑11 | [The FACTS Leaderboard\: A Comprehensive Benchmark for Large Language Model Factuality](<https://www.microsoft.com/en-us/research/publication/the-facts-leaderboard-a-comprehensive-benchmark-for-large-language-model-factuality/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2025‑12‑11 | [Evaluating Gemini Robotics Policies in a Veo World Simulator](<https://huggingface.co/papers/2512.10675>) | Paper | Hugging Face |
 | 2025‑12‑11 | [An open-source bio-logger for studying cetacean behavior and communication](<https://doi.org/10.1371/journal.pone.0337093>) | Article | OpenAlex |
-| 2025‑12‑11 | [The FACTS Leaderboard\: A Comprehensive Benchmark for Large Language Model Factuality](<https://arxiv.org/abs/2512.10791v1>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑12‑10 | [Spatiotemporal Optimization in AI-Enhanced Climate Modeling using Deep Gaussian Processes](<https://doi.org/10.1109/mosicom67153.2025.11398232>) | Conference paper | OpenAlex |
 | 2025‑12‑10 | [Meta-Learning Strategies for Real-Time Adaptation of Intelligent Agents in Dynamic Environments](<https://doi.org/10.1109/mosicom67153.2025.11398239>) | Conference paper | OpenAlex |
 | 2025‑12‑09 | [Passivity, No-Regret, and Convergent Learning in Contractive Games](<https://doi.org/10.1109/cdc57313.2025.11312561>) | Conference paper | OpenAlex |
