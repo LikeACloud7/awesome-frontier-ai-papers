@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1124`
+- Papers: `1128`
 - Latest: `2026-10-29`
 - [Back to README](../../README.md#baidu)
 
@@ -12,6 +12,8 @@
 | 2026‑10‑29 | [SCARL\: Sequence Confidence-Aligned Reinforcement Learning](<https://arxiv.org/abs/2610.40407>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Reward-Adaptive Co-Evolution of Policy and Rubric](<https://arxiv.org/abs/2610.40096>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Goal-Aware Dynamic Multi-Agent Collaboration for Long-Horizon Tasks](<https://arxiv.org/abs/2610.39193>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Multi-View Latent MoE\: Letting Every Router Shape Expert Computation](<https://arxiv.org/abs/2610.40577>) | Paper | Verified affiliation |
+| 2026‑10‑24 | [WebViSE\: Scaling Visual Design Intelligence from the Open Web for LLM Website Generation](<https://arxiv.org/abs/2610.33929>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Accordion\: Elastic-Depth Inference via Fixed-Prefix Layer Looping](<https://arxiv.org/abs/2610.32492>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [From Tokens to Files\: Multi-Granularity Detection and Localization of AI-Involved Code](<https://arxiv.org/abs/2610.27863v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑19 | [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>) | Preprint | OpenAlex |
@@ -20,12 +22,14 @@
 | 2026‑10‑19 | [Vision-Language-Delta-Action\: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](<https://arxiv.org/abs/2610.25874v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑18 | [MemBubble\: Benchmarking How Agent Memory Shapes LLM Response Diversity](<https://arxiv.org/abs/2610.25127v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑17 | [EcSMNet\: edge-structured sparse mask modeling for knowledge-efficient hyperspectral reconstruction](<https://doi.org/10.1016/j.knosys.2026.117229>) | Article | OpenAlex |
+| 2026‑10‑17 | [ECHO\: Efficient Causal Self-Recursion Beyond Auxiliary Multi-Token Prediction](<https://arxiv.org/abs/2610.24766>) | Paper | Verified affiliation |
 | 2026‑10‑16 | [Trojan Horse\: Automated Repository Poisoning against Coding Agents](<https://arxiv.org/abs/2610.23109>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [SkyAgent\: Revisable Target Memory for Continuous Aerial Search](<https://arxiv.org/abs/2610.23293>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Rethinking GRPO for Large Reasoning Model Safety Alignment](<https://arxiv.org/abs/2610.23085>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [Prism Attention\: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](<https://arxiv.org/abs/2610.22985>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [MathMate\: A Multi-agent Tutoring Platform for Guided Mathematical Reasoning](<https://doi.org/10.1007/978-981-92-6916-7_10>) | Conference paper | OpenAlex |
 | 2026‑10‑14 | [RoLaQ\: Joint Rotation and Range Calibration for 2-Bit KV Caches in Multi-Head Latent Attention](<https://arxiv.org/abs/2610.20686>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [WAVE-0\: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction](<https://arxiv.org/abs/2610.18568>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [SWEPatchTest\: Evaluating Software Tests Beyond Reproduction](<https://arxiv.org/abs/2610.18004>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [Virtual Head Attention](<https://huggingface.co/papers/2610.17959>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑12 | [FlashMask-3\: Efficient and Expressive Mask-Aware Distributed Attention](<https://huggingface.co/papers/2610.17901>) | Preprint | Official page, OpenAlex |
@@ -619,8 +623,8 @@
 | 2025‑04‑11 | [SOLA-GCL\: Subgraph-Oriented Learnable Augmentation Method for Graph Contrastive Learning](<https://doi.org/10.1609/aaai.v39i19.34189>) | Conference paper | OpenAlex |
 | 2025‑04‑11 | [SpotActor\: Training-Free Layout-Controlled Consistent Image Generation](<https://doi.org/10.1609/aaai.v39i7.32831>) | Article | OpenAlex |
 | 2025‑04‑11 | [GenAuction\: A Generative Auction for Online Advertising](<https://doi.org/10.1609/aaai.v39i12.33348>) | Conference paper | OpenAlex |
-| 2025‑04‑07 | [Stimulative Training++\: Go Beyond the Performance Limits of Residual Networks](<https://doi.org/10.1109/tpami.2025.3558421>) | Article | OpenAlex |
 | 2025‑04‑07 | [Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](<https://arxiv.org/abs/2504.05216>) | Preprint | OpenAlex |
+| 2025‑04‑07 | [Stimulative Training++\: Go Beyond the Performance Limits of Residual Networks](<https://doi.org/10.1109/tpami.2025.3558421>) | Article | OpenAlex |
 | 2025‑04‑04 | [Towards Speaker-Unknown Emotion Recognition in Conversation via Progressive Contrastive Deep Supervision](<https://doi.org/10.1109/taffc.2025.3558222>) | Article | OpenAlex |
 | 2025‑04‑04 | [From Missteps to Mastery\: Enhancing Low-Resource Dense Retrieval through Adaptive Query Generation](<https://doi.org/10.1145/3690624.3709225>) | Article | OpenAlex |
 | 2025‑04‑04 | [LLM-Eraser\: Optimizing Large Language Model Unlearning through Selective Pruning](<https://doi.org/10.1145/3690624.3709312>) | Article | OpenAlex |

@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1878`
+- Papers: `1884`
 - Latest: `2026-11-03`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,6 +17,8 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑03 | [LEMUR\: Large scale End-to-end MUltimodal Recommendation](<http://arxiv.org/abs/2511.10962>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [LIFT\: A Learning-aware Intervention Framework for Cold-Start Recommendation on TikTok Live](<https://doi.org/10.1145/3799682.3840142>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](<https://huggingface.co/papers/2611.05609>) | Paper | Hugging Face |
 | 2026‑11‑03 | [LaQX\: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models](<https://arxiv.org/abs/2611.04333v1>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [SafeComm-Agent\: A Security-Aware Communication and Inference Optimization Framework for Multi-Agent Embodied Intelligence Systems](<https://doi.org/10.66238/fsrma139>) | Article | OpenAlex |
 | 2026‑10‑28 | [Exploring Fractional Quantum Hall States with Deep Learning\: From Abelian to Non-Abelian Phases](<https://arxiv.org/abs/2610.38533>) | Preprint | OpenAlex |
@@ -27,6 +29,7 @@
 | 2026‑10‑25 | [Fovea-JEPA\: Overcoming Geometric Blind Spots in V-JEPA for Camera Motion Recognition](<https://arxiv.org/abs/2610.34033>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Recycler\: Cost-Free Latent Reasoning via Hidden State Recycling](<https://seed.bytedance.com/en/research/recycler-cost-free-latent-reasoning-via-hidden-state-recycling>) | Publication | Official page |
 | 2026‑10‑23 | [Beyond Data Schedule\: Fast LLM Pretraining on Data Mixtures by Loss-Reweighting](<https://arxiv.org/abs/2610.32141>) | Preprint | OpenAlex |
+| 2026‑10‑23 | [AlphaAnything\: Extending Pretrained RGB Generators to RGBA](<https://arxiv.org/abs/2610.32413>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Learning from Next-Frame Prediction\: Towards Unified and Scalable Visual Representation Learning](<https://arxiv.org/abs/2610.30724>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Cola2\: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation](<https://arxiv.org/abs/2610.31305>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Velocity Ambiguity Profiles\: Time-Resolved Bayes-Risk Diagnostics for Flow Matching](<https://arxiv.org/abs/2610.30107>) | Preprint | OpenAlex |
@@ -34,7 +37,8 @@
 | 2026‑10‑20 | [Neural Network Fractional Quantum Hall States with Learnable Orbital Pair Matrix Factors\: Balancing Physical Priors and Flexibility](<https://arxiv.org/abs/2610.28095>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Household Food Insecurity and Housing Stress](<https://doi.org/10.1002/aepp.70135>) | Article | OpenAlex |
 | 2026‑10‑20 | [Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning](<https://arxiv.org/abs/2610.28966>) | Preprint | OpenAlex |
-| 2026‑10‑18 | [CasePlay\: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning](<https://arxiv.org/abs/2610.24952v1>) | Paper | Verified affiliation |
+| 2026‑10‑19 | [TriTD\: Tri-Partite Trajectory-Distribution Distillation for Real-Time Autoregressive Video Generation](<https://arxiv.org/abs/2610.26165>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [CasePlay\: Self-Play Reinforcement Learning from Case Reports for Medical Reasoning](<https://arxiv.org/abs/2610.24952v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑17 | [Koi\: Evidence-Guided, Self-Calibrating Planning for Multi-Cloud, Heterogeneous LLM Inference Fleets](<https://arxiv.org/abs/2610.24355>) | Preprint | OpenAlex |
 | 2026‑10‑16 | [LED\: Improving Masked Diffusion Language Models by Lookahead Editing](<https://arxiv.org/abs/2610.23122>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Full-Duplex Interaction with Speech, Expressions and Gestures](<https://arxiv.org/abs/2610.21452>) | Preprint | OpenAlex |
@@ -46,7 +50,9 @@
 | 2026‑10‑11 | [ObsSpec\: Accelerating Agentic Reinforcement Learning with Observation Speculation](<https://arxiv.org/abs/2610.15246>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Trajectory-Aware Policy Optimization\: Closing the State Distribution Gap in Long-Horizon LLM RL](<https://arxiv.org/abs/2610.13020>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Generalized Proximal Policy Optimization\: Unifying LLM RL Algorithms from the Perspective of Divergence](<https://arxiv.org/abs/2610.13015>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [VINCIE-NExT\: Unlocking Video Editing from Images via In-Context Modeling](<https://arxiv.org/abs/2610.12104>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [One Model, Multiple Compute Budgets\: Multi-Ratio ConceptMoE for Flexible Compute Across Turns](<https://arxiv.org/abs/2610.14074>) | Preprint | OpenAlex |
+| 2026‑10‑08 | [Beyond Spatio-Temporal Priors\: A Generalizable Approach for Dense Correspondence Matching](<https://arxiv.org/abs/2610.12421>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Few-Step Generation via Data-Space Iteration](<https://huggingface.co/papers/2610.12102>) | Paper | Hugging Face |
 | 2026‑10‑08 | [Deploying RDMA for Large-Scale Inference and Training Workloads](<https://arxiv.org/abs/2610.12815v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑07 | [Transferability of Learned States in Neural PDE Solvers](<https://arxiv.org/abs/2610.10972>) | Preprint | OpenAlex |

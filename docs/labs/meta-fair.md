@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1909`
-- Latest: `2026-11-01`
+- Papers: `1914`
+- Latest: `2026-11-04`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑04 | [GSLM2\: Multi-Stream Speech Representation Learning and Generative Spoken Language Modeling](<https://ai.meta.com/research/publications/gslm2-multi-stream-speech-representation-learning-and-generative-spoken-language-modeling/>) | Publication | Official page |
+| 2026‑11‑03 | [OGX\: An Open-Source, Vendor-Neutral Generative AI Application Server](<https://arxiv.org/abs/2608.14580>) | Article | OpenAlex |
 | 2026‑11‑01 | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
 | 2026‑10‑31 | [Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations](<https://doi.org/10.1145/3830398.3830568>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [A Benchmarking Framework for Context-aware XR Interfaces](<https://arxiv.org/abs/2609.30466>) | Conference paper | OpenAlex |
@@ -55,6 +57,7 @@
 | 2026‑10‑27 | [Interpretable and Validatable Uplift Modeling](<https://arxiv.org/abs/2610.37966>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Towards Boundary‐Aware Clustering Approach to Identifying Critical Nodes in Transportation Networks](<https://doi.org/10.1002/cpe.70962>) | Article | OpenAlex |
 | 2026‑10‑25 | [InteractiveWorld\: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](<https://huggingface.co/papers/2610.33966>) | Paper | Hugging Face |
+| 2026‑10‑23 | [When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots](<https://arxiv.org/abs/2610.32883>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [When Does Pre-Trained Capacity Help Causal Learning? From Scalar Prediction to Counterfactual Post-Training](<https://arxiv.org/abs/2610.33311>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [Right On Q\: Recovering Reasoning under Quantization via Self-Generated Trajectories](<https://arxiv.org/abs/2610.29378>) | Preprint | OpenAlex |
 | 2026‑10‑19 | [Muse Glimmer 30B\: An On-Device Agentic Model](<https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/>) | Publication | Official page |
@@ -89,10 +92,12 @@
 | 2026‑10‑09 | [Huni\: A Networked Testbed for Real-time Human and Generative AI Interaction](<https://doi.org/10.1145/3842656.3843820>) | Conference paper | OpenAlex |
 | 2026‑10‑09 | [AI-driven scalable metrology solutions for smart glasses and AR wearables](<https://doi.org/10.1117/12.3114946>) | Conference abstract | OpenAlex |
 | 2026‑10‑08 | [Predicted Incrementality by Experimentation for Ad Measurement](<https://doi.org/10.1287/mnsc.2023.01108>) | Article | OpenAlex |
+| 2026‑10‑08 | [GenIA\: Generative Reconstruction with Test-Time Input Alignment](<https://arxiv.org/abs/2610.12388>) | Preprint | OpenAlex |
 | 2026‑10‑08 | [Mid-Training Language Models on Raw Video](<https://arxiv.org/abs/2610.11019v1>) | Paper | Verified affiliation |
 | 2026‑10‑08 | [MetaEncoder\: Exploring the Limit of Bi-Encoders for Multimodal System One Decision Making with Natural Language Interface](<https://arxiv.org/abs/2610.11316v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [MIMESIS\: Learning User Simulators as Training Environments for Interactive Agents](<https://huggingface.co/papers/2610.09484>) | Paper | Hugging Face |
 | 2026‑10‑07 | [REAP\: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage](<https://arxiv.org/abs/2604.01527>) | Conference paper | OpenAlex |
+| 2026‑10‑07 | [Mixture of Layers\: Dynamic Layer Routing for Visual Reasoning](<https://arxiv.org/abs/2610.09440>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Conversational Voice Aesthetic Model with Reinforcement Learning from Human Listeners](<https://arxiv.org/abs/2610.10868>) | Preprint | OpenAlex |
 | 2026‑10‑07 | [Automating Low-Risk Code Review at Meta\: RADAR, Risk Calibration, and Review Efficiency](<https://arxiv.org/abs/2605.30208>) | Conference paper | OpenAlex |
 | 2026‑10‑06 | [Which and When to Admit\: Gradient Admission for Data-Centric Small Language Model Finetuning](<https://arxiv.org/abs/2610.07553>) | Preprint | OpenAlex |

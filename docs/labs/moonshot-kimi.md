@@ -1,7 +1,7 @@
 # Moonshot/Kimi Papers
 
 - Region: `China`
-- Papers: `51`
+- Papers: `52`
 - Latest: `2026-07-27`
 - [Back to README](../../README.md#moonshotkimi)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [paper](<https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Your tool implementation](<https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [WorldVQA](<https://github.com/MoonshotAI/WorldVQA/blob/master/paper/worldvqa.pdf>) | Technical report | Official repo |
 | n\.d\. | [To use instant mode, pass {"thinking" = {"type"\:"disabled"}}](<https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf>) | Technical report | Official repo |

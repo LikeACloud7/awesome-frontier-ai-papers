@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `370`
+- Papers: `371`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#anthropic)
 
@@ -38,6 +38,7 @@
 | 2026‑10‑09 | [Investigating unintended model actions in our evaluations and internal use](<https://www.anthropic.com/research/investigating-unintended-model-actions>) | Research post | Official page |
 | 2026‑10‑08 | [The missing map of the sky](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) | Research post | Official page |
 | 2026‑10‑08 | [Launching an opt-in vulnerability-finding service for open-source software](<https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source>) | Research post | Official page |
+| 2026‑10‑08 | [Anytime-valid detection of LLM weight exfiltration](<https://arxiv.org/abs/2610.11843v1>) | Paper | Verified affiliation |
 | 2026‑10‑03 | [A Bird's-Eye View of Iterative Reward Design](<https://arxiv.org/abs/2610.04364>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑01 | [Claude-shaped science](<https://www.anthropic.com/research/claude-shaped-science>) | Research post | Official page |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
