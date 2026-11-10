@@ -1,24 +1,29 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1536`
-- Latest: `2026-11-04`
+- Papers: `1541`
+- Latest: `2026-11-07`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
+| 2026‑11‑05 | [Faster Retrieval for Better, More Efficient RAG](<https://machinelearning.apple.com/research/faster-retrieval>) | Research post | Official page |
 | 2026‑11‑04 | [Perceptive Humanoid Motion from Simulation](<https://arxiv.org/abs/2611.06908v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
-| 2026‑11‑03 | [Agnostic Learning by Imitating](<https://arxiv.org/abs/2611.05346v1>) | Paper | Verified affiliation |
+| 2026‑11‑03 | [Agnostic Learning by Imitating](<https://arxiv.org/abs/2611.05346v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](<https://arxiv.org/abs/2610.39264>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Beyond the Readout\: A Latent Numerical Frame Shared Across Modality and Operation](<https://arxiv.org/abs/2610.37422>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [iPrefBench\: A User-Centric Benchmark for Personalized Mobile Use Agents](<https://arxiv.org/abs/2610.34735>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [EvoBench\: An Evolving, Diagnostic Benchmark Framework for Environmental Modeling](<https://arxiv.org/abs/2610.35464>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [PRISM\: Promoting Sampling Diversity of Large Language Models with Implicit Stochastic Modulation](<https://arxiv.org/abs/2610.32101>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Humanoid Mobility via Attention-based Contacts](<https://arxiv.org/abs/2610.31608>) | Preprint | OpenAlex |
+| 2026‑10‑20 | [Reliability-Calibrated Temporal Gated–LiDAR Fusion for 3D Detection Proposals under Simulated Fog](<http://irjas.com/index.php/sciencejournal/article/view/20>) | Article | OpenAlex |
 | 2026‑10‑19 | [Unsupervised source separation and clustering of soundscape recordings predicts avian richness in hyperdiverse systems](<https://doi.org/10.64898/2026.10.13.758826>) | Preprint | OpenAlex |
+| 2026‑10‑18 | [Transformers Learn Two Competing Sorting Algorithms, and Only One Length-Generalizes](<https://arxiv.org/abs/2610.26974>) | Preprint | OpenAlex |
 | 2026‑10‑18 | [Latent World Models Should Plan with Distances Along the Latent Manifold](<https://arxiv.org/abs/2610.25013>) | Preprint | OpenAlex |
 | 2026‑10‑15 | [Selection-Based Structured Reasoning\: Toward Efficient Multimodal Search Agents](<https://machinelearning.apple.com/research/selection-structured-reasoning>) | Publication | Official page |
 | 2026‑10‑15 | [Plan or Retrieve First? A Scale Study of Tool Discovery Architectures](<https://machinelearning.apple.com/research/plan-retrieve-tool-discovery>) | Publication | Official page |

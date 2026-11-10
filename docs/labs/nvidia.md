@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2165`
-- Latest: `2026-11-02`
+- Papers: `2191`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,8 +16,28 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation |
+| 2026‑11‑05 | [VFlash\: Fast, Accurate Visual Planning via Flash Primitive Decoding](<https://huggingface.co/papers/2611.08449>) | Paper | Hugging Face |
+| 2026‑11‑05 | [Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](<http://arxiv.org/abs/2511.16602>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [The Intrusion Pathway\: How Non-Evidential Context Degrades Language Model Performance](<https://arxiv.org/abs/2611.07778>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [TACT-KV\: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](<https://arxiv.org/abs/2611.07593>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [AutoCompress\: Automated Hardware-Guided Model Compression](<https://huggingface.co/papers/2611.08290>) | Paper | Hugging Face |
+| 2026‑11‑04 | [How to Build Digital Humans? From Priors to Photorealistic Avatars](<https://arxiv.org/abs/2607.04341>) | Article | OpenAlex |
+| 2026‑11‑04 | [TIRx\: A Unified Tile Primitive ML Compiler Across Heterogeneous Backends](<https://arxiv.org/abs/2601.19092>) | Conference paper | OpenAlex |
+| 2026‑11‑04 | [FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices](<https://arxiv.org/abs/2611.06994>) | Preprint | OpenAlex |
+| 2026‑11‑03 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](<https://arxiv.org/abs/2611.05041>) | Preprint | OpenAlex |
+| 2026‑11‑03 | [ExPert infers causal perturbations from cell states across biological and clinical contexts](<https://doi.org/10.64898/2026.11.02.762549>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [VLALagBench\: Understanding When and Why VLA Inference Latency Matters](<https://arxiv.org/abs/2611.03103>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Self-Evolving Laboratories Through Persistent Digital and Physical Adaptation](<https://doi.org/10.26434/chemrxiv.15011543/v1>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [SNAP\: Semantic Navigation Among Pedestrians](<https://arxiv.org/abs/2611.03498>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [GTAC\: A Graph-Transformer Actor-Critic for Carrier-Aware MU-MIMO User Grouping](<https://arxiv.org/abs/2611.03922>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [El Agente Fármaco\: A Scalable AI Scientist for Drug Discovery](<https://arxiv.org/abs/2611.03832>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [D&amp;A\: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](<https://arxiv.org/abs/2611.03622>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [Closing the Dynamics Gap through Self-Directed Robotic Interaction](<https://arxiv.org/abs/2611.02691>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [Agentic Pipelines for Mapping Topological Codes to Quantum Hardware](<https://arxiv.org/abs/2611.03329>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [A Geometry-Informed Neural Operator surrogate of LISFLOOD-FP for rapid pluvial-fluvial flood forecasting\: the case of Forlì, Italy](<https://arxiv.org/abs/2611.03381>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [TrackMem\: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue](<https://arxiv.org/abs/2611.02001>) | Preprint | OpenAlex |
 | 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
 | 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
@@ -25,7 +45,10 @@
 | 2026‑11 | [ScheduleGen\: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning](<https://research.nvidia.com/publication/2026-11_schedulegen-demonstration-generation-skill-scheduling-multi-arm-imitation>) | Publication | Official page |
 | 2026‑10‑31 | [Learning to fuse and reconstruct multi-view graphs for diabetic retinopathy grading](<http://arxiv.org/abs/2602.21944>) | Article | OpenAlex |
 | 2026‑10‑31 | [Bioactivity foundation model for hit identification and hit-to-lead optimization from sequence data](<https://doi.org/10.64898/2026.10.26.762100>) | Preprint | OpenAlex |
+| 2026‑10‑30 | [Quantum 3xplorer\: AI-Native Engine for Next-Generation Quantum Materials Modeling](<https://arxiv.org/abs/2610.42108>) | Preprint | OpenAlex |
+| 2026‑10‑30 | [Decentralized Multi-Agent Coordination and Communication in Shared Codebases](<https://arxiv.org/abs/2611.00314>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [PhysicsNeMo-Mesh\: GPU-Native Meshes and Simulation Cases for Physics AI](<https://arxiv.org/abs/2610.39072>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [PhysCount\: Do MLLMs Count Visual Appearances or Physical Entities?](<https://arxiv.org/abs/2610.40530>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [LucidLyra\: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](<https://arxiv.org/abs/2610.40495>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
@@ -33,6 +56,7 @@
 | 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
+| 2026‑10‑25 | [AgentBaton\: Efficient Model Collaboration in Agentic Tasks](<https://huggingface.co/papers/2610.35959>) | Paper | Hugging Face |
 | 2026‑10‑24 | [Speeding up Log-Sum-Exp\: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall](<https://arxiv.org/abs/2610.33647>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [FG-ConvNO\: A Geometry-Aware Neural Operator for Propeller CFD Prediction](<https://arxiv.org/abs/2610.33456>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Cross-View and Cross-Time Tracking of Crack Evolution in Concrete](<https://arxiv.org/abs/2610.33550>) | Preprint | OpenAlex |
@@ -64,17 +88,19 @@
 | 2026‑10‑15 | [Tipping point forecasting in nonstationary dynamics on function spaces](<https://arxiv.org/abs/2308.08794>) | Article | OpenAlex |
 | 2026‑10‑15 | [Atomic functional site scaffolding in biopolymers with RFdiffusion3](<https://doi.org/10.1126/science.aeh2982>) | Article | OpenAlex |
 | 2026‑10‑14 | [Efficient Protein Structure Prediction from Desktop to Datacenter with OpenFold-TRT](<https://doi.org/10.34133/csbj.0242>) | Article | OpenAlex |
-| 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [PingpongDuo\: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](<https://arxiv.org/abs/2610.20579>) | Preprint | OpenAlex |
-| 2026‑10‑14 | [One Block Ahead\: Promoting Sampler State in Diffusion Language Models](<https://arxiv.org/abs/2610.19510>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [Component-Level Inverse Design of Transmon Qubits Using Neural Networks](<https://arxiv.org/abs/2607.20795>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [One Block Ahead\: Promoting Sampler State in Diffusion Language Models](<https://arxiv.org/abs/2610.19510>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [ACCRUE\: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](<https://huggingface.co/papers/2610.18596>) | Paper | Hugging Face |
 | 2026‑10‑13 | [LADDER\: A Long-Horizon Robot Manipulation Benchmark](<https://arxiv.org/abs/2610.18053>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Graph Metanetworks for Transformer Based Language Models](<https://arxiv.org/abs/2610.18471>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [GLST\: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation](<https://arxiv.org/abs/2610.17927>) | Preprint | OpenAlex |
+| 2026‑10‑13 | [Extreme events and statistics in an AI emulator of a global storm-resolving model](<https://arxiv.org/abs/2610.17693>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [TacitVLA\: Reasoning Vision-Language-Action Models Without Reasoning Latency](<https://huggingface.co/papers/2610.17540>) | Paper | Hugging Face |
 | 2026‑10‑13 | [The Federated Tumor Segmentation and Classification (FeTS++) Challenge](<https://arxiv.org/abs/2610.18771v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑13 | [Into the LidarVerse\: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](<https://arxiv.org/abs/2610.19201>) | Paper | Verified affiliation |
+| 2026‑10‑13 | [Full-duplex Spoken Language Modeling with Discrete Diffusion](<https://arxiv.org/abs/2610.17780v1>) | Paper | Verified affiliation |
 | 2026‑10‑12 | [Size Generalization for Diffusion Routing Solvers](<https://arxiv.org/abs/2610.17192>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [HarnessTTT\: Learn to Optimize Harness at Test-Time for Scientific Discovery](<https://arxiv.org/abs/2610.17370>) | Preprint | OpenAlex |
 | 2026‑10‑12 | [FORGE\: Procedural Weight Generation for Sparse MoE Inference](<https://arxiv.org/abs/2610.16890>) | Preprint | OpenAlex |

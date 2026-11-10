@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1914`
-- Latest: `2026-11-04`
+- Papers: `1927`
+- Latest: `2026-11-06`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,12 +44,25 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑06 | [TransText\: Alpha-as-RGB Representation for Transparent Text Animation](<http://arxiv.org/abs/2603.17944>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [Active eye modeling\: a tool for estimating retinal image quality across the visual field in everyday life](<https://doi.org/10.64898/2026.11.04.764163>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](<http://arxiv.org/abs/2511.16602>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [GLANCE\: A Global–Local Coordination Multi-Agent Framework for Music-Grounded Non-Linear Video Editing](<http://arxiv.org/abs/2604.05076>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [REACT 2026 Challenge\: The Fourth Personalised Multiple Appropriate Facial Reaction Generation in Dyadic Interactions](<https://doi.org/10.1145/3767308.3837714>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [Spectral-Prior Asymmetric Fusion with NLL-Guided Ensemble Learning for EEG–fNIRS Imagined Handwriting Decoding](<https://doi.org/10.1145/3767308.3838620>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [GenTS\: Unified Generative Modeling for Multimodal Time Series Analysis](<https://doi.org/10.1145/3767308.3836409>) | Conference paper | OpenAlex |
+| 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [GSLM2\: Multi-Stream Speech Representation Learning and Generative Spoken Language Modeling](<https://ai.meta.com/research/publications/gslm2-multi-stream-speech-representation-learning-and-generative-spoken-language-modeling/>) | Publication | Official page |
+| 2026‑11‑04 | [EDIVA\: Exploiting Human Behavioral Patterns for Differential Egocentric Video Processing in AR](<https://doi.org/10.1145/3845814.3850080>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Towards Efficient Whole Page Ranking with One-Pass Inference](<https://arxiv.org/abs/2611.05542>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [OGX\: An Open-Source, Vendor-Neutral Generative AI Application Server](<https://arxiv.org/abs/2608.14580>) | Article | OpenAlex |
 | 2026‑11‑01 | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
+| 2026‑10‑31 | [Step-dLLM\: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](<https://arxiv.org/abs/2611.01320>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations](<https://doi.org/10.1145/3830398.3830568>) | Conference paper | OpenAlex |
+| 2026‑10‑31 | [Improving Ads Ranking Models with Auxiliary Supervision\: Techniques and Insights](<https://arxiv.org/abs/2611.01280>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [A Benchmarking Framework for Context-aware XR Interfaces](<https://arxiv.org/abs/2609.30466>) | Conference paper | OpenAlex |
 | 2026‑10‑30 | [Object Detection of Tree Uprooting Signatures in Gridded LiDAR Elevation Data](<https://doi.org/10.1029/2025ea004894>) | Article | OpenAlex |
+| 2026‑10‑30 | [Beyond Semantic IDs\: Atomic Creator Tokens for Large-Scale Generative Recommendation](<https://arxiv.org/abs/2611.00323>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
 | 2026‑10‑29 | [Dobb\: Shard-Local Preconditioning in Block-Diagonal Eigenbases](<https://arxiv.org/abs/2610.39412>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Beyond IPS\: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities](<https://arxiv.org/abs/2610.40112>) | Preprint | OpenAlex |

@@ -1,15 +1,15 @@
 # Moonshot/Kimi Papers
 
 - Region: `China`
-- Papers: `52`
-- Latest: `2026-07-27`
+- Papers: `53`
+- Latest: `2026-11-05`
 - [Back to README](../../README.md#moonshotkimi)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| n\.d\. | [paper](<https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [paper PDF](<https://github.com/MoonshotAI/TCSExam/blob/master/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Your tool implementation](<https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [WorldVQA](<https://github.com/MoonshotAI/WorldVQA/blob/master/paper/worldvqa.pdf>) | Technical report | Official repo |
 | n\.d\. | [To use instant mode, pass {"thinking" = {"type"\:"disabled"}}](<https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf>) | Technical report | Official repo |
@@ -20,6 +20,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑05 | [TCSExam\: Evaluating Frontier LLMs on the Full Range of TCS Research](<https://arxiv.org/abs/2611.07962>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑07‑27 | [the assistant should mention 215 and 222 that appear in the prior reasoning content](<https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf>) | Technical report | Official repo |
 | 2026‑07‑26 | [Kimi K3\: Open Frontier Intelligence](<https://huggingface.co/papers/2607.24653>) | Technical report | Official page, Hugging Face |
 | 2026‑07‑26 | [PerceptionBench\: Evaluating Atomic Visual Perception in Multimodal Large Language Models](<https://huggingface.co/papers/2607.24957>) | Technical report | Official page |

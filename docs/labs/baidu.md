@@ -1,14 +1,23 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1128`
-- Latest: `2026-10-29`
+- Papers: `1137`
+- Latest: `2026-11-07`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑07 | [RoadState\: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating](<https://arxiv.org/abs/2611.10746v1>) | Paper | Verified affiliation |
+| 2026‑11‑06 | [AIM\: Learning from Modality Asymmetry via Information-Theoretic Modeling for Image-Text Retrieval](<https://doi.org/10.1145/3767308.3835076>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis](<https://arxiv.org/abs/2611.07553>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [Agent-R$^2$\: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](<https://arxiv.org/abs/2611.08219>) | Preprint | OpenAlex |
+| 2026‑11‑04 | [Ruby-OPD\: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation](<https://arxiv.org/abs/2611.06403>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [PaddleMaterials\: An End-to-End Deep Learning Toolkit for Materials Science](<https://arxiv.org/abs/2611.03154>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [MicroMouse\: Masking Harmful Supervision in Long CoT via Relative Potential](<https://arxiv.org/abs/2611.02710>) | Preprint | OpenAlex |
+| 2026‑11‑02 | [Low-Rank Hierarchical Merging for Efficient Long-to-Short Reasoning](<https://arxiv.org/abs/2611.03834>) | Preprint | OpenAlex |
+| 2026‑10‑31 | [MarkovTS\: Pretrained State-Transition Representations for Zero-Shot Time Series Generation](<https://arxiv.org/abs/2611.00941>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [SCARL\: Sequence Confidence-Aligned Reinforcement Learning](<https://arxiv.org/abs/2610.40407>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Reward-Adaptive Co-Evolution of Policy and Rubric](<https://arxiv.org/abs/2610.40096>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Goal-Aware Dynamic Multi-Agent Collaboration for Long-Horizon Tasks](<https://arxiv.org/abs/2610.39193>) | Preprint | OpenAlex |

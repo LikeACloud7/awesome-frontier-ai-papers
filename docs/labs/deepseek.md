@@ -9,7 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| n\.d\. | [paper](<https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [paper PDF](<https://github.com/MoonshotAI/TCSExam/blob/master/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [specify the path to the model](<https://github.com/deepseek-ai/DeepSeek-VL2/blob/main/DeepSeek_VL2_paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [prompt = " \\nFree OCR\. "](<https://github.com/deepseek-ai/DeepSeek-OCR-2/blob/main/DeepSeek_OCR2_paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Until v0\.11\.1 release, you need to install vLLM from nightly build](<https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf>) | Technical report | Official repo |

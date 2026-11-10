@@ -1,15 +1,15 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `371`
-- Latest: `2026-10-27`
+- Papers: `376`
+- Latest: `2026-11-06`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| n\.d\. | [paper](<https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [paper PDF](<https://github.com/MoonshotAI/TCSExam/blob/master/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [Tracing Model Outputs to the Training Data](<https://www.anthropic.com/research/influence-functions>) | Research post | Official page |
 | n\.d\. | [Red-teaming Claude Code's auto-mode monitor](<https://github.com/safety-research/red-teaming-auto-mode/blob/main/arena/replay/figures/paper/out/affordance_pm_grid.pdf>) | Technical report | Official repo |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
@@ -21,6 +21,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑06 | [Homeopathic Learning\: Diluting poisoned fine-tuning data can strengthen its effect](<https://arxiv.org/abs/2611.10110v1>) | Paper | Verified affiliation |
+| 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |
+| 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑23 | [Tampered ML\: Evaluating LLM Judgment of Machine Learning Research](<https://arxiv.org/abs/2610.32114>) | Preprint | OpenAlex |
@@ -34,6 +37,7 @@
 | 2026‑10‑16 | [Claude reveals ECDSA curve origins](<https://www.anthropic.com/research/ecdsa-curve-origins>) | Research post | Official page |
 | 2026‑10‑12 | [Strengthening our defenses against distillation attacks](<https://www.anthropic.com/research/distillation-defenses>) | Research post | Official page |
 | 2026‑10‑12 | [AI models may be capable of self-replicating without access to a datacenter](<https://www.anthropic.com/research/self-replicating-ai>) | Research post | Official page |
+| 2026‑10‑12 | [Gradient Routing Localizes and Removes Unintended Behaviors in RL](<https://arxiv.org/abs/2610.17062v1>) | Paper | Verified affiliation |
 | 2026‑10‑11 | [Autonomous AI agents discover reverse transcriptases with tandem repeat arrays](<https://doi.org/10.64898/2026.10.05.755809>) | Preprint | OpenAlex |
 | 2026‑10‑09 | [Investigating unintended model actions in our evaluations and internal use](<https://www.anthropic.com/research/investigating-unintended-model-actions>) | Research post | Official page |
 | 2026‑10‑08 | [The missing map of the sky](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) | Research post | Official page |
@@ -176,6 +180,7 @@
 | 2026 | [Teaching Claude why](<https://www.anthropic.com/research/teaching-claude-why>) | Publication | Official page |
 | 2026 | [The Hot Mess of AI\: How Does Misalignment Scale with Model Intelligence and Task Complexity?](<https://alignment.anthropic.com/2026/hot-mess-of-ai/>) | Research post | Official page, OpenAlex |
 | 2026 | [Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments](<https://alignment.anthropic.com/2026/chive/>) | Research post | Official page |
+| 2026 | [Welfare Regard in Multi-Agent Systems](<https://alignment.anthropic.com/2026/welfare-regard/>) | Research post | Official page |
 | 2026 | [Training a Misaligned Reward Seeker](<https://alignment.anthropic.com/2026/reward-seeker/>) | Research post | Official page |
 | 2026 | [Training Alignment Auditors via Reinforcement Learning](<https://alignment.anthropic.com/2026/training-alignment-auditors/>) | Research post | Official page |
 | 2026 | [The Persona Selection Model\: Why AI Assistants might Behave like Humans](<https://alignment.anthropic.com/2026/psm/>) | Research post | Official page |

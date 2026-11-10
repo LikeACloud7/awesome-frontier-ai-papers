@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `524`
-- Latest: `2026-11-03`
+- Papers: `528`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [Control Room\: A central system to track and stop model workloads across our research infrastructure](<https://openai.com/index/control-room>) | Research post | Official page |
+| 2026‑11‑06 | [Measuring how AI agents handle everyday wet-lab science](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science>) | Research post | Official page |
+| 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) | Research post | Official page |
 | 2026‑11‑02 | [LifeVal](<https://openai.com/index/lifeval>) | Research post | Official page |
 | 2026‑10‑30 | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
@@ -26,6 +29,7 @@
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑26 | [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>) | Research post | Official page |
 | 2026‑10‑26 | [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>) | Research post | Official page |
+| 2026‑10‑22 | [UserArena\: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](<https://arxiv.org/abs/2610.30932v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑10‑21 | [Using thousands of AI agents to uncover new leads in biological data](<https://openai.com/index/scaling-ai-research-for-complex-biological-data>) | Research post | Official page |
 | 2026‑10‑21 | [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>) | Research post | Official page |
 | 2026‑10‑19 | [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>) | Research post | Official page |
@@ -410,8 +414,8 @@
 | 2024‑01‑31 | [Building an early warning system for LLM-aided biological threat creation](<https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation>) | Publication | Official page |
 | 2024‑01‑18 | [AI, Justice, and the Ecosystem Approach – Notes from the OpenNyAI Mission](<https://socialinnovationsjournal.com/index.php/sij/article/view/7121>) | Article | OpenAlex |
 | 2024‑01‑01 | [AI Regulations](<https://doi.org/10.1007/978-3-031-54252-7_3>) | Book chapter | OpenAlex |
-| 2024‑01‑01 | [Direct Preference Optimization with an Offset](<https://doi.org/10.18653/v1/2024.findings-acl.592>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [AI Can Help Workers Gain New Technical Capabilities Without Gaining Knowledge](<https://doi.org/10.2139/ssrn.4944588>) | Preprint | OpenAlex |
+| 2024‑01‑01 | [Direct Preference Optimization with an Offset](<https://doi.org/10.18653/v1/2024.findings-acl.592>) | Conference paper | OpenAlex |
 | 2024‑01‑01 | [Multi-Group Fairness Evaluation via Conditional Value-at-Risk Testing](<https://doi.org/10.1109/jsait.2024.3397741>) | Article | OpenAlex |
 
 ## 2023
