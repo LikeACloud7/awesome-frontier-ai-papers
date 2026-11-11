@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `376`
-- Latest: `2026-11-06`
+- Papers: `378`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [Exposure is All You Need\: Using LLMs to Identify Critical Endpoints at Internet Scale](<https://doi.org/10.1145/3847352.3848119>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Homeopathic Learning\: Diluting poisoned fine-tuning data can strengthen its effect](<https://arxiv.org/abs/2611.10110v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
@@ -180,7 +181,7 @@
 | 2026 | [Teaching Claude why](<https://www.anthropic.com/research/teaching-claude-why>) | Publication | Official page |
 | 2026 | [The Hot Mess of AI\: How Does Misalignment Scale with Model Intelligence and Task Complexity?](<https://alignment.anthropic.com/2026/hot-mess-of-ai/>) | Research post | Official page, OpenAlex |
 | 2026 | [Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments](<https://alignment.anthropic.com/2026/chive/>) | Research post | Official page |
-| 2026 | [Welfare Regard in Multi-Agent Systems](<https://alignment.anthropic.com/2026/welfare-regard/>) | Research post | Official page |
+| 2026 | [Welfare Regard in Multi-Agent Systems](<https://alignment.anthropic.com/2026/welfare-regard/>) | Research post | Official page, Verified affiliation |
 | 2026 | [Training a Misaligned Reward Seeker](<https://alignment.anthropic.com/2026/reward-seeker/>) | Research post | Official page |
 | 2026 | [Training Alignment Auditors via Reinforcement Learning](<https://alignment.anthropic.com/2026/training-alignment-auditors/>) | Research post | Official page |
 | 2026 | [The Persona Selection Model\: Why AI Assistants might Behave like Humans](<https://alignment.anthropic.com/2026/psm/>) | Research post | Official page |
@@ -197,6 +198,7 @@
 | 2026 | [Introspection Adapters\: Training LLMs to Report Their Learned Behaviors](<https://alignment.anthropic.com/2026/introspection-adapters/>) | Research post | Official page, Verified affiliation |
 | 2026 | [Introducing the Conceptual Reasoning Index](<https://alignment.anthropic.com/2026/conceptual-reasoning-index/>) | Research post | Official page |
 | 2026 | [Fine-Tuned Lie Detectors Failed to Generalize](<https://alignment.anthropic.com/2026/lie-detectors/>) | Research post | Official page |
+| 2026 | [Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect](<https://alignment.anthropic.com/2026/homeopathic-learning/>) | Research post | Official page |
 | 2026 | [Diffuse AI Control on Fuzzy Tasks](<https://alignment.anthropic.com/2026/diffuse-ai-control/>) | Research post | Official page, OpenAlex |
 | 2026 | [Automated Weak-to-Strong Researcher](<https://alignment.anthropic.com/2026/automated-w2s-researcher/>) | Research post | Official page |
 | 2026 | [Automated Subtle Emergent Misalignment Research](<https://alignment.anthropic.com/2026/automated-em-search/>) | Research post | Official page |

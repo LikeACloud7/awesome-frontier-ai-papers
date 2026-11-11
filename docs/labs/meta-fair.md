@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1927`
-- Latest: `2026-11-06`
+- Papers: `1930`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [OmniFaceRig\: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies](<https://arxiv.org/abs/2606.08043>) | Article | OpenAlex |
+| 2026‑11‑09 | [Snapshot Polarimetric Display Inverse Rendering](<https://arxiv.org/abs/2605.24915>) | Article | OpenAlex |
+| 2026‑11‑09 | [AROMA \: Augmented Reality Optimized Tone Mapping](<https://doi.org/10.1145/3842539>) | Article | OpenAlex |
 | 2026‑11‑06 | [TransText\: Alpha-as-RGB Representation for Transparent Text Animation](<http://arxiv.org/abs/2603.17944>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Active eye modeling\: a tool for estimating retinal image quality across the visual field in everyday life](<https://doi.org/10.64898/2026.11.04.764163>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](<http://arxiv.org/abs/2511.16602>) | Conference paper | OpenAlex |
@@ -184,7 +187,7 @@
 | 2026‑09‑10 | [Harnessing Trust in Directed Graphs\: Redefining Robustness of Graph Learning](<https://doi.org/10.1145/3843766>) | Article | OpenAlex |
 | 2026‑09‑08 | [Academia x Industry\: The Role of Fundamentals for Silicon in an AI Native Era](<https://arxiv.org/abs/2609.09344>) | Preprint | OpenAlex |
 | 2026‑09‑08 | [Agentic ML Exploration (A-MLE) for Ads Ranking](<https://arxiv.org/abs/2609.08248v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑09‑07 | [Repeat-After-Me\: Black-Box Adaptive Visual Prompt Injection](<https://ai.meta.com/research/publications/repeat-after-me-black-box-adaptive-visual-prompt-injection/>) | Publication | Official page |
+| 2026‑09‑07 | [Repeat-After-Me\: Black-Box Adaptive Visual Prompt Injection](<https://ai.meta.com/research/publications/repeat-after-me-black-box-adaptive-visual-prompt-injection/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑06 | [Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](<https://ai.meta.com/research/publications/alignment-free-text-audiobox-for-voice-dubbing-and-full-duplex-dialogue-synthesis/>) | Publication | Official page |
 | 2026‑09‑03 | [Randomization Inference for Matched Pairs with Binary Outcomes](<https://arxiv.org/abs/2609.03227>) | Preprint | OpenAlex |
 | 2026‑09‑03 | [IPGeoAI\: Transformer-Based Geolocation with LLM Semantic Fusion](<https://arxiv.org/abs/2609.04559>) | Preprint | OpenAlex |

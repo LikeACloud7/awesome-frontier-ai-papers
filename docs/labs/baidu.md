@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1137`
+- Papers: `1138`
 - Latest: `2026-11-07`
 - [Back to README](../../README.md#baidu)
 
@@ -14,6 +14,7 @@
 | 2026‑11‑05 | [Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis](<https://arxiv.org/abs/2611.07553>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Agent-R$^2$\: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](<https://arxiv.org/abs/2611.08219>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Ruby-OPD\: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation](<https://arxiv.org/abs/2611.06403>) | Preprint | OpenAlex |
+| 2026‑11‑03 | [OCR in the Foundation Model Era\: From Specialist Models to Unified Models](<https://arxiv.org/abs/2611.04874>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [PaddleMaterials\: An End-to-End Deep Learning Toolkit for Materials Science](<https://arxiv.org/abs/2611.03154>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [MicroMouse\: Masking Harmful Supervision in Long CoT via Relative Potential](<https://arxiv.org/abs/2611.02710>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Low-Rank Hierarchical Merging for Efficient Long-to-Short Reasoning](<https://arxiv.org/abs/2611.03834>) | Preprint | OpenAlex |

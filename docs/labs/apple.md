@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1541`
+- Papers: `1543`
 - Latest: `2026-11-07`
 - [Back to README](../../README.md#apple)
 
@@ -10,8 +10,10 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
+| 2026‑11‑06 | [On Agentic Manipulation Policies](<https://arxiv.org/abs/2611.09892v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [Faster Retrieval for Better, More Efficient RAG](<https://machinelearning.apple.com/research/faster-retrieval>) | Research post | Official page |
 | 2026‑11‑04 | [Perceptive Humanoid Motion from Simulation](<https://arxiv.org/abs/2611.06908v1>) | Paper | Verified affiliation |
+| 2026‑11‑03 | [Attention to Mamba\: A Recipe for Cross-Architecture Distillation](<https://machinelearning.apple.com/research/attention-mamba-distillation>) | Publication | Official page |
 | 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Agnostic Learning by Imitating](<https://arxiv.org/abs/2611.05346v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |
@@ -29,8 +31,8 @@
 | 2026‑10‑15 | [Plan or Retrieve First? A Scale Study of Tool Discovery Architectures](<https://machinelearning.apple.com/research/plan-retrieve-tool-discovery>) | Publication | Official page |
 | 2026‑10‑15 | [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](<https://machinelearning.apple.com/research/mlx-distributed-inference>) | Research post | Official page |
 | 2026‑10‑14 | [The Design Space of Tri-Modal Masked Diffusion Models](<https://machinelearning.apple.com/research/tri-modal-masked-diffusion>) | Publication | Official page |
+| 2026‑10‑14 | [Pixels to Tokens\: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](<https://machinelearning.apple.com/research/pixels-tokens-active-learning>) | Publication | OpenAlex, Official page |
 | 2026‑10‑14 | [Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models](<https://machinelearning.apple.com/research/code-switching-detection>) | Publication | Official page |
-| 2026‑10‑14 | [Pixels to Tokens\: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](<https://arxiv.org/abs/2610.20881>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Mix, Don't Tune\: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings](<https://machinelearning.apple.com/research/mix-dont-tune>) | Publication | Official page |
 | 2026‑10‑12 | [Large Language Models for Machine Translation Quality Annotation\: Humans and Models Are Both Challenged](<https://machinelearning.apple.com/research/llm-translation-quality-annotation>) | Publication | Official page |
 | 2026‑10‑11 | [Fewer Bits, More Tries\: Recovering Capability Under Memory Constraints](<https://arxiv.org/abs/2610.15372>) | Preprint | OpenAlex |

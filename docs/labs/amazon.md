@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3807`
+- Papers: `3809`
 - Latest: `2026-11-07`
 - [Back to README](../../README.md#amazon)
 
@@ -20,6 +20,7 @@
 | 2026‑11‑06 | [Healthcare Transaction Authorization and Management Computer Device](<https://doi.org/10.71097/ijsat.v17.i4.11686>) | Article | OpenAlex |
 | 2026‑11‑06 | [Automated De-identification Solution for Medical DICOM Datasets](<https://doi.org/10.1007/978-3-032-31709-4_14>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Latent RL Priors for Data-Efficient Dexterous Manipulation](<https://arxiv.org/abs/2611.08458>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [Householder Motion Embedding\: Noise Modulation for Motion-Controllable Video Generation](<https://arxiv.org/abs/2611.07294>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [FARR\: Forecast-Aware Residual Refinement with Matched Endpoint Evidence for Long-Horizon Time-Series Forecasting](<https://arxiv.org/abs/2611.07870>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Beyond Instruction Override\: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](<https://arxiv.org/abs/2611.07640v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [From handcrafted to generative\: RLVR-optimized icon generation for Alexa+](<https://www.amazon.science/publications/from-handcrafted-to-generative-rlvr-optimized-icon-generation-for-alexa>) | Publication | Official page, OpenAlex |
@@ -29,6 +30,7 @@
 | 2026‑11‑03 | [GRAIL 2026\: Workshop on Generative, Retrieval-augmented, and Agentic Intelligence for Personalization](<https://doi.org/10.1145/3799682.3839287>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [TrojanShot\: Reinforced Demonstrations Yield Sample-Efficient Jailbreaks and Guardrails for LLMs](<https://doi.org/10.1145/3799682.3841000>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Temporal Moment Generation\: A New Recommendation Task and Cost-Efficient Distillation for Outbound Marketing at Scale](<https://doi.org/10.1145/3799682.3839260>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [ScamWorld\: An Interactive Environment for Evaluating Web Agents Against Online Fraud](<https://arxiv.org/abs/2611.04879>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Route to Remember\: Adaptive Memory Selection for LLM Agents](<https://arxiv.org/abs/2611.05636>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Rebuilding the Content Ranking Stack for Prime Video\: Lessons Learned Building from Scratch](<https://doi.org/10.1145/3799682.3839265>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [PATTS\: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs](<https://arxiv.org/abs/2611.04948>) | Preprint | OpenAlex |

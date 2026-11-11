@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1909`
+- Papers: `1910`
 - Latest: `2026-11-07`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -23,6 +23,7 @@
 | 2026‑11‑06 | [Rethinking Low-Frequency Bias in Transformers for Crowd Localization](<https://doi.org/10.1145/3767308.3835124>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Deduplicate Before You Aggregate\: Efficient Clip Encoding for Scalable Video Retrieval](<https://doi.org/10.1145/3767308.3835060>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Cross-Layer TopK\: Dynamically Allocating Sparsity Across Layers in Transcoders](<https://arxiv.org/abs/2611.09233v1>) | Paper | Verified affiliation |
+| 2026‑11‑05 | [Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion](<https://arxiv.org/abs/2611.07551>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Semantic-Embedded Bitstream\: An INR-based Image Compression Framework Supporting Instant Editing](<https://doi.org/10.1145/3767308.3835875>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Render Structure Uncertainty for HTML Repair in MLLM-based UI-to-Code Generation](<https://dash.harvard.edu/handle/1/42763438>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [DiagDBench\: Evaluating Agentic LLMs on Interactive Database Diagnosis and Anomaly Remediation](<https://arxiv.org/abs/2611.07339>) | Preprint | OpenAlex |

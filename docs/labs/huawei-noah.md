@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4202`
-- Latest: `2026-11-06`
+- Papers: `4206`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [RAWVAR\: Visual Autoregressive Modeling for Color-Faithful Low-Light RAW Image Restoration](<https://doi.org/10.1145/3842554>) | Article | OpenAlex |
+| 2026‑11‑09 | [PhotoMaster\: Learning Holistic Capture-Time Decisions for Guided Photography Reshooting](<https://doi.org/10.1145/3842543>) | Article | OpenAlex |
+| 2026‑11‑09 | [Hierarchical Structured Latents for Efficient 3D Generation](<https://doi.org/10.1145/3842496>) | Article | OpenAlex |
 | 2026‑11‑06 | [CinemaTraj\: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents](<https://arxiv.org/abs/2607.26910>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [UniGarment\: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization](<https://doi.org/10.1145/3767308.3835607>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Structural invariant augmentation for graph contrastive learning based on optimal transport](<https://doi.org/10.1007/s10115-026-02915-x>) | Article | OpenAlex |
@@ -39,8 +42,9 @@
 | 2026‑11‑05 | [La-JEPA\: Compact Robot Policies with Latent World Modeling](<https://arxiv.org/abs/2611.08156>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [I 2 RSTD\: Benchmark and A Prompt-Based Approach for Incremental Infrared Small Target Detection](<https://doi.org/10.1145/3767308.3835867>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Hidden Dangers in Plain Sight\: Unveiling Unintended Behavioral Safety Risks of Situated Agents in Functional Environments](<https://doi.org/10.1145/3767308.3836533>) | Conference paper | OpenAlex |
-| 2026‑11‑05 | [Chronos\: Sequential Identity-Preserving Video Generation by Temporal Anchoring](<https://doi.org/10.1145/3767308.3837689>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [Do Search-Augmented Recommenders Use the Latest Search Episode?](<https://arxiv.org/abs/2611.06044>) | Preprint | OpenAlex |
+| 2026‑11‑04 | [Chronos\: Sequential Identity-Preserving Video Generation by Temporal Anchoring](<https://doi.org/10.1145/3767308.3837689>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [VidUEU-Agent\: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks](<https://arxiv.org/abs/2611.04418>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [UGDACal\: Nodewise Calibrator for Unsupervised Graph Domain Adaptation](<https://doi.org/10.1145/3799682.3840741>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Process In-Context Learning\: Confusion-Aware Demonstration Retrieval and Dynamic Insertion for Mathematical Reasoning](<http://arxiv.org/abs/2601.11979>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Neither Black nor White\: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](<https://arxiv.org/abs/2610.01533>) | Conference paper | OpenAlex |

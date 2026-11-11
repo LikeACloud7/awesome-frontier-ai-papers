@@ -1,8 +1,8 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `144`
-- Latest: `2026-11-02`
+- Papers: `145`
+- Latest: `2026-11-03`
 - [Back to README](../../README.md#stepfun)
 
 ## No date
@@ -17,6 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑03 | [Efficient and Faithful High-Resolution Image Editing with Sparse Cross-Resolution Denoising](<https://arxiv.org/abs/2611.04416>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [P^2-MOPD\: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](<https://huggingface.co/papers/2611.03953>) | Preprint | Official page, Hugging Face |
 | 2026‑11‑02 | [StepX-OPD\: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models](<https://huggingface.co/papers/2611.04386>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑29 | [UniTele\: Learning Device-Conditioned Degradations for Unified Smartphone Telephoto Super-Resolution](<https://arxiv.org/abs/2610.39617v1>) | Paper | Verified affiliation |
