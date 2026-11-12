@@ -1,14 +1,18 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1543`
-- Latest: `2026-11-07`
+- Papers: `1547`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
+| 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |
+| 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
+| 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
 | 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
 | 2026‑11‑06 | [On Agentic Manipulation Policies](<https://arxiv.org/abs/2611.09892v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [Faster Retrieval for Better, More Efficient RAG](<https://machinelearning.apple.com/research/faster-retrieval>) | Research post | Official page |

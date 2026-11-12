@@ -618,8 +618,8 @@
 | 2026‑06‑05 | [Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems\:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI](<https://arxiv.org/abs/2606.06895v1>) | Paper | Verified affiliation |
 | 2026‑06‑05 | [ANNS-AMP\: Accelerating Approximate Nearest Neighbor Search via Adaptive Mixed-Precision Computing](<https://arxiv.org/abs/2606.07156v1>) | Paper | Verified affiliation |
 | 2026‑06‑04 | [Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](<https://huggingface.co/papers/2606.07473>) | Technical report | Official page |
-| 2026‑06‑04 | [YouZhi\: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition](<https://arxiv.org/abs/2606.05868>) | Preprint | OpenAlex |
 | 2026‑06‑04 | [SJD++\: Improved Speculative Jacobi Decoding for Training-Free Acceleration of Discrete Auto-Regressive Text-to-Image Generation](<https://doi.org/10.1109/tpami.2026.3700227>) | Article | OpenAlex |
+| 2026‑06‑04 | [YouZhi\: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition](<https://arxiv.org/abs/2606.05868>) | Preprint | OpenAlex |
 | 2026‑06‑04 | [RedKnot\: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention](<https://arxiv.org/abs/2606.06256>) | Preprint | OpenAlex |
 | 2026‑06‑04 | [ProSPy\: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL](<https://arxiv.org/abs/2606.05836v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑06‑04 | [FAIR-Calib\: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models](<https://arxiv.org/abs/2606.06547>) | Preprint | OpenAlex |

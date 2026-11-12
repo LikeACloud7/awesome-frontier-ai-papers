@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3809`
-- Latest: `2026-11-07`
+- Papers: `3818`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,9 +16,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [An Integrated AI-Driven Methodology for Synthesizing a Digital Similar of Residential PV Adoption](<http://arxiv.org/abs/2410.08098>) | Article | OpenAlex |
+| 2026‑11‑10 | [Guessing Without Momentum](<https://doi.org/10.34740/kaggle/w/123952>) | Article | OpenAlex |
+| 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
 | 2026‑11‑07 | [Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation](<https://doi.org/10.1145/3841458.3841541>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Healthcare Transaction Authorization and Management Computer Device](<https://doi.org/10.71097/ijsat.v17.i4.11686>) | Article | OpenAlex |
 | 2026‑11‑06 | [Automated De-identification Solution for Medical DICOM Datasets](<https://doi.org/10.1007/978-3-032-31709-4_14>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [zkARc\: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification](<https://doi.org/10.48550/arxiv.2611.10031>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Latent RL Priors for Data-Efficient Dexterous Manipulation](<https://arxiv.org/abs/2611.08458>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Householder Motion Embedding\: Noise Modulation for Motion-Controllable Video Generation](<https://arxiv.org/abs/2611.07294>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [FARR\: Forecast-Aware Residual Refinement with Matched Endpoint Evidence for Long-Horizon Time-Series Forecasting](<https://arxiv.org/abs/2611.07870>) | Preprint | OpenAlex |
@@ -514,6 +518,7 @@
 | 2026‑05‑20 | [Articulate but Wrong\: Self-Review Failures in LLM-Based Code Modernization](<https://arxiv.org/abs/2605.21537>) | Article | OpenAlex |
 | 2026‑05‑19 | [SADL\: sampling, deliberation, and pseudo-labeling for in-context learning in compositional visual question answering](<https://doi.org/10.1007/s44163-026-01411-z>) | Article | OpenAlex |
 | 2026‑05‑18 | [Lighting Up or Dimming Down? Exploring Dark Patterns of LLMs in Co-Creativity](<https://doi.org/10.1609/aaaiss.v8i1.42608>) | Conference paper | OpenAlex |
+| 2026‑05‑15 | [Syntax Without Semantics\: Teaching Large Language Models to Code in an Unseen Language](<https://arxiv.org/abs/2605.15607>) | Paper | Verified affiliation |
 | 2026‑05‑14 | [Evolution of Workforce Management\: Time and Attendance Systems](<https://doi.org/10.47941/hrlj.3691>) | Article | OpenAlex |
 | 2026‑05‑14 | [DualKV\: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts](<https://arxiv.org/abs/2605.15422>) | Paper | Verified affiliation |
 | 2026‑05‑13 | [SPHERICAL KV\: Angle-Domain Attention and Rate-Distortion Retention for Efficient Long-Context Inference](<https://arxiv.org/abs/2605.18856>) | Preprint | OpenAlex |
@@ -1102,6 +1107,7 @@
 | 2026 | [Pairwise ranking outperforms single-action RL for offline explanation selection\: A practical lesson](<https://www.amazon.science/publications/pairwise-ranking-outperforms-single-action-rl-for-offline-explanation-selection-a-practical-lesson>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [PReMISE\: Policy rubrics as measurement specifications for LLM judges](<https://www.amazon.science/publications/premise-policy-rubrics-as-measurement-specifications-for-llm-judges>) | Publication | Official page |
 | 2026 | [PRISM\: Prompt representation internalization via selective compression into LoRA weights](<https://www.amazon.science/publications/prism-prompt-representation-internalization-via-selective-compression-into-lora-weights>) | Publication | Official page |
+| 2026 | [POISS\: A large-scale multilingual dataset for point-of-interest search](<https://www.amazon.science/publications/poiss-a-large-scale-multilingual-dataset-for-point-of-interest-search>) | Publication | Official page |
 | 2026 | [PGGA\: A plan-grounded GUI agent for automated device support](<https://www.amazon.science/publications/pgga-a-plan-grounded-gui-agent-for-automated-device-support>) | Publication | Official page, OpenAlex |
 | 2026 | [PB-GRPO\: Learning socially adaptive LLM agents from persona-driven simulation with preference-batched GRPO](<https://www.amazon.science/publications/pb-grpo-learning-socially-adaptive-llm-agents-from-persona-driven-simulations-with-preference-batched-grpo>) | Publication | Official page |
 | 2026 | [PADAM\: Perceptual audio defect assessment model](<https://www.amazon.science/publications/padam-perceptual-audio-defect-assessment-model>) | Publication | Official page, OpenAlex |
@@ -1220,6 +1226,7 @@
 | 2026 | [Expansion-contraction\: A multi-agent graph traversal pattern for compound AI systems](<https://www.amazon.science/publications/expansion-contraction-a-multi-agent-graph-traversal-pattern-for-compound-ai-systems>) | Publication | Official page, OpenAlex |
 | 2026 | [Exo2EgoPolicy\: Geometry-aware policy transfer from exocentric human demonstrations](<https://www.amazon.science/publications/exo2egopolicy-geometry-aware-policy-transfer-from-exocentric-human-demonstrations>) | Publication | Official page, OpenAlex |
 | 2026 | [Exectune\: Effective steering of black-box LLMs with guide models](<https://www.amazon.science/publications/exectune-effective-steering-of-black-box-llms-with-guide-models>) | Publication | Official page |
+| 2026 | [ExGQL\: Self-improving natural language-to-graph query generation via experience-guided learning](<https://www.amazon.science/publications/exgql-self-improving-natural-language-to-graph-query-generation-via-experience-guided-learning>) | Publication | Official page |
 | 2026 | [Evolving LLM-generated features for interpretable classification](<https://www.amazon.science/publications/evolving-llm-generated-features-for-interpretable-classification>) | Publication | Official page |
 | 2026 | [EvoMAS\: Evolutionary generation of multi-agent systems](<https://www.amazon.science/publications/evomas-evolutionary-generation-of-multi-agent-systems>) | Publication | Official page, Verified affiliation |
 | 2026 | [Evo-harness\: Context-to-harness skill compilation for self-evolving agents](<https://www.amazon.science/publications/evo-harness-context-to-harness-skill-compilation-for-self-evolving-agents>) | Publication | Verified affiliation, Official page |
@@ -1303,6 +1310,7 @@
 | 2026 | [Beyond individual personas\: Aligning synthetic dialogue to population-level behavior distributions](<https://www.amazon.science/publications/beyond-individual-personas-aligning-synthetic-dialogue-to-population-level-behavior-distributions>) | Publication | Official page |
 | 2026 | [Beyond grey-box assumptions\: Uncertainty-guided example selection for black-box language models](<https://www.amazon.science/publications/beyond-grey-box-assumptions-uncertainty-guided-example-selection-for-black-box-language-models>) | Publication | Official page |
 | 2026 | [Beyond disjoint tasks\: Towards more natural continual learning for vision-language models](<https://www.amazon.science/publications/beyond-disjoint-tasks-towards-more-natural-continual-learning-for-vision-language-models>) | Publication | Official page, OpenAlex |
+| 2026 | [Beyond dense retrieval\: A structured-semantic approach for conversation analytics](<https://www.amazon.science/publications/beyond-dense-retrieval-a-structured-semantic-approach-for-conversation-analytics>) | Publication | Official page |
 | 2026 | [Beyond correlation\: Deploying causal AI to attribute e-commerce sales loss at scale](<https://www.amazon.science/publications/beyond-correlation-deploying-causal-ai-to-attribute-e-commerce-sales-loss-at-scale>) | Publication | Official page, OpenAlex |
 | 2026 | [Beyond correctness\: Rewarding faithful reasoning in retrieval-augmented generation](<https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation>) | Publication | Official page |
 | 2026 | [Beyond Task Success\: An eight-metric tiered evaluation protocol for LLM agents over fragmented operational data](<https://www.amazon.science/publications/beyond-task-success-an-eight-metric-tiered-evaluation-protocol-for-llm-agents-over-fragmented-operational-data>) | Publication | Official page |
@@ -1339,6 +1347,7 @@
 | 2026 | [A vocabulary for multi-agent automated research systems](<https://www.amazon.science/publications/a-vocabulary-for-multi-agent-automated-research-systems>) | Publication | Official page |
 | 2026 | [A systematic evaluation framework for universal antibody–antigen binding affinity prediction and candidate recommendation](<https://www.amazon.science/publications/a-systematic-evaluation-framework-for-universal-antibody-antigen-binding-affinity-prediction-and-candidate-recommendation>) | Publication | Official page, OpenAlex |
 | 2026 | [A pinch of SFT, a dash of RL\: When reinforcement learning helps long-horizon advertising agents](<https://www.amazon.science/publications/a-pinch-of-sft-a-dash-of-rl-when-reinforcement-learning-helps-long-horizon-advertising-agents>) | Publication | Verified affiliation, Official page |
+| 2026 | [A multi-device, multi-modal, convolution-augmented transformer-based model for user localization](<https://www.amazon.science/publications/a-multi-device-multi-modal-convolution-augmented-transformer-based-model-for-user-localization>) | Publication | Official page |
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](<https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains>) | Publication | Official page, OpenAlex |
 | 2026 | [A first step towards dialog simulation with grounded dialog graphs](<https://www.amazon.science/publications/a-first-step-towards-dialog-simulation-with-grounded-dialog-graphs>) | Publication | Official page, OpenAlex |
 | 2026 | [A comprehensive taxonomy of temporal dimensions in natural language queries](<https://www.amazon.science/publications/a-comprehensive-taxonomy-of-temporal-dimensions-in-natural-language-queries>) | Publication | Official page |

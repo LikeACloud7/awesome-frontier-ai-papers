@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4350`
-- Latest: `2026-11-09`
+- Papers: `4351`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -244,6 +244,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Neural Centroidal Voronoi Tessellations](<https://www.microsoft.com/en-us/research/publication/neural-centroidal-voronoi-tessellations/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑07 | [WordEval\: Evaluating Word-Native Operation Fidelity in Document Editing](<https://www.microsoft.com/en-us/research/publication/wordeval-evaluating-word-native-operation-fidelity-in-document-editing/>) | Publication | Official page, Verified affiliation |
 | 2026‑11‑06 | [Real-Time Co-Speech Gesture Video Generation](<https://doi.org/10.1145/3767308.3834918>) | Conference paper | OpenAlex |
@@ -348,8 +349,8 @@
 | 2026‑10‑24 | [IntentDelta\: A Human-Constructed Benchmark for Evolving User Intent](<https://www.microsoft.com/en-us/research/publication/intentdelta-a-human-constructed-benchmark-for-evolving-user-intent/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑24 | [FlashScript\: Compiling Recurring Agent Workflows into Reusable Neuro-Symbolic Programs](<https://www.microsoft.com/en-us/research/publication/flashscript-compiling-recurring-agent-workflows-into-reusable-neuro-symbolic-programs/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑24 | [Contingent Planning in Domains with Unsafe Facts](<https://doi.org/10.3390/automation7060170>) | Article | OpenAlex |
-| 2026‑10‑23 | [Putting Transformer Theories to the Test](<https://www.microsoft.com/en-us/research/publication/putting-transformer-theories-to-the-test/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑23 | [HarnessMM\: Recursive Self-Improvement for Harness Token Efficiency](<https://www.microsoft.com/en-us/research/publication/harnessmm-recursive-self-improvement-for-harness-token-efficiency/>) | Publication | OpenAlex, Official page |
+| 2026‑10‑23 | [Putting Transformer Theories to the Test](<https://www.microsoft.com/en-us/research/publication/putting-transformer-theories-to-the-test/>) | Publication | Official page, OpenAlex |
 | 2026‑10‑23 | [A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation](<https://www.microsoft.com/en-us/research/publication/a-foundation-model-for-policy-in-context-longitudinal-causal-effect-estimation/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑23 | [FlexGlue\: Sparse-to-Dense Feature Matching and Visual Disambiguation](<https://arxiv.org/abs/2610.32976>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [When Does Dynamics Randomization Test Context Inference?](<https://arxiv.org/abs/2610.32414>) | Preprint | OpenAlex |
@@ -1463,8 +1464,8 @@
 | 2026‑04‑29 | [Theory Under Construction\: Orchestrating Language Models for Research Software Where the Specification Evolves](<https://www.microsoft.com/en-us/research/publication/theory-under-construction-orchestrating-language-models-for-research-software-where-the-specification-evolves/>) | Publication | Official page |
 | 2026‑04‑29 | [Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](<https://www.microsoft.com/en-us/research/publication/unifying-sparse-attention-with-hierarchical-memory-for-scalable-long-context-llm-serving/>) | Publication | Official page |
 | 2026‑04‑29 | [AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling](<https://www.microsoft.com/en-us/research/publication/autosurfer-teaching-web-agents-through-comprehensive-surfing-learning-and-modeling/>) | Publication | Official page |
+| 2026‑04‑29 | [No Request Left Behind\: Tackling Heterogeneity in Long-Context LLM Inference with Medha](<https://www.microsoft.com/en-us/research/publication/no-request-left-behind-tackling-heterogeneity-in-long-context-llm-inference-with-medha/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑29 | [Differentially Private Contrastive Learning via Bounding Group-level Contribution](<https://www.microsoft.com/en-us/research/publication/differentially-private-contrastive-learning-via-bounding-group-level-contribution/>) | Publication | Official page |
-| 2026‑04‑29 | [No Request Left Behind\: Tackling Heterogeneity in Long-Context LLM Inference with Medha](<https://www.microsoft.com/en-us/research/publication/no-request-left-behind-tackling-heterogeneity-in-long-context-llm-inference-with-medha/>) | Publication | Official page |
 | 2026‑04‑28 | [One-shot emergency psychiatric triage across 15 frontier AI chatbots](<https://www.microsoft.com/en-us/research/publication/one-shot-emergency-psychiatric-triage-across-15-frontier-ai-chatbots/>) | Publication | Official page |
 | 2026‑04‑28 | [SWE-Edit\: Rethinking Code Editing for Efficient SWE-Agent](<https://www.microsoft.com/en-us/research/publication/swe-edit-rethinking-code-editing-for-efficient-swe-agent/>) | Publication | Official page |
 | 2026‑04‑28 | [From Prompt Risk to Response Risk\: Paired Analysis of Safety Behavior of Large Language Model](<https://www.microsoft.com/en-us/research/publication/from-prompt-risk-to-response-risk-paired-analysis-of-safety-behavior-of-large-language-model/>) | Publication | Official page |

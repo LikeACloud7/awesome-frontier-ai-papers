@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2204`
+- Papers: `2206`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#nvidia)
 
@@ -16,8 +16,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Z++\: Temporal, Non-Uniform, and 3D Z Sampling](<https://doi.org/10.1145/3842533>) | Article | OpenAlex |
 | 2026‑11‑09 | [Validating traces of distributed programs against TLA+ specifications](<https://doi.org/10.1007/s10270-026-01416-3>) | Article | OpenAlex |
+| 2026‑11‑09 | [TOG 45(6) Editorial](<https://doi.org/10.1145/3842938>) | Article | OpenAlex |
 | 2026‑11‑09 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](<https://doi.org/10.1145/3842564>) | Article | OpenAlex |
 | 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [VFlash\: Fast, Accurate Visual Planning via Flash Primitive Decoding](<https://huggingface.co/papers/2611.08449>) | Paper | Hugging Face |

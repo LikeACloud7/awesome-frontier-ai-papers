@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `378`
+- Papers: `380`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#anthropic)
 
@@ -25,6 +25,7 @@
 | 2026‑11‑06 | [Homeopathic Learning\: Diluting poisoned fine-tuning data can strengthen its effect](<https://arxiv.org/abs/2611.10110v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
+| 2026‑10‑30 | [SecPO\: Principled Adversarial Training for Prompt Injection Security](<https://arxiv.org/abs/2610.41998v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑23 | [Tampered ML\: Evaluating LLM Judgment of Machine Learning Research](<https://arxiv.org/abs/2610.32114>) | Preprint | OpenAlex |
@@ -181,6 +182,7 @@
 | 2026 | [Teaching Claude why](<https://www.anthropic.com/research/teaching-claude-why>) | Publication | Official page |
 | 2026 | [The Hot Mess of AI\: How Does Misalignment Scale with Model Intelligence and Task Complexity?](<https://alignment.anthropic.com/2026/hot-mess-of-ai/>) | Research post | Official page, OpenAlex |
 | 2026 | [Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments](<https://alignment.anthropic.com/2026/chive/>) | Research post | Official page |
+| 2026 | [Worse Together\: How Performance Breaks Down in Multi-User Multi-Agent Teams](<https://alignment.anthropic.com/2026/worse-together/>) | Research post | Official page |
 | 2026 | [Welfare Regard in Multi-Agent Systems](<https://alignment.anthropic.com/2026/welfare-regard/>) | Research post | Official page, Verified affiliation |
 | 2026 | [Training a Misaligned Reward Seeker](<https://alignment.anthropic.com/2026/reward-seeker/>) | Research post | Official page |
 | 2026 | [Training Alignment Auditors via Reinforcement Learning](<https://alignment.anthropic.com/2026/training-alignment-auditors/>) | Research post | Official page |

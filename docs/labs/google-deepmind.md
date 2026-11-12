@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5793`
+- Papers: `5796`
 - Latest: `2026-11-10`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -16,10 +16,12 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑10 | [Gemini 4 Carbon Model Card](<https://deepmind.google/models/model-cards/gemini-4-carbon/>) | Model card | Official page |
+| 2026‑11‑10 | [Automated Root Cause Analysis of Security Incidents Using Causal Machine Learning](<https://doi.org/10.21203/rs.3.rs-11654311/v1>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [TypeSeg\: Content-Type Segmentation for Mixed Text](<https://doi.org/10.1145/3847352.3848105>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [TRIAGE-CPG\: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models](<https://doi.org/10.1145/3847352.3848112>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Double Blind Evals\: Resolving the Dual Confidentiality Dilemma in AI Safety Auditing](<https://arxiv.org/abs/2611.12604v1>) | Paper | Verified affiliation |
 | 2026‑11‑07 | [Frequency-Aware Indexing for Spatio-Textual Data Streams](<https://doi.org/10.1145/3862470>) | Article | OpenAlex |
+| 2026‑11‑07 | [Detent\: Batch-Invariant LLM Serving and RL Rollouts at Near-Stock Speed](<https://doi.org/10.48550/arxiv.2611.10611>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [DraftMind\: Efficient Video Understanding in Vision-Language Models via Chain of Draft](<https://doi.org/10.1145/3767308.3835704>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [What’s Next\: Agentic AI in 2026 and Beyond](<https://doi.org/10.1007/978-3-032-39096-7_22>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Tools, Skills, and Structured Outputs](<https://doi.org/10.1007/978-3-032-39096-7_3>) | Book chapter | OpenAlex |
@@ -1735,6 +1737,7 @@
 | 2026 | [Fisheye3R\: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses](<https://research.google/pubs/fisheye3r-adapting-unified-3d-feed-forward-foundation-models-to-fisheye-lenses/>) | Publication | OpenAlex, Official page |
 | 2026 | [FabScore\: Fine-Grained Evaluation of Fabrications in Automated AI Research](<https://research.google/pubs/fabscore-fine-grained-evaluation-of-fabrications-in-automated-ai-research/>) | Publication | Official page |
 | 2026 | [FUSE\: Scaling Verification with Zero Labeled Data](<https://research.google/pubs/fuse-scaling-verification-with-zero-labeled-data/>) | Publication | Official page |
+| 2026 | [FM-ChangeNet\: Flow Matching Network for Change Detection](<https://research.google/pubs/fm-changenet-flow-matching-network-for-change-detection/>) | Publication | Official page |
 | 2026 | [Extending the UXR Point of View Playbook\: Triangulating Insights in Complex Developer Domains](<https://research.google/pubs/extending-the-uxr-point-of-view-playbook-triangulating-insights-in-complex-developer-domains/>) | Publication | OpenAlex, Official page |
 | 2026 | [Exponential quantum advantage in processing massive classical data](<https://research.google/pubs/exponential-quantum-advantage-in-processing-massive-classical-data/>) | Publication | Official page, OpenAlex |
 | 2026 | [Expert evaluation of LLM world models\: A high-Tc superconductivity case study](<https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/>) | Publication | Official page |
@@ -2358,8 +2361,8 @@
 | 2025‑07‑01 | [Gemini Robotics On-Device Model Card](<https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-Robotics-On-Device-Model-Card.pdf>) | Model card | Official page |
 | 2025‑07‑01 | [Rethinking Example Selection in the Era of Million-Token Models](<https://deepmind.google/research/publications/102792/>) | Publication | Official page |
 | 2025‑07‑01 | [Statistical or Embodied? Comparing Colorseeing, Colorblind, Painters, and Large Language Models in Their Processing of Color Metaphors](<https://doi.org/10.1111/cogs.70083>) | Article | OpenAlex |
-| 2025‑07‑01 | [Iterative attack-and-defend framework for improving TCR-epitope binding prediction models](<https://doi.org/10.1093/bioinformatics/btaf224>) | Article | OpenAlex |
 | 2025‑07‑01 | [Automated High-Level Code Optimization for Warehouse Performance](<https://doi.org/10.1109/mm.2025.3590033>) | Article | OpenAlex |
+| 2025‑07‑01 | [Iterative attack-and-defend framework for improving TCR-epitope binding prediction models](<https://doi.org/10.1093/bioinformatics/btaf224>) | Article | OpenAlex |
 | 2025‑07‑01 | [StructuReiser\: A Structure‐preserving Video Stylization Method](<https://doi.org/10.1111/cgf.70161>) | Article | OpenAlex |
 | 2025‑07‑01 | [Improved mapping between illuminations and sensors for RAW images](<https://doi.org/10.1364/josaa.561327>) | Article | OpenAlex |
 | 2025‑07‑01 | [Enhancing Self-Supervised Visual Representation Learning via Low-Rank Adapted LLMs](<https://arxiv.org/abs/2507.00754>) | Preprint | OpenAlex |

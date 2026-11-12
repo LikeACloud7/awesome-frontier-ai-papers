@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4070`
-- Latest: `2026-11-09`
+- Papers: `4071`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [TreeAgent\: Structure-Aware Memory Agent for Processing Long Hierarchical Data](<https://arxiv.org/abs/2611.13946v1>) | Paper | Verified affiliation |
 | 2026‑11‑09 | [Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling](<https://arxiv.org/abs/2608.29322>) | Article | OpenAlex |
 | 2026‑11‑06 | [MOON3\.0\: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](<https://arxiv.org/abs/2604.00513>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [MAR-GRPO\: Stabilized GRPO for AR-diffusion Hybrid Image Generation](<http://arxiv.org/abs/2604.06966>) | Conference paper | OpenAlex |

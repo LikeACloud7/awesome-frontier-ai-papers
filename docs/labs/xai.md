@@ -1,7 +1,7 @@
 # xAI Papers
 
 - Region: `US`
-- Papers: `13`
+- Papers: `14`
 - Latest: `2026-10-27`
 - [Back to README](../../README.md#xai)
 
@@ -20,6 +20,7 @@
 |---|---|---|---|
 | 2025‑11‑05 | [Grok 2 Open-Weights Model Card](<https://huggingface.co/xai-org/grok-2>) | Model card | Official report |
 | 2025‑07‑01 | [Automated High-Level Code Optimization for Warehouse Performance](<https://doi.org/10.1109/mm.2025.3590033>) | Article | OpenAlex |
+| 2025‑03‑12 | [Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$P Parametrization](<http://arxiv.org/abs/2503.09565>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [PaTH Attention\: Position Encoding via Accumulating Householder Transformations](<https://www.microsoft.com/en-us/research/publication/path-attention-position-encoding-via-accumulating-householder-transformations/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Perception Encoder\: The best visual embeddings are not at the output of the network](<https://ai.meta.com/research/publications/perception-encoder-the-best-visual-embeddings-are-not-at-the-output-of-the-network/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Can Diffusion Models Disentangle? A Theoretical Perspective](<https://doi.org/10.52202/085713-0015>) | Conference paper | OpenAlex |
