@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1930`
+- Papers: `1932`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#metafair)
 
@@ -59,6 +59,7 @@
 | 2026‑11‑04 | [EDIVA\: Exploiting Human Behavioral Patterns for Differential Egocentric Video Processing in AR](<https://doi.org/10.1145/3845814.3850080>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Towards Efficient Whole Page Ranking with One-Pass Inference](<https://arxiv.org/abs/2611.05542>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [OGX\: An Open-Source, Vendor-Neutral Generative AI Application Server](<https://arxiv.org/abs/2608.14580>) | Article | OpenAlex |
+| 2026‑11‑01 | [Divergence Framework for Uncertainty-Aware Portfolio Defence on Structural Stress and Sentiment Noise](<https://doi.org/10.1922/comdem.v3i6s.19018>) | Article | OpenAlex |
 | 2026‑11‑01 | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
 | 2026‑10‑31 | [Step-dLLM\: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](<https://arxiv.org/abs/2611.01320>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [Interactively Teaching Collaborative Physical Tasks to Generative AI with Narrated Demonstrations](<https://doi.org/10.1145/3830398.3830568>) | Conference paper | OpenAlex |
@@ -69,9 +70,10 @@
 | 2026‑10‑29 | [The future of foreign language education\: Generative AI scientists’ perspective](<https://doi.org/10.1111/flan.70083>) | Article | OpenAlex |
 | 2026‑10‑29 | [Dobb\: Shard-Local Preconditioning in Block-Diagonal Eigenbases](<https://arxiv.org/abs/2610.39412>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Beyond IPS\: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities](<https://arxiv.org/abs/2610.40112>) | Preprint | OpenAlex |
-| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [White House Accord on Super Intelligence\: Joint Commitment on Frontier Responsibilities](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [Interpretable and Validatable Uplift Modeling](<https://arxiv.org/abs/2610.37966>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Towards Boundary‐Aware Clustering Approach to Identifying Critical Nodes in Transportation Networks](<https://doi.org/10.1002/cpe.70962>) | Article | OpenAlex |
+| 2026‑10‑26 | [Real-Time Epidemic Forecasting Across Heterogeneous Populations\: A Multi-Source Volatility-Gated Ensemble Framework](<https://doi.org/10.1922/comdem.v3i6s.19017>) | Article | OpenAlex |
 | 2026‑10‑25 | [InteractiveWorld\: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](<https://huggingface.co/papers/2610.33966>) | Paper | Hugging Face |
 | 2026‑10‑23 | [When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots](<https://arxiv.org/abs/2610.32883>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [When Does Pre-Trained Capacity Help Causal Learning? From Scalar Prediction to Counterfactual Post-Training](<https://arxiv.org/abs/2610.33311>) | Preprint | OpenAlex |

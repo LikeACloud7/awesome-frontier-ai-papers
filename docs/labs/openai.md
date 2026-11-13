@@ -26,7 +26,7 @@
 | 2026‑11‑02 | [LifeVal](<https://openai.com/index/lifeval>) | Research post | Official page |
 | 2026‑10‑30 | [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>) | Research post | Official page |
 | 2026‑10‑29 | [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>) | Research post | Official page |
-| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [White House Accord on Super Intelligence\: Joint Commitment on Frontier Responsibilities](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑26 | [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>) | Research post | Official page |
 | 2026‑10‑26 | [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>) | Research post | Official page |
 | 2026‑10‑22 | [UserArena\: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](<https://arxiv.org/abs/2610.30932v1>) | Paper | OpenAlex, Verified affiliation |

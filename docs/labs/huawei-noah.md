@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4206`
-- Latest: `2026-11-09`
+- Papers: `4214`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,19 +15,26 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [Turning Multi-Agent Communication into Token-Level Credit with On Policy Self Distillation](<https://arxiv.org/abs/2611.16206v1>) | Paper | Verified affiliation |
+| 2026‑11‑11 | [TerraLingua\: Open-ended Emergence of Societies in an LLM Ecology](<https://doi.org/10.21203/rs.3.rs-9931417/v1>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [RAWVAR\: Visual Autoregressive Modeling for Color-Faithful Low-Light RAW Image Restoration](<https://doi.org/10.1145/3842554>) | Article | OpenAlex |
 | 2026‑11‑09 | [PhotoMaster\: Learning Holistic Capture-Time Decisions for Guided Photography Reshooting](<https://doi.org/10.1145/3842543>) | Article | OpenAlex |
 | 2026‑11‑09 | [Hierarchical Structured Latents for Efficient 3D Generation](<https://doi.org/10.1145/3842496>) | Article | OpenAlex |
+| 2026‑11‑07 | [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](<https://arxiv.org/abs/2611.10840>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [MACaQ\: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](<https://arxiv.org/abs/2611.10649>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [CinemaTraj\: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents](<https://arxiv.org/abs/2607.26910>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [UniGarment\: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization](<https://doi.org/10.1145/3767308.3835607>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [Trajectory Forcing\: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation](<https://arxiv.org/abs/2611.09096>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Structural invariant augmentation for graph contrastive learning based on optimal transport](<https://doi.org/10.1007/s10115-026-02915-x>) | Article | OpenAlex |
 | 2026‑11‑06 | [Semantic-Centric Cross-Domain Learning for Dual-Incremental Object Detection](<https://doi.org/10.1145/3767308.3835279>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [RuACT\: Recovering Inactive Rubrics as Adaptive Critics and Teachers](<https://arxiv.org/abs/2611.09597>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [RadAR\: Accelerating Autoregressive Visual Generation with Radial Decoding](<https://doi.org/10.1145/3767308.3835138>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [PBU-ReCab\: Partial Backbone Unfreezing and Retrospective Calibration for Domain-Incremental Object Detection](<https://doi.org/10.1145/3767308.3835791>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Multimodal-Guided Diffusion Model for Composite Image Lighting Adaptation via Curriculum Lighting Learning](<https://doi.org/10.1145/3767308.3835090>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [From Structure to Details\: Asynchronous Diffusion Refinement for Multispectral and Panchromatic Image Fusion](<https://doi.org/10.1145/3767308.3835305>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing](<http://arxiv.org/abs/2504.04784>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Continuous Masked Diffusion for Autonomous Driving](<https://doi.org/10.1145/3767308.3835501>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [Adaptive Scheduling Pipeline for Multi-Instance Asynchronous Reinforcement Learning](<https://arxiv.org/abs/2611.08864>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Agentic Software Engineering\: Foundational Pillars and a Research Roadmap](<https://arxiv.org/abs/2509.06216>) | Article | OpenAlex |
 | 2026‑11‑05 | [GS-STVSR\: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting](<https://arxiv.org/abs/2604.18047>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [UpCLIP\: Upcycling CLIP with Shared and Fine-grained Experts](<https://doi.org/10.1145/3767308.3836244>) | Conference paper | OpenAlex |
@@ -67,6 +74,7 @@
 | 2026‑10‑30 | [TraceSpec\: Understanding and Improving Speculative Decoding for LLM Agents](<https://arxiv.org/abs/2610.41177>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [Error Tolerant Neural Media Codecs for 6G AI-on-RAN](<https://doi.org/10.1145/3842721.3856775>) | Conference paper | OpenAlex |
 | 2026‑10‑30 | [Any Forcing\: Any-Step Generality and One-Step Stability for Autoregressive Video Generation](<https://arxiv.org/abs/2610.42031>) | Preprint | OpenAlex |
+| 2026‑10‑30 | [Calibration of Large Model Quantization based on HiFloat4 Format](<https://arxiv.org/abs/2610.41112v2>) | Paper | Verified affiliation |
 | 2026‑10‑29 | [PhysAg3D\: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets](<https://arxiv.org/abs/2610.39924>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Coupled Guidance for Flow Matching](<https://arxiv.org/abs/2610.40109>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Agentic, Autonomous Design Evolution of Machine-Learned Interatomic Potentials](<https://doi.org/10.1021/prechem.6c00099>) | Article | OpenAlex |

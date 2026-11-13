@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3818`
+- Papers: `3824`
 - Latest: `2026-11-10`
 - [Back to README](../../README.md#amazon)
 
@@ -20,6 +20,8 @@
 | 2026‑11‑10 | [Guessing Without Momentum](<https://doi.org/10.34740/kaggle/w/123952>) | Article | OpenAlex |
 | 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
 | 2026‑11‑07 | [Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation](<https://doi.org/10.1145/3841458.3841541>) | Conference paper | OpenAlex |
+| 2026‑11‑07 | [Permute-then-Adapt\: Weak-to-Strong Contrastive Image-Text Adaptation](<https://arxiv.org/abs/2611.10714>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](<https://arxiv.org/abs/2611.09554>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Healthcare Transaction Authorization and Management Computer Device](<https://doi.org/10.71097/ijsat.v17.i4.11686>) | Article | OpenAlex |
 | 2026‑11‑06 | [Automated De-identification Solution for Medical DICOM Datasets](<https://doi.org/10.1007/978-3-032-31709-4_14>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [zkARc\: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification](<https://doi.org/10.48550/arxiv.2611.10031>) | Preprint | OpenAlex |
@@ -628,7 +630,6 @@
 | 2026‑03‑20 | [Optimizing Vector Embedding Storage and Indexing for AI at Scale](<https://doi.org/10.47363/jaicc/icmlaids2026/2026%285%291>) | Article | OpenAlex |
 | 2026‑03‑20 | [Detecting Attribute Changes in Entity Records Using Cross-Attention Mechanisms](<https://doi.org/10.1109/icnlp69856.2026.11527676>) | Conference paper | OpenAlex |
 | 2026‑03‑19 | [Scalable Prompt Routing via Fine-Grained Latent Task Discovery](<http://arxiv.org/abs/2603.19415>) | Article | OpenAlex |
-| 2026‑03‑19 | [RADIUS\: Ranking, Distribution, and Significance - A Comprehensive Alignment Suite for Survey Simulation](<http://arxiv.org/abs/2603.19002>) | Article | OpenAlex |
 | 2026‑03‑19 | [Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics](<https://doi.org/10.1080/26941899.2026.2638055>) | Article | OpenAlex |
 | 2026‑03‑19 | [Beyond Charts - Financial Prediction With Language Model &amp; Time Series](<https://doi.org/10.1109/isdfs69419.2026.11459034>) | Conference paper | OpenAlex |
 | 2026‑03‑19 | [Cross-Lingual LLM-Judge Transfer via Evaluation Decomposition](<https://arxiv.org/abs/2603.18557>) | Paper | Verified affiliation |
@@ -974,6 +975,7 @@
 | 2026 | [Align to structure\: Aligning large language models with structural information](<https://www.amazon.science/publications/align-to-structure-aligning-large-language-models-with-structural-information>) | Publication | Official page, OpenAlex |
 | 2026 | [A neurosymbolic approach to natural language formalization and verification](<https://www.amazon.science/publications/a-neurosymbolic-approach-to-natural-language-formalization-and-verification>) | Publication | Official page, OpenAlex |
 | 2026 | [∆YNAMICS\: Language-based representation for inferring rigid-body dynamics from videos](<https://www.amazon.science/publications/ynamics-language-based-representation-for-inferring-rigid-body-dynamics-from-videos>) | Publication | Official page |
+| 2026 | [fev-bench\: A realistic benchmark for time series forecasting](<https://www.amazon.science/publications/fev-bench-a-realistic-benchmark-for-time-series-forecasting>) | Publication | Official page |
 | 2026 | [Zodiac — Zero-inflated overshoot controlled dual-head integration for asymmetric cross-domain forecasting](<https://www.amazon.science/publications/zodiac-zero-inflated-overshoot-controlled-dual-head-integration-for-asymmetric-cross-domain-forecasting>) | Publication | Official page |
 | 2026 | [Zero-shot Bayesian optimization with TabPFN\: Competitive with state-of-the-art without per-task training](<https://www.amazon.science/publications/zero-shot-bayesian-optimization-with-tabpfn-competitive-with-state-of-the-art-without-per-task-training>) | Publication | Official page |
 | 2026 | [Why one size doesn't fit all\: Improving music discovery and familiar listening with specialized models](<https://www.amazon.science/publications/why-one-size-doesnt-fit-all-improving-music-discovery-and-familiar-listening-with-specialized-models>) | Publication | Official page, OpenAlex |
@@ -1006,6 +1008,7 @@
 | 2026 | [USAD 2\.0\: Scaling representation distillation for universal audio understanding](<https://www.amazon.science/publications/usad-2-0-scaling-representation-distillation-for-universal-audio-understanding>) | Publication | Official page |
 | 2026 | [UNISAF-BENCH\: Intention-grounded safety evaluation for unified multimodal generation models](<https://www.amazon.science/publications/unisaf-bench-intention-grounded-safety-evaluation-for-unified-multimodal-generation-models>) | Publication | Official page |
 | 2026 | [Trustworthy LLM-based rule learning for auditable agentic decision-making](<https://www.amazon.science/publications/trustworthy-llm-based-rule-learning-for-auditable-agentic-decision-making>) | Publication | Official page |
+| 2026 | [Trust, but don't verify\: Epistemic blind spots in LLM source evaluation](<https://www.amazon.science/publications/trust-but-dont-verify-epistemic-blind-spots-in-llm-source-evaluation>) | Publication | Official page |
 | 2026 | [TritonRL\: Training LLMs to think and code Triton without cheating](<https://www.amazon.science/publications/tritonrl-training-llms-to-think-and-code-triton-without-cheating>) | Publication | Official page |
 | 2026 | [Trie automata for constrained decoding over large finite sets](<https://www.amazon.science/publications/trie-automata-for-constrained-decoding-over-large-finite-sets>) | Publication | Verified affiliation, Official page |
 | 2026 | [Trajectory2Task\: Training robust tool-calling agents with synthesized yet verifiable data for complex user intents](<https://www.amazon.science/publications/trajectory2task-training-robust-tool-calling-agents-with-synthesized-yet-verifiable-data-for-complex-user-intents>) | Publication | Official page, OpenAlex |
@@ -1061,6 +1064,7 @@
 | 2026 | [Safe and sufficient caching\: Per-request validated evidence reuse for production retrieval-augmented generation](<https://www.amazon.science/publications/safe-and-sufficient-caching-per-request-validated-evidence-reuse-for-production-retrieval-augmented-generation>) | Publication | Official page |
 | 2026 | [SWAN\: Semantic watermarking with abstract meaning representation](<https://www.amazon.science/publications/swan-semantic-watermarking-with-abstract-meaning-representation>) | Publication | Official page, OpenAlex |
 | 2026 | [SQL-Trail\: multi-turn reinforcement learning with interleaved feedback for text-to-SQL](<https://www.amazon.science/publications/sql-trail-multi-turn-reinforcement-learning-with-interleaved-feedback-for-text-to-sql>) | Publication | Official page, OpenAlex |
+| 2026 | [SPLICE\: Structured prompt local iterative combinatorial evolution](<https://www.amazon.science/publications/splice-structured-prompt-local-iterative-combinatorial-evolution>) | Publication | Official page |
 | 2026 | [SPANUQ\: Span-level uncertainty quantification for large language model generation](<https://www.amazon.science/publications/spanuq-span-level-uncertainty-quantification-for-large-language-model-generation>) | Publication | Official page |
 | 2026 | [SELENE\: Selective and evidence-weighted LLM debating for efficient and reliable reasoning](<https://www.amazon.science/publications/selene-selective-and-evidence-weighted-llm-debating-for-efficient-and-reliable-reasoning>) | Publication | Official page, OpenAlex |
 | 2026 | [SALT\: Step-level advantage assignment for long-horizon agents via trajectory graph](<https://www.amazon.science/publications/salt-step-level-advantage-assignment-for-long-horizon-agents-via-trajectory-graph>) | Publication | Official page, OpenAlex |
@@ -1082,10 +1086,12 @@
 | 2026 | [Reflect and retrieve\: Multimodal agentic retrieval with reflection and query agents for document search](<https://www.amazon.science/publications/reflect-and-retrieve-multimodal-agentic-retrieval-with-reflection-and-query-agents-for-document-search>) | Publication | Official page |
 | 2026 | [Reasoning with memory\: Adaptive information management for retrieval-augmented generation](<https://www.amazon.science/publications/reasoning-with-memory-adaptive-information-management-for-retrieval-augmented-generation>) | Publication | Official page, OpenAlex |
 | 2026 | [Real-time multi-robot motion planning with safe-interval search and learning-guided repair](<https://www.amazon.science/publications/real-time-multi-robot-motion-planning-with-safe-interval-search-and-learning-guided-repair>) | Publication | Official page, OpenAlex |
+| 2026 | [Reading and steering a vision language action policy in English with action-grounded supervision](<https://www.amazon.science/publications/reading-and-steering-a-vision-language-action-policy-in-english-with-action-grounded-supervision>) | Publication | Official page |
 | 2026 | [ROPOLL\: Robust panel of LLM judges](<https://www.amazon.science/publications/ropoll-robust-panel-of-llm-judges>) | Publication | Official page |
 | 2026 | [RMIR\: A benchmark dataset for reasoning-intensive multimodal image retrieval](<https://www.amazon.science/publications/rmir-a-benchmark-dataset-for-reasoning-intensive-multimodal-image-retrieval>) | Publication | Official page |
 | 2026 | [REVES\: REvision and VErification–augmented training for test-time scaling](<https://www.amazon.science/publications/reves-revision-and-verification-augmented-training-for-test-time-scaling>) | Publication | Official page |
 | 2026 | [RECoRD\: A multi-agent LLM framework for reverse engineering codebase to causal relational diagram](<https://www.amazon.science/publications/record-a-multi-agent-llm-framework-for-reverse-engineering-codebase-to-causal-relational-diagram>) | Publication | Official page |
+| 2026 | [RADIUS\: Ranking, distribution, and significance—A comprehensive alignment suite for survey simulation](<https://www.amazon.science/publications/radius-ranking-distribution-and-significance-a-comprehensive-alignment-suite-for-survey-simulation>) | Publication | OpenAlex, Official page |
 | 2026 | [QUORUM\: QUality-Optimized Routing Using Multiple annotators](<https://www.amazon.science/publications/quorum-quality-optimized-routing-using-multiple-annotators>) | Publication | Verified affiliation, Official page |
 | 2026 | [QJL is 1-bit compressive sensing\: An equivalence and its consequences for KV cache compression in LLMs](<https://www.amazon.science/publications/qjl-is-1-bit-compressive-sensing-an-equivalence-and-its-consequences-for-kv-cache-compression-in-llms>) | Publication | Official page |
 | 2026 | [Progressive fine-tuning for cost-effective structured attribute generation in e-commerce](<https://www.amazon.science/publications/progressive-fine-tuning-for-cost-effective-structured-attribute-generation-in-e-commerce>) | Publication | Official page, OpenAlex |

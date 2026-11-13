@@ -1,19 +1,24 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1547`
-- Latest: `2026-11-10`
+- Papers: `1553`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [Theoretical Limits of Language Model Alignment](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) | Publication | Official page |
+| 2026‑11‑12 | [Split-and-scale Latent 3D Representations](<https://arxiv.org/abs/2611.16126v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [JudgeMix\: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents](<https://arxiv.org/abs/2611.16174v1>) | Paper | Verified affiliation |
 | 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
 | 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |
 | 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
 | 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
+| 2026‑11‑09 | [reComposer\: Editable Planning for Controllable Image Generation](<https://arxiv.org/abs/2611.12687v1>) | Paper | Verified affiliation |
 | 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
+| 2026‑11‑06 | [GSynPEF\: A Privacy Evaluation Framework for Synthetic Graphs](<https://arxiv.org/abs/2611.10185>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [On Agentic Manipulation Policies](<https://arxiv.org/abs/2611.09892v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [Faster Retrieval for Better, More Efficient RAG](<https://machinelearning.apple.com/research/faster-retrieval>) | Research post | Official page |
 | 2026‑11‑04 | [Perceptive Humanoid Motion from Simulation](<https://arxiv.org/abs/2611.06908v1>) | Paper | Verified affiliation |
@@ -23,6 +28,7 @@
 | 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](<https://arxiv.org/abs/2610.39264>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Beyond the Readout\: A Latent Numerical Frame Shared Across Modality and Operation](<https://arxiv.org/abs/2610.37422>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](<https://arxiv.org/abs/2610.37648v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [iPrefBench\: A User-Centric Benchmark for Personalized Mobile Use Agents](<https://arxiv.org/abs/2610.34735>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [EvoBench\: An Evolving, Diagnostic Benchmark Framework for Environmental Modeling](<https://arxiv.org/abs/2610.35464>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [PRISM\: Promoting Sampling Diversity of Large Language Models with Implicit Stochastic Modulation](<https://arxiv.org/abs/2610.32101>) | Preprint | OpenAlex |

@@ -17,7 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑07 | [SepLRM\: A Foundation Model Paradigm for Recommendation](<https://arxiv.org/abs/2611.10356v1>) | Paper | Verified affiliation |
+| 2026‑11‑07 | [SepLRM\: A Foundation Model Paradigm for Recommendation](<https://arxiv.org/abs/2611.10356v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑06 | [GVR-Coder\: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios](<https://arxiv.org/abs/2607.28073>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [SAIL-Unify\: Hierarchical Interleaving Augmented Holistic Bilateral Synergy in Unified Multimodal Models](<https://doi.org/10.1145/3767308.3835522>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Rethinking Low-Frequency Bias in Transformers for Crowd Localization](<https://doi.org/10.1145/3767308.3835124>) | Conference paper | OpenAlex |

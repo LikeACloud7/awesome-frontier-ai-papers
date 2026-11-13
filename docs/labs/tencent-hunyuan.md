@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3953`
+- Papers: `3956`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -33,6 +33,9 @@
 | 2026‑11‑06 | [Beyond Chain-of-Thought\: Rewrite as a Universal Interface for Generative Multimodal Embeddings](<https://arxiv.org/abs/2604.22280>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Proster\: Prototype-driven human-style outline generation](<https://doi.org/10.1016/j.ipm.2026.105222>) | Article | OpenAlex |
 | 2026‑11‑06 | [MESS\: Deep Reasoning and Multimodal Agentic Framework for Evolutionary Survey Synthesis](<https://doi.org/10.1145/3767308.3835209>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [MARS\: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition](<https://arxiv.org/abs/2611.09090>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems](<https://arxiv.org/abs/2611.10096>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [BitDecoding-FP4\: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](<https://arxiv.org/abs/2611.09825>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [FewStepRL\: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](<https://huggingface.co/papers/2611.08240>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑05 | [PhyAVBench\: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](<https://arxiv.org/abs/2512.23994>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [QoEVMA\: 4th Workshop on Quality of Experience (QoE) in Visual Multimedia Applications](<https://doi.org/10.1145/3767308.3842127>) | Conference paper | OpenAlex |

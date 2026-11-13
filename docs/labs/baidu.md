@@ -1,15 +1,18 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1138`
-- Latest: `2026-11-07`
+- Papers: `1142`
+- Latest: `2026-11-09`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [SWE-Time\: Benchmarking Temporal Repository Understanding](<https://arxiv.org/abs/2611.12083>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [From User Behaviors to Satisfaction Judgments\: Reasoning about User Satisfaction with AI Overviews](<https://arxiv.org/abs/2611.10715>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [RoadState\: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating](<https://arxiv.org/abs/2611.10746v1>) | Paper | Verified affiliation |
+| 2026‑11‑06 | [Rethinking Latent Reasoning for Generative Recommendation\: Beyond Teacher-Generated CoT and Recurrent Hidden-State Feedback](<https://arxiv.org/abs/2611.09006>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [AIM\: Learning from Modality Asymmetry via Information-Theoretic Modeling for Image-Text Retrieval](<https://doi.org/10.1145/3767308.3835076>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis](<https://arxiv.org/abs/2611.07553>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Agent-R$^2$\: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](<https://arxiv.org/abs/2611.08219>) | Preprint | OpenAlex |
@@ -18,6 +21,7 @@
 | 2026‑11‑02 | [PaddleMaterials\: An End-to-End Deep Learning Toolkit for Materials Science](<https://arxiv.org/abs/2611.03154>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [MicroMouse\: Masking Harmful Supervision in Long CoT via Relative Potential](<https://arxiv.org/abs/2611.02710>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Low-Rank Hierarchical Merging for Efficient Long-to-Short Reasoning](<https://arxiv.org/abs/2611.03834>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [A Study on Consistency Verification Between ESG Statements and Actions Based on Large Language Models](<https://doi.org/10.1016/j.ribaf.2026.103702>) | Article | OpenAlex |
 | 2026‑10‑31 | [MarkovTS\: Pretrained State-Transition Representations for Zero-Shot Time Series Generation](<https://arxiv.org/abs/2611.00941>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [SCARL\: Sequence Confidence-Aligned Reinforcement Learning](<https://arxiv.org/abs/2610.40407>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Reward-Adaptive Co-Evolution of Policy and Rubric](<https://arxiv.org/abs/2610.40096>) | Preprint | OpenAlex |

@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2206`
-- Latest: `2026-11-09`
+- Papers: `2211`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,12 +16,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [From World Foundation Models to Real-world applications\: An Introduction](<https://doi.org/10.1145/3829249.3837803>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Z++\: Temporal, Non-Uniform, and 3D Z Sampling](<https://doi.org/10.1145/3842533>) | Article | OpenAlex |
 | 2026‑11‑09 | [Validating traces of distributed programs against TLA+ specifications](<https://doi.org/10.1007/s10270-026-01416-3>) | Article | OpenAlex |
 | 2026‑11‑09 | [TOG 45(6) Editorial](<https://doi.org/10.1145/3842938>) | Article | OpenAlex |
 | 2026‑11‑09 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](<https://doi.org/10.1145/3842564>) | Article | OpenAlex |
 | 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation |
+| 2026‑11‑07 | [They Can See It but Not Say It\: Iterative Self Knowledge Re-expression in Visual Reasoning Relative Pose Identification](<https://arxiv.org/abs/2611.10483>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [Pandemonium\: Longform Target-Speaker Speech Recognition with Cross-Speaker Interactions](<https://arxiv.org/abs/2611.10659>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [VFlash\: Fast, Accurate Visual Planning via Flash Primitive Decoding](<https://huggingface.co/papers/2611.08449>) | Paper | Hugging Face |
 | 2026‑11‑05 | [Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](<http://arxiv.org/abs/2511.16602>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [AutoCompress\: Automated Hardware-Guided Model Compression](<https://huggingface.co/papers/2611.08290>) | Paper | Hugging Face |
@@ -59,7 +62,7 @@
 | 2026‑10‑29 | [PhysCount\: Do MLLMs Count Visual Appearances or Physical Entities?](<https://arxiv.org/abs/2610.40530>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [LucidLyra\: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](<https://arxiv.org/abs/2610.40495>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
-| 2026‑10‑27 | [White House Accord on Super Intelligence](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [White House Accord on Super Intelligence\: Joint Commitment on Frontier Responsibilities](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [Assessing Language Models for Scientific Applications\: Inertial Confinement Fusion as a Use Case](<https://arxiv.org/abs/2610.38024>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
@@ -100,6 +103,8 @@
 | 2026‑10‑14 | [Component-Level Inverse Design of Transmon Qubits Using Neural Networks](<https://arxiv.org/abs/2607.20795>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [PrecipCorrDiff\: A Deep Learning Framework for Generating 0\.0625$^\\circ$ High-Resolution IMD Gridded Precipitation Data](<https://arxiv.org/abs/2610.19994>) | Preprint | OpenAlex |
 | 2026‑10‑14 | [One Block Ahead\: Promoting Sampler State in Diffusion Language Models](<https://arxiv.org/abs/2610.19510>) | Preprint | OpenAlex |
+| 2026‑10‑14 | [What Does LALM Post-training Learn? Rethinking Audio Understanding and Reasoning Capabilities](<https://arxiv.org/abs/2610.19476v1>) | Paper | Verified affiliation |
+| 2026‑10‑14 | [Robota-Embed\: Unified VLA Embeddings for Robot In-Context Learning and Evolution](<https://arxiv.org/abs/2610.19495v1>) | Paper | Verified affiliation |
 | 2026‑10‑13 | [ACCRUE\: Continual Off-Policy Reinforcement Learning for Robot Foundation Models](<https://huggingface.co/papers/2610.18596>) | Paper | Hugging Face |
 | 2026‑10‑13 | [LADDER\: A Long-Horizon Robot Manipulation Benchmark](<https://arxiv.org/abs/2610.18053>) | Preprint | OpenAlex |
 | 2026‑10‑13 | [Graph Metanetworks for Transformer Based Language Models](<https://arxiv.org/abs/2610.18471>) | Preprint | OpenAlex |
