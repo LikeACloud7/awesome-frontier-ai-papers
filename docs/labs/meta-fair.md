@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1932`
-- Latest: `2026-11-09`
+- Papers: `1934`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,9 +44,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [Reasoning Under Promised Distributions\: Evaluating LLMs on Black-Box Reduction Rigor](<https://doi.org/10.1007/978-3-032-42447-1_7>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [OmniFaceRig\: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies](<https://arxiv.org/abs/2606.08043>) | Article | OpenAlex |
 | 2026‑11‑09 | [Snapshot Polarimetric Display Inverse Rendering](<https://arxiv.org/abs/2605.24915>) | Article | OpenAlex |
 | 2026‑11‑09 | [AROMA \: Augmented Reality Optimized Tone Mapping](<https://doi.org/10.1145/3842539>) | Article | OpenAlex |
+| 2026‑11‑07 | [BAmbiDrop\: Array-Agnostic Speech Enhancement with Zero-Shot binaural Reproduction using Multi-center Ambisonics Encoding](<https://arxiv.org/abs/2611.10561>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [TransText\: Alpha-as-RGB Representation for Transparent Text Animation](<http://arxiv.org/abs/2603.17944>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Active eye modeling\: a tool for estimating retinal image quality across the visual field in everyday life](<https://doi.org/10.64898/2026.11.04.764163>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Bridging VLMs and Embodied Intelligence with Deliberate Practice Policy Optimization](<http://arxiv.org/abs/2511.16602>) | Conference paper | OpenAlex |

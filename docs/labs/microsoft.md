@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4363`
-- Latest: `2026-11-11`
+- Papers: `4374`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -31,6 +31,7 @@
 | n\.d\. | [VLaRL\: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL](<https://www.microsoft.com/en-us/research/publication/vlarl-augmenting-vision-language-action-models-with-simulation-trained-latent-conditioned-residual-rl/>) | Publication | Official page |
 | n\.d\. | [VLMGuard\: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild](<https://www.microsoft.com/en-us/research/publication/vlmguard-bootstrapping-malicious-prompt-detectors-from-unlabeled-vision-language-prompts-in-the-wild/>) | Publication | Official page |
 | n\.d\. | [VEM\: Environment-Free Exploration for Training GUI Agent with Value Environment Model](<https://www.microsoft.com/en-us/research/publication/vem-environment-free-exploration-for-training-gui-agent-with-value-environment-model/>) | Publication | Official page |
+| n\.d\. | [VASTRA\: Efficient Agentic Top-K Interactive Video Analysis](<https://www.microsoft.com/en-us/research/publication/vastra-efficient-agentic-top-k-interactive-video-analysis/>) | Publication | Official page |
 | n\.d\. | [Using Large Language Models to Support the Workflow of Differential Testing](<https://www.microsoft.com/en-us/research/publication/using-large-language-models-to-support-the-workflow-of-differential-testing/>) | Publication | Official page |
 | n\.d\. | [Understanding Layer Patching in Model Size Interpolation](<https://www.microsoft.com/en-us/research/publication/understanding-layer-patching-in-model-size-interpolation/>) | Publication | Official page |
 | n\.d\. | [Uncertainty-Aware RL-Controlled Adaptive 3D Mapping](<https://www.microsoft.com/en-us/research/publication/uncertainty-aware-rl-controlled-adaptive-3d-mapping/>) | Publication | Official page |
@@ -244,11 +245,20 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
+| 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://doi.org/10.21203/rs.3.rs-11413641/v1>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
 | 2026‑11‑11 | [Composing Lightweight Methods on Deep Neural Network\: A Survey](<https://doi.org/10.21203/rs.3.rs-11232383/v1>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Neural Centroidal Voronoi Tessellations](<https://www.microsoft.com/en-us/research/publication/neural-centroidal-voronoi-tessellations/>) | Publication | Official page, OpenAlex |
+| 2026‑11‑09 | [SceneReVis\: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-Turn RL](<https://arxiv.org/abs/2602.09432>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [PodEval\: A Multimodal Evaluation Framework for Long-form Podcast Generation](<http://arxiv.org/abs/2510.00485>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [Toward Verifiable Auto-Research for Data Systems](<https://arxiv.org/abs/2611.12063>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [AnyStyle\: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](<https://arxiv.org/abs/2602.04043>) | Conference paper | OpenAlex |
 | 2026‑11‑08 | [Perturbing Inputs Improves Pretraining Distillation](<https://arxiv.org/abs/2611.11598>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [WordEval\: Evaluating Word-Native Operation Fidelity in Document Editing](<https://www.microsoft.com/en-us/research/publication/wordeval-evaluating-word-native-operation-fidelity-in-document-editing/>) | Publication | Official page, Verified affiliation, OpenAlex |
+| 2026‑11‑07 | [When Experience Becomes a Backdoor\: Poisoning Self-Evolving LLM Agents via Failure-Aware Task Optimization](<https://arxiv.org/abs/2611.10542>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [The Power of Two Choices in Dynamic Pricing\: As Good As Full Feedback, Instance-Wise](<https://arxiv.org/abs/2611.10345>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [LongCapHarness\: Capability-Guided Auto-Harnessing for Long-Context Reasoning](<https://arxiv.org/abs/2611.10463>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Do links to retracted papers predict future retractions? An out-of-sample test on the open biomedical citation graph](<https://arxiv.org/abs/2611.10474>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Can open citation data detect citation stacking? An audit against Clarivate's journal suppressions](<https://arxiv.org/abs/2611.10471>) | Preprint | OpenAlex |
@@ -259,6 +269,7 @@
 | 2026‑11‑06 | [MemoryDojo\: Benchmarking Poisoning Through LLM Agent Memory](<https://arxiv.org/abs/2611.09721>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [HarnessMinusMinus-V\: Recursive Self-Improvement for Visual Agent Harness Token Efficiency](<https://doi.org/10.66977/xsci.2611.000p>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Frame\: Form-Restricted Authoring with Model-Based Evaluation](<https://arxiv.org/abs/2611.08921>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [BOXBOX\: Recursive Harness Self-Improvement for Long-Running Performance Optimization](<https://arxiv.org/abs/2611.09218>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [AI Exposure and the Changing Responsibilities in Job Postings](<https://arxiv.org/abs/2611.09870>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients](<http://arxiv.org/abs/2401.09637>) | Article | OpenAlex |
 | 2026‑11‑05 | [SMP Challenge - Social Media Popularity Prediction for Images and Videos](<https://doi.org/10.1145/3767308.3838606>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `528`
+- Papers: `529`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#openai)
 
@@ -20,6 +20,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑09 | [Control Room\: A central system to track and stop model workloads across our research infrastructure](<https://openai.com/index/control-room>) | Research post | Official page |
+| 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑06 | [Measuring how AI agents handle everyday wet-lab science](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science>) | Research post | Official page |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Accelerating engineering for the physical world](<https://openai.com/index/accelerating-engineering-for-the-physical-world>) | Research post | Official page |

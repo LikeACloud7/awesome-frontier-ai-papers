@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4214`
+- Papers: `4218`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -15,13 +15,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [TruePix\: Fast and Memory-Efficient Zero-Knowledge Authentication for Images and Videos](<https://doi.org/10.1145/3830454.3846720>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Turning Multi-Agent Communication into Token-Level Credit with On Policy Self Distillation](<https://arxiv.org/abs/2611.16206v1>) | Paper | Verified affiliation |
 | 2026‑11‑11 | [TerraLingua\: Open-ended Emergence of Societies in an LLM Ecology](<https://doi.org/10.21203/rs.3.rs-9931417/v1>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [Hyperbolically guided parameter decoupling diffusion model for all-day adverse weather image restoration](<https://doi.org/10.1016/j.patcog.2026.115275>) | Article | OpenAlex |
 | 2026‑11‑09 | [RAWVAR\: Visual Autoregressive Modeling for Color-Faithful Low-Light RAW Image Restoration](<https://doi.org/10.1145/3842554>) | Article | OpenAlex |
 | 2026‑11‑09 | [PhotoMaster\: Learning Holistic Capture-Time Decisions for Guided Photography Reshooting](<https://doi.org/10.1145/3842543>) | Article | OpenAlex |
+| 2026‑11‑09 | [NumAgent\: Hybrid Numerical and Neural Inference for Automated Physical Field Simulation](<https://doi.org/10.1145/3767308.3836567>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Hierarchical Structured Latents for Efficient 3D Generation](<https://doi.org/10.1145/3842496>) | Article | OpenAlex |
 | 2026‑11‑07 | [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](<https://arxiv.org/abs/2611.10840>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [MACaQ\: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](<https://arxiv.org/abs/2611.10649>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [From Reflection to Co-Evolution\: Self-Evolving Agents with Locally Verified Memory](<https://arxiv.org/abs/2611.10382>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [CinemaTraj\: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents](<https://arxiv.org/abs/2607.26910>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [UniGarment\: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization](<https://doi.org/10.1145/3767308.3835607>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Trajectory Forcing\: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation](<https://arxiv.org/abs/2611.09096>) | Preprint | OpenAlex |

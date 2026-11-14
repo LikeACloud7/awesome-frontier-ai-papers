@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1553`
+- Papers: `1554`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#apple)
 
@@ -16,6 +16,7 @@
 | 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |
 | 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
 | 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
+| 2026‑11‑09 | [Generalized Adaptive Boosting and the Geometry of Mistakes](<https://arxiv.org/abs/2611.12696>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [reComposer\: Editable Planning for Controllable Image Generation](<https://arxiv.org/abs/2611.12687v1>) | Paper | Verified affiliation |
 | 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
 | 2026‑11‑06 | [GSynPEF\: A Privacy Evaluation Framework for Synthetic Graphs](<https://arxiv.org/abs/2611.10185>) | Preprint | OpenAlex |

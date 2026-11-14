@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1910`
-- Latest: `2026-11-07`
+- Papers: `1918`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,6 +17,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [TWIST\: Private Tenant-Dedicated LLM Serving via Joint Model-Token Transformation](<https://doi.org/10.1145/3830454.3846779>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [LightShift\: Infinite Relighting via Real-time Diffusion Renderer](<https://doi.org/10.1145/3829334.3849467>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [BACAgent\: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications](<https://doi.org/10.1145/3830454.3832642>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [Swap-JEPA\: Learning Latent Correspondences for Zero-shot Object Swapping in Live Shopping](<https://doi.org/10.1145/3767308.3835350>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [IF-Bench\: Evaluating Instruction Following in Video Embedding Models via Controlled Preference Flips](<https://doi.org/10.1145/3767308.3835566>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [HumanSightBench\: A Benchmark for Human Visual Perception in MLLMs](<https://arxiv.org/abs/2611.12305>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [D2-MT\: Dynamic Discrepancy-Aware Mean Teacher for Source-Free Domain Adaptive Object Detection](<https://doi.org/10.1145/3767308.3835817>) | Conference paper | OpenAlex |
+| 2026‑11‑08 | [Spatial Harness\: Grounding Spatial Reasoning in Executable World States with Physics Engines](<https://arxiv.org/abs/2611.11344>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [SepLRM\: A Foundation Model Paradigm for Recommendation](<https://arxiv.org/abs/2611.10356v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑06 | [GVR-Coder\: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios](<https://arxiv.org/abs/2607.28073>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [SAIL-Unify\: Hierarchical Interleaving Augmented Holistic Bilateral Synergy in Unified Multimodal Models](<https://doi.org/10.1145/3767308.3835522>) | Conference paper | OpenAlex |

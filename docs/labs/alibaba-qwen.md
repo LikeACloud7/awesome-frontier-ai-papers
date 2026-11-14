@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4085`
+- Papers: `4091`
 - Latest: `2026-11-10`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -20,8 +20,14 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑10 | [TreeAgent\: Structure-Aware Memory Agent for Processing Long Hierarchical Data](<https://arxiv.org/abs/2611.13946v1>) | Paper | Verified affiliation |
+| 2026‑11‑09 | [Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization](<https://arxiv.org/abs/2412.03876>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling](<https://arxiv.org/abs/2608.29322>) | Article | OpenAlex |
+| 2026‑11‑09 | [TS-GEAR\: Taobao Shangou GEnerative Ad Retrieval](<https://arxiv.org/abs/2611.12180>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [SkillDuet\: Co-Evolving Models and Skills through Response Feedback](<https://arxiv.org/abs/2611.12109>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [ShopMind\: A Mental World Model for Personalized and Realistic E-commerce User Simulation](<https://arxiv.org/abs/2611.11897>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [OverlapAdvisor\: Modeling and Adapting Computation-Communication Overlap for Distributed MoE Serving](<https://arxiv.org/abs/2611.11857>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [Calibrating Document-Local Boundaries for Contextual Chunk Retrieval](<https://arxiv.org/abs/2611.12097>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [TRIAD\: Multimodal Retrieval across Abstraction, Constraints, and State](<https://arxiv.org/abs/2611.12364v1>) | Paper | Verified affiliation |
 | 2026‑11‑07 | [SWEET\: Mitigating Spurious Feature Reliance in LLM Reasoning via Weight Editing](<https://arxiv.org/abs/2611.10974>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [MOON3\.0\: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](<https://arxiv.org/abs/2604.00513>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [MAR-GRPO\: Stabilized GRPO for AR-diffusion Hybrid Image Generation](<http://arxiv.org/abs/2604.06966>) | Conference paper | OpenAlex |
@@ -146,9 +152,9 @@
 | 2026‑10‑24 | [The Future Is Finer\: Multivariate Time Series Super-Resolution Forecasting](<https://arxiv.org/abs/2610.33470>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Qwen-Image-PE\: Learning Visual Design for Text-to-Image Prompt Enhancement](<https://huggingface.co/papers/2610.33472>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑23 | [SyncPro\: Synchronous Reasoning and Responding for Proactive Streaming Video Understanding](<https://arxiv.org/abs/2610.32132v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑10‑23 | [ImageRSI\: Verification-Driven Recursive Self-Improvement for Agentic Image Generation](<https://arxiv.org/abs/2610.32120>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [RynnUnify\: Towards Unified Embodied Brain](<https://arxiv.org/abs/2610.32965>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Past as State, Present as Attention\: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](<https://arxiv.org/abs/2610.32373>) | Preprint | OpenAlex |
-| 2026‑10‑23 | [ImageRSI\: Verification-Driven Recursive Self-Improvement for Agentic Image Generation](<https://arxiv.org/abs/2610.32120>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [Cross3DReg\: A Real-world Cross-source Point Cloud Registration Benchmark](<https://doi.org/10.1007/s11263-026-03095-5>) | Article | OpenAlex |
 | 2026‑10‑23 | [4DMemory\: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents](<https://arxiv.org/abs/2610.32332>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [SCI-AGENT-EXAM\: Benchmarking Agents on Scientific Research Tasks](<https://huggingface.co/papers/2610.32441>) | Preprint | OpenAlex, Official page |
@@ -1818,10 +1824,10 @@
 | 2025‑12‑10 | [Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration](<http://arxiv.org/abs/2512.09407>) | Preprint | OpenAlex |
 | 2025‑12‑10 | [FUSER\: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](<https://arxiv.org/abs/2512.09373>) | Preprint | OpenAlex |
 | 2025‑12‑10 | [An Efficient Interaction Human-AI Synergy System Bridging Visual Awareness and Large Language Model for Intensive Care Units](<http://arxiv.org/abs/2512.09473>) | Preprint | OpenAlex |
+| 2025‑12‑09 | [MIRAGE\: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks](<https://arxiv.org/abs/2512.08289>) | Preprint | OpenAlex |
 | 2025‑12‑09 | [VLSA\: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer](<https://arxiv.org/abs/2512.11891>) | Preprint | OpenAlex |
 | 2025‑12‑09 | [Toward Multi-Source Sky-Ground Re-Identification\: A New Benchmark and an Innovative Approach](<https://doi.org/10.1109/tmm.2025.3639913>) | Article | OpenAlex |
 | 2025‑12‑09 | [MM-CoT\:A Benchmark for Probing Visual Chain-of-Thought Reasoning in Multimodal Models](<http://arxiv.org/abs/2512.08228>) | Preprint | OpenAlex |
-| 2025‑12‑09 | [MIRAGE\: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks](<https://arxiv.org/abs/2512.08289>) | Preprint | OpenAlex |
 | 2025‑12‑09 | [Improved graph random multi-relational sandcat swarm coupled attention network-driven alignment of objectives and key results through heterogeneous collaboration and semantic networks](<https://doi.org/10.1007/s11235-025-01378-9>) | Article | OpenAlex |
 | 2025‑12‑09 | [EcomBench\: Towards Holistic Evaluation of Foundation Agents in E-commerce](<http://arxiv.org/abs/2512.08868>) | Preprint | OpenAlex |
 | 2025‑12‑09 | [Disrupting Hierarchical Reasoning\: Adversarial Protection for Geographic Privacy in Multimodal Reasoning Models](<http://arxiv.org/abs/2512.08503>) | Preprint | OpenAlex |
@@ -2620,6 +2626,7 @@
 | 2025‑01‑01 | [R-KV\: Redundancy-aware KV Cache Compression for Reasoning Models](<https://www.microsoft.com/en-us/research/publication/r-kv-redundancy-aware-kv-cache-compression-for-reasoning-models/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [GPT4RoI\: Instruction Tuning Large Language Model on Region-of-Interest](<https://doi.org/10.1007/978-3-031-91813-1_4>) | Book chapter | OpenAlex |
 | 2025‑01‑01 | [Sequential construction of stable nitrogen–oxygen compounds using high-throughput quantum mechanical calculations and customized machine learning model](<https://doi.org/10.1039/d5ta00267b>) | Article | OpenAlex |
+| 2025‑01‑01 | [OpenCUA\: Open Foundations for Computer-Use Agents](<https://doi.org/10.52202/085713-4669>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Knowledge Graph-Guided Retrieval Augmented Generation](<http://arxiv.org/abs/2502.06864>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [BumbleBee\: Secure Two-party Inference Framework for Large Transformers](<https://doi.org/10.14722/ndss.2025.230057>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Multi-SWE-bench\: A Multilingual Benchmark for Issue Resolving](<https://seed.bytedance.com/en/research/multi-swe-bench-a-multilingual-benchmark-for-issue-resolving>) | Publication | Official page, OpenAlex |
@@ -2686,7 +2693,6 @@
 | 2025‑01‑01 | [WebDancer\: Towards Autonomous Information Seeking Agency](<http://arxiv.org/abs/2505.22648>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [SD-VLM\: Spatial Measuring and Understanding with Depth-Encoded Vision-Language Models](<http://arxiv.org/abs/2509.17664>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](<http://arxiv.org/abs/2510.07316>) | Conference paper | OpenAlex |
-| 2025‑01‑01 | [OpenCUA\: Open Foundations for Computer-Use Agents](<https://doi.org/10.52202/085713-4669>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [OmniTalker\: One-shot Real-time Text-Driven Talking Audio-Video Generation With Multimodal Style Mimicking](<http://arxiv.org/abs/2504.02433>) | Preprint | OpenAlex |
 | 2025‑01‑01 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and Harmlessness of Large Language Model via Model Merging](<http://arxiv.org/abs/2502.06876>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Metagent-P\: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds](<https://doi.org/10.18653/v1/2025.findings-acl.1169>) | Conference paper | OpenAlex |

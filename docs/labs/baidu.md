@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1142`
+- Papers: `1144`
 - Latest: `2026-11-09`
 - [Back to README](../../README.md#baidu)
 
@@ -9,7 +9,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑09 | [Hallo-Live\: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation](<https://arxiv.org/abs/2604.23632>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [SWE-Time\: Benchmarking Temporal Repository Understanding](<https://arxiv.org/abs/2611.12083>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [Agentic-OPD\: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [From User Behaviors to Satisfaction Judgments\: Reasoning about User Satisfaction with AI Overviews](<https://arxiv.org/abs/2611.10715>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [RoadState\: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating](<https://arxiv.org/abs/2611.10746v1>) | Paper | Verified affiliation |
 | 2026‑11‑06 | [Rethinking Latent Reasoning for Generative Recommendation\: Beyond Teacher-Generated CoT and Recurrent Hidden-State Feedback](<https://arxiv.org/abs/2611.09006>) | Preprint | OpenAlex |
