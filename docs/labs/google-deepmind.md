@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5812`
+- Papers: `5815`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -16,6 +16,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑12 | [Gemini 4 Hydrogen Model Card](<https://deepmind.google/models/model-cards/gemini-4-hydrogen/>) | Model card | Official page |
+| 2026‑11‑11 | [GEM-15\: Global surface and terrain elevation models (15 meters) from sub-meter optical stereo imagery](<https://eartharxiv.org/repository/object/16034/download/27743/>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Gemini 4 Carbon Model Card](<https://deepmind.google/models/model-cards/gemini-4-carbon/>) | Model card | Official page |
 | 2026‑11‑10 | [Automated Root Cause Analysis of Security Incidents Using Causal Machine Learning](<https://doi.org/10.21203/rs.3.rs-11654311/v1>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Generalized Adaptive Boosting and the Geometry of Mistakes](<https://arxiv.org/abs/2611.12696>) | Preprint | OpenAlex |
@@ -75,6 +76,8 @@
 | 2026‑11‑03 | [AI-Based MRI Radiomics for Preoperative Detection of Tumor Deposits in Rectal Cancer\: A Bivariate Diagnostic Accuracy Meta-analysis](<https://doi.org/10.64898/2026.11.02.26367109>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [HuBMAP Data Portal\: a resource for multimodal spatial and single-cell data of healthy human tissues](<https://arxiv.org/abs/2511.05708>) | Article | OpenAlex |
 | 2026‑11‑02 | [Retrodicting Chaotic Systems\: An Algorithmic Information Theory Approach](<http://arxiv.org/abs/2507.04780>) | Article | OpenAlex |
+| 2026‑11‑02 | [The World as a Canvas\: Materializing Imagination through Prompting the Physical World](<https://doi.org/10.1145/3830397.3842699>) | Conference paper | OpenAlex |
+| 2026‑11‑02 | [The AI-Augmented Maker\: Challenges and Opportunities in Designing Intelligence for Community-driven DIY Cultures](<https://doi.org/10.1145/3830397.3842692>) | Conference paper | OpenAlex |
 | 2026‑11‑02 | [SearchInject\: Retrieval Exposure Control for Indirect Prompt Injection in Language-Model Search](<https://arxiv.org/abs/2611.02643>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [InterPro\: the protein sequence classification resource in 2027](<https://doi.org/10.1093/nar/gkag1114>) | Article | OpenAlex |
 | 2026‑11‑02 | [Evaluation of transfer learning in hydrological forecasting using ensemble LSTM models\: a statistical approach to uncertainty and accuracy](<https://doi.org/10.3389/frwa.2026.1896829>) | Article | OpenAlex |
@@ -1571,6 +1574,7 @@
 | 2026 | [ADCanvas\: Accessible and Conversational Audio Description Authoring for Blind and Low Vision Creators](<https://research.google/pubs/adcanvas-accessible-and-conversational-audio-description-authoring-for-blind-and-low-vision-creators/>) | Publication | Official page, OpenAlex |
 | 2026 | [“ Catching lightning in a bottle”\: How Blind or Low Vision Creators Navigate Ideation Across Creative Domains](<https://research.google/pubs/catching-lightning-in-a-bottle-how-blind-or-low-vision-creators-navigate-ideation-across-creative-domains/>) | Publication | Official page, OpenAlex |
 | 2026 | [SymptomAI\: Toward a Conversational AI Agent for Everyday Symptom Assessment](<https://research.google/pubs/symptomai-toward-a-conversational-ai-agent-for-everyday-symptom-assessment/>) | Publication | OpenAlex, Verified affiliation, Official page |
+| 2026 | [Semantic Representation for Agentic Self-Play in Automated Laboratories](<https://research.google/pubs/semantic-representation-for-agentic-self-play-in-automated-laboratories/>) | Publication | OpenAlex, Official page |
 | 2026 | [Raman Spectroscopy Pre-Trained Encoder\: A Self-Supervised Learning Approach For Data-Efficient Domain-Independent Spectroscopy Analysis](<https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/>) | Publication | Official page, OpenAlex |
 | 2026 | [Promise or Peril? Exploring Black Adults' Perspectives on the Use of Artificial Intelligence in Health Contexts](<https://research.google/pubs/promise-or-peril-exploring-black-adults-perspectives-on-the-use-of-artificial-intelligence-in-health-contexts/>) | Publication | Official page, OpenAlex |
 | 2026 | [OpenClaw in the Wild\: Security Analysis of Autonomous Agents](<https://research.google/pubs/openclaw-in-the-wild-security-analysis-of-autonomous-agents/>) | Publication | Official page, OpenAlex |
@@ -1632,7 +1636,6 @@
 | 2026 | [Solving an open problem in theoretical physics using AI-assisted discovery](<https://research.google/pubs/solving-an-open-problem-in-theoretical-physics-using-ai-assisted-discovery/>) | Publication | Official page, OpenAlex |
 | 2026 | [Smarter tools, weaker minds? Introducing the CTRL theory of Youth–AI dependency](<https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/>) | Publication | Official page |
 | 2026 | [Silicon-Level Sovereignty\: Root of Trust in AI Accelerators (Digital Trust &amp; Policy)](<https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/>) | Publication | Official page |
-| 2026 | [Semantic Representation for Agentic Self-Play in Automated Laboratories](<https://research.google/pubs/semantic-representation-for-agentic-self-play-in-automated-laboratories/>) | Publication | OpenAlex, Official page |
 | 2026 | [Seeing vs\. Counting\: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams](<https://research.google/pubs/seeing-vs-counting-complexity-twins-show-where-multimodal-llms-fail-on-diagrams/>) | Publication | Official page |
 | 2026 | [See2Refine\: Vision-Language Feedback Improves LLM-Based eHMI Action Designers](<https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/>) | Publication | Official page, OpenAlex |
 | 2026 | [Securing the Agentic Enterprise](<https://research.google/pubs/securing-the-agentic-enterprise/>) | Publication | Official page |

@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4091`
-- Latest: `2026-11-10`
+- Papers: `4098`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,7 +19,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑10 | [TreeAgent\: Structure-Aware Memory Agent for Processing Long Hierarchical Data](<https://arxiv.org/abs/2611.13946v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [Harmonized Time–Frequency Multi-scale Network for Anomaly Detection](<https://doi.org/10.1007/978-3-032-31995-1_67>) | Conference paper | OpenAlex |
+| 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression](<https://arxiv.org/abs/2611.13620>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [Program-Aided Patchable Skill Evolution](<https://arxiv.org/abs/2611.14019>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [Beyond Passive Imitation\: On-Policy Mid-Training Distillation for Language Models](<https://arxiv.org/abs/2611.13855>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [TreeAgent\: Structure-Aware Memory Agent for Processing Long Hierarchical Data](<https://arxiv.org/abs/2611.13946v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑09 | [Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization](<https://arxiv.org/abs/2412.03876>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling](<https://arxiv.org/abs/2608.29322>) | Article | OpenAlex |
 | 2026‑11‑09 | [TS-GEAR\: Taobao Shangou GEnerative Ad Retrieval](<https://arxiv.org/abs/2611.12180>) | Preprint | OpenAlex |
@@ -29,6 +34,7 @@
 | 2026‑11‑09 | [Calibrating Document-Local Boundaries for Contextual Chunk Retrieval](<https://arxiv.org/abs/2611.12097>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [TRIAD\: Multimodal Retrieval across Abstraction, Constraints, and State](<https://arxiv.org/abs/2611.12364v1>) | Paper | Verified affiliation |
 | 2026‑11‑07 | [SWEET\: Mitigating Spurious Feature Reliance in LLM Reasoning via Weight Editing](<https://arxiv.org/abs/2611.10974>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [ADIndex\: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation](<https://arxiv.org/abs/2611.12956>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [MOON3\.0\: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](<https://arxiv.org/abs/2604.00513>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [MAR-GRPO\: Stabilized GRPO for AR-diffusion Hybrid Image Generation](<http://arxiv.org/abs/2604.06966>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework](<https://arxiv.org/abs/2608.28630>) | Conference paper | OpenAlex |
@@ -52,6 +58,7 @@
 | 2026‑11‑05 | [Training-Free Image Editing with Visual Context Integration and Concept Alignment](<http://arxiv.org/abs/2604.04487>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [SAVeR$^2$\: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards](<https://arxiv.org/abs/2611.07482>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [QAQ\: Query-based Attack for Query-based Object Detection](<https://doi.org/10.1145/3767308.3836471>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [NINJA\: A Navigator-Inspector Joint Architecture for Context-Efficient Issue Localization](<https://arxiv.org/abs/2611.10027>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [MEvince\: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports](<https://arxiv.org/abs/2611.07486>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [INSURE\: Inference-Time Defense Framework for Securing Agents against Hijacking](<https://doi.org/10.1145/3767308.3836055>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Hitchcock-300K\: A Master-Level Camera Control Dataset for Video Generation and Editing](<https://doi.org/10.1145/3767308.3838647>) | Conference paper | OpenAlex |
@@ -1288,11 +1295,11 @@
 | 2026‑03‑18 | [Adapting Technical-Service LLM Agents with Latent Logic Augmentation, Robust Noise Reduction, and Hybrid Reward Modeling](<https://arxiv.org/abs/2603.18074>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [HopChain\: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](<https://huggingface.co/papers/2603.17024>) | Technical report | Official page, OpenAlex |
 | 2026‑03‑17 | [Evo-Retriever\: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval](<http://arxiv.org/abs/2603.16455>) | Article | OpenAlex |
+| 2026‑03‑17 | [Grounding the Score\: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models](<https://arxiv.org/abs/2603.16253>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [The AutoResearch Moment\: From Experimenter to Research Director](<https://doi.org/10.20944/preprints202603.1329.v1>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation](<http://arxiv.org/abs/2603.16373>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [Rationale Matters\: Learning Transferable Rubrics via Proxy-Guided Critique for VLM Reward Models](<http://arxiv.org/abs/2603.16600>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [Lamba\: A pretrained model for latency prediction over distributed databases](<https://doi.org/10.1007/s00778-026-00970-y>) | Article | OpenAlex |
-| 2026‑03‑17 | [Grounding the Score\: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models](<https://arxiv.org/abs/2603.16253>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [Concept Drift and Long-Tailed Distribution in Fine-Grained Visual Categorization\: Benchmark and Method](<https://doi.org/10.1109/tpami.2026.3674763>) | Article | OpenAlex |
 | 2026‑03‑16 | [Shopping Companion\: Benchmarking and Training LLM Agents for Long-Horizon Preference-Grounded E-Commerce Tasks](<https://arxiv.org/abs/2603.14864>) | Preprint | OpenAlex |
 | 2026‑03‑16 | [Simple is Better\: Multiplication May Be All You Need for LLM Request Scheduling](<https://arxiv.org/abs/2603.15202>) | Preprint | OpenAlex |

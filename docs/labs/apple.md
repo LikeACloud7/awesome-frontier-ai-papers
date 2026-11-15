@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1554`
+- Papers: `1557`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#apple)
 
@@ -16,8 +16,9 @@
 | 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |
 | 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
 | 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
+| 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Generalized Adaptive Boosting and the Geometry of Mistakes](<https://arxiv.org/abs/2611.12696>) | Preprint | OpenAlex |
-| 2026‑11‑09 | [reComposer\: Editable Planning for Controllable Image Generation](<https://arxiv.org/abs/2611.12687v1>) | Paper | Verified affiliation |
+| 2026‑11‑09 | [reComposer\: Editable Planning for Controllable Image Generation](<https://arxiv.org/abs/2611.12687v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑07 | [Wrist photoplethysmography encodes dietary information](<http://arxiv.org/abs/2511.19260>) | Article | OpenAlex |
 | 2026‑11‑06 | [GSynPEF\: A Privacy Evaluation Framework for Synthetic Graphs](<https://arxiv.org/abs/2611.10185>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [On Agentic Manipulation Policies](<https://arxiv.org/abs/2611.09892v1>) | Paper | Verified affiliation |
@@ -26,6 +27,8 @@
 | 2026‑11‑03 | [Attention to Mamba\: A Recipe for Cross-Architecture Distillation](<https://machinelearning.apple.com/research/attention-mamba-distillation>) | Publication | Official page |
 | 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Agnostic Learning by Imitating](<https://arxiv.org/abs/2611.05346v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑11‑02 | [Towards Benchmarking Screen Reader Use in Computer Use Agents](<https://doi.org/10.1145/3830397.3841803>) | Conference paper | OpenAlex |
+| 2026‑11‑02 | [Revibing HCI\: Agentic Reimplementation as Community Practice](<https://doi.org/10.1145/3830397.3842697>) | Conference paper | OpenAlex |
 | 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](<https://arxiv.org/abs/2610.39264>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Beyond the Readout\: A Latent Numerical Frame Shared Across Modality and Operation](<https://arxiv.org/abs/2610.37422>) | Preprint | OpenAlex |

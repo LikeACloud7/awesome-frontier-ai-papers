@@ -13,7 +13,7 @@
 | 2026‑11‑09 | [SWE-Time\: Benchmarking Temporal Repository Understanding](<https://arxiv.org/abs/2611.12083>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Agentic-OPD\: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [From User Behaviors to Satisfaction Judgments\: Reasoning about User Satisfaction with AI Overviews](<https://arxiv.org/abs/2611.10715>) | Preprint | OpenAlex |
-| 2026‑11‑07 | [RoadState\: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating](<https://arxiv.org/abs/2611.10746v1>) | Paper | Verified affiliation |
+| 2026‑11‑07 | [RoadState\: A Domain-Prior-Enhanced Vision-Language System for Industrial-Grade Lane-Level Map Updating](<https://arxiv.org/abs/2611.10746v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑06 | [Rethinking Latent Reasoning for Generative Recommendation\: Beyond Teacher-Generated CoT and Recurrent Hidden-State Feedback](<https://arxiv.org/abs/2611.09006>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [AIM\: Learning from Modality Asymmetry via Information-Theoretic Modeling for Image-Text Retrieval](<https://doi.org/10.1145/3767308.3835076>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Improving Long-Tail Detection via Layout-Instruction Conditioned Diffusion Synthesis](<https://arxiv.org/abs/2611.07553>) | Preprint | OpenAlex |
@@ -266,8 +266,8 @@
 | 2026‑04‑19 | [OPSDL\: On-Policy Self-Distillation for Long-Context Language Models](<https://arxiv.org/abs/2604.17535>) | Preprint | OpenAlex |
 | 2026‑04‑17 | [MNAFT\: modality neuron-aware fine-tuning of multimodal large language models for image translation](<https://arxiv.org/abs/2604.16943>) | Article | OpenAlex |
 | 2026‑04‑15 | [Introducing ERNIE-Image](<https://ernie.baidu.com/blog/posts/ernie-image/>) | Technical report | Official page |
-| 2026‑04‑14 | [KnowRL\: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](<https://arxiv.org/abs/2604.12627>) | Preprint | OpenAlex |
 | 2026‑04‑14 | [DPC-VQA\: Decoupling Quality Perception and Residual Calibration for Video Quality Assessment](<https://arxiv.org/abs/2604.12813>) | Preprint | OpenAlex |
+| 2026‑04‑14 | [KnowRL\: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](<https://arxiv.org/abs/2604.12627>) | Preprint | OpenAlex |
 | 2026‑04‑13 | [FlexSpec\: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding](<https://doi.org/10.1109/tmc.2026.3683574>) | Article | OpenAlex |
 | 2026‑04‑10 | [VISOR\: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](<https://arxiv.org/abs/2604.09508>) | Preprint | OpenAlex |
 | 2026‑04‑09 | [Probe-and-Fetch\: Dynamic KV Cache Pruning for Accelerated Long-Context Inference in Web-Scale AI Search](<https://doi.org/10.1145/3774904.3792794>) | Article | OpenAlex |

@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4218`
+- Papers: `4223`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,13 +16,17 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑12 | [TruePix\: Fast and Memory-Efficient Zero-Knowledge Authentication for Images and Videos](<https://doi.org/10.1145/3830454.3846720>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [Mitigating Code Injection Attacks on Modern GPUs](<https://doi.org/10.1145/3830454.3832680>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Turning Multi-Agent Communication into Token-Level Credit with On Policy Self Distillation](<https://arxiv.org/abs/2611.16206v1>) | Paper | Verified affiliation |
 | 2026‑11‑11 | [TerraLingua\: Open-ended Emergence of Societies in an LLM Ecology](<https://doi.org/10.21203/rs.3.rs-9931417/v1>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Hyperbolically guided parameter decoupling diffusion model for all-day adverse weather image restoration](<https://doi.org/10.1016/j.patcog.2026.115275>) | Article | OpenAlex |
+| 2026‑11‑10 | [DEIA\: Evidence-Grounded Crash Repair with Change-Aware Test Design for HarmonyOS ArkTS](<https://arxiv.org/abs/2611.14064>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [XAI-Driven Confidence Estimation for OOD-Resilient Runtime Prediction](<https://arxiv.org/abs/2611.13199>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [RAWVAR\: Visual Autoregressive Modeling for Color-Faithful Low-Light RAW Image Restoration](<https://doi.org/10.1145/3842554>) | Article | OpenAlex |
 | 2026‑11‑09 | [PhotoMaster\: Learning Holistic Capture-Time Decisions for Guided Photography Reshooting](<https://doi.org/10.1145/3842543>) | Article | OpenAlex |
 | 2026‑11‑09 | [NumAgent\: Hybrid Numerical and Neural Inference for Automated Physical Field Simulation](<https://doi.org/10.1145/3767308.3836567>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Hierarchical Structured Latents for Efficient 3D Generation](<https://doi.org/10.1145/3842496>) | Article | OpenAlex |
+| 2026‑11‑09 | [D 2 PO\: Dual-Direction Preference Optimization via Adaptive Distribution Alignment for Vision-Language Models](<https://doi.org/10.1145/3767308.3834972>) | Conference paper | OpenAlex |
 | 2026‑11‑07 | [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](<https://arxiv.org/abs/2611.10840>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [MACaQ\: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](<https://arxiv.org/abs/2611.10649>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [From Reflection to Co-Evolution\: Self-Evolving Agents with Locally Verified Memory](<https://arxiv.org/abs/2611.10382>) | Preprint | OpenAlex |
@@ -73,6 +77,7 @@
 | 2026‑11‑01 | [Same Trajectory, Different Knowledge\: Information-State-Aware On-Policy Distillation for Search Agents](<https://arxiv.org/abs/2611.01987>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [EMBERS\: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing](<https://arxiv.org/abs/2611.03723>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Ascend-SpMM\: Accelerating Sparse Matrix-Dense Matrix Multiplication on Ascend NPUs](<https://arxiv.org/abs/2611.01936>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [A survey of on-policy distillation in the era of large language models\: Approaches, theoretical analysis and research directions](<https://doi.org/10.1016/j.neucom.2026.135647>) | Article | OpenAlex |
 | 2026‑10‑31 | [Denoising Multiuser Interference Enabled Iterative AI Receiver](<https://arxiv.org/abs/2611.00910>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [Verify--Backtrack Loop\: Structured Precondition Recovery for Long-Horizon Language Agents](<https://arxiv.org/abs/2610.41564>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [TraceSpec\: Understanding and Improving Speculative Decoding for LLM Agents](<https://arxiv.org/abs/2610.41177>) | Preprint | OpenAlex |

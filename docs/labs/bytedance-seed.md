@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1918`
+- Papers: `1919`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -30,6 +30,7 @@
 | 2026‑11‑06 | [SAIL-Unify\: Hierarchical Interleaving Augmented Holistic Bilateral Synergy in Unified Multimodal Models](<https://doi.org/10.1145/3767308.3835522>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Rethinking Low-Frequency Bias in Transformers for Crowd Localization](<https://doi.org/10.1145/3767308.3835124>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Deduplicate Before You Aggregate\: Efficient Clip Encoding for Scalable Video Retrieval](<https://doi.org/10.1145/3767308.3835060>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [DAC-MACE\: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization](<https://arxiv.org/abs/2611.10263>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Cross-Layer TopK\: Dynamically Allocating Sparsity Across Layers in Transcoders](<https://arxiv.org/abs/2611.09233v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [Training-Free Predictive Spatio-Temporal Token Pruning for Few-Step Autoregressive Video Diffusion](<https://arxiv.org/abs/2611.07551>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Semantic-Embedded Bitstream\: An INR-based Image Compression Framework Supporting Instant Editing](<https://doi.org/10.1145/3767308.3835875>) | Conference paper | OpenAlex |

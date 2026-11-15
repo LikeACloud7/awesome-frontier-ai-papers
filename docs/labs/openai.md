@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `529`
-- Latest: `2026-11-09`
+- Papers: `530`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [Deep Personalization\: Continuous Context Observation for Local Proactive Agents](<https://arxiv.org/abs/2611.13457>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Control Room\: A central system to track and stop model workloads across our research infrastructure](<https://openai.com/index/control-room>) | Research post | Official page |
 | 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑06 | [Measuring how AI agents handle everyday wet-lab science](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science>) | Research post | Official page |

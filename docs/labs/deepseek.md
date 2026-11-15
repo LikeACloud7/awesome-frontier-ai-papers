@@ -1,7 +1,7 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `53`
+- Papers: `51`
 - Latest: `2026-10-07`
 - [Back to README](../../README.md#deepseek)
 
@@ -25,12 +25,11 @@
 | 2026‑09‑16 | [DeepSeek-V4\.1-Flash\: Pushing the Limits of KV Cache Compression](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf>) | Technical report | Official page, Official repo, Hugging Face, Verified affiliation |
 | 2026‑08‑31 | [Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening](<https://arxiv.org/abs/2608.30877v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [A Programming Paradigm for Spatiotemporal Composability](<https://huggingface.co/papers/2608.25512>) | Technical report | Official page, OpenAlex |
-| 2026‑08‑11 | [DualPath\: Accelerating Agentic LLM Inference by Harvesting Disaggregated KV-Cache Storage I/O](<https://doi.org/10.1145/3789240.3829159>) | Conference paper | OpenAlex |
 | 2026‑07‑05 | [DSpark\: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](<https://huggingface.co/papers/2607.05147>) | Preprint | Hugging Face, Official page, OpenAlex |
 | 2026‑06‑26 | [DSpark](<https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf>) | Technical report | Official repo |
 | 2026‑05‑12 | [PRISM\: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](<https://huggingface.co/papers/2605.13027>) | Technical report | Official page |
 | 2026‑04‑24 | [DeepSeek-V4\: Towards Highly Efficient Million-Token Context Intelligence](<https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash/blob/main/DeepSeek_V4.pdf>) | Technical report | Official report, Official page, Hugging Face |
-| 2026‑02‑24 | [DualPath\: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference](<https://huggingface.co/papers/2602.21548>) | Technical report | Official page |
+| 2026‑02‑24 | [DualPath\: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference](<https://huggingface.co/papers/2602.21548>) | Technical report | OpenAlex, Official page |
 | 2026‑01‑28 | [DeepSeek-OCR 2\: Visual Causal Flow](<https://huggingface.co/papers/2601.20552>) | Technical report | Official page, Hugging Face |
 | 2026‑01‑01 | [Conditional Memory via Scalable Lookup\: A New Axis of Sparsity for Large Language Models](<https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf>) | Technical report | Official report, Official page, Official repo, OpenAlex |
 | 2026‑01‑01 | [A COMPARATIVE VIEW OF ARTIFICIAL INTELLIGENCE REGULATION IN THE EUROPEAN UNION, JAPAN, PEOPLE’S REPUBLIC OF CHINA, AND THE UNITED STATES OF AMERICA](<http://hdl.handle.net/10150/680275>) | Article | OpenAlex |
@@ -47,12 +46,11 @@
 | 2025‑10‑20 | [DeepSeek-OCR\: Contexts Optical Compression](<https://huggingface.co/papers/2510.18234>) | Technical report | Official page, Hugging Face |
 | 2025‑10‑13 | [The Faiss Library](<https://doi.org/10.1109/tbdata.2025.3618474>) | Article | OpenAlex |
 | 2025‑10‑09 | [China’s emerging regulation toward an open future for AI](<https://doi.org/10.1126/science.ady7922>) | Article | OpenAlex |
-| 2025‑09‑17 | [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](<https://doi.org/10.1038/s41586-025-09422-z>) | Article | OpenAlex |
 | 2025‑05‑14 | [Insights into DeepSeek-V3\: Scaling Challenges and Reflections on Hardware for AI Architectures](<https://huggingface.co/papers/2505.09343>) | Technical report | Official page, OpenAlex, Hugging Face |
 | 2025‑04‑30 | [DeepSeek-Prover-V2\: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](<https://huggingface.co/papers/2504.21801>) | Technical report | Official page, Hugging Face, OpenAlex |
 | 2025‑04‑03 | [Inference-Time Scaling for Generalist Reward Modeling](<https://huggingface.co/papers/2504.02495>) | Technical report | Official page |
 | 2025‑01‑29 | [Janus-Pro\: Unified Multimodal Understanding and Generation with Data and Model Scaling](<https://huggingface.co/papers/2501.17811>) | Technical report | Official page |
-| 2025‑01‑22 | [DeepSeek-R1\: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](<https://huggingface.co/papers/2501.12948>) | Technical report | Official page, Hugging Face |
+| 2025‑01‑22 | [DeepSeek-R1\: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](<https://huggingface.co/papers/2501.12948>) | Technical report | OpenAlex, Official page, Hugging Face |
 | 2025‑01‑01 | [Native Sparse Attention\: Hardware-Aligned and Natively Trainable Sparse Attention](<https://huggingface.co/papers/2502.11089>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [ShapeGPT\: 3D Shape Generation With a Unified Multi-Modal Language Model](<https://doi.org/10.1109/tmm.2025.3535389>) | Article | OpenAlex |
 

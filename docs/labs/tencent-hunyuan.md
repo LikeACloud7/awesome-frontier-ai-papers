@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3961`
-- Latest: `2026-11-09`
+- Papers: `3964`
+- Latest: `2026-11-10`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,12 +26,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑10 | [ESDCodec\: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding](<https://arxiv.org/abs/2611.14043>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [ForgeryVCR\: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization](<https://arxiv.org/abs/2602.14098>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [PartLLM\: A Unified Multimodal Foundation for 3D Part Segmentation](<https://arxiv.org/abs/2609.25832>) | Article | OpenAlex |
 | 2026‑11‑09 | [VISTA\: Visual-textual Inspector for Step-wise Trajectory Failure Attribution](<https://doi.org/10.1145/3767308.3836559>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Unified Multimodal Model Proficient in Continued Training](<https://doi.org/10.1145/3767308.3836563>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [HAP-DS\: Hierarchical Action Parsing with Differentiable Sampling for Open-vocabulary Fine-grained Action Recognition](<https://doi.org/10.1145/3767308.3834974>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Can LLM Agents Organize Their Own Memory?](<https://arxiv.org/abs/2611.11929>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Yuanbao-Reranker\: Document-Grounded Synthesis and Preference Distillation for Text Reranking](<https://arxiv.org/abs/2611.10405>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [Steer Unified Audio Editing Toward Reliable Source Selection](<https://arxiv.org/abs/2611.10630>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [DraftMind\: Efficient Video Understanding in Vision-Language Models via Chain of Draft](<https://doi.org/10.1145/3767308.3835704>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [SpiderPTG\: Any-to-Many Multimodal LLM](<http://arxiv.org/abs/2411.09439>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Beyond Chain-of-Thought\: Rewrite as a Universal Interface for Generative Multimodal Embeddings](<https://arxiv.org/abs/2604.22280>) | Conference paper | OpenAlex |
@@ -2335,6 +2338,7 @@
 | 2025‑01‑01 | [Evaluation of Retrieval-Augmented Generation\: A Survey](<https://doi.org/10.1007/978-981-96-1024-2_8>) | Book chapter | OpenAlex |
 | 2025‑01‑01 | [An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-Tuning](<https://doi.org/10.1109/taslpro.2025.3606231>) | Article | OpenAlex |
 | 2025‑01‑01 | [ViewCrafter\: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](<https://doi.org/10.1109/tpami.2025.3613256>) | Article | OpenAlex |
+| 2025‑01‑01 | [ShapeGPT\: 3D Shape Generation With a Unified Multi-Modal Language Model](<https://doi.org/10.1109/tmm.2025.3535389>) | Article | OpenAlex |
 | 2025‑01‑01 | [Recent Advances in Speech Language Models\: A Survey](<https://doi.org/10.18653/v1/2025.acl-long.682>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [MuQ\: Self-Supervised Music Representation Learning With Mel Residual Vector Quantization](<https://doi.org/10.1109/taslpro.2025.3602320>) | Article | OpenAlex |
 | 2025‑01‑01 | [MME\: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](<http://arxiv.org/abs/2306.13394>) | Conference paper | OpenAlex |
@@ -2343,7 +2347,6 @@
 | 2025‑01‑01 | [Right Question is Already Half the Answer\: Fully Unsupervised LLM Reasoning Incentivization](<https://huggingface.co/papers/2504.05812>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [POINTS-Reader\: Distillation-Free Adaptation of Vision-Language Models for Document Conversion](<https://huggingface.co/papers/2509.01215>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [MOF-BFN\: Metal-Organic Frameworks Structure Prediction via Bayesian Flow Networks](<https://www.microsoft.com/en-us/research/publication/mof-bfn-metal-organic-frameworks-structure-prediction-via-bayesian-flow-networks/>) | Publication | Official page, OpenAlex |
-| 2025‑01‑01 | [ShapeGPT\: 3D Shape Generation With a Unified Multi-Modal Language Model](<https://doi.org/10.1109/tmm.2025.3535389>) | Article | OpenAlex |
 | 2025‑01‑01 | [Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models](<https://doi.org/10.18653/v1/2025.findings-acl.350>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [LTD-Bench\: Evaluating Large Language Models by Letting Them Draw](<https://huggingface.co/papers/2511.02347>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](<https://huggingface.co/papers/2506.01413>) | Technical report | Official page, OpenAlex |

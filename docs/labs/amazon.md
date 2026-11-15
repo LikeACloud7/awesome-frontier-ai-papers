@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3832`
-- Latest: `2026-11-12`
+- Papers: `3840`
+- Latest: `2026-11-13`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,12 +16,15 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑13 | [Bloom unifies brain cell representations across modalities and contexts](<https://doi.org/10.64898/2026.11.11.765881>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Reinforcement Learning to Rank Using Coarse-grained Rewards](<http://arxiv.org/abs/2208.07563>) | Article | OpenAlex |
 | 2026‑11‑12 | [When Scammers Talk Back\: Understanding Potentially Unwanted Calls via LLM-Based Interaction](<https://doi.org/10.1145/3830454.3846770>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Feature Engineering Is the Bottleneck\: An Explainability Study of ML-Based Security-Relevant Method Detection](<https://doi.org/10.21203/rs.3.rs-10897881/v1>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [An Integrated AI-Driven Methodology for Synthesizing a Digital Similar of Residential PV Adoption](<http://arxiv.org/abs/2410.08098>) | Article | OpenAlex |
 | 2026‑11‑10 | [Guessing Without Momentum](<https://doi.org/10.34740/kaggle/w/123952>) | Article | OpenAlex |
 | 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [Which Successes Make Good References? Action-Sequence Alignment for Multi-Turn On-Policy Distillation](<https://arxiv.org/abs/2611.13135>) | Preprint | OpenAlex |
+| 2026‑11‑09 | [Code-Grounded Agentic Explanations for Static Analysis Vulnerability Findings](<https://arxiv.org/abs/2611.13041>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation](<https://doi.org/10.1145/3841458.3841541>) | Conference paper | OpenAlex |
 | 2026‑11‑07 | [Permute-then-Adapt\: Weak-to-Strong Contrastive Image-Text Adaptation](<https://arxiv.org/abs/2611.10714>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](<https://arxiv.org/abs/2611.09554>) | Preprint | OpenAlex |
@@ -56,7 +59,12 @@
 | 2026‑11‑02 | [Exploring Proximity and Tactile Sensing for Robotic Manipulation](<https://arxiv.org/abs/2611.03489>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Energy-Based Policy Orchestration](<https://arxiv.org/abs/2611.02546>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Conformal prediction for network intrusion triage and analysis of unseen attack families](<https://doi.org/10.1007/s44564-026-00033-y>) | Article | OpenAlex |
+| 2026‑11‑02 | [CompactPack\: From 3D Objects to Fabricable Packaging Inserts](<https://doi.org/10.1145/3830397.3841850>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [IMG-34 Identifying High-Risk Lobe–Subregion Signatures in Diffuse Gliomas Through Multimodal Spatial Feature Classification](<https://doi.org/10.1093/neuonc/noag189.802>) | Conference abstract | OpenAlex |
+| 2026‑11‑01 | [IMG-33 Anatomically Informed Multi-Modality MRI Radiomics for Explainable Survival Prediction in Diffuse Gliomas](<https://doi.org/10.1093/neuonc/noag189.801>) | Conference abstract | OpenAlex |
 | 2026‑11‑01 | [Calibration-Constrained Diagnostics for Evaluating LLM Self-Evaluation](<https://arxiv.org/abs/2611.02253>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [222P A scientist-in-the-loop AI platform using institutional molecular tumor board knowledge for precision oncology curation](<https://doi.org/10.1016/j.esmorw.2026.101036>) | Article | OpenAlex |
+| 2026‑10‑31 | [Unpacking Hateful Memes\: Presupposed Context and False Claims](<https://arxiv.org/abs/2510.09935>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [Behavioral Session Segmentation and Leakage-Safe Purchase-Intent Modeling\: A Methodological Framework](<https://doi.org/10.57159/jcmm.5.5.261319>) | Article | OpenAlex |
 | 2026‑10‑30 | [When Should AI Agents Ask? Clarification Requests Under Limited Human Attention](<https://arxiv.org/abs/2610.41129>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation](<https://arxiv.org/abs/2610.41104>) | Preprint | OpenAlex |
@@ -1292,7 +1300,7 @@
 | 2026 | [Confidence-aware multi-agent orchestration for evaluating multimodal rule compliance](<https://www.amazon.science/publications/confidence-aware-multi-agent-orchestration-for-evaluating-multimodal-rule-compliance>) | Publication | Official page |
 | 2026 | [Concentration beats coverage\: Impact-aware expert review for AI-assisted carbon footprint estimation](<https://www.amazon.science/publications/concentration-beats-coverage-impact-aware-expert-review-for-ai-assisted-carbon-footprint-estimation>) | Publication | Official page |
 | 2026 | [Composite-attribute person re-identification via pose-guided disentanglement](<https://www.amazon.science/publications/composite-attribute-person-re-identification-via-pose-guided-disentanglement>) | Publication | Official page |
-| 2026 | [Comparative evaluation of agent assessment frameworks\: Stability, detection, and discovery in enterprise analytics agents](<https://www.amazon.science/publications/comparative-evaluation-of-agent-assessment-frameworks-stability-detection-and-discovery-in-enterprise-analytics-agents>) | Publication | Official page |
+| 2026 | [Comparative evaluation of agent assessment frameworks\: Stability, detection, and discovery in enterprise analytics agents](<https://www.amazon.science/publications/comparative-evaluation-of-agent-assessment-frameworks-stability-detection-and-discovery-in-enterprise-analytics-agents>) | Publication | Official page, OpenAlex |
 | 2026 | [ColdNet\: Treatment effect estimation with cold-start, imbalance, and zero-inflated outcomes](<https://www.amazon.science/publications/coldnet-treatment-effect-estimation-with-cold-start-imbalance-and-zero-inflated-outcomes>) | Publication | Official page |
 | 2026 | [CodeV\: Code with images for faithful visual reasoning via tool-aware policy optimization](<https://www.amazon.science/publications/codev-code-with-images-for-faithful-visual-reasoning-via-tool-aware-policy-optimization>) | Publication | Official page |
 | 2026 | [CodeScout\: Contextual problem statement enhancement for software agents](<https://www.amazon.science/publications/codescout-contextual-problem-statement-enhancement-for-software-agents>) | Publication | Official page, OpenAlex |
