@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1557`
+- Papers: `1558`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#apple)
 
@@ -33,6 +33,7 @@
 | 2026‑10‑29 | [Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](<https://arxiv.org/abs/2610.39264>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Beyond the Readout\: A Latent Numerical Frame Shared Across Modality and Operation](<https://arxiv.org/abs/2610.37422>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis](<https://arxiv.org/abs/2610.37648v1>) | Paper | Verified affiliation |
+| 2026‑10‑26 | [Compression of Genetic Variation Data in VCF Files](<https://doi.org/10.1142/9789819833696_0007>) | Book chapter | OpenAlex |
 | 2026‑10‑26 | [iPrefBench\: A User-Centric Benchmark for Personalized Mobile Use Agents](<https://arxiv.org/abs/2610.34735>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [EvoBench\: An Evolving, Diagnostic Benchmark Framework for Environmental Modeling](<https://arxiv.org/abs/2610.35464>) | Preprint | OpenAlex |
 | 2026‑10‑23 | [PRISM\: Promoting Sampling Diversity of Large Language Models with Implicit Stochastic Modulation](<https://arxiv.org/abs/2610.32101>) | Preprint | OpenAlex |

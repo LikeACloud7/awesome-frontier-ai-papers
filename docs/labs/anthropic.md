@@ -1,8 +1,8 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `381`
-- Latest: `2026-11-09`
+- Papers: `382`
+- Latest: `2026-11-13`
 - [Back to README](../../README.md#anthropic)
 
 ## No date
@@ -21,6 +21,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑13 | [Aligning AI Teams](<https://arxiv.org/abs/2611.17820v1>) | Paper | Verified affiliation |
 | 2026‑11‑09 | [Exposure is All You Need\: Using LLMs to Identify Critical Endpoints at Internet Scale](<https://doi.org/10.1145/3847352.3848119>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Homeopathic Learning\: Diluting poisoned fine-tuning data can strengthen its effect](<https://arxiv.org/abs/2611.10110v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |

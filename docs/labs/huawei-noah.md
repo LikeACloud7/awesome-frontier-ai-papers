@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4223`
-- Latest: `2026-11-12`
+- Papers: `4229`
+- Latest: `2026-11-14`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,12 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑14 | [FlexMARL\: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2602.09578>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [EMDedup\: Accelerating DLRM via In-Network EMbedding Layer Deduplication](<https://doi.org/10.1145/3828523.3857124>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [DittoCache\: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding](<https://doi.org/10.1145/3828523.3857042>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Detecting and Localizing Network Faults in RoCE-Based AI Clouds under Restricted Telemetry](<https://doi.org/10.1145/3828523.3857027>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [DeltaBox\: Millisecond-Scale Sandbox Checkpoint and Rollback for Stateful AI Agents](<https://doi.org/10.1145/3828523.3857015>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [DiffusionSSD\: Achieving Extreme Visual Compression with Dual-stage Diffusion and Cross-level Near-Data Processing](<https://arxiv.org/abs/2611.17908v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [TruePix\: Fast and Memory-Efficient Zero-Knowledge Authentication for Images and Videos](<https://doi.org/10.1145/3830454.3846720>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Mitigating Code Injection Attacks on Modern GPUs](<https://doi.org/10.1145/3830454.3832680>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Turning Multi-Agent Communication into Token-Level Credit with On Policy Self Distillation](<https://arxiv.org/abs/2611.16206v1>) | Paper | Verified affiliation |

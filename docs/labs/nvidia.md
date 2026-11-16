@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2230`
+- Papers: `2231`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#nvidia)
 
@@ -65,6 +65,7 @@
 | 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
 | 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
+| 2026‑11 | [FOVI-Dex\: Foveation enables efficient perceptive learning of dexterous manipulation in simulation](<https://research.nvidia.com/publication/2026-11_fovi-dex-foveation-enables-efficient-perceptive-learning-dexterous-manipulation>) | Publication | Official page |
 | 2026‑11 | [DemoStream\: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration](<https://research.nvidia.com/publication/2026-11_demostream-batched-task-and-motion-plan-optimization-automated-learning>) | Publication | Official page |
 | 2026‑11 | [ScheduleGen\: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning](<https://research.nvidia.com/publication/2026-11_schedulegen-demonstration-generation-skill-scheduling-multi-arm-imitation>) | Publication | Official page |
 | 2026‑10‑31 | [Learning to fuse and reconstruct multi-view graphs for diabetic retinopathy grading](<http://arxiv.org/abs/2602.21944>) | Article | OpenAlex |

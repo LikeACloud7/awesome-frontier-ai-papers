@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3840`
+- Papers: `3854`
 - Latest: `2026-11-13`
 - [Back to README](../../README.md#amazon)
 
@@ -25,8 +25,21 @@
 | 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Which Successes Make Good References? Action-Sequence Alignment for Multi-Turn On-Policy Distillation](<https://arxiv.org/abs/2611.13135>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Code-Grounded Agentic Explanations for Static Analysis Vulnerability Findings](<https://arxiv.org/abs/2611.13041>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [What Is Agentic Coding? The Evolution Beyond AI Assistants](<https://doi.org/10.1007/979-8-8688-2670-2_1>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [The Road Ahead\: Preparing for the Next Wave of AI Development](<https://doi.org/10.1007/979-8-8688-2670-2_16>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [The Human + AI Developer Model\: Orchestration Principles](<https://doi.org/10.1007/979-8-8688-2670-2_3>) | Book chapter | OpenAlex |
 | 2026‑11‑07 | [Semantic World Priors for Training-Free Cross-Clip Consistency in Black-Box Video Generation](<https://doi.org/10.1145/3841458.3841541>) | Conference paper | OpenAlex |
+| 2026‑11‑07 | [Security, Privacy, and Ethical Considerations in AI Development](<https://doi.org/10.1007/979-8-8688-2670-2_12>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Recent Advances in AI and Autonomous Agents](<https://doi.org/10.1007/979-8-8688-2670-2_4>) | Book chapter | OpenAlex |
 | 2026‑11‑07 | [Permute-then-Adapt\: Weak-to-Strong Contrastive Image-Text Adaptation](<https://arxiv.org/abs/2611.10714>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [Orchestrating Multiple AI Agents\: Team Coordination](<https://doi.org/10.1007/979-8-8688-2670-2_10>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Migration Strategies\: From Traditional to Agentic Development](<https://doi.org/10.1007/979-8-8688-2670-2_14>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Measuring Success\: KPIs and ROI for AI-Augmented Teams](<https://doi.org/10.1007/979-8-8688-2670-2_15>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Integrating Agentic Coding with DevOps and Cloud Infrastructure](<https://doi.org/10.1007/979-8-8688-2670-2_11>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Cursor and GitHub Copilot (Agent Mode)\: Mainstream AI Integration](<https://doi.org/10.1007/979-8-8688-2670-2_7>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Constitutional Coding\: Mastering Claude Code](<https://doi.org/10.1007/979-8-8688-2670-2_8>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Case Studies\: Successful Agentic Coding Transformations](<https://doi.org/10.1007/979-8-8688-2670-2_13>) | Book chapter | OpenAlex |
+| 2026‑11‑07 | [Agent Memory and Context Models\: Building Cognitive Architectures for Agentic Systems](<https://doi.org/10.1007/979-8-8688-2670-2_9>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](<https://arxiv.org/abs/2611.09554>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Healthcare Transaction Authorization and Management Computer Device](<https://doi.org/10.71097/ijsat.v17.i4.11686>) | Article | OpenAlex |
 | 2026‑11‑06 | [Automated De-identification Solution for Medical DICOM Datasets](<https://doi.org/10.1007/978-3-032-31709-4_14>) | Conference paper | OpenAlex |
@@ -84,6 +97,7 @@
 | 2026‑10‑28 | [Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation](<https://arxiv.org/abs/2610.38993>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Vendster\: An Evaluation Arena to Investigate How Forecasting Tool Quality Affects LLM Agent Behaviors in Buyer-Vendor Negotiation](<https://arxiv.org/abs/2610.38292v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑27 | [V-LUMEN\: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](<https://arxiv.org/abs/2610.37019>) | Preprint | OpenAlex |
+| 2026‑10‑26 | [Compression of Genetic Variation Data in VCF Files](<https://doi.org/10.1142/9789819833696_0007>) | Book chapter | OpenAlex |
 | 2026‑10‑26 | [Who Holds the AI Debt? A Traceable-Share Methodology for AI Infrastructure Credit Exposure](<https://doi.org/10.62225/2583049x.2026.6.5.7076>) | Article | OpenAlex |
 | 2026‑10‑26 | [Learning Force-Reactive Humanoid Loco-Manipulation](<https://arxiv.org/abs/2610.35862>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Schema-Free Text-to-SQL\: Learning Enterprise Database Structure from Query Logs](<https://arxiv.org/abs/2610.33946>) | Preprint | OpenAlex |

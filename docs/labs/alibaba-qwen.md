@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4098`
-- Latest: `2026-11-12`
+- Papers: `4107`
+- Latest: `2026-11-14`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,9 +19,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑14 | [TraJudger\: Structure-Guided Failure Attribution for LLM-Powered Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857043>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Model-as-a-Service in the Wild\: Characterizing Production LLM Inference Clusters at Scale](<https://doi.org/10.1145/3828523.3857044>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Dasheng\: LLM-powered Reliability Engineering Assistant for Cloud Overlay Networks](<https://doi.org/10.1145/3828523.3857068>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Chorus\: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode](<https://doi.org/10.1145/3828523.3857065>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [CacheFS\: Peer-to-Peer Cooperative Caching for LLM Weight Distribution at Cloud Scale](<https://doi.org/10.1145/3828523.3857016>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Axon\: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads](<https://doi.org/10.1145/3828523.3857095>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [G-CAST\: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands](<https://arxiv.org/abs/2611.17814v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [Harmonized Time–Frequency Multi-scale Network for Anomaly Detection](<https://doi.org/10.1007/978-3-032-31995-1_67>) | Conference paper | OpenAlex |
 | 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression](<https://arxiv.org/abs/2611.13620>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [TaoMate-R1\: Temporal Role Specialization for Streaming Multi-Reference Video Generation](<https://arxiv.org/abs/2611.14307>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Program-Aided Patchable Skill Evolution](<https://arxiv.org/abs/2611.14019>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Beyond Passive Imitation\: On-Policy Mid-Training Distillation for Language Models](<https://arxiv.org/abs/2611.13855>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [TreeAgent\: Structure-Aware Memory Agent for Processing Long Hierarchical Data](<https://arxiv.org/abs/2611.13946v1>) | Paper | Verified affiliation, OpenAlex |
@@ -62,6 +70,7 @@
 | 2026‑11‑05 | [MEvince\: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports](<https://arxiv.org/abs/2611.07486>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [INSURE\: Inference-Time Defense Framework for Securing Agents against Hijacking](<https://doi.org/10.1145/3767308.3836055>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Hitchcock-300K\: A Master-Level Camera Control Dataset for Video Generation and Editing](<https://doi.org/10.1145/3767308.3838647>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [ConformalGuard\: Unified Streaming Data Quality Monitoring via Hierarchical Conformal Martingales with Anytime-Valid Guarantees](<https://doi.org/10.1007/978-981-92-7738-4_3>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Bri3D\: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor](<https://arxiv.org/abs/2611.07961>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [ARTS\: Autoregressive Tool Selection via Graph Neural Networks](<https://doi.org/10.1145/3767308.3836524>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [Safe and Programmable OS-Level GPU Resource Management with eBPF](<https://doi.org/10.1145/3845814.3850045>) | Conference paper | OpenAlex |
@@ -744,7 +753,7 @@
 | 2026‑07‑18 | [SpecLA\: Efficient Speculative Decoding for Linear-Attention Models](<https://arxiv.org/abs/2607.16673>) | Preprint | OpenAlex |
 | 2026‑07‑18 | [Perplexity-Guided Interest Generation with Dual-Feedback Alignment for LLM-based Recommendation](<https://doi.org/10.1007/978-981-92-3391-5_20>) | Conference paper | OpenAlex |
 | 2026‑07‑18 | [Dependency-Guided Code Generation\: Structured Matrix Decomposition and Consistency-Guided Refinement](<https://arxiv.org/abs/2607.16692>) | Preprint | OpenAlex |
-| 2026‑07‑17 | [Scalable LLM Agent Tool Access in the Cloud](<https://arxiv.org/abs/2607.15593>) | Preprint | OpenAlex |
+| 2026‑07‑17 | [Scaling LLM Agent Tool Access\: The MCP Gateway](<https://arxiv.org/abs/2607.15593>) | Conference paper | OpenAlex |
 | 2026‑07‑17 | [QUADS\: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides](<https://arxiv.org/abs/2607.15810>) | Preprint | OpenAlex |
 | 2026‑07‑17 | [Before the Action\: Benchmarking LLMs on Prospective Hypothesis Discovery](<https://arxiv.org/abs/2607.15766>) | Preprint | OpenAlex |
 | 2026‑07‑16 | [MACE-Dance\: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation](<https://doi.org/10.1145/3799902.3811202>) | Conference paper | OpenAlex |

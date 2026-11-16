@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1919`
-- Latest: `2026-11-12`
+- Papers: `1921`
+- Latest: `2026-11-14`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,6 +17,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑14 | [Workload Analysis of a Production BigData-Storage Cluster for ML and Data Analytics](<https://doi.org/10.1145/3828523.3857020>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [SOLO\: Making Single-Local-Replica Storage Practical for Geo-Distributed Recommendation Model Training](<https://doi.org/10.1145/3828523.3857035>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [TWIST\: Private Tenant-Dedicated LLM Serving via Joint Model-Token Transformation](<https://doi.org/10.1145/3830454.3846779>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [LightShift\: Infinite Relighting via Real-time Diffusion Renderer](<https://doi.org/10.1145/3829334.3849467>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [BACAgent\: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications](<https://doi.org/10.1145/3830454.3832642>) | Conference paper | OpenAlex |
@@ -158,7 +160,7 @@
 | 2026‑08‑31 | [SemanticIR\: A Semantic-Aware Transformer for High-Quality Medical Image Restoration](<https://doi.org/10.64187/bim.2026.v1.i1.007>) | Article | OpenAlex |
 | 2026‑08‑31 | [REER-PT\: Reverse-Engineered Reasoning for Perplexity-Guided Pre-training Data Augmentation](<https://arxiv.org/abs/2608.30627v1>) | Paper | Verified affiliation |
 | 2026‑08‑31 | [Lucida\: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](<https://arxiv.org/abs/2608.30821v1>) | Paper | Verified affiliation |
-| 2026‑08‑31 | [ByteX\: A Unified AI Search Engine at ByteDance](<https://arxiv.org/abs/2608.30607v2>) | Paper | Verified affiliation |
+| 2026‑08‑31 | [ByteX\: A Unified AI Search Engine at ByteDance](<https://arxiv.org/abs/2608.30607v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑08‑31 | [AgenticGen\: Reward-Guided Agentic Video Generation for Advertising](<https://arxiv.org/abs/2609.09187v1>) | Paper | Verified affiliation |
 | 2026‑08‑30 | [ReTrace\: Rejected-Trajectory Conditioning for Speculative Decoding](<https://arxiv.org/abs/2608.29748>) | Preprint | OpenAlex |
 | 2026‑08‑29 | [Cambricon-FlexLLM\: A Flexible Chiplet-Based Hybrid Architecture for On-Device 70B LLM Inference](<https://doi.org/10.1145/3844618>) | Article | OpenAlex |

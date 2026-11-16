@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4382`
-- Latest: `2026-11-12`
+- Papers: `4385`
+- Latest: `2026-11-14`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -244,6 +244,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑14 | [OpenNetLab\: An Open Platform for AI-Based Bandwidth Estimation in Real-Time Communications](<https://doi.org/10.1145/3828523.3857037>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Mosaic\: Efficient CPU–GPU Coordinated Block-Sparse Attention for Long-Context Decoding](<https://doi.org/10.1145/3828523.3857033>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [Microfluidic design optimization in the era of AI agents](<https://engrxiv.org/preprint/view/8800>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://doi.org/10.21203/rs.3.rs-11413641/v1>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
@@ -1045,7 +1048,7 @@
 | 2026‑07‑01 | [Evaluation Validity in Information Retrieval](<https://www.microsoft.com/en-us/research/publication/evaluation-validity-in-information-retrieval/>) | Publication | Official page, OpenAlex |
 | 2026‑07‑01 | [Auto-Fill\: Learning to Predict Missing Values Accurately with Specialist Language Models](<https://www.microsoft.com/en-us/research/publication/auto-fill-learning-to-predict-missing-values-accurately-with-specialist-language-models/>) | Publication | OpenAlex, Official page |
 | 2026‑07‑01 | [Psychological Influences of Conversational AI\: Research and Design Directions for Reducing Harm and Promoting Well-Being](<https://www.microsoft.com/en-us/research/publication/psychological-influences-of-conversational-ai-research-and-design-directions-for-reducing-harm-and-promoting-well-being/>) | Publication | Official page |
-| 2026‑07‑01 | [ELDR\: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving](<https://www.microsoft.com/en-us/research/publication/eldr-expert-locality-aware-decode-routing-for-pd-disaggregated-moe-serving/>) | Publication | Official page |
+| 2026‑07‑01 | [ELDR\: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving](<https://www.microsoft.com/en-us/research/publication/eldr-expert-locality-aware-decode-routing-for-pd-disaggregated-moe-serving/>) | Publication | Official page, OpenAlex |
 | 2026‑07‑01 | [Differentially Private Synthetic Data via APIs 4\: Tabular Data](<https://www.microsoft.com/en-us/research/publication/differentially-private-synthetic-data-via-apis-4-tabular-data/>) | Publication | Official page |
 | 2026‑07‑01 | [Diffeomorphic Optimization](<https://www.microsoft.com/en-us/research/publication/diffeomorphic-optimization/>) | Publication | Official page |
 | 2026‑07‑01 | [CrispEdit\: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](<https://www.microsoft.com/en-us/research/publication/crispedit-low-curvature-projections-for-scalable-non-destructive-llm-editing/>) | Publication | Official page |

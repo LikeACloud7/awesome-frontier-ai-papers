@@ -1,8 +1,8 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5815`
-- Latest: `2026-11-12`
+- Papers: `5824`
+- Latest: `2026-11-14`
 - [Back to README](../../README.md#googledeepmind)
 
 ## No date
@@ -15,10 +15,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑14 | [Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design](<https://doi.org/10.1093/genetics/iyag313>) | Article | OpenAlex |
+| 2026‑11‑14 | [Survival modeling on synthetic post-HCT data\: validation and equity-aware evaluation from a CIBMTR–Kaggle data science competition](<https://doi.org/10.1186/s12911-026-03925-z>) | Article | OpenAlex |
+| 2026‑11‑14 | [Break the Window\: Decomposing Webpages into Spatial Workspaces in XR](<https://doi.org/10.1145/3822517.3848666>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Gemini 4 Hydrogen Model Card](<https://deepmind.google/models/model-cards/gemini-4-hydrogen/>) | Model card | Official page |
 | 2026‑11‑11 | [GEM-15\: Global surface and terrain elevation models (15 meters) from sub-meter optical stereo imagery](<https://eartharxiv.org/repository/object/16034/download/27743/>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Gemini 4 Carbon Model Card](<https://deepmind.google/models/model-cards/gemini-4-carbon/>) | Model card | Official page |
+| 2026‑11‑10 | [PARDIG\: Global Precipitation Estimates Learned from Sparse Satellite Observations](<https://arxiv.org/abs/2611.13941>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [Camera3R\: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models](<https://arxiv.org/abs/2611.13453>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Automated Root Cause Analysis of Security Incidents Using Causal Machine Learning](<https://doi.org/10.21203/rs.3.rs-11654311/v1>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [AdjointFlow\: Accelerating Scientific Inverse Problems with Physics-Based Transport](<https://arxiv.org/abs/2611.13389>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Generalized Adaptive Boosting and the Geometry of Mistakes](<https://arxiv.org/abs/2611.12696>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [TypeSeg\: Content-Type Segmentation for Mixed Text](<https://doi.org/10.1145/3847352.3848105>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [TRIAGE-CPG\: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models](<https://doi.org/10.1145/3847352.3848112>) | Conference paper | OpenAlex |
@@ -31,11 +37,13 @@
 | 2026‑11‑06 | [What’s Next\: Agentic AI in 2026 and Beyond](<https://doi.org/10.1007/978-3-032-39096-7_22>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Tools, Skills, and Structured Outputs](<https://doi.org/10.1007/978-3-032-39096-7_3>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [The Relational Capacity Framework\: A Lens for AI-Mediated Relationality](<https://arxiv.org/abs/2611.08877>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [Stateful Agent Graphs](<https://doi.org/10.1007/978-3-032-39096-7_5>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Prompt Architecture for Agents](<https://doi.org/10.1007/978-3-032-39096-7_2>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Multimodal and Voice Agents](<https://doi.org/10.1007/978-3-032-39096-7_13>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Model Portability\: One Agent, Many Models](<https://doi.org/10.1007/978-3-032-39096-7_7>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Memory and Agentic RAG](<https://doi.org/10.1007/978-3-032-39096-7_11>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [MV-IVF\: Multi-Vector Retrieval via Multi-Vector Clustering](<https://arxiv.org/abs/2611.09040>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [Guardrails and Agent Safety](<https://doi.org/10.1007/978-3-032-39096-7_14>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Foundation models capture human and environmental context to improve dengue forecasting](<https://doi.org/10.64898/2026.11.05.26367335>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Does Reasoning Improve Psychological Depth in Large Language Models?](<https://arxiv.org/abs/2611.09061>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Discovering formally verified quantum programs with AI](<https://arxiv.org/abs/2611.09822>) | Preprint | OpenAlex |
@@ -61,8 +69,8 @@
 | 2026‑11‑05 | [How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis](<https://arxiv.org/abs/2611.08749v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [How to Build Digital Humans? From Priors to Photorealistic Avatars](<https://arxiv.org/abs/2607.04341>) | Article | OpenAlex |
-| 2026‑11‑04 | [Consistent Submodular Maximization with Full Foresight](<https://arxiv.org/abs/2611.06223>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [MicrobeRT\: A Framework and Suite of Fine-tuned Language Models for Genomic Sequences](<https://doi.org/10.64898/2026.11.03.763945>) | Preprint | OpenAlex |
+| 2026‑11‑04 | [Consistent Submodular Maximization with Full Foresight](<https://arxiv.org/abs/2611.06223>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Beyond the Landing Page\: Website Blocking, Tracker Visibility, and Human Alignment in Automated Web Crawls](<https://arxiv.org/abs/2611.06197>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Alignment Myopia in Generative AI](<https://arxiv.org/abs/2611.06830>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Systolic Linear Attention\: Co-Designing Tile-Grouped Gated Delta Attention for TPUs](<https://arxiv.org/abs/2611.06828v1>) | Paper | Verified affiliation |
@@ -86,6 +94,7 @@
 | 2026‑11‑01 | [Mesh-guided neural implicit field editing](<http://arxiv.org/abs/2312.02157>) | Article | OpenAlex |
 | 2026‑11‑01 | [FlyWheel\: Attention Kernels Built for the TPU](<https://arxiv.org/abs/2611.01426>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Redesigning the Dashboard\: Cultivating Trust Over Gamification in AI Adoption](<https://doi.org/10.1109/ms.2026.3723934>) | Article | OpenAlex |
+| 2026‑11‑01 | [AlphaEvolve on Frontier\: A Case Study in Mixed-Precision GPU Kernel Evolution](<https://doi.org/10.2172/17428330>) | Report | OpenAlex |
 | 2026‑11‑01 | [Improving Entrepreneurial Skills by Practicing with AI](<https://arxiv.org/abs/2611.02016v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑31 | [Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior](<https://arxiv.org/abs/2611.00661>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [XLA from the Trenches\: Correctness on TPU Workloads at Scale](<https://arxiv.org/abs/2611.00624v1>) | Paper | Verified affiliation |
@@ -1563,6 +1572,7 @@
 | 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Towards conversational artificial intelligence for disease management](<https://research.google/pubs/towards-conversational-ai-for-disease-management/>) | Publication | Official page, OpenAlex |
 | 2026 | [TCO-driven Storage Provisioning for Exascale Data Centers](<https://research.google/pubs/tco-driven-storage-provisioning-for-exascale-data-centers/>) | Publication | Official page, OpenAlex |
+| 2026 | [Vibe Coding XR\: Accelerating AI + XR Prototyping with XR Blocks and Gemini](<https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [A large language model for complex cardiology care](<https://research.google/pubs/a-large-language-model-for-complex-cardiology-care/>) | Publication | OpenAlex, Official page |
 | 2026 | [Nine changes needed to deliver a radical transformation in biodiversity measurement](<https://research.google/pubs/nine-changes-needed-to-deliver-a-radical-transformation-in-biodiversity-measurement/>) | Publication | Official page, OpenAlex |
 | 2026 | [Neural general circulation models for modeling precipitation](<https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation/>) | Publication | Official page, OpenAlex |
@@ -1598,7 +1608,6 @@
 | 2026 | [Wearable Foundation Models Should Go Beyond Static Encoders](<https://research.google/pubs/wearable-foundation-models-should-go-beyond-static-encoders/>) | Publication | Official page, OpenAlex |
 | 2026 | [WAXAL\: A large-scale multilingual African language speech corpus](<https://research.google/pubs/waxal-a-large-scale-multilingual-african-language-speech-corpus/>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026 | [Visual Planning\: Let’s Think Only with Images](<https://research.google/pubs/visual-planning-lets-think-only-with-images/>) | Publication | Official page |
-| 2026 | [Vibe Coding XR\: Accelerating AI + XR Prototyping with XR Blocks and Gemini](<https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/>) | Publication | Official page, Verified affiliation |
 | 2026 | [VIP-MINGLE\: A Corpus for Videoconference and In-Person Multimodal Interaction in Group Language Engagement](<https://research.google/pubs/vip-mingle-a-corpus-for-videoconference-and-in-person-multimodal-interaction-in-group-language-engagement/>) | Publication | Official page |
 | 2026 | [Unwarping the Lens\: A Physics-Grounded Approach to Video Glasses Removal](<https://research.google/pubs/unwarping-the-lens-a-physics-grounded-approach-to-video-glasses-removal/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026 | [Unified Management System for a Hybrid Workforce of Human and Computational Agents](<https://research.google/pubs/unified-management-system-for-a-hybrid-workforce-of-human-and-computational-agents/>) | Publication | Official page |
