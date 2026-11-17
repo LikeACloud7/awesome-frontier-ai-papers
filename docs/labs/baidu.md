@@ -1,14 +1,16 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1144`
-- Latest: `2026-11-09`
+- Papers: `1146`
+- Latest: `2026-11-12`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑12 | [Folio\: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents](<https://arxiv.org/abs/2611.16627>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](<https://arxiv.org/abs/2611.17167>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Hallo-Live\: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation](<https://arxiv.org/abs/2604.23632>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [SWE-Time\: Benchmarking Temporal Repository Understanding](<https://arxiv.org/abs/2611.12083>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Agentic-OPD\: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>) | Preprint | OpenAlex |

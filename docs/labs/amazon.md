@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3854`
+- Papers: `3863`
 - Latest: `2026-11-13`
 - [Back to README](../../README.md#amazon)
 
@@ -20,6 +20,10 @@
 | 2026‑11‑12 | [Reinforcement Learning to Rank Using Coarse-grained Rewards](<http://arxiv.org/abs/2208.07563>) | Article | OpenAlex |
 | 2026‑11‑12 | [When Scammers Talk Back\: Understanding Potentially Unwanted Calls via LLM-Based Interaction](<https://doi.org/10.1145/3830454.3846770>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Feature Engineering Is the Bottleneck\: An Explainability Study of ML-Based Security-Relevant Method Detection](<https://doi.org/10.21203/rs.3.rs-10897881/v1>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Compiling Known Rules into Compact Neural Agents\: Weight-Space Programming on Unseen Games](<https://arxiv.org/abs/2611.16981>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [CURATOR\: Scalable Fine-grained Evidence Selection for Retrieval-Augmented Generation using Decision Models](<https://arxiv.org/abs/2611.16366>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [Vocabulary-Free Next-Event Prediction on Temporal Graphs](<https://arxiv.org/abs/2611.16063>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [DecArena\: Evaluating Large-Scale Decentralized Multi-Agent Collaboration](<https://arxiv.org/abs/2611.15521>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [An Integrated AI-Driven Methodology for Synthesizing a Digital Similar of Residential PV Adoption](<http://arxiv.org/abs/2410.08098>) | Article | OpenAlex |
 | 2026‑11‑10 | [Guessing Without Momentum](<https://doi.org/10.34740/kaggle/w/123952>) | Article | OpenAlex |
 | 2026‑11‑09 | [Multimodal Video Generation Models with Audio\: Present and Future](<https://doi.org/10.1145/3840475.3841440>) | Conference paper | OpenAlex |
@@ -53,6 +57,7 @@
 | 2026‑11‑04 | [Echoes of hyperinflation\: The link between past exposure and formation of expectations](<https://doi.org/10.1016/j.jebo.2026.107813>) | Article | OpenAlex |
 | 2026‑11‑04 | [$D^2$-OPD\: Separating Direction and Distance in Extrapolative On-Policy Distillation](<https://arxiv.org/abs/2611.07241>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [GRAIL 2026\: Workshop on Generative, Retrieval-augmented, and Agentic Intelligence for Personalization](<https://doi.org/10.1145/3799682.3839287>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [DuoZone\: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System](<http://arxiv.org/abs/2511.15676>) | Article | OpenAlex |
 | 2026‑11‑03 | [TrojanShot\: Reinforced Demonstrations Yield Sample-Efficient Jailbreaks and Guardrails for LLMs](<https://doi.org/10.1145/3799682.3841000>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Temporal Moment Generation\: A New Recommendation Task and Cost-Efficient Distillation for Outbound Marketing at Scale](<https://doi.org/10.1145/3799682.3839260>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [ScamWorld\: An Interactive Environment for Evaluating Web Agents Against Online Fraud](<https://arxiv.org/abs/2611.04879>) | Preprint | OpenAlex |
@@ -779,7 +784,6 @@
 | 2026‑01‑20 | [Foundations of Global Consistency Checking with Noisy LLM Oracles](<http://arxiv.org/abs/2601.13600>) | Article | OpenAlex |
 | 2026‑01‑20 | [iOS App Start-Time Performance\: A Comprehensive Analysis and Optimization Framework](<https://doi.org/10.5120/ijca2026926188>) | Article | OpenAlex |
 | 2026‑01‑19 | [Graph neural network and SVM-based approach for output prediction of three-phase matrix converter](<https://doi.org/10.26634/jdp.13.2.22342>) | Article | OpenAlex |
-| 2026‑01‑17 | [ATOD\: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems](<https://arxiv.org/abs/2601.11854>) | Paper | Verified affiliation |
 | 2026‑01‑16 | [ImitateCholec\: A Multimodal Dataset for Long-Horizon Imitation Learning in Robotic Cholecystectomy](<https://doi.org/10.1038/s41597-025-06526-z>) | Data paper | OpenAlex |
 | 2026‑01‑16 | [From “Everything is a File” to “Files Are All You Need”](<https://doi.org/10.31224/6289>) | Preprint | OpenAlex |
 | 2026‑01‑15 | [Bridging Temporal Dynamics and Nonlinear Patterns inMacroeconomic Forecasting\: A Hybrid Statistical Learning Approach](<https://doi.org/10.14419/3e55tj72>) | Article | OpenAlex |
@@ -1007,6 +1011,7 @@
 | 2026 | [Why one size doesn't fit all\: Improving music discovery and familiar listening with specialized models](<https://www.amazon.science/publications/why-one-size-doesnt-fit-all-improving-music-discovery-and-familiar-listening-with-specialized-models>) | Publication | Official page, OpenAlex |
 | 2026 | [Who verifies the verifier? Co-evolving inspectable graders with self-improving agents](<https://www.amazon.science/publications/who-verifies-the-verifier-co-evolving-inspectable-graders-with-self-improving-agents>) | Publication | Official page |
 | 2026 | [Which tokens can a device afford to score? Vocabulary pruning by log-mass maximization](<https://www.amazon.science/publications/which-tokens-can-a-device-afford-to-score-vocabulary-pruning-by-log-mass-maximization>) | Publication | Official page |
+| 2026 | [Where does the error live? A three-level framework for evaluating multi-agent workflows in production](<https://www.amazon.science/publications/where-does-the-error-live-a-three-level-framework-for-evaluating-multi-agent-workflows-in-production>) | Publication | Official page |
 | 2026 | [When to defer\: Scope-aware cascades for structured attribute generation in e-commerce product catalogs](<https://www.amazon.science/publications/when-to-defer-scope-aware-cascades-for-structured-attribute-generation-in-e-commerce-product-catalogs>) | Publication | Official page |
 | 2026 | [When thoughts meet facts\: Reusable reasoning for long-context LMs](<https://www.amazon.science/publications/when-thoughts-meet-facts-reusable-reasoning-for-long-context-lms>) | Publication | Official page, OpenAlex |
 | 2026 | [When speed meets intelligence\: Scalable conversational NER in an ever-evolving world](<https://www.amazon.science/publications/when-speed-meets-intelligence-scalable-conversational-ner-in-an-ever-evolving-world>) | Publication | Official page |
@@ -1190,6 +1195,7 @@
 | 2026 | [LLMDP-U\: Compiling LLM reasoning into persistent time-series anomaly detectors](<https://www.amazon.science/publications/llmdp-u-compiling-llm-reasoning-into-persistent-time-series-anomaly-detectors>) | Publication | Official page |
 | 2026 | [LLM-based playlist curation\: A music reasoning approach at scale](<https://www.amazon.science/publications/llm-based-playlist-curation-a-music-reasoning-approach-at-scale>) | Publication | Official page |
 | 2026 | [LLM-assisted diagnostics for simulation–reality discrepancies in manufacturing systems](<https://www.amazon.science/publications/llm-assisted-diagnostics-for-simulation-reality-discrepancies-in-manufacturing-systems>) | Publication | Official page |
+| 2026 | [LFPformer\: Geometry-aware self-supervised electrophysiology representation learning](<https://www.amazon.science/publications/lfpformer-geometry-aware-self-supervised-electrophysiology-representation-learning>) | Publication | Official page |
 | 2026 | [Knowledge distillation for large language models through residual learnings](<https://www.amazon.science/publications/knowledge-distillation-for-large-language-models-through-residual-learnings>) | Publication | Official page |
 | 2026 | [Knowing when to quit\: A principled framework for dynamic abstention in LLM reasoning](<https://www.amazon.science/publications/knowing-when-to-quit-a-principled-framework-for-dynamic-abstention-in-llm-reasoning>) | Publication | Official page |
 | 2026 | [Keeping the index open\: The recommendation-side cost of shared search and recommendation](<https://www.amazon.science/publications/keeping-the-index-open-the-recommendation-side-cost-of-shared-search-and-recommendation>) | Publication | Official page |
@@ -1216,6 +1222,7 @@
 | 2026 | [Harness updating is not harness benefit\: Disentangling evolution capabilities in self-evolving LLM agents](<https://www.amazon.science/publications/harness-updating-is-not-harness-benefit-disentangling-evolution-capabilities-in-self-evolving-llm-agents>) | Publication | Official page |
 | 2026 | [Group adaptive clipping policy optimization](<https://www.amazon.science/publications/group-adaptive-clipping-policy-optimization>) | Publication | Verified affiliation, Official page |
 | 2026 | [Grasp, slide, roll\: Comparative analysis of contact modes for tactile-based shape reconstruction](<https://www.amazon.science/publications/grasp-slide-roll-comparative-analysis-of-contact-modes-for-tactile-based-shape-reconstruction>) | Publication | Official page |
+| 2026 | [GraphUAT\: Uncertainty attribution in graph neural networks](<https://www.amazon.science/publications/graphuat-uncertainty-attribution-in-graph-neural-networks>) | Publication | Official page |
 | 2026 | [Graph-based nearest neighbors with dynamic updates via random walk](<https://www.amazon.science/publications/graph-based-nearest-neighbors-with-dynamic-updates-via-random-walk>) | Publication | Official page |
 | 2026 | [Gradient-controlled decoding\: A safety guardrail for LLMs with dual-anchor steering](<https://www.amazon.science/publications/gradient-controlled-decoding-a-safety-guardrail-for-llms-with-dual-anchor-steering>) | Publication | Official page |
 | 2026 | [Global pose control for generative view synthesis in normalized object coordinate space](<https://www.amazon.science/publications/global-pose-control-for-generative-view-synthesis-in-normalized-object-coordinate-space>) | Publication | Official page |
@@ -1376,8 +1383,10 @@
 | 2026 | [Adaptive turn-taking for real-time multi-party voice agents](<https://www.amazon.science/publications/adaptive-turn-taking-for-real-time-multi-party-voice-agents>) | Publication | Official page |
 | 2026 | [Adaptive geometry routing for vision–language understanding](<https://www.amazon.science/publications/adaptive-geometry-routing-for-vision-language-understanding>) | Publication | Official page, OpenAlex |
 | 2026 | [AccelOpt\: A self-improving LLM agentic system for AI accelerator kernel optimization](<https://www.amazon.science/publications/accelopt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization>) | Publication | Official page |
+| 2026 | [ATOD\: An evaluation framework and benchmark for agentic task-oriented dialogue systems](<https://www.amazon.science/publications/atod-an-evaluation-framework-and-benchmark-for-agentic-task-oriented-dialogue-systems>) | Publication | Verified affiliation, Official page |
 | 2026 | [ARES\: Adaptive red-teaming and end-to-end repair of policy-reward system](<https://www.amazon.science/publications/ares-adaptive-red-teaming-and-end-to-end-repair-of-policy-reward-system>) | Publication | Official page, OpenAlex |
 | 2026 | [APRS\: A unified framework of multi-pricing demand simulation for Amazon device dependent products](<https://www.amazon.science/publications/aprs-a-unified-framework-of-multi-pricing-demand-simulation-for-amazon-device-dependent-products>) | Publication | Official page |
+| 2026 | [A2IQL\: Adaptive asymmetric implicit Q learning for automated warehouse consolidation](<https://www.amazon.science/publications/a2iql-adaptive-asymmetric-implicit-q-learning-for-automated-warehouse-consolidation>) | Publication | Official page |
 | 2026 | [A vocabulary for multi-agent automated research systems](<https://www.amazon.science/publications/a-vocabulary-for-multi-agent-automated-research-systems>) | Publication | Official page |
 | 2026 | [A systematic evaluation framework for universal antibody–antigen binding affinity prediction and candidate recommendation](<https://www.amazon.science/publications/a-systematic-evaluation-framework-for-universal-antibody-antigen-binding-affinity-prediction-and-candidate-recommendation>) | Publication | Official page, OpenAlex |
 | 2026 | [A pinch of SFT, a dash of RL\: When reinforcement learning helps long-horizon advertising agents](<https://www.amazon.science/publications/a-pinch-of-sft-a-dash-of-rl-when-reinforcement-learning-helps-long-horizon-advertising-agents>) | Publication | Verified affiliation, Official page |

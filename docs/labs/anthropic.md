@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `382`
+- Papers: `383`
 - Latest: `2026-11-13`
 - [Back to README](../../README.md#anthropic)
 
@@ -14,6 +14,7 @@
 | n\.d\. | [Red-teaming Claude Code's auto-mode monitor](<https://github.com/safety-research/red-teaming-auto-mode/blob/main/arena/replay/figures/paper/out/affordance_pm_grid.pdf>) | Technical report | Official repo |
 | n\.d\. | [Publicly Releasing CoT Faithfulness Evaluations](<https://drive.google.com/drive/folders/1l0pkcZxvFwMtczst_hhiCC44v-IiODlY?usp=sharing>) | Research post | Official page |
 | n\.d\. | [Inference optimization kits](<https://github.com/anthropics/uplifting-biomolecular-modeling/blob/main/openfold3/stock/src/assets/of3p1_technical_report.pdf>) | Technical report | Official repo |
+| n\.d\. | [Data for "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays"](<https://github.com/anthropics/art-paper-data/blob/main/original_campaign_reports/ART_report/B-gp206-phage-rt.pdf>) | Technical report | Official repo |
 | n\.d\. | [Claude for Healthcare](<https://github.com/anthropics/healthcare/blob/main/plugins/healthcare/skills/prior-auth/assets/sample/03_CT_Chest_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Claude Cookbooks](<https://github.com/anthropics/claude-cookbooks/blob/main/multimodal/documents/constitutional-ai-paper.pdf>) | Technical report | Official repo |
 

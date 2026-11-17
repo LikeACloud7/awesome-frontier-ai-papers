@@ -1,7 +1,7 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1558`
+- Papers: `1560`
 - Latest: `2026-11-12`
 - [Back to README](../../README.md#apple)
 
@@ -14,6 +14,7 @@
 | 2026‑11‑12 | [JudgeMix\: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents](<https://arxiv.org/abs/2611.16174v1>) | Paper | Verified affiliation |
 | 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
 | 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |
+| 2026‑11‑10 | [Toward a Theory of Evaluability](<https://machinelearning.apple.com/research/theory-evaluability>) | Publication | Official page |
 | 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
 | 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
 | 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
@@ -23,6 +24,7 @@
 | 2026‑11‑06 | [GSynPEF\: A Privacy Evaluation Framework for Synthetic Graphs](<https://arxiv.org/abs/2611.10185>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [On Agentic Manipulation Policies](<https://arxiv.org/abs/2611.09892v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [Faster Retrieval for Better, More Efficient RAG](<https://machinelearning.apple.com/research/faster-retrieval>) | Research post | Official page |
+| 2026‑11‑04 | [Future Jobs After AI\: A Field Guide for Leaders](<https://doi.org/10.70593/978-81-6632-208-2>) | Book | OpenAlex |
 | 2026‑11‑04 | [Perceptive Humanoid Motion from Simulation](<https://arxiv.org/abs/2611.06908v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Attention to Mamba\: A Recipe for Cross-Architecture Distillation](<https://machinelearning.apple.com/research/attention-mamba-distillation>) | Publication | Official page |
 | 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
@@ -69,8 +71,8 @@
 | 2026‑09‑30 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](<https://machinelearning.apple.com/research/harness-autonomous-ml-engineering>) | Publication | Official page, OpenAlex |
 | 2026‑09‑30 | [Visualizing Distribution Coverage in Generative Diffusion Models](<https://arxiv.org/abs/2609.38853>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Comparing Self-Supervised Pretraining Methods and Transfer Configurations for Wrist ECG under Motion](<https://doi.org/10.1145/3842436.3843809>) | Conference paper | OpenAlex |
+| 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://machinelearning.apple.com/research/private-evolution-clustering>) | Publication | OpenAlex, Official page |
 | 2026‑09‑29 | [RLTL;DR\: Self-Improvement by Internalizing Self-Generated Feedback](<https://machinelearning.apple.com/research/rltl-dr-self-improvement>) | Publication | Official page, Verified affiliation |
-| 2026‑09‑29 | [Understanding Private Evolution as Learning-Augmented Clustering](<https://arxiv.org/abs/2609.36678>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [A Bifurcation-Based Domain Decomposition Method with Neural Operators for Blood Flow Simulation](<https://arxiv.org/abs/2610.02238>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [On Trajectory-Aware Training for Masked Diffusion Language Models](<https://arxiv.org/abs/2609.37974v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [KV-Kaizen\: Learning Context-Adaptive Cache Compression Choices](<https://arxiv.org/abs/2609.37988v2>) | Paper | Verified affiliation |

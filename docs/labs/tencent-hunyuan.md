@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3966`
-- Latest: `2026-11-14`
+- Papers: `3971`
+- Latest: `2026-11-15`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,7 +26,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑15 | [Accelerate Bench\: Evaluating Agents for Application-Level Program Optimization](<https://huggingface.co/papers/2611.20882>) | Preprint | Official page |
 | 2026‑11‑14 | [GPipeANN\: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS](<https://doi.org/10.1145/3828523.3857011>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [Data-Efficient LLM Safety Alignment Guided by Interpretable Features](<https://arxiv.org/abs/2611.16183>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [SkinAdvisor\: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting](<https://arxiv.org/abs/2611.15023>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [JustRUA\: A Controlled Study of GPT-6 Robot-Use Agents](<https://arxiv.org/abs/2611.16009>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [ESDCodec\: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding](<https://arxiv.org/abs/2611.14043>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [ForgeryVCR\: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization](<https://arxiv.org/abs/2602.14098>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [PartLLM\: A Unified Multimodal Foundation for 3D Part Segmentation](<https://arxiv.org/abs/2609.25832>) | Article | OpenAlex |
@@ -58,6 +62,7 @@
 | 2026‑11‑05 | [From Twisted Facts to Rogue Agents\: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?](<https://arxiv.org/abs/2611.08231>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [FoldAbS\: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening](<https://doi.org/10.64898/2026.11.03.763899>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [CaptchaBench\: A Modality-Stratified Benchmark Dataset for Evaluating Adversarial Perturbation Against VLM-based CAPTCHA Recognition](<https://doi.org/10.1145/3767308.3838637>) | Conference paper | OpenAlex |
+| 2026‑11‑04 | [Physics-Driven Extraction of Dynamic Fluid Asset from Monocular Video with Generative 3DGS](<https://arxiv.org/abs/2503.00868>) | Article | OpenAlex |
 | 2026‑11‑04 | [SVGFaith\: A Two-Layer Meta-Evaluation of Faithfulness Metrics for Text-to-SVG Generation](<https://arxiv.org/abs/2611.06048>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [GREP\: Grounding Generated Room Evaluation in Principles](<https://arxiv.org/abs/2611.05802>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [EvoWorld\: Towards Out-of-Sight World Evolution in Generative Video Models](<https://arxiv.org/abs/2611.06748>) | Preprint | OpenAlex |
@@ -65,6 +70,7 @@
 | 2026‑11‑04 | [A\.S\.E 2\.0\: Understanding How Repository Context Impacts the Security of LLM-Generated Code](<https://arxiv.org/abs/2611.06294>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [EmoReward\: Self-Evolving Reward Calibration for Emotional Video Generation RL](<https://huggingface.co/papers/2611.06518>) | Preprint | Official page, Verified affiliation, Hugging Face, OpenAlex |
 | 2026‑11‑03 | [LFM4Ads\: Large Foundation Model for Ads Recommendation](<http://arxiv.org/abs/2508.14948>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation](<https://doi.org/10.1145/3799682.3840048>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Toward User-Centered Agentic Recommendation\: When Does Platform Competition Benefit Users?](<https://arxiv.org/abs/2611.04203>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [SourceFlow\: Collaborative Source Coupling for Flow-Based Recommendation](<https://arxiv.org/abs/2611.04455>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Prompt‐Aware Graph Reasoning and Explicit Ranking for Multi‐Trait Essay Scoring in Intelligent Education](<https://doi.org/10.1111/exsy.70470>) | Article | OpenAlex |
@@ -72,7 +78,6 @@
 | 2026‑11‑03 | [Möbius\: A Unified Motion-Language Model Bridging Understanding and Generation](<https://arxiv.org/abs/2611.05279>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [GRID\: Generative Recommendation via Inpainting Diffusion](<https://doi.org/10.1145/3799682.3840061>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Feeling of Knowing in Large Language Models](<https://arxiv.org/abs/2611.04834>) | Preprint | OpenAlex |
-| 2026‑11‑03 | [Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation](<https://doi.org/10.1145/3799682.3840048>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Controllable Autoregressive Retrieval with Long-term Action Perception for Recommendations](<https://doi.org/10.1145/3799682.3840168>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Auxiliary Focal Discrimination for Recommendation](<https://doi.org/10.1145/3799682.3840130>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Anytime-Valid Multi-Objective Online Experimentation with Contrast Certificates](<https://doi.org/10.1145/3799682.3840821>) | Conference paper | OpenAlex |
@@ -131,9 +136,9 @@
 | 2026‑10‑23 | [TGR-EvoDAG\: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](<https://arxiv.org/abs/2610.32326v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑22 | [Making MLLM Latents Matter\: Factor-Aware Predictive Learning for Cinematic Video Generation](<https://huggingface.co/papers/2610.30926>) | Preprint | Official page, OpenAlex |
 | 2026‑10‑22 | [A Broader Look into MLLM's Retrieval Heads](<https://huggingface.co/papers/2610.32411>) | Preprint | Official page, OpenAlex |
+| 2026‑10‑22 | [LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated antibiotic resistance gene discovery](<https://doi.org/10.1038/s44259-026-00287-4>) | Article | OpenAlex |
 | 2026‑10‑22 | [ValuSpec\: Plug-and-Play Candidate Valuation before Target Verification for Tree-Based Speculative Decoding](<https://arxiv.org/abs/2610.31338>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [ULME\: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling](<https://arxiv.org/abs/2610.30705>) | Preprint | OpenAlex |
-| 2026‑10‑22 | [LLM-powered construction of antibiotic resistance datasets and knowledge graphs for accelerated antibiotic resistance gene discovery](<https://doi.org/10.1038/s44259-026-00287-4>) | Article | OpenAlex |
 | 2026‑10‑22 | [GIFT\: Gradient Informed Filtering for Distillation Augmented Reasoning RL](<https://arxiv.org/abs/2610.30796>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [DraMaze\: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation](<https://arxiv.org/abs/2610.32002>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [WeVisOne-VL\: Unified Visual Perception from Objects to Pixels](<https://huggingface.co/papers/2610.31329>) | Preprint | Official page, OpenAlex |
@@ -754,9 +759,9 @@
 | 2026‑06‑17 | [Are LLMs Ready to Assist Physicians? PhysAssistBench for Interactive Doctor-Patient-EHR Assistance](<https://arxiv.org/abs/2606.18613>) | Preprint | OpenAlex |
 | 2026‑06‑17 | [A Survey of Full-Duplex Spoken Dialogue Systems\: Architectural Hierarchy, Interaction Ontology, and Decision State Machine](<https://arxiv.org/abs/2606.19453>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [STARE\: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](<https://huggingface.co/papers/2606.19236>) | Technical report | Official page, OpenAlex |
+| 2026‑06‑16 | [RAVA\: Retrieval-Augmented Viewpoint Alignment for Subject-Driven Image Generation](<https://arxiv.org/abs/2606.17619>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [Trust the Right Teacher\: Quality-Aware Self-Distillation for GUI Grounding](<https://arxiv.org/abs/2606.18101>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [ReMALIS\: Inference-Guided Intention Propagation for Multiagent Stochastic Task Coordination With Large Language Models in Complex Networks Domains](<https://doi.org/10.1109/tcss.2026.3695671>) | Article | OpenAlex |
-| 2026‑06‑16 | [RAVA\: Retrieval-Augmented Viewpoint Alignment for Subject-Driven Image Generation](<https://arxiv.org/abs/2606.17619>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [One-Step Token-to-Waveform Generation with MeanFlow in Latent Space](<https://arxiv.org/abs/2606.18072>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [MathVis-Fine\: Aligning Visual Supervision with Necessity via Progressive Dependency-Guided Training for Multimodal Mathematical Reasoning](<https://arxiv.org/abs/2606.17888>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [GameCraft-Bench\: Can Agents Build Playable Games End-to-End in a Real Game Engine?](<https://arxiv.org/abs/2606.17861>) | Preprint | OpenAlex |

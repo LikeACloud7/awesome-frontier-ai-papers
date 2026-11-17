@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4107`
+- Papers: `4115`
 - Latest: `2026-11-14`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -20,13 +20,20 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑14 | [TraJudger\: Structure-Guided Failure Attribution for LLM-Powered Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857043>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [SwiftMPC\: Accelerating ML under MPC with Secure-Chip-Assisted One-Way Communication](<https://doi.org/10.1145/3828523.3857086>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Model-as-a-Service in the Wild\: Characterizing Production LLM Inference Clusters at Scale](<https://doi.org/10.1145/3828523.3857044>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Dasheng\: LLM-powered Reliability Engineering Assistant for Cloud Overlay Networks](<https://doi.org/10.1145/3828523.3857068>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Chorus\: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode](<https://doi.org/10.1145/3828523.3857065>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [CacheFS\: Peer-to-Peer Cooperative Caching for LLM Weight Distribution at Cloud Scale](<https://doi.org/10.1145/3828523.3857016>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Axon\: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads](<https://doi.org/10.1145/3828523.3857095>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [Generative Point Cloud Registration With Match-ControlNet](<https://doi.org/10.1109/tpami.2026.3753622>) | Article | OpenAlex |
 | 2026‑11‑13 | [G-CAST\: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands](<https://arxiv.org/abs/2611.17814v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [TriGen\: A Generative Paradigm for Trigger-Induced Recommendation](<https://arxiv.org/abs/2611.16395>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [ReSID\: Rethinking Long-Tail Retrieval in Generative Recommendation through Item Reachability](<https://arxiv.org/abs/2611.16404>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Harmonized Time–Frequency Multi-scale Network for Anomaly Detection](<https://doi.org/10.1007/978-3-032-31995-1_67>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [GC-MoE on SM120\: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](<https://arxiv.org/abs/2611.16219>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Beyond Compressing Everything\: Contrastive Memory Learning for Selective Context Compression](<https://arxiv.org/abs/2611.16384>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [MuEdit\: An efficient multi-task editing method towards inter-domain knowledge conflicts](<https://arxiv.org/abs/2611.14910>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression](<https://arxiv.org/abs/2611.13620>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [TaoMate-R1\: Temporal Role Specialization for Streaming Multi-Reference Video Generation](<https://arxiv.org/abs/2611.14307>) | Preprint | OpenAlex |
@@ -124,6 +131,7 @@
 | 2026‑10‑31 | [Numerical Embeddings for CTR Prediction\: A Taxonomy, Unified Benchmark, and Open-Source FuxiCTR Extension](<https://arxiv.org/abs/2611.01090>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [MILES-Rec\: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation](<https://arxiv.org/abs/2610.41319>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [BrowseFlow\: Sparse Event Flow Matching for Generative User Simulation](<https://arxiv.org/abs/2610.41374>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [InteractPro\: A Unified Framework for Motion-Aware Image Composition](<http://arxiv.org/abs/2409.10090>) | Article | OpenAlex |
 | 2026‑10‑29 | [UGR\: Unified Generative Ranking for Heterogeneous E-commerce Recommendation](<https://arxiv.org/abs/2610.39426>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Where to Learn and How Far to Roll Out\: Efficient Adaptive Training for GUI Agents](<https://arxiv.org/abs/2610.39251>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Raincheck\: Deferred Multimodal Prefill for Efficient Multi-Turn MLLM Inference](<https://arxiv.org/abs/2610.39562>) | Preprint | OpenAlex |
@@ -663,11 +671,11 @@
 | 2026‑08‑06 | [&lt;scp&gt;Caduceus\:&lt;/scp&gt; MoE Foundation Models for Unifying Biological and Natural Language](<https://doi.org/10.1145/3770855.3818885>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [CEDAR\: Controlled and Event-Driven Demand Forecasting via Residual Decomposition](<https://arxiv.org/abs/2608.25871v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑05 | [MetaVideoAgent\: Automated Video-Agent Evolution for Long-Form Video Understanding](<https://arxiv.org/abs/2608.04587v1>) | Paper | OpenAlex, Verified affiliation |
+| 2026‑08‑05 | [Private Direct Preference Optimization for LLM Alignment](<https://arxiv.org/abs/2608.05040>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [State2State\: Environment-Derived Mid-Training for LLM Agents](<https://arxiv.org/abs/2608.04934>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Spoken Function Calling\: A New Perspective on Spoken Language Understanding for Large Audio Language Models](<https://arxiv.org/abs/2608.05126>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Search2Skill\: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning](<https://arxiv.org/abs/2608.05245>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [STEP-OPD\: Rethinking Output Targets and Internal Dynamics in On-Policy Distillation for Diffusion Models](<https://arxiv.org/abs/2608.04887>) | Preprint | OpenAlex |
-| 2026‑08‑05 | [Private Direct Preference Optimization for LLM Alignment](<https://arxiv.org/abs/2608.05040>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [GeoReward\: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction](<https://arxiv.org/abs/2608.04504>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Astra\: a generalizable report generation foundation model for 3D computed tomography](<https://doi.org/10.21203/rs.3.rs-10034289/v1>) | Preprint | OpenAlex |
 | 2026‑08‑04 | [GDPevo\: Evaluating Agent Self-Evolution on Real Business Tasks](<https://huggingface.co/papers/2608.03764>) | Technical report | Official page |

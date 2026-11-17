@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2231`
-- Latest: `2026-11-12`
+- Papers: `2238`
+- Latest: `2026-11-15`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,12 +16,18 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
+| 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
+| 2026‑11‑12 | [Singularity-Bench\: Can Agents Build Agents?](<https://arxiv.org/abs/2611.16591>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [From World Foundation Models to Real-world applications\: An Introduction](<https://doi.org/10.1145/3829249.3837803>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Formal Verification of Circuit-Soundness in zkWasm, a General Purpose zkVM](<https://doi.org/10.1145/3830454.3846740>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [AeroZoo\: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics](<https://arxiv.org/abs/2611.17152>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [TTB\: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](<https://arxiv.org/abs/2611.17331v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [EgoX\: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](<https://arxiv.org/abs/2611.16728v1>) | Paper | Verified affiliation |
+| 2026‑11‑11 | [Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators](<https://arxiv.org/abs/2611.14979>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Accelerating Quantum Chemistry with Emulated Double-Precision Matrix Multiplication on GPUs](<https://doi.org/10.26434/chemrxiv.15011999/v1>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [SlipStream\: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads](<https://arxiv.org/abs/2611.14776>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [From Egocentric Human Video to Robot Manipulation in the Era of Embodied Intelligence](<https://arxiv.org/abs/2611.13610>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation](<https://arxiv.org/abs/2611.14401>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [BirdDreams\: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](<https://arxiv.org/abs/2611.14815v1>) | Paper | Verified affiliation |
@@ -77,14 +83,15 @@
 | 2026‑10‑29 | [LucidLyra\: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation](<https://arxiv.org/abs/2610.40495>) | Preprint | OpenAlex |
 | 2026‑10‑28 | [Nemotron 3\.5 Super and Lightning\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](<https://arxiv.org/abs/2610.38095v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence\: Joint Commitment on Frontier Responsibilities](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
+| 2026‑10‑27 | [SemanticXR\: Low Power, Real-time Queryable Semantic Mapping with a Device-Cloud Architecture](<https://arxiv.org/abs/2606.12849>) | Article | OpenAlex |
 | 2026‑10‑27 | [Assessing Language Models for Scientific Applications\: Inertial Confinement Fusion as a Use Case](<https://arxiv.org/abs/2610.38024>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [ThinkWorld\: World Imagination Reinforces Chain-of-Dynamics Reasoning](<https://arxiv.org/abs/2610.37666v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
 | 2026‑10‑25 | [AgentBaton\: Efficient Model Collaboration in Agentic Tasks](<https://huggingface.co/papers/2610.35959>) | Paper | Hugging Face |
-| 2026‑10‑24 | [Speeding up Log-Sum-Exp\: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall](<https://arxiv.org/abs/2610.33647>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [FG-ConvNO\: A Geometry-Aware Neural Operator for Propeller CFD Prediction](<https://arxiv.org/abs/2610.33456>) | Preprint | OpenAlex |
+| 2026‑10‑24 | [Speeding up Log-Sum-Exp\: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall](<https://arxiv.org/abs/2610.33647>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Cross-View and Cross-Time Tracking of Crack Evolution in Concrete](<https://arxiv.org/abs/2610.33550>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [RSI Arena\: Towards Recursive Self-Improvement with Human Feedback](<https://arxiv.org/abs/2610.33624v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑10‑23 | [Regularised RL improves sim-to-real transfer](<https://arxiv.org/abs/2610.32855>) | Preprint | OpenAlex |
