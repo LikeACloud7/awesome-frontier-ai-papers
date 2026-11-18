@@ -10,7 +10,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑12 | [Theoretical Limits of Language Model Alignment](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) | Publication | Official page |
-| 2026‑11‑12 | [Split-and-scale Latent 3D Representations](<https://arxiv.org/abs/2611.16126v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [Split-and-Scale Latent 3D Representations](<https://machinelearning.apple.com/research/split-scale-latent-3d>) | Publication | Verified affiliation, Official page |
 | 2026‑11‑12 | [JudgeMix\: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents](<https://arxiv.org/abs/2611.16174v1>) | Paper | Verified affiliation |
 | 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |
 | 2026‑11‑10 | [Weighted State Souping for Efficient Long-Context Retrieval](<https://machinelearning.apple.com/research/weighted-state-souping>) | Publication | Official page |

@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1954`
-- Latest: `2026-11-14`
+- Papers: `1956`
+- Latest: `2026-11-16`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,9 +17,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑16 | [AMSDS\: Adaptive Cloud-Edge Visual Navigation via DNN Partitioning and Semantic Compression](<https://doi.org/10.1145/3860325>) | Article | OpenAlex |
 | 2026‑11‑14 | [Workload Analysis of a Production BigData-Storage Cluster for ML and Data Analytics](<https://doi.org/10.1145/3828523.3857020>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SOLO\: Making Single-Local-Replica Storage Practical for Geo-Distributed Recommendation Model Training](<https://doi.org/10.1145/3828523.3857035>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [TWIST\: Private Tenant-Dedicated LLM Serving via Joint Model-Token Transformation](<https://doi.org/10.1145/3830454.3846779>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [PhysLoop\: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](<https://arxiv.org/abs/2611.16748>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [LightShift\: Infinite Relighting via Real-time Diffusion Renderer](<https://doi.org/10.1145/3829334.3849467>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [BACAgent\: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications](<https://doi.org/10.1145/3830454.3832642>) | Conference paper | OpenAlex |
 | 2026‑11‑11 | [CineMME\: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding](<https://arxiv.org/abs/2611.15161>) | Preprint | OpenAlex |

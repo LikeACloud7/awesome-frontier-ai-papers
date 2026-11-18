@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2238`
-- Latest: `2026-11-15`
+- Papers: `2242`
+- Latest: `2026-11-16`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,14 +16,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑16 | [Nemotron 3\.5 Bolt E4B 4GB\: An Open and Efficient Small Language Model for Fast Conversational Agents](<https://arxiv.org/abs/2611.20771v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [Singularity-Bench\: Can Agents Build Agents?](<https://arxiv.org/abs/2611.16591>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [ISLA\: A Coordinate-Free, Measure-Weighted Transformer for Boundary-Driven PDEs](<https://arxiv.org/abs/2611.17141>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [From World Foundation Models to Real-world applications\: An Introduction](<https://doi.org/10.1145/3829249.3837803>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Formal Verification of Circuit-Soundness in zkWasm, a General Purpose zkVM](<https://doi.org/10.1145/3830454.3846740>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [AeroZoo\: A Benchmark of Well-Posed Flow Problems for Foundation Models of Aerodynamics](<https://arxiv.org/abs/2611.17152>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [TTB\: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](<https://arxiv.org/abs/2611.17331v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [MuSeToM\: Multi-Sensory Evaluation of Belief Revision with Textual Cues Across Six Senses](<https://arxiv.org/abs/2611.16662v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [EgoX\: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](<https://arxiv.org/abs/2611.16728v1>) | Paper | Verified affiliation |
 | 2026‑11‑11 | [Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators](<https://arxiv.org/abs/2611.14979>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Accelerating Quantum Chemistry with Emulated Double-Precision Matrix Multiplication on GPUs](<https://doi.org/10.26434/chemrxiv.15011999/v1>) | Preprint | OpenAlex |
@@ -51,6 +54,7 @@
 | 2026‑11‑04 | [How to Build Digital Humans? From Priors to Photorealistic Avatars](<https://arxiv.org/abs/2607.04341>) | Article | OpenAlex |
 | 2026‑11‑04 | [TIRx\: A Unified Tile Primitive ML Compiler Across Heterogeneous Backends](<https://arxiv.org/abs/2601.19092>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices](<https://arxiv.org/abs/2611.06994>) | Preprint | OpenAlex |
+| 2026‑11‑04 | [VABAR\: A Variational Automation Benchmark for Agentic Robotics](<https://arxiv.org/abs/2611.06881v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [NanoKV\: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](<https://arxiv.org/abs/2611.05041>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Ground-Wing\: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](<https://arxiv.org/abs/2611.04571>) | Preprint | OpenAlex |
@@ -69,7 +73,7 @@
 | 2026‑11‑02 | [CISA\: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention](<https://arxiv.org/abs/2611.03200v1>) | Paper | Verified affiliation |
 | 2026‑11‑01 | [TrackMem\: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue](<https://arxiv.org/abs/2611.02001>) | Preprint | OpenAlex |
 | 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
-| 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page |
+| 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page, Verified affiliation |
 | 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
 | 2026‑11 | [FOVI-Dex\: Foveation enables efficient perceptive learning of dexterous manipulation in simulation](<https://research.nvidia.com/publication/2026-11_fovi-dex-foveation-enables-efficient-perceptive-learning-dexterous-manipulation>) | Publication | Official page |
 | 2026‑11 | [DemoStream\: Batched Task-and-Motion-Plan Optimization for Automated Learning from Demonstration](<https://research.nvidia.com/publication/2026-11_demostream-batched-task-and-motion-plan-optimization-automated-learning>) | Publication | Official page |

@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5877`
+- Papers: `5897`
 - Latest: `2026-11-14`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -21,6 +21,7 @@
 | 2026‑11‑12 | [Gemini 4 Hydrogen Model Card](<https://deepmind.google/models/model-cards/gemini-4-hydrogen/>) | Model card | Official page |
 | 2026‑11‑12 | [Sketching Language Models for Context Attribution](<https://arxiv.org/abs/2611.17313>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Ballad\: Bandit-Based LLM Routing for Automated Heuristic Discovery](<https://arxiv.org/abs/2611.17241>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [Topology-Aware 4D Gaussian Splatting for Egocentric Videos](<https://arxiv.org/abs/2611.16012>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Scaling public input on AI policy with pluralistic agents](<https://arxiv.org/abs/2611.16028>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [MULTILOOP\: Evolving Multi-Agent Harnesses for Complex Information-Seeking Tasks](<https://arxiv.org/abs/2611.15754>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [GEM-15\: Global surface and terrain elevation models (15 meters) from sub-meter optical stereo imagery](<https://eartharxiv.org/repository/object/16034/download/27743/>) | Preprint | OpenAlex |
@@ -592,7 +593,6 @@
 | 2026‑07‑15 | [An encyclopedia of human enhancer–gene regulatory interactions](<https://doi.org/10.1038/s41586-026-10781-4>) | Article | OpenAlex |
 | 2026‑07‑15 | [Beyond Item IDs\: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling](<https://arxiv.org/abs/2606.07546>) | Conference paper | OpenAlex |
 | 2026‑07‑15 | [Unsafe at any AUC\: Unlearned Lessons From Sociotechnical Disasters for Responsible AI](<https://arxiv.org/abs/2607.14353>) | Article | OpenAlex |
-| 2026‑07‑15 | [Semantic Recall for Vector Search](<https://arxiv.org/abs/2604.20417>) | Conference paper | OpenAlex |
 | 2026‑07‑15 | [On the Needs for Rotations in Hypercubic Quantization Hashing](<https://hal.science/cea-05693589v1>) | Preprint | OpenAlex |
 | 2026‑07‑15 | [Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation](<https://arxiv.org/abs/2607.14256>) | Preprint | OpenAlex |
 | 2026‑07‑15 | [SeeSE3\: Emergence of 3D Space in Vision Features](<https://arxiv.org/abs/2607.14228v1>) | Paper | Verified affiliation |
@@ -674,9 +674,9 @@
 | 2026‑06‑25 | [Amplifying Global Voices\: Building a Localized Data Platform for Globalized AI](<https://doi.org/10.1145/3805689.3812319>) | Conference paper | OpenAlex |
 | 2026‑06‑25 | [OpenMHC\: Accelerating the Science of Wearable Foundation Models](<https://arxiv.org/abs/2607.16235v3>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑06‑24 | [Verifying Intent and Harm\: A Unified Defense Against LLM-Generated Threats](<https://arxiv.org/abs/2606.26377>) | Preprint | OpenAlex |
+| 2026‑06‑24 | [COrigami\: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami](<https://arxiv.org/abs/2606.26299>) | Paper | Verified affiliation |
 | 2026‑06‑23 | [Real-Time Group Dynamics with LLM Facilitation\: Evidence from a Charity Allocation Task](<https://deepmind.google/research/publications/224297/>) | Publication | Official page, OpenAlex |
 | 2026‑06‑23 | [“Where is this coming from?” Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking](<https://arxiv.org/abs/2606.10158>) | Conference paper | OpenAlex |
-| 2026‑06‑23 | [The Reinvention Grammar\: How AI Is Redrawing the Edges of HCI](<https://doi.org/10.1145/3820240>) | Article | OpenAlex |
 | 2026‑06‑23 | [HelpBench\: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](<https://arxiv.org/abs/2606.24819>) | Preprint | OpenAlex |
 | 2026‑06‑23 | [Hedging and Non-Affirmation\: Quantifying LLM Alignment on Questions of Human Rights](<https://doi.org/10.1145/3805689.3806734>) | Conference paper | OpenAlex |
 | 2026‑06‑23 | [From data corruption to algorithmic discrimination\: a structured narrative review of the impact of data integrity on AI ethics](<https://doi.org/10.1007/s43681-026-01198-w>) | Review | OpenAlex |
@@ -693,14 +693,12 @@
 | 2026‑06‑19 | [Benign Overfitting Beyond Prediction\: The Ordinary Least Squares Interpolator](<https://arxiv.org/abs/2309.15769>) | Article | OpenAlex |
 | 2026‑06‑19 | [Counsel\: A Meta-Evaluation Dataset for Agentic Tasks](<https://arxiv.org/abs/2606.21627>) | Preprint | OpenAlex |
 | 2026‑06‑19 | [Composite2Change (C2C) on Google Earth Engine\: Time-series change detection and metrics characterizing disturbance and recovery](<https://doi.org/10.1016/j.envsoft.2026.107082>) | Article | OpenAlex |
-| 2026‑06‑19 | [AI Alignment From Social Choice Perspectives](<https://arxiv.org/abs/2606.21550>) | Preprint | OpenAlex |
 | 2026‑06‑18 | [Topic-to-Timestamp Alignment by Constrained Evidence Selection](<https://arxiv.org/abs/2606.20890>) | Preprint | OpenAlex |
 | 2026‑06‑18 | [Quantile of Means\: A Bonus-Free Ensemble Method for Minimax Optimal Reinforcement Learning](<https://arxiv.org/abs/2606.20107>) | Article | OpenAlex |
 | 2026‑06‑18 | [Lifecycle Management of Conversational AI Agents in Citizen Services Using Copilot Studio and Dataverse](<https://doi.org/10.3390/engproc2026143027>) | Conference paper | OpenAlex |
 | 2026‑06‑18 | [Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery](<https://arxiv.org/abs/2606.19812>) | Article | OpenAlex |
 | 2026‑06‑18 | [CogniRoute\: Learning to Route Social Evidence in Omni-Modal Models](<https://arxiv.org/abs/2606.20970>) | Preprint | OpenAlex |
 | 2026‑06‑17 | [Private Learning with Public Feature Conditioning](<https://www.microsoft.com/en-us/research/publication/private-learning-with-public-feature-conditioning-2/>) | Publication | Official page, OpenAlex |
-| 2026‑06‑17 | [Technical to deployable potential of rooftop solar photovoltaics](<https://doi.org/10.1038/s44359-026-00179-w>) | Review | OpenAlex |
 | 2026‑06‑17 | [Can In-Context Learning Support Intrinsic Curiosity?](<https://arxiv.org/abs/2606.19476>) | Preprint | OpenAlex |
 | 2026‑06‑17 | [Token Factory\: Efficiently Integrating Diverse Signals into Large Recommendation Models](<https://arxiv.org/abs/2606.19635v3>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑06‑17 | [Physics-IQ Verified](<https://arxiv.org/abs/2606.18943v1>) | Paper | Verified affiliation |
@@ -862,7 +860,6 @@
 | 2026‑05‑17 | [Stop When Reasoning Converges\: Semantic-Preserving Early Exit for Reasoning Models](<https://arxiv.org/abs/2605.17672>) | Preprint | OpenAlex |
 | 2026‑05‑17 | [LLMForge\: Multi-Backend Hardware-Aware Neural Architecture Search with Infinite-Head Attention for Edge Language Models](<https://arxiv.org/abs/2605.17653>) | Preprint | OpenAlex |
 | 2026‑05‑17 | [Active Budget Allocation for Efficient Scaling Law Estimation via Surrogate-Guided Pruning](<https://arxiv.org/abs/2605.17234>) | Preprint | OpenAlex |
-| 2026‑05‑15 | [Customizing an LLM for Enterprise Software Engineering](<https://arxiv.org/abs/2605.16517v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑05‑15 | [PDLP\: a practical first-order method for large-scale linear programming](<https://doi.org/10.1007/s12532-026-00309-2>) | Article | OpenAlex |
 | 2026‑05‑15 | [A framework for clinical validation of generative artificial intelligence therapeutics](<https://doi.org/10.1002/wps.70067>) | Article | OpenAlex |
 | 2026‑05‑15 | [Probabilistic Seasonal Streamflow Forecasting Across California's Sierra Nevada Watersheds with Agentic AI](<https://arxiv.org/abs/2605.16178>) | Preprint | OpenAlex |
@@ -1142,7 +1139,6 @@
 | 2026‑03‑16 | [Reply to Vankov et al\.\: Reasoning traces are linked to accuracy and capture key dimensions of problem complexity](<https://doi.org/10.1073/pnas.2603574123>) | Letter | OpenAlex |
 | 2026‑03‑16 | [Translating AI research into reality\: summary of the 2025 voice AI Symposium and Hackathon](<https://doi.org/10.3389/fdgth.2026.1754426>) | Article | OpenAlex |
 | 2026‑03‑16 | [100x Cost &amp; Latency Reduction\: Performance Analysis of AI Query Approximation using Lightweight Proxy Models\: \[Experiments &amp; Analysis\]](<https://arxiv.org/abs/2603.15970>) | Article | OpenAlex |
-| 2026‑03‑15 | [Tool-MCoT\: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](<http://arxiv.org/abs/2604.06205>) | Article | OpenAlex |
 | 2026‑03‑14 | [VirtualEnv\: A Platform for Embodied AI Research](<https://doi.org/10.1609/aaai.v40i22.38923>) | Article | OpenAlex |
 | 2026‑03‑14 | [A survey on imitation learning for contact-rich tasks in robotics](<https://doi.org/10.1177/02783649261417694>) | Article | OpenAlex |
 | 2026‑03‑14 | [STAR-1\: Safer Alignment of Reasoning LLMs with 1K Data](<https://doi.org/10.1609/aaai.v40i44.41136>) | Article | OpenAlex |
@@ -1501,7 +1497,6 @@
 | 2026‑01‑01 | [Evaluating AI Agents](<https://doi.org/10.1007/978-3-032-26749-8_4>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Enhancing Multimodal Learning in Generative AI\: Integrating Visual Context with LLMs for Improved Understanding in Cloud Environments](<https://doi.org/10.1007/978-981-96-8104-4_4>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Emotion-Driven Medication Recommendations for Patients](<https://doi.org/10.1007/978-3-032-27711-4_12>) | Conference paper | OpenAlex |
-| 2026‑01‑01 | [EgoDG-Bench\: Egocentric Video Domain Generalization in the Era of VLMs](<https://doi.org/10.2139/ssrn.7225576>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Early Estimation of Language to Latent Alignment in Diffusion Models](<https://arxiv.org/abs/2512.08505>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [ELT\: Elastic Looped Transformers for Visual Generation](<https://arxiv.org/abs/2604.09168>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [ECHO\: Ego-Centric Modeling of Human-Object Interactions](<https://arxiv.org/abs/2508.21556>) | Conference paper | OpenAlex |
@@ -1514,7 +1509,6 @@
 | 2026‑01‑01 | [CoCo-IR\: Contextual Composed Image Retrieval](<https://arxiv.org/abs/2608.05149>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Capacity-Latency Tradeoffs in CXL Memory Expander at Hyperscale](<https://doi.org/10.1109/lca.2026.3676988>) | Article | OpenAlex |
 | 2026‑01‑01 | [Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams](<http://arxiv.org/abs/2603.07392>) | Preprint | OpenAlex |
-| 2026‑01‑01 | [CRAFT\: Clustered Regression for Adaptive Filtering of Training data](<https://arxiv.org/abs/2604.22693>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Blockchain Payment Fraud Detection with a Hybrid CNN-GNN-LSTM Model](<https://doi.org/10.2139/ssrn.6252359>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Beyond Simple Character Recognition\: A Comparative Study of Vision-Language Models and Dedicated OCR Systems in Edge Cases](<https://doi.org/10.1109/access.2026.3705442>) | Article | OpenAlex |
 | 2026‑01‑01 | [Benchmarking Models for Low-Resource Nepali Event Extraction with Trigger Phrase Identification and Event Classification](<https://doi.org/10.18653/v1/2026.eeuca-1.7>) | Conference paper | OpenAlex |
@@ -1576,6 +1570,7 @@
 | 2026 | [A prospective clinical feasibility study of a conversational diagnostic AI in an ambulatory primary care clinic](<https://research.google/pubs/a-prospective-clinical-feasibility-study-of-a-conversational-diagnostic-ai-in-an-ambulatory-primary-care-clinic/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [A comparison of machine learning and human graders for glaucoma diagnosis from fundus images for population screening](<https://research.google/pubs/a-comparison-of-machine-learning-and-human-graders-for-glaucoma-diagnosis-from-fundus-images-for-population-screening-2/>) | Publication | OpenAlex, Official page |
 | 2026 | [“That Experience Still Haunts Me to This Day”\: A Multi-Region Survey on AI-Generated Image-Based Sexual Abuse Victimization](<https://research.google/pubs/that-experience-still-haunts-me-to-this-day-a-multi-region-survey-on-ai-generated-image-based-sexual-abuse-victimization/>) | Publication | OpenAlex, Official page |
+| 2026 | [“That Experience Still Haunts Me to This Day”\: A Multi-Country Survey of AI-Image based Sexual Abuse Victimization](<https://research.google/pubs/that-experience-still-haunts-me-to-this-day-a-multi-country-survey-of-ai-image-based-sexual-abuse-victimization/>) | Publication | Official page |
 | 2026 | [ZA-SLAM\: Leveraging Vision-Language Model for Zero-Shot Acoustic SLAM](<https://research.google/pubs/za-slam-leveraging-vision-language-model-for-zero-shot-acoustic-slam/>) | Publication | OpenAlex, Official page |
 | 2026 | [You Can't Solve Democracy in Q3\: A Critical Analysis of Initiatives to Democratize AI](<https://research.google/pubs/you-cant-solve-democracy-in-q3-a-critical-analysis-of-initiatives-to-democratize-ai/>) | Publication | Official page |
 | 2026 | [XProf\: An Open, Scalable and Extensible Profiling System for the Modern ML Stack](<https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/>) | Publication | Official page |
@@ -1606,10 +1601,12 @@
 | 2026 | [Towards 10kAmp AI Chip\: A System Perspective from Lateral to Vertical Power Delivery](<https://research.google/pubs/towards-10kamp-ai-chip-a-system-perspective-from-lateral-to-vertical-power-delivery/>) | Publication | Official page |
 | 2026 | [Toward a Theory of Value in AI Alignment](<https://research.google/pubs/toward-a-theory-of-value-in-ai-alignment/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [ToolGrad\: Efficient Tool-use Dataset Generation with Textual "Gradients"](<https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/>) | Publication | Official page, OpenAlex |
+| 2026 | [Tool-MCoT\: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation](<https://research.google/pubs/tool-mcot-tool-augmented-multimodal-chain-of-thought-for-content-safety-moderation/>) | Publication | OpenAlex, Official page |
 | 2026 | [Theoretical Perspectives on Data Quality and Synergistic Effects in Pre- and Post-Training Reasoning Models](<https://research.google/pubs/theoretical-perspectives-on-data-quality-and-synergistic-effects-in-pre-and-post-training-reasoning-models/>) | Publication | Official page, OpenAlex |
 | 2026 | [Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning](<https://research.google/pubs/theoretical-foundations-and-effective-algorithms-for-policy-aware-simulator-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [The business case for investing in employee health to generate organisational success](<https://research.google/pubs/the-business-case-for-investing-in-employee-health-to-generate-organisational-success-2/>) | Publication | Official page |
 | 2026 | [The Synthetic Gap\: Automating Forensic Investigation of "AI Slop" with the Scaled Abuse Forensics Examiner (SAFE)](<https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/>) | Publication | Official page |
+| 2026 | [The Reinvention Grammar\: How AI is redrawing the edges of HCI](<https://research.google/pubs/the-reinvention-grammar-how-ai-is-redrawing-the-edges-of-hci/>) | Publication | OpenAlex, Official page |
 | 2026 | [The Perfection Paradox\: From Architect to Curator in AI-Assisted API Design](<https://research.google/pubs/the-perfection-paradox-from-architect-to-curator-in-ai-assisted-api-design/>) | Publication | Official page, OpenAlex |
 | 2026 | [The Ontic-Epistemic Distinction\: Implications for General Intelligence](<https://research.google/pubs/the-ontic-epistemic-distinction-implications-for-robust-machine-intelligence/>) | Publication | Official page |
 | 2026 | [The Manager's Job Has Already Changed, Most Companies Haven't Noticed](<https://research.google/pubs/the-managers-job-has-already-changed-most-companies-havent-noticed/>) | Publication | Official page |
@@ -1621,7 +1618,9 @@
 | 2026 | [The AI architecture decisions that cannot wait](<https://research.google/pubs/the-ai-architecture-decisions-that-cannot-wait/>) | Publication | Official page |
 | 2026 | [The AI Skills Opportunity Map\: Preparing the Next Generation Workforce](<https://research.google/pubs/the-ai-skills-opportunity-map-preparing-the-next-generation-workforce/>) | Publication | Official page |
 | 2026 | [The AI Divide\: Bridging the Implementation Gap in State and Territorial Public Health Departments](<https://research.google/pubs/the-ai-divide-bridging-the-implementation-gap-in-state-and-territorial-public-health-departments-2/>) | Publication | Official page |
+| 2026 | [The ACUTE Protocol\: Operationalizing Language Model Activations for Better Calibration, Utility, and Trust](<https://research.google/pubs/the-acute-protocol-operationalizing-language-model-activations-for-better-calibration-utility-and-trust/>) | Publication | Official page |
 | 2026 | [Temper-Then-Tilt\: Principled Unlearning for Generative Models through Tempering and Classifier Guidance](<https://research.google/pubs/temper-then-tilt-principled-unlearning-for-generative-models-through-tempering-and-classifier-guidance/>) | Publication | Official page, OpenAlex |
+| 2026 | [Technical to deployable potential of rooftop solar photovoltaics](<https://research.google/pubs/technical-to-deployable-potential-of-rooftop-solar-photovoltaics/>) | Publication | OpenAlex, Official page |
 | 2026 | [Technical Debt in the AI Era](<https://research.google/pubs/technical-debt-in-the-ai-era/>) | Publication | OpenAlex, Official page |
 | 2026 | [TFRBench\: A Reasoning Benchmark for Evaluating Forecasting Systems](<https://research.google/pubs/tfrbench-a-reasoning-benchmark-for-evaluating-forecasting-systems/>) | Publication | Official page |
 | 2026 | [TDXRay\: Microarchitectural Side-Channel Analysis of Intel TDX for Real-World Workloads](<https://research.google/pubs/tdxray-microarchitectural-side-channel-analysis-of-intel-tdx-for-real-world-workloads/>) | Publication | Official page, OpenAlex |
@@ -1629,15 +1628,18 @@
 | 2026 | [System for Validating Medical Software Algorithms With Closed-Loop Adversarial Persona Generation](<https://research.google/pubs/system-for-validating-medical-software-algorithms-with-closed-loop-adversarial-persona-generation/>) | Publication | Official page |
 | 2026 | [Synergetic Adaptive Orchestration and Governance\: A Unified Framework for Production-Grade Multi-Agent Systems](<https://research.google/pubs/synergetic-adaptive-orchestration-and-governance-a-unified-framework-for-production-grade-multi-agent-systems/>) | Publication | OpenAlex, Official page |
 | 2026 | [Surviving the perfect storm\: how hardware PMs can beat the AI tax and trade tariffs](<https://research.google/pubs/surviving-the-perfect-storm-how-hardware-pms-can-beat-the-ai-tax-and-trade-tariffs/>) | Publication | Official page |
+| 2026 | [Surviving the Unseen\: Predictive Defense for Novel Multi-Turn Multimodal Attacks](<https://research.google/pubs/surviving-the-unseen-predictive-defense-for-novel-multi-turn-multimodal-attacks/>) | Publication | Official page |
 | 2026 | [Structural and Programmatic Prompting in Financial Artificial Intelligence](<https://research.google/pubs/structural-and-programmatic-prompting-in-financial-artificial-intelligence/>) | Publication | Official page |
 | 2026 | [Stochastic Linear Bandits with Parameter Noise](<https://research.google/pubs/stochastic-linear-bandits-with-parameter-noise/>) | Publication | Official page |
 | 2026 | [SpatialStack\: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](<https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/>) | Publication | Official page, OpenAlex |
+| 2026 | [Spatial Multiverse Analysis\: GenAI as an Automated Critic for Robustness in Spatial Analysis](<https://research.google/pubs/spatial-multiverse-analysis-genai-as-an-automated-critic-for-robustness-in-spatial-analysis/>) | Publication | Official page |
 | 2026 | [Solving an open problem in theoretical physics using AI-assisted discovery](<https://research.google/pubs/solving-an-open-problem-in-theoretical-physics-using-ai-assisted-discovery/>) | Publication | Official page, OpenAlex |
 | 2026 | [SoK\: Systems Security Foundations for Agentic Computing](<https://research.google/pubs/sok-systems-security-foundations-for-agentic-computing/>) | Publication | Official page |
 | 2026 | [SoK\: Security Vulnerabilities in Agentic AI Systems](<https://research.google/pubs/sok-security-vulnerabilities-in-agentic-ai-systems/>) | Publication | OpenAlex, Official page |
 | 2026 | [Smarter tools, weaker minds? Introducing the CTRL theory of Youth–AI dependency](<https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/>) | Publication | Official page |
 | 2026 | [Silicon-Level Sovereignty\: Root of Trust in AI Accelerators (Digital Trust &amp; Policy)](<https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/>) | Publication | Official page |
 | 2026 | [Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](<https://research.google/pubs/shifting-the-breaking-point-of-flow-matching-for-multi-instance-editing/>) | Publication | Verified affiliation, Official page |
+| 2026 | [Semantic Recall for Vector Search](<https://research.google/pubs/semantic-recall-for-vector-search/>) | Publication | OpenAlex, Official page |
 | 2026 | [Self-Evolving Recommendation System\: End-To-End Autonomous Model Optimization With LLM Agents](<https://research.google/pubs/self-evolving-recommendation-system-end-to-end-autonomous-model-optimization-with-llm-agents/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026 | [Seeing vs\. Counting\: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams](<https://research.google/pubs/seeing-vs-counting-complexity-twins-show-where-multimodal-llms-fail-on-diagrams/>) | Publication | Official page |
 | 2026 | [See2Refine\: Vision-Language Feedback Improves LLM-Based eHMI Action Designers](<https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/>) | Publication | Official page, OpenAlex |
@@ -1646,10 +1648,12 @@
 | 2026 | [ScholarPeer\: A Multi-Agent Framework for Automated Peer Review](<https://research.google/pubs/scholarpeer-a-multi-agent-framework-for-automated-peer-review/>) | Publication | Official page |
 | 2026 | [Scalable Detection of Adversarial Synthetic Slop and Coordinated Media Abuse\: A LoRA-Enabled Multimodal Defense System](<https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-2/>) | Publication | Official page |
 | 2026 | [Scalability With AI\: Lessons From Real Production Systems](<https://research.google/pubs/scalability-with-ai-lessons-from-real-production-systems/>) | Publication | Official page |
+| 2026 | [SSL-R1\: Self-Supervised Visual Reinforcement Learning for Multimodal LLM Reasoning](<https://research.google/pubs/ssl-r1-self-supervised-visual-reinforcement-learning-for-multimodal-llm-reasoning-2/>) | Publication | Official page |
 | 2026 | [SKILL\.state\: Scalable Long-Horizon Agent Skills](<https://research.google/pubs/skillstate-scalable-long-horizon-agent-skills/>) | Publication | Official page |
 | 2026 | [SIGMA\: Scalable Spectral Insights for LLM Collapse](<https://research.google/pubs/sigma-scalable-spectral-insights-for-llm-collapse/>) | Publication | Official page |
 | 2026 | [SHOC\: Scalable 4D Hand-Object Capture via Spatiotemporal Priors and Physics-Aware Splatting](<https://research.google/pubs/shoc-scalable-4d-hand-object-capture-via-spatiotemporal-priors-and-physics-aware-splatting/>) | Publication | Official page |
 | 2026 | [RosettaTrace\: Human interpretable protein sequence design using rollout-guided search with Large Language Models](<https://research.google/pubs/rosettatrace-human-interpretable-protein-sequence-design-using-rollout-guided-search-with-large-language-models/>) | Publication | Official page |
+| 2026 | [Rethinking Reliability for Generative AI Workloads in Cloud Environments](<https://research.google/pubs/rethinking-reliability-for-generative-ai-workloads-in-cloud-environments/>) | Publication | Official page |
 | 2026 | [Rethinking Context-Enriched Time-Series Forecasting Evaluation](<https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/>) | Publication | Official page |
 | 2026 | [Responsible Health AI\: Psychometric Validation of a Novel Health Information Quality Assessment Tool for GenAI](<https://research.google/pubs/responsible-health-ai-psychometric-validation-of-a-novel-health-information-quality-assessment-tool-for-genai/>) | Publication | Official page |
 | 2026 | [ResidencyRL\: Reinforcement Learning in Simulated Clinical Environments](<https://research.google/pubs/residencyrl-reinforcement-learning-in-simulated-clinical-environments/>) | Publication | OpenAlex, Official page |
@@ -1677,6 +1681,7 @@
 | 2026 | [PoTRE\: Test-Time Reasoning inspired by Cognitive Heterogeneity](<https://research.google/pubs/potre-test-time-reasoning-inspired-by-cognitive-heterogeneity/>) | Publication | OpenAlex, Official page |
 | 2026 | [Planetary Prediction Engine\: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](<https://research.google/pubs/planetary-prediction-engine-autonomous-geospatial-prediction-via-intelligent-data-selection-and-foundation-model-embeddings/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026 | [Pixel Watch\: Robust Heart Rate Sensing from Multipath PPG and On-Device Deep Learning Trained on 10,000 hours of Free-Living and Fitness Data](<https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/>) | Publication | Official page, Verified affiliation, OpenAlex |
+| 2026 | [Performance comparison of two-phase immersion cooling vs single-phase liquid cooling for high power density bare die packages](<https://research.google/pubs/performance-comparison-of-two-phase-immersion-cooling-vs-single-phase-liquid-cooling-for-high-power-density-bare-die-packages/>) | Publication | Official page |
 | 2026 | [Performance analysis of updated Sleep Tracking algorithms across Google and Fitbit wearable devices](<https://research.google/pubs/performance-analysis-of-updated-sleep-tracking-algorithms-across-google-and-fitbit-wearable-devices/>) | Publication | Official page |
 | 2026 | [Peeking Ahead of the Field Study\: Exploring VLM Personas as Support Tools for Embodied Studies in HCI](<https://research.google/pubs/peeking-ahead-of-the-field-study-exploring-vlm-personas-as-support-tools-for-embodied-studies-in-hci/>) | Publication | Official page |
 | 2026 | [PaperOrchestra\: A Multi-Agent Framework for Automated AI Research Paper Writing](<https://research.google/pubs/paperorchestra-a-multi-agent-framework-for-automated-ai-research-paper-writing/>) | Publication | Official page |
@@ -1692,6 +1697,7 @@
 | 2026 | [Optimized Deferral for Imbalanced Settings](<https://research.google/pubs/optimized-deferral-for-imbalanced-settings/>) | Publication | Official page |
 | 2026 | [Optical Transport Optimized for AI Infrastructure - Fiber Is The New Wavelength (𝝺)](<https://research.google/pubs/optical-transport-optimized-for-ai-infrastructure-fiber-is-the-new-wavelength-%CE%BB/>) | Publication | Official page |
 | 2026 | [Optical Architecture and Interconnection for AI/ML Networks](<https://research.google/pubs/optical-architecture-and-interconnection-for-aiml-networks/>) | Publication | Official page |
+| 2026 | [Opinion\: Finding the Real Bottleneck in Large-Scale ML Training](<https://research.google/pubs/opinion-finding-the-real-bottleneck-in-large-scale-ml-training/>) | Publication | Official page |
 | 2026 | [OpenClaw in Practice\: Building Laptop-Less Engineering Workflows with an Agent Harness](<https://research.google/pubs/openclaw-in-practice-building-laptop-less-engineering-workflows-with-an-agent-harness/>) | Publication | Official page |
 | 2026 | [Open and Emergent Problems in Agentic Privacy and Security\: A Contextual Angle](<https://research.google/pubs/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/>) | Publication | Official page |
 | 2026 | [On-the-Fly OVD Adaptation with FLAME\: Few-shot Localization via Active Marginal-Samples Exploration](<https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/>) | Publication | Official page, OpenAlex |
@@ -1715,6 +1721,8 @@
 | 2026 | [Method for Secure AI Grounding using Semantic Token Substitution and Client-Side Re-Hydration](<https://research.google/pubs/method-for-secure-ai-grounding-using-semantic-token-substitution-and-client-side-re-hydration/>) | Publication | Official page |
 | 2026 | [Meta-Initialized Warm Pool Manager\: Predictive Cold Start Mitigation for Serverless Functions via Adaptive Meta-Learning](<https://research.google/pubs/meta-initialized-warm-pool-manager-predictive-cold-start-mitigation-for-serverless-functions-via-adaptive-meta-learning/>) | Publication | Official page, OpenAlex |
 | 2026 | [Mentorship, Interrupted\: How AI Disrupts the GSoC Pipeline and Why Mentors Matter More](<https://research.google/pubs/mentorship-interrupted-how-ai-disrupts-the-gsoc-pipeline-and-why-mentors-matter-more/>) | Publication | Official page |
+| 2026 | [Meet the AI Moment\: Using Afrofuturism and Technowomanism Together as Technological Practice](<https://research.google/pubs/meet-the-ai-moment-using-afrofuturism-and-technowomanism-together-as-technological-practice/>) | Publication | Official page |
+| 2026 | [Measuring Cultural Intelligence of AI Systems\: A Unified Framework](<https://research.google/pubs/measuring-cultural-intelligence-of-ai-systems-a-unified-framework/>) | Publication | Official page |
 | 2026 | [MaxIM\: Maximally Informative Incremental Summarization via Reinforcement Learning](<https://research.google/pubs/maxim-maximally-informative-incremental-summarization-via-reinforcement-learning/>) | Publication | Official page, OpenAlex |
 | 2026 | [Manifest-Assisted Retrieval in Artificial Intelligence Search\: Evidence Gaps and a Security Evaluation Framework for llms\.txt](<https://research.google/pubs/manifest-assisted-retrieval-in-artificial-intelligence-search-evidence-gaps-and-a-security-evaluation-framework-for-llmstxt/>) | Publication | Official page |
 | 2026 | [Machine learning quantum data to accelerate quantum Monte Carlo](<https://research.google/pubs/machine-learning-quantum-data-to-accelerate-quantum-monte-carlo/>) | Publication | OpenAlex, Official page, Verified affiliation |
@@ -1743,6 +1751,7 @@
 | 2026 | [Inference-time Unlearning Using Conformal Prediction](<https://research.google/pubs/inference-time-unlearning-using-conformal-prediction/>) | Publication | OpenAlex, Official page |
 | 2026 | [Inference Perf\: A Benchmarking Tool for GenAI Inference](<https://research.google/pubs/inference-perf-a-benchmarking-tool-for-genai-inference/>) | Publication | OpenAlex, Official page |
 | 2026 | [Industrial Agentic Engineering](<https://research.google/pubs/industrial-agentic-engineering/>) | Publication | Official page |
+| 2026 | [Inceptive RAG\: A Rigorous Gradient-Based Attribution Metric for Programmatic Data Monetization](<https://research.google/pubs/inceptive-rag-a-rigorous-gradient-based-attribution-metric-for-programmatic-data-monetization/>) | Publication | Official page |
 | 2026 | [In Search of "Weird Corners"\: Diagnosing the Limits of Convergent AI in Professional Creative Practice](<https://research.google/pubs/in-search-of-weird-corners-diagnosing-the-limits-of-convergent-ai-in-professional-creative-practice/>) | Publication | OpenAlex, Official page |
 | 2026 | [Impact of User Tonalities on Coding AI Model Performance and Behavior](<https://research.google/pubs/impact-of-user-tonalities-on-coding-ai-model-performance-and-behavior/>) | Publication | OpenAlex, Official page |
 | 2026 | [Identifying Model Quality Effects on User Engagement\: A Within-Version Causal Estimator with Synthetic Data Validation](<https://research.google/pubs/identifying-model-quality-effects-on-user-engagement-a-within-version-causal-estimator-with-synthetic-data-validation/>) | Publication | Official page |
@@ -1761,6 +1770,7 @@
 | 2026 | [GroupDPO\: Memory-Efficient Group-Wise Direct Preference Optimization](<https://research.google/pubs/groupdpo-memory-efficient-group-wise-direct-preference-optimization/>) | Publication | OpenAlex, Official page |
 | 2026 | [Grounding AI Agents in Contracts\: An Empirical Evaluation of Spec-Driven Test Generation](<https://research.google/pubs/grounding-ai-agents-in-contracts-an-empirical-evaluation-of-spec-driven-test-generation/>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026 | [GroundSet\: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data](<https://research.google/pubs/groundset-a-cadastral-grounded-dataset-for-spatial-understanding-with-vector-data/>) | Publication | OpenAlex, Official page |
+| 2026 | [Governing the Agentic Enterprise\: A New Operating Model for Autonomous AI at Scale](<https://research.google/pubs/governing-the-agentic-enterprise-a-new-operating-model-for-autonomous-ai-at-scale/>) | Publication | Official page |
 | 2026 | [Google's Training Supercomputers from TPU v2 to Ironwood\: Architectural Stability, Scale, Resilience, Power Efficiency, and Sustainability Across Five Generation](<https://research.google/pubs/googles-training-supercomputers-from-tpu-v2-to-ironwood-architectural-stability-scale-resilience-power-efficiency-and-sustainability-across-five-generation/>) | Publication | Official page |
 | 2026 | [Google's Pedagogical Framework for Generative AI to Support Human Learning](<https://research.google/pubs/googles-pedagogical-framework-for-generative-ai-to-support-human-learning/>) | Publication | Official page |
 | 2026 | [Google Earth AI Geospatial Reasoning Agent\: Capabilities and a Systematic Evaluation](<https://research.google/pubs/google-earth-ai-geospatial-reasoning-agent-capabilities-and-a-systematic-evaluation/>) | Publication | Official page, Verified affiliation, OpenAlex |
@@ -1797,8 +1807,10 @@
 | 2026 | [Expert evaluation of LLM world models\: A high-Tc superconductivity case study](<https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/>) | Publication | Official page |
 | 2026 | [Exact oracle complexity for function-value suboptimality under weighted initial conditions](<https://research.google/pubs/exact-oracle-complexity-for-function-value-suboptimality-under-weighted-initial-conditions/>) | Publication | Official page |
 | 2026 | [Evaluating Contextual Illegality\: AI Compliance in Corporate Law Scenarios](<https://research.google/pubs/evaluating-contextual-illegality-ai-compliance-in-corporate-law-scenarios/>) | Publication | Official page |
+| 2026 | [Energy-Efficient Thermal Control for 2U Air-Cooled Servers via MADDPG and Online Learning](<https://research.google/pubs/energy-efficient-thermal-control-for-2u-air-cooled-servers-via-maddpg-and-online-learning/>) | Publication | Official page |
 | 2026 | [Elephants, Goldfish and the New Golden Age of Software Engineering](<https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/>) | Publication | Official page |
 | 2026 | [Elastic Threshold Attention\: Learned Contextual Sparsity for Long-Context Decoding](<https://research.google/pubs/elastic-threshold-attention-learned-contextual-sparsity-for-long-context-decoding-2/>) | Publication | Official page |
+| 2026 | [EgoDG-Bench\: Egocentric Video Domain Generalization in the Era of VLMs](<https://research.google/pubs/egodg-bench-egocentric-video-domain-generalization-in-the-era-of-vlms/>) | Publication | OpenAlex, Official page |
 | 2026 | [Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion](<https://research.google/pubs/efficient-property-aligned-fan-out-retrieval-via-rl-compiled-diffusion-2/>) | Publication | Official page, OpenAlex |
 | 2026 | [Editing Everything Everywhere All at Once](<https://research.google/pubs/editing-everything-everywhere-all-at-once/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [ECO\: Accurate Quantization-Aware Training Without Master Weights](<https://research.google/pubs/eco-accurate-quantization-aware-training-without-master-weights/>) | Publication | Official page |
@@ -1811,9 +1823,12 @@
 | 2026 | [Dialect Bias in Speech Recognition Across 10 Spanish and French Varieties](<https://research.google/pubs/dialect-bias-in-speech-recognition-across-10-spanish-and-french-varieties/>) | Publication | Official page |
 | 2026 | [Developer Productivity in the Age of Generative AI\: A Psychological Perspective](<https://research.google/pubs/developer-productivity-in-the-age-of-generative-ai-a-psychological-perspective/>) | Publication | Official page |
 | 2026 | [Detecting Safety Training Modification in Language Models via Activation Analysis](<https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/>) | Publication | Official page, OpenAlex |
+| 2026 | [Deep learning-assisted Structural Color Inverse Design\: A Perspective](<https://research.google/pubs/deep-learning-assisted-structural-color-inverse-design-a-perspective/>) | Publication | Official page |
 | 2026 | [Decoupling Exploration and Policy Optimization\: Uncertainty Guided Tree Search for Hard Exploration](<https://research.google/pubs/decoupling-exploration-and-policy-optimization-uncertainty-guided-tree-search-for-hard-exploration/>) | Publication | OpenAlex, Official page |
+| 2026 | [Decoding embodied language representations in human communication](<https://research.google/pubs/decoding-embodied-language-representations-in-human-communication/>) | Publication | Official page |
 | 2026 | [DataComp for Vision-Language Models](<https://research.google/pubs/datacomp-for-vision-language-models/>) | Publication | Official page |
 | 2026 | [DRGSplat\: Depth-Regularized 3D Gaussian Splatting](<https://research.google/pubs/drgsplat-depth-regularized-3d-gaussian-splatting/>) | Publication | Official page |
+| 2026 | [Customizing an LLM for Enterprise Software Engineering](<https://research.google/pubs/customizing-an-llm-for-enterprise-software-engineering/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026 | [Cost-Aware Learning](<https://research.google/pubs/cost-aware-learning/>) | Publication | Official page, OpenAlex |
 | 2026 | [Convergence of LLM Integration and Edge Intelligence in Decentralized IoT Ecosystems](<https://research.google/pubs/convergence-of-llm-integration-and-edge-intelligence-in-decentralized-iot-ecosystems/>) | Publication | OpenAlex, Official page |
 | 2026 | [ConvApparel\: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders](<https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/>) | Publication | OpenAlex, Official page |
@@ -1832,12 +1847,14 @@
 | 2026 | [Calibrating Trustworthiness in GenAI](<https://research.google/pubs/calibrating-trustworthiness-in-genai/>) | Publication | Official page |
 | 2026 | [Cached Summary Embeddings for Memory-Efficient EHR Inference](<https://research.google/pubs/cached-summary-embeddings-for-memory-efficient-ehr-inference-2/>) | Publication | Official page |
 | 2026 | [CROP\: Token-Efficient Reasoning in Large Language Models via Regularized Prompt Optimization](<https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/>) | Publication | Official page |
+| 2026 | [CRAFT\: Clustered Regression for Adaptive Filtering of Training data](<https://research.google/pubs/craft-clustered-regression-for-adaptive-filtering-of-training-data/>) | Publication | OpenAlex, Official page |
 | 2026 | [CGM-JEPA\: Learning Transferable Continuous Glucose Monitor Representations via Self-Supervised Pretraining and Cross-View Regularization](<https://research.google/pubs/cgm-jepa-learning-transferable-continuous-glucose-monitor-representations-via-self-supervised-pretraining-and-cross-view-regularization/>) | Publication | Official page |
 | 2026 | [CATWILD\: Compiler Autotuning For TPU workloads in the Wild](<https://research.google/pubs/catwild-compiler-autotuning-for-tpu-workloads-in-the-wild/>) | Publication | Official page |
 | 2026 | [CAFE(S)\: Your Agent Is Only as Good as Its Context](<https://research.google/pubs/cafes-your-agent-is-only-as-good-as-its-context/>) | Publication | OpenAlex, Official page |
 | 2026 | [Building the Global Backbone of the Agentic Web](<https://research.google/pubs/building-the-global-backbone-of-the-agentic-web/>) | Publication | Official page |
 | 2026 | [Bug Hunting on Gemini Spark](<https://research.google/pubs/bug-hunting-on-gemini-spark/>) | Publication | Official page |
 | 2026 | [Bridging the Dimensionality Gap\: A Taxonomy and Survey of 2D Vision Model Adaptation for 3D Analysis](<https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/>) | Publication | Official page |
+| 2026 | [Breaking the O(N^2) Barrier\: AI-Assisted Linear-Time Formal Verification of Deep Pipeline Buffers](<https://research.google/pubs/breaking-the-on2-barrier-ai-assisted-linear-time-formal-verification-of-deep-pipeline-buffers/>) | Publication | Official page |
 | 2026 | [Breaking the I/O Crisis\: An AI-Driven Selective Emulation Framework for 500x Data Reduction in GPU Verification](<https://research.google/pubs/breaking-the-io-crisis-an-ai-driven-selective-emulation-framework-for-500x-data-reduction-in-gpu-verification/>) | Publication | Official page |
 | 2026 | [Brain-inspired AI saves energy](<https://research.google/pubs/brain-inspired-ai-saves-energy/>) | Publication | Official page |
 | 2026 | [Bounded Provisional Visibility\: Controlling Poisoning Exposure in Continuously Ingested RAG Vector Stores](<https://research.google/pubs/bounded-provisional-visibility-controlling-poisoning-exposure-in-continuously-ingested-rag-vector-stores/>) | Publication | Official page, OpenAlex |
@@ -1848,6 +1865,7 @@
 | 2026 | [Beyond Perplexity\: UTF-8 Validity in Byte-aware Language Models](<https://research.google/pubs/beyond-perplexity-utf-8-validity-in-byte-aware-language-models/>) | Publication | Official page |
 | 2026 | [Beyond PII\: How Users Perceive and Attempt to Mitigate Implicit LLM Inference](<https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/>) | Publication | Official page |
 | 2026 | [Balancing AI tensions\: Moving from AI adoption to effective SDLC use](<https://research.google/pubs/balancing-ai-tensions-moving-from-ai-adoption-to-effective-sdlc-use/>) | Publication | Official page |
+| 2026 | [AuditoryHuM\: Auditory Scene Label Generation and Clustering using Human-MLLM Collaboration](<https://research.google/pubs/auditoryhum-auditory-scene-label-generation-and-clustering-using-human-mllm-collaboration/>) | Publication | Official page |
 | 2026 | [Assessing Global Flood Risk from Atmospheric Rivers through Physically Guided Machine Learning](<https://research.google/pubs/assessing-global-flood-risk-from-atmospheric-rivers-through-physically-guided-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Are you speaking my languages? On spoken language adherence in multimodal LLMs](<https://research.google/pubs/are-you-speaking-my-languages-on-spoken-language-adherence-in-multimodal-llms/>) | Publication | Official page |
 | 2026 | [Architecting Conversational Data Systems for Stateless LLM APIs](<https://research.google/pubs/architecting-conversational-data-systems-for-stateless-llm-apis/>) | Publication | Official page |
@@ -1878,10 +1896,12 @@
 | 2026 | [AI is (not) the new\.\.\."\: A Diagnostic Analogy Framework for Generative AI's Cultural Impacts](<https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/>) | Publication | Official page, Verified affiliation |
 | 2026 | [AI Query Compilation for Unified and Optimized Execution](<https://research.google/pubs/ai-query-compilation-for-unified-and-optimized-execution/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026 | [AI Driven Verification Architectures - Scaling Formal Sign-off of High Bandwidth Data Crossbars via Generative AI and Required-Proof-Depth (RPD) Synthesis](<https://research.google/pubs/ai-driven-verification-architectures-scaling-formal-sign-off-of-high-bandwidth-data-crossbars-via-generative-ai-and-required-proof-depth-rpd-synthesis/>) | Publication | Official page |
+| 2026 | [AI Alignment from Social Choice Perspectives](<https://research.google/pubs/ai-alignment-from-social-choice-perspectives/>) | Publication | OpenAlex, Official page |
 | 2026 | [AASE\: Activation-Based AI Safety Enforcement via Lightweight Probes](<https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/>) | Publication | Official page, OpenAlex |
 | 2026 | [A2RD\: Agentic Autoregressive Diffusion for Long Video Consistency](<https://research.google/pubs/a2rd-agentic-autoregressive-diffusion-for-long-video-consistency-2/>) | Publication | Official page |
 | 2026 | [A probabilistic framework for learning non‐intrusive corrections to long‐time climate simulations from short‐time training data](<https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/>) | Publication | OpenAlex, Official page |
 | 2026 | [A game theory for foundation models shows new paths to rational cooperation](<https://research.google/pubs/a-game-theory-for-foundation-models-shows-new-paths-to-rational-cooperation/>) | Publication | Official page |
+| 2026 | [A dataset and model for auditory scene recognition for hearing devices\: AHEAD-DS and OpenYAMNet](<https://research.google/pubs/a-dataset-and-model-for-auditory-scene-recognition-for-hearing-devices-ahead-ds-and-openyamnet/>) | Publication | Official page |
 | 2026 | [A Validated Scale Measuring Student Self-Efficacy for Programming with Generative AI](<https://research.google/pubs/a-validated-scale-measuring-student-self-efficacy-for-programming-with-generative-ai/>) | Publication | OpenAlex, Official page |
 | 2026 | [A Unified Protocol Architecture for Agentic Interoperability\: Quantitative Evaluation of Standardized Context Exchange in the N + M Economy](<https://research.google/pubs/a-unified-protocol-architecture-for-agentic-interoperability-quantitative-evaluation-of-standardized-context-exchange-in-the-n-m-economy/>) | Publication | Official page |
 | 2026 | [A Theoretical Framework for Statistical Evaluability of Generative Models](<https://research.google/pubs/a-theoretical-framework-for-statistical-evaluability-of-generative-models/>) | Publication | Official page, OpenAlex |

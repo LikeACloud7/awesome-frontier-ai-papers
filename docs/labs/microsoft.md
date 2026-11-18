@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4395`
+- Papers: `4397`
 - Latest: `2026-11-16`
 - [Back to README](../../README.md#microsoft)
 
@@ -253,12 +253,14 @@
 | 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://www.microsoft.com/en-us/research/publication/where-the-world-went-missing-geographic-inequality-in-wikipedia-and-ai/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [Discrete dynamic survival analysis of epidemic case line lists](<https://doi.org/10.64898/2026.11.10.26367756>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [AI has its own style in mathematical proving](<https://arxiv.org/abs/2611.16527>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ACM CCS Young Scholars Development Program](<https://doi.org/10.1145/3830454.3846408>) | Conference paper | OpenAlex |
 | 2026‑11‑11 | [Lazare veni foras\: Reprogramming Dormant Neurons to Backdoor AI Agents](<https://www.microsoft.com/en-us/research/publication/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑11 | [WordInferBench\: Can Agents Infer How to Edit from Word Document Context?](<https://arxiv.org/abs/2611.15189>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Terms of Care\: Designing for Participation in Data Governance by Disability Communities](<https://arxiv.org/abs/2611.15720>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [SAME\: Semantic Watermark Embedding for Open-Source Large Pretrained Models](<https://arxiv.org/abs/2611.15771>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [Measuring Preferred Representation in AI-generated Images with Community Scorers](<https://arxiv.org/abs/2611.16093>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [From Forecasting to World Modeling\: Can Temporal Foundation Models Recover Causal Response?](<https://arxiv.org/abs/2611.15009>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Composing Lightweight Methods on Deep Neural Network\: A Survey](<https://doi.org/10.21203/rs.3.rs-11232383/v1>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [On Evaluating Performance of LLM Inference Systems](<http://arxiv.org/abs/2507.09019>) | Conference paper | OpenAlex |

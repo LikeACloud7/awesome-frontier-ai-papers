@@ -17,7 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑12 | [eDMD\: Endpoint Distribution Matching for Few-Step Diffusion Distillation](<https://arxiv.org/abs/2611.17194v1>) | Paper | Verified affiliation |
+| 2026‑11‑12 | [eDMD\: Endpoint Distribution Matching for Few-Step Diffusion Distillation](<https://arxiv.org/abs/2611.17194v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑03 | [Efficient and Faithful High-Resolution Image Editing with Sparse Cross-Resolution Denoising](<https://arxiv.org/abs/2611.04416>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [P^2-MOPD\: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](<https://huggingface.co/papers/2611.03953>) | Preprint | Official page, Hugging Face |
 | 2026‑11‑02 | [StepX-OPD\: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models](<https://huggingface.co/papers/2611.04386>) | Preprint | Official page, Hugging Face |

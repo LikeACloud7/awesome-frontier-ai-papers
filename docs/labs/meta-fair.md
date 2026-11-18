@@ -389,7 +389,6 @@
 | 2026‑05‑18 | [Lighting Up or Dimming Down? Exploring Dark Patterns of LLMs in Co-Creativity](<https://doi.org/10.1609/aaaiss.v8i1.42608>) | Conference paper | OpenAlex |
 | 2026‑05‑18 | [WavFlow\: Audio Generation in Waveform Space](<https://arxiv.org/abs/2605.18749>) | Paper | Verified affiliation |
 | 2026‑05‑17 | [GIM\: Evaluating models via tasks that integrate multiple cognitive domains](<https://ai.meta.com/research/publications/gim-evaluating-models-via-tasks-that-integrate-multiple-cognitive-domains/>) | Publication | Official page, OpenAlex |
-| 2026‑05‑15 | [Customizing an LLM for Enterprise Software Engineering](<https://arxiv.org/abs/2605.16517v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑05‑15 | [GRID\: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction](<https://arxiv.org/abs/2605.16714>) | Preprint | OpenAlex |
 | 2026‑05‑15 | [Convex Dataset Valuation for Post-Training](<https://arxiv.org/abs/2605.16704>) | Preprint | OpenAlex |
 | 2026‑05‑14 | [The 99% Success Paradox\: When Near-Perfect Retrieval Equals Random Selection](<https://arxiv.org/abs/2605.18857>) | Article | OpenAlex |
@@ -619,6 +618,7 @@
 | 2026‑01‑01 | [A Hybrid Architecture for Real-Time Data Ingestion and Querying Using Kafka and Intelligent Database Systems](<https://doi.org/10.1007/978-3-032-21499-7_11>) | Conference paper | OpenAlex |
 | 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
 | 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
+| 2026 | [Customizing an LLM for Enterprise Software Engineering](<https://research.google/pubs/customizing-an-llm-for-enterprise-software-engineering/>) | Publication | Verified affiliation, OpenAlex, Official page |
 
 ## 2025
 

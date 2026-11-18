@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4237`
-- Latest: `2026-11-14`
+- Papers: `4242`
+- Latest: `2026-11-17`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,6 +15,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](<https://arxiv.org/abs/2611.22844v1>) | Paper | Verified affiliation |
+| 2026‑11‑17 | [COTTI\: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift](<https://arxiv.org/abs/2611.22597v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [ViRA\: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](<https://arxiv.org/abs/2611.21605v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [GPromptShield\: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks](<https://arxiv.org/abs/2611.20621v1>) | Paper | Verified affiliation |
 | 2026‑11‑14 | [FlexMARL\: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2602.09578>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [EMDedup\: Accelerating DLRM via In-Network EMbedding Layer Deduplication](<https://doi.org/10.1145/3828523.3857124>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [DittoCache\: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding](<https://doi.org/10.1145/3828523.3857042>) | Conference paper | OpenAlex |
@@ -80,6 +84,7 @@
 | 2026‑11‑03 | [IDs That Mean Something\: A Hands-On Tutorial on Semantic IDs for Recommender Systems](<https://doi.org/10.1145/3799682.3839274>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [FAF\: A Feature-Aware Adaptive Pre-training Framework for Bridging Gaps in CTR Prediction](<https://doi.org/10.1145/3799682.3841158>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Discarded or Unreachable? Diagnosing and Repairing Spatial Relation Failure in Vision--Language Similarity](<https://arxiv.org/abs/2611.05565>) | Preprint | OpenAlex |
+| 2026‑11‑03 | [A Multidimensional, User-Centered Framework for Evaluating Digital Stylus Stroke Rendering Aesthetics](<https://doi.org/10.1080/10447318.2026.2736919>) | Article | OpenAlex |
 | 2026‑11‑02 | [Specification-Aware Predictive Uncertainty Decomposition](<https://arxiv.org/abs/2611.02956>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Seeing Through the Illusion\: Test-Time Scaling for World Action Models](<https://arxiv.org/abs/2611.03585>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Q-CamTuning\: A Multimodal Large Language Model for Fine-Grained Quality Reasoning in Livestreaming Camera Tuning](<https://arxiv.org/abs/2611.03007>) | Preprint | OpenAlex |

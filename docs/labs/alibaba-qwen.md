@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4115`
+- Papers: `4117`
 - Latest: `2026-11-14`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -29,6 +29,7 @@
 | 2026‑11‑13 | [Generative Point Cloud Registration With Match-ControlNet](<https://doi.org/10.1109/tpami.2026.3753622>) | Article | OpenAlex |
 | 2026‑11‑13 | [G-CAST\: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands](<https://arxiv.org/abs/2611.17814v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [TriGen\: A Generative Paradigm for Trigger-Induced Recommendation](<https://arxiv.org/abs/2611.16395>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Rethinking Actions\: Continuity-Aware Priors for World-Model Planning](<https://arxiv.org/abs/2611.16645>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ReSID\: Rethinking Long-Tail Retrieval in Generative Recommendation through Item Reachability](<https://arxiv.org/abs/2611.16404>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Harmonized Time–Frequency Multi-scale Network for Anomaly Detection](<https://doi.org/10.1007/978-3-032-31995-1_67>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [GC-MoE on SM120\: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](<https://arxiv.org/abs/2611.16219>) | Preprint | OpenAlex |
@@ -129,6 +130,7 @@
 | 2026‑10‑31 | [When Shards Fly\: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL](<https://arxiv.org/abs/2611.00646>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [RTP-LLM\: Building an Evolvable and Reliable LLM Inference Engine at Alibaba Scale](<https://arxiv.org/abs/2611.00967>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [Numerical Embeddings for CTR Prediction\: A Taxonomy, Unified Benchmark, and Open-Source FuxiCTR Extension](<https://arxiv.org/abs/2611.01090>) | Preprint | OpenAlex |
+| 2026‑10‑31 | [Collaborative object- and Patch–Text Alignment for efficient Vision–Language Foundation Models](<https://doi.org/10.1016/j.patcog.2026.115172>) | Article | OpenAlex |
 | 2026‑10‑30 | [MILES-Rec\: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation](<https://arxiv.org/abs/2610.41319>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [BrowseFlow\: Sparse Event Flow Matching for Generative User Simulation](<https://arxiv.org/abs/2610.41374>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [InteractPro\: A Unified Framework for Motion-Aware Image Composition](<http://arxiv.org/abs/2409.10090>) | Article | OpenAlex |
