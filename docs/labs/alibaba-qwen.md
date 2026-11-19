@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4117`
-- Latest: `2026-11-14`
+- Papers: `4123`
+- Latest: `2026-11-17`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [DiffusionOPD\: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [StreamChar\: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration](<https://arxiv.org/abs/2605.25659>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [SpatialCrafter\: Single-Image World Modeling with Generative 3D Proxies](<https://arxiv.org/abs/2608.27073>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Mutual Forcing\: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation](<https://arxiv.org/abs/2604.25819>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [BridgeEdit\: Scaling Bridge Models for Precise Image Editing](<https://doi.org/10.1145/3829340.3842247>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [TraJudger\: Structure-Guided Failure Attribution for LLM-Powered Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857043>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SwiftMPC\: Accelerating ML under MPC with Secure-Chip-Assisted One-Way Communication](<https://doi.org/10.1145/3828523.3857086>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Model-as-a-Service in the Wild\: Characterizing Production LLM Inference Clusters at Scale](<https://doi.org/10.1145/3828523.3857044>) | Conference paper | OpenAlex |
@@ -125,6 +130,7 @@
 | 2026‑11‑01 | [Z-Cache\: Accelerating Diffusion Transformers via Self-Reflection](<https://arxiv.org/abs/2611.01846>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Reconstruction as Spatial Evaluation\: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models](<https://arxiv.org/abs/2611.02026>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [MemHarmBench\: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](<https://arxiv.org/abs/2611.01700>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [Enhancing LLM‐Based Code Smell Prediction Using Empirical Detection Strategies](<https://doi.org/10.1002/cpe.71026>) | Article | OpenAlex |
 | 2026‑11‑01 | [CST\: Lightweight Risk Triage with Source-Grounded Evidence for Web Discussions](<https://arxiv.org/abs/2611.01710>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [mono\: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency](<https://doi.org/10.1007/978-3-032-42929-2_3>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [When Shards Fly\: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL](<https://arxiv.org/abs/2611.00646>) | Preprint | OpenAlex |
@@ -711,11 +717,11 @@
 | 2026‑07‑31 | [ST-WAM\: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](<https://arxiv.org/abs/2607.28993>) | Preprint | OpenAlex |
 | 2026‑07‑31 | [MMShopBench\: A Real-Log Benchmark for Multimodal, Multi-Turn Shopping Agents](<https://arxiv.org/abs/2607.29002>) | Preprint | OpenAlex |
 | 2026‑07‑31 | [Freeze, Then Select\: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations](<https://arxiv.org/abs/2607.29665>) | Preprint | OpenAlex |
+| 2026‑07‑30 | [Beyond Frame Selection\: Generative Latent Evidence Aggregation for Long-Video Understanding](<https://arxiv.org/abs/2607.28516>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [SKILL-KD\: Contrastive Skill Distillation for LLM Agents](<https://arxiv.org/abs/2607.28048>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [LoopMemGR\: From Behavior Logs to Evolving Memory for Generative Recommendation](<https://arxiv.org/abs/2607.27647>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [LEEPS\: Latent-Guided Explore-Exploit Prompt Sampling for Efficient RLVR in Large Language Models](<https://arxiv.org/abs/2607.28077>) | Preprint | OpenAlex |
 | 2026‑07‑30 | [Can LVLMs Uncover the Truth Behind Visual Illusions? An Analysis of Perceptual and Reasoning Capabilities](<https://arxiv.org/abs/2607.27747>) | Preprint | OpenAlex |
-| 2026‑07‑30 | [Beyond Frame Selection\: Generative Latent Evidence Aggregation for Long-Video Understanding](<https://arxiv.org/abs/2607.28516>) | Preprint | OpenAlex |
 | 2026‑07‑29 | [ServerlessT2I\: Efficient Text-to-Image Workflow Serving on a Serverless Platform](<https://arxiv.org/abs/2607.26566>) | Preprint | OpenAlex |
 | 2026‑07‑29 | [SERPO\: Self-Evolving Rubric Policy Optimization for Open-Ended Test-Time Reinforcement Learning](<https://arxiv.org/abs/2607.26873>) | Preprint | OpenAlex |
 | 2026‑07‑29 | [Rethinking Self-Evolution\: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting](<https://arxiv.org/abs/2607.26643>) | Preprint | OpenAlex |

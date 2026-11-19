@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `535`
-- Latest: `2026-11-16`
+- Papers: `538`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [Research acceleration\: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>) | Research post | Official page |
+| 2026‑11‑18 | [Managing frontier AI risk\: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>) | Research post | Official page |
+| 2026‑11‑18 | [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>) | Research post | Official page |
 | 2026‑11‑16 | [Strengthening the fight against online child sexual abuse with new tools and support](<https://openai.com/index/strengthening-online-child-safety>) | Research post | Official page |
 | 2026‑11‑16 | [Science at the Frontier\: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>) | Research post | Official page |
 | 2026‑11‑16 | [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>) | Research post | Official page |

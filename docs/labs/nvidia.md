@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2242`
-- Latest: `2026-11-16`
+- Papers: `2248`
+- Latest: `2026-11-17`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,6 +16,10 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [PureLight\: Learning Complex Luminaires with Light Tracing](<https://arxiv.org/abs/2606.04319>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Machine Learning Operator Lexicon for Partial Differential Equation Solvers on Irregular and Sparse Domains](<https://doi.org/10.1145/3829340.3842319>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [GLOSS\: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill](<https://arxiv.org/abs/2608.25461>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [FlowLoops\: Robustly Extracting Descriptive Curve Networks from Standard Triangle Meshes](<https://doi.org/10.1145/3829340.3842235>) | Conference paper | OpenAlex |
 | 2026‑11‑16 | [Nemotron 3\.5 Bolt E4B 4GB\: An Open and Efficient Small Language Model for Fast Conversational Agents](<https://arxiv.org/abs/2611.20771v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
@@ -90,6 +94,7 @@
 | 2026‑10‑27 | [SemanticXR\: Low Power, Real-time Queryable Semantic Mapping with a Device-Cloud Architecture](<https://arxiv.org/abs/2606.12849>) | Article | OpenAlex |
 | 2026‑10‑27 | [Assessing Language Models for Scientific Applications\: Inertial Confinement Fusion as a Use Case](<https://arxiv.org/abs/2610.38024>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [ThinkWorld\: World Imagination Reinforces Chain-of-Dynamics Reasoning](<https://arxiv.org/abs/2610.37666v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [METATRON\: A Promptable Whole-Body Execution Layer for Humanoids](<https://arxiv.org/abs/2610.38027v1>) | Paper | Verified affiliation |
 | 2026‑10‑26 | [One Megakernel is Not Enough\: Predicting Where to Cut for Streaming Inference](<https://arxiv.org/abs/2610.35336>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [ACARE\: Agent-Context-Aware Reranker for Iterative Search](<https://arxiv.org/abs/2610.35840>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Improving Instruction Hierarchy by Learning from Goal-Goal Conflicts](<https://arxiv.org/abs/2610.35093v1>) | Paper | Verified affiliation |
@@ -101,6 +106,7 @@
 | 2026‑10‑23 | [Regularised RL improves sim-to-real transfer](<https://arxiv.org/abs/2610.32855>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [Sensorimotor Alignment\: A Platonic Proxy for Embodied Policy Success](<https://arxiv.org/abs/2610.31670>) | Preprint | OpenAlex |
 | 2026‑10‑22 | [RADICAL\: Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength Selective Switching](<https://arxiv.org/abs/2610.31941>) | Preprint | OpenAlex |
+| 2026‑10‑22 | [FLORA\: An Open Model Suite for Scaling Robotics Data Engines](<https://arxiv.org/abs/2610.31779v1>) | Paper | Verified affiliation |
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
@@ -561,8 +567,8 @@
 | 2026‑04‑15 | [TOPCELL\: Topology Optimization of Standard Cell via LLMs](<https://arxiv.org/abs/2604.14237>) | Preprint | OpenAlex |
 | 2026‑04‑15 | [Few-Shot and Pseudo-Label Guided Speech Quality Evaluation with Large Language Models](<https://doi.org/10.1109/icassp55912.2026.11463261>) | Conference paper | OpenAlex |
 | 2026‑04‑14 | [Nemotron 3 Super\: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](<https://huggingface.co/papers/2604.12374>) | Paper | Hugging Face |
+| 2026‑04‑14 | [Lyra 2\.0\: Explorable Generative 3D Worlds](<https://arxiv.org/abs/2604.13036>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑04‑14 | [Stochastic Pairwise MIS for Unbiased Large‐Kernel Reuse in Real‐Time](<https://doi.org/10.1111/cgf.70391>) | Article | OpenAlex |
-| 2026‑04‑14 | [Lyra 2\.0\: Explorable Generative 3D Worlds](<https://arxiv.org/abs/2604.13036>) | Paper | Verified affiliation |
 | 2026‑04‑13 | [Distributed Tokenization-Based Model for Multi-TRP Localization](<https://doi.org/10.1109/wcncw67598.2026.11555354>) | Conference paper | OpenAlex |
 | 2026‑04‑13 | [Agentic AI-Assisted Network Management for User-Centric Cooperative Satellite Communications](<https://doi.org/10.1109/wcncw67598.2026.11555246>) | Conference paper | OpenAlex |
 | 2026‑04‑13 | [Audio Flamingo Next\: Next-Generation Open Audio-Language Models for Speech, Sound, and Music](<https://arxiv.org/abs/2604.10905>) | Paper | Verified affiliation |

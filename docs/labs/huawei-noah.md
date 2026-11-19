@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4242`
+- Papers: `4248`
 - Latest: `2026-11-17`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -15,10 +15,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [IDEA\: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](<https://huggingface.co/papers/2611.24102>) | Preprint | Official page |
+| 2026‑11‑17 | [TalkFlow\: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation](<https://arxiv.org/abs/2610.40972>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [FreeME\: Target-Buffer-Free Mobile Extrapolation for Rendered Frames](<https://doi.org/10.1145/3829340.3842195>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Dual-Camera Multi-Reference Smartphone Super-Resolution](<https://doi.org/10.1145/3829340.3842303>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](<https://arxiv.org/abs/2611.22844v1>) | Paper | Verified affiliation |
 | 2026‑11‑17 | [COTTI\: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift](<https://arxiv.org/abs/2611.22597v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [Solving Molecular Crystal Structures through Experimental PXRD-Guided Sequential Crystal Structure Prediction](<https://doi.org/10.26434/chemrxiv.15012291/v1>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [ViRA\: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](<https://arxiv.org/abs/2611.21605v1>) | Paper | Verified affiliation |
 | 2026‑11‑16 | [GPromptShield\: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks](<https://arxiv.org/abs/2611.20621v1>) | Paper | Verified affiliation |
+| 2026‑11‑15 | [Mitigating Physical Threats to AI Supernodes with Dynamic Trust Domains](<https://doi.org/10.1145/3847193.3847998>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [FlexMARL\: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2602.09578>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [EMDedup\: Accelerating DLRM via In-Network EMbedding Layer Deduplication](<https://doi.org/10.1145/3828523.3857124>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [DittoCache\: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding](<https://doi.org/10.1145/3828523.3857042>) | Conference paper | OpenAlex |
@@ -392,9 +398,9 @@
 | 2026‑08‑26 | [Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence](<https://arxiv.org/abs/2608.25905v1>) | Paper | Verified affiliation |
 | 2026‑08‑25 | [SHIFT-LLM\: Distribution Shift Correction in Depth-Pruned LLMs](<https://arxiv.org/abs/2608.25068>) | Preprint | OpenAlex |
 | 2026‑08‑25 | [ChorusTIC\: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning](<https://arxiv.org/abs/2608.24033>) | Preprint | OpenAlex |
+| 2026‑08‑24 | [First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs](<https://arxiv.org/abs/2608.23145>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [What Proves You Wrong\: Benchmarking Language Models on Falsifiable Research Ideation](<https://arxiv.org/abs/2608.22948>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [Progressive representation stabilization and alignment for cross-modal remote sensing image-text retrieval](<https://doi.org/10.1016/j.sigpro.2026.110887>) | Article | OpenAlex |
-| 2026‑08‑24 | [First Demonstration of Multi-Agent LLM System for Million-Scale Optical Link Management in Global Production AIDCs](<https://arxiv.org/abs/2608.23145>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [FedCC\: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning](<https://arxiv.org/abs/2608.23031>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [Activation-Weighted Seeded Residual Coding for Low-Bit LLM Weight Repair](<https://arxiv.org/abs/2608.23144>) | Preprint | OpenAlex |
 | 2026‑08‑24 | [HAP\: Head-Adaptive Visual Token Pruning via Cross-Modal Alignment](<https://arxiv.org/abs/2608.23921v1>) | Paper | Verified affiliation |

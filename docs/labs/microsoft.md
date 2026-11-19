@@ -293,13 +293,13 @@
 | 2026‑11‑06 | [BOXBOX\: Recursive Harness Self-Improvement for Long-Running Performance Optimization](<https://arxiv.org/abs/2611.09218>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [AI Exposure and the Changing Responsibilities in Job Postings](<https://arxiv.org/abs/2611.09870>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients](<http://arxiv.org/abs/2401.09637>) | Article | OpenAlex |
+| 2026‑11‑05 | [HyFlash\: A Prefix-Memory Prior for On-Device Speculative Decoding](<https://www.microsoft.com/en-us/research/publication/hyflash-a-prefix-memory-prior-for-on-device-speculative-decoding/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑05 | [SMP Challenge - Social Media Popularity Prediction for Images and Videos](<https://doi.org/10.1145/3767308.3838606>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [DesignAsCode\: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation](<https://arxiv.org/abs/2602.17690>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [AffectiveArt Challenge 2026\: Fine-Grained Emotion Understanding and Generation in Artistic Images](<https://doi.org/10.1145/3767308.3837722>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [When Bigger Becomes Brittle\: Why Compression Hurts More as Language Models Scale](<https://arxiv.org/abs/2611.07891>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Pipelining the Memory Hierarchy for Ultra-Long-Context Language Model Training](<https://doi.org/10.1145/3860945.3860946>) | Article | OpenAlex |
 | 2026‑11‑05 | [MedVES\: Visual Evidence Scaling at Test Time for VLMs in Medical VQA](<https://doi.org/10.1145/3767308.3836450>) | Conference paper | OpenAlex |
-| 2026‑11‑05 | [HyFlash\: A Prefix-Memory Prior for On-Device Speculative Decoding](<https://arxiv.org/abs/2611.07263>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Design and Fabrication of mmWave Radar-Based Eye Tracking Smart Glasses](<https://doi.org/10.1145/3860945.3860947>) | Article | OpenAlex |
 | 2026‑11‑04 | [HarnessFlow\: MCTS-Guided Harness Optimization for LLM Agents](<https://www.microsoft.com/en-us/research/publication/harnessflow-mcts-guided-harness-optimization-for-llm-agents/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑04 | [Evaluating Human-LLM Alignment on Visualization Preference](<https://www.microsoft.com/en-us/research/publication/evaluating-human-llm-alignment-on-visualization-preference/>) | Publication | OpenAlex, Official page |
@@ -307,6 +307,7 @@
 | 2026‑11‑04 | [Practical Estimation of the Bayes Optimal Fairness-Accuracy Tradeoff with Soft Labels](<https://arxiv.org/abs/2611.06027>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Measuring Risk, Not Harm\: Detecting Psychological Harm Risk Factors in LLM Conversations](<https://arxiv.org/abs/2611.06806>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Democratizing Optimization with Generative AI](<https://doi.org/10.1287/opre.2025.2412>) | Article | OpenAlex |
+| 2026‑11‑03 | [Machine learning emulators of dynamic global vegetation models for fast gridded carbon budget predictions](<https://www.microsoft.com/en-us/research/publication/machine-learning-emulators-of-dynamic-global-vegetation-models-for-fast-gridded-carbon-budget-predictions/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑03 | [GeoFaham\: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response](<https://www.microsoft.com/en-us/research/publication/geofaham-domain-specialized-multi-agent-geospatial-analytics-for-disaster-response/>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026‑11‑03 | [Catalyzing Interactive HTML Generation Capabilities via High-Fidelity Reinforcement Learning](<https://www.microsoft.com/en-us/research/publication/catalyzing-interactive-html-generation-capabilities-via-high-fidelity-reinforcement-learning/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑03 | [GraphMind\: From Operational Traces to Self-Evolving Workflow Automation](<https://arxiv.org/abs/2605.17617>) | Conference paper | OpenAlex |
@@ -317,38 +318,37 @@
 | 2026‑11‑03 | [TACT\: A Pragmatic Approach to Qualitative Analysis with an AI Council](<https://arxiv.org/abs/2611.05702>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [RAFT\: Reasoning-Aligned Fine-Tuning Improves Robustness of VLA Post-Training](<https://arxiv.org/abs/2611.04368>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Pairing Expert Critique with LLM-Driven Refinement\: An Iterative Approach for Curating Quality AI Evaluation Datasets](<https://arxiv.org/abs/2611.05749>) | Preprint | OpenAlex |
-| 2026‑11‑03 | [Machine learning emulators of dynamic global vegetation models for fast gridded carbon budget predictions](<https://arxiv.org/abs/2611.04536>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Learning to Design Information](<https://arxiv.org/abs/2611.05701>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [LLMJudge\: Meta-Evaluating Automatic Relevance Judgments](<https://doi.org/10.1145/3799682.3840214>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Files Search Relevance using Wide and Deep Networks](<https://doi.org/10.1145/3799682.3839246>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [DataDescribe\: Auto-Generated Source Descriptors for LLM-Agent Retrieval over Heterogeneous Data](<https://doi.org/10.1145/3799682.3840921>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Collaborative Incrementally Verifiable Computation](<https://doi.org/10.1007/978-3-032-43624-5_6>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [An Agentic Framework for Quality-Aware and Scenario-Adaptive Image Compression](<https://arxiv.org/abs/2611.04960v2>) | Paper | Verified affiliation |
+| 2026‑11‑02 | [LaBraM at Scale\: Scaling Data and Models for EEG Pretraining](<https://www.microsoft.com/en-us/research/publication/labram-at-scale-scaling-data-and-models-for-eeg-pretraining/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑02 | [Attribution-based diagnostics for single-cell foundation models](<https://www.microsoft.com/en-us/research/publication/attribution-based-diagnostics-for-single-cell-foundation-models/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑02 | [VIAS\: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations](<https://arxiv.org/abs/2611.03518>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Tracing the Scientific Discovery Capacity of LLMs to Their Training Data](<https://arxiv.org/abs/2611.03617>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Trace4D\: Grounded Spatiotemporal Reasoning via 4D State Sequences](<https://arxiv.org/abs/2611.02759>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Spatial Transfusion\: From Structured Spatial Scene Understanding to Generation and Editing](<https://arxiv.org/abs/2611.02330>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Sonar-MoE\: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training](<https://arxiv.org/abs/2611.03577>) | Preprint | OpenAlex |
-| 2026‑11‑02 | [LaBraM at Scale\: Scaling Data and Models for EEG Pretraining](<https://arxiv.org/abs/2611.03165>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [History Forcing\: Distilling History-Dependent Continuations for Long-Horizon Video World Models](<https://arxiv.org/abs/2611.02782>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [End-To-End Petrophysical Operations with Agentic AI\: A Horizontal Carbonate Reservoir Well Case Study from a Mature Onshore Field, Abu Dhabi](<https://doi.org/10.2118/235583-ms>) | Conference paper | OpenAlex |
 | 2026‑11‑01 | [Mesh-guided neural implicit field editing](<http://arxiv.org/abs/2312.02157>) | Article | OpenAlex |
+| 2026‑11‑01 | [Is Your Long-Horizon Benchmark Really Deep? Measuring and Synthesizing Depth in Terminal Tasks](<https://www.microsoft.com/en-us/research/publication/is-your-long-horizon-benchmark-really-deep-measuring-and-synthesizing-depth-in-terminal-tasks/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑01 | [From Tool State to Scientific Action\: Auditing Decision Provenance in Biomedical Research Agents](<https://www.microsoft.com/en-us/research/publication/from-tool-state-to-scientific-action-auditing-decision-provenance-in-biomedical-research-agents/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑01 | [Single-cell perturbation prediction near experimental reproducibility with GENESIS](<https://doi.org/10.64898/2026.10.30.763081>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Reverse Imaging\: Any-Sequence Generalization for Cardiac MRI Segmentation](<https://doi.org/10.1109/tmi.2026.3720503>) | Article | OpenAlex |
 | 2026‑11‑01 | [ParetoSaddler\: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](<https://arxiv.org/abs/2611.02079>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Parametric reconstruction of 3D free-form curves from two views](<https://doi.org/10.1007/s00371-026-04793-4>) | Article | OpenAlex |
 | 2026‑11‑01 | [Measuring User Success in Randomized Search Experiments\: Interpreting Good Abandonment in Generative AI Search](<https://doi.org/10.48550/arxiv.2611.01582>) | Preprint | OpenAlex |
-| 2026‑11‑01 | [Is Your Long-Horizon Benchmark Really Deep? Measuring and Synthesizing Depth in Terminal Tasks](<https://arxiv.org/abs/2611.01927>) | Preprint | OpenAlex |
+| 2026‑10‑31 | [MaterialVellum\: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints](<https://www.microsoft.com/en-us/research/publication/materialvellum-steering-generative-ai-by-leveraging-expressive-material-affordances-to-form-design-constraints/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑31 | [Agentic Context Management for Multi-Turn Human-AI Conversations](<https://www.microsoft.com/en-us/research/publication/agentic-context-management-for-multi-turn-human-ai-conversations/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑31 | [Vision-Language Models Are Joint Denoisers in Robotic Action Generation](<https://arxiv.org/abs/2611.01215>) | Preprint | OpenAlex |
 | 2026‑10‑31 | [Similarity-Weighted Leiden-CPM Clustering of a 7\.4-Million-Node Biomedical Citation Graph\: Weight Alignment, Scale, and Sparsity](<https://arxiv.org/abs/2611.01049>) | Preprint | OpenAlex |
-| 2026‑10‑31 | [MaterialVellum\: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints](<https://doi.org/10.1145/3830398.3830504>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [CoNarrate\: Computationally Modeling Information Prematureness and Scaffolding the Co-Construction of Patient Narratives in Asynchronous Telehealth](<https://doi.org/10.1145/3830398.3830658>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [Building Weighted PubMed Citation Graphs at Scale\: A Pipeline and an Audit of Edge-Similarity Features](<https://arxiv.org/abs/2611.01044>) | Preprint | OpenAlex |
+| 2026‑10‑30 | [Hybrid Computer Use\: A Unified Programmatic, Semantic, and Visual Interface for General Agents](<https://www.microsoft.com/en-us/research/publication/hybrid-computer-use-a-unified-programmatic-semantic-and-visual-interface-for-general-agents/>) | Publication | OpenAlex, Hugging Face, Official page |
 | 2026‑10‑30 | [Latent-Lens\: Visual Perception in Small Language Models Through Latent Communication](<https://www.microsoft.com/en-us/research/publication/latent-lens-visual-perception-in-small-language-models-through-latent-communication/>) | Publication | Official page, OpenAlex |
-| 2026‑10‑30 | [Hybrid Computer Use\: A Unified Programmatic, Semantic, and Visual Interface for General Agents](<https://huggingface.co/papers/2610.41432>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑30 | [Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models](<https://doi.org/10.1371/journal.pcbi.1014906>) | Article | OpenAlex |
 | 2026‑10‑30 | [Whose Values, Which Contexts, and What Signals? Grounding Cultural Value Alignment with Re3Culture](<https://arxiv.org/abs/2610.41793>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [There Is No Free Loop\: When Does Looping a Trained Model Pay for Its Inference Compute?](<https://arxiv.org/abs/2610.42030>) | Preprint | OpenAlex |
@@ -384,8 +384,8 @@
 | 2026‑10‑26 | [MtReNIRS\: A Self-Supervised Foundation Model for Transferable Neurovascular Representations](<https://www.microsoft.com/en-us/research/publication/mtrenirs-a-self-supervised-foundation-model-for-transferable-neurovascular-representations/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑26 | [ImageTTS\: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis](<https://www.microsoft.com/en-us/research/publication/imagetts-repurposing-pretrained-image-diffusion-transformers-for-speech-synthesis/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑26 | [HiLO\: Towards Product-Level Graceful Degradation with a Quality-Aware, Load-Aware Control Framework](<https://www.microsoft.com/en-us/research/publication/hilo-towards-product-level-graceful-degradation-with-a-quality-aware-load-aware-control-framework/>) | Publication | Verified affiliation, OpenAlex, Official page |
-| 2026‑10‑26 | [Babysitting AI Agents\: A User-Centered Taxonomy and Study of Agentic Delegation Failures](<https://www.microsoft.com/en-us/research/publication/babysitting-ai-agents-a-user-centered-taxonomy-and-study-of-agentic-delegation-failures/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑26 | [Enhanced diffusion sampling\: Efficient rare event sampling and free energy calculation with diffusion models](<https://arxiv.org/abs/2602.16634>) | Article | OpenAlex |
+| 2026‑10‑26 | [Babysitting AI Agents\: A User-Centered Taxonomy and Study of Agentic Delegation Failures](<https://www.microsoft.com/en-us/research/publication/babysitting-ai-agents-a-user-centered-taxonomy-and-study-of-agentic-delegation-failures/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑26 | [Large language models for computational social science](<https://doi.org/10.1038/s41562-026-02539-9>) | Article | OpenAlex |
 | 2026‑10‑26 | [ThinkBit\: Search Codewords, Recalibrate Scales, Select by Reasoning](<https://arxiv.org/abs/2610.34886>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Explainable Fuzzy AI for Physics Simulation](<https://doi.org/10.1007/978-3-032-35459-4_39>) | Conference paper | OpenAlex |
@@ -976,7 +976,7 @@
 | 2026‑07‑21 | [Clear by Design\: Consensus-Based Transparency Practices to Foster Trust in Health AI](<https://doi.org/10.1080/15265161.2026.2699626>) | Article | OpenAlex |
 | 2026‑07‑21 | [Artificial Intelligence Applications to Support Physical Activity, Mobility, and Fatigue Management in People with Multiple Sclerosis\: A Scoping Review](<https://doi.org/10.3390/healthcare14142219>) | Article | OpenAlex |
 | 2026‑07‑21 | [Agents in the Wild\: Where Research Meets Deployment](<https://doi.org/10.1145/3770855.3816449>) | Conference paper | OpenAlex |
-| 2026‑07‑20 | [SciForma\: Structure-Faithful Generation of Scientific Diagrams](<https://www.microsoft.com/en-us/research/publication/sciforma-structure-faithful-generation-of-scientific-diagrams/>) | Publication | Official page, Verified affiliation |
+| 2026‑07‑20 | [SciForma\: Structure-Faithful Generation of Scientific Diagrams](<https://www.microsoft.com/en-us/research/publication/sciforma-structure-faithful-generation-of-scientific-diagrams/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026‑07‑20 | [LLM-as-a-Coach\: Experiential Learning for Non-Verifiable Tasks](<https://www.microsoft.com/en-us/research/publication/llm-as-a-coach-experiential-learning-for-non-verifiable-tasks/>) | Publication | Official page |
 | 2026‑07‑20 | [GigaPath-Flash and GigaTIME-Flash\: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis](<https://www.microsoft.com/en-us/research/publication/gigapath-flash-and-gigatime-flash-efficient-pathology-foundation-models-for-whole-slide-and-tumor-microenvironment-analysis/>) | Publication | Official page |
 | 2026‑07‑20 | [MoGe-3\: Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement](<https://www.microsoft.com/en-us/research/publication/moge-3-fine-detail-monocular-geometry-estimation-with-self-guided-sparse-volumetric-refinement/>) | Publication | Official page |

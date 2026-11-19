@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1936`
-- Latest: `2026-11-14`
+- Papers: `1943`
+- Latest: `2026-11-17`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [SARAH\: Spatially Aware Real-time Agentic Humans](<http://arxiv.org/abs/2602.18432>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Unified Simulation of Lagrangian Particle Dynamics via Transformer](<https://arxiv.org/abs/2605.15305>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval](<https://arxiv.org/abs/2604.23692>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Perceptual Color Experience on Conventional and AR Displays across Color Gamut and Ambient Luminance](<https://doi.org/10.1145/3829340.3842215>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [HoOPOE\: A Holography-Optimized Perceptual ObjectivE function](<https://arxiv.org/abs/2610.17474>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [ControlGS\: Conditioning Neural Gaussians for Downstream-Processing–Aware XR Rendering](<https://arxiv.org/abs/2609.32038>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [SurveyWeave\: An Agentic Framework for Automated Survey Generation](<https://doi.org/10.48550/arxiv.2611.19029>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [A Personalized, Hierarchical Framework for Inferring Competing Task Demands in Pedestrian Augmented Reality](<https://doi.org/10.1145/3822517.3848727>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Reasoning Under Promised Distributions\: Evaluating LLMs on Black-Box Reduction Rigor](<https://doi.org/10.1007/978-3-032-42447-1_7>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [OmniFaceRig\: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies](<https://arxiv.org/abs/2606.08043>) | Article | OpenAlex |

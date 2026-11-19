@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3980`
-- Latest: `2026-11-15`
+- Papers: `3983`
+- Latest: `2026-11-17`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,6 +26,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page |
+| 2026‑11‑17 | [MVID\: Feed-Forward Multi-View Intrinsic Image Decomposition](<https://arxiv.org/abs/2512.23667>) | Conference paper | OpenAlex |
+| 2026‑11‑16 | [CARE\: Contrastive-Anchored Residual Encoding with Listwise Reconstruction for Retrieval-Oriented Semantic IDs](<https://doi.org/10.48550/arxiv.2611.20721>) | Preprint | OpenAlex |
 | 2026‑11‑15 | [Accelerate Bench\: Evaluating Agents for Application-Level Program Optimization](<https://huggingface.co/papers/2611.20882>) | Preprint | Official page |
 | 2026‑11‑14 | [GPipeANN\: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS](<https://doi.org/10.1145/3828523.3857011>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Data-Efficient LLM Safety Alignment Guided by Interpretable Features](<https://arxiv.org/abs/2611.16183>) | Preprint | OpenAlex |
@@ -739,7 +742,7 @@
 | 2026‑06‑25 | [Internalizing the Future\: A Unified Agentic Training Paradigm for World Model Planning](<https://arxiv.org/abs/2606.27483>) | Preprint | OpenAlex |
 | 2026‑06‑25 | [Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](<https://arxiv.org/abs/2606.27025>) | Preprint | OpenAlex |
 | 2026‑06‑25 | [NaviCache\: Test-Time Self-Calibration Caching for Video Generation](<https://arxiv.org/abs/2606.26795>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑06‑24 | [PolyFlow\: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation](<https://huggingface.co/papers/2606.30673>) | Technical report | Official page |
+| 2026‑06‑24 | [PolyFlow\: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation](<https://huggingface.co/papers/2606.30673>) | Technical report | Official page, OpenAlex |
 | 2026‑06‑24 | [STEB\: A Speech-to-Speech Translation Expressiveness Benchmark for Evaluating Beyond Translation Fidelity](<https://arxiv.org/abs/2606.25529>) | Preprint | OpenAlex |
 | 2026‑06‑23 | [Practical Occluder Generation for Mobile Games](<https://doi.org/10.1109/tvcg.2026.3691828>) | Article | OpenAlex |
 | 2026‑06‑23 | [ForensicsTok\: Forensics-Guided Tokenized Modeling for Image Tampering Localization](<https://arxiv.org/abs/2606.24538>) | Preprint | OpenAlex |
