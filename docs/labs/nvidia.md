@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2248`
-- Latest: `2026-11-17`
+- Papers: `2255`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -16,7 +16,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [AI Film Frontiers\: Towards New Paradigms of Filmmaking](<https://doi.org/10.1145/3829341.3849998>) | Conference paper | OpenAlex |
+| 2026‑11‑18 | [The Future of AI &amp; XR\: How Will AI Reshape the Spatial Computing Pipeline?](<https://doi.org/10.1145/3829341.3850002>) | Conference paper | OpenAlex |
+| 2026‑11‑18 | [Learning spatial cellular state through 3D reconstruction of the cell](<https://doi.org/10.64898/2026.11.09.765489>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [Beyond Rigid Bodies × Newton for Robotics\: Open GPU Physics, Differentiable Simulation, and Multi-Solver Ecosystems for Physical AI and Embodied Robotics](<https://doi.org/10.1145/3829341.3850007>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [PureLight\: Learning Complex Luminaires with Light Tracing](<https://arxiv.org/abs/2606.04319>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Procedural Neural Shading of Mesoscale Detail](<https://doi.org/10.1145/3829340.3842341>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Physics-guided deep learning for high resolution X-ray free-electron laser imaging](<https://arxiv.org/abs/2605.01543>) | Article | OpenAlex |
 | 2026‑11‑17 | [Machine Learning Operator Lexicon for Partial Differential Equation Solvers on Irregular and Sparse Domains](<https://doi.org/10.1145/3829340.3842319>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [GLOSS\: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill](<https://arxiv.org/abs/2608.25461>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [FlowLoops\: Robustly Extracting Descriptive Curve Networks from Standard Triangle Meshes](<https://doi.org/10.1145/3829340.3842235>) | Conference paper | OpenAlex |
@@ -110,6 +116,7 @@
 | 2026‑10‑21 | [Foundation4D\: Towards a unified perception and reconstruction model for autonomous vehicles](<https://arxiv.org/abs/2610.30340v1>) | Paper | Verified affiliation, Hugging Face |
 | 2026‑10‑21 | [Short-to-Long\: Detached Features for Long-Horizon Value Learning](<https://arxiv.org/abs/2610.30461>) | Preprint | OpenAlex |
 | 2026‑10‑21 | [CausalAlign\: Causal Alignment of Video Generation Models for Consistent Ego-Motion](<https://arxiv.org/abs/2610.29915>) | Preprint | OpenAlex |
+| 2026‑10‑21 | [Agentic World Action Models](<https://arxiv.org/abs/2610.30136v1>) | Paper | Verified affiliation |
 | 2026‑10‑20 | [Reasoning as a Distribution\: Generative Plan Latents for Vision-Language-Action Models](<https://arxiv.org/abs/2610.28166>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [MLIPS\: Multi-Layer Indexer Pool Sharing](<https://arxiv.org/abs/2610.27438>) | Preprint | OpenAlex |
 | 2026‑10‑20 | [Exploring Recurrent-Depth Language Models for Multitask Clinical Text Processing](<https://arxiv.org/abs/2610.27559>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3878`
+- Papers: `3881`
 - Latest: `2026-11-17`
 - [Back to README](../../README.md#amazon)
 
@@ -17,6 +17,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑17 | [Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](<https://arxiv.org/abs/2608.03158>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [LLM-Guided Cluster Lifecycle Management\: Deciding When and How to Evolve Behavioral Clusters](<https://arxiv.org/abs/2611.17616>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Bloom unifies brain cell representations across modalities and contexts](<https://doi.org/10.64898/2026.11.11.765881>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Reinforcement Learning to Rank Using Coarse-grained Rewards](<http://arxiv.org/abs/2208.07563>) | Article | OpenAlex |
 | 2026‑11‑12 | [When Scammers Talk Back\: Understanding Potentially Unwanted Calls via LLM-Based Interaction](<https://doi.org/10.1145/3830454.3846770>) | Conference paper | OpenAlex |
@@ -1368,6 +1369,7 @@
 | 2026 | [Beyond dense retrieval\: A structured-semantic approach for conversation analytics](<https://www.amazon.science/publications/beyond-dense-retrieval-a-structured-semantic-approach-for-conversation-analytics>) | Publication | Official page |
 | 2026 | [Beyond correlation\: Deploying causal AI to attribute e-commerce sales loss at scale](<https://www.amazon.science/publications/beyond-correlation-deploying-causal-ai-to-attribute-e-commerce-sales-loss-at-scale>) | Publication | Official page, OpenAlex |
 | 2026 | [Beyond correctness\: Rewarding faithful reasoning in retrieval-augmented generation](<https://www.amazon.science/publications/beyond-correctness-rewarding-faithful-reasoning-in-retrieval-augmented-generation>) | Publication | Official page |
+| 2026 | [Beyond coarse blocks\: Fine-grained sparse attention for video diffusion](<https://www.amazon.science/publications/beyond-coarse-blocks-fine-grained-sparse-attention-for-video-diffusion>) | Publication | Official page |
 | 2026 | [Beyond Task Success\: An eight-metric tiered evaluation protocol for LLM agents over fragmented operational data](<https://www.amazon.science/publications/beyond-task-success-an-eight-metric-tiered-evaluation-protocol-for-llm-agents-over-fragmented-operational-data>) | Publication | Official page |
 | 2026 | [Better literary translation\: A multi-aspect data generation and LLM training approach](<https://www.amazon.science/publications/better-literary-translation-a-multi-aspect-data-generation-and-llm-training-approach>) | Publication | Official page, OpenAlex |
 | 2026 | [Benchmarking multilingual temporal reasoning in LLMs\: The temporal reasoning dataset](<https://www.amazon.science/publications/benchmarking-multilingual-temporal-reasoning-in-llms-the-temporal-reasoning-dataset>) | Publication | Official page |
@@ -1388,6 +1390,7 @@
 | 2026 | [Analyzing seismic workflows with large language models\: A case study on error detection](<https://www.amazon.science/publications/analyzing-seismic-workflows-with-large-language-models-a-case-study-on-error-detection>) | Publication | Official page |
 | 2026 | [Amortizing AI training carbon footprint\: Challenges, limitations, and a path forward](<https://www.amazon.science/publications/amortizing-ai-training-carbon-footprint-challenges-limitations-and-a-path-forward>) | Publication | Official page |
 | 2026 | [AlignFlow\: Improving flow-based generative models with semi-discrete optimal transport](<https://www.amazon.science/publications/alignflow-improving-flow-based-generative-models-with-semi-discrete-optimal-transport>) | Publication | Official page |
+| 2026 | [Align-RAG\: Alignment is (almost) all you need for TSFM in-context learning](<https://www.amazon.science/publications/align-rag-alignment-is-almost-all-you-need-for-tsfm-in-context-learning>) | Publication | Official page |
 | 2026 | [Agentic translation of C to Rust](<https://www.amazon.science/publications/agentic-translation-of-c-to-rust>) | Publication | Official page |
 | 2026 | [Agentic AI for subsurface intelligence\: Automated SEG-Y to MDIO migration at scale](<https://www.amazon.science/publications/agentic-ai-for-subsurface-intelligence-automated-seg-y-to-mdio-migration-at-scale>) | Publication | Official page |
 | 2026 | [Agent-guided de novo design of nanobody binders against a novel cancer target](<https://www.amazon.science/publications/agent-guided-de-novo-design-of-nanobody-binders-against-a-novel-cancer-target>) | Publication | Official page, OpenAlex |

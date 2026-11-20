@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1960`
+- Papers: `1963`
 - Latest: `2026-11-17`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -57,11 +57,13 @@
 | 2026‑11‑03 | [LaQX\: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models](<https://arxiv.org/abs/2611.04333v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑02 | [MIRA\: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation](<https://arxiv.org/abs/2611.03087>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [Axion 1\.0\: Open Agent Foundation Models, Simplified](<https://arxiv.org/abs/2611.03233>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [Rumor Detection in User Retweet Networks with Uniform Prompt Graphs](<https://doi.org/10.1016/j.patrec.2026.11.018>) | Article | OpenAlex |
 | 2026‑11‑01 | [MAC-Bench\: Benchmarking Multi-Agent Collaboration via Interconnected Tasks](<https://arxiv.org/abs/2611.01728>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Learning-to-Memorize\: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](<https://arxiv.org/abs/2611.01858>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [SparseGDN\: Chunk Sparse in Linear Attention](<https://arxiv.org/abs/2610.41420>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [Hierarchical Residuals\: A Minimalist Decoupling of Residual Width from Compute Width](<https://huggingface.co/papers/2610.41711>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑29 | [Training LLM Agents to Automate LLM Post-Training with RSI-Dojo](<https://arxiv.org/abs/2611.03698>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [Your LR Schedule May Not Be Principled\: Effective Learning Rate Scheduling in Weight-Normalized Training](<https://arxiv.org/abs/2610.40362v2>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [SafeComm-Agent\: A Security-Aware Communication and Inference Optimization Framework for Multi-Agent Embodied Intelligence Systems](<https://doi.org/10.66238/fsrma139>) | Article | OpenAlex |
 | 2026‑10‑28 | [Exploring Fractional Quantum Hall States with Deep Learning\: From Abelian to Non-Abelian Phases](<https://arxiv.org/abs/2610.38533>) | Preprint | OpenAlex |
 | 2026‑10‑27 | [TrustLife\: A Trust-Aware Artificial Intelligence Lifecycle Management Framework for Secure Embodied Robots with Multi-Cloud Deployment Optimization](<https://doi.org/10.66238/fsrma140>) | Article | OpenAlex |
@@ -1199,6 +1201,7 @@
 | 2025‑03‑31 | [VIDEX\: A Disaggregated and Extensible Virtual Index for the Cloud and AI Era](<https://arxiv.org/abs/2503.23776v2>) | Paper | OpenAlex, Verified affiliation |
 | 2025‑03‑26 | [Towards VM Rescheduling Optimization Through Deep Reinforcement Learning](<http://arxiv.org/abs/2505.17359>) | Conference paper | OpenAlex |
 | 2025‑03‑26 | [Distill &amp; Contrast\: A New Graph Self-Supervised Method With Approximating Nature Data Relationships](<https://doi.org/10.1109/tkde.2025.3554524>) | Article | OpenAlex |
+| 2025‑03‑26 | [TileLink\: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives](<https://arxiv.org/abs/2503.20313>) | Paper | Verified affiliation |
 | 2025‑03‑25 | [NTIRE 2025 Challenge on UGC Video Enhancement\: Methods and Results](<https://doi.org/10.1109/cvprw67362.2025.00139>) | Conference paper | OpenAlex |
 | 2025‑03‑25 | [HeadEvolver\: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation](<https://doi.org/10.1109/3dv66043.2025.00025>) | Conference paper | OpenAlex |
 | 2025‑03‑25 | [VividTalk\: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior](<https://doi.org/10.1109/3dv66043.2025.00071>) | Conference paper | OpenAlex |
@@ -1242,7 +1245,6 @@
 | 2025‑02‑25 | [Towards Generalist Robot Policies\: What Matters in Building Vision-Language-Action Models](<https://doi.org/10.21203/rs.3.rs-5770637/v1>) | Preprint | OpenAlex |
 | 2025‑02‑24 | [You Only Sample Once\: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs](<https://seed.bytedance.com/en/research/you-only-sample-once-taming-one-step-text-to-image-synthesis-by-self-cooperative-diffusion-gans>) | Publication | Official page |
 | 2025‑02‑20 | [A deep multi-agent reinforcement learning approach for the micro-service migration problem with affinity in the cloud](<https://doi.org/10.1016/j.eswa.2025.126856>) | Article | OpenAlex |
-| 2025‑02‑19 | [Repo2Run\: Automated Building Executable Environment for Code Repository at Scale](<https://arxiv.org/abs/2502.13681v4>) | Paper | Verified affiliation |
 | 2025‑02‑17 | [Rethinking machine unlearning for large language models](<https://doi.org/10.1038/s42256-025-00985-0>) | Article | OpenAlex |
 | 2025‑02‑17 | [The Optimization of Culture Conditions for Injectable Recombinant Collagen Hydrogel Preparation Using Machine Learning](<https://doi.org/10.3390/gels11020141>) | Article | OpenAlex |
 | 2025‑02‑12 | [MME-CoT\: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](<https://seed.bytedance.com/en/research/mme-cot-benchmarking-chain-of-thought-in-large-multimodal-models-for-reasoning-quality-robustness-and-efficiency>) | Publication | Official page, OpenAlex |
@@ -1477,6 +1479,7 @@
 | 2025‑01‑01 | [ADG\: Ambient Diffusion-Guided Dataset Recovery for Corruption-Robust Offline Reinforcement Learning](<http://arxiv.org/abs/2505.23871>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [ACT as Human\: Multimodal Large Language Model Data Annotation with Critical Thinking](<http://arxiv.org/abs/2511.09833>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Puppeteer\: Rig and Animate Your 3D Models](<https://arxiv.org/abs/2508.10898>) | Paper | Verified affiliation, OpenAlex |
+| 2025‑01‑01 | [Repo2Run\: Automated Building Executable Environment for Code Repository at Scale](<https://arxiv.org/abs/2502.13681v4>) | Paper | Verified affiliation, OpenAlex |
 | 2025‑01‑01 | [Chain-of-Action\: Trajectory Autoregressive Modeling for Robotic Manipulation](<https://arxiv.org/abs/2506.09990>) | Paper | Verified affiliation, OpenAlex |
 | 2025 | [MobiTwin\: Toward building end-to-end framework for user's mobile twins](<https://www.amazon.science/publications/mobitwin-toward-building-end-to-end-framework-for-users-mobile-twins>) | Publication | Official page, OpenAlex |
 | 2025 | [Enhancing Remote Sensing Representations through Mixed-Modality Masked Autoencoding](<https://research.google/pubs/enhancing-remote-sensing-representations-through-mixed-modality-masked-autoencoding/>) | Publication | OpenAlex, Official page |

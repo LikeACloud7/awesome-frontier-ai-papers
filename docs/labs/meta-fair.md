@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1943`
+- Papers: `1944`
 - Latest: `2026-11-17`
 - [Back to README](../../README.md#metafair)
 
@@ -52,6 +52,7 @@
 | 2026‑11‑17 | [ControlGS\: Conditioning Neural Gaussians for Downstream-Processing–Aware XR Rendering](<https://arxiv.org/abs/2609.32038>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SurveyWeave\: An Agentic Framework for Automated Survey Generation](<https://doi.org/10.48550/arxiv.2611.19029>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [A Personalized, Hierarchical Framework for Inferring Competing Task Demands in Pedestrian Augmented Reality](<https://doi.org/10.1145/3822517.3848727>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [Unbundling Multimodal Vision Encoding](<https://ai.meta.com/research/publications/unbundling-multimodal-vision-encoding/>) | Publication | Official page |
 | 2026‑11‑12 | [Reasoning Under Promised Distributions\: Evaluating LLMs on Black-Box Reduction Rigor](<https://doi.org/10.1007/978-3-032-42447-1_7>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [OmniFaceRig\: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies](<https://arxiv.org/abs/2606.08043>) | Article | OpenAlex |
 | 2026‑11‑09 | [Snapshot Polarimetric Display Inverse Rendering](<https://arxiv.org/abs/2605.24915>) | Article | OpenAlex |

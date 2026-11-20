@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4123`
-- Latest: `2026-11-17`
+- Papers: `4127`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,6 +19,8 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [Structured sparse attention for accelerating long-context diffusion language models](<https://doi.org/10.3389/frai.2026.1993541>) | Article | OpenAlex |
 | 2026‑11‑17 | [DiffusionOPD\: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [StreamChar\: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration](<https://arxiv.org/abs/2605.25659>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [SpatialCrafter\: Single-Image World Modeling with Generative 3D Proxies](<https://arxiv.org/abs/2608.27073>) | Conference paper | OpenAlex |
@@ -31,8 +33,9 @@
 | 2026‑11‑14 | [Chorus\: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode](<https://doi.org/10.1145/3828523.3857065>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [CacheFS\: Peer-to-Peer Cooperative Caching for LLM Weight Distribution at Cloud Scale](<https://doi.org/10.1145/3828523.3857016>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Axon\: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads](<https://doi.org/10.1145/3828523.3857095>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [RecMem\: Recurrent Memory Compression for Long-Sequence Generative Recommendation](<https://arxiv.org/abs/2611.17921>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Generative Point Cloud Registration With Match-ControlNet](<https://doi.org/10.1109/tpami.2026.3753622>) | Article | OpenAlex |
-| 2026‑11‑13 | [G-CAST\: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands](<https://arxiv.org/abs/2611.17814v1>) | Paper | Verified affiliation |
+| 2026‑11‑13 | [G-CAST\: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands](<https://arxiv.org/abs/2611.17814v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑12 | [TriGen\: A Generative Paradigm for Trigger-Induced Recommendation](<https://arxiv.org/abs/2611.16395>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Rethinking Actions\: Continuity-Aware Priors for World-Model Planning](<https://arxiv.org/abs/2611.16645>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ReSID\: Rethinking Long-Tail Retrieval in Generative Recommendation through Item Reachability](<https://arxiv.org/abs/2611.16404>) | Preprint | OpenAlex |
@@ -129,6 +132,7 @@
 | 2026‑11‑01 | [SpecOPD\: Branch-Parallel On-Policy Distillation for Speculative Decoding](<https://huggingface.co/papers/2611.02846>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑01 | [Z-Cache\: Accelerating Diffusion Transformers via Self-Reflection](<https://arxiv.org/abs/2611.01846>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Reconstruction as Spatial Evaluation\: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models](<https://arxiv.org/abs/2611.02026>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [Physics‐Informed Quantum Machine Learning with Hard Constraint Embedding for Nonlinear Differential Equations of the First Order](<https://arxiv.org/abs/2608.03029>) | Article | OpenAlex |
 | 2026‑11‑01 | [MemHarmBench\: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](<https://arxiv.org/abs/2611.01700>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Enhancing LLM‐Based Code Smell Prediction Using Empirical Detection Strategies](<https://doi.org/10.1002/cpe.71026>) | Article | OpenAlex |
 | 2026‑11‑01 | [CST\: Lightweight Risk Triage with Source-Grounded Evidence for Web Discussions](<https://arxiv.org/abs/2611.01710>) | Preprint | OpenAlex |

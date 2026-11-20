@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `384`
+- Papers: `385`
 - Latest: `2026-11-15`
 - [Back to README](../../README.md#anthropic)
 
@@ -29,6 +29,7 @@
 | 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Understanding AI from the Inside\: The State of Mechanistic Interpretability for AI Safety](<https://arxiv.org/abs/2611.08438v2>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [Emergent parallels between language models and the brain](<https://doi.org/10.1016/j.cub.2026.10.007>) | Article | OpenAlex |
 | 2026‑10‑30 | [SecPO\: Principled Adversarial Training for Prompt Injection Security](<https://arxiv.org/abs/2610.41998v1>) | Paper | Verified affiliation |
 | 2026‑10‑27 | [White House Accord on Super Intelligence\: Joint Commitment on Frontier Responsibilities](<https://doi.org/10.70777/si.v3i4.18908>) | Article | OpenAlex |
 | 2026‑10‑27 | [Agentic Backdoors via Pretraining Poisoning](<https://arxiv.org/abs/2610.37741v1>) | Paper | Verified affiliation, OpenAlex |

@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1560`
-- Latest: `2026-11-12`
+- Papers: `1563`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [Exemplarism for the AI age](<https://doi.org/10.1007/s43681-026-01456-x>) | Article | OpenAlex |
+| 2026‑11‑18 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](<https://doi.org/10.1126/scirobotics.aee1549>) | Article | OpenAlex |
 | 2026‑11‑12 | [Theoretical Limits of Language Model Alignment](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) | Publication | Official page |
 | 2026‑11‑12 | [Split-and-Scale Latent 3D Representations](<https://machinelearning.apple.com/research/split-scale-latent-3d>) | Publication | Verified affiliation, Official page |
 | 2026‑11‑12 | [JudgeMix\: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents](<https://arxiv.org/abs/2611.16174v1>) | Paper | Verified affiliation |
@@ -17,6 +19,7 @@
 | 2026‑11‑10 | [Toward a Theory of Evaluability](<https://machinelearning.apple.com/research/theory-evaluability>) | Publication | Official page |
 | 2026‑11‑10 | [On the Importance of Gating\: Memorization vs\. In-Context Learning in State Space Models](<https://machinelearning.apple.com/research/gating-memorization-in-context>) | Publication | Official page |
 | 2026‑11‑10 | [Evaluating the Evaluators\: Investigating LLM Judges for Personalized Writing Style Assessment](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) | Publication | Official page |
+| 2026‑11‑10 | [Complexity of Differentially Private Selection via Federated APIs](<https://machinelearning.apple.com/research/differentially-private-selection>) | Publication | Official page |
 | 2026‑11‑10 | [EngineAgent\: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Generalized Adaptive Boosting and the Geometry of Mistakes](<https://arxiv.org/abs/2611.12696>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [reComposer\: Editable Planning for Controllable Image Generation](<https://arxiv.org/abs/2611.12687v1>) | Paper | Verified affiliation, OpenAlex |

@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3983`
-- Latest: `2026-11-17`
+- Papers: `3989`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,11 +26,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [WeMM-Video\: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](<https://huggingface.co/papers/2611.26409>) | Preprint | Official page, Verified affiliation |
+| 2026‑11‑18 | [Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](<https://huggingface.co/papers/2611.26268>) | Preprint | Official page |
+| 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page |
 | 2026‑11‑17 | [MVID\: Feed-Forward Multi-View Intrinsic Image Decomposition](<https://arxiv.org/abs/2512.23667>) | Conference paper | OpenAlex |
 | 2026‑11‑16 | [CARE\: Contrastive-Anchored Residual Encoding with Listwise Reconstruction for Retrieval-Oriented Semantic IDs](<https://doi.org/10.48550/arxiv.2611.20721>) | Preprint | OpenAlex |
+| 2026‑11‑15 | [WeVisForensics\: Self-Evolving Agent for Omni AI-Generated Video Detection](<https://huggingface.co/papers/2611.21373>) | Preprint | Official page |
 | 2026‑11‑15 | [Accelerate Bench\: Evaluating Agents for Application-Level Program Optimization](<https://huggingface.co/papers/2611.20882>) | Preprint | Official page |
 | 2026‑11‑14 | [GPipeANN\: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS](<https://doi.org/10.1145/3828523.3857011>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [More Genes, Faster Inference\: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology](<https://arxiv.org/abs/2611.17899>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Data-Efficient LLM Safety Alignment Guided by Interpretable Features](<https://arxiv.org/abs/2611.16183>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [SkinAdvisor\: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting](<https://arxiv.org/abs/2611.15023>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction](<https://arxiv.org/abs/2611.15758>) | Preprint | OpenAlex |
@@ -97,6 +102,7 @@
 | 2026‑11‑02 | [Meet Students Where They Are\: Student-Prefix Teacher Adaptation for On-Policy Distillation](<https://arxiv.org/abs/2611.03133>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [FORGE\: Fault-Oriented Rework Code Generation for Executable Interlocking Assembly](<https://arxiv.org/abs/2611.02536>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [VidDub\: Replacement-Aware Distillation for Two-Step Video Dubbing](<https://huggingface.co/papers/2611.03404>) | Preprint | Official page |
+| 2026‑11‑01 | [When domain adaptation fails\: cross-city transfer of street-level geoinformation across hemispheres](<https://doi.org/10.1016/j.cacint.2026.100541>) | Article | OpenAlex |
 | 2026‑11‑01 | [Self-Evolving Agentic Workflows via Semantic Decomposition of Complex Tasks](<https://arxiv.org/abs/2611.01840>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [RECEIPT\: Measuring and Repairing the Return Assumption of LLM Agents in Web Service Operations](<https://arxiv.org/abs/2611.01930>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Lie Routing Vision Language Models for View-Robust 3D Understanding](<https://arxiv.org/abs/2611.02306>) | Preprint | OpenAlex |
@@ -1207,7 +1213,7 @@
 | 2026‑02‑21 | [Follow-Your-Emoji-Faster\: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation](<https://doi.org/10.1007/s11263-025-02685-z>) | Article | OpenAlex |
 | 2026‑02‑17 | [World-Model-Augmented Web Agents with Action Correction](<http://arxiv.org/abs/2602.15384>) | Preprint | OpenAlex |
 | 2026‑02‑17 | [Understanding vs\. Generation\: Navigating Optimization Dilemma in Multimodal Models](<http://arxiv.org/abs/2602.15772>) | Preprint | OpenAlex |
-| 2026‑02‑17 | [Iterative LLM-Based Assertion Generation Using Syntax–Semantic Representations for Functional Coverage–Guided Verification](<https://doi.org/10.1109/ets69887.2026.11591998>) | Conference paper | OpenAlex |
+| 2026‑02‑17 | [Iterative LLM-Based Assertion Generation Using Syntax-Semantic Representations for Functional Coverage-Guided Verification](<https://arxiv.org/abs/2602.15388v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑02‑16 | [Automated Information Flow Selection for Multi-scenario Multi-task Recommendation](<http://arxiv.org/abs/2512.13396>) | Article | OpenAlex |
 | 2026‑02‑16 | [BAG\: Body-Aligned 3D Wearable Asset Generation](<https://doi.org/10.1109/tvcg.2026.3665510>) | Article | OpenAlex |
 | 2026‑02‑13 | [M2HF\: Multi-Branch Multi-Modal Hybrid Fusion for Text-Video Retrieval](<https://doi.org/10.26599/cvm.2025.9450444>) | Article | OpenAlex |

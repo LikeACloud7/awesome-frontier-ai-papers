@@ -1,8 +1,8 @@
 # DeepSeek Papers
 
 - Region: `China`
-- Papers: `51`
-- Latest: `2026-10-07`
+- Papers: `52`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#deepseek)
 
 ## No date
@@ -18,6 +18,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [Openhagen Worlds\: Calibrated Environments for Measuring and Training Scientific Discovery Agents](<https://arxiv.org/abs/2611.24711v1>) | Paper | Verified affiliation |
 | 2026‑10‑07 | [StoreBench\: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents](<https://arxiv.org/abs/2610.10942v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Invent a Dataset\: Measuring dataset generation abilities with zero seed](<https://arxiv.org/abs/2610.01674v1>) | Paper | Verified affiliation |
 | 2026‑09‑29 | [Self-Evolving Defense\: Continual Security Policy Learning for LLM Agents](<https://arxiv.org/abs/2609.36603v1>) | Paper | Verified affiliation |
