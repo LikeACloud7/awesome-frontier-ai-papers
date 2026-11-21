@@ -1,16 +1,19 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1563`
-- Latest: `2026-11-18`
+- Papers: `1566`
+- Latest: `2026-11-19`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑19 | [Depth Pro 2\: Sharp and Temporally Consistent Metric Monocular Depth](<https://machinelearning.apple.com/research/depth-pro-2-monocular>) | Publication | Official page, Verified affiliation |
 | 2026‑11‑18 | [Exemplarism for the AI age](<https://doi.org/10.1007/s43681-026-01456-x>) | Article | OpenAlex |
 | 2026‑11‑18 | [Bridging vision-language reasoning and learned control for legged navigation in the wild](<https://doi.org/10.1126/scirobotics.aee1549>) | Article | OpenAlex |
+| 2026‑11‑15 | [Where Should LLM Agents Adapt at Test Time? In Context, in Weights, or Both](<https://arxiv.org/abs/2611.19700>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [SpecRelay\: Amortize or Avoid the Round Trip in Edge-Cloud Speculative Decoding](<https://arxiv.org/abs/2611.18963>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Theoretical Limits of Language Model Alignment](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) | Publication | Official page |
 | 2026‑11‑12 | [Split-and-Scale Latent 3D Representations](<https://machinelearning.apple.com/research/split-scale-latent-3d>) | Publication | Verified affiliation, Official page |
 | 2026‑11‑12 | [JudgeMix\: Judge-Guided Mixed-Rollout Data Synthesis for LLM Agents](<https://arxiv.org/abs/2611.16174v1>) | Paper | Verified affiliation |
@@ -30,8 +33,8 @@
 | 2026‑11‑04 | [Future Jobs After AI\: A Field Guide for Leaders](<https://doi.org/10.70593/978-81-6632-208-2>) | Book | OpenAlex |
 | 2026‑11‑04 | [Perceptive Humanoid Motion from Simulation](<https://arxiv.org/abs/2611.06908v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Attention to Mamba\: A Recipe for Cross-Architecture Distillation](<https://machinelearning.apple.com/research/attention-mamba-distillation>) | Publication | Official page |
-| 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [Agnostic Learning by Imitating](<https://arxiv.org/abs/2611.05346v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑11‑03 | [Universal Hardness From Masking Channels](<https://arxiv.org/abs/2611.05296v1>) | Paper | Verified affiliation |
 | 2026‑11‑02 | [Towards Benchmarking Screen Reader Use in Computer Use Agents](<https://doi.org/10.1145/3830397.3841803>) | Conference paper | OpenAlex |
 | 2026‑11‑02 | [Revibing HCI\: Agentic Reimplementation as Community Practice](<https://doi.org/10.1145/3830397.3842697>) | Conference paper | OpenAlex |
 | 2026‑10‑29 | [Understanding and Mitigating Role Spoofing in LLMs](<https://arxiv.org/abs/2610.40396>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4127`
+- Papers: `4136`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -26,8 +26,17 @@
 | 2026‑11‑17 | [SpatialCrafter\: Single-Image World Modeling with Generative 3D Proxies](<https://arxiv.org/abs/2608.27073>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [Mutual Forcing\: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation](<https://arxiv.org/abs/2604.25819>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [BridgeEdit\: Scaling Bridge Models for Precise Image Editing](<https://doi.org/10.1145/3829340.3842247>) | Conference paper | OpenAlex |
+| 2026‑11‑16 | [GPromptShield\: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks](<https://arxiv.org/abs/2611.20621v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑11‑16 | [VisualArtifactSpec 1\.0\: Evaluating Visual Artifacts under Task Specifications](<https://arxiv.org/abs/2611.21382>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [TrainExplorer\: Autonomous LLM Post-Training via Plan-and-Decouple Exploration](<https://arxiv.org/abs/2611.20430>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [SADL\: On the Demand-Supply Geometry of Representation Collapse](<https://arxiv.org/abs/2611.21596>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [MAGE\: Meta-path Adaptive Graph Evidence for Transferable Multimodal Graph Learning](<https://arxiv.org/abs/2611.20449>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Learning to Reason with Predictive Gains for Generative Recommendation](<https://arxiv.org/abs/2611.21441>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Latent Bridge\: Asking for Help Without Words](<https://arxiv.org/abs/2611.21301>) | Preprint | OpenAlex |
+| 2026‑11‑15 | [Rethinking Post-Training for Expressive Zero-Shot Text-to-Speech](<https://arxiv.org/abs/2611.19787>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [TraJudger\: Structure-Guided Failure Attribution for LLM-Powered Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857043>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SwiftMPC\: Accelerating ML under MPC with Secure-Chip-Assisted One-Way Communication](<https://doi.org/10.1145/3828523.3857086>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Omni-Workspace\: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks](<https://arxiv.org/abs/2611.19202>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [Model-as-a-Service in the Wild\: Characterizing Production LLM Inference Clusters at Scale](<https://doi.org/10.1145/3828523.3857044>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Dasheng\: LLM-powered Reliability Engineering Assistant for Cloud Overlay Networks](<https://doi.org/10.1145/3828523.3857068>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Chorus\: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode](<https://doi.org/10.1145/3828523.3857065>) | Conference paper | OpenAlex |
@@ -1266,7 +1275,7 @@
 | 2026‑04‑02 | [Recommender Systems Should Now Be Designed Towards Agents](<https://doi.org/10.20944/preprints202604.0201.v1>) | Preprint | OpenAlex |
 | 2026‑04‑02 | [DeltaMem\: Towards Agentic Memory Management via Reinforcement Learning](<http://arxiv.org/abs/2604.01560>) | Preprint | OpenAlex |
 | 2026‑04‑01 | [TENT\: A Declarative Slice Spraying Engine for Performant and Resilient Data Movement in Disaggregated LLM Serving](<https://arxiv.org/abs/2604.00368>) | Preprint | OpenAlex |
-| 2026‑04‑01 | [S-Eval\: Towards Automated Safety Evaluation with Enhancement for Large Language Models](<https://doi.org/10.1145/3805706>) | Article | OpenAlex |
+| 2026‑04‑01 | [S-Eval \: Towards Automated Safety Evaluation with Enhancement for Large Language Models](<https://doi.org/10.1145/3805706>) | Article | OpenAlex |
 | 2026‑04‑01 | [Multi-Scale Optimal Transport Transformer for Efficient Exemplar-Based Image Translation](<https://doi.org/10.3390/bdcc10040107>) | Article | OpenAlex |
 | 2026‑04‑01 | [GRAND\:A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms](<https://scholars.cityu.edu.hk/en/publications/2768f3e6-d902-42a5-b6a8-af4579b455cd>) | Conference paper | OpenAlex |
 | 2026‑04‑01 | [Efficient graph embedding at scale\: optimizing CPU-GPU-SSD integration](<https://doi.org/10.1007/s00778-026-00974-8>) | Article | OpenAlex |

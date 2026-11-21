@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4263`
+- Papers: `4269`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -18,20 +18,26 @@
 | 2026‑11‑18 | [Creative Machines, Creative Sketches\: Generation, Evaluation, and Interaction in the Generative AI Era](<https://doi.org/10.1145/3829341.3850008>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [IDEA\: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](<https://huggingface.co/papers/2611.24102>) | Preprint | Official page |
 | 2026‑11‑17 | [TalkFlow\: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation](<https://arxiv.org/abs/2610.40972>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [TAILROLL\: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training](<https://arxiv.org/abs/2611.22206>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [FreeME\: Target-Buffer-Free Mobile Extrapolation for Rendered Frames](<https://doi.org/10.1145/3829340.3842195>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [Dual-Camera Multi-Reference Smartphone Super-Resolution](<https://doi.org/10.1145/3829340.3842303>) | Conference paper | OpenAlex |
-| 2026‑11‑17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](<https://arxiv.org/abs/2611.22844v1>) | Paper | Verified affiliation |
+| 2026‑11‑17 | [How well does graph superoptimization transfer? Adapting tensor-graph superoptimizer to a Triton-based NPU](<https://arxiv.org/abs/2611.22844v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑17 | [COTTI\: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift](<https://arxiv.org/abs/2611.22597v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [GPromptShield\: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks](<https://arxiv.org/abs/2611.20621v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑16 | [Solving Molecular Crystal Structures through Experimental PXRD-Guided Sequential Crystal Structure Prediction](<https://doi.org/10.26434/chemrxiv.15012291/v1>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the Chain Scenario](<https://arxiv.org/abs/2611.21414>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Lost in a Few Heads\: Diagnosing and Repairing Block Selection in Sparse Attention](<https://arxiv.org/abs/2611.21917>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Augmenting Pretrained Language Models with N-gram Embeddings through Incremental Training](<https://arxiv.org/abs/2611.20415>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [ViRA\: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](<https://arxiv.org/abs/2611.21605v1>) | Paper | Verified affiliation |
-| 2026‑11‑16 | [GPromptShield\: Elevating Resilience in Graph Prompt Tuning against Adversarial Attacks](<https://arxiv.org/abs/2611.20621v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Mitigating Physical Threats to AI Supernodes with Dynamic Trust Domains](<https://doi.org/10.1145/3847193.3847998>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [FlexMARL\: Graph-Driven Rollout-Training Co-Design for LLM-Based Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2602.09578>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [RoboCoEvo\: Expanding Robot Capabilities through Agent-Policy Co-Evolution](<https://arxiv.org/abs/2611.19081>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [EMDedup\: Accelerating DLRM via In-Network EMbedding Layer Deduplication](<https://doi.org/10.1145/3828523.3857124>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [DittoCache\: From CPU-Orchestrated to GPU-Centric KVCache for Efficient LLM Decoding](<https://doi.org/10.1145/3828523.3857042>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Detecting and Localizing Network Faults in RoCE-Based AI Clouds under Restricted Telemetry](<https://doi.org/10.1145/3828523.3857027>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [DeltaBox\: Millisecond-Scale Sandbox Checkpoint and Rollback for Stateful AI Agents](<https://doi.org/10.1145/3828523.3857015>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [DAG-KV\: DAG-Guided KV Propagation for Structure-Aware Knowledge Reuse](<https://doi.org/10.1145/3828523.3857074>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning](<https://arxiv.org/abs/2611.19236>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [AgentMesh\: Toward Redundancy- and Barrier-Free Dataflow in Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857023>) | Conference paper | OpenAlex |
 | 2026‑11‑13 | [DiffusionSSD\: Achieving Extreme Visual Compression with Dual-stage Diffusion and Cross-level Near-Data Processing](<https://arxiv.org/abs/2611.17908v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [Mitigating Code Injection Attacks on Modern GPUs](<https://doi.org/10.1145/3830454.3832680>) | Conference paper | OpenAlex |
@@ -1775,6 +1781,7 @@
 | 2025‑09‑02 | [LIFT\: Automating Symbolic Execution Optimization with Large Language Models for AI Networks](<https://doi.org/10.1145/3748273.3749202>) | Article | OpenAlex |
 | 2025‑09‑01 | [Causal-aware Large Language Models\: Enhancing Decision-Making Through Learning, Adapting and Acting](<https://www.noahlab.com.hk/en/scientific_research/causal-aware-large-language-models-enhancing-decision-making-through-learning-adapting-and-acting>) | Publication | Official page, OpenAlex |
 | 2025‑09‑01 | [RotateKV\: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations](<https://doi.org/10.24963/ijcai.2025/690>) | Article | OpenAlex |
+| 2025‑09‑01 | [Does Combining Parameter‐Efficient Modules Improve Few‐Shot Transfer Accuracy?](<https://doi.org/10.1049/aie2.12002>) | Article | OpenAlex |
 | 2025‑09‑01 | [UB-Mesh\: A Hierarchically Localized nD-FullMesh Data Center Network Architecture](<https://doi.org/10.1109/mm.2025.3592688>) | Article | OpenAlex |
 | 2025‑09‑01 | [Do Mentioned Items Truly Matter? Enhancing Conversational Recommender Systems with Causal Intervention and Large Language Models](<https://doi.org/10.24963/ijcai.2025/470>) | Article | OpenAlex |
 | 2025‑09‑01 | [Structure-Induced Gradient Regulation for Generalizable Vision-Language Models](<https://doi.org/10.1109/tpami.2025.3604454>) | Article | OpenAlex |
@@ -1782,7 +1789,6 @@
 | 2025‑09‑01 | [Special Issue Editorial\: Generative AI for Secure Communications and Networking](<https://doi.org/10.1109/mnet.2025.3592783>) | Article | OpenAlex |
 | 2025‑09‑01 | [Universal Backdoor Defense via Label Consistency in Vertical Federated Learning](<https://doi.org/10.24963/ijcai.2025/528>) | Conference paper | OpenAlex |
 | 2025‑09‑01 | [Hybrid Neural/Traditional OFDM Receiver with Learnable Decider](<http://arxiv.org/abs/2509.18574>) | Conference paper | OpenAlex |
-| 2025‑09‑01 | [Does Combining Parameter‐Efficient Modules Improve Few‐Shot Transfer Accuracy?](<https://doi.org/10.1049/aie2.12002>) | Article | OpenAlex |
 | 2025‑09‑01 | [Device-Cloud Collaborative Correction for On-Device Recommendation](<https://doi.org/10.24963/ijcai.2025/402>) | Conference paper | OpenAlex |
 | 2025‑09‑01 | [6G ISAC Enables Environment Object Reconstruction](<https://doi.org/10.1109/jsteap.2025.3607855>) | Article | OpenAlex |
 | 2025‑09‑01 | [VideoHumanMIB\: Unlocking Appearance Decoupling for Video Human Motion In-betweening](<https://doi.org/10.24963/ijcai.2025/474>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # MiniMax Papers
 
 - Region: `China`
-- Papers: `25`
+- Papers: `28`
 - Latest: `2026-11-02`
 - [Back to README](../../README.md#minimax)
 
@@ -30,6 +30,7 @@
 | 2026‑02‑01 | [What Does Vision Tool-Use Reinforcement Learning Really Learn? Disentangling Tool-Induced and Intrinsic Effects for Crop-and-Zoom](<https://arxiv.org/abs/2602.01334>) | Preprint | OpenAlex |
 | 2026‑01‑15 | [OctoBench\: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding](<https://arxiv.org/abs/2601.10343>) | Paper | Verified affiliation |
 | 2026‑01‑01 | [HER\: Human-like Reasoning and Reinforcement Learning for LLM Role-playing](<https://doi.org/10.48550/arxiv.2601.21459>) | Preprint | OpenAlex |
+| 2026‑01‑01 | [Quality Assessment of AI-Generated Visual Content\: A Survey](<https://doi.org/10.1109/ojid.2026.3750812>) | Article | OpenAlex |
 
 ## 2025
 
@@ -38,8 +39,10 @@
 | 2025‑12‑15 | [Towards Scalable Pre-training of Visual Tokenizers for Generation](<https://huggingface.co/papers/2512.13687>) | Technical report | Official page, OpenAlex, Hugging Face |
 | 2025‑09‑08 | [WebExplorer\: Explore and Evolve for Training Long-Horizon Web Agents](<https://arxiv.org/abs/2509.06501>) | Paper | Verified affiliation |
 | 2025‑09‑01 | [Does Combining Parameter‐Efficient Modules Improve Few‐Shot Transfer Accuracy?](<https://doi.org/10.1049/aie2.12002>) | Article | OpenAlex |
+| 2025‑07‑11 | [Dynamic Parameter Memory\: Temporary LoRA-Enhanced LLM for Long-Sequence Emotion Recognition in Conversation](<http://arxiv.org/abs/2507.09076>) | Preprint | OpenAlex |
 | 2025‑06‑16 | [MiniMax-M1\: Scaling Test-Time Compute Efficiently with Lightning Attention](<https://huggingface.co/papers/2506.13585>) | Paper | Hugging Face |
 | 2025‑06‑13 | [MiniMax-M1](<https://huggingface.co/MiniMaxAI/MiniMax-M1-80k/blob/main/MiniMax_M1_tech_report.pdf>) | Technical report | Official repo |
+| 2025‑05‑24 | [OmniGenBench\: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks](<http://arxiv.org/abs/2505.18775>) | Preprint | OpenAlex |
 | 2025‑05‑12 | [MiniMax-Speech\: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](<https://huggingface.co/papers/2505.07916>) | Technical report | Official report |
 | 2025‑04‑03 | [Rethinking RL Scaling for Vision Language Models\: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme](<http://arxiv.org/abs/2504.02587>) | Preprint | OpenAlex |
 | 2025‑01‑14 | [MiniMax-01\: Scaling Foundation Models with Lightning Attention](<https://huggingface.co/papers/2501.08313>) | Paper | Hugging Face |

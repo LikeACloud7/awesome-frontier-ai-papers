@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3881`
-- Latest: `2026-11-17`
+- Papers: `3885`
+- Latest: `2026-11-19`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,7 +16,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation |
 | 2026‑11‑17 | [Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](<https://arxiv.org/abs/2608.03158>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [SLiDE\: Structured Linear Dynamics for Forecasting with Exogenous Inputs](<https://arxiv.org/abs/2611.19586>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [LLM-Guided Cluster Lifecycle Management\: Deciding When and How to Evolve Behavioral Clusters](<https://arxiv.org/abs/2611.17616>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Bloom unifies brain cell representations across modalities and contexts](<https://doi.org/10.64898/2026.11.11.765881>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Reinforcement Learning to Rank Using Coarse-grained Rewards](<http://arxiv.org/abs/2208.07563>) | Article | OpenAlex |
@@ -25,6 +27,7 @@
 | 2026‑11‑12 | [Compiling Known Rules into Compact Neural Agents\: Weight-Space Programming on Unseen Games](<https://arxiv.org/abs/2611.16981>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [CURATOR\: Scalable Fine-grained Evidence Selection for Retrieval-Augmented Generation using Decision Models](<https://arxiv.org/abs/2611.16366>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Vocabulary-Free Next-Event Prediction on Temporal Graphs](<https://arxiv.org/abs/2611.16063>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [Mutual Colormap Dependence\: How Recoloring Biomedical Images Changes Vision-Language Model Answers](<https://arxiv.org/abs/2611.18765>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [DecArena\: Evaluating Large-Scale Decentralized Multi-Agent Collaboration](<https://arxiv.org/abs/2611.15521>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [An Integrated AI-Driven Methodology for Synthesizing a Digital Similar of Residential PV Adoption](<http://arxiv.org/abs/2410.08098>) | Article | OpenAlex |
 | 2026‑11‑10 | [Guessing Without Momentum](<https://doi.org/10.34740/kaggle/w/123952>) | Article | OpenAlex |
@@ -49,6 +52,7 @@
 | 2026‑11‑06 | [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](<https://arxiv.org/abs/2611.09554>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Healthcare Transaction Authorization and Management Computer Device](<https://doi.org/10.71097/ijsat.v17.i4.11686>) | Article | OpenAlex |
 | 2026‑11‑06 | [Automated De-identification Solution for Medical DICOM Datasets](<https://doi.org/10.1007/978-3-032-31709-4_14>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [Local Background Features Matter in Out-of-Distribution Detection](<http://arxiv.org/abs/2510.12259>) | Article | OpenAlex |
 | 2026‑11‑05 | [zkARc\: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification](<https://doi.org/10.48550/arxiv.2611.10031>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Latent RL Priors for Data-Efficient Dexterous Manipulation](<https://arxiv.org/abs/2611.08458>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Householder Motion Embedding\: Noise Modulation for Motion-Controllable Video Generation](<https://arxiv.org/abs/2611.07294>) | Preprint | OpenAlex |
@@ -234,10 +238,10 @@
 | 2026‑10‑01 | [Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion](<https://arxiv.org/abs/2610.02372v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Skeleton-and-Strategy Prompting\: Training-Free Negation Understanding for Vision-Language Models](<https://arxiv.org/abs/2610.01180v1>) | Paper | Verified affiliation |
 | 2026‑10‑01 | [Improving Math Reasoning through Value-guided Informative Search](<https://arxiv.org/abs/2610.01080v1>) | Paper | Verified affiliation |
+| 2026‑09‑30 | [HeadSense\: Head Orientation Tracking for AI Wearables using Ultra-Wideband Ranging](<https://doi.org/10.1145/3842436.3843787>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Vision\: HomeLM for Ambient Intelligence in the Smart Home](<https://doi.org/10.1145/3842436.3843789>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Multi-LLM Collaborative Alignment via Stackelberg Games](<https://arxiv.org/abs/2609.39076>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [MANTA\: Machine Learning Augmented Tiering Advisor](<https://arxiv.org/abs/2610.00714>) | Preprint | OpenAlex |
-| 2026‑09‑30 | [HeadSense\: Head Orientation Tracking for AI Wearables using Ultra-Wideband Ranging](<https://doi.org/10.1145/3842436.3843787>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [A Fine-Grained Benchmark for Ophthalmic Foundation Models with Point-Based Classification and Retrieval](<https://doi.org/10.21203/rs.3.rs-10817915/v1>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Training LLM Judges from Language Feedback via Position-Selective Self-Distillation](<https://arxiv.org/abs/2609.38792v1>) | Paper | Verified affiliation, OpenAlex, Hugging Face |
 | 2026‑09‑30 | [CommunityKV\: Efficient Long-Context Decoding via Graph Partitioning](<https://arxiv.org/abs/2610.00418>) | Paper | Verified affiliation |

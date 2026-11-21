@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1963`
-- Latest: `2026-11-17`
+- Papers: `1965`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,9 +17,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [Homeward\: No Place Like the Training View](<https://doi.org/10.48550/arxiv.2611.24455>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [SCRIPT\: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control](<https://arxiv.org/abs/2605.22894>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [DanceHMR\: Hand-Aware Whole-Body Human Mesh Recovery from Monocular Videos](<https://arxiv.org/abs/2605.18102>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [TexSpot\: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](<http://arxiv.org/abs/2602.12157>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [SEAM\: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](<https://arxiv.org/abs/2611.22971>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [ArtiAtlas\: A Holistic Ecosystem for Diverse 3D Articulation Modeling](<https://doi.org/10.1145/3829340.3842377>) | Conference paper | OpenAlex |
 | 2026‑11‑16 | [AMSDS\: Adaptive Cloud-Edge Visual Navigation via DNN Partitioning and Semantic Compression](<https://doi.org/10.1145/3860325>) | Article | OpenAlex |
 | 2026‑11‑14 | [Workload Analysis of a Production BigData-Storage Cluster for ML and Data Analytics](<https://doi.org/10.1145/3828523.3857020>) | Conference paper | OpenAlex |

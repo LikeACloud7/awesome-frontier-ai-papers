@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4401`
+- Papers: `4405`
 - Latest: `2026-11-16`
 - [Back to README](../../README.md#microsoft)
 
@@ -246,16 +246,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑16 | [A Taxonomy and Taxonomy-Guided Benchmark Reduction for Spreadsheet Tasks](<https://arxiv.org/abs/2611.21452v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents](<https://arxiv.org/abs/2611.21376>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [A Taxonomy and Taxonomy-Guided Benchmark Reduction for Spreadsheet Tasks](<https://arxiv.org/abs/2611.21452v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑14 | [OpenNetLab\: An Open Platform for AI-Based Bandwidth Estimation in Real-Time Communications](<https://doi.org/10.1145/3828523.3857037>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Mosaic\: Efficient CPU–GPU Coordinated Block-Sparse Attention for Long-Context Decoding](<https://doi.org/10.1145/3828523.3857033>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [All Together Now\: Joint Codon Alignment, Ohmic Networks, and Error-Controlled Selection Inference in HyPhy 3](<https://doi.org/10.64898/2026.11.06.764988>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Vision-as-a-Tool\: Visual Harness for Multimodal Agentic Coding](<https://arxiv.org/abs/2611.17797>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Microfluidic design optimization in the era of AI agents](<https://engrxiv.org/preprint/view/8800>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Interpretable weight-space programming builds transparent transformers and brain encoding models](<https://arxiv.org/abs/2611.18114>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [Ask Precisely, Assume Wisely\: Interactive Evaluation of Ambiguity Resolution in Large Language Models](<https://arxiv.org/abs/2611.18905>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [AG-JEPA\: Anatomically Guided Joint Embedding Predictive Architecture for Neurodegenerative Representation Learning](<https://arxiv.org/abs/2611.18097>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://www.microsoft.com/en-us/research/publication/where-the-world-went-missing-geographic-inequality-in-wikipedia-and-ai/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [AI has its own style in mathematical proving](<https://www.microsoft.com/en-us/research/publication/ai-has-its-own-style-in-mathematical-proving/>) | Publication | OpenAlex, Official page |
-| 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Discrete dynamic survival analysis of epidemic case line lists](<https://doi.org/10.64898/2026.11.10.26367756>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Benchmarks Don't Talk Back\: Learning Through Self-Disagreement](<https://arxiv.org/abs/2611.17563>) | Preprint | OpenAlex |
@@ -279,6 +282,7 @@
 | 2026‑11‑09 | [PodEval\: A Multimodal Evaluation Framework for Long-form Podcast Generation](<http://arxiv.org/abs/2510.00485>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [Benchmarking Real-World Robotic Manipulation through Stochastic Challenges](<https://arxiv.org/abs/2611.12804>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [AnyStyle\: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](<https://arxiv.org/abs/2602.04043>) | Conference paper | OpenAlex |
+| 2026‑11‑09 | [AI Adoption Survey Experiment](<https://doi.org/10.1257/rct.20199-1.0>) | Study registration | OpenAlex |
 | 2026‑11‑08 | [Perturbing Inputs Improves Pretraining Distillation](<https://www.microsoft.com/en-us/research/publication/perturbing-inputs-improves-pretraining-distillation/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑07 | [WordEval\: Evaluating Word-Native Operation Fidelity in Document Editing](<https://www.microsoft.com/en-us/research/publication/wordeval-evaluating-word-native-operation-fidelity-in-document-editing/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026‑11‑07 | [Tiresias\: Towards Language-Conditioned World Models](<https://www.microsoft.com/en-us/research/publication/tiresias-towards-language-conditioned-world-models/>) | Publication | OpenAlex, Official page |

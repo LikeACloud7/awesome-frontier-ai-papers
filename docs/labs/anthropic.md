@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `385`
+- Papers: `387`
 - Latest: `2026-11-15`
 - [Back to README](../../README.md#anthropic)
 
@@ -24,10 +24,12 @@
 |---|---|---|---|
 | 2026‑11‑15 | [Reasoning in the loop\: antibody lead optimization by probing mechanism and measurement](<https://doi.org/10.48550/arxiv.2611.19812>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Aligning AI Teams](<https://arxiv.org/abs/2611.17820v1>) | Paper | Verified affiliation |
+| 2026‑11‑11 | ["It's Just a Small Weapon"\: What Rewarding Misbehavior During RL Does to Character-Trained Models](<https://arxiv.org/abs/2611.16069v2>) | Paper | Verified affiliation |
 | 2026‑11‑09 | [Exposure is All You Need\: Using LLMs to Identify Critical Endpoints at Internet Scale](<https://doi.org/10.1145/3847352.3848119>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Homeopathic Learning\: Diluting poisoned fine-tuning data can strengthen its effect](<https://arxiv.org/abs/2611.10110v1>) | Paper | Verified affiliation |
 | 2026‑11‑05 | [The Memory Trap\: Language Agents Overgeneralize from Benign Interactions](<https://arxiv.org/abs/2611.07554>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Understanding AI from the Inside\: The State of Mechanistic Interpretability for AI Safety](<https://arxiv.org/abs/2611.08438v2>) | Paper | Verified affiliation |
+| 2026‑11‑05 | [Towards interpreting any residual stream direction by scaling activation inversion](<https://arxiv.org/abs/2611.08465v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [TritonParse\: Multi-IR Provenance and Reproducible Debugging for Triton Kernel Compilation](<https://doi.org/10.1145/3845814.3850058>) | Conference paper | OpenAlex |
 | 2026‑11‑01 | [Emergent parallels between language models and the brain](<https://doi.org/10.1016/j.cub.2026.10.007>) | Article | OpenAlex |
 | 2026‑10‑30 | [SecPO\: Principled Adversarial Training for Prompt Injection Security](<https://arxiv.org/abs/2610.41998v1>) | Paper | Verified affiliation |

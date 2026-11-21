@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `539`
-- Latest: `2026-11-18`
+- Papers: `541`
+- Latest: `2026-11-20`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑20 | [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>) | Research post | Official page |
 | 2026‑11‑18 | [Research acceleration\: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>) | Research post | Official page |
 | 2026‑11‑18 | [Managing frontier AI risk\: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>) | Research post | Official page |
 | 2026‑11‑18 | [Advancing chip design with OpenAI models](<https://openai.com/index/advancing-chip-design-with-our-models>) | Research post | Official page |
@@ -27,6 +28,7 @@
 | 2026‑11‑16 | [Science at the Frontier\: How scientists use ChatGPT](<https://openai.com/index/science-at-the-frontier>) | Research post | Official page |
 | 2026‑11‑16 | [Our first phase of embedded assessments](<https://openai.com/index/our-first-phase-of-embedded-assessments>) | Research post | Official page |
 | 2026‑11‑16 | [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>) | Research post | Official page |
+| 2026‑11‑12 | [Gradient-Guided Hardware-Native MIXFP4](<https://arxiv.org/abs/2611.18769>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Deep Personalization\: Continuous Context Observation for Local Proactive Agents](<https://arxiv.org/abs/2611.13457>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [AI-assisted search for self-compressing gigawatt subcycle field waveforms](<https://arxiv.org/abs/2611.14672>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Control Room\: A central system to track and stop model workloads across our research infrastructure](<https://openai.com/index/control-room>) | Research post | Official page |

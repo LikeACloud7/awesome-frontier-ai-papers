@@ -1,7 +1,7 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1944`
+- Papers: `1945`
 - Latest: `2026-11-17`
 - [Back to README](../../README.md#metafair)
 
@@ -71,6 +71,7 @@
 | 2026‑11‑04 | [EDIVA\: Exploiting Human Behavioral Patterns for Differential Egocentric Video Processing in AR](<https://doi.org/10.1145/3845814.3850080>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Towards Efficient Whole Page Ranking with One-Pass Inference](<https://arxiv.org/abs/2611.05542>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [OGX\: An Open-Source, Vendor-Neutral Generative AI Application Server](<https://arxiv.org/abs/2608.14580>) | Article | OpenAlex |
+| 2026‑11‑01 | [LRanker\: Scaling LLM Ranking to Millions of Candidates with Test-Time Scaling](<https://arxiv.org/abs/2605.27810>) | Article | OpenAlex |
 | 2026‑11‑01 | [Divergence Framework for Uncertainty-Aware Portfolio Defence on Structural Stress and Sentiment Noise](<https://doi.org/10.1922/comdem.v3i6s.19018>) | Article | OpenAlex |
 | 2026‑11‑01 | [A Tutorial on Reinforcement Learning for LLMs\: RLHF and Beyond](<https://doi.org/10.1287/educ.2026.0311>) | Book chapter | OpenAlex |
 | 2026‑10‑31 | [Step-dLLM\: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](<https://arxiv.org/abs/2611.01320>) | Preprint | OpenAlex |

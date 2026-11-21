@@ -1,18 +1,19 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1158`
-- Latest: `2026-11-17`
+- Papers: `1159`
+- Latest: `2026-11-19`
 - [Back to README](../../README.md#baidu)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑19 | [Unsupervised unified thin cloud removal via physics-based decoupling and infrared-assisted adversarial learning](<https://doi.org/10.1016/j.isprsjprs.2026.10.026>) | Article | OpenAlex |
 | 2026‑11‑17 | [CRAFT\: Constrained Reward via Attention Fine-Tuning for Subject Personalization without Composed Targets](<https://arxiv.org/abs/2608.14403>) | Conference paper | OpenAlex |
-| 2026‑11‑16 | [SWE-OPD\: On-Policy Distillation for Agentic Coding](<https://arxiv.org/abs/2611.21020v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [SWE-OPD\: On-Policy Distillation for Agentic Coding](<https://arxiv.org/abs/2611.21020v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑16 | [IndustrialKnowEval\: A Benchmark for Evaluating Multi-Level Industrial Knowledge in LLMs](<https://arxiv.org/abs/2611.20695v1>) | Paper | Verified affiliation |
-| 2026‑11‑16 | [ExRel\: Learning Directed Reuse Relevance between Rich-Text K-12 Question Images with Executable Relation Contracts](<https://arxiv.org/abs/2611.21461v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [ExRel\: Learning Directed Reuse Relevance between Rich-Text K-12 Question Images with Executable Relation Contracts](<https://arxiv.org/abs/2611.21461v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑12 | [Folio\: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents](<https://arxiv.org/abs/2611.16627>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](<https://arxiv.org/abs/2611.17167>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Hallo-Live\: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation](<https://arxiv.org/abs/2604.23632>) | Conference paper | OpenAlex |

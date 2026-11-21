@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2255`
+- Papers: `2263`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#nvidia)
 
@@ -26,9 +26,16 @@
 | 2026‑11‑17 | [Machine Learning Operator Lexicon for Partial Differential Equation Solvers on Irregular and Sparse Domains](<https://doi.org/10.1145/3829340.3842319>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [GLOSS\: Geometric Local Self-Similarity Learning for Faithful Reference-Guided Texture Fill](<https://arxiv.org/abs/2608.25461>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [FlowLoops\: Robustly Extracting Descriptive Curve Networks from Standard Triangle Meshes](<https://doi.org/10.1145/3829340.3842235>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [NVIDIA Kumo Tabular\: Pushing the Accuracy-Efficiency Frontier for Tabular Prediction](<https://arxiv.org/abs/2611.23001v1>) | Paper | Verified affiliation |
+| 2026‑11‑17 | [FailureGen\: Scalable Robot Failure Data Generation with World Models](<https://arxiv.org/abs/2611.22367v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [TCBP-JOBS\: GPU-Accelerated Quantum Error Correction Decoding and Noise Learning with Near-Optimal Accuracy](<https://arxiv.org/abs/2611.21321>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [Nemotron 3\.5 Bolt E4B 4GB\: An Open and Efficient Small Language Model for Fast Conversational Agents](<https://arxiv.org/abs/2611.20771v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
+| 2026‑11‑14 | [Nahual\: A Sequence Model for Language and Atoms](<https://arxiv.org/abs/2611.19072>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Beyond Controllability\: Speaker Diversity in Instruction-Guided Text-to-Speech](<https://arxiv.org/abs/2611.19030>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [Token2Tile\: Token-Wise Sparse Attention with Tile Execution through a Low-Rank Space for Video DiTs](<https://arxiv.org/abs/2611.17930>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [Training Reasoning Models in Simulation to Natively Use Real Robots](<https://arxiv.org/abs/2611.18562v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [Singularity-Bench\: Can Agents Build Agents?](<https://arxiv.org/abs/2611.16591>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ISLA\: A Coordinate-Free, Measure-Weighted Transformer for Boundary-Driven PDEs](<https://arxiv.org/abs/2611.17141>) | Preprint | OpenAlex |
@@ -82,6 +89,7 @@
 | 2026‑11‑02 | [A Framework for Efficient Well Control Modeling in Machine Learning Surrogates](<https://doi.org/10.2118/236261-ms>) | Conference paper | OpenAlex |
 | 2026‑11‑02 | [CISA\: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention](<https://arxiv.org/abs/2611.03200v1>) | Paper | Verified affiliation |
 | 2026‑11‑01 | [TrackMem\: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue](<https://arxiv.org/abs/2611.02001>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [The Agentic Era in Healthcare Robotics](<https://doi.org/10.1016/j.jacr.2026.11.017>) | Article | OpenAlex |
 | 2026‑11 | [cuArms\: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](<https://research.nvidia.com/publication/2026-11_cuarms-gpu-accelerated-conflict-based-planning-multi-arm-manipulation>) | Publication | Official page |
 | 2026‑11 | [TAMPAgent\: Agentic Belief-Space Planning for Mobile Manipulation](<https://research.nvidia.com/publication/2026-11_tampagent-agentic-belief-space-planning-mobile-manipulation>) | Publication | Official page, Verified affiliation |
 | 2026‑11 | [Human2Any\: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](<https://research.nvidia.com/publication/2026-11_human2any-human-robot-transfer-constraint-aware-compositional-planning>) | Publication | Official page |
