@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1159`
+- Papers: `1160`
 - Latest: `2026-11-19`
 - [Back to README](../../README.md#baidu)
 
@@ -10,12 +10,13 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑19 | [Unsupervised unified thin cloud removal via physics-based decoupling and infrared-assisted adversarial learning](<https://doi.org/10.1016/j.isprsjprs.2026.10.026>) | Article | OpenAlex |
+| 2026‑11‑17 | [DOOM-GS\: Dynamic Out-of-core Optimization for Massive Gaussian Splatting](<https://arxiv.org/abs/2611.22805>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [CRAFT\: Constrained Reward via Attention Fine-Tuning for Subject Personalization without Composed Targets](<https://arxiv.org/abs/2608.14403>) | Conference paper | OpenAlex |
 | 2026‑11‑16 | [SWE-OPD\: On-Policy Distillation for Agentic Coding](<https://arxiv.org/abs/2611.21020v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑16 | [IndustrialKnowEval\: A Benchmark for Evaluating Multi-Level Industrial Knowledge in LLMs](<https://arxiv.org/abs/2611.20695v1>) | Paper | Verified affiliation |
 | 2026‑11‑16 | [ExRel\: Learning Directed Reuse Relevance between Rich-Text K-12 Question Images with Executable Relation Contracts](<https://arxiv.org/abs/2611.21461v1>) | Paper | Verified affiliation, OpenAlex |
-| 2026‑11‑12 | [Folio\: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents](<https://arxiv.org/abs/2611.16627>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](<https://arxiv.org/abs/2611.17167>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Folio\: Recoverable Multi-Resolution Context Folding for Long-Horizon Language Agents](<https://arxiv.org/abs/2611.16627>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Hallo-Live\: Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation](<https://arxiv.org/abs/2604.23632>) | Conference paper | OpenAlex |
 | 2026‑11‑09 | [SWE-Time\: Benchmarking Temporal Repository Understanding](<https://arxiv.org/abs/2611.12083>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Agentic-OPD\: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>) | Preprint | OpenAlex |
@@ -591,6 +592,7 @@
 | 2025‑06‑12 | [Unsupervised Pre-Training With Language-Vision Prompts for Low-Data Instance Segmentation](<https://doi.org/10.1109/tpami.2025.3579469>) | Article | OpenAlex |
 | 2025‑06‑10 | [TRKT\: Weakly Supervised Dynamic Scene Graph Generation with Temporal-Enhanced Relation-Aware Knowledge Transferring](<https://doi.org/10.1109/iccv51701.2025.01467>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Hallo3\: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](<https://doi.org/10.1109/cvpr52734.2025.01964>) | Article | OpenAlex |
+| 2025‑06‑10 | [DeRS\: Towards Extremely Efficient Upcycled Mixture-of-Experts Models](<https://doi.org/10.1109/cvpr52734.2025.00940>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Splatter-360\: Generalizable 360° Gaussian Splatting for Wide-baseline Panoramic Images](<https://doi.org/10.1109/cvpr52734.2025.02011>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Recognition-Synergistic Scene Text Editing](<https://doi.org/10.1109/cvpr52734.2025.01223>) | Article | OpenAlex |
 | 2025‑06‑10 | [MPDrive\: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](<https://doi.org/10.1109/cvpr52734.2025.01129>) | Conference paper | OpenAlex |
@@ -599,7 +601,6 @@
 | 2025‑06‑10 | [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](<https://doi.org/10.1109/iccv51701.2025.02338>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [AudCast\: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers](<https://doi.org/10.1109/cvpr52734.2025.00998>) | Conference paper | OpenAlex |
 | 2025‑06‑10 | [Action Detail Matters\: Refining Video Recognition with Local Action Queries](<https://doi.org/10.1109/cvpr52734.2025.01782>) | Conference paper | OpenAlex |
-| 2025‑06‑10 | [DeRS\: Towards Extremely Efficient Upcycled Mixture-of-Experts Models](<https://doi.org/10.1109/cvpr52734.2025.00940>) | Conference paper | OpenAlex |
 | 2025‑06‑09 | [MA-FSAR\: Multimodal Adaptation of CLIP for few-shot action recognition](<https://doi.org/10.1016/j.patcog.2025.111902>) | Article | OpenAlex |
 | 2025‑06‑06 | [Accelerating Sparse Transformer Inference on GPU](<https://doi.org/10.1145/3774934.3786434>) | Conference paper | OpenAlex |
 | 2025‑06‑05 | [Real-Time Neural Radiance Talking Portrait Synthesis via Audio-Spatial Decomposition](<https://doi.org/10.1007/s11263-025-02481-9>) | Article | OpenAlex |

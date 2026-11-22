@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3885`
+- Papers: `3890`
 - Latest: `2026-11-19`
 - [Back to README](../../README.md#amazon)
 
@@ -17,14 +17,19 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation |
+| 2026‑11‑18 | [Replay, Don't Resample\: Off-Policy Consolidation of Long-Horizon RL Experts](<https://arxiv.org/abs/2611.24059>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](<https://arxiv.org/abs/2608.03158>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Know When to Zoom\: How Small Is Too Small for Vision-Language Models?](<https://arxiv.org/abs/2611.22709>) | Preprint | OpenAlex |
+| 2026‑11‑17 | [Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation](<https://arxiv.org/abs/2611.22163>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Inventa\: Decentralized Self-Improving Agents for Autonomous Scientific Discovery](<https://arxiv.org/abs/2611.21847>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [SLiDE\: Structured Linear Dynamics for Forecasting with Exogenous Inputs](<https://arxiv.org/abs/2611.19586>) | Preprint | OpenAlex |
+| 2026‑11‑13 | [Model Maps\: A Documentation Framework for Tracing Foundation Model Ancestry and Understanding AI Entanglement](<https://arxiv.org/abs/2611.18998>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [LLM-Guided Cluster Lifecycle Management\: Deciding When and How to Evolve Behavioral Clusters](<https://arxiv.org/abs/2611.17616>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Bloom unifies brain cell representations across modalities and contexts](<https://doi.org/10.64898/2026.11.11.765881>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Reinforcement Learning to Rank Using Coarse-grained Rewards](<http://arxiv.org/abs/2208.07563>) | Article | OpenAlex |
 | 2026‑11‑12 | [When Scammers Talk Back\: Understanding Potentially Unwanted Calls via LLM-Based Interaction](<https://doi.org/10.1145/3830454.3846770>) | Conference paper | OpenAlex |
-| 2026‑11‑12 | [Feature Engineering Is the Bottleneck\: An Explainability Study of ML-Based Security-Relevant Method Detection](<https://doi.org/10.21203/rs.3.rs-10897881/v1>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Compiling Known Rules into Compact Neural Agents\: Weight-Space Programming on Unseen Games](<https://arxiv.org/abs/2611.16981>) | Preprint | OpenAlex |
+| 2026‑11‑12 | [Feature Engineering Is the Bottleneck\: An Explainability Study of ML-Based Security-Relevant Method Detection](<https://doi.org/10.21203/rs.3.rs-10897881/v1>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [CURATOR\: Scalable Fine-grained Evidence Selection for Retrieval-Augmented Generation using Decision Models](<https://arxiv.org/abs/2611.16366>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Vocabulary-Free Next-Event Prediction on Temporal Graphs](<https://arxiv.org/abs/2611.16063>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Mutual Colormap Dependence\: How Recoloring Biomedical Images Changes Vision-Language Model Answers](<https://arxiv.org/abs/2611.18765>) | Preprint | OpenAlex |
@@ -1218,6 +1223,7 @@
 | 2026 | [JudgePanel\: A compact judge with panel deliberation via adaptive multi-reward reinforcement learning](<https://www.amazon.science/publications/judgepanel-a-compact-judge-with-panel-deliberation-via-adaptive-multi-reward-reinforcement-learning>) | Publication | Verified affiliation, Official page |
 | 2026 | [Journey before destination\: On the importance of visual faithfulness in slow thinking](<https://www.amazon.science/publications/journey-before-destination-on-the-importance-of-visual-faithfulness-in-slow-thinking>) | Publication | Official page, OpenAlex |
 | 2026 | [Jacobian-guided noise injection for quantization robustness in large language models](<https://www.amazon.science/publications/jacobian-guided-noise-injection-for-quantization-robustness-in-large-language-models>) | Publication | Official page, Verified affiliation |
+| 2026 | [Ishigaki-IDS-Bench\: A benchmark for generating information delivery specification from BIM information requirements](<https://www.amazon.science/publications/ishigaki-ids-bench-a-benchmark-for-generating-information-delivery-specification-from-bim-information-requirements>) | Publication | Official page, OpenAlex |
 | 2026 | [Is GraphRAG needed? From basic RAG to graph-/agentic solutions with context optimization](<https://www.amazon.science/publications/is-graphrag-needed-from-basic-rag-to-graph-agentic-solutions-with-context-optimization>) | Publication | Official page, OpenAlex |
 | 2026 | [Investigating equation-only reasoning in large language models](<https://www.amazon.science/publications/investigating-equation-only-reasoning-in-large-language-models>) | Publication | Official page |
 | 2026 | [Intra-prompt parallel decoding for common-context question answering](<https://www.amazon.science/publications/intra-prompt-parallel-decoding-for-common-context-question-answering>) | Publication | Verified affiliation, OpenAlex, Official page |
@@ -1416,7 +1422,6 @@
 | 2026 | [A functionality-grounded benchmark for evaluating web agents in e-commerce domains](<https://www.amazon.science/publications/a-functionality-grounded-benchmark-for-evaluating-web-agents-in-e-commerce-domains>) | Publication | Official page, OpenAlex |
 | 2026 | [A first step towards dialog simulation with grounded dialog graphs](<https://www.amazon.science/publications/a-first-step-towards-dialog-simulation-with-grounded-dialog-graphs>) | Publication | Official page, OpenAlex |
 | 2026 | [A comprehensive taxonomy of temporal dimensions in natural language queries](<https://www.amazon.science/publications/a-comprehensive-taxonomy-of-temporal-dimensions-in-natural-language-queries>) | Publication | Official page |
-| 2026 | [Ishigaki-IDS-Bench\: A benchmark for generating information delivery specification from BIM information requirements](<https://www.amazon.science/publications/ishigaki-ids-bench-a-benchmark-for-generating-information-delivery-specification-from-bim-information-requirements>) | Publication | Official page, OpenAlex |
 | 2026 | [The blind curator\: How a biased judge silently disables skill retirement in self-evolving agents](<https://www.amazon.science/publications/the-blind-curator-how-a-biased-judge-silently-disables-skill-retirement-in-self-evolving-agents>) | Publication | Official page |
 | 2026 | [RetroAgent\: Harnessing LLMs to search over structured memory for agentic retrosynthesis planning](<https://www.amazon.science/publications/retroagent-harnessing-llms-to-search-over-structured-memory-for-agentic-retrosynthesis-planning>) | Publication | Official page |
 | 2026 | [PersonaJudge\: Simulating individual human preference judgments with evaluator-specific demonstration data](<https://www.amazon.science/publications/personajudge-simulating-individual-human-preference-judgments-with-evaluator-specific-demonstration-data>) | Publication | Official page, OpenAlex |
