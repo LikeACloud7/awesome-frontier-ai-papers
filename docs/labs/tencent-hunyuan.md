@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `3998`
+- Papers: `4000`
 - Latest: `2026-11-19`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -31,23 +31,25 @@
 | 2026‑11‑18 | [Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](<https://huggingface.co/papers/2611.26268>) | Preprint | Official page |
 | 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [From Restoration to Redrawing\: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing](<https://arxiv.org/abs/2611.24084>) | Preprint | OpenAlex |
-| 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page |
+| 2026‑11‑18 | [Can Omni-modal LLMs Understand Spoken Intentions?](<https://arxiv.org/abs/2611.24706>) | Preprint | OpenAlex |
+| 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑17 | [MVID\: Feed-Forward Multi-View Intrinsic Image Decomposition](<https://arxiv.org/abs/2512.23667>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [More Than a Score\: Reinforcement Learning with Verbalized Feedback for Generative Recommendation](<https://arxiv.org/abs/2611.22410>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [From Relevance to Utility\: Rubric Alignment in Yuanbao Search](<https://arxiv.org/abs/2611.22503>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [SURMA\: Efficient Fine-Grained Communication Offload for SuperPOD](<https://arxiv.org/abs/2611.21274>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [MovieRoll\: A Systematic Framework for Rolling Out Long-Form Videos](<https://arxiv.org/abs/2611.21339>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [DuoFlow\: Towards Synchronized Speech and Motion Generation with Fine-Grained Control](<https://arxiv.org/abs/2611.21530>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [CARE\: Contrastive-Anchored Residual Encoding with Listwise Reconstruction for Retrieval-Oriented Semantic IDs](<https://doi.org/10.48550/arxiv.2611.20721>) | Preprint | OpenAlex |
 | 2026‑11‑15 | [WeVisForensics\: Self-Evolving Agent for Omni AI-Generated Video Detection](<https://huggingface.co/papers/2611.21373>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑15 | [Accelerate Bench\: Evaluating Agents for Application-Level Program Optimization](<https://huggingface.co/papers/2611.20882>) | Preprint | Official page, OpenAlex |
-| 2026‑11‑14 | [GameWM\: Toward Next-Generation Video Games with Interaction-Centric World Models](<https://arxiv.org/abs/2611.19247>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [GPipeANN\: Taming Throughput-Latency Tradeoff in GPU-SSD ANNS](<https://doi.org/10.1145/3828523.3857011>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [GameWM\: Toward Next-Generation Video Games with Interaction-Centric World Models](<https://huggingface.co/papers/2611.19247>) | Preprint | OpenAlex, Official page |
 | 2026‑11‑13 | [More Genes, Faster Inference\: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology](<https://arxiv.org/abs/2611.17899>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [Data-Efficient LLM Safety Alignment Guided by Interpretable Features](<https://arxiv.org/abs/2611.16183>) | Preprint | OpenAlex |
+| 2026‑11‑11 | [JustRUA\: A Controlled Study of GPT-6 Robot-Use Agents](<https://arxiv.org/abs/2611.16009>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [SkinAdvisor\: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting](<https://arxiv.org/abs/2611.15023>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Recognizing Events Is Not Enough\: Why Streaming VLMs Struggle in Compositional Instruction Triggering](<https://arxiv.org/abs/2611.18743>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [Physics-based simulation unlocks scaling laws for generalizable MRI reconstruction](<https://arxiv.org/abs/2611.15758>) | Preprint | OpenAlex |
-| 2026‑11‑11 | [JustRUA\: A Controlled Study of GPT-6 Robot-Use Agents](<https://arxiv.org/abs/2611.16009>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [FlashMotion\: Ultra-Fast Long-Term 3D Motion Generation](<https://arxiv.org/abs/2611.13626>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [ESDCodec\: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding](<https://arxiv.org/abs/2611.14043>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [ForgeryVCR\: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization](<https://arxiv.org/abs/2602.14098>) | Conference paper | OpenAlex |

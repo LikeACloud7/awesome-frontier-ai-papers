@@ -1,8 +1,8 @@
 # OpenAI Papers
 
 - Region: `US`
-- Papers: `541`
-- Latest: `2026-11-20`
+- Papers: `553`
+- Latest: `2026-11-22`
 - [Back to README](../../README.md#openai)
 
 ## No date
@@ -19,6 +19,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑22 | [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>) | Research post | Official page |
 | 2026‑11‑20 | [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>) | Research post | Official page |
 | 2026‑11‑18 | [Research acceleration\: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>) | Research post | Official page |
 | 2026‑11‑18 | [Managing frontier AI risk\: From training to deployment](<https://openai.com/index/managing-frontier-ai-risk>) | Research post | Official page |
@@ -30,6 +31,7 @@
 | 2026‑11‑16 | [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>) | Research post | Official page |
 | 2026‑11‑12 | [Gradient-Guided Hardware-Native MIXFP4](<https://arxiv.org/abs/2611.18769>) | Preprint | OpenAlex |
 | 2026‑11‑10 | [Deep Personalization\: Continuous Context Observation for Local Proactive Agents](<https://arxiv.org/abs/2611.13457>) | Preprint | OpenAlex |
+| 2026‑11‑10 | [Brains Get a Causal Boost, Bots on Call Any Creative Ideas?](<https://doi.org/10.1257/rct.20213>) | Study registration | OpenAlex |
 | 2026‑11‑10 | [AI-assisted search for self-compressing gigawatt subcycle field waveforms](<https://arxiv.org/abs/2611.14672>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Control Room\: A central system to track and stop model workloads across our research infrastructure](<https://openai.com/index/control-room>) | Research post | Official page |
 | 2026‑11‑09 | [Evolving Infra\: Agent-Adaptive LLM Serving at Scale](<https://arxiv.org/abs/2611.12304v1>) | Paper | Verified affiliation, OpenAlex |
@@ -104,6 +106,7 @@
 | 2026‑06‑04 | [Dreaming\: Better memory for a more helpful ChatGPT](<https://openai.com/index/chatgpt-memory-dreaming>) | Research post | Official page |
 | 2026‑06‑01 | [“Tech and Tariffs” Campaign\: Influence activity targeting US tech policy](<https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs>) | Research post | Official page |
 | 2026‑06‑01 | [“Data Center Bandwagon” Campaign\: US-targeted influence activity](<https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon>) | Research post | Official page |
+| 2026‑05‑30 | [Physical Object Understanding with a Physically Controllable World Model](<https://arxiv.org/abs/2606.00439>) | Preprint | OpenAlex |
 | 2026‑05‑29 | [A shared playbook for trustworthy third party evaluations](<https://openai.com/index/trustworthy-third-party-evaluations-foundations>) | Research post | Official page |
 | 2026‑05‑29 | [The Industrial Revolution of the Intelligence Age](<https://doi.org/10.1109/mc.2026.3678508>) | Article | OpenAlex |
 | 2026‑05‑28 | [OpenAI’s Frontier Governance Framework](<https://openai.com/index/openai-frontier-governance-framework>) | Research post | Official page |
@@ -111,6 +114,7 @@
 | 2026‑05‑22 | [DraftNEPABench\: A Benchmark for Drafting NEPA Document Sections with Coding Agents](<https://doi.org/10.1145/3786335.3813132>) | Article | OpenAlex |
 | 2026‑05‑20 | [An OpenAI model has disproved a central conjecture in discrete geometry](<https://openai.com/index/model-disproves-discrete-geometry-conjecture>) | Research post | Official page |
 | 2026‑05‑19 | [Advancing content provenance for a safer, more transparent AI ecosystem](<https://openai.com/index/advancing-content-provenance>) | Research post | Official page |
+| 2026‑05‑16 | [Moving Laggards\: Nudges and Training for Enterprise AI Adoption](<https://doi.org/10.1257/rct.18651>) | Study registration | OpenAlex |
 | 2026‑05‑14 | [Helping ChatGPT better recognize context in sensitive conversations](<https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations>) | Research post | Official page |
 | 2026‑05‑12 | [What Parameter Golf taught us about AI-assisted research](<https://openai.com/index/what-parameter-golf-taught-us>) | Research post | Official page |
 | 2026‑05‑11 | [ExploitGym\: Can AI Agents Turn Security Vulnerabilities into Real Attacks?](<https://arxiv.org/abs/2605.11086v1>) | Paper | OpenAlex, Verified affiliation |
@@ -118,6 +122,7 @@
 | 2026‑05‑07 | [One Turn Too Late\: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue](<https://arxiv.org/abs/2605.05630>) | Preprint | OpenAlex |
 | 2026‑05‑05 | [GPT-5\.5 Instant System Card](<https://openai.com/index/gpt-5-5-instant-system-card>) | Publication | Official page |
 | 2026‑05‑05 | [Advancing youth safety and wellbeing in EMEA](<https://openai.com/index/advancing-youth-safety-in-emea>) | Research post | Official page |
+| 2026‑04‑30 | [Representation Fréchet Loss for Visual Generation](<https://arxiv.org/abs/2604.28190>) | Preprint | OpenAlex |
 | 2026‑04‑30 | [Uhura\: A Benchmark for Evaluating Scientific Question Answering and Truthfulness in Low-Resource African Languages](<http://arxiv.org/abs/2412.00948>) | Conference paper | OpenAlex |
 | 2026‑04‑29 | [Where the goblins came from](<https://openai.com/index/where-the-goblins-came-from>) | Research post | Official page |
 | 2026‑04‑28 | [Our commitment to community safety](<https://openai.com/index/our-commitment-to-community-safety>) | Research post | Official page |
@@ -126,10 +131,13 @@
 | 2026‑04‑23 | [GeneBench\: Assessing AI Agents for Multi-Stage Inference Problems in Genomics and Quantitative Biology](<https://doi.org/10.64898/2026.04.22.720113>) | Article | OpenAlex |
 | 2026‑04‑22 | [Evaluating large language models for accuracy incentivizes hallucinations](<https://doi.org/10.1038/s41586-026-10549-w>) | Article | OpenAlex |
 | 2026‑04‑22 | [Introducing OpenAI Privacy Filter](<https://openai.com/index/introducing-openai-privacy-filter>) | Research post | Official page |
+| 2026‑04‑20 | [Latent Denoising Makes Good Tokenizers](<http://arxiv.org/abs/2507.15856>) | Conference paper | OpenAlex |
+| 2026‑04‑20 | [Let's (not) just put things in Context\: Test-Time Training for Long-Context LLMs](<https://www.microsoft.com/en-us/research/publication/lets-not-just-put-things-in-context-test-time-training-for-long-context-llms/>) | Publication | Official page, OpenAlex |
+| 2026‑04‑20 | [AutoCode\: LLMs as Problem Setters for Competitive Programming](<http://arxiv.org/abs/2510.12803>) | Conference paper | OpenAlex |
+| 2026‑04‑20 | [Unified 3D Scene Understanding Through Physical World Modeling](<https://arxiv.org/abs/2605.24321>) | Conference paper | OpenAlex |
 | 2026‑04‑19 | [HorizonBench\: Long-Horizon Personalization with Evolving Preferences](<https://arxiv.org/abs/2604.17283>) | Preprint | OpenAlex |
 | 2026‑04‑16 | [Introducing GPT-Rosalind for life sciences research](<https://openai.com/index/introducing-gpt-rosalind>) | Publication | Official page |
 | 2026‑04‑16 | [ORION\: An agentic reasoning construct for the analysis of complex human immune profiling](<https://doi.org/10.64898/2026.04.13.718286>) | Article | OpenAlex |
-| 2026‑04‑13 | [Human-AI Interaction Alignment\: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures](<https://doi.org/10.1145/3772363.3778710>) | Article | OpenAlex |
 | 2026‑04‑08 | [Introducing the Child Safety Blueprint](<https://openai.com/index/introducing-child-safety-blueprint>) | Research post | Official page |
 | 2026‑04‑06 | [Announcing the OpenAI Safety Fellowship](<https://openai.com/index/introducing-openai-safety-fellowship>) | Research post | Official page |
 | 2026‑03‑25 | [Introducing the OpenAI Safety Bug Bounty program](<https://openai.com/index/safety-bug-bounty>) | Research post | Official page |
@@ -139,11 +147,13 @@
 | 2026‑03‑19 | [How we monitor internal coding agents for misalignment](<https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment>) | Research post | Official page |
 | 2026‑03‑17 | [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](<https://openai.com/index/japan-teen-safety-blueprint>) | Research post | Official page |
 | 2026‑03‑14 | [HALO\: Hardware-Aware Quantization with Low Critical-Path-Delay Weights for LLM Acceleration](<https://doi.org/10.1609/aaai.v40i27.39406>) | Conference paper | OpenAlex |
+| 2026‑03‑11 | [IH-Challenge\: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs](<https://arxiv.org/abs/2603.10521v1>) | Paper | Verified affiliation |
 | 2026‑03‑10 | [Improving instruction hierarchy in frontier LLMs](<https://openai.com/index/instruction-hierarchy-challenge>) | Research post | Official page |
 | 2026‑03‑10 | [Triton-Sanitizer\: A Fast and Device-Agnostic Memory Sanitizer for Triton with Rich Diagnostic Context](<https://doi.org/10.1145/3779212.3790241>) | Conference paper | OpenAlex |
 | 2026‑03‑05 | [Reasoning models struggle to control their chains of thought, and that’s good](<https://openai.com/index/reasoning-models-chain-of-thought-controllability>) | Research post | Official page |
 | 2026‑03‑05 | [Reasoning Models Struggle to Control their Chains of Thought](<https://huggingface.co/papers/2603.05706>) | Preprint | Official page |
 | 2026‑03‑05 | [GPT-5\.4 Thinking System Card](<https://openai.com/index/gpt-5-4-thinking-system-card>) | Publication | Official page |
+| 2026‑03‑05 | [AI+HW 2035\: Shaping the Next Decade](<http://arxiv.org/abs/2603.05225>) | Preprint | OpenAlex |
 | 2026‑03‑04 | [Genome modelling and design across all domains of life with Evo 2](<https://doi.org/10.1038/s41586-026-10176-5>) | Article | OpenAlex |
 | 2026‑03‑04 | [Extending single-minus amplitudes to gravitons](<https://openai.com/index/extending-single-minus-amplitudes-to-gravitons>) | Research post | Official page |
 | 2026‑03‑03 | [GPT-5\.3 Instant System Card](<https://openai.com/index/gpt-5-3-instant-system-card>) | Publication | Official page |
@@ -177,13 +187,13 @@
 | 2026‑01‑19 | [A Literature Review on Data Democratization, Self-Service Business Intelligence, and Data Literacy](<https://doi.org/10.4018/ijban.398838>) | Article | OpenAlex |
 | 2026‑01‑01 | [Legal Alignment for Safe and Ethical AI](<https://doi.org/10.2139/ssrn.6036657>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [GPT as a Measurement Tool](<https://doi.org/10.2139/ssrn.6246332>) | Preprint | OpenAlex |
-| 2026‑01‑01 | [The pangenome\: a statistical model, not a fixed biological property](<https://doi.org/10.1093/bioadv/vbag069>) | Article | OpenAlex |
-| 2026‑01‑01 | [A Resource-Rational Account of Human Eye Movements During Immersive Visual Search](<https://doi.org/10.1162/opmi.a.322>) | Article | OpenAlex |
 | 2026‑01‑01 | [What Should Physics Foundation Model Benchmarks Measure?](<https://doi.org/10.1109/mcse.2026.3698434>) | Article | OpenAlex |
-| 2026‑01‑01 | [The Difference Between Data Science, Statistics, Machine Learning, and Artificial Intelligence](<https://doi.org/10.1007/978-3-032-18312-5_7>) | Book chapter | OpenAlex |
-| 2026‑01‑01 | [Introduction to Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_2>) | Book chapter | OpenAlex |
+| 2026‑01‑01 | [The pangenome\: a statistical model, not a fixed biological property](<https://doi.org/10.1093/bioadv/vbag069>) | Article | OpenAlex |
 | 2026‑01‑01 | [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](<https://arxiv.org/abs/2606.03988>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Findings of the MAGMaR 2026 Shared Task](<https://arxiv.org/abs/2606.12295>) | Preprint | OpenAlex |
+| 2026‑01‑01 | [A Resource-Rational Account of Human Eye Movements During Immersive Visual Search](<https://doi.org/10.1162/opmi.a.322>) | Article | OpenAlex |
+| 2026‑01‑01 | [The Difference Between Data Science, Statistics, Machine Learning, and Artificial Intelligence](<https://doi.org/10.1007/978-3-032-18312-5_7>) | Book chapter | OpenAlex |
+| 2026‑01‑01 | [Introduction to Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_2>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Datasets for Psychological Sciences](<https://doi.org/10.1007/978-3-032-18312-5_3>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Datasets Preparation](<https://doi.org/10.1007/978-3-032-18312-5_5>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Data Preprocessing](<https://doi.org/10.1007/978-3-032-18312-5_6>) | Book chapter | OpenAlex |
@@ -194,6 +204,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2025‑12‑25 | [Human-AI Interaction Alignment\: Designing, Evaluating, and Evolving Value-Centered AI For Reciprocal Human-AI Futures](<https://arxiv.org/abs/2512.21551v1>) | Paper | OpenAlex, Verified affiliation |
 | 2025‑12‑20 | [Monitoring Monitorability](<https://arxiv.org/abs/2512.18311>) | Paper | Verified affiliation |
 | 2025‑12‑18 | [Updating our Model Spec with teen protections](<https://openai.com/index/updating-model-spec-with-teen-protections>) | Research post | Official page |
 | 2025‑12‑18 | [Evaluating chain-of-thought monitorability](<https://openai.com/index/evaluating-chain-of-thought-monitorability>) | Research post | Official page |
@@ -308,6 +319,7 @@
 | 2025‑03‑10 | [Detecting misbehavior in frontier reasoning models](<https://openai.com/index/chain-of-thought-monitoring>) | Research post | Official page |
 | 2025‑03‑07 | [Recycling Scraps\: Improving Private Learning by Leveraging Checkpoints\]{Recycling Scraps\: Improving Private Learning by Leveraging Checkpoints](<https://doi.org/10.56553/popets-2025-0079>) | Article | OpenAlex |
 | 2025‑02‑27 | [OpenAI GPT-4\.5 System Card](<https://openai.com/index/gpt-4-5-system-card>) | Publication | Official page |
+| 2025‑02‑26 | [FSPO\: Few-Shot Optimization of Synthetic Preferences Personalizes to Real Users](<https://arxiv.org/abs/2502.19312>) | Preprint | OpenAlex |
 | 2025‑02‑25 | [Deep research System Card](<https://openai.com/index/deep-research-system-card>) | Publication | Official page |
 | 2025‑02‑21 | [Trust at Your Own Peril\: A Mixed Methods Exploration of the Ability of Large Language Models to Generate Expert‐Like Systems Engineering Artifacts and a Characterization of Failure Modes](<https://doi.org/10.1002/sys.21810>) | Article | OpenAlex |
 | 2025‑02‑18 | [Introducing the SWE-Lancer benchmark](<https://openai.com/index/swe-lancer>) | Research post | Official page |

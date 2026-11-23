@@ -1,7 +1,7 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4148`
+- Papers: `4151`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#alibabaqwen)
 
@@ -20,7 +20,9 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [Where Should a Diffusion Transformer Meet Its Teacher?](<https://arxiv.org/abs/2611.24380>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Structured sparse attention for accelerating long-context diffusion language models](<https://doi.org/10.3389/frai.2026.1993541>) | Article | OpenAlex |
+| 2026‑11‑18 | [Resolution as Attention for Efficient Agent Memory Perception](<https://arxiv.org/abs/2611.24422>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [CurvDelta\: Low-Curvature Delta Modeling For Surgical Learning and Unlearning](<https://arxiv.org/abs/2611.24654>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [DiffusionOPD\: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [StreamChar\: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration](<https://arxiv.org/abs/2605.25659>) | Conference paper | OpenAlex |
@@ -29,6 +31,7 @@
 | 2026‑11‑17 | [COTTI\: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift](<https://arxiv.org/abs/2611.22597v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑17 | [When Anchors Shift the Target\: Advantage-Gated Adaptation for Diffusion Reinforcement Learning](<https://arxiv.org/abs/2611.23038>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [SciWorkBench\: A Benchmark for Real Scientific Workflows](<https://arxiv.org/abs/2611.22490>) | Preprint | OpenAlex |
+| 2026‑11‑17 | [RFW-S\: Everyday Deformable Objects with Independent Simulation Verification](<https://arxiv.org/abs/2611.23056>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [PURE\: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching](<https://arxiv.org/abs/2611.22343>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [MIPR\: A Benchmark for Reasoning-Intensive Multimodal Intent-to-Product Retrieval with Multi-Category Solutions](<https://arxiv.org/abs/2611.22509>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [IntentGR\: Enhancing Intent for End-to-End Personalized Generative Retrieval in Search](<https://arxiv.org/abs/2611.22788>) | Preprint | OpenAlex |
@@ -166,9 +169,9 @@
 | 2026‑10‑30 | [BrowseFlow\: Sparse Event Flow Matching for Generative User Simulation](<https://arxiv.org/abs/2610.41374>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [InteractPro\: A Unified Framework for Motion-Aware Image Composition](<http://arxiv.org/abs/2409.10090>) | Article | OpenAlex |
 | 2026‑10‑29 | [UGR\: Unified Generative Ranking for Heterogeneous E-commerce Recommendation](<https://arxiv.org/abs/2610.39426>) | Preprint | OpenAlex |
+| 2026‑10‑29 | [RFW-A\: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories](<https://arxiv.org/abs/2610.40333>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Where to Learn and How Far to Roll Out\: Efficient Adaptive Training for GUI Agents](<https://arxiv.org/abs/2610.39251>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Raincheck\: Deferred Multimodal Prefill for Efficient Multi-Turn MLLM Inference](<https://arxiv.org/abs/2610.39562>) | Preprint | OpenAlex |
-| 2026‑10‑29 | [RFW-A\: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories](<https://arxiv.org/abs/2610.40333>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [PFA\: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation](<https://arxiv.org/abs/2610.39273>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Locating and Closing Information Gaps in Multi-Agent Systems](<https://arxiv.org/abs/2610.40186>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Learning Calibrated Confidence for Multi-Agent Collaboration](<https://arxiv.org/abs/2610.39927>) | Preprint | OpenAlex |

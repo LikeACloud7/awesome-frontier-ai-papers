@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1945`
-- Latest: `2026-11-17`
+- Papers: `1947`
+- Latest: `2026-11-18`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [Ground, Iterate, Trace\: Decomposing AI Research Ideation](<https://arxiv.org/abs/2611.24887>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [SARAH\: Spatially Aware Real-time Agentic Humans](<http://arxiv.org/abs/2602.18432>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [Unified Simulation of Lagrangian Particle Dynamics via Transformer](<https://arxiv.org/abs/2605.15305>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval](<https://arxiv.org/abs/2604.23692>) | Conference paper | OpenAlex |
@@ -51,6 +52,7 @@
 | 2026‑11‑17 | [HoOPOE\: A Holography-Optimized Perceptual ObjectivE function](<https://arxiv.org/abs/2610.17474>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [ControlGS\: Conditioning Neural Gaussians for Downstream-Processing–Aware XR Rendering](<https://arxiv.org/abs/2609.32038>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SurveyWeave\: An Agentic Framework for Automated Survey Generation](<https://doi.org/10.48550/arxiv.2611.19029>) | Preprint | OpenAlex |
+| 2026‑11‑14 | [LogT\: Logically Think with Images for Visual Search](<https://arxiv.org/abs/2611.19200>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [A Personalized, Hierarchical Framework for Inferring Competing Task Demands in Pedestrian Augmented Reality](<https://doi.org/10.1145/3822517.3848727>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Unbundling Multimodal Vision Encoding](<https://ai.meta.com/research/publications/unbundling-multimodal-vision-encoding/>) | Publication | Official page |
 | 2026‑11‑12 | [Reasoning Under Promised Distributions\: Evaluating LLMs on Black-Box Reduction Rigor](<https://doi.org/10.1007/978-3-032-42447-1_7>) | Conference paper | OpenAlex |

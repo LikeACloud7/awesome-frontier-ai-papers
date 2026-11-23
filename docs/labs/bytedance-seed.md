@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1968`
+- Papers: `1972`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -17,7 +17,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑18 | [RoughCut-Bench\: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models](<https://arxiv.org/abs/2611.24098>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RSIBench-Infra\: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?](<https://arxiv.org/abs/2611.24395>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [On-Policy Morphing into Hybrid Attention Models](<https://arxiv.org/abs/2611.24809>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Homeward\: No Place Like the Training View](<https://doi.org/10.48550/arxiv.2611.24455>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [SCRIPT\: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control](<https://arxiv.org/abs/2605.22894>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [DanceHMR\: Hand-Aware Whole-Body Human Mesh Recovery from Monocular Videos](<https://arxiv.org/abs/2605.18102>) | Conference paper | OpenAlex |
@@ -25,12 +27,14 @@
 | 2026‑11‑17 | [TexSpot\: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](<http://arxiv.org/abs/2602.12157>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [SEAM\: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](<https://arxiv.org/abs/2611.22971>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [ArtiAtlas\: A Holistic Ecosystem for Diverse 3D Articulation Modeling](<https://doi.org/10.1145/3829340.3842377>) | Conference paper | OpenAlex |
+| 2026‑11‑16 | [Lost in the Hallway\: Benchmarking Persistent Spatial Memory Across Revisits](<https://arxiv.org/abs/2611.21485>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [An Efficient Training Paradigm for Image Restoration via Improved Fréchet Loss](<https://arxiv.org/abs/2611.20805>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [AMSDS\: Adaptive Cloud-Edge Visual Navigation via DNN Partitioning and Semantic Compression](<https://doi.org/10.1145/3860325>) | Article | OpenAlex |
 | 2026‑11‑16 | [ALIVE\: Making Streaming Video Models Interactive](<https://arxiv.org/abs/2611.21366>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [Workload Analysis of a Production BigData-Storage Cluster for ML and Data Analytics](<https://doi.org/10.1145/3828523.3857020>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SOLO\: Making Single-Local-Replica Storage Practical for Geo-Distributed Recommendation Model Training](<https://doi.org/10.1145/3828523.3857035>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [PhysLoop\: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](<https://seed.bytedance.com/en/research/physloop-harnessing-llms-physics-awareness-for-self-improving-video-generation-models>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [TWIST\: Private Tenant-Dedicated LLM Serving via Joint Model-Token Transformation](<https://doi.org/10.1145/3830454.3846779>) | Conference paper | OpenAlex |
-| 2026‑11‑12 | [PhysLoop\: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](<https://arxiv.org/abs/2611.16748>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [LightShift\: Infinite Relighting via Real-time Diffusion Renderer](<https://doi.org/10.1145/3829334.3849467>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [BACAgent\: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications](<https://doi.org/10.1145/3830454.3832642>) | Conference paper | OpenAlex |
 | 2026‑11‑11 | [CineMME\: From Dialogue Grounding to Narrative Reasoning in Multimodal Video Understanding](<https://arxiv.org/abs/2611.15161>) | Preprint | OpenAlex |

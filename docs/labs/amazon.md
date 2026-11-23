@@ -1,8 +1,8 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3890`
-- Latest: `2026-11-19`
+- Papers: `3892`
+- Latest: `2026-11-21`
 - [Back to README](../../README.md#amazon)
 
 ## No date
@@ -16,9 +16,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑21 | [A Survey of Machine Learning Techniques for Payroll Security in ERP Tax Systems](<https://doi.org/10.47672/ejt.3035>) | Article | OpenAlex |
 | 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation |
 | 2026‑11‑18 | [Replay, Don't Resample\: Off-Policy Consolidation of Long-Horizon RL Experts](<https://arxiv.org/abs/2611.24059>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](<https://arxiv.org/abs/2608.03158>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Motion-Aware Reward Modeling for Instruction-Guided Video Editing](<https://arxiv.org/abs/2611.22495>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Know When to Zoom\: How Small Is Too Small for Vision-Language Models?](<https://arxiv.org/abs/2611.22709>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation](<https://arxiv.org/abs/2611.22163>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [Inventa\: Decentralized Self-Improving Agents for Autonomous Scientific Discovery](<https://arxiv.org/abs/2611.21847>) | Preprint | OpenAlex |
@@ -944,6 +946,7 @@
 | 2026‑01‑01 | [A Secure Adaptive Cloud Framework for Privacy-Preserving and Explainable Threat Intelligence](<https://doi.org/10.1007/978-3-032-30005-8_37>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [A Representation Sharpening Framework for Zero Shot Dense Retrieval](<https://doi.org/10.18653/v1/2026.eacl-long.173>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [A Multilingual Social Bias Benchmark Incorporating Thinking Processes](<https://doi.org/10.18653/v1/2026.acl-long.2204>) | Conference paper | OpenAlex |
+| 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 | 2026 | [AgentDR\: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](<http://arxiv.org/abs/2510.05598>) | Article | Official page, OpenAlex |
 | 2026 | [Using brand knowledge bases and LLM agents to enhance e-commerce retailers' catalog quality](<https://www.amazon.science/publications/using-brand-knowledge-bases-and-llm-agents-to-enhance-e-commerce-retailers-catalog-quality>) | Publication | Official page, OpenAlex |
 | 2026 | [The subtle art of defection\: Understanding uncooperative behaviors in LLM based multi-agent systems](<https://www.amazon.science/publications/the-subtle-art-of-defection-understanding-uncooperative-behaviors-in-llm-based-multi-agent-systems>) | Publication | Official page |
@@ -958,7 +961,6 @@
 | 2026 | [Domain-specific LLM adaptation\: Bridging personalization and efficiency through synthetic data and optimization](<https://www.amazon.science/publications/domain-specific-llm-adaptation-bridging-personalization-and-efficiency-through-synthetic-data-and-optimization>) | Publication | Official page |
 | 2026 | [Confidence-calibrated small-large language model collaboration for cost-efficient reasoning](<https://www.amazon.science/publications/confidence-calibrated-small-large-language-model-collaboration-for-cost-efficient-reasoning>) | Publication | Official page, OpenAlex |
 | 2026 | [APEX-MEM\: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](<https://arxiv.org/abs/2604.14362>) | Article | Official page, OpenAlex |
-| 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 | 2026 | [Scale\: Semantic Chunking and Label-Delay Engine For Streaming Speech-LLM](<https://doi.org/10.1109/icassp55912.2026.11462898>) | Article | Official page, OpenAlex |
 | 2026 | [ReflectiveRAG\: Rethinking adaptivity in retrieval-augmented generation](<https://www.amazon.science/publications/reflectiverag-rethinking-adaptivity-in-retrieval-augmented-generation>) | Publication | Official page |
 | 2026 | [ReSuMe\: Retriever-Summarizer Mutual Enhancement via Reinforcement Learning](<https://doi.org/10.1145/3774904.3792959>) | Article | Official page, OpenAlex |

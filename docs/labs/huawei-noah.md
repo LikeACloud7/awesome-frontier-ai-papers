@@ -1,7 +1,7 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4272`
+- Papers: `4273`
 - Latest: `2026-11-18`
 - [Back to README](../../README.md#huaweinoah)
 
@@ -16,7 +16,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑18 | [Creative Machines, Creative Sketches\: Generation, Evaluation, and Interaction in the Generative AI Era](<https://doi.org/10.1145/3829341.3850008>) | Conference paper | OpenAlex |
-| 2026‑11‑17 | [IDEA\: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](<https://huggingface.co/papers/2611.24102>) | Preprint | Official page |
+| 2026‑11‑17 | [IDEA\: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](<https://huggingface.co/papers/2611.24102>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑17 | [COTTI\: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift](<https://arxiv.org/abs/2611.22597v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑17 | [TalkFlow\: Structured Latent Flow Matching for Speech Driven Holistic Motion Generation](<https://arxiv.org/abs/2610.40972>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [TAILROLL\: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training](<https://arxiv.org/abs/2611.22206>) | Preprint | OpenAlex |
@@ -42,6 +42,7 @@
 | 2026‑11‑14 | [DAG-KV\: DAG-Guided KV Propagation for Structure-Aware Knowledge Reuse](<https://doi.org/10.1145/3828523.3857074>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning](<https://arxiv.org/abs/2611.19236>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [AgentMesh\: Toward Redundancy- and Barrier-Free Dataflow in Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857023>) | Conference paper | OpenAlex |
+| 2026‑11‑13 | [RACE\: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation](<https://arxiv.org/abs/2611.18244>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [DiffusionSSD\: Achieving Extreme Visual Compression with Dual-stage Diffusion and Cross-level Near-Data Processing](<https://arxiv.org/abs/2611.17908v1>) | Paper | Verified affiliation |
 | 2026‑11‑12 | [Mitigating Code Injection Attacks on Modern GPUs](<https://doi.org/10.1145/3830454.3832680>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [TruePix\: Fast and Memory-Efficient Zero-Knowledge Authentication for Images and Videos](<https://doi.org/10.1145/3830454.3846720>) | Conference paper | OpenAlex |
@@ -65,8 +66,8 @@
 | 2026‑11‑07 | [MACaQ\: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations](<https://arxiv.org/abs/2611.10649>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [From Reflection to Co-Evolution\: Self-Evolving Agents with Locally Verified Memory](<https://arxiv.org/abs/2611.10382>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [CinemaTraj\: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents](<https://arxiv.org/abs/2607.26910>) | Conference paper | OpenAlex |
-| 2026‑11‑06 | [Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing](<http://arxiv.org/abs/2504.04784>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [UniGarment\: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization](<https://doi.org/10.1145/3767308.3835607>) | Conference paper | OpenAlex |
+| 2026‑11‑06 | [Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing](<http://arxiv.org/abs/2504.04784>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Trajectory Forcing\: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation](<https://arxiv.org/abs/2611.09096>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Structural invariant augmentation for graph contrastive learning based on optimal transport](<https://doi.org/10.1007/s10115-026-02915-x>) | Article | OpenAlex |
 | 2026‑11‑06 | [Semantic-Centric Cross-Domain Learning for Dual-Incremental Object Detection](<https://doi.org/10.1145/3767308.3835279>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # MiniMax Papers
 
 - Region: `China`
-- Papers: `28`
+- Papers: `29`
 - Latest: `2026-11-02`
 - [Back to README](../../README.md#minimax)
 
@@ -9,6 +9,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [paper PDF](<https://github.com/MoonshotAI/TCSExam/blob/master/paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [MiniMax GitHub Page](<https://github.com/MiniMax-AI/MiniMax-AI.github.io/blob/main/tts_tech_report/MiniMax_Speech.pdf>) | Technical report | Official repo |
 
 ## 2026

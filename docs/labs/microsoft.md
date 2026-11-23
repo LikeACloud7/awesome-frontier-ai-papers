@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4409`
+- Papers: `4413`
 - Latest: `2026-11-21`
 - [Back to README](../../README.md#microsoft)
 
@@ -117,7 +117,6 @@
 | n\.d\. | [MEMENTO\: Teaching LLMs to Manage Their Context](<https://www.microsoft.com/en-us/research/publication/memento-teaching-llms-to-manage-their-context/>) | Publication | Official page |
 | n\.d\. | [MAC-Attention\: a Match-Amend-Complete Scheme for Fast and Accurate Attention Computation](<https://www.microsoft.com/en-us/research/publication/mac-attention-a-match-amend-complete-scheme-for-fast-and-accurate-attention-computation/>) | Publication | Official page |
 | n\.d\. | [Load Balancing Mixture of Experts with Similarity Preserving Routers](<https://www.microsoft.com/en-us/research/publication/load-balancing-mixture-of-experts-with-similarity-preserving-routers/>) | Publication | Official page |
-| n\.d\. | [Let's (not) just put things in Context\: Test-Time Training for Long-Context LLMs](<https://www.microsoft.com/en-us/research/publication/lets-not-just-put-things-in-context-test-time-training-for-long-context-llms/>) | Publication | Official page |
 | n\.d\. | [Learning from Research\: Toward Lifelong Agent Harness Evolution](<https://www.microsoft.com/en-us/research/publication/learning-from-research-toward-lifelong-agent-harness-evolution/>) | Publication | Official page |
 | n\.d\. | [Learning When to Plan\: Efficiently Allocating Test-Time Compute for LLM Agents](<https://www.microsoft.com/en-us/research/publication/learning-when-to-plan-efficiently-allocating-test-time-compute-for-llm-agents/>) | Publication | Official page |
 | n\.d\. | [Layer-Informed Fine-Tuning via Three-Stage Functional Segmentation of LLMs](<https://www.microsoft.com/en-us/research/publication/layer-informed-fine-tuning-via-three-stage-functional-segmentation-of-llms/>) | Publication | Official page |
@@ -247,9 +246,13 @@
 |---|---|---|---|
 | 2026‑11‑21 | [Trust in Machine Learning-Aided Docking\: A Systematic Review of Good Practices for Chemically Reliable Predictions](<https://doi.org/10.1021/acsomega.6c07068>) | Review | OpenAlex |
 | 2026‑11‑20 | [Phenome-wide associations of CT-derived adipose area and density in 22,710 patients\: uncovering unexpected disease connections](<https://doi.org/10.21203/rs.3.rs-11406927/v1>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [SimplePro\: A Simple Baseline for Proactive Video Understanding](<https://arxiv.org/abs/2611.23954>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [ReSynth\: Constructing Synthetic Supervision for Multi-Image Understanding](<https://arxiv.org/abs/2611.23996>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Latent Action Policies from Suboptimal Data](<https://arxiv.org/abs/2611.24482>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [BI-SCUDO Regression - A novel algorithm to infer clinical variables from omics datasets](<https://doi.org/10.64898/2026.11.17.767338>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation](<https://www.microsoft.com/en-us/research/publication/when-does-subspace-direction-matter-for-lora-regime-analysis-of-the-magnitude-principle-in-few-shot-adaptation/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑17 | [RoboTeam\: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time](<https://arxiv.org/abs/2611.22138>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [Pathology Randomization for Synthetic Priors and Zero-Shot Detection](<https://arxiv.org/abs/2611.21975>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents](<https://arxiv.org/abs/2611.21376>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [A Taxonomy and Taxonomy-Guided Benchmark Reduction for Spreadsheet Tasks](<https://arxiv.org/abs/2611.21452v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑14 | [OpenNetLab\: An Open Platform for AI-Based Bandwidth Estimation in Real-Time Communications](<https://doi.org/10.1145/3828523.3857037>) | Conference paper | OpenAlex |
@@ -1588,6 +1591,7 @@
 | 2026‑04‑20 | [ENCO\: Deploying Production-Scale Engineering Copilots](<https://www.microsoft.com/en-us/research/publication/enco-deploying-production-scale-engineering-copilots/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑20 | [Contrastive Attribution in the Wild\: An Interpretability Analysis of LLM Failures on Realistic Benchmarks](<https://www.microsoft.com/en-us/research/publication/contrastive-attribution-in-the-wild-an-interpretability-analysis-of-llm-failures-on-realistic-benchmarks/>) | Publication | Official page |
 | 2026‑04‑20 | [Roadmap on Advancements of the FHI-aims Software Package](<https://www.microsoft.com/en-us/research/publication/roadmap-on-advancements-of-the-fhi-aims-software-package/>) | Publication | Official page, OpenAlex |
+| 2026‑04‑20 | [Let's (not) just put things in Context\: Test-Time Training for Long-Context LLMs](<https://www.microsoft.com/en-us/research/publication/lets-not-just-put-things-in-context-test-time-training-for-long-context-llms/>) | Publication | Official page, OpenAlex |
 | 2026‑04‑20 | [In Vivo Imaging With a Low‐Cost MRI Scanner and Cloud Data Processing in Low‐Resource Settings](<https://doi.org/10.1002/nbm.70293>) | Article | OpenAlex |
 | 2026‑04‑20 | [Compression Space Search\: RL-Based Combinational Compression for Neural Networks](<https://doi.org/10.23919/date69613.2026.11539065>) | Conference paper | OpenAlex |
 | 2026‑04‑20 | [ACT\: An Adaptive Combinatorial Testing Framework at Scale](<https://doi.org/10.1145/3770854.3783948>) | Conference paper | OpenAlex |
@@ -2243,6 +2247,7 @@
 | 2026‑01‑01 | [Real-World Applications of Data Analytics and Machine Learning in Continuous Improvement for Operational Excellence](<https://doi.org/10.1007/978-981-96-7526-5_11>) | Book chapter | OpenAlex |
 | 2026‑01‑01 | [Knowing-but-Doing\: Diagnosing and Defending Role-Play-Driven LLMs Jailbreaks via Moral Disengagement](<https://doi.org/10.18653/v1/2026.findings-acl.349>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Knowing When Not to Answer\: Lightweight KB-Aligned OOD Detection for Safe RAG](<https://arxiv.org/abs/2508.02296>) | Conference paper | OpenAlex |
+| 2026‑01‑01 | [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](<https://arxiv.org/abs/2606.03988>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Eliminating Out-of-Domain Recommendations in LLM-based Recommender Systems\: A Unified View](<https://arxiv.org/abs/2505.03336>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [DeepFRI Demystified\: Interpretability vs\. Accuracy in AI Protein Function Prediction](<https://doi.org/10.1007/978-3-032-11381-8_14>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Cloud Storage User Behavior Analysis and Dynamic Replica Strategy Optimization Based on Improved RFM and Fuzzy Clustering](<https://doi.org/10.1007/978-981-95-2518-8_35>) | Conference paper | OpenAlex |
@@ -2283,7 +2288,6 @@
 | 2026‑01‑01 | [IoT-Enabled Big Data Architecture to Secure Data in Edge-Cloud Computing Using Radial Basis Function-Based Support Vector Machine](<https://doi.org/10.1007/978-981-95-0788-7_54>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Introduction to machine learning\: Concepts, types, and applications](<https://doi.org/10.33545/27076571.2026.v7.i1a.240>) | Article | OpenAlex |
 | 2026‑01‑01 | [InstrAct\: Towards Action-Centric Understanding in Instructional Videos](<https://arxiv.org/abs/2604.08762>) | Conference paper | OpenAlex |
-| 2026‑01‑01 | [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](<https://arxiv.org/abs/2606.03988>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [IaCBench\: How Reliably Do Large Language Models Generate Secure Infrastructure-as-Code? A Multi-Language Benchmark and Empirical Study of Frontier Models](<https://doi.org/10.2139/ssrn.6829506>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Hybrid Similarity Graph Filtering with Adaptive Neighborhoods for Synthetic Data Quality Enhancement](<https://doi.org/10.2139/ssrn.6835332>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Hierarchical and Holistic Open-Vocabulary Functional 3D Scene Graphs for Indoor Spaces](<https://arxiv.org/abs/2605.15753>) | Conference paper | OpenAlex |
@@ -2323,8 +2327,8 @@
 | 2026‑01‑01 | [A Horizon Scan of AI and Higher Education\: Fourteen Issues That May Transform the Sector](<https://doi.org/10.2139/ssrn.6257318>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [A Computationally Efficient Algorithm for Optimal Mass Transport via Wavelet-Based Multiresolution Methods](<https://doi.org/10.1007/978-3-032-17933-3_15>) | Conference paper | OpenAlex |
 | 2026 | [Distributional Alignment Games for Answer-Level Fine-Tuning](<https://arxiv.org/abs/2604.27166>) | Article | Official page, OpenAlex |
-| 2026 | [Position\: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](<https://www.microsoft.com/en-us/research/publication/position-explainability-research-must-prioritize-foundations-over-ad-hoc-methods/>) | Publication | Official page, OpenAlex |
 | 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
+| 2026 | [Position\: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](<https://www.microsoft.com/en-us/research/publication/position-explainability-research-must-prioritize-foundations-over-ad-hoc-methods/>) | Publication | Official page, OpenAlex |
 | 2026 | [TCO-driven Storage Provisioning for Exascale Data Centers](<https://research.google/pubs/tco-driven-storage-provisioning-for-exascale-data-centers/>) | Publication | Official page, OpenAlex |
 
 ## 2025
