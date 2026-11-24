@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5934`
+- Papers: `5938`
 - Latest: `2026-11-19`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -16,12 +16,16 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑19 | [Quantum-classical separation in bounded-resource tasks arising from measurement contextuality](<http://arxiv.org/abs/2512.02284>) | Article | OpenAlex |
-| 2026‑11‑19 | [Frontier models need only one text to unmask its human or AI author](<https://arxiv.org/abs/2611.26216v1>) | Paper | Verified affiliation |
+| 2026‑11‑19 | [AltRA-Test\: An Alternative Annotator Test for LLM Judges Without Shared Annotators](<https://arxiv.org/abs/2611.26073>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus](<https://arxiv.org/abs/2611.26300>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [Frontier models need only one text to unmask its human or AI author](<https://arxiv.org/abs/2611.26216v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑18 | [Genie 4 Model Card](<https://deepmind.google/models/model-cards/genie-4/>) | Model card | Official page |
 | 2026‑11‑18 | [Gemini 4 Neon Model Card](<https://deepmind.google/models/model-cards/gemini-4-neon/>) | Model card | Official page |
 | 2026‑11‑18 | [AI Film Frontiers\: Towards New Paradigms of Filmmaking](<https://doi.org/10.1145/3829341.3849998>) | Conference paper | OpenAlex |
 | 2026‑11‑18 | [Toaster\: Nonlinear Memory from Cascaded Linear Memories and Target Propagation](<https://arxiv.org/abs/2611.23648>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Lodestone\: Automated Semantic Discovery of Datacenter Hardware Specialization](<https://arxiv.org/abs/2611.23663>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [EverydayBench\: Evaluating Satisfactory Completion of Live User-Facing Digital Work](<https://arxiv.org/abs/2611.25146>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [BuggyMLE\: Scaling Machine Learning Engineering Difficulty with Bug Injection](<https://arxiv.org/abs/2611.25088>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Grasp in Gaussians\: Fast Monocular Reconstruction of Dynamic Hand–Object Interactions](<https://arxiv.org/abs/2604.12929>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [DCGrasp\: Distance-aware Controllable Grasp Generation](<https://arxiv.org/abs/2606.29924>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [AlphaGenome 2 predicts regulatory activity and variant effects across cell states](<https://doi.org/10.64898/2026.11.11.765857>) | Preprint | OpenAlex |

@@ -18,7 +18,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑20 | [ArcTrace\: Black-Box Ownership Verification of LLM-Based Forecasting Models via Learned Numeric Preferences](<https://doi.org/10.21203/rs.3.rs-11528359/v1>) | Preprint | OpenAlex |
-| 2026‑11‑12 | [eDMD\: Endpoint Distribution Matching for Few-Step Diffusion Distillation](<https://arxiv.org/abs/2611.17194v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑11‑11 | [eDMD\: Endpoint Distribution Matching for Few-Step Diffusion Distillation](<https://huggingface.co/papers/2611.17194>) | Preprint | Verified affiliation, OpenAlex, Official page |
 | 2026‑11‑03 | [Efficient and Faithful High-Resolution Image Editing with Sparse Cross-Resolution Denoising](<https://arxiv.org/abs/2611.04416>) | Preprint | OpenAlex |
 | 2026‑11‑02 | [P^2-MOPD\: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](<https://huggingface.co/papers/2611.03953>) | Preprint | Official page, Hugging Face |
 | 2026‑11‑02 | [StepX-OPD\: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models](<https://huggingface.co/papers/2611.04386>) | Preprint | Official page, Hugging Face |

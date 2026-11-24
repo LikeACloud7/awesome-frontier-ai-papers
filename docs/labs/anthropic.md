@@ -1,7 +1,7 @@
 # Anthropic Papers
 
 - Region: `US`
-- Papers: `387`
+- Papers: `391`
 - Latest: `2026-11-15`
 - [Back to README](../../README.md#anthropic)
 
@@ -60,6 +60,8 @@
 | 2026‑09‑30 | [Conversational AI increases political knowledge as effectively as self-directed internet search](<https://arxiv.org/abs/2509.05219>) | Article | OpenAlex |
 | 2026‑09‑29 | [GLM-5\.3 and the spread of advanced cyber capabilities](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) | Research post | Official page |
 | 2026‑09‑29 | [What do you want from AI?](<https://www.anthropic.com/research/your-thoughts-on-ai>) | Research post | Official page |
+| 2026‑09‑29 | [Extracting alignment data in open models](<http://arxiv.org/abs/2510.18554>) | Conference paper | OpenAlex |
+| 2026‑09‑29 | [Bits That Count\: Quantifying and Predicting Capabilities of Language Models](<https://proceedings.mlr.press/v306/donoway26a.html>) | Conference paper | OpenAlex |
 | 2026‑09‑29 | [Constitutional adapters\: Inference-time interventions for misalignment and misuse](<https://arxiv.org/abs/2609.36657>) | Paper | Verified affiliation |
 | 2026‑09‑28 | [What if automating AI R&amp;D triggers an intelligence explosion?](<https://www.microsoft.com/en-us/research/publication/what-if-automating-ai-rd-triggers-an-intelligence-explosion/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑28 | [Steering Language Model Goals with Value Transplant](<https://arxiv.org/abs/2609.34056v1>) | Paper | Verified affiliation |
@@ -146,7 +148,7 @@
 | 2026‑03‑23 | [Vibe physics\: The AI grad student](<https://www.anthropic.com/research/vibe-physics>) | Research post | Official page |
 | 2026‑03‑23 | [Long-running Claude for scientific computing](<https://www.anthropic.com/research/long-running-Claude>) | Research post | Official page |
 | 2026‑03‑23 | [Introducing our Science Blog](<https://www.anthropic.com/research/introducing-anthropic-science>) | Research post | Official page |
-| 2026‑03‑22 | [Mechanisms of Introspective Awareness](<https://arxiv.org/abs/2603.21396>) | Paper | Verified affiliation |
+| 2026‑03‑22 | [Mechanisms of Introspective Awareness](<https://arxiv.org/abs/2603.21396>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑03‑19 | [Must Read\: A Comprehensive Survey of Computational Persuasion](<http://arxiv.org/abs/2505.07775>) | Article | OpenAlex |
 | 2026‑03‑13 | [A “diff” tool for AI\: Finding behavioral differences in new models](<https://www.anthropic.com/research/diff-tool>) | Research post | Official page |
 | 2026‑03‑10 | [Triton-Sanitizer\: A Fast and Device-Agnostic Memory Sanitizer for Triton with Rich Diagnostic Context](<https://doi.org/10.1145/3779212.3790241>) | Conference paper | OpenAlex |
@@ -174,9 +176,9 @@
 | 2026‑01‑22 | [Claude's new constitution](<https://www.anthropic.com/research/claude-new-constitution>) | Research post | Official page |
 | 2026‑01‑19 | [The assistant axis\: situating and stabilizing the character of large language models](<https://www.anthropic.com/research/assistant-axis>) | Research post | Official page |
 | 2026‑01‑16 | [AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges](<https://www.anthropic.com/research/cyber-toolkits-update>) | Research post | Official page |
+| 2026‑01‑15 | [The Assistant Axis\: Situating and Stabilizing the Default Persona of Language Models](<https://arxiv.org/abs/2601.10387>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑15 | [Anthropic Economic Index\: New building blocks for understanding AI use](<https://www.anthropic.com/research/economic-index-primitives>) | Research post | Official page |
 | 2026‑01‑15 | [Anthropic Economic Index report\: Economic primitives](<https://www.anthropic.com/research/anthropic-economic-index-january-2026-report>) | Research post | Official page |
-| 2026‑01‑15 | [The Assistant Axis\: Situating and Stabilizing the Default Persona of Language Models](<https://arxiv.org/abs/2601.10387>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑14 | [Finding bugs across the Python ecosystem with Claude and property-based testing](<https://www.anthropic.com/research/property-based-testing>) | Research post | Official page |
 | 2026‑01‑09 | [Next-generation Constitutional Classifiers\: More efficient protection against universal jailbreaks](<https://www.anthropic.com/research/next-generation-constitutional-classifiers>) | Research post | Official page |
 | 2026‑01‑08 | [Experimenting with AI to defend critical infrastructure](<https://www.anthropic.com/research/critical-infrastructure-defense>) | Research post | Official page |
@@ -196,6 +198,8 @@
 | 2026 | [The Persona Selection Model\: Why AI Assistants might Behave like Humans](<https://alignment.anthropic.com/2026/psm/>) | Research post | Official page |
 | 2026 | [TASTE\: Can AI Models Judge AI Safety Research Proposals?](<https://alignment.anthropic.com/2026/taste/>) | Research post | Official page |
 | 2026 | [SLEIGHT-Bench\: Finding Blind Spots in AI Monitors](<https://alignment.anthropic.com/2026/sleight-bench/>) | Research post | Official page |
+| 2026 | [Returning to the Neuron Basis for Interpretability, Part 2\: Using Neurons For Safety Applications](<https://alignment.anthropic.com/2026/neuron-basis-applications/>) | Research post | Official page |
+| 2026 | [Returning to the Neuron Basis for Interpretability, Part 1\: Answering Three Objections](<https://alignment.anthropic.com/2026/neuron-basis-theory/>) | Research post | Official page |
 | 2026 | [Reducing Reward Hacking by Localizing Bad Behavior Instead of Penalizing It](<https://alignment.anthropic.com/2026/graft/>) | Research post | Official page |
 | 2026 | [Red-Teaming Auto Mode\: Improving Blocking Classifiers Against Malign Coding Agents](<https://alignment.anthropic.com/2026/red-teaming-auto-mode/>) | Research post | Verified affiliation, Official page |
 | 2026 | [Pre-deployment auditing can catch an overt saboteur](<https://alignment.anthropic.com/2026/auditing-overt-saboteur/>) | Research post | Official page |
@@ -251,8 +255,8 @@
 | 2025‑10‑08 | [Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples](<http://arxiv.org/abs/2510.07192>) | Preprint | OpenAlex |
 | 2025‑10‑08 | [Assessment of Marine Biofouling Coverage on Surfaces Using a Machine Learning-Based Image Recognition Software](<https://doi.org/10.1109/metrosea66681.2025.11245780>) | Conference paper | OpenAlex |
 | 2025‑10‑03 | [Building AI for cyber defenders](<https://www.anthropic.com/research/building-ai-cyber-defenders>) | Research post | Official page |
-| 2025‑10‑01 | [The impact of advanced AI systems on democracy](<https://doi.org/10.1038/s41562-025-02309-z>) | Article | OpenAlex |
 | 2025‑10‑01 | [Rethinking Thinking Tokens\: LLMs as Improvement Operators](<http://arxiv.org/abs/2510.01123>) | Preprint | OpenAlex |
+| 2025‑10‑01 | [The impact of advanced AI systems on democracy](<https://doi.org/10.1038/s41562-025-02309-z>) | Article | OpenAlex |
 | 2025‑10‑01 | [Eliciting Secret Knowledge from Language Models](<http://arxiv.org/abs/2510.01070>) | Preprint | OpenAlex |
 | 2025‑10 | [Claude Haiku 4\.5 System Card](<https://www-cdn.anthropic.com/7aad69bf12627d42234e01ee7c36305dc2f6a970.pdf>) | Model card | Official page |
 | 2025‑09‑22 | [The Quest for the Right Mediator\: Surveying Mechanistic Interpretability for NLP Through the Lens of Causal Mediation Analysis](<https://doi.org/10.1162/coli.a.572>) | Article | OpenAlex |
@@ -310,6 +314,7 @@
 | 2025‑01‑01 | [IF-Guide\: Influence Function-Guided Detoxification of LLMs](<http://arxiv.org/abs/2506.01790>) | Conference paper | OpenAlex |
 | 2025‑01‑01 | [Electrochemical Remediation of Marine Sediments Spiked With Hg and PAHs\: Comparison of the Enhancing Agents’ Nature](<https://doi.org/10.1155/ijce/1707820>) | Article | OpenAlex |
 | 2025‑01‑01 | [Better Training Data Attribution via Better Inverse Hessian-Vector Products](<http://arxiv.org/abs/2507.14740>) | Conference paper | OpenAlex |
+| 2025 | [Activation Oracles\: Training and Evaluating LLMs as General-Purpose Activation Explainers](<https://alignment.anthropic.com/2025/activation-oracles/>) | Research post | Official page, OpenAlex |
 | 2025 | [Constitutional Classifiers\: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](<https://www.anthropic.com/research/constitutional-classifiers>) | Research post | Official page, OpenAlex |
 | 2025 | [Auditing language models for hidden objectives](<https://www.anthropic.com/research/auditing-hidden-objectives>) | Research post | Official page |
 | 2025 | [Reasoning models don't always say what they think](<https://www.anthropic.com/research/reasoning-models-dont-say-think>) | Research post | Official page |
@@ -344,7 +349,6 @@
 | 2025 | [Anthropic's Pilot Sabotage Risk Report](<https://alignment.anthropic.com/2025/sabotage-risk-report/>) | Research post | Official page |
 | 2025 | [Anthropic Fellows Program 2026](<https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/>) | Research post | Official page |
 | 2025 | [Alignment Faking Revisited\: Improved Classifiers and Open Source Extensions](<https://alignment.anthropic.com/2025/alignment-faking-revisited/>) | Research post | Official page |
-| 2025 | [Activation Oracles\: Training and Evaluating LLMs as General-Purpose Activation Explainers](<https://alignment.anthropic.com/2025/activation-oracles/>) | Research post | Official page |
 
 ## 2024
 

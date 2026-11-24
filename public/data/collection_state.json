@@ -1,5 +1,5 @@
 {
-  "next_lab": 1,
+  "next_lab": 2,
   "labs": {
     "OpenAI": {
       "last_attempt": "2026-11-23",
@@ -7,7 +7,7 @@
       "since": "2024-01-01"
     },
     "Anthropic": {
-      "last_attempt": "2026-11-01",
+      "last_attempt": "2026-11-24",
       "status": "partial",
       "since": "2024-01-01"
     },

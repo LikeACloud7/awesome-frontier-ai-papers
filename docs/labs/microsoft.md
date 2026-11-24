@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4413`
-- Latest: `2026-11-21`
+- Papers: `4417`
+- Latest: `2026-11-22`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -208,6 +208,7 @@
 | n\.d\. | [Broken Neural Scaling Laws in Learning the Optical Properties of Solids](<https://www.microsoft.com/en-us/research/publication/broken-neural-scaling-laws-in-learning-the-optical-properties-of-solids/>) | Publication | Official page |
 | n\.d\. | [Bridging Compute- and Data-Optimal Pretraining](<https://www.microsoft.com/en-us/research/publication/bridging-compute-and-data-optimal-pretraining/>) | Publication | Official page |
 | n\.d\. | [Breaking the Exactness Barrier\: Interleaved DeepSeek Sparse Attention for Efficient Long Context Reasoning](<https://www.microsoft.com/en-us/research/publication/breaking-the-exactness-barrier-interleaved-deepseek-sparse-attention-for-efficient-long-context-reasoning/>) | Publication | Official page |
+| n\.d\. | [Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models](<https://www.microsoft.com/en-us/research/publication/bradley-terry-training-can-distort-outcome-probabilities-of-initially-accurate-language-world-models/>) | Publication | Official page |
 | n\.d\. | [Biomolecular Multiscale Simulation (BMS25) Dataset to Train Neural Network Potentials for QM/MM Settings with Electrostatic Embedding](<https://www.microsoft.com/en-us/research/publication/biomolecular-multiscale-simulation-bms25-dataset-to-train-neural-network-potentials-for-qm-mm-settings-with-electrostatic-embedding/>) | Publication | Official page |
 | n\.d\. | [Bigger Isn't Better\: Why the Indiscriminate Scaling of Foundation Models Can't Solve Biology](<https://www.microsoft.com/en-us/research/publication/bigger-isnt-better-why-the-indiscriminate-scaling-of-foundation-models-cant-solve-biology/>) | Publication | Official page |
 | n\.d\. | [BiSON\: Billion-Scale Oblivious Nearest-NeighborSearch in Milliseconds](<https://www.microsoft.com/en-us/research/publication/bison-billion-scale-oblivious-nearest-neighborsearch-in-milliseconds/>) | Publication | Official page |
@@ -244,11 +245,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑22 | [A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging](<https://arxiv.org/abs/2606.07851>) | Data paper | OpenAlex |
 | 2026‑11‑21 | [Trust in Machine Learning-Aided Docking\: A Systematic Review of Good Practices for Chemically Reliable Predictions](<https://doi.org/10.1021/acsomega.6c07068>) | Review | OpenAlex |
 | 2026‑11‑20 | [Phenome-wide associations of CT-derived adipose area and density in 22,710 patients\: uncovering unexpected disease connections](<https://doi.org/10.21203/rs.3.rs-11406927/v1>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [Harnessing Medical Visual-Language Models with Agentic Evidence Management](<https://www.microsoft.com/en-us/research/publication/harnessing-medical-visual-language-models-with-agentic-evidence-management/>) | Publication | Official page, OpenAlex |
+| 2026‑11‑19 | [When Agents Play Differently\: Localizing Human--Agent Behavioral Divergence with Conditional Distributional Testing](<https://arxiv.org/abs/2611.26012>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [Latent Action Policies from Suboptimal Data](<https://www.microsoft.com/en-us/research/publication/latent-action-policies-from-suboptimal-data/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑18 | [SimplePro\: A Simple Baseline for Proactive Video Understanding](<https://arxiv.org/abs/2611.23954>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [ReSynth\: Constructing Synthetic Supervision for Multi-Image Understanding](<https://arxiv.org/abs/2611.23996>) | Preprint | OpenAlex |
-| 2026‑11‑18 | [Latent Action Policies from Suboptimal Data](<https://arxiv.org/abs/2611.24482>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [BI-SCUDO Regression - A novel algorithm to infer clinical variables from omics datasets](<https://doi.org/10.64898/2026.11.17.767338>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation](<https://www.microsoft.com/en-us/research/publication/when-does-subspace-direction-matter-for-lora-regime-analysis-of-the-magnitude-principle-in-few-shot-adaptation/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑17 | [RoboTeam\: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time](<https://arxiv.org/abs/2611.22138>) | Preprint | OpenAlex |
@@ -265,10 +269,10 @@
 | 2026‑11‑13 | [Ask Precisely, Assume Wisely\: Interactive Evaluation of Ambiguity Resolution in Large Language Models](<https://arxiv.org/abs/2611.18905>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
 | 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://www.microsoft.com/en-us/research/publication/where-the-world-went-missing-geographic-inequality-in-wikipedia-and-ai/>) | Publication | OpenAlex, Official page |
+| 2026‑11‑12 | [Benchmarks Don't Talk Back\: Learning Through Self-Disagreement](<https://www.microsoft.com/en-us/research/publication/benchmarks-dont-talk-back-learning-through-self-disagreement/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [AI has its own style in mathematical proving](<https://www.microsoft.com/en-us/research/publication/ai-has-its-own-style-in-mathematical-proving/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Discrete dynamic survival analysis of epidemic case line lists](<https://doi.org/10.64898/2026.11.10.26367756>) | Preprint | OpenAlex |
-| 2026‑11‑12 | [Benchmarks Don't Talk Back\: Learning Through Self-Disagreement](<https://arxiv.org/abs/2611.17563>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ACM CCS Young Scholars Development Program](<https://doi.org/10.1145/3830454.3846408>) | Conference paper | OpenAlex |
 | 2026‑11‑11 | [Lazare veni foras\: Reprogramming Dormant Neurons to Backdoor AI Agents](<https://www.microsoft.com/en-us/research/publication/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑11 | [WordInferBench\: Can Agents Infer How to Edit from Word Document Context?](<https://www.microsoft.com/en-us/research/publication/wordinferbench-can-agents-infer-how-to-edit-from-word-document-context/>) | Publication | OpenAlex, Official page |

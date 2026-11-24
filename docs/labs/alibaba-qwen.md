@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4151`
-- Latest: `2026-11-18`
+- Papers: `4162`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,10 +19,20 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [From language to world states\: a survey of world models in multimodal reasoning](<https://doi.org/10.1108/ftcgv-10-2025-0121>) | Article | OpenAlex |
+| 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [TrajCal\: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling](<https://arxiv.org/abs/2611.25847>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [Iterative Scarcity-Guided Exploration\: Bootstrapping Generative Auto-bidding from Narrow Support](<https://arxiv.org/abs/2611.26060>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [HabitusMem\: Belief Memory over Evolving User Preferences for LLM Agents](<https://arxiv.org/abs/2611.25855>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [DriftGuard\: Online Memory-Drift Detection via Causal Attribution for LLM Agents](<https://arxiv.org/abs/2611.25583>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [DNA\: Unlocking Depth Scaling in CTR Models](<https://arxiv.org/abs/2611.25659>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Where Should a Diffusion Transformer Meet Its Teacher?](<https://arxiv.org/abs/2611.24380>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [What a Calibrated Probability Hides\: Belief-Level Post-Training for Decision Models](<https://arxiv.org/abs/2611.25168>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Structured sparse attention for accelerating long-context diffusion language models](<https://doi.org/10.3389/frai.2026.1993541>) | Article | OpenAlex |
 | 2026‑11‑18 | [Resolution as Attention for Efficient Agent Memory Perception](<https://arxiv.org/abs/2611.24422>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [PGU-Decoder\: Prior-Guided Unified Decoding for Industrial Road-Network Map Updating](<https://arxiv.org/abs/2611.23936>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [DetailScale-SR\: Decoupling Restoration and Continuous Detail Control for Real-World Super-Resolution](<https://arxiv.org/abs/2611.24212>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [CurvDelta\: Low-Curvature Delta Modeling For Surgical Learning and Unlearning](<https://arxiv.org/abs/2611.24654>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [DiffusionOPD\: A Unified Perspective of On-Policy Distillation in Diffusion Models](<https://arxiv.org/abs/2605.15055>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [StreamChar\: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration](<https://arxiv.org/abs/2605.25659>) | Conference paper | OpenAlex |
@@ -46,6 +56,7 @@
 | 2026‑11‑16 | [MAGE\: Meta-path Adaptive Graph Evidence for Transferable Multimodal Graph Learning](<https://arxiv.org/abs/2611.20449>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [Learning to Reason with Predictive Gains for Generative Recommendation](<https://arxiv.org/abs/2611.21441>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [Latent Bridge\: Asking for Help Without Words](<https://arxiv.org/abs/2611.21301>) | Preprint | OpenAlex |
+| 2026‑11‑16 | [BlockAlign\: Preference Optimization for Trajectory-Distilled Video Generation](<https://arxiv.org/abs/2611.20351>) | Preprint | OpenAlex |
 | 2026‑11‑15 | [Rethinking Post-Training for Expressive Zero-Shot Text-to-Speech](<https://arxiv.org/abs/2611.19787>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [TraJudger\: Structure-Guided Failure Attribution for LLM-Powered Multi-Agent Systems](<https://doi.org/10.1145/3828523.3857043>) | Conference paper | OpenAlex |
 | 2026‑11‑14 | [SwiftMPC\: Accelerating ML under MPC with Secure-Chip-Assisted One-Way Communication](<https://doi.org/10.1145/3828523.3857086>) | Conference paper | OpenAlex |

@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3892`
+- Papers: `3895`
 - Latest: `2026-11-21`
 - [Back to README](../../README.md#amazon)
 
@@ -17,7 +17,7 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑21 | [A Survey of Machine Learning Techniques for Payroll Security in ERP Tax Systems](<https://doi.org/10.47672/ejt.3035>) | Article | OpenAlex |
-| 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation |
+| 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑18 | [Replay, Don't Resample\: Off-Policy Consolidation of Long-Horizon RL Experts](<https://arxiv.org/abs/2611.24059>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Surface Keypoint Representation for Multi-Object and Articulated Human-Object Interaction Generation](<https://arxiv.org/abs/2608.03158>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [Motion-Aware Reward Modeling for Instruction-Guided Video Editing](<https://arxiv.org/abs/2611.22495>) | Preprint | OpenAlex |
@@ -119,6 +119,7 @@
 | 2026‑10‑26 | [Compression of Genetic Variation Data in VCF Files](<https://doi.org/10.1142/9789819833696_0007>) | Book chapter | OpenAlex |
 | 2026‑10‑26 | [Who Holds the AI Debt? A Traceable-Share Methodology for AI Infrastructure Credit Exposure](<https://doi.org/10.62225/2583049x.2026.6.5.7076>) | Article | OpenAlex |
 | 2026‑10‑26 | [Learning Force-Reactive Humanoid Loco-Manipulation](<https://arxiv.org/abs/2610.35862>) | Preprint | OpenAlex |
+| 2026‑10‑25 | [The AI Paradox\: How Optimization May Undermine Meaningful Work in Helping Professions](<https://doi.org/10.2139/ssrn.7663039>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Schema-Free Text-to-SQL\: Learning Enterprise Database Structure from Query Logs](<https://arxiv.org/abs/2610.33946>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [Performance Gaps Between Open-Loop, Certainty-Equivalent, and Optimal Control Under Action-Dependent Observations](<https://arxiv.org/abs/2610.33412>) | Preprint | OpenAlex |
 | 2026‑10‑24 | [GeoLift\: Grounding Video Spatial Reasoning in Explicit 3D Maps](<https://arxiv.org/abs/2610.33558>) | Preprint | OpenAlex |
@@ -1357,6 +1358,7 @@
 | 2026 | [Choice modeling and pricing for scheduled services](<https://www.amazon.science/publications/choice-modeling-and-pricing-for-scheduled-services>) | Publication | Official page, OpenAlex |
 | 2026 | [Characterizing and provisioning the environment bubble in agentic-RL LLM rollout](<https://www.amazon.science/publications/characterizing-and-provisioning-the-environment-bubble-in-agentic-rl-llm-rollout>) | Publication | Official page |
 | 2026 | [CausalFusion\: Integrating LLMs and graph falsification for causal discovery](<https://www.amazon.science/publications/causalfusion-integrating-LLMs-and-graph-falsification-for-causal-discovery>) | Publication | Official page |
+| 2026 | [Can small databases preserve SQL evaluation signals?](<https://www.amazon.science/publications/can-small-databases-preserve-sql-evaluation-signals>) | Publication | Official page |
 | 2026 | [Can AI agents simulate A/B test outcomes? A validation framework for agentic experimentation](<https://www.amazon.science/publications/can-ai-agents-simulate-a-b-test-outcomes-a-validation-framework-for-agentic-experimentation>) | Publication | Official page |
 | 2026 | [CSMAD\: Hallucination detection via multi-agent debate with NLI-verified contradictory statements](<https://www.amazon.science/publications/csmad-hallucination-detection-via-multi-agent-debate-with-nli-verified-contradictory-statements>) | Publication | Official page, OpenAlex |
 | 2026 | [CRAFT\: Cross-modal representation with adaptive fusion transformer for operational defect detection](<https://www.amazon.science/publications/craft-cross-modal-representation-with-adaptive-fusion-transformer-for-operational-defect-detection>) | Publication | Official page, OpenAlex |
@@ -1396,6 +1398,7 @@
 | 2026 | [AuthGuard\: Generalizable deepfake detection via language guidance](<https://www.amazon.science/publications/authguard-generalizable-deepfake-detection-via-language-guidance>) | Publication | Official page |
 | 2026 | [Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](<https://arxiv.org/abs/2608.03272>) | Preprint | Official page, OpenAlex |
 | 2026 | [AsymLoc\: Towards asymmetric feature matching for efficient visual localization](<https://www.amazon.science/publications/asymloc-towards-asymmetric-feature-matching-for-efficient-visual-localization>) | Publication | Official page |
+| 2026 | [Are your agents ready to evolve? Assessing evolution-readiness in agents through paired safety and utility scoring](<https://www.amazon.science/publications/are-your-agents-ready-to-evolve-assessing-evolution-readiness-in-agents-through-paired-safety-and-utility-scoring>) | Publication | Official page |
 | 2026 | [Are we merging the right models? Impact of expert training duration on model merging for LLMs](<https://www.amazon.science/publications/are-we-merging-the-right-models-impact-of-expert-training-duration-on-model-merging-for-llms>) | Publication | Official page |
 | 2026 | [Anchored mixture-of-experts for efficient time series forecasting](<https://www.amazon.science/publications/anchored-mixture-of-experts-for-efficient-time-series-forecasting>) | Publication | Official page |
 | 2026 | [Anchored FLoE\: A business-guardrailed ensemble framework of foundation and local-trained models for demand forecasting](<https://www.amazon.science/publications/anchored-floe-a-business-guardrailed-ensemble-framework-of-foundation-and-local-trained-models-for-demand-forecasting>) | Publication | Official page, OpenAlex |
