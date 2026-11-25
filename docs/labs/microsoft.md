@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4417`
+- Papers: `4421`
 - Latest: `2026-11-22`
 - [Back to README](../../README.md#microsoft)
 
@@ -247,6 +247,7 @@
 |---|---|---|---|
 | 2026‑11‑22 | [A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging](<https://arxiv.org/abs/2606.07851>) | Data paper | OpenAlex |
 | 2026‑11‑21 | [Trust in Machine Learning-Aided Docking\: A Systematic Review of Good Practices for Chemically Reliable Predictions](<https://doi.org/10.1021/acsomega.6c07068>) | Review | OpenAlex |
+| 2026‑11‑21 | ["What Should I Do?" Guidelines for Responsibly Integrating AI in Software Engineering](<https://arxiv.org/abs/2611.28996v1>) | Paper | Verified affiliation |
 | 2026‑11‑20 | [Phenome-wide associations of CT-derived adipose area and density in 22,710 patients\: uncovering unexpected disease connections](<https://doi.org/10.21203/rs.3.rs-11406927/v1>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Harnessing Medical Visual-Language Models with Agentic Evidence Management](<https://www.microsoft.com/en-us/research/publication/harnessing-medical-visual-language-models-with-agentic-evidence-management/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑19 | [When Agents Play Differently\: Localizing Human--Agent Behavioral Divergence with Conditional Distributional Testing](<https://arxiv.org/abs/2611.26012>) | Preprint | OpenAlex |
@@ -298,8 +299,8 @@
 | 2026‑11‑07 | [WordEval\: Evaluating Word-Native Operation Fidelity in Document Editing](<https://www.microsoft.com/en-us/research/publication/wordeval-evaluating-word-native-operation-fidelity-in-document-editing/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026‑11‑07 | [Tiresias\: Towards Language-Conditioned World Models](<https://www.microsoft.com/en-us/research/publication/tiresias-towards-language-conditioned-world-models/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑07 | [LongCapHarness\: Capability-Guided Auto-Harnessing for Long-Context Reasoning](<https://www.microsoft.com/en-us/research/publication/longcapharness-capability-guided-auto-harnessing-for-long-context-reasoning/>) | Publication | OpenAlex, Official page |
-| 2026‑11‑07 | [When Experience Becomes a Backdoor\: Poisoning Self-Evolving LLM Agents via Failure-Aware Task Optimization](<https://arxiv.org/abs/2611.10542>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [The Power of Two Choices in Dynamic Pricing\: As Good As Full Feedback, Instance-Wise](<https://arxiv.org/abs/2611.10345>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [When Experience Becomes a Backdoor\: Poisoning Self-Evolving LLM Agents via Failure-Aware Task Optimization](<https://arxiv.org/abs/2611.10542>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Do links to retracted papers predict future retractions? An out-of-sample test on the open biomedical citation graph](<https://arxiv.org/abs/2611.10474>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [Can open citation data detect citation stacking? An audit against Clarivate's journal suppressions](<https://arxiv.org/abs/2611.10471>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Video-Coder\: Reinforcing Agentic Coding for Video Generation](<https://www.microsoft.com/en-us/research/publication/video-coder-reinforcing-agentic-coding-for-video-generation/>) | Publication | OpenAlex, Official page, Verified affiliation |
@@ -360,6 +361,9 @@
 | 2026‑11‑01 | [ParetoSaddler\: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost](<https://arxiv.org/abs/2611.02079>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Parametric reconstruction of 3D free-form curves from two views](<https://doi.org/10.1007/s00371-026-04793-4>) | Article | OpenAlex |
 | 2026‑11‑01 | [Measuring User Success in Randomized Search Experiments\: Interpreting Good Abandonment in Generative AI Search](<https://doi.org/10.48550/arxiv.2611.01582>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [Cost-Sensitive Policy Selection for Large Language Models\: A Failure Analysis of Post-Hoc Uncertainty Transformations](<https://doi.org/10.23919/fruct72713.2026.11787746>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [Beyond ROC-AUC\: A Reproducible Evaluation Protocol for Discrimination, Calibration, and Prediction Stability in Tabular Machine Learning](<https://doi.org/10.23919/fruct72713.2026.11787763>) | Conference paper | OpenAlex |
+| 2026‑11‑01 | [Are Fairness Mitigation Rankings Stable? An Empirical Cross-Dataset, Cross-Metric Comparison of Bias-Mitigation Pipelines on Tabular Classifiers](<https://doi.org/10.23919/fruct72713.2026.11787751>) | Conference paper | OpenAlex |
 | 2026‑10‑31 | [MaterialVellum\: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints](<https://www.microsoft.com/en-us/research/publication/materialvellum-steering-generative-ai-by-leveraging-expressive-material-affordances-to-form-design-constraints/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑31 | [Agentic Context Management for Multi-Turn Human-AI Conversations](<https://www.microsoft.com/en-us/research/publication/agentic-context-management-for-multi-turn-human-ai-conversations/>) | Publication | OpenAlex, Official page |
 | 2026‑10‑31 | [Vision-Language Models Are Joint Denoisers in Robotic Action Generation](<https://arxiv.org/abs/2611.01215>) | Preprint | OpenAlex |
@@ -1172,9 +1176,9 @@
 | 2026‑06‑18 | [CryoBoost\: A 40nm Cryogenic-CMOS Matrix Multiplication Accelerator for Energy Efficient Computing](<https://doi.org/10.1145/3787109.3815205>) | Conference paper | OpenAlex |
 | 2026‑06‑17 | [Private Learning with Public Feature Conditioning](<https://www.microsoft.com/en-us/research/publication/private-learning-with-public-feature-conditioning-2/>) | Publication | Official page, OpenAlex |
 | 2026‑06‑17 | [AI, humanity, and the open world of health care\: enduring imperatives for the next century](<https://doi.org/10.1093/jamia/ocag099>) | Article | OpenAlex |
+| 2026‑06‑16 | [Challenges in AI Based Tumor Board Case Summarization and Recommendations](<https://doi.org/10.21203/rs.3.rs-9916397/v1>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [scIsoAgent enables autonomous isoform-resolved characterization and sequence-informed interpretation of long-read single-cell transcriptomes](<https://doi.org/10.64898/2026.06.11.731519>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [On improving experimental binding affinity predictions with synthetic data](<https://doi.org/10.21203/rs.3.rs-9861984/v1>) | Preprint | OpenAlex |
-| 2026‑06‑16 | [Challenges in AI Based Tumor Board Case Summarization and Recommendations](<https://doi.org/10.21203/rs.3.rs-9916397/v1>) | Preprint | OpenAlex |
 | 2026‑06‑16 | [A Machine Learning Approach to Prioritize Place-Based Prevention to Address Cardiovascular Disease Burden in New York City](<https://doi.org/10.1016/j.amepre.2026.108484>) | Article | OpenAlex |
 | 2026‑06‑16 | [MuseVLA\: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation](<https://arxiv.org/abs/2606.17598>) | Paper | Verified affiliation |
 | 2026‑06‑15 | [Closed-Loop Triplet Synergistic Generation for Long-Form Video](<https://www.microsoft.com/en-us/research/publication/closed-loop-triplet-synergistic-generation-for-long-form-video/>) | Publication | Official page |

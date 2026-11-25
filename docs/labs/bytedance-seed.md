@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1973`
-- Latest: `2026-11-18`
+- Papers: `1975`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,6 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [RWKV-MIL\: Efficient Weakly Supervised Histopathology Image Segmentation via Hilbert Curve-Based Linear Attention](<https://doi.org/10.3390/diagnostics16233950>) | Article | OpenAlex |
 | 2026‑11‑18 | [Twindex\: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving](<https://arxiv.org/abs/2611.25078>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RoughCut-Bench\: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models](<https://arxiv.org/abs/2611.24098>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RSIBench-Infra\: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?](<https://arxiv.org/abs/2611.24395>) | Preprint | OpenAlex |
@@ -58,8 +59,8 @@
 | 2026‑11‑05 | [SAE Interprets MoE\: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization](<https://arxiv.org/abs/2611.08089v1>) | Paper | Hugging Face, Verified affiliation |
 | 2026‑11‑03 | [OneTrans-GSR\: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer](<https://huggingface.co/papers/2611.04720>) | Paper | Hugging Face |
 | 2026‑11‑03 | [Helios\: Real Real-Time Long Video Generation Model](<http://arxiv.org/abs/2603.04379>) | Article | OpenAlex |
-| 2026‑11‑03 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](<https://huggingface.co/papers/2611.05609>) | Paper | Hugging Face, OpenAlex |
 | 2026‑11‑03 | [LEMUR\: Large scale End-to-end MUltimodal Recommendation](<http://arxiv.org/abs/2511.10962>) | Conference paper | OpenAlex |
+| 2026‑11‑03 | [On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation](<https://huggingface.co/papers/2611.05609>) | Paper | Hugging Face, OpenAlex |
 | 2026‑11‑03 | [TTSonic\: A Unified Framework for Composable and Controllable Speech Generation](<https://arxiv.org/abs/2611.04282>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [LIFT\: A Learning-aware Intervention Framework for Cold-Start Recommendation on TikTok Live](<https://doi.org/10.1145/3799682.3840142>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models](<https://arxiv.org/abs/2611.04467>) | Preprint | OpenAlex |
@@ -70,14 +71,15 @@
 | 2026‑11‑01 | [Rumor Detection in User Retweet Networks with Uniform Prompt Graphs](<https://doi.org/10.1016/j.patrec.2026.11.018>) | Article | OpenAlex |
 | 2026‑11‑01 | [MAC-Bench\: Benchmarking Multi-Agent Collaboration via Interconnected Tasks](<https://arxiv.org/abs/2611.01728>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [Learning-to-Memorize\: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](<https://arxiv.org/abs/2611.01858>) | Preprint | OpenAlex |
+| 2026‑11‑01 | [LLM-driven optimization of cooperative computation offloading in space-ground integrated satellite relay networks](<https://doi.org/10.1016/j.comcom.2026.108736>) | Article | OpenAlex |
 | 2026‑10‑30 | [SparseGDN\: Chunk Sparse in Linear Attention](<https://arxiv.org/abs/2610.41420>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [Hierarchical Residuals\: A Minimalist Decoupling of Residual Width from Compute Width](<https://huggingface.co/papers/2610.41711>) | Paper | OpenAlex, Hugging Face |
 | 2026‑10‑29 | [Training LLM Agents to Automate LLM Post-Training with RSI-Dojo](<https://arxiv.org/abs/2611.03698>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Your LR Schedule May Not Be Principled\: Effective Learning Rate Scheduling in Weight-Normalized Training](<https://arxiv.org/abs/2610.40362v2>) | Paper | Verified affiliation |
 | 2026‑10‑28 | [SafeComm-Agent\: A Security-Aware Communication and Inference Optimization Framework for Multi-Agent Embodied Intelligence Systems](<https://doi.org/10.66238/fsrma139>) | Article | OpenAlex |
 | 2026‑10‑28 | [Exploring Fractional Quantum Hall States with Deep Learning\: From Abelian to Non-Abelian Phases](<https://arxiv.org/abs/2610.38533>) | Preprint | OpenAlex |
-| 2026‑10‑27 | [TrustLife\: A Trust-Aware Artificial Intelligence Lifecycle Management Framework for Secure Embodied Robots with Multi-Cloud Deployment Optimization](<https://doi.org/10.66238/fsrma140>) | Article | OpenAlex |
 | 2026‑10‑27 | [Does LLM Pre-Training Typically Occur at the Edge of Stability?](<https://arxiv.org/abs/2610.36778>) | Preprint | OpenAlex |
+| 2026‑10‑27 | [TrustLife\: A Trust-Aware Artificial Intelligence Lifecycle Management Framework for Secure Embodied Robots with Multi-Cloud Deployment Optimization](<https://doi.org/10.66238/fsrma140>) | Article | OpenAlex |
 | 2026‑10‑26 | [Learning and Reasoning with Geometry\: How Generation Helps Spatial Understanding](<https://arxiv.org/abs/2610.36022>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [From Belief Inference to Task Action\: A Multi-Level Evaluation of Theory of Mind on Verifiable Tasks](<https://arxiv.org/abs/2610.34759>) | Preprint | OpenAlex |
 | 2026‑10‑26 | [Reinforcement Learning Done Right for Explicit Confidence Targets](<https://arxiv.org/abs/2610.35059>) | Paper | Verified affiliation |

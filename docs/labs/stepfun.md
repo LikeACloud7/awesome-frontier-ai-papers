@@ -1,7 +1,7 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `168`
+- Papers: `170`
 - Latest: `2026-11-20`
 - [Back to README](../../README.md#stepfun)
 
@@ -23,6 +23,8 @@
 | 2026‑11‑02 | [P^2-MOPD\: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](<https://huggingface.co/papers/2611.03953>) | Preprint | Official page, Hugging Face |
 | 2026‑11‑02 | [StepX-OPD\: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models](<https://huggingface.co/papers/2611.04386>) | Preprint | Official page, Hugging Face |
 | 2026‑10‑29 | [UniTele\: Learning Device-Conditioned Degradations for Unified Smartphone Telephoto Super-Resolution](<https://arxiv.org/abs/2610.39617v1>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [LiveSearch\: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents](<https://arxiv.org/abs/2610.37166v2>) | Paper | Verified affiliation |
+| 2026‑10‑27 | [AutoVend\: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations](<https://arxiv.org/abs/2610.36980v2>) | Paper | Verified affiliation |
 | 2026‑10‑14 | [ECHOES\: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](<https://doi.org/10.48550/arxiv.2610.22408>) | Preprint | OpenAlex |
 | 2026‑10‑11 | [High-Fidelity Song Generation with Joint Discrete and Continuous Modeling](<https://arxiv.org/abs/2610.15802>) | Preprint | OpenAlex |
 | 2026‑10‑02 | [DyadMem\: A Long-Term Memory Benchmark of How Agents Work with Users](<https://arxiv.org/abs/2610.03020>) | Preprint | OpenAlex |

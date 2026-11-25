@@ -1,18 +1,18 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `4011`
-- Latest: `2026-11-22`
+- Papers: `4016`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [for texture](<https://github.com/Tencent-Hunyuan/Hunyuan3D-2/blob/main/assets/report/Tencent_Hunyuan3D_2_0.pdf>) | Technical report | Official repo |
 | n\.d\. | [DiagSafe](<https://github.com/Tencent-Hunyuan/DiagSafe/blob/main/paper/DiagSafe.pdf>) | Technical report | Official repo |
 | n\.d\. | [Hyra Results](<https://github.com/Tencent-Hunyuan/Hyra-results/blob/main/AI4Science/hyinv/HyInv_Technical_Report.pdf>) | Technical report | Official repo |
-| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [CL-bench family\: A series of benchmarks for Context Learning](<https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-life-paper.pdf>) | Technical report | Official repo |
 | n\.d\. | [modelnameorpath = "tencent/Hunyuan-A13B-Instruct"](<https://github.com/Tencent-Hunyuan/Hunyuan-A13B/blob/main/report/Hunyuan_A13B_Technical_Report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Install uv once (skip if you already have it)](<https://github.com/Tencent-Hunyuan/HY-Embodied/blob/master/Hy-Embodied-0.5/hy_embodied_tech_report.pdf>) | Technical report | Official repo |
@@ -26,22 +26,27 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [OmniEVIE\: Evidence-Vector-Informed Embedding for Multi-modal Retrieval](<https://arxiv.org/abs/2611.32203v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [VenusOCR2\.0\: Towards Efficient and Effective Document Parsing](<https://huggingface.co/papers/2611.32617>) | Preprint | Official page |
 | 2026‑11‑22 | [WeMM-Ecom\: Advancing Multimodal Content Understanding for WeChat E-Commerce](<https://huggingface.co/papers/2611.30662>) | Preprint | Official page |
 | 2026‑11‑22 | [A Pipeline-Parallel System for Depth-Recurrent Models](<https://huggingface.co/papers/2611.30581>) | Preprint | Official page |
 | 2026‑11‑20 | [WePM\: Hierarchical Conflict Reconciliation for Unified MLLMs](<https://arxiv.org/abs/2611.27365>) | Paper | Verified affiliation |
 | 2026‑11‑20 | [Refrain\: Learning Multi-Shot Consistency from Inconsistent References for A$^2$O Video Generation](<https://arxiv.org/abs/2611.27806>) | Paper | Verified affiliation |
+| 2026‑11‑20 | [Hy-MT3\: More Accurate, Robust and Practical Multilingual Translation Models in the Wild](<https://arxiv.org/abs/2611.27673>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Visualization Research on Disease Distribution of Medium-Small Span Concrete Girder Bridges during Maintenance and Operation Period Based on Traffic Digital Base Map](<https://doi.org/10.1061/9780784486948.401>) | Conference paper | OpenAlex |
+| 2026‑11‑19 | [SpecWM\: Turning Verification into Refinement for Streaming World Models](<https://arxiv.org/abs/2611.26211>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [SpatialMem\: Building Quantitative Spatial Reasoning Agents with Hierarchical Memory](<https://arxiv.org/abs/2611.25925>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [PhysVAM\: Physics-oriented Future Value Action Model for Dynamic Object Manipulation](<https://arxiv.org/abs/2611.26105>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [ForeSeek\: Foresight-Driven Reasoning for Long-Form Video Understanding](<https://arxiv.org/abs/2611.26024>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Duopra\: From Full-Duplex Conversation to Full-Duplex Agency](<https://arxiv.org/abs/2611.25773>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [CompAct-Bench\: A Benchmark for Working-Context Compaction in Long-Horizon Agent Tasks](<https://arxiv.org/abs/2611.25673>) | Preprint | OpenAlex |
-| 2026‑11‑18 | [WeMM-Video\: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](<https://huggingface.co/papers/2611.26409>) | Preprint | Official page, Verified affiliation |
+| 2026‑11‑18 | [WeMM-Video\: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](<https://huggingface.co/papers/2611.26409>) | Preprint | Official page, Verified affiliation, OpenAlex |
 | 2026‑11‑18 | [Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](<https://huggingface.co/papers/2611.26268>) | Preprint | Official page |
 | 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [Can Omni-modal LLMs Understand Spoken Intentions?](<https://arxiv.org/abs/2611.24706>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [One Shot, Any View\: High-Fidelity Video Reshooting with Geometry Guidance and Visual References](<https://arxiv.org/abs/2611.24253>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [From Restoration to Redrawing\: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing](<https://arxiv.org/abs/2611.24084>) | Preprint | OpenAlex |
-| 2026‑11‑18 | [Can Omni-modal LLMs Understand Spoken Intentions?](<https://arxiv.org/abs/2611.24706>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑17 | [MVID\: Feed-Forward Multi-View Intrinsic Image Decomposition](<https://arxiv.org/abs/2512.23667>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [More Than a Score\: Reinforcement Learning with Verbalized Feedback for Generative Recommendation](<https://arxiv.org/abs/2611.22410>) | Preprint | OpenAlex |
@@ -85,13 +90,13 @@
 | 2026‑11‑05 | [PhyAVBench\: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](<https://arxiv.org/abs/2512.23994>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Align, Don't Blend\: Orthogonal Supervision Disentanglement As the Key to Generalizable AI-Generated Image Detection](<https://arxiv.org/abs/2512.06746>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [QoEVMA\: 4th Workshop on Quality of Experience (QoE) in Visual Multimedia Applications](<https://doi.org/10.1145/3767308.3842127>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [SplatAnything\: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](<https://arxiv.org/abs/2611.08264>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [FoldAbS\: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening](<https://doi.org/10.64898/2026.11.03.763899>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [CT-1\: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation](<https://arxiv.org/abs/2604.09201>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [The Gating Mechanism of KV Cache Eviction](<https://arxiv.org/abs/2611.07605>) | Preprint | OpenAlex |
-| 2026‑11‑05 | [SplatAnything\: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](<https://arxiv.org/abs/2611.08264>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [Route-DMD\: Distribution Matching Distillation with Task-Routed Mechanism for Speech Foundation Models](<https://arxiv.org/abs/2611.08011>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [PlayGen2\: Learning Real-Time Playable Worlds with Explicit 3D State](<https://arxiv.org/abs/2611.07867>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [From Twisted Facts to Rogue Agents\: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?](<https://arxiv.org/abs/2611.08231>) | Preprint | OpenAlex |
-| 2026‑11‑05 | [FoldAbS\: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening](<https://doi.org/10.64898/2026.11.03.763899>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [CaptchaBench\: A Modality-Stratified Benchmark Dataset for Evaluating Adversarial Perturbation Against VLM-based CAPTCHA Recognition](<https://doi.org/10.1145/3767308.3838637>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [Physics-Driven Extraction of Dynamic Fluid Asset from Monocular Video with Generative 3DGS](<https://arxiv.org/abs/2503.00868>) | Article | OpenAlex |
 | 2026‑11‑04 | [EvoWorld\: Towards Out-of-Sight World Evolution in Generative Video Models](<https://arxiv.org/abs/2611.06748>) | Preprint | OpenAlex |

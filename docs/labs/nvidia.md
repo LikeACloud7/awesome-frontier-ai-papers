@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2275`
-- Latest: `2026-11-20`
+- Papers: `2285`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -10,14 +10,23 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | n\.d\. | [Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](<https://huggingface.co/nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16/blob/main/paper.pdf>) | Technical report | Official repo |
+| n\.d\. | [technical report](<https://github.com/QwenLM/Qwen3-VL-Embedding/blob/main/assets/qwen3vlembedding_technical_report.pdf>) | Technical report | Official repo |
 | n\.d\. | [Model Overview](<https://huggingface.co/nvidia/DeepSeek-V3.2-NVFP4/blob/main/assets/paper.pdf>) | Technical report | Official repo |
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [A Mesh to Remember\: Persistent Appearance for Interactive Video Worlds](<https://arxiv.org/abs/2611.32445v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [Model evaluation metrics of Virtual Cell Challenge 2026](<https://doi.org/10.64898/2026.11.17.767214>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Nemotron-Labs-VisualCreation\: Pixel as Code for Agentic Visual Creation](<https://arxiv.org/abs/2611.31358v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [Lyris\: Layout-Guided Long Video Generation with Persistent 3D Memory](<https://arxiv.org/abs/2611.31239v2>) | Paper | Verified affiliation |
 | 2026‑11‑20 | [Beyond outcome rewards\: Post-rationale distribution optimization for selective prediction in reasoning models](<https://arxiv.org/abs/2609.38850>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [SiliconGym\: A Versatile Reinforcement Learning Environment for Agentic EDA](<https://arxiv.org/abs/2611.25658>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [Posterior Matching Distillation](<https://arxiv.org/abs/2611.26629>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [VideoRNG\: Relightable Neural Gaussians from Generative Video Models](<https://arxiv.org/abs/2611.25338v1>) | Paper | Verified affiliation |
+| 2026‑11‑19 | [SceneAnything\: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video](<https://arxiv.org/abs/2611.25340v1>) | Paper | Verified affiliation |
+| 2026‑11‑19 | [Coherent Moment Propagation\: Epistemic Uncertainty for Pre-trained Robot Policies](<https://arxiv.org/abs/2611.26855v1>) | Paper | Verified affiliation |
 | 2026‑11‑18 | [AI Film Frontiers\: Towards New Paradigms of Filmmaking](<https://doi.org/10.1145/3829341.3849998>) | Conference paper | OpenAlex |
 | 2026‑11‑18 | [The Future of AI &amp; XR\: How Will AI Reshape the Spatial Computing Pipeline?](<https://doi.org/10.1145/3829341.3850002>) | Conference paper | OpenAlex |
 | 2026‑11‑18 | [Living off the Local Model\: Abusing Browser-Embedded Language Models for Post-Exploitation](<https://arxiv.org/abs/2611.25086>) | Preprint | OpenAlex |
@@ -36,6 +45,7 @@
 | 2026‑11‑17 | [FailureGen\: Scalable Robot Failure Data Generation with World Models](<https://arxiv.org/abs/2611.22367v1>) | Paper | Verified affiliation |
 | 2026‑11‑16 | [TCBP-JOBS\: GPU-Accelerated Quantum Error Correction Decoding and Noise Learning with Near-Optimal Accuracy](<https://arxiv.org/abs/2611.21321>) | Preprint | OpenAlex |
 | 2026‑11‑16 | [Nemotron 3\.5 Bolt E4B 4GB\: An Open and Efficient Small Language Model for Fast Conversational Agents](<https://arxiv.org/abs/2611.20771v1>) | Paper | Verified affiliation |
+| 2026‑11‑16 | [Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures](<https://arxiv.org/abs/2611.20734v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [Nahual\: A Sequence Model for Language and Atoms](<https://arxiv.org/abs/2611.19072>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
@@ -64,7 +74,6 @@
 | 2026‑11‑09 | [Will AI mess my RTL? A snapshot-based approach to verifying AI-written RTL](<https://arxiv.org/abs/2611.12712>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Validating traces of distributed programs against TLA+ specifications](<https://doi.org/10.1007/s10270-026-01416-3>) | Article | OpenAlex |
 | 2026‑11‑09 | [TOG 45(6) Editorial](<https://doi.org/10.1145/3842938>) | Article | OpenAlex |
-| 2026‑11‑09 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](<https://doi.org/10.1145/3842564>) | Article | OpenAlex |
 | 2026‑11‑08 | [LocateAnyMesh\: Grounding 3D Mesh Queries in 2D Images with Vision-Language Models](<https://arxiv.org/abs/2611.11692>) | Preprint | OpenAlex |
 | 2026‑11‑08 | [Branch-and-Commit for Frozen RL Agents\: When and Where to Spend Test-Time Compute](<https://arxiv.org/abs/2611.13003>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [They Can See It but Not Say It\: Iterative Self Knowledge Re-expression in Visual Reasoning Relative Pose Identification](<https://arxiv.org/abs/2611.10483>) | Preprint | OpenAlex |
@@ -75,6 +84,7 @@
 | 2026‑11‑05 | [AutoCompress\: Automated Hardware-Guided Model Compression](<https://huggingface.co/papers/2611.08290>) | Paper | Hugging Face |
 | 2026‑11‑05 | [The Intrusion Pathway\: How Non-Evidential Context Degrades Language Model Performance](<https://arxiv.org/abs/2611.07778>) | Preprint | OpenAlex |
 | 2026‑11‑05 | [TACT-KV\: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](<https://arxiv.org/abs/2611.07593>) | Preprint | OpenAlex |
+| 2026‑11‑05 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](<https://arxiv.org/abs/2611.08665v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑11‑04 | [How to Build Digital Humans? From Priors to Photorealistic Avatars](<https://arxiv.org/abs/2607.04341>) | Article | OpenAlex |
 | 2026‑11‑04 | [TIRx\: A Unified Tile Primitive ML Compiler Across Heterogeneous Backends](<https://arxiv.org/abs/2601.19092>) | Conference paper | OpenAlex |
 | 2026‑11‑04 | [FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices](<https://arxiv.org/abs/2611.06994>) | Preprint | OpenAlex |
