@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `4016`
-- Latest: `2026-11-24`
+- Papers: `4020`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,10 +26,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [An automatic generation method of piano fingerings based on BiGRU and model reinforcement learning](<https://doi.org/10.1007/s44163-026-02763-2>) | Article | OpenAlex |
+| 2026‑11‑24 | [SPARC\: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation](<https://huggingface.co/papers/2611.34064>) | Preprint | Official page |
+| 2026‑11‑24 | [AIRIS\: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos](<https://huggingface.co/papers/2611.34347>) | Preprint | Official page |
 | 2026‑11‑24 | [OmniEVIE\: Evidence-Vector-Informed Embedding for Multi-modal Retrieval](<https://arxiv.org/abs/2611.32203v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [VenusOCR2\.0\: Towards Efficient and Effective Document Parsing](<https://huggingface.co/papers/2611.32617>) | Preprint | Official page |
 | 2026‑11‑22 | [WeMM-Ecom\: Advancing Multimodal Content Understanding for WeChat E-Commerce](<https://huggingface.co/papers/2611.30662>) | Preprint | Official page |
 | 2026‑11‑22 | [A Pipeline-Parallel System for Depth-Recurrent Models](<https://huggingface.co/papers/2611.30581>) | Preprint | Official page |
+| 2026‑11‑20 | [Physics-Guided Recursive Self-Improvement of Amortized Bayesian Inference Across Physics](<https://arxiv.org/abs/2611.27006>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [WePM\: Hierarchical Conflict Reconciliation for Unified MLLMs](<https://arxiv.org/abs/2611.27365>) | Paper | Verified affiliation |
 | 2026‑11‑20 | [Refrain\: Learning Multi-Shot Consistency from Inconsistent References for A$^2$O Video Generation](<https://arxiv.org/abs/2611.27806>) | Paper | Verified affiliation |
 | 2026‑11‑20 | [Hy-MT3\: More Accurate, Robust and Practical Multilingual Translation Models in the Wild](<https://arxiv.org/abs/2611.27673>) | Paper | Verified affiliation |

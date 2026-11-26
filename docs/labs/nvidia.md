@@ -1,8 +1,8 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2285`
-- Latest: `2026-11-24`
+- Papers: `2288`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#nvidia)
 
 ## No date
@@ -17,10 +17,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [Artificial intelligence and machine learning for short-to-medium range weather prediction](<https://doi.org/10.1038/s43017-026-00849-0>) | Review | OpenAlex |
+| 2026‑11‑25 | [Letting Models Manage Their Own Context\: Where We Stand](<https://huggingface.co/papers/2611.34147>) | Paper | Hugging Face |
 | 2026‑11‑24 | [A Mesh to Remember\: Persistent Appearance for Interactive Video Worlds](<https://arxiv.org/abs/2611.32445v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [Model evaluation metrics of Virtual Cell Challenge 2026](<https://doi.org/10.64898/2026.11.17.767214>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Nemotron-Labs-VisualCreation\: Pixel as Code for Agentic Visual Creation](<https://arxiv.org/abs/2611.31358v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [Lyris\: Layout-Guided Long Video Generation with Persistent 3D Memory](<https://arxiv.org/abs/2611.31239v2>) | Paper | Verified affiliation |
+| 2026‑11‑20 | [Composable Soft-Prompt Distillation of RL Experts\: Toward Continual Post-Training](<https://arxiv.org/abs/2611.27376>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Beyond outcome rewards\: Post-rationale distribution optimization for selective prediction in reasoning models](<https://arxiv.org/abs/2609.38850>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [SiliconGym\: A Versatile Reinforcement Learning Environment for Agentic EDA](<https://arxiv.org/abs/2611.25658>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Posterior Matching Distillation](<https://arxiv.org/abs/2611.26629>) | Preprint | OpenAlex |

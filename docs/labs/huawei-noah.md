@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4277`
-- Latest: `2026-11-23`
+- Papers: `4280`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,7 +15,9 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [FlipVLA\: Backdoor Attacks on Vision-Language-Action(VLA) Models Only Through Bit Flips](<https://arxiv.org/abs/2611.33810v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [SpaFID\: Predictive Inverse Dynamics for 3D-Aware Robotic Manipulation with Spatial Foresight](<https://doi.org/10.3390/machines14121395>) | Article | OpenAlex |
+| 2026‑11‑20 | [Adapting AI Weather Foundation Models to a Changing Climate](<https://arxiv.org/abs/2611.27605>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Stop Going in Circles\:Loop-Triggered Routing for System 1 Decision Agents](<https://arxiv.org/abs/2611.25363>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Creative Machines, Creative Sketches\: Generation, Evaluation, and Interaction in the Generative AI Era](<https://doi.org/10.1145/3829341.3850008>) | Conference paper | OpenAlex |
@@ -96,6 +98,7 @@
 | 2026‑11‑05 | [MEIR\: Memory-Enhanced Incongruity-Aware Reasoning for Multimodal Sarcasm Detection and Explanation](<https://doi.org/10.1145/3767308.3836352>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [I 2 RSTD\: Benchmark and A Prompt-Based Approach for Incremental Infrared Small Target Detection](<https://doi.org/10.1145/3767308.3835867>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [Hidden Dangers in Plain Sight\: Unveiling Unintended Behavioral Safety Risks of Situated Agents in Functional Environments](<https://doi.org/10.1145/3767308.3836533>) | Conference paper | OpenAlex |
+| 2026‑11‑05 | [Adapting WebNLG to DBpedia Evolution for Evaluating LLM-based Triple Extraction](<https://ceur-ws.org/Vol-4313/glow-paper8.pdf>) | Conference paper | OpenAlex |
 | 2026‑11‑05 | [THG-Omni\: Traceable Human-Centric Graph Supervision for Video Reasoning](<https://arxiv.org/abs/2611.07836v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [Do Search-Augmented Recommenders Use the Latest Search Episode?](<https://arxiv.org/abs/2611.06044>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [Chronos\: Sequential Identity-Preserving Video Generation by Temporal Anchoring](<https://doi.org/10.1145/3767308.3837689>) | Conference paper | OpenAlex |

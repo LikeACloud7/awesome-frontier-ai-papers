@@ -1,14 +1,16 @@
 # Apple Papers
 
 - Region: `US`
-- Papers: `1567`
-- Latest: `2026-11-19`
+- Papers: `1569`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#apple)
 
 ## 2026
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [Starlight\: Predicting Design Ranking Reversals in an Autonomous Cars from Measured Steering Gains](<https://doi.org/10.21203/rs.3.rs-11830339/v1>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Composable Soft-Prompt Distillation of RL Experts\: Toward Continual Post-Training](<https://arxiv.org/abs/2611.27376>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Depth Pro 2\: Sharp and Temporally Consistent Metric Monocular Depth](<https://machinelearning.apple.com/research/depth-pro-2-monocular>) | Publication | Official page, Verified affiliation, Hugging Face |
 | 2026‑11‑18 | [Fill-Distance-Guided Active Learning for Causal Function Recovery under Network Interference](<https://arxiv.org/abs/2611.24143>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Exemplarism for the AI age](<https://doi.org/10.1007/s43681-026-01456-x>) | Article | OpenAlex |

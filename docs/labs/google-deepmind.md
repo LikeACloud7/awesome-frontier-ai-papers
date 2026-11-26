@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5961`
+- Papers: `5965`
 - Latest: `2026-11-24`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -17,8 +17,12 @@
 |---|---|---|---|
 | 2026‑11‑24 | [BrightRate-LM\: Representation-Aware Reasoning Quality Assessment for User-Generated HDR Video](<https://doi.org/10.21203/rs.3.rs-10832291/v1>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Benchmarking Non-Invasive Speech BCIs\: Lessons Learned from the 2025 PNPL Competition](<https://proceedings.mlr.press/v276/elvers26a.html>) | Conference paper | OpenAlex |
+| 2026‑11‑20 | [The Dual-Tier Sentiment Framework\: Scalable Multimodal UX Attribution in Web Search](<https://arxiv.org/abs/2611.27899>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations](<https://arxiv.org/abs/2611.27007>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Reliable Behavior Discovery via False Discovery Rate Control](<https://arxiv.org/abs/2611.27104v1>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [Quantum-classical separation in bounded-resource tasks arising from measurement contextuality](<http://arxiv.org/abs/2512.02284>) | Article | OpenAlex |
+| 2026‑11‑19 | [Specification-Grounded Adaptive Triage and Formal Invariant Exclusion Synthesis for Autonomous Silicon Coverage Closure](<https://arxiv.org/abs/2611.26815>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [CarrierKV\: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache](<https://arxiv.org/abs/2611.26857>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [AltRA-Test\: An Alternative Annotator Test for LLM Judges Without Shared Annotators](<https://arxiv.org/abs/2611.26073>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger--Horne--Zeilinger States Discovered with AlphaProof Nexus](<https://arxiv.org/abs/2611.26300>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Frontier models need only one text to unmask its human or AI author](<https://arxiv.org/abs/2611.26216v1>) | Paper | Verified affiliation, OpenAlex |
@@ -31,11 +35,11 @@
 | 2026‑11‑18 | [BuggyMLE\: Scaling Machine Learning Engineering Difficulty with Bug Injection](<https://arxiv.org/abs/2611.25088>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Grasp in Gaussians\: Fast Monocular Reconstruction of Dynamic Hand–Object Interactions](<https://arxiv.org/abs/2604.12929>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [DCGrasp\: Distance-aware Controllable Grasp Generation](<https://arxiv.org/abs/2606.29924>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [Towards Data-Efficient, Real-Time World Models](<https://arxiv.org/abs/2611.22497>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [AlphaGenome 2 predicts regulatory activity and variant effects across cell states](<https://doi.org/10.64898/2026.11.11.765857>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [A Personalized Exercise Assistant Using Reinforcement Learning\: Results From a Large-Scale Mobile Health Randomized-Controlled Trial](<https://doi.org/10.2196/91156>) | Article | OpenAlex |
 | 2026‑11‑17 | [Worldviews in Large Language Models](<https://arxiv.org/abs/2611.22670>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Volumetric Imaging of Advanced Modular Incoherent Scatter Radars (AMISR) Data Using Neural Network](<https://doi.org/10.1088/3049-4753/aec2ed>) | Article | OpenAlex |
-| 2026‑11‑17 | [Towards Data-Efficient, Real-Time World Models](<https://arxiv.org/abs/2611.22497>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [OmniFabric\: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction](<https://arxiv.org/abs/2609.30234>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [LIC-Audit\: How Comparable Are Reported Gains in Learned Image Compression?](<https://arxiv.org/abs/2611.23419>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Harnesses That Improve Themselves\: A Unifying Framework for Self-Improving Agent Harnesses](<https://arxiv.org/abs/2611.22299>) | Preprint | OpenAlex |
@@ -72,6 +76,7 @@
 | 2026‑11‑07 | [Detent\: Batch-Invariant LLM Serving and RL Rollouts at Near-Stock Speed](<https://doi.org/10.48550/arxiv.2611.10611>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [DraftMind\: Efficient Video Understanding in Vision-Language Models via Chain of Draft](<https://doi.org/10.1145/3767308.3835704>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Discovering formally verified quantum programs with AI](<https://arxiv.org/abs/2611.09822>) | Preprint | OpenAlex |
+| 2026‑11‑06 | [Contextual Search and Bilateral Trade with a Trace-Square-Root Potential](<https://arxiv.org/abs/2611.09615>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [What’s Next\: Agentic AI in 2026 and Beyond](<https://doi.org/10.1007/978-3-032-39096-7_22>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Tools, Skills, and Structured Outputs](<https://doi.org/10.1007/978-3-032-39096-7_3>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [The Relational Capacity Framework\: A Lens for AI-Mediated Relationality](<https://arxiv.org/abs/2611.08877>) | Preprint | OpenAlex |
@@ -86,7 +91,6 @@
 | 2026‑11‑06 | [Does Reasoning Improve Psychological Depth in Large Language Models?](<https://arxiv.org/abs/2611.09061>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Deployment, Async Agents, and Security](<https://doi.org/10.1007/978-3-032-39096-7_19>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Declarative Agent Skills](<https://doi.org/10.1007/978-3-032-39096-7_9>) | Book chapter | OpenAlex |
-| 2026‑11‑06 | [Contextual Search and Bilateral Trade with a Trace-Square-Root Potential](<https://arxiv.org/abs/2611.09615>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [Code Execution and Sandbox Agents](<https://doi.org/10.1007/978-3-032-39096-7_12>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Building Agents with Claude Code and Google Antigravity](<https://doi.org/10.1007/978-3-032-39096-7_10>) | Book chapter | OpenAlex |
 | 2026‑11‑06 | [Building AI Agents\: From Design Patterns to Production](<https://doi.org/10.1007/978-3-032-39096-7>) | Book | OpenAlex |
@@ -1234,7 +1238,6 @@
 | 2026‑03‑06 | [DICE\: Discrete Inversion Enabling Controllable Editing for Masked Generative Models](<https://doi.org/10.1109/wacv61042.2026.00081>) | Conference paper | OpenAlex |
 | 2026‑03‑06 | [X-JEPA\: A Novel Joint Learning Cross-Modal Predictive Alignment Framework for Remote Sensing Image Retrieval](<https://doi.org/10.1109/wacv61042.2026.00424>) | Conference paper | OpenAlex |
 | 2026‑03‑06 | [Test-Time Adaptation for Video Highlight Detection Using Meta-Auxiliary Learning and Cross-Modality Hallucinations](<https://doi.org/10.1109/wacv61042.2026.00666>) | Conference paper | OpenAlex |
-| 2026‑03‑06 | [TemplateQO\: Template-Aware and Scalable Query Optimization with Data-Efficient Learning](<https://doi.org/10.1109/icde65706.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑03‑06 | [SAHOO\: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement](<http://arxiv.org/abs/2603.06333>) | Preprint | OpenAlex |
 | 2026‑03‑06 | [Relevance-aware Multi-context Contrastive Decoding for Retrieval-augmented Visual Question Answering](<https://doi.org/10.1109/wacv61042.2026.00829>) | Conference paper | OpenAlex |
 | 2026‑03‑06 | [Pyramidal Spectrum\: Frequency-based Hierarchically Vector Quantized VAE for Videos](<https://doi.org/10.1109/wacv61042.2026.00206>) | Conference paper | OpenAlex |
@@ -1243,6 +1246,7 @@
 | 2026‑03‑06 | [EgoReasoner\: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](<http://arxiv.org/abs/2603.06561>) | Preprint | OpenAlex |
 | 2026‑03‑06 | [Do 3D Large Language Models Really Understand 3D Spatial Relationships?](<http://arxiv.org/abs/2603.23523>) | Preprint | OpenAlex |
 | 2026‑03‑06 | [BrightRate\: Quality Assessment for User-Generated HDR Videos](<https://doi.org/10.1109/wacv61042.2026.00154>) | Conference paper | OpenAlex |
+| 2026‑03‑06 | [A Hierarchical Manufacturing Test Strategy for Custom AI Accelerators\: From ATE to Network-Level Validation](<https://doi.org/10.1109/itc64303.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑03‑05 | [Functional reorganization of motor cortex connectivity during learning](<https://doi.org/10.64898/2026.03.03.709199>) | Preprint | OpenAlex |
 | 2026‑03‑05 | [waveome\: a toolkit for longitudinal omics analysis using Gaussian processes](<https://doi.org/10.64898/2026.03.03.709362>) | Preprint | OpenAlex |
 | 2026‑03‑05 | [Tureis\: Transformer-based Unified Resilience for IoT Devices in Smart Homes](<http://arxiv.org/abs/2603.10038>) | Preprint | OpenAlex |
@@ -1569,11 +1573,11 @@
 | 2026‑01‑01 | [Pano3D\: Unified 3D Reconstruction and Panoptic Segmentation](<https://arxiv.org/abs/2606.14307v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑01 | [LoGeR\: Long-Context Geometric Reconstruction with Hybrid Memory](<https://arxiv.org/abs/2603.03269v2>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑01‑01 | [Google's AI &amp; Economy ATLAS v1\.0\: Mapping Gemini Usage in the Economy](<https://arxiv.org/abs/2608.00038v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Distributional Alignment Games for Answer-Level Fine-Tuning](<https://arxiv.org/abs/2604.27166>) | Article | Official page, OpenAlex |
 | 2026 | [Toward a test of medical AI superintelligence](<https://research.google/pubs/toward-a-test-of-medical-ai-superintelligence/>) | Publication | OpenAlex, Official page |
 | 2026 | [Position\: Explainability Research Must Prioritize Foundations over Ad-hoc Methods](<https://www.microsoft.com/en-us/research/publication/position-explainability-research-must-prioritize-foundations-over-ad-hoc-methods/>) | Publication | Official page, OpenAlex |
 | 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
-| 2026 | [Regional climate risk assessment from climate models using probabilistic machine learning](<https://research.google/pubs/regional-climate-risk-assessment-from-climate-models-using-probabilistic-machine-learning/>) | Publication | OpenAlex, Official page |
 | 2026 | [Towards conversational artificial intelligence for disease management](<https://research.google/pubs/towards-conversational-ai-for-disease-management/>) | Publication | Official page, OpenAlex |
 | 2026 | [TCO-driven Storage Provisioning for Exascale Data Centers](<https://research.google/pubs/tco-driven-storage-provisioning-for-exascale-data-centers/>) | Publication | Official page, OpenAlex |
 | 2026 | [Vibe Coding XR\: Accelerating AI + XR Prototyping with XR Blocks and Gemini](<https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/>) | Publication | Official page, Verified affiliation, OpenAlex |

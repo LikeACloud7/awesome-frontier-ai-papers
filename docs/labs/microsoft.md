@@ -1,8 +1,8 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4421`
-- Latest: `2026-11-22`
+- Papers: `4429`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#microsoft)
 
 ## No date
@@ -41,6 +41,7 @@
 | n\.d\. | [Tracing Agentic Failure from the Flow of Success](<https://www.microsoft.com/en-us/research/publication/tracing-agentic-failure-from-the-flow-of-success/>) | Publication | Official page |
 | n\.d\. | [To trust or not to trust\: Attention-based Trust Management for LLM Multi-Agent Systems](<https://www.microsoft.com/en-us/research/publication/to-trust-or-not-to-trust-attention-based-trust-management-for-llm-multi-agent-systems/>) | Publication | Official page |
 | n\.d\. | [Thinking with Images as Continuous Policy\: Numerical Visual Chain-of-Thought](<https://www.microsoft.com/en-us/research/publication/thinking-with-images-as-continuous-actions-numerical-visual-chain-of-thought/>) | Publication | Official page |
+| n\.d\. | [ThinkMorph-SSL\: Scaling Interleaved Multimodal Reasoning with Pretext Tasks](<https://www.microsoft.com/en-us/research/publication/thinkmorph-ssl-scaling-interleaved-multimodal-reasoning-with-pretext-tasks/>) | Publication | Official page |
 | n\.d\. | [Think Right\: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression](<https://www.microsoft.com/en-us/research/publication/think-right-learning-to-mitigate-under-over-thinking-via-adaptive-attentive-compression/>) | Publication | Official page |
 | n\.d\. | [The anatomy of a resilient phishing detector\: an in-depth analysis of a transformer's interpretability, causality, and robustness](<https://www.microsoft.com/en-us/research/publication/the-anatomy-of-a-resilient-phishing-detector-an-in-depth-analysis-of-a-transformers-interpretability-causality-and-robustness/>) | Publication | Official page |
 | n\.d\. | [The Vocabulary Is Already Here\: Adapting Pretrained Interpretable Features for Generative Recommendation](<https://www.microsoft.com/en-us/research/publication/the-vocabulary-is-already-here-adapting-pretrained-interpretable-features-for-generative-recommendation/>) | Publication | Official page |
@@ -245,12 +246,19 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [VoxelSlicer\: Adaptive Voxel-wise Slicer for Deformable Image Registration](<https://doi.org/10.1109/tmi.2026.3757072>) | Article | OpenAlex |
+| 2026‑11‑24 | [Building a Unified Inline Code Editing Model for GitHub Copilot](<https://arxiv.org/abs/2611.33314v1>) | Paper | Verified affiliation |
 | 2026‑11‑22 | [A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging](<https://arxiv.org/abs/2606.07851>) | Data paper | OpenAlex |
+| 2026‑11‑21 | ["What Should I Do?" Guidelines for Responsibly Integrating AI in Software Engineering](<https://www.microsoft.com/en-us/research/publication/what-should-i-do-guidelines-for-responsibly-integrating-ai-in-software-engineering/>) | Publication | Verified affiliation, Official page |
 | 2026‑11‑21 | [Trust in Machine Learning-Aided Docking\: A Systematic Review of Good Practices for Chemically Reliable Predictions](<https://doi.org/10.1021/acsomega.6c07068>) | Review | OpenAlex |
-| 2026‑11‑21 | ["What Should I Do?" Guidelines for Responsibly Integrating AI in Software Engineering](<https://arxiv.org/abs/2611.28996v1>) | Paper | Verified affiliation |
+| 2026‑11‑20 | [Shared Understanding in Human-AI Teams\: Coordination Continuity in Evolving Work](<https://arxiv.org/abs/2611.27746>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Phenome-wide associations of CT-derived adipose area and density in 22,710 patients\: uncovering unexpected disease connections](<https://doi.org/10.21203/rs.3.rs-11406927/v1>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [LesionAgent\: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT](<https://arxiv.org/abs/2611.27876>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Decision Columns as an Index\: Interpretable Embeddings for Explainable Entity Matching and Search](<https://arxiv.org/abs/2611.27910>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Contexture\: Runtime Context Eviction for High-Throughput Agent Serving](<https://arxiv.org/abs/2611.26980>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Harnessing Medical Visual-Language Models with Agentic Evidence Management](<https://www.microsoft.com/en-us/research/publication/harnessing-medical-visual-language-models-with-agentic-evidence-management/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑19 | [When Agents Play Differently\: Localizing Human--Agent Behavioral Divergence with Conditional Distributional Testing](<https://arxiv.org/abs/2611.26012>) | Preprint | OpenAlex |
+| 2026‑11‑19 | [Pharos\: Learning to Control Rare Events at Scale](<https://arxiv.org/abs/2611.26765>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Latent Action Policies from Suboptimal Data](<https://www.microsoft.com/en-us/research/publication/latent-action-policies-from-suboptimal-data/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑18 | [SimplePro\: A Simple Baseline for Proactive Video Understanding](<https://arxiv.org/abs/2611.23954>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [ReSynth\: Constructing Synthetic Supervision for Multi-Image Understanding](<https://arxiv.org/abs/2611.23996>) | Preprint | OpenAlex |
@@ -605,11 +613,11 @@
 | 2026‑09‑30 | [Referential Uncertainty in Human-AI Collaboration](<https://www.microsoft.com/en-us/research/publication/referential-uncertainty-in-human-ai-collaboration/>) | Publication | Official page, OpenAlex |
 | 2026‑09‑30 | [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](<https://www.microsoft.com/en-us/research/publication/persistent-context-graphs-for-efficient-memory-compaction-in-llm-agents/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑09‑30 | [From Images to Tasks\: Characterizing Multimodal LLM Interactions in the Wild](<https://www.microsoft.com/en-us/research/publication/from-images-to-tasks-characterizing-multimodal-llm-interactions-in-the-wild/>) | Publication | Verified affiliation, Official page |
+| 2026‑09‑30 | [A strategic roadmap for an atomistic machine-learning ecosystem](<https://arxiv.org/abs/2609.39090>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [Transforming Illness to Wellness\: AI, Sensors, and Care on Demand](<https://doi.org/10.30953/thmt.v11.768>) | Article | OpenAlex |
 | 2026‑09‑30 | [The Three Bodies Framework\: A Hands-On Method for Gesture Analysis in HCI](<https://doi.org/10.1145/3821402.3830223>) | Conference paper | OpenAlex |
 | 2026‑09‑30 | [Mixture of Decoders for Diverse Dialog Response Generation](<https://arxiv.org/abs/2610.00621>) | Preprint | OpenAlex |
 | 2026‑09‑30 | [IMoKGNN\: Dual-Stream Fusion of Generic and Task-Specific Language Model Features for Graph Neural Networks](<https://doi.org/10.1145/3848635>) | Article | OpenAlex |
-| 2026‑09‑30 | [A strategic roadmap for an atomistic machine-learning ecosystem](<https://arxiv.org/abs/2609.39090>) | Preprint | OpenAlex |
 | 2026‑09‑29 | [Follow the Entities\: A Corpus Map for Agentic Search](<https://www.microsoft.com/en-us/research/publication/follow-the-entities-a-corpus-map-for-agentic-search/>) | Publication | OpenAlex, Hugging Face, Official page |
 | 2026‑09‑29 | [TACIT\: Optimization Models that Learn from Their Mistakes](<https://www.microsoft.com/en-us/research/publication/tacit-optimization-models-that-learn-from-their-mistakes/>) | Publication | OpenAlex, Official page |
 | 2026‑09‑29 | [SecureVibe\: Making Vibe Coding More Secure](<https://www.microsoft.com/en-us/research/publication/securevibe-making-vibe-coding-more-secure/>) | Publication | Verified affiliation, OpenAlex, Official page |

@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4166`
-- Latest: `2026-11-24`
+- Papers: `4171`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,9 +19,14 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [An efficient high-precision surrogate model for calculating the failure probability of gas pipelines](<https://doi.org/10.1016/j.engstruct.2026.124188>) | Article | OpenAlex |
 | 2026‑11‑24 | [RWKV-MIL\: Efficient Weakly Supervised Histopathology Image Segmentation via Hilbert Curve-Based Linear Attention](<https://doi.org/10.3390/diagnostics16233950>) | Article | OpenAlex |
 | 2026‑11‑24 | [From language to world states\: a survey of world models in multimodal reasoning](<https://doi.org/10.1108/ftcgv-10-2025-0121>) | Article | OpenAlex |
 | 2026‑11‑21 | [Lessons Learned from Auto-Bidding in the Large-Scale Auctions Competition at NeurIPS 2024](<https://proceedings.mlr.press/v276/zhang26a.html>) | Conference paper | OpenAlex |
+| 2026‑11‑20 | [Weave\: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels](<https://arxiv.org/abs/2611.27765>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [CoEvoBench\: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](<https://arxiv.org/abs/2611.27116>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Cleave\: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs](<https://arxiv.org/abs/2611.27426>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [AutoOntologyBench\: A Task-Grounded Benchmark for Agentic Knowledge Engineering](<https://arxiv.org/abs/2611.27734>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Why Flat Drafts Stay Flat\: Region-Mean Latents Govern Texture in Flow-Based Image Generation](<https://arxiv.org/abs/2611.25930>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [TrajCal\: Trajectory-Calibrated Time Schedules for Few-Step Flow Sampling](<https://arxiv.org/abs/2611.25847>) | Preprint | OpenAlex |
@@ -721,8 +726,8 @@
 | 2026‑08‑06 | [ATLAS\: Population-Level Disease Locus Discovery via Differential Attention in Genomic Language Models](<https://doi.org/10.1145/3770855.3819004>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [&lt;scp&gt;Caduceus\:&lt;/scp&gt; MoE Foundation Models for Unifying Biological and Natural Language](<https://doi.org/10.1145/3770855.3818885>) | Conference paper | OpenAlex |
 | 2026‑08‑06 | [CEDAR\: Controlled and Event-Driven Demand Forecasting via Residual Decomposition](<https://arxiv.org/abs/2608.25871v1>) | Paper | OpenAlex, Verified affiliation |
-| 2026‑08‑05 | [MetaVideoAgent\: Automated Video-Agent Evolution for Long-Form Video Understanding](<https://arxiv.org/abs/2608.04587v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑05 | [Private Direct Preference Optimization for LLM Alignment](<https://arxiv.org/abs/2608.05040>) | Preprint | OpenAlex |
+| 2026‑08‑05 | [MetaVideoAgent\: Automated Video-Agent Evolution for Long-Form Video Understanding](<https://arxiv.org/abs/2608.04587v1>) | Paper | OpenAlex, Verified affiliation |
 | 2026‑08‑05 | [State2State\: Environment-Derived Mid-Training for LLM Agents](<https://arxiv.org/abs/2608.04934>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Spoken Function Calling\: A New Perspective on Spoken Language Understanding for Large Audio Language Models](<https://arxiv.org/abs/2608.05126>) | Preprint | OpenAlex |
 | 2026‑08‑05 | [Search2Skill\: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning](<https://arxiv.org/abs/2608.05245>) | Preprint | OpenAlex |
@@ -1446,10 +1451,10 @@
 | 2026‑03‑07 | [VisualDeltas\: Learning Preferences from Visual Quality Perturbations](<http://arxiv.org/abs/2603.07272>) | Preprint | OpenAlex |
 | 2026‑03‑07 | [Assessing cognitive load in navigation tasks through EEG\: Spatio-temporal multi-scale analysis](<https://doi.org/10.1016/j.bspc.2026.110048>) | Article | OpenAlex |
 | 2026‑03‑06 | [TumorChain\: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis](<http://arxiv.org/abs/2603.05867>) | Preprint | OpenAlex |
-| 2026‑03‑06 | [TemplateQO\: Template-Aware and Scalable Query Optimization with Data-Efficient Learning](<https://doi.org/10.1109/icde65706.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑03‑06 | [Reference-guided Policy Optimization for Molecular Optimization via LLM Reasoning](<http://arxiv.org/abs/2603.05900>) | Preprint | OpenAlex |
 | 2026‑03‑06 | [Making Training-Free Diffusion Segmentors Scale with the Generative Power](<http://arxiv.org/abs/2603.06178>) | Preprint | OpenAlex |
 | 2026‑03‑06 | [Efficient Vector Search in the Wild\: One Model for Multi-K Queries](<https://doi.org/10.48550/arxiv.2603.06159>) | Preprint | OpenAlex |
+| 2026‑03‑06 | [A Hierarchical Manufacturing Test Strategy for Custom AI Accelerators\: From ATE to Network-Level Validation](<https://doi.org/10.1109/itc64303.2026.00061>) | Conference paper | OpenAlex |
 | 2026‑03‑05 | [MASQuant\: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](<http://arxiv.org/abs/2603.04800>) | Article | OpenAlex |
 | 2026‑03‑05 | [FedAFD\: Multimodal Federated Learning via Adversarial Fusion and Distillation](<http://arxiv.org/abs/2603.04890>) | Preprint | OpenAlex |
 | 2026‑03‑05 | [Beyond Scattered Acceptance\: Fast and Coherent Inference for DLMs via Longest Stable Prefixes](<http://arxiv.org/abs/2603.05454>) | Preprint | OpenAlex |
