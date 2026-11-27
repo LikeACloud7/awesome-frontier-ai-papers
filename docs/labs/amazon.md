@@ -1,7 +1,7 @@
 # Amazon Papers
 
 - Region: `US`
-- Papers: `3914`
+- Papers: `3920`
 - Latest: `2026-11-25`
 - [Back to README](../../README.md#amazon)
 
@@ -16,7 +16,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [Efficient Indirect LLM Jailbreak by Leveraging Visual Modality](<https://doi.org/10.1109/tpami.2026.3757178>) | Article | OpenAlex |
 | 2026‑11‑25 | [Anatomical Priors and Voxel Selection as Interchangeable Dimensionality Controls in fMRI Decoding\: A Leakage-Free Study](<https://doi.org/10.21203/rs.3.rs-10828698/v2>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [fork() for Agents\: Agent Kernel for Non-blocking LLM Orchestration](<https://arxiv.org/abs/2611.31727>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Sound Distributed Runtime Verification under Incomplete Evidence](<https://arxiv.org/abs/2611.32868>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [MELODI\: Similarity-Identity Decoupling for Lightweight Ranking](<https://arxiv.org/abs/2611.31940>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Ultrasound Watermark\: Real-time Acoustic Watermarking against Voice Scams on Smartphones](<https://arxiv.org/abs/2611.30106>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Bi-Refine\: Semantic Verification-Guided Progressive Refinement for Moment Retrieval](<https://arxiv.org/abs/2611.30055>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [MMU-RAGent\: Massive Multi-Modal User-Centric Retrieval Augmented Generation Benchmark](<https://proceedings.mlr.press/v276/chan26a.html>) | Conference paper | OpenAlex |
 | 2026‑11‑21 | [NeurIPS 2025 Foundation Models Meet Embodied Agents Challenge\: Systems, Analysis, and Lessons Learned](<https://proceedings.mlr.press/v276/bao26a.html>) | Conference paper | OpenAlex |
 | 2026‑11‑21 | [A Survey of Machine Learning Techniques for Payroll Security in ERP Tax Systems](<https://doi.org/10.47672/ejt.3035>) | Article | OpenAlex |
@@ -24,7 +30,7 @@
 | 2026‑11‑20 | [Looking Right Is Not Being Right\: Evaluating the Geometry of Agent-Built 3D Scenes](<https://arxiv.org/abs/2611.26937>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Explicit Style Extraction for Personalized Long-Form Text Generation](<https://arxiv.org/abs/2611.27211>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Enterprise Conversational AI Platform Architecture\: Orchestration Systems, Retrieval-Augmented Generation, Plugin Ecosystems, Streaming Infrastructure, and Latency Optimization at Enterprise Scale](<https://al-kindipublisher.com/index.php/jcsts/article/view/13933>) | Article | OpenAlex |
-| 2026‑11‑20 | [Beyond Relevance\: An Empirical Study of Multimodal LLMs for Diversity-Aware Recommendation Reranking](<https://arxiv.org/abs/2611.28379v1>) | Paper | Verified affiliation |
+| 2026‑11‑20 | [Beyond Relevance\: An Empirical Study of Multimodal LLMs for Diversity-Aware Recommendation Reranking](<https://arxiv.org/abs/2611.28379v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑19 | [LEAN\: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](<https://arxiv.org/abs/2611.26805>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Beyond Demographic Discrimination\: Benchmarking Normative-Descriptive Calibration in LLMs](<https://arxiv.org/abs/2611.26870>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Held While Waiting\: What LLM Agent Sessions Reserve on Serverless and Agent Runtimes](<https://arxiv.org/abs/2611.26480v1>) | Paper | Verified affiliation, OpenAlex |
@@ -81,6 +87,7 @@
 | 2026‑11‑04 | [$D^2$-OPD\: Separating Direction and Distance in Extrapolative On-Policy Distillation](<https://arxiv.org/abs/2611.07241>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [GRAIL 2026\: Workshop on Generative, Retrieval-augmented, and Agentic Intelligence for Personalization](<https://doi.org/10.1145/3799682.3839287>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [DuoZone\: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System](<http://arxiv.org/abs/2511.15676>) | Article | OpenAlex |
+| 2026‑11‑03 | [Beyond Exposure\: Dynamic Income-Fair Ranking under Time-Varying Provider Value](<https://arxiv.org/abs/2602.03345>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [TrojanShot\: Reinforced Demonstrations Yield Sample-Efficient Jailbreaks and Guardrails for LLMs](<https://doi.org/10.1145/3799682.3841000>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Temporal Moment Generation\: A New Recommendation Task and Cost-Efficient Distillation for Outbound Marketing at Scale](<https://doi.org/10.1145/3799682.3839260>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [ScamWorld\: An Interactive Environment for Evaluating Web Agents Against Online Fraud](<https://arxiv.org/abs/2611.04879>) | Preprint | OpenAlex |
@@ -92,7 +99,6 @@
 | 2026‑11‑03 | [Efficient Frame Selection for E-Commerce Video Analysis](<https://doi.org/10.1145/3799682.3840161>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Cognitive Bias Signatures in Search-Equipped LLM Agents\: A Stage-Resolved Analysis](<https://arxiv.org/abs/2611.05720>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Bridging Queries and Brands\: Entity Linking for Large-Scale Product Search](<https://doi.org/10.1145/3799682.3840092>) | Conference paper | OpenAlex |
-| 2026‑11‑03 | [Beyond Exposure\: Dynamic Income-Fair Ranking under Time-Varying Provider Value](<https://arxiv.org/abs/2602.03345>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Ask to Be Sure\: Informative Interactions for Confident Multi-Turn LLM Recommendation](<https://arxiv.org/abs/2608.15949>) | Conference paper | OpenAlex |
 | 2026‑11‑03 | [Amplified and Emergent Safety Risks in Multi-Agent Recommendation and Retrieval](<https://doi.org/10.1145/3799682.3839266>) | Conference paper | OpenAlex |
 | 2026‑11‑02 | [WASP-Mem\: Let Agent Organize Procedural Memory\. Human Spend Effort on Diagnosis](<https://arxiv.org/abs/2611.04003>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2288`
+- Papers: `2302`
 - Latest: `2026-11-25`
 - [Back to README](../../README.md#nvidia)
 
@@ -17,18 +17,32 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑25 | [Artificial intelligence and machine learning for short-to-medium range weather prediction](<https://doi.org/10.1038/s43017-026-00849-0>) | Review | OpenAlex |
+| 2026‑11‑25 | [Navigating the Optimization Gap\: Challenges and Improvements in Deep Learning Model Deployment](<https://doi.org/10.1613/jair.1.22113>) | Article | OpenAlex |
 | 2026‑11‑25 | [Letting Models Manage Their Own Context\: Where We Stand](<https://huggingface.co/papers/2611.34147>) | Paper | Hugging Face |
+| 2026‑11‑25 | [Artificial intelligence and machine learning for short-to-medium range weather prediction](<https://doi.org/10.1038/s43017-026-00849-0>) | Review | OpenAlex |
+| 2026‑11‑25 | [SOLVE\: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator](<https://arxiv.org/abs/2611.34750v1>) | Paper | Verified affiliation |
+| 2026‑11‑24 | [TimeTravelContainer\: A Live Forking Sandbox for Stateful Agent Exploration](<https://arxiv.org/abs/2611.32255>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [ShellBench\: What Matters More for AI Agents, Models, or Harness for Everyday Tasks](<https://arxiv.org/abs/2611.32946>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Regularizing elastic full-waveform inversion using a conditional denoising probabilistic model](<https://doi.org/10.36922/jse026230099>) | Article | OpenAlex |
+| 2026‑11‑24 | [Recursive Collective Intelligence\: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems](<https://arxiv.org/abs/2611.32606>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [CoT-Proxy\: Cross-Format Transfer for Distilling Long-Horizon Policies](<https://arxiv.org/abs/2611.33148>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Attestation is All You Need\: Toward a Zero-Trust Architecture for HPC AI Agents](<https://arxiv.org/abs/2611.32958>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Instant LiDAR\: Feed-Forward Gaussian Reconstruction for LiDAR Simulation](<https://arxiv.org/abs/2611.32042v1>) | Paper | Verified affiliation |
+| 2026‑11‑24 | [Generalized Tensor Parallelism\: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s](<https://arxiv.org/abs/2611.32057v1>) | Paper | Verified affiliation |
+| 2026‑11‑24 | [FocusAnchor\: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues](<https://arxiv.org/abs/2611.32970v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [A Mesh to Remember\: Persistent Appearance for Interactive Video Worlds](<https://arxiv.org/abs/2611.32445v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [Model evaluation metrics of Virtual Cell Challenge 2026](<https://doi.org/10.64898/2026.11.17.767214>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Nemotron-Labs-VisualCreation\: Pixel as Code for Agentic Visual Creation](<https://arxiv.org/abs/2611.31358v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [Lyris\: Layout-Guided Long Video Generation with Persistent 3D Memory](<https://arxiv.org/abs/2611.31239v2>) | Paper | Verified affiliation |
+| 2026‑11‑22 | [Tacinf\: A Unified Tactile Infrastructure for Robot Manipulation](<https://arxiv.org/abs/2611.29240v1>) | Paper | Verified affiliation |
+| 2026‑11‑21 | [Analytical Modeling and Optimal GPU Provisioning for Disaggregated LLM Inference](<https://arxiv.org/abs/2611.28760>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Composable Soft-Prompt Distillation of RL Experts\: Toward Continual Post-Training](<https://arxiv.org/abs/2611.27376>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Beyond outcome rewards\: Post-rationale distribution optimization for selective prediction in reasoning models](<https://arxiv.org/abs/2609.38850>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [SiliconGym\: A Versatile Reinforcement Learning Environment for Agentic EDA](<https://arxiv.org/abs/2611.25658>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Posterior Matching Distillation](<https://arxiv.org/abs/2611.26629>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [VideoRNG\: Relightable Neural Gaussians from Generative Video Models](<https://arxiv.org/abs/2611.25338v1>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [SceneAnything\: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video](<https://arxiv.org/abs/2611.25340v1>) | Paper | Verified affiliation |
+| 2026‑11‑19 | [PRIO\: Pre-trained Representation for Interactive Objects in 4D Worlds](<https://arxiv.org/abs/2611.25500v1>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [Coherent Moment Propagation\: Epistemic Uncertainty for Pre-trained Robot Policies](<https://arxiv.org/abs/2611.26855v1>) | Paper | Verified affiliation |
 | 2026‑11‑18 | [AI Film Frontiers\: Towards New Paradigms of Filmmaking](<https://doi.org/10.1145/3829341.3849998>) | Conference paper | OpenAlex |
 | 2026‑11‑18 | [The Future of AI &amp; XR\: How Will AI Reshape the Spatial Computing Pipeline?](<https://doi.org/10.1145/3829341.3850002>) | Conference paper | OpenAlex |
@@ -50,8 +64,8 @@
 | 2026‑11‑16 | [Nemotron 3\.5 Bolt E4B 4GB\: An Open and Efficient Small Language Model for Fast Conversational Agents](<https://arxiv.org/abs/2611.20771v1>) | Paper | Verified affiliation |
 | 2026‑11‑16 | [Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures](<https://arxiv.org/abs/2611.20734v1>) | Paper | Verified affiliation |
 | 2026‑11‑15 | [Biomolecular design through latent reasoning with RFD4-Proteina](<https://doi.org/10.64898/2026.11.12.766037>) | Preprint | OpenAlex |
-| 2026‑11‑14 | [Nahual\: A Sequence Model for Language and Atoms](<https://arxiv.org/abs/2611.19072>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [FLASH\: Fault-Led, Attested, Secure Hybrid-Key Checkpoint for Confidential GPU](<https://doi.org/10.1145/3828523.3857076>) | Conference paper | OpenAlex |
+| 2026‑11‑14 | [Nahual\: A Sequence Model for Language and Atoms](<https://arxiv.org/abs/2611.19072>) | Preprint | OpenAlex |
 | 2026‑11‑14 | [Beyond Controllability\: Speaker Diversity in Instruction-Guided Text-to-Speech](<https://arxiv.org/abs/2611.19030>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Token2Tile\: Token-Wise Sparse Attention with Tile Execution through a Low-Rank Space for Video DiTs](<https://arxiv.org/abs/2611.17930>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Training Reasoning Models in Simulation to Natively Use Real Robots](<https://arxiv.org/abs/2611.18562v1>) | Paper | Verified affiliation |
@@ -93,9 +107,9 @@
 | 2026‑11‑04 | [FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices](<https://arxiv.org/abs/2611.06994>) | Preprint | OpenAlex |
 | 2026‑11‑04 | [VABAR\: A Variational Automation Benchmark for Agentic Robotics](<https://arxiv.org/abs/2611.06881v1>) | Paper | Verified affiliation |
 | 2026‑11‑04 | [NanoKV\: High-Ratio KV Cache Compression for Autoregressive Video Generation](<https://arxiv.org/abs/2611.06377v1>) | Paper | Verified affiliation |
+| 2026‑11‑03 | [ExPert infers causal perturbations from cell states across biological and clinical contexts](<https://doi.org/10.64898/2026.11.02.762549>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](<https://arxiv.org/abs/2611.05041>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Ground-Wing\: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](<https://arxiv.org/abs/2611.04571>) | Preprint | OpenAlex |
-| 2026‑11‑03 | [ExPert infers causal perturbations from cell states across biological and clinical contexts](<https://doi.org/10.64898/2026.11.02.762549>) | Preprint | OpenAlex |
 | 2026‑11‑03 | [Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs](<https://arxiv.org/abs/2611.05249v1>) | Paper | Verified affiliation |
 | 2026‑11‑03 | [ModelBlaster\: Closing the Performance Gap through Learning-Augmented Agents Across Models, Kernels and Hardware Backends](<https://arxiv.org/abs/2611.04104v1>) | Paper | Verified affiliation |
 | 2026‑11‑02 | [VLALagBench\: Understanding When and Why VLA Inference Latency Matters](<https://arxiv.org/abs/2611.03103>) | Preprint | OpenAlex |

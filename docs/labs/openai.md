@@ -255,7 +255,7 @@
 | 2025‑09‑15 | [How people are using ChatGPT](<https://openai.com/index/how-people-are-using-chatgpt>) | Research post | Official page |
 | 2025‑09‑15 | [Addendum to GPT-5 system card\: GPT-5-Codex](<https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex>) | Publication | Official page |
 | 2025‑09‑14 | [Novel Paradigm for Privacy-Preserving Data Sharing and Anonymization in Smart Homes](<https://doi.org/10.1109/icaifi66942.2025.11326168>) | Conference paper | OpenAlex |
-| 2025‑09‑08 | [Measuring and Mitigating (Over)reliance to Build Human-Compatible AI](<https://arxiv.org/abs/2509.08010>) | Conference paper | OpenAlex |
+| 2025‑09‑08 | [Measuring and Mitigating (Over)reliance to Build Human-Compatible AI](<https://www.microsoft.com/en-us/research/publication/measuring-and-mitigating-overreliance-to-build-human-compatible-ai/>) | Publication | OpenAlex, Official page |
 | 2025‑09‑05 | [Why language models hallucinate](<https://openai.com/index/why-language-models-hallucinate>) | Research post | Official page |
 | 2025‑09‑02 | [Building more helpful ChatGPT experiences for everyone](<https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone>) | Research post | Official page |
 | 2025‑08‑27 | [OpenAI and Anthropic share findings from a joint safety evaluation](<https://openai.com/index/openai-anthropic-safety-evaluation>) | Research post | Official page |

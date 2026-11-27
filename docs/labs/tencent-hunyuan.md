@@ -1,7 +1,7 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `4020`
+- Papers: `4034`
 - Latest: `2026-11-25`
 - [Back to README](../../README.md#tencenthunyuan)
 
@@ -26,16 +26,29 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [Narrative Action Evaluation With Contrastive Text Generation](<https://doi.org/10.1109/tpami.2026.3756994>) | Article | OpenAlex |
 | 2026‑11‑25 | [An automatic generation method of piano fingerings based on BiGRU and model reinforcement learning](<https://doi.org/10.1007/s44163-026-02763-2>) | Article | OpenAlex |
 | 2026‑11‑24 | [SPARC\: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation](<https://huggingface.co/papers/2611.34064>) | Preprint | Official page |
+| 2026‑11‑24 | [ProxyGenBench\: Benchmarking Proxy-Guided Video Generation](<https://huggingface.co/papers/2611.34457>) | Preprint | Official page |
 | 2026‑11‑24 | [AIRIS\: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos](<https://huggingface.co/papers/2611.34347>) | Preprint | Official page |
-| 2026‑11‑24 | [OmniEVIE\: Evidence-Vector-Informed Embedding for Multi-modal Retrieval](<https://arxiv.org/abs/2611.32203v1>) | Paper | Verified affiliation |
-| 2026‑11‑23 | [VenusOCR2\.0\: Towards Efficient and Effective Document Parsing](<https://huggingface.co/papers/2611.32617>) | Preprint | Official page |
-| 2026‑11‑22 | [WeMM-Ecom\: Advancing Multimodal Content Understanding for WeChat E-Commerce](<https://huggingface.co/papers/2611.30662>) | Preprint | Official page |
+| 2026‑11‑24 | [SkillCore\: Internalizing Generalizable Skills via Scaffolding-Removed Fine-Tuning](<https://arxiv.org/abs/2611.32246>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Online Environment Repair for Coding Agents](<https://arxiv.org/abs/2611.32037>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [LookAnything\: A Foundation Model for Holistic Gaze Following](<https://arxiv.org/abs/2611.32351>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [LARF\: Learning-aligned Reasoning Framework for Search Relevance](<https://arxiv.org/abs/2611.32125>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Follow-Bench 2\.0\: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following](<https://arxiv.org/abs/2611.32579>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Coding4Games\: Can Modern Coding Agents Play Modern Video Games?](<https://arxiv.org/abs/2611.31974>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [OmniEVIE\: Evidence-Vector-Informed Embedding for Multi-modal Retrieval](<https://arxiv.org/abs/2611.32203v1>) | Paper | Verified affiliation, OpenAlex |
+| 2026‑11‑23 | [VenusOCR2\.0\: Towards Efficient and Effective Document Parsing](<https://huggingface.co/papers/2611.32617>) | Preprint | Official page, OpenAlex |
+| 2026‑11‑23 | [EmboEagle\: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation](<https://arxiv.org/abs/2611.31173>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [3AGameFactory-Motion\: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets](<https://arxiv.org/abs/2611.30013>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [WeMM-Ecom\: Advancing Multimodal Content Understanding for WeChat E-Commerce](<https://huggingface.co/papers/2611.30662>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑22 | [A Pipeline-Parallel System for Depth-Recurrent Models](<https://huggingface.co/papers/2611.30581>) | Preprint | Official page |
+| 2026‑11‑22 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](<https://arxiv.org/abs/2611.29338>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [SUAF\: Spectral Universal Advantage Features for Zero-Shot Policy Improvement](<https://arxiv.org/abs/2611.27919>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Physics-Guided Recursive Self-Improvement of Amortized Bayesian Inference Across Physics](<https://arxiv.org/abs/2611.27006>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [PP-CFG\: Polarity-Preserving Guidance for Controllable Few-Step Image and Video Generation](<https://arxiv.org/abs/2611.27266>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [WePM\: Hierarchical Conflict Reconciliation for Unified MLLMs](<https://arxiv.org/abs/2611.27365>) | Paper | Verified affiliation |
-| 2026‑11‑20 | [Refrain\: Learning Multi-Shot Consistency from Inconsistent References for A$^2$O Video Generation](<https://arxiv.org/abs/2611.27806>) | Paper | Verified affiliation |
+| 2026‑11‑20 | [Refrain\: Learning Multi-Shot Consistency from Inconsistent References for A$^2$O Video Generation](<https://arxiv.org/abs/2611.27806>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑20 | [Hy-MT3\: More Accurate, Robust and Practical Multilingual Translation Models in the Wild](<https://arxiv.org/abs/2611.27673>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Visualization Research on Disease Distribution of Medium-Small Span Concrete Girder Bridges during Maintenance and Operation Period Based on Traffic Digital Base Map](<https://doi.org/10.1061/9780784486948.401>) | Conference paper | OpenAlex |
@@ -49,6 +62,7 @@
 | 2026‑11‑18 | [Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](<https://huggingface.co/papers/2611.26268>) | Preprint | Official page |
 | 2026‑11‑18 | [GENECraft\: A Function- and Prior-Constrained Discrete Dynamical System for Controllable Regulatory DNA Design](<https://doi.org/10.64898/2026.11.16.767190>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Can Omni-modal LLMs Understand Spoken Intentions?](<https://arxiv.org/abs/2611.24706>) | Preprint | OpenAlex |
+| 2026‑11‑18 | [StateBind\: Exposing the Symbol-to-State Binding Gap in Visual Measurement](<https://arxiv.org/abs/2611.28118>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [One Shot, Any View\: High-Fidelity Video Reshooting with Geometry Guidance and Visual References](<https://arxiv.org/abs/2611.24253>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [From Restoration to Redrawing\: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing](<https://arxiv.org/abs/2611.24084>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [Evidence-Based Credit Assignment for Search-Augmented Language Models](<https://huggingface.co/papers/2611.23824>) | Preprint | Official page, OpenAlex |
@@ -1146,11 +1160,11 @@
 | 2026‑03‑18 | [Universal Skeleton Understanding via Differentiable Rendering and MLLMs](<https://arxiv.org/abs/2603.18003>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [Offline Exploration-Aware Fine-Tuning for Long-Chain Mathematical Reasoning](<http://arxiv.org/abs/2603.16206>) | Preprint | OpenAlex |
 | 2026‑03‑17 | [AdaMem\: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents](<https://arxiv.org/abs/2603.16496>) | Preprint | OpenAlex |
+| 2026‑03‑16 | [HYDRA\: Representation Harmonized Tokenization for Multimodal Generation and Understanding](<https://www.microsoft.com/en-us/research/publication/hydra-representation-harmonized-tokenization-for-multimodal-generation-and-understanding/>) | Publication | Verified affiliation, Official page |
 | 2026‑03‑16 | [Erratum\: Recommendation as Instruction Following\: A Large Language Model Empowered Recommendation Approach](<https://doi.org/10.1145/3795143>) | Article | OpenAlex |
 | 2026‑03‑16 | [From Prototype to Nationwide Deployment\: A 5-year Retrospect of a WiFi-based Outdoor Localization System](<https://doi.org/10.1145/3790112>) | Article | OpenAlex |
 | 2026‑03‑16 | [OMNIFLOW\: A Physics-Grounded Multimodal Agent for Generalized Scientific Reasoning](<http://arxiv.org/abs/2603.15797>) | Preprint | OpenAlex |
 | 2026‑03‑16 | [GAIN\: Global-Atomic INteraction Graph for Few-Shot Class-Incremental Learning](<https://doi.org/10.1109/tcsvt.2026.3673928>) | Article | OpenAlex |
-| 2026‑03‑16 | [HYDRA\: Representation Harmonized Tokenization for Multimodal Generation and Understanding](<https://arxiv.org/abs/2603.15228>) | Paper | Verified affiliation |
 | 2026‑03‑15 | [Controllable Accent Normalization via Discrete Diffusion](<https://arxiv.org/abs/2603.14275>) | Preprint | OpenAlex |
 | 2026‑03‑14 | [S³-MSD\: Large Vision-Language Model for Explainable and Generalizable Multi-modal Sarcasm Detection](<https://doi.org/10.1609/aaai.v40i41.40834>) | Article | OpenAlex |
 | 2026‑03‑14 | [Incorporating Self-Rewriting into Large Language Model Reasoning Reinforcement](<https://doi.org/10.1609/aaai.v40i40.40738>) | Article | OpenAlex |

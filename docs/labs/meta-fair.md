@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1978`
-- Latest: `2026-11-21`
+- Papers: `1981`
+- Latest: `2026-11-22`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,8 +44,11 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑22 | [When Does Decomposition Help? Empirical Study on Workload-Architecture Affinity in LLM Inference Serving](<https://arxiv.org/abs/2611.29104>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [S1Arena-MM\: Which Multimodal Decisions Can Be Left to System 1?](<https://arxiv.org/abs/2611.29773>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Benchmarking Non-Invasive Speech BCIs\: Lessons Learned from the 2025 PNPL Competition](<https://proceedings.mlr.press/v276/elvers26a.html>) | Conference paper | OpenAlex |
 | 2026‑11‑21 | [Quality Controls Can Improve the Replicability of Survey Experiments Using Online Nonprobability Panels](<https://doi.org/10.1093/poq/nfag073>) | Article | OpenAlex |
+| 2026‑11‑20 | [Two Actions from One State\: Fork Futures Teach JEPA World Models to Compare](<https://arxiv.org/abs/2611.28350>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [TouchBench\: Can Vision-Language Models Feel Invisible Physical Properties?](<https://arxiv.org/abs/2611.26883>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Learning Generative Ranking Policies for Whole-Page Optimization](<https://arxiv.org/abs/2611.25527>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models](<https://arxiv.org/abs/2611.26531>) | Preprint | OpenAlex |

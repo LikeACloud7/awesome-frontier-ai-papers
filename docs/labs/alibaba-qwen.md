@@ -1,8 +1,8 @@
 # Alibaba/Qwen Papers
 
 - Region: `China`
-- Papers: `4171`
-- Latest: `2026-11-25`
+- Papers: `4185`
+- Latest: `2026-11-26`
 - [Back to README](../../README.md#alibabaqwen)
 
 ## No date
@@ -19,10 +19,24 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑26 | [A Semantic Compression and Lyapunov Adaptive Fusion Framework for Bandwidth-Limited Cloud-Edge Collaborative Sensing](<https://doi.org/10.3390/a19121037>) | Article | OpenAlex |
 | 2026‑11‑25 | [An efficient high-precision surrogate model for calculating the failure probability of gas pipelines](<https://doi.org/10.1016/j.engstruct.2026.124188>) | Article | OpenAlex |
+| 2026‑11‑24 | [RubikSQL-HB\: Agentic Text-to-SQL with Knowledge in the Loop](<https://arxiv.org/abs/2611.32772>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [RWKV-MIL\: Efficient Weakly Supervised Histopathology Image Segmentation via Hilbert Curve-Based Linear Attention](<https://doi.org/10.3390/diagnostics16233950>) | Article | OpenAlex |
+| 2026‑11‑24 | [RELAY\: Learning Compatible Representations One Encoder at a Time](<https://arxiv.org/abs/2611.31882>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Making Evaluation Explicit Is Not Enough\: Supervising the Evaluation Process in Generative Reward Models](<https://arxiv.org/abs/2611.32161>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [LazUnirec\: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation](<https://arxiv.org/abs/2611.32590>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [From language to world states\: a survey of world models in multimodal reasoning](<https://doi.org/10.1108/ftcgv-10-2025-0121>) | Article | OpenAlex |
+| 2026‑11‑24 | [ExpGuard\: Guarding Long-Horizon LLM Agents against Corrupted Experience](<https://arxiv.org/abs/2611.32085>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration](<https://arxiv.org/abs/2611.32993>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Decompose and Describe\: Narrowing the Diagnosis-to-Report Gap in 3D CT Report Generation](<https://arxiv.org/abs/2611.30458>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Antiphony\: A Dual-Process Agent for Deepfake Video Detection with Real-Video Calibration](<https://arxiv.org/abs/2611.29999>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [AnchorCredit\: Output-Anchored Credit Assignment for Structured Generation with Multiple Verifiable Rewards](<https://arxiv.org/abs/2611.30881>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [PrimiTok\: Learning to Diversify and Allocate Primitives for Visual Tokenization](<https://arxiv.org/abs/2611.29311>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [Edit-Induced Dependency Mismatch\: Propagation Omissions, Recovery, and Evaluation Blind Spots in Coding Agents](<https://arxiv.org/abs/2611.29242>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [PROSPER\: LLMs as Sparse Retrievers for First-Stage Product Search](<https://arxiv.org/abs/2611.28645>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Lessons Learned from Auto-Bidding in the Large-Scale Auctions Competition at NeurIPS 2024](<https://proceedings.mlr.press/v276/zhang26a.html>) | Conference paper | OpenAlex |
+| 2026‑11‑21 | [Improving the Improver\: Semantic PID Control for Medical Agent Self-Improvement](<https://arxiv.org/abs/2611.28680>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Weave\: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels](<https://arxiv.org/abs/2611.27765>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [CoEvoBench\: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](<https://arxiv.org/abs/2611.27116>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Cleave\: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs](<https://arxiv.org/abs/2611.27426>) | Preprint | OpenAlex |
@@ -100,8 +114,8 @@
 | 2026‑11‑09 | [OverlapAdvisor\: Modeling and Adapting Computation-Communication Overlap for Distributed MoE Serving](<https://arxiv.org/abs/2611.11857>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [Calibrating Document-Local Boundaries for Contextual Chunk Retrieval](<https://arxiv.org/abs/2611.12097>) | Preprint | OpenAlex |
 | 2026‑11‑09 | [TRIAD\: Multimodal Retrieval across Abstraction, Constraints, and State](<https://arxiv.org/abs/2611.12364v1>) | Paper | Verified affiliation |
-| 2026‑11‑07 | [SWEET\: Mitigating Spurious Feature Reliance in LLM Reasoning via Weight Editing](<https://arxiv.org/abs/2611.10974>) | Preprint | OpenAlex |
 | 2026‑11‑07 | [ADIndex\: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation](<https://arxiv.org/abs/2611.12956>) | Preprint | OpenAlex |
+| 2026‑11‑07 | [SWEET\: Mitigating Spurious Feature Reliance in LLM Reasoning via Weight Editing](<https://arxiv.org/abs/2611.10974>) | Preprint | OpenAlex |
 | 2026‑11‑06 | [MOON3\.0\: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding](<https://arxiv.org/abs/2604.00513>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [MAR-GRPO\: Stabilized GRPO for AR-diffusion Hybrid Image Generation](<http://arxiv.org/abs/2604.06966>) | Conference paper | OpenAlex |
 | 2026‑11‑06 | [Enabling Proactive Spoken Turns via a Generalized Style-Aware Full-Duplex Framework](<https://arxiv.org/abs/2608.28630>) | Conference paper | OpenAlex |
@@ -1116,11 +1130,11 @@
 | 2026‑05‑12 | [Learning Agentic Policy from Action Guidance](<https://arxiv.org/abs/2605.12004>) | Preprint | OpenAlex |
 | 2026‑05‑12 | [Fill the GAP\: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models](<https://arxiv.org/abs/2605.12374>) | Preprint | OpenAlex |
 | 2026‑05‑12 | [Qwen-Scope\: Turning Sparse Features into Development Tools for Large Language Models](<https://huggingface.co/papers/2605.11887>) | Paper | Hugging Face |
+| 2026‑05‑11 | [ALAM\: Algebraically Consistent Latent Action Model for Vision-Language-Action Models](<https://www.microsoft.com/en-us/research/publication/alam-algebraically-consistent-latent-action-model-for-vision-language-action-models/>) | Publication | OpenAlex, Official page |
 | 2026‑05‑11 | [TRACE\: Distilling Where It Matters via Token-Routed Self On-Policy Alignment](<https://arxiv.org/abs/2605.10194>) | Preprint | OpenAlex |
 | 2026‑05‑11 | [Surviving Partial Rank Failures in Wide Expert-Parallel MoE Inference](<https://arxiv.org/abs/2605.10670>) | Preprint | OpenAlex |
 | 2026‑05‑11 | [Multi-domain Multi-modal Document Classification Benchmark with a Multi-level Taxonomy](<https://arxiv.org/abs/2605.10550>) | Preprint | OpenAlex |
 | 2026‑05‑11 | [DeepSight\: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving](<https://arxiv.org/abs/2605.10564>) | Preprint | OpenAlex |
-| 2026‑05‑11 | [ALAM\: Algebraically Consistent Latent Action Model for Vision-Language-Action Models](<https://arxiv.org/abs/2605.10819>) | Preprint | OpenAlex |
 | 2026‑05‑10 | [Qwen-Image-2\.0 Technical Report](<https://huggingface.co/papers/2605.10730>) | Technical report | Official page, Hugging Face |
 | 2026‑05‑10 | [PDEAgent-Bench\: A Multi-Metric, Multi-Library Benchmark for PDE Solver Generation](<https://arxiv.org/abs/2605.09636>) | Preprint | OpenAlex |
 | 2026‑05‑09 | [UserGPT Technical Report](<https://arxiv.org/abs/2605.08766>) | Preprint | OpenAlex |

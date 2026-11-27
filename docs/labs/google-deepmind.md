@@ -1,7 +1,7 @@
 # Google/DeepMind Papers
 
 - Region: `US`
-- Papers: `5965`
+- Papers: `5974`
 - Latest: `2026-11-24`
 - [Back to README](../../README.md#googledeepmind)
 
@@ -15,8 +15,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [Discovering Bandwidth-Efficient Prefetchers to Shrink the Cache Hierarchy](<https://arxiv.org/abs/2611.31983>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [BrightRate-LM\: Representation-Aware Reasoning Quality Assessment for User-Generated HDR Video](<https://doi.org/10.21203/rs.3.rs-10832291/v1>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Dynamic Reasoning in Next-Gen Detection and Response\: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion](<https://arxiv.org/abs/2611.33470v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [Learning the Next Best Move with Visual Diffusion Models](<https://arxiv.org/abs/2611.30879>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Can Latent Reasoning Drive LLM Outputs Without a Trace?](<https://arxiv.org/abs/2611.31015>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [DeepDOSReasoner\: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery](<https://arxiv.org/abs/2611.29132>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [ComplexIF\: A Challenging Multi-Turn, Multi-Constraint Instruction-Following Benchmark](<https://arxiv.org/abs/2611.29775>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Benchmarking Non-Invasive Speech BCIs\: Lessons Learned from the 2025 PNPL Competition](<https://proceedings.mlr.press/v276/elvers26a.html>) | Conference paper | OpenAlex |
+| 2026‑11‑21 | [Muted Distillation\: Sealing Reasoning from Teacher Unlocks Token-Efficient Agents](<https://arxiv.org/abs/2611.28445>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [Ads for Agents\: Measuring Ad-Serving MCP Servers](<https://arxiv.org/abs/2611.28911>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Video-as-Weights\: Compiling a Video Once into Parametric and Token Memory](<https://arxiv.org/abs/2611.28221>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [The Dual-Tier Sentiment Framework\: Scalable Multimodal UX Attribution in Web Search](<https://arxiv.org/abs/2611.27899>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations](<https://arxiv.org/abs/2611.27007>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Reliable Behavior Discovery via False Discovery Rate Control](<https://arxiv.org/abs/2611.27104v1>) | Paper | Verified affiliation |
@@ -1580,6 +1589,8 @@
 | 2026 | [Abstain and Validate\: A Dual-LLM Policy for Reducing Noise in Agentic Program Repair](<https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/>) | Publication | Official page, OpenAlex |
 | 2026 | [Towards conversational artificial intelligence for disease management](<https://research.google/pubs/towards-conversational-ai-for-disease-management/>) | Publication | Official page, OpenAlex |
 | 2026 | [TCO-driven Storage Provisioning for Exascale Data Centers](<https://research.google/pubs/tco-driven-storage-provisioning-for-exascale-data-centers/>) | Publication | Official page, OpenAlex |
+| 2026 | [RosettaTrace\: Human interpretable protein sequence design using rollout-guided search with Large Language Models](<https://research.google/pubs/rosettatrace-human-interpretable-protein-sequence-design-using-rollout-guided-search-with-large-language-models/>) | Publication | Official page |
+| 2026 | [LiSA\: Lifelong Safety Adaptation via Conservative Policy Induction](<https://research.google/pubs/lisa-lifelong-safety-adaptation-via-conservative-policy-induction-2/>) | Publication | Official page, OpenAlex |
 | 2026 | [Vibe Coding XR\: Accelerating AI + XR Prototyping with XR Blocks and Gemini](<https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/>) | Publication | Official page, Verified affiliation, OpenAlex |
 | 2026 | [Prompt-Level Distillation\: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning](<https://research.google/pubs/prompt-level-distillation-a-non-parametric-alternative-to-model-fine-tuning-for-efficient-reasoning/>) | Publication | Official page, OpenAlex, Hugging Face |
 | 2026 | [A large language model for complex cardiology care](<https://research.google/pubs/a-large-language-model-for-complex-cardiology-care/>) | Publication | OpenAlex, Official page |
@@ -1693,7 +1704,6 @@
 | 2026 | [SKILL\.state\: Scalable Long-Horizon Agent Skills](<https://research.google/pubs/skillstate-scalable-long-horizon-agent-skills/>) | Publication | Official page |
 | 2026 | [SIGMA\: Scalable Spectral Insights for LLM Collapse](<https://research.google/pubs/sigma-scalable-spectral-insights-for-llm-collapse/>) | Publication | Official page |
 | 2026 | [SHOC\: Scalable 4D Hand-Object Capture via Spatiotemporal Priors and Physics-Aware Splatting](<https://research.google/pubs/shoc-scalable-4d-hand-object-capture-via-spatiotemporal-priors-and-physics-aware-splatting/>) | Publication | Official page |
-| 2026 | [RosettaTrace\: Human interpretable protein sequence design using rollout-guided search with Large Language Models](<https://research.google/pubs/rosettatrace-human-interpretable-protein-sequence-design-using-rollout-guided-search-with-large-language-models/>) | Publication | Official page |
 | 2026 | [Rethinking Reliability for Generative AI Workloads in Cloud Environments](<https://research.google/pubs/rethinking-reliability-for-generative-ai-workloads-in-cloud-environments/>) | Publication | Official page |
 | 2026 | [Rethinking Context-Enriched Time-Series Forecasting Evaluation](<https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/>) | Publication | Official page |
 | 2026 | [Responsible Health AI\: Psychometric Validation of a Novel Health Information Quality Assessment Tool for GenAI](<https://research.google/pubs/responsible-health-ai-psychometric-validation-of-a-novel-health-information-quality-assessment-tool-for-genai/>) | Publication | Official page |
@@ -1779,7 +1789,6 @@
 | 2026 | [Location Not Found\: Exposing Implicit Local and Global Biases in Multilingual LLMs](<https://research.google/pubs/location-not-found-exposing-implicit-local-and-global-biases-in-multilingual-llms/>) | Publication | Official page, OpenAlex |
 | 2026 | [Linear-Core Surrogates\: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](<https://research.google/pubs/linear-core-surrogates-smooth-loss-functions-with-linear-rates-for-classification-and-structured-prediction/>) | Publication | Official page |
 | 2026 | [LibEvoBench\: Probing Temporal Knowledge Startification in Code Generation Models](<https://research.google/pubs/libevobench-probing-temporal-knowledge-startification-in-code-generation-models/>) | Publication | Official page |
-| 2026 | [LiSA\: Lifelong Safety Adaptation via Conservative Policy Induction](<https://research.google/pubs/lisa-lifelong-safety-adaptation-via-conservative-policy-induction-2/>) | Publication | Official page, OpenAlex |
 | 2026 | [Leveraging LLMs to Understand Public Perception of Earthquake Early Warnings\: A Case Study of the 2025 M6\.2 Türkiye Earthquake](<https://research.google/pubs/leveraging-llms-to-understand-public-perception-of-earthquake-early-warnings-a-case-study-of-the-2025-m62-t%C3%BCrkiye-earthquake/>) | Publication | Official page |
 | 2026 | [Lessons learned from building an agent to convert the R Forecast Package into a JAX api](<https://research.google/pubs/lessons-learned-from-building-an-agent-to-convert-the-r-forecast-package-into-a-jax-api/>) | Publication | Official page |
 | 2026 | [Learning from Equivalence Queries, Revisited](<https://research.google/pubs/learning-from-equivalence-queries-revisited/>) | Publication | Official page, OpenAlex |

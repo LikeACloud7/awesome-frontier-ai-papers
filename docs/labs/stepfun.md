@@ -1,8 +1,8 @@
 # StepFun Papers
 
 - Region: `China`
-- Papers: `170`
-- Latest: `2026-11-20`
+- Papers: `171`
+- Latest: `2026-11-23`
 - [Back to README](../../README.md#stepfun)
 
 ## No date
@@ -17,6 +17,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑23 | [GHC\:Expanding Residual Interfaces in Hyper-Connections](<https://arxiv.org/abs/2611.31350>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [ArcTrace\: Black-Box Ownership Verification of LLM-Based Forecasting Models via Learned Numeric Preferences](<https://doi.org/10.21203/rs.3.rs-11528359/v1>) | Preprint | OpenAlex |
 | 2026‑11‑11 | [eDMD\: Endpoint Distribution Matching for Few-Step Diffusion Distillation](<https://huggingface.co/papers/2611.17194>) | Preprint | Verified affiliation, OpenAlex, Official page |
 | 2026‑11‑03 | [Efficient and Faithful High-Resolution Image Editing with Sparse Cross-Resolution Denoising](<https://arxiv.org/abs/2611.04416>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1979`
+- Papers: `1985`
 - Latest: `2026-11-24`
 - [Back to README](../../README.md#bytedanceseed)
 
@@ -18,6 +18,10 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑24 | [RWKV-MIL\: Efficient Weakly Supervised Histopathology Image Segmentation via Hilbert Curve-Based Linear Attention](<https://doi.org/10.3390/diagnostics16233950>) | Article | OpenAlex |
+| 2026‑11‑24 | [VividAudio\: Multi-Event Reference-Conditioned Video-to-Audio Generation](<https://arxiv.org/abs/2611.32458>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [BenchMint\: From Real-World Tasks to Executable Benchmarks](<https://arxiv.org/abs/2611.29367>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [Open Vision Banana\: An Open Framework for Unified Visual Perception through Generation in RGB Space](<https://arxiv.org/abs/2611.28489>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [AlignHand\: Multi-View Hand Reconstruction from a Frozen Monocular Prior](<https://arxiv.org/abs/2611.28979>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Twindex\: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving](<https://arxiv.org/abs/2611.25078>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RoughCut-Bench\: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models](<https://arxiv.org/abs/2611.24098>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RSIBench-Infra\: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?](<https://arxiv.org/abs/2611.24395>) | Preprint | OpenAlex |
@@ -25,6 +29,7 @@
 | 2026‑11‑18 | [Homeward\: No Place Like the Training View](<https://doi.org/10.48550/arxiv.2611.24455>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [SCRIPT\: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control](<https://arxiv.org/abs/2605.22894>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [DanceHMR\: Hand-Aware Whole-Body Human Mesh Recovery from Monocular Videos](<https://arxiv.org/abs/2605.18102>) | Conference paper | OpenAlex |
+| 2026‑11‑17 | [VideoGym\: An Adaptive RL Environment for Long-Video Agents](<https://arxiv.org/abs/2611.28102>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [The Resolution Hypothesis\: Agent Evolution's Key Is Identifying Improvements](<https://arxiv.org/abs/2611.23068>) | Preprint | OpenAlex |
 | 2026‑11‑17 | [TexSpot\: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](<http://arxiv.org/abs/2602.12157>) | Conference paper | OpenAlex |
 | 2026‑11‑17 | [SEAM\: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](<https://arxiv.org/abs/2611.22971>) | Preprint | OpenAlex |
@@ -1318,6 +1323,7 @@
 | 2025‑01‑01 | [R-KV\: Redundancy-aware KV Cache Compression for Reasoning Models](<https://www.microsoft.com/en-us/research/publication/r-kv-redundancy-aware-kv-cache-compression-for-reasoning-models/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [MMAR\: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix](<https://www.microsoft.com/en-us/research/publication/mmar-a-challenging-benchmark-for-deep-reasoning-in-speech-audio-music-and-their-mix/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [Linear Differential Vision Transformer\: Learning Visual Contrasts via Pairwise Differentials](<https://www.microsoft.com/en-us/research/publication/linear-differential-vision-transformer-learning-visual-contrasts-via-pairwise-differentials/>) | Publication | Official page, OpenAlex |
+| 2025‑01‑01 | [E2Former\: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products](<https://www.microsoft.com/en-us/research/publication/e2former-a-linear-time-efficient-and-equivariant-transformer-for-scalable-molecular-modeling/>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [PaSa\: An LLM Agent for Comprehensive Academic Paper Search](<https://seed.bytedance.com/en/research/pasa-an-llm-agent-for-comprehensive-academic-paper-search>) | Publication | Official page, OpenAlex |
 | 2025‑01‑01 | [OmniSVG\: A Unified Scalable Vector Graphics Generation Model](<https://huggingface.co/papers/2504.06263>) | Technical report | Official page, OpenAlex |
 | 2025‑01‑01 | [A survey of multilingual large language models](<https://doi.org/10.1016/j.patter.2024.101118>) | Article | OpenAlex |
