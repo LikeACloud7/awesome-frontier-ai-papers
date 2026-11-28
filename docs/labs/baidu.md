@@ -1,7 +1,7 @@
 # Baidu Papers
 
 - Region: `China`
-- Papers: `1167`
+- Papers: `1168`
 - Latest: `2026-11-24`
 - [Back to README](../../README.md#baidu)
 
@@ -12,6 +12,7 @@
 | 2026‑11‑24 | [RecurSciBench\: Benchmarking Recursive Self-Improvement in Data-Driven Scientific Research](<https://arxiv.org/abs/2611.32508>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Do learned image captioning metrics generalize? Auditing duplicated samples in human-judgment benchmarks](<https://arxiv.org/abs/2611.30488>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [VICA\: Video Contextual Agreement for AIGC Video Detection and Localization](<https://arxiv.org/abs/2611.28485>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [X-AQA\: Unifying Action Quality Assessment with Multimodal Large Language Models and Multi-Domain Learning](<https://arxiv.org/abs/2611.28548>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [OmniMorpher\: Zero-Inversion and Zero-Tuning 3D Morphing via Rectified-Flow Interpolation](<https://doi.org/10.1109/tvcg.2026.3756111>) | Article | OpenAlex |
 | 2026‑11‑19 | [Unsupervised unified thin cloud removal via physics-based decoupling and infrared-assisted adversarial learning](<https://doi.org/10.1016/j.isprsjprs.2026.10.026>) | Article | OpenAlex |
 | 2026‑11‑19 | [HiUni\: Harmonizing Understanding and Generation in Shared Visual Space](<https://arxiv.org/abs/2611.26107v1>) | Paper | Verified affiliation |

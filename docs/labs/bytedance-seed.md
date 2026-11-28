@@ -1,8 +1,8 @@
 # ByteDance/Seed Papers
 
 - Region: `China`
-- Papers: `1985`
-- Latest: `2026-11-24`
+- Papers: `1988`
+- Latest: `2026-11-25`
 - [Back to README](../../README.md#bytedanceseed)
 
 ## No date
@@ -17,11 +17,13 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑25 | [Mixture-of-Loops Transformer](<https://arxiv.org/abs/2611.34923>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [RWKV-MIL\: Efficient Weakly Supervised Histopathology Image Segmentation via Hilbert Curve-Based Linear Attention](<https://doi.org/10.3390/diagnostics16233950>) | Article | OpenAlex |
 | 2026‑11‑24 | [VividAudio\: Multi-Event Reference-Conditioned Video-to-Audio Generation](<https://arxiv.org/abs/2611.32458>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [BenchMint\: From Real-World Tasks to Executable Benchmarks](<https://arxiv.org/abs/2611.29367>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Open Vision Banana\: An Open Framework for Unified Visual Perception through Generation in RGB Space](<https://arxiv.org/abs/2611.28489>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [AlignHand\: Multi-View Hand Reconstruction from a Frozen Monocular Prior](<https://arxiv.org/abs/2611.28979>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Alignment under Hard Negative Re-Pairing\: Cross-Modal Similarity, Scale and Retrieval](<https://arxiv.org/abs/2611.28336>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [Twindex\: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving](<https://arxiv.org/abs/2611.25078>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RoughCut-Bench\: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models](<https://arxiv.org/abs/2611.24098>) | Preprint | OpenAlex |
 | 2026‑11‑18 | [RSIBench-Infra\: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?](<https://arxiv.org/abs/2611.24395>) | Preprint | OpenAlex |
@@ -81,6 +83,7 @@
 | 2026‑11‑01 | [Rumor Detection in User Retweet Networks with Uniform Prompt Graphs](<https://doi.org/10.1016/j.patrec.2026.11.018>) | Article | OpenAlex |
 | 2026‑11‑01 | [MAC-Bench\: Benchmarking Multi-Agent Collaboration via Interconnected Tasks](<https://arxiv.org/abs/2611.01728>) | Preprint | OpenAlex |
 | 2026‑11‑01 | [LLM-driven optimization of cooperative computation offloading in space-ground integrated satellite relay networks](<https://doi.org/10.1016/j.comcom.2026.108736>) | Article | OpenAlex |
+| 2026‑11‑01 | [Distributionally-Verifiable Rewards for Human-Behavior Simulation](<https://arxiv.org/abs/2611.28048>) | Preprint | OpenAlex |
 | 2026‑10‑30 | [Hierarchical Residuals\: A Minimalist Decoupling of Residual Width from Compute Width](<https://seed.bytedance.com/en/research/hierarchical-residuals-a-minimalist-decoupling-of-residual-width-from-compute-width>) | Publication | OpenAlex, Hugging Face, Official page |
 | 2026‑10‑30 | [SparseGDN\: Chunk Sparse in Linear Attention](<https://arxiv.org/abs/2610.41420>) | Preprint | OpenAlex |
 | 2026‑10‑29 | [Training LLM Agents to Automate LLM Post-Training with RSI-Dojo](<https://arxiv.org/abs/2611.03698>) | Preprint | OpenAlex |

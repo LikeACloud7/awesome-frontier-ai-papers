@@ -1,8 +1,8 @@
 # Tencent/Hunyuan Papers
 
 - Region: `China`
-- Papers: `4034`
-- Latest: `2026-11-25`
+- Papers: `4043`
+- Latest: `2026-11-27`
 - [Back to README](../../README.md#tencenthunyuan)
 
 ## No date
@@ -26,11 +26,17 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑27 | [Automated Identification of Teacher Autonomy-Supportive Behaviors Based on Self-Determination Theory\: A Deep Learning-Based Text Modeling Approach](<https://doi.org/10.3390/bs16122274>) | Article | OpenAlex |
+| 2026‑11‑25 | [PoVi\: Agentic Poetry-to-Video Generation with Knowledge Grounding and Figurative Understanding](<https://arxiv.org/abs/2611.34690>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [One Ocean, Many Tasks\: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics](<https://arxiv.org/abs/2611.34925>) | Preprint | OpenAlex |
 | 2026‑11‑25 | [Narrative Action Evaluation With Contrastive Text Generation](<https://doi.org/10.1109/tpami.2026.3756994>) | Article | OpenAlex |
+| 2026‑11‑25 | [InstructTTS-OPD\: On-Policy Distillation for Multi-Objective Instruction-Following TTS](<https://arxiv.org/abs/2611.33937>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [DRBench Pro\: A Knowledge-Centric Benchmark for Professional Deep Research Agents](<https://arxiv.org/abs/2611.34852>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [DFly2\: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity](<https://arxiv.org/abs/2611.34776>) | Preprint | OpenAlex |
 | 2026‑11‑25 | [An automatic generation method of piano fingerings based on BiGRU and model reinforcement learning](<https://doi.org/10.1007/s44163-026-02763-2>) | Article | OpenAlex |
 | 2026‑11‑24 | [SPARC\: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation](<https://huggingface.co/papers/2611.34064>) | Preprint | Official page |
-| 2026‑11‑24 | [ProxyGenBench\: Benchmarking Proxy-Guided Video Generation](<https://huggingface.co/papers/2611.34457>) | Preprint | Official page |
-| 2026‑11‑24 | [AIRIS\: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos](<https://huggingface.co/papers/2611.34347>) | Preprint | Official page |
+| 2026‑11‑24 | [ProxyGenBench\: Benchmarking Proxy-Guided Video Generation](<https://huggingface.co/papers/2611.34457>) | Preprint | Official page, OpenAlex |
+| 2026‑11‑24 | [AIRIS\: Benchmarking Social Embodied Intelligence in Egocentric Streaming Videos](<https://huggingface.co/papers/2611.34347>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑24 | [SkillCore\: Internalizing Generalizable Skills via Scaffolding-Removed Fine-Tuning](<https://arxiv.org/abs/2611.32246>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Online Environment Repair for Coding Agents](<https://arxiv.org/abs/2611.32037>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [LookAnything\: A Foundation Model for Holistic Gaze Following](<https://arxiv.org/abs/2611.32351>) | Preprint | OpenAlex |
@@ -39,11 +45,14 @@
 | 2026‑11‑24 | [Coding4Games\: Can Modern Coding Agents Play Modern Video Games?](<https://arxiv.org/abs/2611.31974>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [OmniEVIE\: Evidence-Vector-Informed Embedding for Multi-modal Retrieval](<https://arxiv.org/abs/2611.32203v1>) | Paper | Verified affiliation, OpenAlex |
 | 2026‑11‑23 | [VenusOCR2\.0\: Towards Efficient and Effective Document Parsing](<https://huggingface.co/papers/2611.32617>) | Preprint | Official page, OpenAlex |
+| 2026‑11‑23 | [LeadVLA\: Learning Follower-Aware Route Execution for Robot Leading](<https://arxiv.org/abs/2611.30149>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [EmboEagle\: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation](<https://arxiv.org/abs/2611.31173>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [3AGameFactory-Motion\: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets](<https://arxiv.org/abs/2611.30013>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [WeMM-Ecom\: Advancing Multimodal Content Understanding for WeChat E-Commerce](<https://huggingface.co/papers/2611.30662>) | Preprint | Official page, OpenAlex |
 | 2026‑11‑22 | [A Pipeline-Parallel System for Depth-Recurrent Models](<https://huggingface.co/papers/2611.30581>) | Preprint | Official page |
 | 2026‑11‑22 | [A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation](<https://arxiv.org/abs/2611.29338>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [GravHMR\: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame](<https://arxiv.org/abs/2611.29614>) | Preprint | OpenAlex |
+| 2026‑11‑21 | [StudioBench\: Benchmarking Agentic Multimodal Large Language Models for Productive Audiovisual Creation](<https://arxiv.org/abs/2611.28902>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [SUAF\: Spectral Universal Advantage Features for Zero-Shot Policy Improvement](<https://arxiv.org/abs/2611.27919>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Physics-Guided Recursive Self-Improvement of Amortized Bayesian Inference Across Physics](<https://arxiv.org/abs/2611.27006>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [PP-CFG\: Polarity-Preserving Guidance for Controllable Few-Step Image and Video Generation](<https://arxiv.org/abs/2611.27266>) | Preprint | OpenAlex |

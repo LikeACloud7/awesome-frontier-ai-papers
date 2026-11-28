@@ -1,8 +1,8 @@
 # Meta/FAIR Papers
 
 - Region: `US`
-- Papers: `1981`
-- Latest: `2026-11-22`
+- Papers: `1983`
+- Latest: `2026-11-24`
 - [Back to README](../../README.md#metafair)
 
 ## No date
@@ -44,6 +44,7 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑24 | [Online Prediction System for Proactive Autoscaling](<https://arxiv.org/abs/2611.33332>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [When Does Decomposition Help? Empirical Study on Workload-Architecture Affinity in LLM Inference Serving](<https://arxiv.org/abs/2611.29104>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [S1Arena-MM\: Which Multimodal Decisions Can Be Left to System 1?](<https://arxiv.org/abs/2611.29773>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Benchmarking Non-Invasive Speech BCIs\: Lessons Learned from the 2025 PNPL Competition](<https://proceedings.mlr.press/v276/elvers26a.html>) | Conference paper | OpenAlex |
@@ -64,6 +65,7 @@
 | 2026‑11‑14 | [A Personalized, Hierarchical Framework for Inferring Competing Task Demands in Pedestrian Augmented Reality](<https://doi.org/10.1145/3822517.3848727>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Unbundling Multimodal Vision Encoding](<https://ai.meta.com/research/publications/unbundling-multimodal-vision-encoding/>) | Publication | Official page |
 | 2026‑11‑12 | [Reasoning Under Promised Distributions\: Evaluating LLMs on Black-Box Reduction Rigor](<https://doi.org/10.1007/978-3-032-42447-1_7>) | Conference paper | OpenAlex |
+| 2026‑11‑12 | [Local Coordination for Efficient Small-Model RL on TPUs](<https://arxiv.org/abs/2611.16301v3>) | Paper | Verified affiliation |
 | 2026‑11‑09 | [OmniFaceRig\: Fully Automatic Inner-Mouth-Aware Face Rigging Across Diverse 3D Character Topologies](<https://arxiv.org/abs/2606.08043>) | Article | OpenAlex |
 | 2026‑11‑09 | [Snapshot Polarimetric Display Inverse Rendering](<https://arxiv.org/abs/2605.24915>) | Article | OpenAlex |
 | 2026‑11‑09 | [AROMA \: Augmented Reality Optimized Tone Mapping](<https://doi.org/10.1145/3842539>) | Article | OpenAlex |

@@ -1,8 +1,8 @@
 # Huawei/Noah Papers
 
 - Region: `China`
-- Papers: `4291`
-- Latest: `2026-11-26`
+- Papers: `4297`
+- Latest: `2026-11-27`
 - [Back to README](../../README.md#huaweinoah)
 
 ## No date
@@ -15,10 +15,16 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
+| 2026‑11‑27 | [A Generalized Primary Data Share Method for Life Cycle Assessment Including Activity Data](<https://doi.org/10.37394/23201.2027.26.2>) | Article | OpenAlex |
 | 2026‑11‑26 | [Parallel Scan on Ascend AI accelerators](<https://doi.org/10.1145/3872175>) | Article | OpenAlex |
+| 2026‑11‑25 | [BReD\: Block Replay Dithering for Stable Low-Bit EMA Optimizer States](<https://arxiv.org/abs/2611.33951>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [Agentic Waterfall\: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy](<https://arxiv.org/abs/2611.34407>) | Preprint | OpenAlex |
 | 2026‑11‑25 | [FlipVLA\: Backdoor Attacks on Vision-Language-Action(VLA) Models Only Through Bit Flips](<https://arxiv.org/abs/2611.33810v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [VC-OPD\: Learning to See What Matters via Visual Cue On-Policy Self-Distillation](<https://arxiv.org/abs/2611.32292>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Towards a Multimodal Aesthetic Agent for Photographic Reference Grading](<https://arxiv.org/abs/2611.32299>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [RISE\: Reasoning with Implicit State Embeddings for GUI Agents](<https://arxiv.org/abs/2611.32102>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [HiCal\: Offline Calibration for Hierarchical Scale Encoding in Accurate HiF4 Quantization](<https://arxiv.org/abs/2611.32624>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [GUI-PRISM\: Efficient Action Decoding for GUI Agents](<https://arxiv.org/abs/2611.32097>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [SpaFID\: Predictive Inverse Dynamics for 3D-Aware Robotic Manipulation with Spatial Foresight](<https://doi.org/10.3390/machines14121395>) | Article | OpenAlex |
 | 2026‑11‑23 | [Look Back, Draft Ahead\: Corrective Prefix Attention for Parallel Speculative Decoding](<https://arxiv.org/abs/2611.31112>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [GeoMVGen\: Joint Appearance-Geometry Modeling for Multi-View Video Generation in Robotic Manipulation](<https://arxiv.org/abs/2611.31689>) | Preprint | OpenAlex |
@@ -26,6 +32,7 @@
 | 2026‑11‑22 | [MetaSkill\: Reusable Problem-Solving Methods for Adaptive Skill Orchestration in LLM Agents](<https://arxiv.org/abs/2611.29274>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [Layer-Level Control of Language Model Execution in Agent Frameworks](<https://arxiv.org/abs/2611.29519>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [Generating Safety-Critical Driving Scenarios from Role-Typed Signal Temporal Logic Specifications Drafted by Large Language Models](<https://arxiv.org/abs/2611.29800>) | Preprint | OpenAlex |
+| 2026‑11‑22 | [AutoRPG\: Harnessing Systematic AI for Non-Intrusive Low-Latency Mobile RPG Combat](<https://arxiv.org/abs/2611.29673>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Adapting AI Weather Foundation Models to a Changing Climate](<https://arxiv.org/abs/2611.27605>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Towards Scale-Up Networking\: Challenges and Open Questions](<https://arxiv.org/abs/2611.26156>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Stop Going in Circles\:Loop-Triggered Routing for System 1 Decision Agents](<https://arxiv.org/abs/2611.25363>) | Preprint | OpenAlex |
@@ -484,10 +491,9 @@
 | 2026‑08‑09 | [Reading is not Reasoning\: Bridging the Agentic Policy Gap in Vision-Text Compression](<https://arxiv.org/abs/2608.08960>) | Preprint | OpenAlex |
 | 2026‑08‑09 | [ARMOR\: Accelerating RTL Simulation by Mitigating the Front-End Bottleneck Using Node Compression](<https://arxiv.org/abs/2608.08462v1>) | Paper | Verified affiliation |
 | 2026‑08‑08 | [VDGR-RAG\: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge](<https://arxiv.org/abs/2608.07994>) | Preprint | OpenAlex |
-| 2026‑08‑08 | [TongGuOCR\: A Layout-Aware and Token-Augmented OCR MLLM for Chinese Historical Documents](<https://arxiv.org/abs/2608.07917>) | Preprint | OpenAlex |
 | 2026‑08‑08 | [Selecting and Combining Large Language Models in Scalable Code Clone Detection](<http://arxiv.org/abs/2510.15480>) | Article | OpenAlex |
-| 2026‑08‑07 | [Vision Meets WiFi\: Physics-Grounded Estimation of Volumetric Mechanical Properties](<https://arxiv.org/abs/2608.07726>) | Preprint | OpenAlex |
 | 2026‑08‑07 | [TongGuOCR\: A Layout-Aware and Token-Augmented OCR Framework for Chinese Historical Documents](<https://doi.org/10.21203/rs.3.rs-10564956/v1>) | Preprint | OpenAlex |
+| 2026‑08‑07 | [Vision Meets WiFi\: Physics-Grounded Estimation of Volumetric Mechanical Properties](<https://arxiv.org/abs/2608.07726>) | Preprint | OpenAlex |
 | 2026‑08‑07 | [Take a Further Step Beyond Data Augmentation\: Augmented Knowledge Purification for Federated Recommendation](<https://doi.org/10.1145/3770855.3818031>) | Conference paper | OpenAlex |
 | 2026‑08‑07 | [SLOPE\: Fine-Grained Log Parser Combining Syntax with LLM-Distilled Semantic](<https://doi.org/10.1145/3838599>) | Article | OpenAlex |
 | 2026‑08‑07 | [RoRA\: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs](<https://arxiv.org/abs/2608.07088>) | Preprint | OpenAlex |

@@ -1,7 +1,7 @@
 # NVIDIA Papers
 
 - Region: `US`
-- Papers: `2302`
+- Papers: `2311`
 - Latest: `2026-11-25`
 - [Back to README](../../README.md#nvidia)
 
@@ -17,27 +17,36 @@
 
 | Date | Paper | Type | Source |
 |---|---|---|---|
-| 2026‑11‑25 | [Navigating the Optimization Gap\: Challenges and Improvements in Deep Learning Model Deployment](<https://doi.org/10.1613/jair.1.22113>) | Article | OpenAlex |
 | 2026‑11‑25 | [Letting Models Manage Their Own Context\: Where We Stand](<https://huggingface.co/papers/2611.34147>) | Paper | Hugging Face |
+| 2026‑11‑25 | [Split-RL\: Local Conflict Resolution in Reinforcement Learning](<https://arxiv.org/abs/2611.34799>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [Navigating the Optimization Gap\: Challenges and Improvements in Deep Learning Model Deployment](<https://doi.org/10.1613/jair.1.22113>) | Article | OpenAlex |
 | 2026‑11‑25 | [Artificial intelligence and machine learning for short-to-medium range weather prediction](<https://doi.org/10.1038/s43017-026-00849-0>) | Review | OpenAlex |
 | 2026‑11‑25 | [SOLVE\: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator](<https://arxiv.org/abs/2611.34750v1>) | Paper | Verified affiliation |
+| 2026‑11‑25 | [Improving Tail-Augmented Speculative Drafting with Hidden State Mixing and Gradient Detach](<https://arxiv.org/abs/2611.34092v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [TimeTravelContainer\: A Live Forking Sandbox for Stateful Agent Exploration](<https://arxiv.org/abs/2611.32255>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [ShellBench\: What Matters More for AI Agents, Models, or Harness for Everyday Tasks](<https://arxiv.org/abs/2611.32946>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Regularizing elastic full-waveform inversion using a conditional denoising probabilistic model](<https://doi.org/10.36922/jse026230099>) | Article | OpenAlex |
+| 2026‑11‑24 | [Reducing T gates in product formulas with agent loops](<https://arxiv.org/abs/2611.33509>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Recursive Collective Intelligence\: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems](<https://arxiv.org/abs/2611.32606>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [PyRUA-Dex\: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](<https://arxiv.org/abs/2611.33144>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [CoT-Proxy\: Cross-Format Transfer for Distilling Long-Horizon Policies](<https://arxiv.org/abs/2611.33148>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Attestation is All You Need\: Toward a Zero-Trust Architecture for HPC AI Agents](<https://arxiv.org/abs/2611.32958>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Instant LiDAR\: Feed-Forward Gaussian Reconstruction for LiDAR Simulation](<https://arxiv.org/abs/2611.32042v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [Generalized Tensor Parallelism\: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s](<https://arxiv.org/abs/2611.32057v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [FocusAnchor\: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues](<https://arxiv.org/abs/2611.32970v1>) | Paper | Verified affiliation |
 | 2026‑11‑24 | [A Mesh to Remember\: Persistent Appearance for Interactive Video Worlds](<https://arxiv.org/abs/2611.32445v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [Ego2Wrist\: Bootstrapping Wrist-View Synthesis from Egocentric Video](<https://arxiv.org/abs/2611.29850>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Topology-Prior-Guided Regional Latent Dynamics for Transient Structural Response Prediction](<https://arxiv.org/abs/2611.30293>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Real2Worlds2Real\: Scaling Self-Improving Agentic Real2Sim2Real for Robot Manipulation](<https://arxiv.org/abs/2611.31098>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Model evaluation metrics of Virtual Cell Challenge 2026](<https://doi.org/10.64898/2026.11.17.767214>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [Learning Neurovascular Codes for EEG-to-fMRI Synthesis](<https://arxiv.org/abs/2611.31194>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Nemotron-Labs-VisualCreation\: Pixel as Code for Agentic Visual Creation](<https://arxiv.org/abs/2611.31358v1>) | Paper | Verified affiliation |
 | 2026‑11‑23 | [Lyris\: Layout-Guided Long Video Generation with Persistent 3D Memory](<https://arxiv.org/abs/2611.31239v2>) | Paper | Verified affiliation |
 | 2026‑11‑22 | [Tacinf\: A Unified Tactile Infrastructure for Robot Manipulation](<https://arxiv.org/abs/2611.29240v1>) | Paper | Verified affiliation |
 | 2026‑11‑21 | [Analytical Modeling and Optimal GPU Provisioning for Disaggregated LLM Inference](<https://arxiv.org/abs/2611.28760>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Composable Soft-Prompt Distillation of RL Experts\: Toward Continual Post-Training](<https://arxiv.org/abs/2611.27376>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Beyond outcome rewards\: Post-rationale distribution optimization for selective prediction in reasoning models](<https://arxiv.org/abs/2609.38850>) | Preprint | OpenAlex |
+| 2026‑11‑20 | [Granary-v2\: Scalable Multilingual Speech Data Curation for Predictable and Controllable Model Outputs](<https://arxiv.org/abs/2611.28248v1>) | Paper | Verified affiliation |
 | 2026‑11‑19 | [SiliconGym\: A Versatile Reinforcement Learning Environment for Agentic EDA](<https://arxiv.org/abs/2611.25658>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [Posterior Matching Distillation](<https://arxiv.org/abs/2611.26629>) | Preprint | OpenAlex |
 | 2026‑11‑19 | [VideoRNG\: Relightable Neural Gaussians from Generative Video Models](<https://arxiv.org/abs/2611.25338v1>) | Paper | Verified affiliation |

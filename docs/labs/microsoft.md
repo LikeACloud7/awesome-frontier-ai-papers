@@ -1,7 +1,7 @@
 # Microsoft Papers
 
 - Region: `US`
-- Papers: `4508`
+- Papers: `4515`
 - Latest: `2026-11-26`
 - [Back to README](../../README.md#microsoft)
 
@@ -112,7 +112,6 @@
 | n\.d\. | [PolyMind\: Exploring Width Scaling for Reflective Reasoning in Language Agents](<https://www.microsoft.com/en-us/research/publication/polymind-exploring-width-scaling-for-reflective-reasoning-in-language-agents/>) | Publication | Official page |
 | n\.d\. | [Policy2Code\: Comparing Approaches for Generating Web Application Code from SNAP Policy](<https://www.microsoft.com/en-us/research/publication/policy2code-comparing-approaches-for-generating-web-application-code-from-snap-policy/>) | Publication | Official page |
 | n\.d\. | [PixelDense\: Dense Prediction as Representation Alignment for Pixel Diffusion](<https://www.microsoft.com/en-us/research/publication/pixeldense-dense-prediction-as-representation-alignment-for-pixel-diffusion/>) | Publication | Official page |
-| n\.d\. | [PazaBench\: Large-Scale ASR Benchmark for Low-Resource Languages in Africa](<https://www.microsoft.com/en-us/research/publication/pazabench-large-scale-asr-benchmark-for-low-resource-languages-in-africa/>) | Publication | Official page |
 | n\.d\. | [Passing the Buck to AI\: How Individuals’ Decision-Making Patterns Affect Reliance on AI](<https://www.microsoft.com/en-us/research/publication/passing-the-buck-to-ai-how-individualsae-decision-making-patterns-affect-reliance-on-ai/>) | Publication | Official page |
 | n\.d\. | [ParallelPilot\: Supporting Coordination and Monitoring in Parallel AI Coding](<https://www.microsoft.com/en-us/research/publication/parallelpilot-supporting-coordination-and-monitoring-in-parallel-ai-coding/>) | Publication | Official page |
 | n\.d\. | [PRISM\: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology](<https://www.microsoft.com/en-us/research/publication/prism-a-multi-modal-generative-foundation-model-for-slide-level-histopathology/>) | Publication | Official page |
@@ -300,22 +299,30 @@
 | Date | Paper | Type | Source |
 |---|---|---|---|
 | 2026‑11‑26 | [Towards Whole-Wavefield Inversion in Highly Scattering Volcanic Environments using Fourier Neural Operators](<https://eartharxiv.org/repository/object/11151/download/21906/>) | Article | OpenAlex |
+| 2026‑11‑25 | [SEEK\: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation](<https://arxiv.org/abs/2611.33915>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [Failure Broadens, Success Sharpens\: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory](<https://arxiv.org/abs/2611.33612>) | Preprint | OpenAlex |
+| 2026‑11‑25 | [Concept Generalization in Visual Brain Decoding via Encoder-Generated fMRI](<https://arxiv.org/abs/2611.33870>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [VoxelSlicer\: Adaptive Voxel-wise Slicer for Deformable Image Registration](<https://doi.org/10.1109/tmi.2026.3757072>) | Article | OpenAlex |
 | 2026‑11‑24 | [Sample-Efficient In-Context Adaptation via Sleep](<https://arxiv.org/abs/2611.32802>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Draft Calibration for Speculative Decoding\: Accelerating LLM Serving by Matching Draft and Target Distributions](<https://arxiv.org/abs/2611.33111>) | Preprint | OpenAlex |
+| 2026‑11‑24 | [Collaborative Language Models for Semantic IoT Data Processing\: Validation through Zero-Shot Human Activity Recognition](<https://arxiv.org/abs/2611.33411>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Auditing the Judge\: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges](<https://arxiv.org/abs/2611.33065>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [AGL-SKILL\: Coding Harnesses as Agentic Optimizers](<https://arxiv.org/abs/2611.31794>) | Preprint | OpenAlex |
 | 2026‑11‑24 | [Building a Unified Inline Code Editing Model for GitHub Copilot](<https://arxiv.org/abs/2611.33314v1>) | Paper | Verified affiliation |
+| 2026‑11‑23 | [PazaBench\: Large-Scale ASR Benchmark for Low-Resource Languages in Africa](<https://www.microsoft.com/en-us/research/publication/pazabench-large-scale-asr-benchmark-for-low-resource-languages-in-africa/>) | Publication | Official page, OpenAlex |
 | 2026‑11‑23 | [Look Before You Leap\: Re-Architecting Disk-Resident Vector Search with TriVS](<https://arxiv.org/abs/2611.29948>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [LatentLens\: Rethinking Latent Interface in Multi-Agent Systems](<https://arxiv.org/abs/2611.31582>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [E2SIM\: Long-Horizon Simulation of Everyday Human Behavior with Evolving States](<https://arxiv.org/abs/2611.31641>) | Preprint | OpenAlex |
+| 2026‑11‑23 | [CaLA\: Causal Latent Adjustment for World Models under Adaptive Policies](<https://arxiv.org/abs/2611.31431>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [COGENT\: A Modular Cognitive Architecture for Agentic User Simulation](<https://arxiv.org/abs/2611.31559>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [Airlock\: Robust Sandboxing and Governance of Rogue Agents](<https://arxiv.org/abs/2611.31010>) | Preprint | OpenAlex |
 | 2026‑11‑23 | [A Mixed-Methods Study of Personal Software Creation](<https://arxiv.org/abs/2611.31217>) | Preprint | OpenAlex |
 | 2026‑11‑22 | [A Large-Scale In Vivo Ultrasound Localization Microscopy Dataset of the Mouse Brain for Microvascular Imaging](<https://arxiv.org/abs/2606.07851>) | Data paper | OpenAlex |
-| 2026‑11‑21 | ["What Should I Do?" Guidelines for Responsibly Integrating AI in Software Engineering](<https://www.microsoft.com/en-us/research/publication/what-should-i-do-guidelines-for-responsibly-integrating-ai-in-software-engineering/>) | Publication | Verified affiliation, Official page |
+| 2026‑11‑22 | [Into My Arms\: Structured reinforcement learning for autonomous transport of objects and humans](<https://arxiv.org/abs/2611.29771>) | Preprint | OpenAlex |
+| 2026‑11‑21 | ["What Should I Do?" Guidelines for Responsibly Integrating AI in Software Engineering](<https://www.microsoft.com/en-us/research/publication/what-should-i-do-guidelines-for-responsibly-integrating-ai-in-software-engineering/>) | Publication | Verified affiliation, Official page, OpenAlex |
 | 2026‑11‑21 | [VICA\: Video Contextual Agreement for AIGC Video Detection and Localization](<https://arxiv.org/abs/2611.28485>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Trust in Machine Learning-Aided Docking\: A Systematic Review of Good Practices for Chemically Reliable Predictions](<https://doi.org/10.1021/acsomega.6c07068>) | Review | OpenAlex |
+| 2026‑11‑21 | [SafeJIT\: A Speculating JIT Engine Verified Down to the Machine Code](<https://arxiv.org/abs/2611.28436>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [HyperHarness\: Learning to Generate Personalized Agent Harnesses from User Histories](<https://arxiv.org/abs/2611.29062>) | Preprint | OpenAlex |
 | 2026‑11‑21 | [Grounding Collaborative Agents in Group Cognition](<https://arxiv.org/abs/2611.29036>) | Preprint | OpenAlex |
 | 2026‑11‑20 | [Incompressible quantum information](<https://arxiv.org/abs/2611.28361>) | Preprint | OpenAlex |
@@ -346,9 +353,9 @@
 | 2026‑11‑13 | [Microfluidic design optimization in the era of AI agents](<https://engrxiv.org/preprint/view/8800>) | Preprint | OpenAlex |
 | 2026‑11‑13 | [Ask Precisely, Assume Wisely\: Interactive Evaluation of Ambiguity Resolution in Large Language Models](<https://arxiv.org/abs/2611.18905>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [How to grade the accuracy of the BLAS](<https://arxiv.org/abs/2609.12307>) | Article | OpenAlex |
+| 2026‑11‑12 | [AI has its own style in mathematical proving](<https://www.microsoft.com/en-us/research/publication/ai-has-its-own-style-in-mathematical-proving/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [Where the World went Missing\: Geographic Inequality in Wikipedia and AI](<https://www.microsoft.com/en-us/research/publication/where-the-world-went-missing-geographic-inequality-in-wikipedia-and-ai/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [Benchmarks Don't Talk Back\: Learning Through Self-Disagreement](<https://www.microsoft.com/en-us/research/publication/benchmarks-dont-talk-back-learning-through-self-disagreement/>) | Publication | OpenAlex, Official page |
-| 2026‑11‑12 | [AI has its own style in mathematical proving](<https://www.microsoft.com/en-us/research/publication/ai-has-its-own-style-in-mathematical-proving/>) | Publication | OpenAlex, Official page |
 | 2026‑11‑12 | [The Illusion of Rust Safety\: Detecting Modular Unsafe Functions with LLMs](<https://doi.org/10.1145/3830454.3832709>) | Conference paper | OpenAlex |
 | 2026‑11‑12 | [Discrete dynamic survival analysis of epidemic case line lists](<https://doi.org/10.64898/2026.11.10.26367756>) | Preprint | OpenAlex |
 | 2026‑11‑12 | [ACM CCS Young Scholars Development Program](<https://doi.org/10.1145/3830454.3846408>) | Conference paper | OpenAlex |
@@ -2313,6 +2320,7 @@
 | 2026‑01‑01 | [Lost in Stories\: Consistency Bugs in Long Story Generation by LLMs](<https://www.microsoft.com/en-us/research/publication/lost-in-stories-consistency-bugs-in-long-story-generation-by-llms/>) | Publication | Official page, OpenAlex |
 | 2026‑01‑01 | [Improving Long-Context Summarization with Multi-Granularity Retrieval Optimization](<https://www.microsoft.com/en-us/research/publication/improving-long-context-summarization-with-multi-granularity-retrieval-optimization/>) | Publication | Official page, OpenAlex |
 | 2026‑01‑01 | [BYOL\: Bring Your Own Language into LLMs](<https://www.microsoft.com/en-us/research/publication/byol-bring-your-own-language-into-llms/>) | Publication | Official page |
+| 2026‑01‑01 | [Towards Uni fied W orld M odels for Visual Navigation via Memory-Augmented Planning and Foresight](<https://arxiv.org/abs/2510.08713>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [TAMAS\: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](<https://www.microsoft.com/en-us/research/publication/tamas-benchmarking-adversarial-risks-in-multi-agent-llm-systems/>) | Publication | Official page, OpenAlex |
 | 2026‑01‑01 | [OmniPoint\: Universal Monocular Metric Pointcloud from Any Camera](<https://www.microsoft.com/en-us/research/publication/omnipoint-universal-monocular-metric-pointcloud-from-any-camera/>) | Publication | Verified affiliation, OpenAlex, Official page |
 | 2026‑01‑01 | [LACON\: Training Text-to-Image Model from Uncurated Data](<https://www.microsoft.com/en-us/research/publication/lacon-training-text-to-image-model-from-uncurated-data/>) | Publication | Official page, OpenAlex |
@@ -2354,7 +2362,6 @@
 | 2026‑01‑01 | [VIGS-SLAM\: Visual Inertial Gaussian Splatting SLAM](<http://arxiv.org/abs/2512.02293>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Utilizing Artificial Intelligence to Revolutionize Drug Discovery and Development Processes](<https://doi.org/10.1007/978-981-96-7991-1_43>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Unmanned Aerial Vehicle Navigation Using Map-Based Localization](<https://doi.org/10.1007/978-3-032-13419-6_32>) | Conference paper | OpenAlex |
-| 2026‑01‑01 | [Towards Uni fied W orld M odels for Visual Navigation via Memory-Augmented Planning and Foresight](<https://arxiv.org/abs/2510.08713>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [The Emerging Market for Intelligence\: Pricing, Supply, and Demand for LLMs](<https://doi.org/10.2139/ssrn.5981520>) | Preprint | OpenAlex |
 | 2026‑01‑01 | [Tandem Training for Language Models](<https://doi.org/10.18653/v1/2026.eacl-long.386>) | Conference paper | OpenAlex |
 | 2026‑01‑01 | [Syntactically Convex Model-Based Projection for Linear Real Arithmetic](<https://doi.org/10.1007/978-3-032-22752-2_3>) | Conference paper | OpenAlex |
